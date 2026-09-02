@@ -59,14 +59,14 @@ from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_excep
 # ============================================================
 load_dotenv(Path(__file__).resolve().parent / ".env")  # 总是读 backend/.env，无论从仓库根还是 backend 目录运行
 
-DASHSCOPE_API_KEY = os.getenv("DASHSCOPE_API_KEY", "")
-DASHSCOPE_BASE_URL = os.getenv("DASHSCOPE_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1")
-DASHSCOPE_MODEL = os.getenv("DASHSCOPE_MODEL", "qwen-plus")
+DASHSCOPE_API_KEY = _env_clean(os.getenv("DASHSCOPE_API_KEY", ""))
+DASHSCOPE_BASE_URL = _env_clean(os.getenv("DASHSCOPE_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1"))
+DASHSCOPE_MODEL = _env_clean(os.getenv("DASHSCOPE_MODEL", "qwen-plus"))
 
-FOOTBALL_API_KEY = os.getenv("FOOTBALL_API_KEY", "")
-FOOTBALL_BASE_URL = os.getenv("FOOTBALL_BASE_URL", "https://v3.football.api-sports.io")
+FOOTBALL_API_KEY = _env_clean(os.getenv("FOOTBALL_API_KEY", ""))
+FOOTBALL_BASE_URL = _env_clean(os.getenv("FOOTBALL_BASE_URL", "https://v3.football.api-sports.io"))
 
-HF_TOKEN = os.getenv("HF_TOKEN", "")
+HF_TOKEN = _env_clean(os.getenv("HF_TOKEN", ""))
 ARXIV_MAX_RESULTS = int(os.getenv("ARXIV_MAX_RESULTS", "20"))
 
 ENABLE_LOL = os.getenv("ENABLE_LOL", "true").lower() == "true"
