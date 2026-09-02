@@ -98,6 +98,9 @@ jobs:
             echo "⏭️ 无变化，跳过提交"
           else
             git commit -m "chore: 每日更新 $(date +'%F %T')"
+            # 远端可能因 Contents API 推送（如手动改 collector.py）领先本地，
+            # 先 rebase 再 push，避免 non-fast-forward 被拒
+            git pull --rebase origin main
             git push
             echo "✅ 已推送最新数据"
           fi
