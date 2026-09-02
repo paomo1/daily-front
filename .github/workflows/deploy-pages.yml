@@ -1,0 +1,47 @@
+# ============================================================
+# 每日前线 - 部署到 GitHub Pages（Actions 模式）
+# 每次 push 到 main（含 daily-update 提交的数据）自动重新部署，
+# 线上永远展示最新 index.html + data/today.json。
+# 不需要 gh-pages 分支，也不需要 Jekyll（.nojekyll 已存在）。
+# ============================================================
+name: Deploy Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    name: 部署静态站点到 GitHub Pages
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 拉代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 配置 Pages
+        uses: actions/configure-pages@v5
+
+      - name: 上传站点产物
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # 根目录含 index.html / data/ / .nojekyll
+          path: "."
+
+      - name: 部署
+        id: deployment
+        uses: actions/deploy-pages@v4
