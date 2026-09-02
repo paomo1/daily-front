@@ -1,9 +1,251 @@
 {
-  "generated_at": "2026-09-02T10:40:14.012655+00:00",
+  "generated_at": "2026-09-02T10:47:30.420717+00:00",
   "date": "2026-09-02",
   "keep_days": 7,
-  "count": 172,
+  "count": 183,
   "items": [
+    {
+      "id": "9010850223df9541009efceaa8d0365ae39aefac42837361c23ae186dfb4e7ea",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "GR00T-Mdrift_crop192_cft-Dmergedv2-step500：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型 geonmin-kim/GR00T-Mdrift_crop192_cft-Dmergedv2-step500 目前下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/geonmin-kim/GR00T-Mdrift_crop192_cft-Dmergedv2-step500",
+      "publishedAt": "2026-09-02T10:46:32+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "99e06db469dfe54dfbd1dcd75d84fb83bad80a254a65dc6dc9be15dd3145c6f6",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Crowd-v1：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 Vxtzq/Crowd-v1，3,638 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Vxtzq/Crowd-v1",
+      "publishedAt": "2026-09-02T10:46:28+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 3638,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2286d231fe20d3b814fce5e5dc2b927a44e1e1ddbf01dcdb55c686f896ae3565",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "chrono-2019-harvest-cpt-cont：text-generation 模型更新",
+      "summary": "HuggingFace 上模型 jjjlimaus/chrono-2019-harvest-cpt-cont 为 text-generation 类型，当前下载量与点赞数均为 0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/jjjlimaus/chrono-2019-harvest-cpt-cont",
+      "publishedAt": "2026-09-02T10:46:21+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "3bf8d7a1a072919b96a5d830b3057973fe4e2619358439665a86dd9f6a6fdfe8",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "up：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 g-connito/up，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/g-connito/up",
+      "publishedAt": "2026-09-02T10:46:16+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "8eed86e1a7c2457594cff02883f9bd8d91afb6027e2baeec1c23de024cdeaa33",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "segformer-b0-finetuned-sidewalk：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型 Baha07/segformer-b0-finetuned-sidewalk 目前下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Baha07/segformer-b0-finetuned-sidewalk",
+      "publishedAt": "2026-09-02T10:46:15+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "d3d3aacaf53c14e2d7d0ec9627bb46201701ba898645d29d890cc46c1155dfe5",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "co：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 g-connito/co，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/g-connito/co",
+      "publishedAt": "2026-09-02T10:46:12+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "6b6fdbf0ee4a12db066fe66f8373518b48edff008ecbae582365b2b6cf61ae7e",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "standings：nlp 模型更新",
+      "summary": "HuggingFace 上 NLP 模型 thirtyspokes/standings 目前下载量为 0，获 2 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/thirtyspokes/standings",
+      "publishedAt": "2026-09-02T10:46:10+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "4ef6edb9b3cf87bf92d863ec6d579c9d262bd25ce6b6cfbbf28d52bcaa886182",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "gr00t-n1.7-so101-bimanual-pickvials-cotrain：nlp 模型更新",
+      "summary": "HuggingFace 上 NickHuang323/gr00t-n1.7-so101-bimanual-pickvials-cotrain NLP 模型暂无下载与点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/NickHuang323/gr00t-n1.7-so101-bimanual-pickvials-cotrain",
+      "publishedAt": "2026-09-02T10:46:09+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "e2d1320f07253eaaa8af27003cf3efa4f1673bf178a4b3bec8761b3e69707ece",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "omilos-real-ai：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型 OmilosAISolutions/omilos-real-ai 目前下载量和点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/OmilosAISolutions/omilos-real-ai",
+      "publishedAt": "2026-09-02T10:46:05+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "a60428a4d1f7551971ea85965d29059e3774ec72a08eeb01e33f88328f1c3a6d",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "minimind-checkpoints：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型 hongwinner/minimind-checkpoints 目前下载量为0，获4个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/hongwinner/minimind-checkpoints",
+      "publishedAt": "2026-09-02T10:46:03+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "e221fb236f6298bdfac0d9c3c9129f4e02f1a8d0dd5f8583c03609912a7d6d6d",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MyAwesomeModel-TestRepo：feature-extraction 模型更新",
+      "summary": "HuggingFace 上模型 Jomanne3/MyAwesomeModel-TestRepo（feature-extraction 类型）暂无下载量与点赞数。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Jomanne3/MyAwesomeModel-TestRepo",
+      "publishedAt": "2026-09-02T10:45:58+00:00",
+      "tags": [
+        "huggingface",
+        "feature-extraction"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "b8e186d09e6fcc16e2ad7bcaaa40268ec4f993cc1c439be1e6e718a47deb45ff",
       "module": "ai",
@@ -3818,6 +4060,92 @@
       "extra": {}
     }
   ],
+  "daily": {
+    "ai": {
+      "insight": "企业AI正从单点智能转向多代理协同治理，复杂性成为最大瓶颈",
+      "headline": {
+        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+        "summary": "企业AI面临“代理复杂性”危机：多代理系统连接呈指数级增长，导致调用路径混乱、决策不可追溯、安全管控失效，运维与治理难度陡增。",
+        "source": "VentureBeat",
+        "sourceUrl": ""
+      },
+      "sections": [
+        {
+          "name": "最新科技",
+          "items": [
+            {
+              "title": "GR00T-Mdrift_crop192_cft-Dmergedv2-step500：nlp 模型更新",
+              "summary": "HuggingFace 上热门NLP模型 geonmin-kim/GR00T-Mdrift_crop192_cft-Dmergedv2-step500 目前下载",
+              "source": "HuggingFace",
+              "sourceUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "行业动态",
+          "items": [
+            {
+              "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+              "summary": "AI初创公司AfterQuery五个月内估值飙升10倍，最新融资后达32亿美元，此前4月A轮融资估值为3亿美元。",
+              "source": "TechCrunch",
+              "sourceUrl": ""
+            },
+            {
+              "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+              "summary": "旧金山云平台Railway获1亿美元B轮融资，估值跃升。成立至今零营销投入，已吸引200万开发者，主打简化AI应用部署，挑战AWS、谷歌云等传统云服务。",
+              "source": "VentureBeat",
+              "sourceUrl": ""
+            },
+            {
+              "title": "Apple accuses OpenAI of destroying evidence",
+              "summary": "苹果指控OpenAI销毁证据，称其迟交涉事员工MacBook；已向法院申请加快取证程序。",
+              "source": "The Verge",
+              "sourceUrl": ""
+            },
+            {
+              "title": "蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+              "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+              "source": "量子位",
+              "sourceUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "知识前沿",
+          "items": []
+        },
+        {
+          "name": "应用落地",
+          "items": [
+            {
+              "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+              "summary": "OpenAI宣布其集成方案为临床医生提供患者健康记录的只读访问权限。",
+              "source": "TechCrunch",
+              "sourceUrl": ""
+            },
+            {
+              "title": "John Deere launched an AI chatbot for farmers",
+              "summary": "约翰迪尔测试AI助手“JD”，基于农户田间、机械及运营数据，提供设备设置、油耗、收获时机等建议，助其增效增收。",
+              "source": "The Verge",
+              "sourceUrl": ""
+            },
+            {
+              "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
+              "summary": "AI客服日扛1.5万通电话",
+              "source": "量子位",
+              "sourceUrl": ""
+            },
+            {
+              "title": "香港首个真实开放场景服务机器人落地兰桂坊",
+              "summary": "在香港兰桂坊，一位特殊的“酒保”正式上岗",
+              "source": "量子位",
+              "sourceUrl": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
   "football": {
     "fixtures": [
       {
