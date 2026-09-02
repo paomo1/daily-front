@@ -1,9 +1,251 @@
 {
-  "generated_at": "2026-09-02T10:40:14.012655+00:00",
+  "generated_at": "2026-09-02T10:49:59.212456+00:00",
   "date": "2026-09-02",
   "keep_days": 7,
-  "count": 172,
+  "count": 183,
   "items": [
+    {
+      "id": "262bf745d8188a31d4a2509abf603da46b0b534877a22d6f48c36c203b19ebba",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "qwen3-4b-dapo：nlp 模型更新",
+      "summary": "HuggingFace 上 SaifPunjwani/qwen3-4b-dapo NLP 模型暂无下载量与点赞数。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/SaifPunjwani/qwen3-4b-dapo",
+      "publishedAt": "2026-09-02T10:49:08+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "f62a3d81cba337b544547dcf78ccfd909af22fd2bc37e9780853194817f48427",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "plant-care-reminder：nlp 模型更新",
+      "summary": "HuggingFace 上 NLP 模型 sundaycoil/plant-care-reminder 无人下载，仅获 5 赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/sundaycoil/plant-care-reminder",
+      "publishedAt": "2026-09-02T10:49:02+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "4abac8b6919875236bc3c6cbbf83f97fa701ca36ae22d48e9ab3064f8a361801",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "llama-3.1-8b-instruct-4x1-moe_SNI-c_2461-lora-moe：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型Jongbin-kr/llama-3.1-8b-instruct-4x1-moe_SNI-c_2461-lora-moe，下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Jongbin-kr/llama-3.1-8b-instruct-4x1-moe_SNI-c_2461-lora-moe",
+      "publishedAt": "2026-09-02T10:48:55+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "e11907108d44c00f3bb09f1d7ceb54b14a6fd9515eb3993c7874429e4bdc5a57",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "GR00T-Mdrift_crop128_cft-Dmergedv2-step500：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型 geonmin-kim/GR00T-Mdrift_crop128_cft-Dmergedv2-step500 目前下载量和点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/geonmin-kim/GR00T-Mdrift_crop128_cft-Dmergedv2-step500",
+      "publishedAt": "2026-09-02T10:48:54+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "98a654b2ec410b342e65e4dbb4b2e252c48414403bdc21993741218d8c968e53",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "RIMG-16D-A：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 aixk/RIMG-16D-A，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/aixk/RIMG-16D-A",
+      "publishedAt": "2026-09-02T10:48:50+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "7a402639ce0b4f3d4502e71bd8a3e429c4b0a80ca1b1c32054ab8c5825641938",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3-4B-Instruct-2507-SD-FNC-512-2：nlp 模型更新",
+      "summary": "HuggingFace 上 Ali-Mhrez/Qwen3-4B-Instruct-2507-SD-FNC-512-2 模型暂无下载量与点赞数。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Ali-Mhrez/Qwen3-4B-Instruct-2507-SD-FNC-512-2",
+      "publishedAt": "2026-09-02T10:48:45+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "17acc8af1a7cc8e4994b7bdb6f41ddc7a67495c8e7a0a3ede09ab24b67ba75de",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "co3-b：nlp 模型更新",
+      "summary": "HuggingFace 上 SilentByte-62p/co3-b NLP 模型暂无下载量与点赞数，热度为零。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/SilentByte-62p/co3-b",
+      "publishedAt": "2026-09-02T10:48:32+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "13354ed57e61375b243bac71334d18af0f930d934a837933521f87e64a59fbc7",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "co28：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 Attila115/co28，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Attila115/co28",
+      "publishedAt": "2026-09-02T10:48:22+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "e5c0119b00f3123e725de24a900b49423da87d1bcfe1092725d127592ea0b3d5",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "co1：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 Attila115/co1，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Attila115/co1",
+      "publishedAt": "2026-09-02T10:48:20+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "17a7bc9602b777481bdf5dd5bf94f119571ebc27a13cc813924ea5656b1bfeec",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "co4：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 Attila115/co4，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Attila115/co4",
+      "publishedAt": "2026-09-02T10:48:19+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "4fe20ec8069dc47b88a29d560ddf27ca37e1d854d750e25950baa7f66196d641",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "co2：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 Attila115/co2，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Attila115/co2",
+      "publishedAt": "2026-09-02T10:48:19+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "b8e186d09e6fcc16e2ad7bcaaa40268ec4f993cc1c439be1e6e718a47deb45ff",
       "module": "ai",
