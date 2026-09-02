@@ -1,9 +1,229 @@
 {
-  "generated_at": "2026-09-02T09:54:29.905622+00:00",
+  "generated_at": "2026-09-02T09:59:10.892063+00:00",
   "date": "2026-09-02",
   "keep_days": 7,
-  "count": 119,
+  "count": 130,
   "items": [
+    {
+      "id": "ddf6b13a4b6fbbf8f6dc44d90e742cfc25ebecc8cdfc97b73f1962bcc6f2c18d",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "qwen25-d2l-merged：text-generation 模型更新",
+      "summary": "HuggingFace 热门 text-generation 模型 Pradyu123/qwen25-d2l-merged，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Pradyu123/qwen25-d2l-merged",
+      "publishedAt": "2026-09-02T09:58:58+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "b1f433b3f4936a9526660662bc154b9d38548659139addadd7310d62ecde753d",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "whisper-medium_indic_voices_62290_ratio_30_70_lr_1e-5_lgid_None_epochs_100_FT：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 dianavdavidson/whisper-medium_indic_voices_62290_ratio_30_70_lr_1e-5_lgid_None_epochs_100_FT，0 下载，",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/dianavdavidson/whisper-medium_indic_voices_62290_ratio_30_70_lr_1e-5_lgid_None_epochs_100_FT",
+      "publishedAt": "2026-09-02T09:58:56+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "aed6e82e58a5af94e849eb3409b351f1f09b5defa872da813782b6704cfc3d39",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "sn120-intel-archive：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 yielden/sn120-intel-archive，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/yielden/sn120-intel-archive",
+      "publishedAt": "2026-09-02T09:58:51+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "a8877a43802a5931f4ba4d43b84e70fe6dcec91cbafdd7ac6490f74e8b43e461",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "gemma-4-31b-it-3MPER0RR-abliterated-GGUF：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 mradermacher/gemma-4-31b-it-3MPER0RR-abliterated-GGUF，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mradermacher/gemma-4-31b-it-3MPER0RR-abliterated-GGUF",
+      "publishedAt": "2026-09-02T09:58:51+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "472e2fe0585c04d00a8e7880448871abe3449c7e90ec987d27d8020fc251138f",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MyAwesomeModel-TestRepo：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 SAD12E21/MyAwesomeModel-TestRepo，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/SAD12E21/MyAwesomeModel-TestRepo",
+      "publishedAt": "2026-09-02T09:58:49+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2eeeeb40dde6f2c33bd9385811cef048465f2291c1ae53e50da867e764d4a679",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "bp-e04__10hz-bcexpert-pv__d98ddfe8__flow-c06__qpriv-n16__qc-offline__xf7ab898：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 strawberryroboticsinc/bp-e04__10hz-bcexpert-pv__d98ddfe8__flow-c06__qpriv-n16__qc-offline__xf7ab89",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/strawberryroboticsinc/bp-e04__10hz-bcexpert-pv__d98ddfe8__flow-c06__qpriv-n16__qc-offline__xf7ab898",
+      "publishedAt": "2026-09-02T09:58:48+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "b3947e6efb2a02418e6bd45e9c09d02536145f01c2dc26fca65ebc11df56fce3",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "gr00t_n17_mt3_c3_massnorm_bs64_kgbridge：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 locht131/gr00t_n17_mt3_c3_massnorm_bs64_kgbridge，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/locht131/gr00t_n17_mt3_c3_massnorm_bs64_kgbridge",
+      "publishedAt": "2026-09-02T09:58:47+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "eb878c726fb58a7103cc7820616aeca1f166bfccd5829e033babe69d27a631bd",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "llama-3.1-8b-instruct_lbox-admin-traffic_ffn-only：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 Jongbin-kr/llama-3.1-8b-instruct_lbox-admin-traffic_ffn-only，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Jongbin-kr/llama-3.1-8b-instruct_lbox-admin-traffic_ffn-only",
+      "publishedAt": "2026-09-02T09:58:42+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "81a3ce25b4dd7c834c049a8445486a1b020c6e1e82109be447de9c70ea4a5d56",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MiniMax-H3-Longvideos：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 Smite79/MiniMax-H3-Longvideos，0 下载，86 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Smite79/MiniMax-H3-Longvideos",
+      "publishedAt": "2026-09-02T09:58:29+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 86
+      }
+    },
+    {
+      "id": "ae23e76f46ea57d71e9fcf99921faf044399804d4aff79b475d9c1b547e0a282",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "vidhyaarthi-model：text-generation 模型更新",
+      "summary": "HuggingFace 热门 text-generation 模型 shuvam4849/vidhyaarthi-model，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/shuvam4849/vidhyaarthi-model",
+      "publishedAt": "2026-09-02T09:58:22+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "663eb12df58079c9d0c7a8a786671607e233f09ea03efae54b480eeb12f614c6",
       "module": "ai",
@@ -827,6 +1047,31 @@
       "extra": {
         "downloads": 0,
         "likes": 0
+      }
+    },
+    {
+      "id": "def453a86a143137069212c94da4a7689b57352b8cbf2f052dabffefd75f9dca",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "LCK第三赛段季后赛 9月2日 T1 vs HLE (解说合集)",
+      "summary": "UP主 联盟日常事_ · 2,273播放 · 218:18",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117200597812999",
+      "publishedAt": "2026-09-02T08:56:28+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "联盟日常事_",
+        "play": 2273,
+        "bvid": "BV1KntJ6BEAm",
+        "duration": "218:18"
       }
     },
     {
