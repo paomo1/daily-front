@@ -1,4 +1,4 @@
-# ============================================================
+﻿# ============================================================
 # 每日前线 - 每日定时采集（方案 A · 静态 JSON）
 # 时区：北京时间 09:00 与 20:00 = UTC 01:00 与 12:00
 # 跑完把 data/today.json + data/archive.json commit 回仓库，
@@ -99,9 +99,13 @@ jobs:
           else
             git commit -m "chore: 每日更新 $(date +'%F %T')"
             # data/*.json 已在 .gitattributes 标记为 merge=ours：
-            # 远端若因并发采集领先本地，git pull（merge）会自动以本次生成的
-            # 最新快照覆盖冲突，无需 rebase（rebase 对全量快照反而会因内容冲突失败）
-            git pull origin main
+            # 远端若因并发采集/手动 push 领先本地，必须显式用 merge 策略拉取
+            # （git 2.27+ 在分支分歧且未配置 pull 策略时会 fatal 退出），
+            # merge 遇到 data/*.json 冲突会自动以本次新生成的快照覆盖。
+            # 切勿用 --rebase：rebase 不会触发 .gitattributes 的 merge=ours，
+            # 对全量重算的数据快照反而会因内容冲突失败。
+            git pull --no-rebase origin main
             git push
             echo "✅ 已推送最新数据"
           fi
+
