@@ -1,0 +1,6 @@
+# data/*.json 是 collector 每次全量重算的快照（非增量 diff），
+# 多个采集 run 并发时会在这两个文件上产生内容冲突。
+# 标记为 merge=ours：合并冲突时一律以本地最新生成的版本为准，
+# 避免 git pull/rebase 因数据文件冲突而失败。
+data/today.json merge=ours
+data/archive.json merge=ours
