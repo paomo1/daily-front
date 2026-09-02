@@ -7,6 +7,8 @@ feedparser==6.0.11                   # RSS/Atom 解析
 
 # LLM 摘要（DashScope 兼容 OpenAI 协议，仅用于把长文压成摘要）
 openai==1.55.0
+httpx>=0.27,<0.28                   # 锁 httpx<0.28：openai 1.55 仍向 httpx 透传 proxies 参数，
+                                      # 而 httpx>=0.28 已移除该参数会导致 TypeError 崩溃；0.27 兼容
 
 # 工具
 python-dotenv==1.0.1
