@@ -143,7 +143,7 @@ def dashscope_summarize(text: str, max_words: int = 60) -> str:
             model=DASHSCOPE_MODEL,
             messages=[
                 {"role": "system", "content": f"你是一名中文体育/游戏/科技资讯编辑，请把下面内容压缩成 {max_words} 字以内的中文摘要，保留关键事实和数字。"},
-                {"role": "user", "content": text[:1500]},
+                {"role": "user", "content": _clean(text[:1500])},
             ],
             temperature=0.3,
             max_tokens=200,
