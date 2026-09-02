@@ -104,6 +104,10 @@ jobs:
             # merge 遇到 data/*.json 冲突会自动以本次新生成的快照覆盖。
             # 切勿用 --rebase：rebase 不会触发 .gitattributes 的 merge=ours，
             # 对全量重算的数据快照反而会因内容冲突失败。
+            # 注册「ours」合并驱动：冲突时保留本次新生成的本地快照
+            # （git 默认没有内置 ours 驱动，必须显式定义，否则 merge=ours 形同虚设）
+            git config merge.ours.name "keep local generated data snapshot"
+            git config merge.ours.driver "true"
             git pull --no-rebase origin main
             git push
             echo "✅ 已推送最新数据"
