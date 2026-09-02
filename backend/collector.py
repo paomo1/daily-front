@@ -132,6 +132,20 @@ def http_get(url: str, headers: dict | None = None, params: dict | None = None) 
     return r
 
 
+# 清理会导致 openai SDK ascii 编码崩溃的字符（UTF-8 BOM / Unicode 替换字符 / 控制符）
+_BOM = chr(0xFEFF)
+_REPL = chr(0xFFFD)
+
+
+def _clean(s: str) -> str:
+    if not s:
+        return ""
+    s = s.replace(_BOM, "").replace(_REPL, "")
+    # 去掉 ASCII 范围外的不可见控制字符（保留换行/制表）
+    s = "".join(ch for ch in s if ch in ("\n", "\t") or ord(ch) >= 32)
+    return s.strip()
+
+
 def dashscope_summarize(text: str, max_words: int = 60) -> str:
     """用 qwen-plus 把长文本压成 1-2 句中文摘要；无 key 或失败则截断原文"""
     if not text or len(text) < 50:
@@ -200,7 +214,7 @@ def dashscope_daily(items: list[dict]) -> dict | None:
             model=DASHSCOPE_MODEL,
             messages=[
                 {"role": "system", "content": sys_prompt},
-                {"role": "user", "content": prompt[:6000]},
+                {"role": "user", "content": _clean(prompt[:6000])},
             ],
             temperature=0.4,
             max_tokens=1600,
