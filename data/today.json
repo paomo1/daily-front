@@ -1,9 +1,229 @@
 {
-  "generated_at": "2026-09-02T10:29:32.223781+00:00",
+  "generated_at": "2026-09-02T10:40:14.012655+00:00",
   "date": "2026-09-02",
   "keep_days": 7,
-  "count": 162,
+  "count": 172,
   "items": [
+    {
+      "id": "b8e186d09e6fcc16e2ad7bcaaa40268ec4f993cc1c439be1e6e718a47deb45ff",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "ittakestwo_chekcpoint：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型 Haoyuwu/ittakestwo_checkpoint 目前下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Haoyuwu/ittakestwo_chekcpoint",
+      "publishedAt": "2026-09-02T10:39:10+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "8b2d1612f5fca9e7f26722edaa43afe4e9741b1815fd948a3c42a681b78f5d4d",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "olmocr-htr-ext：nlp 模型更新",
+      "summary": "HuggingFace 上 vanijonny/olmocr-htr-ext NLP 模型暂无下载量与点赞数。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/vanijonny/olmocr-htr-ext",
+      "publishedAt": "2026-09-02T10:39:06+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "262a264081358af8376ab313959d5bba7e655b5744026f675d0962bb44b31dd9",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "push-probe：nlp 模型更新",
+      "summary": "HuggingFace 上 Ilia2003Mah/push-probe NLP 模型暂无下载量与点赞数（均为0）。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Ilia2003Mah/push-probe",
+      "publishedAt": "2026-09-02T10:38:57+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1a9c0675a50b25f7b27d4971cdca4dd206d0229b6282a4d7d9c11d340f54ea88",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3-4B-Instruct-2507-SD-FNC-512-3：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型 Ali-Mhrez/Qwen3-4B-Instruct-2507-SD-FNC-512-3 目前下载量和点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Ali-Mhrez/Qwen3-4B-Instruct-2507-SD-FNC-512-3",
+      "publishedAt": "2026-09-02T10:38:56+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "9d05a8daf947df177b241953f159ea5f84a1c293e97e09794c710c34c8d7a66a",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "RPBizkitRemiX-v1-12B-i1-GGUF：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型 mradermacher/RPBizkitRemiX-v1-12B-i1-GGUF 目前下载量和点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mradermacher/RPBizkitRemiX-v1-12B-i1-GGUF",
+      "publishedAt": "2026-09-02T10:38:53+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "78d0062c68df9dc6d3f173e5406c931c24678b44a6d9ff8753e77f546c407a8c",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "nest-js-llm：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型 Munisekhar/nest-js-llm 目前下载量为0，获1个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Munisekhar/nest-js-llm",
+      "publishedAt": "2026-09-02T10:38:45+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 1
+      }
+    },
+    {
+      "id": "5413f036e3fb4b517c3ae84379220ad8bdaa4c90367a39223b6bdcb03dd23ee8",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "act_task08_takeout_and_put_beaker_60k：robotics 模型更新",
+      "summary": "HuggingFace 上机器人模型 kiroaiseoul/act_task08_takeout_and_put_beaker_60k 目前下载量与点赞数均为 0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/kiroaiseoul/act_task08_takeout_and_put_beaker_60k",
+      "publishedAt": "2026-09-02T10:38:40+00:00",
+      "tags": [
+        "huggingface",
+        "robotics"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "83a36c5470dbd47548a3128f1a4357b1d81fcb412df6f77f8f038c976b088a78",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "nb-whisper-small-mlx：nlp 模型更新",
+      "summary": "Hugging Face 上 NLP 模型 FredrikKarlssonSpeech/nb-whisper-small-mlx 目前下载量与点赞数均为 0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/FredrikKarlssonSpeech/nb-whisper-small-mlx",
+      "publishedAt": "2026-09-02T10:38:40+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1b73ff8eedef120cb93d0b4f2bf11b9008ce5df41e0e76bafd225148045d5600",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "nb-whisper-base-mlx-4bit：automatic-speech-recognition 模型更新",
+      "summary": "HuggingFace上模型FredrikKarlssonSpeech/nb-whisper-base-mlx-4bit（ASR）目前下载量和点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/FredrikKarlssonSpeech/nb-whisper-base-mlx-4bit",
+      "publishedAt": "2026-09-02T10:38:39+00:00",
+      "tags": [
+        "huggingface",
+        "automatic-speech-recognition"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "4e13f3d26b55a5901505f24a7360a980a1587ce15210d3fddf31b0a4c6051e26",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "cheapgpt-hnltb_b1.6-v3：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型 sibueh/cheapgpt-hnltb_b1.6-v3 目前下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/sibueh/cheapgpt-hnltb_b1.6-v3",
+      "publishedAt": "2026-09-02T10:38:29+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "ee3dc950307a024db7c7171a7efe4f2987d852c781ba83a34e19675857679454",
       "module": "ai",
