@@ -1,9 +1,434 @@
 {
-  "generated_at": "2026-09-02T07:47:44.642564+00:00",
+  "generated_at": "2026-09-02T09:34:57.503837+00:00",
   "date": "2026-09-02",
   "keep_days": 7,
-  "count": 75,
+  "count": 95,
   "items": [
+    {
+      "id": "6c788efb64680c9c5b94f9da2c9d59922fdbb8185ecf88dbbc124fb68ee2a895",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "ipaxlk5ft-test：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 kmpartner/ipaxlk5ft-test，0 下载，1 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/kmpartner/ipaxlk5ft-test",
+      "publishedAt": "2026-09-02T09:34:43+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 1
+      }
+    },
+    {
+      "id": "47caa703542f02201e167084d3dbf59c2cc465b3a448fe2ee4a4c4fbc4c22a23",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Iris-pro：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 AllSpark-Research/Iris-pro，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/AllSpark-Research/Iris-pro",
+      "publishedAt": "2026-09-02T09:34:38+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "805ba20b30b8fa77a39b0e71a2b15fb86ac16c1088427d95038ae9c1dc4e83b0",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "qwen3.8-9b-hermes-fc-tooluse-GGUF：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 mradermacher/qwen3.8-9b-hermes-fc-tooluse-GGUF，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mradermacher/qwen3.8-9b-hermes-fc-tooluse-GGUF",
+      "publishedAt": "2026-09-02T09:34:34+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "29ade60f3e2788cd328cda55af664327a990f25439e700e8a286b928cf02a216",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "cosmos3-ae-gr1-pdelta-auxtokc-pred-b256-16k：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 kimtaey/cosmos3-ae-gr1-pdelta-auxtokc-pred-b256-16k，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/kimtaey/cosmos3-ae-gr1-pdelta-auxtokc-pred-b256-16k",
+      "publishedAt": "2026-09-02T09:34:27+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "aff2944917e0ad4649232d5b5ad871c8035e176c685fcd2f959797f32dc64c9c",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "penclaw-GLM-5.3-abliterated：text-generation 模型更新",
+      "summary": "HuggingFace 热门 text-generation 模型 audnai/penclaw-GLM-5.3-abliterated，0 下载，2 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/audnai/penclaw-GLM-5.3-abliterated",
+      "publishedAt": "2026-09-02T09:34:22+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "6857ff084a445bd7161aeb58f51bfa386d15cef77ef46a35770690c3740d3528",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "bert-spirit：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 MelNikov49539/bert-spirit，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/MelNikov49539/bert-spirit",
+      "publishedAt": "2026-09-02T09:34:21+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "d450fcfc41cab2211c049ebb158ce32c28657ab568c50de0d852f4a93dc44d66",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "liquid-audio_fr：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 baptistefrancois1/liquid-audio_fr，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/baptistefrancois1/liquid-audio_fr",
+      "publishedAt": "2026-09-02T09:34:16+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "539ec0b9160e8a13d110ce30a6727017dbe4be80ed386e70b37dd8b4e4e36f03",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "wrk-models-g2：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 Moldwebs/wrk-models-g2，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Moldwebs/wrk-models-g2",
+      "publishedAt": "2026-09-02T09:34:14+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "ed47d4017fc16a55887f06b5d61158ae522047fdea0942ba1acf80ee04b4fa80",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "laptop-extra：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 mousatat3/laptop-extra，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mousatat3/laptop-extra",
+      "publishedAt": "2026-09-02T09:34:13+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "17fdb6961b1aeb7e97054fa5af090c9093d8b4543b10d96b74e18db731f75919",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "config-watcher：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 sundaycoil/config-watcher，0 下载，6 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/sundaycoil/config-watcher",
+      "publishedAt": "2026-09-02T09:34:11+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "fcb81f094dee8dd1d4f1f0db8ec88669525440416b33f3eb6493ce00bd7d0029",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "RVID-15：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 aixk/RVID-15，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/aixk/RVID-15",
+      "publishedAt": "2026-09-02T09:34:11+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "140063533b7067e189b3a9c95203ebec5d60dd43a9d06c6d462879e69c66d259",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "bulmax-asm-baseline：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 YNSScarSaiyan/bulmax-asm-baseline，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/YNSScarSaiyan/bulmax-asm-baseline",
+      "publishedAt": "2026-09-02T09:34:06+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "7a1e12b3b311d2ef70544a9236d4275b7e295574102c05178e154445afd448cf",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "RIMG4-135M-v10：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 aixk/RIMG4-135M-v10，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/aixk/RIMG4-135M-v10",
+      "publishedAt": "2026-09-02T09:34:03+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "7e79582bdfbe1ac6af7c8118980126f840bcbd603c615cb089f79f7591a49d5b",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "llama-3.1-8b-instruct_lbox-admin-other_ffn-only：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 Jongbin-kr/llama-3.1-8b-instruct_lbox-admin-other_ffn-only，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Jongbin-kr/llama-3.1-8b-instruct_lbox-admin-other_ffn-only",
+      "publishedAt": "2026-09-02T09:34:03+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "18a058874b942ae9a70f941f7683d70f75929c2b2bb418b3f7d32a3097c4471d",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NM-DAU-GGUF：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 mradermacher/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NM-DAU-GGUF，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mradermacher/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NM-DAU-GGUF",
+      "publishedAt": "2026-09-02T09:33:56+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "f971e0661763222c649556a7dfe3d070872cf6558b000ef088470fb7f8d2cad5",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+      "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/483104.html",
+      "publishedAt": "2026-09-02T06:20:17+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "08be41bd2b2b9558a63d0061d06d7026273ee28b9852c60a59ddb51b502f1b83",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
+      "summary": "",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/483101.html",
+      "publishedAt": "2026-09-02T06:10:26+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "6767236236cd12593d6c7673481768673e83b6e4788c275e416e5168bf914a67",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
+      "summary": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/483097.html",
+      "publishedAt": "2026-09-02T06:06:50+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "788a364632fa375e904ef56c9b585e9351945457ac0e28504f2a4062f449fdc5",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
+      "summary": "AI客服日扛1.5万通电话",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/482967.html",
+      "publishedAt": "2026-09-02T02:48:06+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "8eb373a44ccb205c5caab88e42bba2c7529d6ce474286a3236dae24faa7831d2",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
+      "summary": "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/482652.html",
+      "publishedAt": "2026-09-02T02:18:12+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "99d8839bddaaa63085cdf7a9ef7ee9310e28e8c340ffa76522b8ca065aa28815",
       "module": "ai",
@@ -1565,6 +1990,31 @@
       "extra": {}
     },
     {
+      "id": "a0eaa2a4e95afaf14456648a22c9634a4cbb79e2b94905ca5350db550bec419d",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "【16.17上分密码】单排强势英雄各位置TOP3推荐！",
+      "summary": "UP主 OPGaming · 31,397播放 · 17:1",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117173888485331",
+      "publishedAt": "2026-08-28T15:47:04+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 黑科技 上分"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "OPGaming",
+        "play": 31397,
+        "bvid": "BV1TStP6YEdj",
+        "duration": "17:1"
+      }
+    },
+    {
       "id": "14ef46f762dd67b84251768bba989a3450c27700dc626625ec1a8404047bee39",
       "module": "ai",
       "seg": null,
@@ -1702,31 +2152,6 @@
       "points": [],
       "live": false,
       "extra": {}
-    },
-    {
-      "id": "63fa0b7a9f105afd01c644f1c087cb66340c6d87a76971debd91ec8446ffbbef",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "云顶S18开服，11套强势阵容推荐！【云顶之弈】",
-      "summary": "UP主 林小北Lindo · 305,548播放 · 3:13",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117160399800326",
-      "publishedAt": "2026-08-26T09:30:00+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "林小北Lindo",
-        "play": 305548,
-        "bvid": "BV1xn8R6VEqu",
-        "duration": "3:13"
-      }
     }
   ]
 }
