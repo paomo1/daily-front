@@ -1,9 +1,456 @@
 {
-  "generated_at": "2026-09-02T10:59:31.858003+00:00",
+  "generated_at": "2026-09-02T15:47:06.366479+00:00",
   "date": "2026-09-02",
   "keep_days": 7,
-  "count": 197,
+  "count": 221,
   "items": [
+    {
+      "id": "b78a0a28255b0d3333c5d6b8e2eb3392c339fb49c6b585f6c1116b93cd4b115d",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "modelcache：nlp 模型更新",
+      "summary": "HuggingFace 上 NLP 模型 noodlepop/modelcache 无人下载、无点赞，热度为零。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/noodlepop/modelcache",
+      "publishedAt": "2026-09-02T15:46:07+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "7739475d1bc7f037e8e34c4c71515b9a9cbb3072e04eb9befed9d000e0b81565",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "pi0_napkin_016000：nlp 模型更新",
+      "summary": "HuggingFace 上NLP模型pmoller/pi0_napkin_016000暂无下载量与点赞数。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/pmoller/pi0_napkin_016000",
+      "publishedAt": "2026-09-02T15:46:06+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "381314f52ada0a78ff328fc623f1ce36aa47e8728cb54c0364ddd3749172ce1c",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Spexcon-S1-v0.6-Pilot：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型 YONKWd/Spexcon-S1-v0.6-Pilot 目前下载量和点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/YONKWd/Spexcon-S1-v0.6-Pilot",
+      "publishedAt": "2026-09-02T15:46:06+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "9692364770a105afb53e0a75a619d3384e95be6f1cdf6f05d342fee535eb47eb",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "NudeV1：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 Redraw334/NudeV1，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Redraw334/NudeV1",
+      "publishedAt": "2026-09-02T15:46:04+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "bdde5e0bba5b2bd82da89cbca9b277e6820ed175f86e98bf770bc60f03d53b15",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "diffusion_openarm_grasp_20260902：nlp 模型更新",
+      "summary": "Hugging Face 上，模型 pengli3/diffusion_openarm_grasp_20260902（NLP方向）暂无下载量与点赞数。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/pengli3/diffusion_openarm_grasp_20260902",
+      "publishedAt": "2026-09-02T15:46:03+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "dec37698dae59032edecb5f083441e57773829c31e97b08101051e81b498918a",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "pi05_full：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 ziyin123/pi05_full，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/ziyin123/pi05_full",
+      "publishedAt": "2026-09-02T15:45:55+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "6b6fdbf0ee4a12db066fe66f8373518b48edff008ecbae582365b2b6cf61ae7e",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "standings：nlp 模型更新",
+      "summary": "HuggingFace 上 NLP 模型 thirtyspokes/standings 目前下载量为 0，获 2 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/thirtyspokes/standings",
+      "publishedAt": "2026-09-02T15:45:48+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "b130c05cbe2bef727975cdd1ce8ffbd1a0b1a9353ebf39f456462390feec57f8",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "DAOS-Fusion：nlp 模型更新",
+      "summary": "HuggingFace 上 OliviaRossi/DAOS-Fusion NLP 模型暂无下载量与点赞数，热度为零。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/OliviaRossi/DAOS-Fusion",
+      "publishedAt": "2026-09-02T15:45:47+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "7726ad17b91ecce148b04c5900b1e2c8ad72b03c1f171e90e6fcde325c2bf53f",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "fhir4px：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 fhir4ds/fhir4px，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/fhir4ds/fhir4px",
+      "publishedAt": "2026-09-02T15:45:45+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "ba34cc62285226af07e6ab6681424eed42918e6d69b3300f84ea5ae334484f9f",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "gemma-4-31B-it-FP8-block：image-text-to-text 模型更新",
+      "summary": "HuggingFace 上 furiosa-ai/gemma-4-31B-it-FP8-block 模型（image-text-to-text）下载量94次，暂无点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/furiosa-ai/gemma-4-31B-it-FP8-block",
+      "publishedAt": "2026-09-02T15:45:44+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 94,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2f190568fb7c12832569a65d6ec0826e1e67c7f753db4838aa16bed3b0c60480",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "pi05_napkin_014000：nlp 模型更新",
+      "summary": "HuggingFace 上 NLP 模型 pmoller/pi05_napkin_014000 目前下载量与点赞数均为 0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/pmoller/pi05_napkin_014000",
+      "publishedAt": "2026-09-02T15:45:44+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "4365015f8e9e576234630e848f340c83a114443456329713fd9a968a16f197bd",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Bittoby1040____uid91____hk5H1h2：nlp 模型更新",
+      "summary": "HuggingFace 上模型 reyansh38771/Bittoby1040____uid91____hk5H1h2 无人下载、无点赞，热度为零。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/reyansh38771/Bittoby1040____uid91____hk5H1h2",
+      "publishedAt": "2026-09-02T15:45:35+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "43b10ea2d119bde33b69b533806458d559b7d5d76c62313a9d11ea9096dd7200",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "pi05_obs_only_firstandlast3_injection_allenv_2ep：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型 rshift8/pi05_obs_only_firstandlast3_injection_allenv_2ep 目前下载量和点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/rshift8/pi05_obs_only_firstandlast3_injection_allenv_2ep",
+      "publishedAt": "2026-09-02T15:45:33+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1086ccc3866840cd89713e779f2472709d0553b121019788929bdd3239eebe39",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "studilex-paddleocr-bundle：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型 AdyyxD/studilex-paddleocr-bundle 目前下载量和点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/AdyyxD/studilex-paddleocr-bundle",
+      "publishedAt": "2026-09-02T15:45:32+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "f6d30f4ab6e8a0ddd39777869fe0cac3b70cc5bfd5d42d3cc05882d34b958e5b",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "summary": "HiddenLayer获1亿美元B轮融资，投资方包括Delta-v Capital、Ten Eleven Ventures、摩根士丹利、微软M12及博思艾伦等。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "publishedAt": "2026-09-02T15:01:23+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "81be2480ceeaa5be49faf791d974e0c1c3e55adbc3b500d6802736acc964a1d1",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+      "summary": "亚马逊为Alexa购物新增诈骗检测功能，可验证可疑邮件、短信等是否真来自该零售商。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+      "publishedAt": "2026-09-02T14:56:34+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "f6c385fe0dc2b7b7c05da879c6ceb66cbf08f978ed4a5621a097dc0348e83e3e",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+      "summary": "OpenAI及CEO奥特曼遭30起新诉讼，被控为加拿大图姆布莱奇校园枪击案嫌疑人提供“实质性协助与鼓励”，原告包括师生及校长。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+      "publishedAt": "2026-09-02T14:35:03+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "37ceafd3d505bd7a9854fbbb0fc8eddd7b8ffadd2aee4721d2ea8ac5237a2c47",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "NYC bans AI use for students until they reach high school",
+      "summary": "纽约市长曼达尼宣布，2026-2027学年起，全市2-K至八年级约60万学生将禁用AI工具，为期一年，并加强数字设备管控。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+      "publishedAt": "2026-09-02T14:30:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "6434a6879c472b3ebcf52cccef16bcc54122d971e392571485511d10ec8d1286",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Adobe acquires Indian market intelligence startup Rilo",
+      "summary": "Adobe继2023年收购印度Rephrase.ai后，再度收购一家印度公司，为该公司第二笔印度收购。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+      "publishedAt": "2026-09-02T14:03:57+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e070a0ce36d74dfc8305adeb0703af8d2fa4c7a87763b0e99bde10f1aa6e6854",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "HLE vs T1  让二追三！Keria巴德无力回天！神王朗姆三级单杀团战游龙！   Game 5 丨 2026 LCK 季后赛",
+      "summary": "UP主 最新联盟 · 45,013播放 · 13:24",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117201403123345",
+      "publishedAt": "2026-09-02T12:21:00+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "最新联盟",
+        "play": 45013,
+        "bvid": "BV14etU6HEjg",
+        "duration": "13:24"
+      }
+    },
+    {
+      "id": "dc5a4535e54678b405e6b19f31f8196c2c3c482bf2e4ec1c1df5f9e1247802b9",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "summary": "Edelson PC新提30起诉讼，指控OpenAI在图姆布莱奇枪击案中“教唆共谋”，并点名克里斯·莱汉，但相关证据尚未证实。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+      "publishedAt": "2026-09-02T12:09:42+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "91a7d2a21310f4bead6268c6b82fc9bb03c8cf346013c104ae5c1d6471a1564d",
       "module": "ai",
@@ -2524,6 +2971,31 @@
       }
     },
     {
+      "id": "d9ced689c73ea6fbbf91f16846a50c69b73f92f767973e1b3f5f6bb71e30b77d",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "9月2日 sask解说【T1 vs HLE】弹幕版+无弹幕 2026LCK第三赛段季后赛赛",
+      "summary": "UP主 切猪君 · 31,329播放 · 386:23",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117200597817923",
+      "publishedAt": "2026-09-02T08:59:38+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "切猪君",
+        "play": 31329,
+        "bvid": "BV1KntJ6BEXg",
+        "duration": "386:23"
+      }
+    },
+    {
       "id": "def453a86a143137069212c94da4a7689b57352b8cbf2f052dabffefd75f9dca",
       "module": "lol",
       "seg": "match",
@@ -2546,6 +3018,81 @@
         "play": 2273,
         "bvid": "BV1KntJ6BEAm",
         "duration": "218:18"
+      }
+    },
+    {
+      "id": "2accb4498b45595f9d8864ac8047ca2ee07ff6dcb246a76a84aebedb119ac9b0",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "HLE vs T1  太扯了，火龙魂HLE团战被T1操作！Peyz滑板鞋单人杀光HLE双C！   Game 1 丨 2026 LCK 季后赛",
+      "summary": "UP主 最新联盟 · 43,588播放 · 13:57",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117200581105128",
+      "publishedAt": "2026-09-02T08:54:06+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "最新联盟",
+        "play": 43588,
+        "bvid": "BV1pbtJ6AEZJ",
+        "duration": "13:57"
+      }
+    },
+    {
+      "id": "e5d864ac60dc9da767a75adfd095e9b7aa74963c7e9da7e96e0bf835b68afa35",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "2026LCK季后赛9月2日 T1 vs HLE（中文解说）",
+      "summary": "UP主 Ymbky丶 · 99,813播放 · 182:27",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117200564262126",
+      "publishedAt": "2026-09-02T08:51:05+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "Ymbky丶",
+        "play": 99813,
+        "bvid": "BV1w8tJ6aErH",
+        "duration": "182:27"
+      }
+    },
+    {
+      "id": "ef544ae654ba9c923057a7ce42dd52b548821e0511e1fd6309af637ffa1e2821",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "神超S18：6护卫蛇女来了！版本T0？最无脑的上分阵容~",
+      "summary": "UP主 赛博の薄荷糖 · 2,281播放 · 24:59",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117200497218928",
+      "publishedAt": "2026-09-02T08:31:17+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "赛博の薄荷糖",
+        "play": 2281,
+        "bvid": "BV1Tctn63ERB",
+        "duration": "24:59"
       }
     },
     {
@@ -4347,33 +4894,14 @@
         "bvid": "BV1nJhF6EE2Y",
         "duration": "2:18"
       }
-    },
-    {
-      "id": "26057ec88e7b0454caf9679422c14c917d42035c3dc6b41cbe65e588bc65513f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "summary": "企业仓促将AI接入老旧系统，导致平台割裂、协同困难。AI与人工协作缺乏统一上下文，难以实现跨系统实时协同。（59字）",
-      "source": "VentureBeat",
-      "sourceUrl": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "publishedAt": "2026-08-26T14:30:00+00:00",
-      "tags": [
-        "ai-news",
-        "VentureBeat"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI代理治理与多智能体复杂性成企业落地核心瓶颈",
+      "insight": "AI安全与治理成企业部署核心瓶颈，多智能体协同复杂性引爆风险",
       "headline": {
         "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-        "summary": "企业AI部署多智能体后，连接路径呈指数级增长，导致系统失控、决策黑箱化，安全与治理难度陡增。",
+        "summary": "企业AI部署多智能体系统，连接数随智能体数量呈指数级增长，导致治理盲区与安全风险激增。",
         "source": "VentureBeat",
         "sourceUrl": ""
       },
@@ -4382,8 +4910,8 @@
           "name": "最新科技",
           "items": [
             {
-              "title": "VoxCPM2-lora-xiaochenxuejie：nlp 模型更新",
-              "summary": "HuggingFace 上热门NLP模型 rav009/VoxCPM2-lora-xiaochenxuejie 目前下载量与点赞数均为0。",
+              "title": "modelcache：nlp 模型更新",
+              "summary": "HuggingFace 上 NLP 模型 noodlepop/modelcache 无人下载、无点赞，热度为零。",
               "source": "HuggingFace",
               "sourceUrl": ""
             }
@@ -4393,6 +4921,12 @@
           "name": "行业动态",
           "items": [
             {
+              "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+              "summary": "HiddenLayer获1亿美元B轮融资，投资方包括Delta-v Capital、Ten Eleven Ventures、摩根士丹利、微软M12及博思艾伦等。",
+              "source": "TechCrunch",
+              "sourceUrl": ""
+            },
+            {
               "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
               "summary": "AI初创公司AfterQuery五个月内估值飙升10倍，最新融资后达32亿美元，此前4月A轮融资估值为3亿美元。",
               "source": "TechCrunch",
@@ -4400,20 +4934,14 @@
             },
             {
               "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-              "summary": "旧金山云平台Railway获1亿美元B轮融资，估值跃升。其零营销吸引200万开发者，主打简化AI应用部署，挑战AWS、谷歌云等传统云服务。",
+              "summary": "旧金山云平台Railway获1亿美元B轮融资，估值跃升。其零营销吸引200万开发者，主打简化AI应用部署，挑战AWS等传统云服务。",
               "source": "VentureBeat",
               "sourceUrl": ""
             },
             {
-              "title": "John Deere launched an AI chatbot for farmers",
-              "summary": "约翰迪尔测试新AI助手“JD”，基于农户田间、机械及运营数据，提供设备设置、油耗、收获时机等建议，助农民增收。",
+              "title": "NYC bans AI use for students until they reach high school",
+              "summary": "纽约市长曼达尼宣布，2026-2027学年起，全市2-K至八年级约60万学生将禁用AI工具，为期一年，并加强数字设备管控。",
               "source": "The Verge",
-              "sourceUrl": ""
-            },
-            {
-              "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
-              "summary": "",
-              "source": "量子位",
               "sourceUrl": ""
             }
           ]
@@ -4426,12 +4954,24 @@
               "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
               "source": "量子位",
               "sourceUrl": ""
+            },
+            {
+              "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
+              "summary": "",
+              "source": "量子位",
+              "sourceUrl": ""
             }
           ]
         },
         {
           "name": "应用落地",
           "items": [
+            {
+              "title": "John Deere launched an AI chatbot for farmers",
+              "summary": "约翰迪尔测试AI助手“JD”，基于农户田间、机械及运营数据，提供设备设置、油耗、收获时机等建议，助其增效增收。",
+              "source": "The Verge",
+              "sourceUrl": ""
+            },
             {
               "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
               "summary": "AI客服日扛1.5万通电话",
@@ -4448,12 +4988,6 @@
               "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
               "summary": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。",
               "source": "量子位",
-              "sourceUrl": ""
-            },
-            {
-              "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-              "summary": "OpenAI宣布其集成方案为临床医生提供患者健康记录的只读访问权限。",
-              "source": "TechCrunch",
               "sourceUrl": ""
             }
           ]
