@@ -1,0 +1,103 @@
+# ============================================================
+# 每日前线 - 每日定时采集（方案 A · 静态 JSON）
+# 时区：北京时间 09:00 与 20:00 = UTC 01:00 与 12:00
+# 跑完把 data/today.json + data/archive.json commit 回仓库，
+# 前端（GitHub Pages）即可直接 fetch 到最新数据。无需数据库、无需 Docker。
+# ============================================================
+name: Daily Update
+
+on:
+  # 每日两次采集（北京时间 09:00 / 20:00）
+  schedule:
+    - cron: "0 1 * * *"   # 北京时间 09:00
+    - cron: "0 12 * * *"  # 北京时间 20:00
+
+  # 允许手动触发（调试用）
+  workflow_dispatch:
+    inputs:
+      modules:
+        description: "指定模块（all/lol/football/ai）"
+        required: false
+        default: "all"
+
+  # push 触发自检（改了 collector.py 自动跑一次）
+  push:
+    paths:
+      - "backend/**"
+      - ".github/workflows/daily-update.yml"
+
+# 需要写回仓库的权限（用于 commit 数据）
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-update
+  cancel-in-progress: false  # 不取消，保留前次结果
+
+jobs:
+  collect:
+    name: 数据采集 + 提交 JSON
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: 拉代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+          cache-dependency-path: backend/requirements.txt
+
+      - name: 安装依赖
+        working-directory: backend
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 注入环境变量
+        working-directory: backend
+        run: |
+          cat > .env <<EOF
+          DASHSCOPE_API_KEY=${{ secrets.DASHSCOPE_API_KEY }}
+          DASHSCOPE_BASE_URL=${{ vars.DASHSCOPE_BASE_URL }}
+          DASHSCOPE_MODEL=${{ vars.DASHSCOPE_MODEL }}
+          FOOTBALL_API_KEY=${{ secrets.FOOTBALL_API_KEY }}
+          FOOTBALL_BASE_URL=${{ vars.FOOTBALL_BASE_URL }}
+          HF_TOKEN=${{ secrets.HF_TOKEN }}
+          ARXIV_MAX_RESULTS=${{ vars.ARXIV_MAX_RESULTS || 20 }}
+          ENABLE_LOL=${{ vars.ENABLE_LOL || true }}
+          ENABLE_FOOTBALL=${{ vars.ENABLE_FOOTBALL || true }}
+          ENABLE_AI=${{ vars.ENABLE_AI || true }}
+          MAX_FETCH_PER_SOURCE=${{ vars.MAX_FETCH_PER_SOURCE || 50 }}
+          KEEP_DAYS=${{ vars.KEEP_DAYS || 7 }}
+          TZ=Asia/Shanghai
+          EOF
+          echo "✅ .env 已生成"
+
+      - name: 执行采集
+        working-directory: backend
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: |
+          MODULES="${{ github.event.inputs.modules || 'all' }}"
+          echo "🚀 开始采集：模块=$MODULES"
+          python collector.py --modules "$MODULES"
+          echo "✅ 采集完成 → ../data/today.json"
+
+      - name: 提交数据回仓库
+        run: |
+          git config user.name "daily-front-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/today.json data/archive.json
+          if git diff --cached --quiet; then
+            echo "⏭️ 无变化，跳过提交"
+          else
+            git commit -m "chore: 每日更新 $(date +'%F %T')"
+            git push
+            echo "✅ 已推送最新数据"
+          fi

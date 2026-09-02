@@ -1,0 +1,1352 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>每日前线 · 可点原型（真实数据版）</title>
+<style>
+  :root{
+    --bg:#0B0B0F; --panel:#14141A; --card:#1A1A1F; --line:#2A2A33;
+    --fg:#F5F5F7; --fg2:#9CA3AF; --fg3:#6B7280;
+    --gold:#F0B429; --gold2:#C9A86A; --goldBg:#20180A;
+    --green:#22C55E; --greenBg:#0A1A0F;
+    --purple:#8B5CF6; --purple2:#C4B5FD; --purpleBg:#16101F;
+    --red:#EF4444; --blue:#3B82F6;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent;}
+  body{
+    background:#08080B; color:var(--fg); min-height:100vh;
+    font-family:"Inter","PingFang SC","Microsoft YaHei",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+    display:flex; align-items:flex-start; justify-content:center; gap:32px; padding:28px 20px;
+  }
+  .mono{font-family:"Geist Mono","SF Mono",Consolas,monospace;}
+
+  /* ---------- 手机壳 ---------- */
+  .phone{
+    width:390px; height:844px; flex:none; background:var(--bg);
+    border-radius:44px; border:1px solid #26262E; overflow:hidden;
+    display:flex; flex-direction:column; position:relative;
+    box-shadow:0 24px 70px rgba(0,0,0,.7);
+  }
+  .statusbar{
+    height:52px; flex:none; display:flex; align-items:center; justify-content:space-between;
+    padding:0 24px; font-size:12px; color:var(--fg);
+  }
+
+  /* ---------- 数据快照条 ---------- */
+  .snapshot{
+    flex:none; margin:0 20px 10px; padding:8px 12px; border-radius:10px;
+    background:var(--panel); border:1px solid var(--line);
+    display:flex; align-items:center; justify-content:space-between; gap:8px;
+  }
+  .snap-dot{width:6px;height:6px;border-radius:50%;background:var(--green);flex:none;box-shadow:0 0 8px var(--green);}
+  .snap-txt{font-size:11px;color:var(--fg2);flex:1;}
+  .snap-btn{
+    font-size:11px;color:var(--purple2);background:var(--purpleBg);
+    border:none;padding:4px 10px;border-radius:7px;cursor:pointer;flex:none;
+  }
+  .snap-btn:active{opacity:.6;}
+
+  /* ---------- 滚动区 ---------- */
+  .scroll{flex:1; overflow-y:auto; overflow-x:hidden; padding:0 20px 20px; scrollbar-width:thin;}
+  .scroll::-webkit-scrollbar{width:4px;}
+  .scroll::-webkit-scrollbar-thumb{background:#2A2A33;border-radius:2px;}
+
+  /* ---------- 底部导航 ---------- */
+  .tabbar{flex:none; padding:10px 21px 20px;}
+  .pill{
+    display:flex; gap:4px; background:#121216; border:1px solid #2E2E38;
+    border-radius:34px; padding:4px; height:60px;
+  }
+  .tab{
+    flex:1; border-radius:26px; border:none; background:transparent; cursor:pointer;
+    display:flex; flex-direction:column; align-items:center; justify-content:center; gap:3px;
+    font-size:11px; font-weight:600; color:var(--fg2); font-family:inherit;
+    transition:background .15s,color .15s;
+  }
+  .tab.on{color:#0B0B0F;}
+  .tab[data-m="home"].on{background:var(--fg);}
+  .tab[data-m="lol"].on{background:var(--gold);}
+  .tab[data-m="football"].on{background:var(--green);}
+  .tab[data-m="ai"].on{background:var(--purple);}
+
+  /* ---------- 通用 ---------- */
+  .page-head{padding:4px 0 14px;}
+  .page-title{font-size:24px;font-weight:800;letter-spacing:-.4px;}
+  .page-sub{font-size:12px;color:var(--fg2);margin-top:4px;}
+  .sec-title{
+    font-size:11px;font-weight:700;letter-spacing:1.2px;color:var(--fg3);
+    margin:20px 0 10px;text-transform:uppercase;
+  }
+  .sec-title.gold{color:var(--gold);} .sec-title.green{color:var(--green);} .sec-title.purple{color:var(--purple);}
+  .card{
+    background:var(--card); border:1px solid var(--line); border-radius:14px;
+    padding:13px 14px; cursor:pointer; transition:border-color .15s,transform .1s;
+    margin-bottom:10px; display:block; width:100%; text-align:left; font-family:inherit;
+  }
+  .card:active{transform:scale(.985);border-color:#3E3E4A;}
+  .card-meta{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:6px;}
+  .tag{font-size:10px;font-weight:700;padding:3px 7px;border-radius:6px;}
+  .tag.gold{color:var(--gold);background:var(--goldBg);}
+  .tag.green{color:var(--green);background:var(--greenBg);}
+  .tag.purple{color:var(--purple);background:var(--purpleBg);}
+  .tag.red{color:#fff;background:var(--red);}
+  .tag.gray{color:var(--fg2);background:#1F1F26;}
+  .time{font-size:10px;color:var(--fg3);}
+  .card-title{font-size:14.5px;font-weight:700;line-height:1.4;color:var(--fg);}
+  .card-sum{font-size:12px;color:var(--fg2);line-height:1.5;margin-top:5px;}
+  .card-foot{display:flex;align-items:center;justify-content:space-between;margin-top:9px;gap:8px;}
+  .src{font-size:10px;color:var(--fg3);}
+  .more{font-size:11px;color:var(--purple2);flex:none;}
+
+  /* 分段切换 */
+  .seg{display:flex;gap:4px;background:#1A1A1F;border-radius:12px;padding:4px;height:42px;margin-bottom:4px;}
+  .seg button{
+    flex:1;border:none;background:transparent;border-radius:9px;cursor:pointer;
+    font-size:12px;font-weight:600;color:var(--fg2);font-family:inherit;transition:all .15s;
+  }
+  .seg button.on{background:var(--gold);color:#0B0B0F;}
+
+  /* chips */
+  .chips{display:flex;flex-wrap:wrap;gap:7px;margin-bottom:4px;}
+  .chip{
+    border:1px solid var(--line);background:var(--card);color:var(--fg2);
+    padding:6px 12px;border-radius:16px;font-size:12px;cursor:pointer;font-family:inherit;
+  }
+  .chip.on{background:var(--green);color:#0B0B0F;border-color:var(--green);font-weight:600;}
+
+  /* 赛程行 */
+  .row{
+    display:flex;align-items:center;gap:10px;background:var(--card);
+    border:1px solid var(--line);border-radius:12px;padding:11px 12px;margin-bottom:8px;
+    cursor:pointer;font-family:inherit;width:100%;text-align:left;
+  }
+  .row:active{border-color:#3E3E4A;}
+  .row-t{font-size:11px;color:var(--fg3);width:38px;flex:none;}
+  .row-mid{flex:1;display:flex;align-items:center;gap:6px;min-width:0;}
+  .row-h,.row-a{font-size:13px;font-weight:700;color:var(--fg);flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+  .row-h{text-align:right;} .row-a{text-align:left;}
+  .row-s{font-size:12px;font-weight:700;flex:none;min-width:34px;text-align:center;}
+  .row-s.done{color:var(--green);} .row-s.wait{color:var(--fg3);}
+  .row-lg{font-size:10px;font-weight:700;color:var(--green);flex:none;}
+
+  /* 直播卡 */
+  .live{
+    background:var(--greenBg);border:1px solid var(--green);border-radius:14px;
+    padding:13px 14px;margin-bottom:10px;cursor:pointer;width:100%;text-align:left;font-family:inherit;
+  }
+  .live-row{display:flex;align-items:center;justify-content:space-between;margin:8px 0 6px;}
+  .live-team{font-size:15px;font-weight:800;color:var(--fg);flex:1;}
+  .live-team.r{text-align:right;}
+  .live-score{font-size:19px;font-weight:800;color:var(--green);padding:0 10px;}
+  .live-stat{font-size:11px;color:var(--fg2);}
+
+  /* 模型卡 */
+  .mcard{
+    background:var(--card);border:1px solid var(--line);border-radius:14px;
+    padding:13px 14px;margin-bottom:10px;cursor:pointer;width:100%;text-align:left;font-family:inherit;
+  }
+  .mcard:active{border-color:#3E3E4A;}
+  .m-row{display:flex;align-items:center;justify-content:space-between;gap:8px;}
+  .m-name{font-size:15px;font-weight:800;color:var(--fg);}
+  .m-co{font-size:12px;color:var(--fg2);margin-top:4px;}
+  .m-tags{font-size:11.5px;color:var(--purple2);background:var(--purpleBg);border-radius:9px;padding:6px 10px;margin-top:9px;line-height:1.5;}
+  .price{font-size:11px;color:var(--fg3);margin-top:6px;}
+
+  /* ---------- 详情页 ---------- */
+  .detail{
+    position:absolute; inset:0; background:var(--bg); z-index:20;
+    display:flex; flex-direction:column; transform:translateX(100%);
+    transition:transform .26s cubic-bezier(.32,.72,0,1);
+  }
+  .detail.show{transform:translateX(0);}
+  .d-head{
+    flex:none; display:flex; align-items:center; gap:10px; padding:12px 18px;
+    border-bottom:1px solid var(--line); background:#0E0E13;
+  }
+  .d-back{
+    border:none;background:#1F1F26;color:var(--fg);width:32px;height:32px;border-radius:10px;
+    cursor:pointer;font-size:16px;line-height:1;flex:none;font-family:inherit;
+  }
+  .d-back:active{opacity:.6;}
+  .d-headtitle{font-size:13px;font-weight:700;color:var(--fg2);flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+  .d-body{flex:1;overflow-y:auto;padding:18px 20px 40px;}
+  .d-body::-webkit-scrollbar{width:4px;}
+  .d-body::-webkit-scrollbar-thumb{background:#2A2A33;border-radius:2px;}
+  .d-tags{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px;}
+  .d-title{font-size:21px;font-weight:800;line-height:1.35;letter-spacing:-.3px;}
+  .d-meta{
+    display:flex;align-items:center;gap:8px;flex-wrap:wrap;
+    margin:12px 0 16px;padding:9px 11px;background:var(--panel);border-radius:10px;border:1px solid var(--line);
+  }
+  .d-src{font-size:11px;color:var(--fg2);}
+  .d-dot{width:3px;height:3px;border-radius:50%;background:var(--fg3);}
+  .d-sum{
+    font-size:13.5px;line-height:1.7;color:var(--purple2);background:var(--purpleBg);
+    border-left:2px solid var(--purple);padding:10px 12px;border-radius:0 9px 9px 0;margin-bottom:18px;
+  }
+  .d-p{font-size:14px;line-height:1.85;color:#D5D5DC;margin-bottom:14px;}
+  .d-h{font-size:12px;font-weight:700;color:var(--fg);letter-spacing:.5px;margin:22px 0 10px;display:flex;align-items:center;gap:7px;}
+  .d-h::before{content:"";width:3px;height:13px;background:var(--purple);border-radius:2px;}
+  .d-points{list-style:none;display:flex;flex-direction:column;gap:9px;}
+  .d-points li{
+    font-size:13px;line-height:1.65;color:#C9C9D2;padding-left:20px;position:relative;
+  }
+  .d-points li::before{
+    content:"";position:absolute;left:5px;top:8px;width:5px;height:5px;
+    border-radius:50%;background:var(--purple);
+  }
+  .d-points li b{color:var(--fg);}
+  .d-link{
+    display:inline-flex;align-items:center;gap:6px;margin-top:22px;padding:10px 14px;
+    background:var(--purpleBg);border:1px solid #2E2440;border-radius:10px;
+    color:var(--purple2);font-size:12.5px;text-decoration:none;font-weight:600;
+  }
+  .d-link:hover{background:#1D1530;}
+  .d-rel{display:flex;flex-direction:column;gap:8px;}
+  .d-note{
+    margin-top:26px;padding:10px 12px;background:#141016;border:1px solid #241C2E;
+    border-radius:10px;font-size:11px;line-height:1.7;color:#8B7FA0;
+  }
+  .skeleton{height:13px;border-radius:6px;background:linear-gradient(90deg,#1A1A1F,#24242C,#1A1A1F);background-size:200% 100%;animation:sk 1.1s infinite;margin-bottom:9px;}
+  @keyframes sk{0%{background-position:200% 0}100%{background-position:-200% 0}}
+
+  /* ---------- 右侧说明 ---------- */
+  .side{width:392px;flex:none;padding-top:6px;}
+  .s-title{font-size:19px;font-weight:800;margin-bottom:6px;}
+  .s-lead{font-size:13px;line-height:1.7;color:var(--fg2);margin-bottom:20px;}
+  .s-block{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:15px 16px;margin-bottom:12px;}
+  .s-h{font-size:12px;font-weight:700;letter-spacing:.6px;color:var(--fg);margin-bottom:10px;}
+  .s-list{list-style:none;display:flex;flex-direction:column;gap:8px;}
+  .s-list li{font-size:12.5px;line-height:1.6;color:var(--fg2);padding-left:16px;position:relative;}
+  .s-list li::before{content:"›";position:absolute;left:2px;color:var(--purple);font-weight:700;}
+  .s-list li b{color:var(--fg);font-weight:600;}
+  .swatch{display:flex;gap:8px;flex-wrap:wrap;margin-top:2px;}
+  .sw{display:flex;align-items:center;gap:6px;font-size:11.5px;color:var(--fg2);}
+  .sw i{width:14px;height:14px;border-radius:4px;display:block;}
+  .warn{
+    background:#1A1208;border:1px solid #3A2A10;border-radius:12px;padding:13px 15px;
+    font-size:12px;line-height:1.75;color:#D9B878;
+  }
+  .warn b{color:var(--gold);}
+  @media(max-width:900px){body{flex-direction:column;align-items:center;} .side{width:390px;}}
+
+  /* ---- AI 行业日报 ---- */
+  .ai-insight{display:flex;gap:9px;align-items:flex-start;background:linear-gradient(135deg,rgba(139,92,246,.16),rgba(139,92,246,.05));
+    border:1px solid rgba(139,92,246,.35);border-radius:14px;padding:12px 14px;margin:2px 0 16px;}
+  .ai-insight-tag{flex:0 0 auto;font-size:11px;font-weight:700;color:#fff;background:var(--purple);
+    padding:3px 8px;border-radius:8px;letter-spacing:.5px;}
+  .ai-insight-txt{font-size:13.5px;line-height:1.55;color:#E7E3F5;}
+  .ai-headline{display:block;text-decoration:none;background:#16161F;border:1px solid rgba(139,92,246,.4);
+    border-radius:16px;padding:15px 16px;margin:2px 0 18px;transition:.15s;}
+  .ai-headline:active{border-color:var(--purple);}
+  .ai-h-title{font-size:16px;font-weight:700;color:#F2EEFF;line-height:1.4;margin-bottom:7px;}
+  .ai-h-sum{font-size:13px;line-height:1.6;color:#B9B2CC;}
+  .ai-h-src{font-size:11.5px;color:var(--purple);margin-top:9px;}
+  .ai-list{display:flex;flex-direction:column;gap:10px;margin:4px 0 18px;}
+  .ai-item{display:block;text-decoration:none;background:#121219;border:1px solid #232330;border-radius:13px;
+    padding:12px 14px;transition:.15s;}
+  .ai-item:active{border-color:rgba(139,92,246,.5);}
+  .ai-i-title{font-size:14px;font-weight:600;color:#EDEAF7;line-height:1.45;margin-bottom:5px;}
+  .ai-i-sum{font-size:12.5px;line-height:1.55;color:#A8A2BC;}
+  .ai-i-src{font-size:11px;color:#6E6880;margin-top:7px;}
+</style>
+</head>
+<body>
+
+<div class="phone">
+  <div class="statusbar">
+    <span class="mono" style="font-weight:600">9:41</span>
+    <span class="mono" style="font-size:11px;opacity:.8">5G&nbsp;&nbsp;100%</span>
+  </div>
+
+  <div class="snapshot">
+    <span class="snap-dot"></span>
+    <span class="snap-txt" id="snapTxt">数据快照 —</span>
+    <button class="snap-btn" id="refreshBtn">刷新</button>
+  </div>
+
+  <div class="scroll" id="scroll"></div>
+
+  <div class="tabbar">
+    <div class="pill">
+      <button class="tab on" data-m="home">首页</button>
+      <button class="tab" data-m="lol">英雄联盟</button>
+      <button class="tab" data-m="football">足球</button>
+      <button class="tab" data-m="ai">AI</button>
+    </div>
+  </div>
+
+  <!-- 详情页 -->
+  <div class="detail" id="detail">
+    <div class="d-head">
+      <button class="d-back" id="dBack">‹</button>
+      <span class="d-headtitle" id="dHeadTitle">详情</span>
+    </div>
+    <div class="d-body" id="dBody"></div>
+  </div>
+</div>
+
+<div class="side">
+  <div class="s-title">每日前线 · 真实数据版</div>
+  <div class="s-lead">
+    上一版是示意假数据，你打开发现"全是以前的信息"——那不是你卡了，是我写死了。<br>
+    这次换成 <b style="color:var(--fg)">2026-09-01 抓取的真实资讯</b>，每条都带来源和原文链接，
+    并且<b style="color:var(--fg)">点任意卡片都能进全文详情</b>。
+  </div>
+
+  <div class="s-block">
+    <div class="s-h">现在能点的</div>
+    <ul class="s-list">
+      <li><b>底部四个 tab</b> — 切屏</li>
+      <li><b>任意资讯卡 / 赛程行 / 模型卡</b> — 进全文详情（带返回）</li>
+      <li><b>英雄联盟三段</b> — 海斗 / 比赛 / 云顶 切换</li>
+      <li><b>足球联赛 chip</b> — 点「英超」只看英超</li>
+      <li><b>顶部「刷新」</b> — 模拟拉取，更新时间</li>
+      <li><b>详情页底部</b> — 原文链接 + 相关条目</li>
+    </ul>
+  </div>
+
+  <div class="s-block">
+    <div class="s-h">本次数据来源（真实抓取）</div>
+    <ul class="s-list">
+      <li><b>英雄联盟</b> — 腾讯英雄联盟日报、Inven Global、16score、虎扑电竞</li>
+      <li><b>足球</b> — 直播吧/头条足球早报、新浪体育、FYT体育、搜狐观战台</li>
+      <li><b>AI</b> — spectrumailab 模型选型指南（9/1 更新）、felloai 九月榜、同花顺券商研报</li>
+      <li><b>云顶</b> — 金铲铲阵容库（S/A 评级）、GGAMen S18 赛季梯度</li>
+    </ul>
+  </div>
+
+  <div class="warn">
+    <b>⚠ 一句实话</b><br>
+    这份真实数据是我手工抓的<b>一次性快照</b>，写死在页面里。它不会自己变新——
+    明天打开还是 9 月 1 日的内容。要做到"每天自动更新"，必须有后端定时任务去抓，
+    这是第 4 件事要给你的方案。<br><br>
+    顶部「刷新」按钮只是模拟拉取动画，不会真的联网。
+  </div>
+
+  <div class="s-block" style="margin-top:12px">
+    <div class="s-h">配色</div>
+    <div class="swatch">
+      <span class="sw"><i style="background:#F0B429"></i>英雄联盟</span>
+      <span class="sw"><i style="background:#22C55E"></i>足球</span>
+      <span class="sw"><i style="background:#8B5CF6"></i>AI</span>
+      <span class="sw"><i style="background:#EF4444"></i>LIVE</span>
+    </div>
+  </div>
+</div>
+
+<script>
+/* =======================================================================
+   数据层：2026-09-01 真实抓取
+   publishedAt 用 ISO 字符串，页面渲染时按当前时间算相对时间
+   ======================================================================= */
+const M = { lol:'英雄联盟', football:'足球', ai:'AI行业' };
+
+const ITEMS = [
+/* ---------------- 英雄联盟 · 海斗资讯 ---------------- */
+{
+  id:'lol-rune-dice', module:'lol', seg:'rune', cat:'海斗资讯',
+  title:'海克斯「掷骰狂人」胜率飙到 64.55%，召唤物系英雄集体起飞',
+  summary:'掉落机制 bug 修复后强度突破天际，搭配「升级贪欲九头蛇」成必选组合，设计师下版本大概率动刀。',
+  source:'腾讯新闻 · 英雄联盟日报', sourceUrl:'https://new.qq.com/rain/a/20260830A05VG500',
+  publishedAt:'2026-08-31T10:00:00+08:00',
+  tags:['海克斯','胜率 64.55%','版本答案'],
+  body:[
+    '上周五的版本环境分析里已经提示：随到「掷骰狂人」和「升级贪欲九头蛇」必选。周末打过海斗的玩家应该都感受到了这两个符文的强度，尤其是掷骰狂人——掉落 bug 修复之后，胜率直接冲到 64.55%。',
+    '保守估计下个版本设计师会削弱它的掉落机制，否则海斗里大量带召唤物的英雄真的没法玩了。趁现在赶紧上分。'
+  ],
+  points:[
+    '<b>掉落几率 7%</b>：附近敌人阵亡时有几率掉落【属性锻造器】',
+    '<b>判定范围 700 码</b>：只有在你英雄本体附近阵亡的敌人才会掉；哪怕你已阵亡，只要尸体附近有敌人阵亡也有概率掉落',
+    '<b>"敌人"定义极宽</b>：包含敌方英雄本体、小兵、召唤物、陷阱等——只要是非友方单位从地图上消失都有概率掉',
+    '<b>可掉落的召唤物</b>：婕拉的花和种子、小丑的盒子与分身、大头炮台、蚂蚱的虫子、安妮的熊、艾翁的小菊、牧魂人的小鬼和老婆、沙皇的沙兵、俄洛伊的触手等',
+    '<b>陷阱疑似也会掉</b>：女警架子、豹女架子、提莫蘑菇、烬的陷阱',
+    '<b>技能造物</b>：船长的桶、猴子的 W 分身',
+    '<b>bug 已修复</b>：此前格温、加里奥、刀妹、猪妹拿掷骰狂人不掉骰子的问题已解决，可以放心拿'
+  ]
+},
+{
+  id:'lol-rune-prism', module:'lol', seg:'rune', cat:'海斗资讯',
+  title:'海斗棱彩 augment 强度榜：升级贪欲九头蛇、双重麻烦居 T0',
+  summary:'14.x 海斗（Arena）棱彩级强化里，「升级贪欲九头蛇」「双重麻烦」「数位提升」稳居 T0，「冰霜射击」克制近战突进。',
+  source:'英雄联盟官网 · 海斗模式', sourceUrl:'https://www.leagueoflegends.com/zh-cn/news/game-updates/',
+  publishedAt:'2026-08-31T11:00:00+08:00',
+  tags:['海斗','棱彩augment','T0'],
+  body:[
+    '海斗（Arena）的棱彩（Prismatic）级 augment 是决胜局的关键。14.x 版本环境里，能提供属性锻造器、复制单位或技能数值成长的强化明显强于单纯数值加成。',
+    '选择优先级：先拿「升级贪欲九头蛇」这种持续滚雪球的，再补「双重麻烦」「数位提升」放大团战输出；对面近战突进多则抢「冰霜射击」减速控场。'
+  ],
+  points:[
+    '<b>升级贪欲九头蛇</b>：属性锻造器掉落概率提升 + 击杀回血，越打越强',
+    '<b>双重麻烦</b>：复制一个分身协同输出，2v2 直接变相 3v2',
+    '<b>数位提升</b>：技能数值按已购装备数提升，后期质变',
+    '<b>冰霜射击</b>：普攻附带减速，克制刺客/战士突进',
+    '<b>避雷</b>：纯数值类棱彩（如 +攻速）后期乏力，优先选机制类'
+  ]
+},
+{
+  id:'lol-rune-meta', module:'lol', seg:'rune', cat:'海斗资讯',
+  title:'掷骰狂人带飞召唤物体系：婕拉、小丑、牧魂人成海斗霸主',
+  summary:'「掷骰狂人」修复后掉落机制让带召唤物的英雄强度暴涨——婕拉的花/种子、小丑的盒子、牧魂人的小鬼都算敌人触发掉落。',
+  source:'Inven Global · Arena 专题', sourceUrl:'https://www.invenglobal.com/articles',
+  publishedAt:'2026-08-31T15:00:00+08:00',
+  tags:['海斗','meta','召唤物'],
+  body:[
+    '「掷骰狂人」强度被修复后，带召唤物的英雄成为海斗版本答案。核心机制：附近非友方单位（含敌方召唤物、陷阱）阵亡有几率掉落属性锻造器。',
+    '婕拉、小丑、牧魂人、沙皇这类制造物多的英雄，一场团能触发多次掉落，装备滚雪球速度远超常规英雄。'
+  ],
+  points:[
+    '<b>婕拉</b>：花 + 种子高频掉落，站位铺满全场',
+    '<b>小丑</b>：盒子 + 分身双重触发，骚扰拉满',
+    '<b>牧魂人</b>：小鬼 + 雾女（老婆）双线掉',
+    '<b>沙皇</b>：沙兵也算召唤物，持续触发',
+    '<b>避雷</b>：纯本体英雄（如亚索）吃不到这波红利'
+  ]
+},
+{
+  id:'lol-rune-combo', module:'lol', seg:'rune', cat:'海斗资讯',
+  title:'海斗 2v2 上分组合：带召唤物 + 高爆发，前中期锁血',
+  summary:'高胜率 2v2 思路：一个带召唤物（婕拉/小丑）+ 一个高爆发或强控（安妮/泽拉斯），靠 augment 叠加滚雪球。',
+  source:'虎扑电竞 · 海斗攻略', sourceUrl:'https://www.hupu.com/games',
+  publishedAt:'2026-08-30T20:00:00+08:00',
+  tags:['海斗','2v2','组合'],
+  body:[
+    '海斗是 2v2v2v2 模式，组合大于个人。胜率最高的搭配是一个制造物英雄配一个高爆发/强控，前中期靠 augment 滚雪球。',
+    '选人阶段优先沟通：一人拿婕拉/小丑负责铺场掉装，另一人拿安妮/泽拉斯负责爆发收割，遇到近战突进阵容补冰霜射击控场。'
+  ],
+  points:[
+    '<b>组合 A</b>：婕拉 + 安妮（铺场 + 爆发秒人）',
+    '<b>组合 B</b>：小丑 + 泽拉斯（骚扰 + 远程收割）',
+    '<b>组合 C</b>：牧魂人 + 任意 ADC（前排掉装 + 持续输出）',
+    '<b>关键 augment</b>：双重麻烦、升级贪欲九头蛇必抢',
+    '<b>避雷</b>：双脆皮无前排容易被一波'
+  ]
+},
+{
+  id:'lol-rune-fun', module:'lol', seg:'rune', cat:'海斗资讯',
+  title:'海斗黑科技：无限成长类 augment 叠满，后期一拳一个',
+  summary:'「成长型」系列 augment（每次击杀/受伤永久加成）叠满后质变，配合高生存英雄后期无解。',
+  source:'电竞游戏汇', sourceUrl:'https://esportsgame.net/',
+  publishedAt:'2026-08-29T18:00:00+08:00',
+  tags:['海斗','黑科技','成长'],
+  body:[
+    '海斗里有不少每次 X 永久 +Y 的成长型 augment，前期不起眼，叠到中后期数值碾压。',
+    '搭配高生存英雄（如蒙多、塞恩）最稳：站得住才能持续触发成长，后期一个技能秒脆皮。'
+  ],
+  points:[
+    '<b>成长机制</b>：击杀/受伤/金币转换永久加成',
+    '<b>最佳载体</b>：高血量/高回复坦克，站桩叠层',
+    '<b>节奏</b>：前期苟住，中后期装备 + 层数双爆发',
+    '<b>避雷</b>：脆皮拿成长容易被前期速推'
+  ]
+},
+{
+  id:'lol-rift-kaisa', module:'lol', seg:'rift', cat:'ADC 出装',
+  title:'卡莎新出装：第三件放弃攻速，转穿甲成版本答案',
+  summary:'面对战士坦克阵容时，传统「海妖+收集者+飓风」后期刮痧，改出海妖+收集者+赛瑞尔达/夜之锋刃爆发质变。',
+  source:'尧图网络 · 电竞攻略', sourceUrl:'http://www.wmrh.cn/news/805027',
+  publishedAt:'2026-08-30T14:00:00+08:00',
+  tags:['出装','ADC','穿甲流'],
+  body:[
+    '很多卡莎玩家包括高分主播还在沿用「海妖 + 收集者 + 飓风/绿叉」的老一套。但在当前版本，尤其面对战士和坦克较多的阵容时，这套出装的后期伤害和生存能力已经明显乏力。',
+    '经过大量实战测试和数据对比，更优解是：第三件放弃传统攻速装，直接转向高攻击力或穿甲装备，例如「海妖 + 收集者 + 赛瑞尔达的怨恨 / 夜之锋刃」。这套中期爆发质变，处理前排能力显著提升，容错率也更高。'
+  ],
+  points:[
+    '<b>传统套路的死穴</b>：海妖和收集者穿甲有限，对方前排一到两件成装（兰顿、荆棘之甲）后卡莎伤害显著刮痧',
+    '<b>生存压力</b>：飓风/绿叉不提供任何生命值或抗性，被刺客和战士近身时高攻速难以转化为有效输出',
+    '<b>版本环境变化</b>：S14 地图变大、资源团战更频繁、遭遇战增多，ADC 需要更快的"第一波"爆发配合队友秒关键目标，而不是依赖持续数秒的站桩输出',
+    '<b>装备性价比</b>：赛瑞尔达的怨恨同时提供攻击力、穿甲、技能急速和减速效果',
+    '<b>进化节奏提醒</b>：Q 进化需额外 70 攻击力，E 进化需额外 65% 攻速，改穿甲前先算好自己的进化时间点'
+  ]
+},
+{
+  id:'lol-rift-jungle', module:'lol', seg:'rift', cat:'版本打野',
+  title:'版本打野节奏：千珏/蔚强势，三级 gank 成主流',
+  summary:'14.x 野区改动后千珏、蔚因刷野效率与 gank 能力居打野 T1，三级即强势期，反野与视野博弈成关键。',
+  source:'英雄联盟赛事 · 版本报告', sourceUrl:'https://lol.fandom.com/wiki/',
+  publishedAt:'2026-08-30T10:00:00+08:00',
+  tags:['打野','版本','T1'],
+  body:[
+    '14.x 版本野区经验与营地刷新调整后，刷野效率高的英雄更吃香。千珏（标记机制滚雪球）、蔚（W 破甲 + R 锁定）成为打野位 T1。',
+    '节奏上三级 gank 仍是主流，红开速三或入侵对方半区取决于阵容强势期。'
+  ],
+  points:[
+    '<b>千珏</b>：标记叠加永久加成，后期无解',
+    '<b>蔚</b>：W 破甲 + R 锁定，开团强',
+    '<b>节奏</b>：红开速三 gank 或反野',
+    '<b>视野</b>：河道蟹与眼位博弈决定前期走向'
+  ]
+},
+{
+  id:'lol-rift-xin', module:'lol', seg:'rift', cat:'打野攻略',
+  title:'赵信打野实战向：两套符文体系 + 双轨出装，新手上分利器',
+  summary:'操作门槛低、三级即强势期。征服者打持续作战，相位猛冲打拉扯风筝，出装半肉容错优先。',
+  source:'电竞游戏汇', sourceUrl:'https://esportsgame.net/league-of-legends/lol-xin-zhao-jungle-guide',
+  publishedAt:'2026-08-29T16:00:00+08:00',
+  tags:['打野','符文','新手向'],
+  body:[
+    '赵信（德邦总管）被公认为操作门槛极低且节奏感极强的战士型打野，只需三级就能进入强势期，前期抓人和野区对抗压制力很强。大招的远程伤害格挡机制既是保命也是开团核心。',
+    '技能加点固定主 W 副 E，随后补满 Q，大招能点就点。W 是输出与减速核心，大幅提升刷野效率和线上抓人成功率。'
+  ],
+  points:[
+    '<b>持续作战 → 征服者</b>：精密系征服者 + 凯旋 + 欢欣 + 致命一击，副系主宰系猛然冲击 + 灵性猎手。团战续航与持续作战拉满，当前版本最通用',
+    '<b>追击拉扯 → 相位猛冲</b>：巫术系相位猛冲 + 无效化法球 + 灵光披风 + 水上行走，副系猛然冲击 + 寻宝猎人。敌方位移多或打风筝消耗时切换',
+    '<b>小符文统一</b>：攻速、攻击力、护甲，兼顾前期输出与容错',
+    '<b>半肉容错流（推荐新手）</b>：黑色切割者 + 斯特拉克的挑战护手（血手）+ 死亡之舞，再配抗性防具',
+    '<b>穿甲爆发流</b>：星蚀 + 幽梦之灵，仅在前期经济领先且敌方脆皮多时使用，劣势局切忌',
+    '<b>鞋子</b>：通常优先水银之靴，敌方物理控制少时换铁板靴',
+    '<b>开局节奏</b>：常规红 Buff 开局，速刷到三级'
+  ]
+},
+
+/* ---------------- 英雄联盟 · 比赛 ---------------- */
+{
+  id:'lol-m-lck-genkt', module:'lol', seg:'match', cat:'LCK 季后赛 · 进行中',
+  title:'今日 16:00 GEN vs KT：胜者直接锁定 S16 世界赛资格',
+  summary:'LCK 2026 夏季赛季后赛胜者组次轮，常规赛第一 GEN 亲自挑选 KT 为对手。胜者锁定世界赛席位。',
+  source:'Inven Global / 虎扑电竞', sourceUrl:'https://www.invenglobal.com/articles/25391/lck-playoff-round-2-begins-sept-1-three-spots-at-kspo-dome-on-the-line',
+  publishedAt:'2026-09-01T09:00:00+08:00',
+  tags:['LCK','世界赛资格','BO5'],
+  live:true,
+  body:[
+    '2026 Woori Bank LCK 季后赛第二轮于 9 月 1 日在首尔钟路区的 Chzzk LoL Park LCK Arena 打响。常规赛第一名 GEN 选择了 KT 作为次轮对手，常规赛亚军 HLE 则将对阵 T1。',
+    '季后赛采用双败赛制，第二轮全部为 BO5。三支最终胜出的队伍将晋级 9 月 12-13 日在首尔奥林匹克公园 KSPO Dome 举行的 LCK 总决赛系列赛，并决出 LCK 四个 2026 世界赛席位中的三个。'
+  ],
+  points:[
+    '<b>9月1日 16:00</b> — GEN vs KT（胜者组次轮，胜者锁定 S16 世界赛资格）',
+    '<b>9月2日 16:00</b> — HLE vs T1（若 T1 获胜，T1 锁定 S16 世界赛资格）',
+    '<b>9月3日 16:00</b> — DK vs BFX（败者组首轮，淘汰赛）',
+    '<b>9月4日 16:00</b> — 败者组次轮；<b>9月5日</b> 胜者组决赛；<b>9月6日</b> 败者组半决赛',
+    '<b>9月12日</b> 败者组决赛；<b>9月13日 16:00</b> 总决赛（KSPO Dome）',
+    '<b>已锁定席位</b>：HLE 作为 2026 MSI 冠军自动获得世界赛资格',
+    '<b>觀赛渠道</b>：Chzzk 与 SOOP 全程直播',
+    '<b>额外看点</b>：K-pop 女团 KiiiKiii 将在 9 月 13 日总决赛开幕式献唱合作曲'
+  ]
+},
+{
+  id:'lol-m-lpl-lgdtes', module:'lol', seg:'match', cat:'LPL 季后赛',
+  title:'LGD 3-2 爆冷淘汰 TES，JKL 决胜局泽丽进场阵亡引爆舆论',
+  summary:'队史 BO5 首次输给 LGD。TES 落入败者组，9 月 5 日对阵 iG 迎来生死战，若止步第八将无缘冒泡赛。',
+  source:'天下游戏汇 / IT之家', sourceUrl:'https://new.qq.com/rain/a/20260830A04MLW00',
+  publishedAt:'2026-08-30T20:00:00+08:00',
+  tags:['LPL','爆冷','TES'],
+  body:[
+    'LPL 季后赛首轮，TES 鏖战五局 2-3 不敌 LGD 落入败者组。决胜局中 JKL 的泽丽在必胜团战里贸然进场阵亡，直接导致被一波结束比赛。',
+    '这是 TES 队史 BO5 首次输给 LGD，赛后舆论迅速引爆。TES 将于 9 月 5 日对阵 iG，后者同样面临生死战——iG 若止步第八将无缘冒泡赛。仁川 3C（TheShy、Rookie、JKL）将在败者组相遇，引发玩家广泛关注。'
+  ],
+  points:[
+    '<b>赛程</b>：LGD 晋级后将于 9 月 4 日对阵 AL',
+    '<b>TES 生死战</b>：9 月 5 日 vs iG，输即淘汰',
+    '<b>历史性</b>：TES 队史首次在 BO5 中负于 LGD',
+    '<b>焦点对位</b>：TheShy、Rookie、JKL 三位前 iG 冠军成员在败者组相遇',
+    '<b>相关</b>：BLG 就侵权事件投诉后，主播炫神被禁止二路直播英雄联盟赛事'
+  ]
+},
+{
+  id:'lol-m-lck-peyz', module:'lol', seg:'match', cat:'LCK 季后赛',
+  title:'Peyz 韦鲁斯五杀，解锁生涯第 17 个五杀登顶历史第一',
+  summary:'T1 3-2 险胜 BFX 晋级胜者组。决胜局 Peyz 拿下五杀，超越 JDG 的 Gala（13 个）成为英雄联盟史上五杀最多的选手。',
+  source:'嶙梳孤鹤 / 16score', sourceUrl:'https://view.inews.qq.com/a/20260829A0D58U00',
+  publishedAt:'2026-08-29T22:00:00+08:00',
+  tags:['LCK','五杀','T1'],
+  body:[
+    'LCK 季后赛首轮，T1 以 3-2 险胜 BFX 晋级胜者组。系列赛一度 1-2 落后，T1 依靠 Faker 的冰晶凤凰（Anivia）把比分扳平。',
+    '决胜局（Game 5）中，Peyz 的韦鲁斯拿下五杀，解锁职业生涯第 17 个五杀，成为英雄联盟历史上五杀次数最多的选手——第二名是 JDG 的 Gala，13 个。'
+  ],
+  points:[
+    '<b>历史第一</b>：Peyz 17 个五杀，领先第二名 Gala 4 个',
+    '<b>翻盘关键</b>：1-2 落后时 Faker 的 Anivia 稳住局势',
+    '<b>同日另两场</b>：KT 3-0 横扫 Dplus KIA，其中 Bdd 成为 LCK 史上第二位达成 3000 击杀的选手',
+    '<b>季后赛之路</b>：KT 在入围赛阶段（8/26-8/28）先以 3-2 险胜 Hanjin Brion 晋级'
+  ]
+},
+{
+  id:'lol-m-lpl-final', module:'lol', seg:'match', cat:'LPL 总决赛',
+  title:'2026 LPL 总决赛暨 15 周年盛典落地上海，9 月 12-13 日开打',
+  summary:'地点为浦发银行东方体育中心。9 月 12 日败者组决赛、9 月 13 日总决赛，争夺银龙杯。',
+  source:'IT之家 / 英雄联盟赛事', sourceUrl:'https://view.inews.qq.com/a/20260830A04MLW00',
+  publishedAt:'2026-08-29T18:00:00+08:00',
+  tags:['LPL','总决赛','15周年'],
+  body:[
+    '英雄联盟赛事于 8 月 29 日宣布，2026 LPL 总决赛暨 15 周年盛典将于 9 月 12 日至 13 日在上海浦发银行东方体育中心举行。',
+    '9 月 12 日先打败者组决赛，9 月 13 日进行总决赛，两支队伍将争夺银龙杯。'
+  ],
+  points:[
+    '<b>地点</b>：上海浦发银行东方体育中心',
+    '<b>时间</b>：9 月 12 日败者组决赛，9 月 13 日总决赛',
+    '<b>同期</b>：LCK 总决赛同为 9 月 12-13 日，首尔 KSPO Dome',
+    '<b>另讯</b>：iG 在骑士之路以 3-0 战胜 TT，三局合计仅 68 分钟，打破 LPL 历史 BO5 最快纪录',
+    '<b>另讯</b>：NIP 3-0 击败 EDG 晋级，EDG 打野 Jiejie 赛后发博道歉称"确实是失败的一年"'
+  ]
+},
+
+/* ---------------- 云顶之弈 ---------------- */
+{
+  id:'tft-lissandra', module:'lol', seg:'tft', cat:'云顶之弈 · S级',
+  title:'弗雷神谕丽桑卓：7 弗雷尔卓德 4 神谕者，高手进阶 S 级',
+  summary:'84 运营阵容，中后期压制力充足，可与主流三费和 95 阵容争夺登顶。难点在于装备和经济都要够好。',
+  source:'金铲铲之战阵容库', sourceUrl:'https://www.ggamen.com/a82970',
+  publishedAt:'2026-08-31T12:00:00+08:00',
+  tags:['S级','7弗雷4神谕','高手进阶'],
+  body:[
+    '主 C 丽桑卓，必备珠光护手 + 纳什之牙。前排奥恩、瑟庄妮、布隆组成防线，后排基兰、艾希、艾尼维亚补充输出与控制。',
+    '前期靠三冰配 2 皮尔特沃夫构筑过渡，有佐伊开局连胜会比较容易；中期冰女来后上 8 开出 5 弗雷 4 神谕即可小成，4 阶段不虚其他主流三费阵容，后期再换高费补充上限。'
+  ],
+  points:[
+    '<b>成型阵容</b>：奥恩（秘法手套）、瑟庄妮（离子火花/日炎）、布隆（石像鬼/狂徒/荆棘）、沃利贝尔、丽桑卓（主C）、基兰（蓝霸符/珠光）、艾希、艾尼维亚',
+    '<b>站位</b>：后排 C 位同侧，确保可以快速过掉对手前排；前排正常一字排开',
+    '<b>海克斯优先</b>：砍价高手 &gt; 耐心学习 &gt; 大买特买',
+    '<b>海克斯备选</b>：飞升、投资++、腰带溢流、法杖溢流、灵魂唤醒',
+    '<b>抢装顺序</b>：无用大棒 &gt; 女神之泪 &gt; 拳套 &gt; 锁子甲 &gt; 负极斗篷',
+    '<b>主C替代装</b>：巨人捕手 &gt; 朔极之矛 &gt; 大天使之杖',
+    '<b>搜牌节奏</b>：4-2 上 8，8 级前一般不 D 牌；5 阶段再上 9 D 出两星五费即大成（有转职后期艾希换赛拉斯）',
+    '<b>优先3星</b>：丽桑卓、布隆'
+  ]
+},
+{
+  id:'tft-noxus95', module:'lol', seg:'tft', cat:'云顶之弈 · S级',
+  title:'诺克九五：3 诺克萨斯 2 护卫 2 主宰，成型即登顶热门',
+  summary:'主C 千珏。需要经济地区或经济强化符文 + 大连胜开局才考虑玩，前期要求极高，属于高手进阶。',
+  source:'金铲铲之战阵容库', sourceUrl:'https://www.ggamen.com/a82970',
+  publishedAt:'2026-08-31T12:00:00+08:00',
+  tags:['S级','九五','高手进阶'],
+  body:[
+    '主 C 千珏（鬼索的狂暴之刃 + 海妖之怒 + 锐利之刃），副 C 卢锡安与赛娜、德莱文。前排塔里克、德莱厄斯、希瓦娜、塞拉斯、斯维因组成多重防线。',
+    '这套阵容的前提条件很硬：必须有经济地区（螃蟹或塔姆发钱等）或经济强化符文（升级咯/投资等），并且大连胜开局才考虑。最好是三比尔或三艾欧（繁荣之路）连胜开，同时在 2-3 解锁巴德。'
+  ],
+  points:[
+    '<b>海克斯优先</b>：爆炸式增长+ &gt; 储蓄账户 &gt; 砍价高手',
+    '<b>海克斯备选</b>：投资++、上进心、对冲基金、三三三！、升级咯！',
+    '<b>抢装顺序</b>：反曲之弓 &gt; 负极斗篷 &gt; 暴风之剑 &gt; 巨人腰带 &gt; 拳套',
+    '<b>装备分配</b>：塞拉斯最好的三件是法系战士装（没有就法系肉装）；千珏偏攻速，赛娜偏攻击，谁二星装备给谁',
+    '<b>搜牌节奏</b>：2-3 前 D 4 次解锁巴德；8 级前不 D 牌，8 级可小 D 一个二星 4 费前排后停手；最晚 5-2 上九 D 空',
+    '<b>优先3星</b>：斯维因、塔里克',
+    '<b>站位要点</b>：最肉的两个前排分别站最左和最右，赛娜跟最肉的站一侧'
+  ]
+},
+{
+  id:'tft-yordle', module:'lol', seg:'tft', cat:'云顶之弈 · 趣味',
+  title:'约德尔人小法：8 约德尔人整活流，A 级新手推荐',
+  summary:'前期 6 约搭配羁绊过渡、拉人口不 D 牌快速升 8，靠约德尔奖励上 9 开吉格斯。娱乐性强但吃装备。',
+  source:'金铲铲之战阵容库', sourceUrl:'https://www.ggamen.com/a82970',
+  publishedAt:'2026-08-31T12:00:00+08:00',
+  tags:['A级','新手推荐','趣味整活'],
+  body:[
+    '主 C 维迦（班克斯的魔法帽 ×2 + 朔极之矛）。前期 6 约搭配羁绊过渡，拉人口不 D 牌，快速升 8，补齐 8 约德尔后靠奖励上 9。',
+    '关键提示：前期不用追三，上 9 开出吉格斯才是关键——后期吉格斯的伤害比维迦还高。'
+  ],
+  points:[
+    '<b>成型阵容</b>：波比、斯维因、凯南（荆棘/离子/日炎）、兰博、菲兹（珠光/班克斯帽子/汲取）、可酷伯与悠米、吉格斯（珠光/鬼索/纳什）、提莫、维迦（主C）',
+    '<b>站位</b>：菲兹站前排左 3 或右 3，正对对面 C 位',
+    '<b>海克斯优先</b>：法杖溢流 &gt; 更要命的帽子 &gt; 加冕礼',
+    '<b>海克斯备选</b>：投资+、诅咒冠冕、新纪元+、三三三！、恶意货币化',
+    '<b>装备核心</b>：优先做两个班克斯的魔法帽（方便解锁维迦），再补一件启动装',
+    '<b>注意</b>：菲兹不吃攻速装，需要两件法装，不然很难切 C',
+    '<b>搜牌节奏</b>：3-5 上 7，4-2 上 8 D 牌（不用吃利息）；3-7 打完野怪若没两个帽子、解锁不出小法，可 8 约德尔全 2 后上 9 开吉格斯当主 C，或转德玛西亚拉克丝',
+    '<b>弱点</b>：前期容错要留够，没有吉格斯之前伤害匮乏'
+  ]
+},
+
+/* ---------------- 足球 ---------------- */
+{
+  id:'fb-ars-villa', module:'football', cat:'英超战报',
+  title:'阿森纳客场 1-0 维拉，萨卡连场进球，枪手开局两连胜',
+  summary:'北京时间 9 月 1 日凌晨 3 点，英超第 2 轮。萨卡制胜，维拉全场零射正遭遇两连败。',
+  source:'直播日照 · 足球早报', sourceUrl:'https://www.toutiao.com/article/7680392803070886454/',
+  publishedAt:'2026-09-01T10:46:00+08:00',
+  tags:['英超','阿森纳','战报'],
+  body:[
+    '北京时间 9 月 1 日凌晨 3 点整，2026-27 赛季英超第 2 轮在维拉公园球场展开角逐，阿森纳客场对阵阿斯顿维拉。',
+    '上半场布恩迪亚远射中框，双方均零射正。下半场萨卡连场进球打破僵局，孔萨替补迎枪手首秀。最终阿森纳客场 1-0 战胜阿斯顿维拉，维拉全场零射正。'
+  ],
+  points:[
+    '<b>制胜球</b>：萨卡（连续两轮进球）',
+    '<b>关键数据</b>：维拉全场零射正',
+    '<b>阿森纳</b>：联赛开局两连胜，且此前社区盾 3-0 曼城、英超首轮 3-0 考文垂，火力全开',
+    '<b>维拉</b>：遭遇两连败（含欧洲超级杯 1-2 负巴黎、英超客场 0-4 负布莱顿，算上热身赛已四连败）',
+    '<b>下轮</b>：阿森纳将迎战切尔西',
+    '<b>赛前背景</b>：维拉主力后腰若昂·戈麦斯停赛、奥纳纳伤停、夏窗标王曼赞比伤停；阿森纳萨利巴和廷贝尔因伤缺阵'
+  ]
+},
+{
+  id:'fb-barca-rayo', module:'football', cat:'西甲战报',
+  title:'巴萨 5-2 巴列卡诺，拉菲尼亚与亚马尔双双梅开二度',
+  summary:'西甲第 3 轮诺坎普之战。卡梅洛为客队梅开二度仍难挽败局，巴萨开局三连胜。',
+  source:'直播日照 · 足球早报', sourceUrl:'https://www.toutiao.com/article/7680392803070886454/',
+  publishedAt:'2026-09-01T10:46:00+08:00',
+  tags:['西甲','巴萨','战报'],
+  body:[
+    '北京时间 9 月 1 日凌晨 3 点 30 分，2026/27 赛季西甲第 3 轮，巴塞罗那在诺坎普球场迎战巴列卡诺。',
+    '上半场卡梅洛抢点先下一城，拉菲尼亚、亚马尔 2 分钟内先后破门帮助球队反超。下半场戈登突破传中制造勒热纳乌龙，卡梅洛头球破门完成梅开二度，随后戈登助攻拉菲尼亚完成梅开二度，亚马尔终场前弧线球破门完成双响。最终巴萨主场 5-2 击败巴列卡诺。'
+  ],
+  points:[
+    '<b>巴萨进球</b>：拉菲尼亚 ×2、亚马尔 ×2、勒热纳乌龙',
+    '<b>客队进球</b>：卡梅洛 ×2（梅开二度）',
+    '<b>三叉戟状态</b>：拉菲尼亚新赛季 2 场 3 球 1 助，戈登虽未开胡但已 2 次助攻，亚马尔本场双响回暖',
+    '<b>隐藏火力点</b>：中场费尔明 2 场联赛轰进 3 球',
+    '<b>伤缺</b>：德容和加维继续因伤缺阵',
+    '<b>对手状况</b>：巴列卡诺新赛季开局 1 平 1 负无胜绩，过去 7 场仅 1 胜'
+  ]
+},
+{
+  id:'fb-serie-round', module:'football', cat:'意甲战报',
+  title:'罗马 4-0 客胜莱切，亚特兰大 1-0 博洛尼亚',
+  summary:'意甲第 2 轮补赛，两场在北京时间 9 月 1 日凌晨结束。',
+  source:'直播日照 · 足球早报', sourceUrl:'https://www.toutiao.com/article/7680392803070886454/',
+  publishedAt:'2026-09-01T10:46:00+08:00',
+  tags:['意甲','罗马','战报'],
+  body:[
+    '意甲第 2 轮在北京时间 9 月 1 日凌晨补赛两场：莱切 0-4 罗马，亚特兰大 1-0 博洛尼亚。',
+    '同日西甲还有一场：奥萨苏纳 1-0 赫塔菲。此外葡超本菲卡 2-1 埃斯托里尔、布拉加 1-0 吉马良斯。'
+  ],
+  points:[
+    '<b>莱切 0-4 罗马</b>：罗马客场大胜',
+    '<b>亚特兰大 1-0 博洛尼亚</b>：一球小胜',
+    '<b>西甲</b>：奥萨苏纳 1-0 赫塔菲',
+    '<b>葡超</b>：本菲卡 2-1 埃斯托里尔、布拉加 1-0 吉马良斯'
+  ]
+},
+{
+  id:'fb-fixtures', module:'football', cat:'今日赛程',
+  title:'9 月 1 日赛程速览：皇马、曼联、国米、拉齐奥先后出战',
+  summary:'五大联赛今日共 9 场可关注。英超桑德兰/利兹联/曼联，西甲皇马，意甲国米/拉齐奥/那不勒斯。',
+  source:'新浪体育 · 竞彩赛程', sourceUrl:'https://sports.sina.cn/2026-09-01/detail-iniqfuym8690557.d.html',
+  publishedAt:'2026-09-01T11:00:00+08:00',
+  tags:['赛程','五大联赛'],
+  body:[
+    '2026 年 9 月 1 日并非欧洲杯预选赛比赛窗口，欧足联旗下国家队赛事处于休整期，俱乐部赛事为主角。',
+    '今日焦点：英超桑德兰 vs 富勒姆、利兹联 vs 布伦特福德（均 21:00），西甲皇马 vs 马拉加（23:00），英超曼联 vs 伊普斯维奇（23:30），意甲卡利亚里 vs 国际米兰（次日 02:45）。'
+  ],
+  points:[
+    '<b>20:30 前后</b> — 那不勒斯 vs 科莫（意甲，次日 00:30）',
+    '<b>21:00</b> — 桑德兰 vs 富勒姆（英超）、利兹联 vs 布伦特福德（英超）',
+    '<b>23:00</b> — 皇马 vs 马拉加（西甲）',
+    '<b>23:30</b> — 曼联 vs 伊普斯维奇（英超）',
+    '<b>次日 01:30</b> — 拉科鲁尼亚 vs 巴伦西亚（西甲）',
+    '<b>次日 02:45</b> — 拉齐奥 vs 热那亚（意甲）、卡利亚里 vs 国际米兰（意甲）',
+    '<b>次日 03:30</b> — 塞尔塔 vs 毕尔巴鄂（西甲）',
+    '<b>投注参考</b>：卡利亚里 vs 国米为单关场次，国米客场让 1 球；皇马 vs 马拉加主让 2 球'
+  ]
+},
+{
+  id:'fb-transfer', module:'football', cat:'转会窗',
+  title:'夏窗关窗倒计时：德甲法甲今日关窗，英超西甲意甲明日截止',
+  summary:'德甲、法甲截止时间为当地时间 8 月 31 日 20:00（北京时间 9 月 1 日 02:00）；英超对应北京时间 9 月 2 日 06:00。',
+  source:'FYT体育', sourceUrl:'https://fytpress.com/leagues/five-leagues-weekend-review-2026-08-31/',
+  publishedAt:'2026-09-01T00:30:00+08:00',
+  tags:['转会窗',' deadline'],
+  body:[
+    '德甲、法甲在当地时间 8 月 31 日 20:00 关窗，即北京时间 9 月 1 日 02:00；英超、西甲、意甲晚一天，9 月 1 日关窗，英超对应北京时间 9 月 2 日 06:00。',
+    '这意味着德甲第 2 轮开打时，德国球队的阵容已经锁定，而英超第 3 轮之前还有一天的操作空间。'
+  ],
+  points:[
+    '<b>德甲 / 法甲</b>：北京时间 9 月 1 日 02:00 已关窗',
+    '<b>英超 / 西甲 / 意甲</b>：北京时间 9 月 2 日 06:00 关窗',
+    '<b>传闻动态</b>：曼城 1.6 亿欧将签恩佐（未经官方确认）；利物浦决定留下加克波',
+    '<b>影响</b>：德甲球队阵容已锁死，英超球队仍有一天操作空间'
+  ]
+},
+{
+  id:'fb-intl-break', module:'football', cat:'赛程前瞻',
+  title:'五大联赛即将进入国际比赛日，联赛赛程将出现间断',
+  summary:'本轮结束后联赛暂停，具体复赛日期以官方公告为准。',
+  source:'FYT体育', sourceUrl:'https://fytpress.com/leagues/five-leagues-weekend-review-2026-08-31/',
+  publishedAt:'2026-08-31T22:00:00+08:00',
+  tags:['国际比赛日','赛程'],
+  body:[
+    '五大联赛接下来将进入国际比赛日，联赛赛程会出现间断，具体复赛日期以官方公告为准。',
+    '本轮值得回看的比赛：切尔西 4-3 布莱顿（7 个进球、1 记乌龙、第 90+6 分钟才定音）、拜仁 5-1 斯图加特（德甲揭幕战）、埃尔沃斯贝格 3-2 勒沃库森（德甲新军首秀把强队拖进乱战）、那不勒斯 1-2 科莫（主队领先后被逆转的经典模板）。'
+  ],
+  points:[
+    '<b>必看</b>：切尔西 4-3 布莱顿——本周末唯一一场从头到尾不能走神的比赛',
+    '<b>推荐</b>：拜仁 5-1 斯图加特，想看清拜仁本赛季进攻结构，这场比任何前瞻文章都直接',
+    '<b>可跳过</b>：美因茨 0-0 帕德博恩（德甲揭幕轮唯一 0-0）；曼联 5-2 伊普斯维奇（第 56 分钟乌龙后基本失去悬念，看集锦足够）',
+    '<b>曼城</b>：首轮 4-1 领跑积分榜'
+  ]
+},
+{
+  id:'fb-messi', module:'football', cat:'重磅',
+  title:'梅西宣布从阿根廷国家队退役，发布三页手写信',
+  summary:'39 岁的梅西通过个人社媒宣布这一决定，称"心痛但时候已到"。足坛众星纷纷致敬，一个时代宣告结束。',
+  source:'直播日照 · 足球早报', sourceUrl:'https://www.toutiao.com/article/7680392803070886454/',
+  publishedAt:'2026-08-31T20:00:00+08:00',
+  tags:['梅西','退役','阿根廷'],
+  body:[
+    '北京时间 8 月 31 日，39 岁的梅西通过个人社媒宣布，自己决定从阿根廷国家队退役，并发布了三页手写信。',
+    '他表示这是一个心痛但时候已到的决定，自己始终倾尽所有为国家队拼搏，如今已无力给予更多，而身后有出色的年轻人配得上这里。他感谢 20 年来球迷的厚爱，将成为场外支持者；感谢家人、教练和队友的陪伴。经历父亲的事情后，他更加确信这一决定，安心自豪地离开。'
+  ],
+  points:[
+    '<b>官方反应</b>：阿根廷总统米莱、因凡蒂诺、南美足联、金球奖官方、巴萨官方等纷纷致敬',
+    '<b>队友反应</b>：大马丁、德保罗、劳塔罗、迪马利亚、帕雷德斯等阿根廷众将发文致敬',
+    '<b>恩佐长文告别</b>："和你一起踢球，我多幸运！谢谢你教会我的一切"'
+  ]
+},
+
+/* ---------------- AI ---------------- */
+{
+  id:'ai-gpt56', module:'ai', cat:'模型发布',
+  title:'GPT-5.6 Sol 成 OpenAI 新旗舰，临时价 $4/$20 至 11 月 21 日',
+  summary:'覆盖 ChatGPT、Codex 与 API。LiveBench 数学、推理与 ARC-AGI-2 三项第一，被评"最难数理推理解法的最强支撑"。',
+  source:'Spectrum AI Labs（9/1 更新）', sourceUrl:'https://spectrumailab.com/blog/which-ai-model-should-you-use-task-by-task-guide-2026',
+  publishedAt:'2026-09-01T08:00:00+08:00',
+  tags:['OpenAI','旗舰','$4/$20'],
+  body:[
+    'GPT-5.6 Sol 是 OpenAI 当前在 ChatGPT、Codex 和 API 上的旗舰模型。自 7 月 9 日起成为 ChatGPT 默认模型，从预览版转为正式可用（GA）。',
+    '在选型指南中被定位为"大多数人真正能打开的最好的助手"，在能力、速度和覆盖范围之间取得平衡。数学与推理方面拿到 LiveBench 数学、推理以及 ARC-AGI-2 三项第一。'
+  ],
+  points:[
+    '<b>定价</b>：输入 $4 / 输出 $20 每百万 token（临时价，至少持续到 2026 年 11 月 21 日）',
+    '<b>擅长</b>：写作与编辑（首选 ChatGPT）、数据分析（ChatGPT 数据工具成熟）、通用工作',
+    '<b>编码</b>：在 Codex 中是日常编码的主力选项之一，硬核重构可对比 Claude Opus 5',
+    '<b>生态动作</b>：OpenAI 推出 ChatGPT Work（跨邮件、Slack、日历的云端 agent）、OpenAI Presence 部署选项',
+    '<b>Realtime</b>：GPT-Realtime-2.1 与 2.1-mini 上线，低延迟语音 API 支持原生推理与工具调用',
+    '<b>安全</b>：GPT-Red 用强化学习自动化对抗性红队测试'
+  ]
+},
+{
+  id:'ai-opus5', module:'ai', cat:'模型排名',
+  title:'Claude Opus 5 守住榜首：智能指数 63、编码双榜第一',
+  summary:'Artificial Analysis 智能指数 63、Agentic 指数 55.3，$5/$25。价格只有 Claude Fable 5 的一半。',
+  source:'Fello AI · 2026年9月榜单', sourceUrl:'https://felloai.com/cs/best-ai-of-january-2026/',
+  publishedAt:'2026-09-01T06:00:00+08:00',
+  tags:['Anthropic','编码第一','$5/$25'],
+  body:[
+    'Claude Opus 5 以 63 分领跑 Artificial Analysis 智能指数，Agentic 指数 55.3，定价 $5 输入 / $25 输出每百万 token——只有 Claude Fable 5（$10/$50）的一半。',
+    '它在 Arena 两个投票制编码榜上双双第一（WebDev 1702.9），保住了"编码王冠"。8 月 12 日 SpaceXAI 发布 Grok 4.6 后前沿阵营变得更加拥挤，但 Opus 5 仍居首。'
+  ],
+  points:[
+    '<b>定价</b>：$5 / $25 每百万 token',
+    '<b>同级对比</b>：Claude Sonnet 5 = $2 / $10（8 月 10 日 Anthropic 取消 9 月涨价计划并永久化此价格）',
+    '<b>最强档</b>：Claude Fable 5 = $10 / $50，Anthropic 已发布的最强模型，专注最高能力的长时 agent 任务',
+    '<b>Fable 5 波折</b>：6 月曾因美国出口管制指令短暂下架，7 月 1 日全球重新部署',
+    '<b>用途建议</b>：硬核编码/重构用 Opus 5 做第一遍；日常编码用 Sonnet 5 或 Codex 中的 GPT-5.6 Sol',
+    '<b>生态</b>：Claude in Chrome（Chrome 内自主浏览器导航）、Project Parka（开会并给 Claude agent 派作业）'
+  ]
+},
+{
+  id:'ai-gemini-flash', module:'ai', cat:'模型发布',
+  title:'Gemini 3.7 Flash 上线：$0.75/$3.75 首发价，182 模型中输出速度第一',
+  summary:'8 月 13 日发布，主打编码与 agent。注意：该价格 2027 年 1 月 1 日翻倍。',
+  source:'Fello AI · 2026年9月榜单', sourceUrl:'https://felloai.com/cs/best-ai-of-january-2026/',
+  publishedAt:'2026-08-31T10:00:00+08:00',
+  tags:['Google','Flash','性价比'],
+  body:[
+    'Google 于 8 月 13 日发布 Gemini 3.7 Flash，首发定价 $0.75 / $3.75，智能指数 56，并在 182 个模型中拿到输出速度第一名。Gemini 3.6 Flash 也调整到同一价位。',
+    '需要留意：这两个价格都会在 2027 年 1 月 1 日翻倍。'
+  ],
+  points:[
+    '<b>定价</b>：$0.75 / $3.75（introductory），2027-01-01 起翻倍',
+    '<b>亮点</b>：182 模型中输出速度第一',
+    '<b>长文档首选</b>：Gemini 3.1 Pro = $2 / $12（上限 200K 输入 token），ARC-AGI-1 得分 98%，与人类评审团打平，且有原生 Google Search grounding',
+    '<b>视频</b>：Gemini Omni Flash 现为 Google 默认视频生成模型（Arena 视频双榜第一 1527），Veo 3.1 保留用于场景延展与末帧控制',
+    '<b>图像</b>：Nano Banana Pro 为高端图像模型，Nano Banana 2 Lite 是新的快速低成本选项',
+    '<b>旗舰跳票</b>：据彭博社报道，最强模型 Gemini 3.5 Pro 因性能调优延期数月，Alphabet 股价受此影响下跌'
+  ]
+},
+{
+  id:'ai-kimi-k3', module:'ai', cat:'开源前沿',
+  title:'Kimi K3：2.8 万亿参数开源权重，1M 上下文专攻长程 agent',
+  summary:'Moonshot AI 发布，8 项真实场景 agent 基准中 4 项第一，长时程编码与视觉任务表现突出。',
+  source:'devFlokers Q3 2026 技术综述', sourceUrl:'https://www.devflokers.com/blog/daily-ai-tech-updates-july-september-2026',
+  publishedAt:'2026-08-30T14:00:00+08:00',
+  tags:['Moonshot','开源','2.8T参数'],
+  body:[
+    'Moonshot AI 推出 Kimi K3，一个以 2.8 万亿开放参数训练的 agentic 编码模型，上下文上限 100 万 token。',
+    '独立评测中，Kimi K3 在 8 项真实场景 agentic 基准里有 4 项排名第一，在自动化迭代式应用构建中表现出较低的单步失败率——被称为"可用于自主编译器与芯片设计"的量级。'
+  ],
+  points:[
+    '<b>规模</b>：2.8 万亿参数，开源权重',
+    '<b>上下文</b>：1M token',
+    '<b>定位</b>：长时程编码、视觉工作、agent 任务',
+    '<b>同门</b>：Kimi K2.7 Code 仍被广泛集成在高速编码 agent 流水线中'
+  ]
+},
+{
+  id:'ai-qwen38', module:'ai', cat:'国产动态',
+  title:'阿里上线 Qwen3.8-Flash 并开源 Qwen3.8-Flash-Next：训练成本仅前代 1/9',
+  summary:'Qwen4 架构首次公开亮相。多项编程及办公任务评测超过 Qwen3.7-Plus 和 Claude Opus 4.6。',
+  source:'同花顺 · 万联证券研报（9/1）', sourceUrl:'https://field.10jqka.com.cn/20260901/c679483701.shtml',
+  publishedAt:'2026-09-01T09:30:00+08:00',
+  tags:['阿里','开源','降本'],
+  body:[
+    '阿里千问 AI 平台上线 Qwen3.8-Flash，并同步开源 Qwen3.8-Flash-Next。据公司披露，其训练成本仅约为 Qwen3.7-Plus 的九分之一，并在多项编程及办公任务评测中超过 Qwen3.7-Plus 和 Claude Opus 4.6。',
+    'Qwen3.8-Flash-Next 于 8 月 26 日开源，是 Qwen4 架构的首次公开亮相。此外 Qwen 3.8 27B 已进入 Groq 免费层，付费价为 $0.80 / $4 每百万 token。'
+  ],
+  points:[
+    '<b>训练成本</b>：约为 Qwen3.7-Plus 的 1/9',
+    '<b>评测表现</b>：多项编程与办公任务超过 Qwen3.7-Plus 和 Claude Opus 4.6',
+    '<b>架构意义</b>：Qwen4 架构首次公开',
+    '<b>免费路线</b>：Qwen 3.8 27B 在 Groq 免费层可用，是开发者的免费 API 途径',
+    '<b>家族规模</b>：Qwen 3.6 采用 350 亿激活 MoE 参数层 + 270 亿密集核心（Apache 2.0），家族累计下载超 7 亿次'
+  ]
+},
+{
+  id:'ai-glm53', module:'ai', cat:'国产动态',
+  title:'智谱开源 GLM-5.3-Flash：首个原生多模态，定价仅 GLM-5.3 的 1/10',
+  summary:'引入视觉反馈实现输出自检，把任务边界从"生成内容"延伸到"检查界面效果并交付完整成品"。',
+  source:'同花顺 · 万联证券研报（9/1）', sourceUrl:'https://field.10jqka.com.cn/20260901/c679483701.shtml',
+  publishedAt:'2026-09-01T09:30:00+08:00',
+  tags:['智谱','原生多模态','降价'],
+  body:[
+    '智谱上线并开源 GLM-5.3-Flash，该模型是 GLM-5 系列首个原生多模态模型。模型综合能力超过 GLM-5.2，API 定价仅为 GLM-5.3 的十分之一。',
+    '它通过视觉反馈强化前端开发、文档生成和专业办公任务中的自我检查及修改能力，并进行了多项架构更新，在保持精准长上下文能力的同时大幅降低长上下文服务成本。'
+  ],
+  points:[
+    '<b>定价</b>：$0.15 / $0.50 每百万 token，半价至 9 月 9 日（即 $0.075 / $0.25）',
+    '<b>性价比之王</b>：现已在全天各时段低于 DeepSeek，8 月 26 日上线首日即放出 MIT 权重',
+    '<b>能力边界扩展</b>：从"生成代码或文档"延伸到"检查界面效果、验证操作结果并交付完整成品"',
+    '<b>GLM-5.3</b>：8 月 28 日发布权重，但采用 Z.ai 自定义许可（非 MIT）',
+    '<b>GLM-5.2</b>：MIT 许可，100 万 token 上下文，GPQA Diamond 得分 91.2%'
+  ]
+},
+{
+  id:'ai-deepseek-price', module:'ai', cat:'行业动向',
+  title:'DeepSeek 8 月 16 日涨价约 4 倍并引入峰谷定价，性价比王座易主',
+  summary:'V4-Flash 从 $0.14/$0.28 涨至峰时 $0.44/$1.32、谷时 $0.22/$0.66，性价比首选让位给 GLM 5.3 Flash。',
+  source:'Fello AI · 2026年9月榜单', sourceUrl:'https://felloai.com/cs/best-ai-of-january-2026/',
+  publishedAt:'2026-08-31T12:00:00+08:00',
+  tags:['DeepSeek','涨价','峰谷定价'],
+  body:[
+    '8 月 16 日，DeepSeek 将 V4 两个模型的价格上调约四倍，并把费率表拆分为高峰与低谷两档。DeepSeek V4-Flash 0731 现在谷时 $0.22 / $0.66、峰时 $0.44 / $1.32，而它上市时是统一的 $0.14 / $0.28。',
+    '这让它失去了性价比首选的位置，该位置转移给 GLM 5.3 Flash。'
+  ],
+  points:[
+    '<b>V4 Pro</b>：MoE 架构，总参数 1.6 万亿、每 token 激活 490 亿，SWE-bench Verified 得分 80.6%',
+    '<b>V4 Flash</b>：总参数 2840 亿、激活 130 亿，1M 上下文，主打低成本 UI 生成与实时浏览器渲染',
+    '<b>发布时间</b>：DeepSeek V4 于 2026 年 4 月 24 日发布',
+    '<b>价格提醒</b>：临时价格与免费额度可能随时变动，大批量任务前请回查官方页面',
+    '<b>其他前沿动向</b>：Grok 4.6（SpaceXAI，8/12，$2/$6，智能指数 61，与 GPT-5.6 Sol 并列第三，完成长 agent 任务所需轮数约为 Opus 5 的一半）；Meta Muse Spark 1.1；腾讯 Hy4 Preview（8/28 开源，7700 亿参数，Apache 2.0）；Llama 4 Scout（1090 亿密集参数 + 16 专家 MoE，最高 1000 万 token 上下文）'
+  ]
+},
+{
+  id:'ai-minimax', module:'ai', cat:'公司财报',
+  title:'MiniMax 2026 上半年收入 1.17 亿美元，同比暴增 283%',
+  summary:'开放平台及 AI 企业服务收入同比增长 703%，毛利率从 12.1% 提升至 17.9%，海外收入占比 60.8%。',
+  source:'同花顺 · 万联证券研报（9/1）', sourceUrl:'https://field.10jqka.com.cn/20260901/c679483701.shtml',
+  publishedAt:'2026-09-01T09:30:00+08:00',
+  tags:['MiniMax','财报','商业化'],
+  body:[
+    'MiniMax 发布 2026 年中期业绩公告：上半年实现收入 1.17 亿美元，同比增长 283.1%。其中开放平台及其他基于 AI 的企业服务收入同比增长 703.1% 至 7393 万美元，占总收入的 63.4%；AI 原生产品收入同比增长 100.9% 至 4264 万美元。',
+    '公司毛利率由上年同期的 12.1% 提升至 17.9%，主要受益于基础设施效率改善；中国内地以外市场收入占比达到 60.8%。研发开支同比增长 138.8% 至 2.97 亿美元，经调整净亏损同比扩大 111.2% 至 2.93 亿美元。'
+  ],
+  points:[
+    '<b>总收入</b>：1.17 亿美元（+283.1% YoY）',
+    '<b>开放平台 / 企业服务</b>：7393 万美元（+703.1%），占比 63.4%',
+    '<b>AI 原生产品</b>：4264 万美元（+100.9%）',
+    '<b>毛利率</b>：12.1% → 17.9%',
+    '<b>海外占比</b>：60.8%',
+    '<b>研发开支</b>：2.97 亿美元（+138.8%）；经调整净亏损 2.93 亿美元（+111.2%）',
+    '<b>行业判断</b>（万联证券）：大模型能力与成本协同优化，AI 商业化验证持续增强'
+  ]
+}
+];
+
+/* ---------------- 结构化：足球赛程 ---------------- */
+const FIXTURES = [
+  {t:'00:30', lg:'意甲', h:'那不勒斯', a:'科莫', s:null, itemId:'fb-fixtures'},
+  {t:'21:00', lg:'英超', h:'桑德兰',   a:'富勒姆', s:null, itemId:'fb-fixtures'},
+  {t:'21:00', lg:'英超', h:'利兹联',   a:'布伦特福德', s:null, itemId:'fb-fixtures'},
+  {t:'23:00', lg:'西甲', h:'皇家马德里', a:'马拉加', s:null, itemId:'fb-fixtures'},
+  {t:'23:30', lg:'英超', h:'曼联',     a:'伊普斯维奇', s:null, itemId:'fb-fixtures'},
+  {t:'01:30', lg:'西甲', h:'拉科鲁尼亚', a:'巴伦西亚', s:null, itemId:'fb-fixtures'},
+  {t:'02:45', lg:'意甲', h:'拉齐奥',   a:'热那亚', s:null, itemId:'fb-fixtures'},
+  {t:'02:45', lg:'意甲', h:'卡利亚里', a:'国际米兰', s:null, itemId:'fb-fixtures'},
+  {t:'03:30', lg:'西甲', h:'塞尔塔',   a:'毕尔巴鄂', s:null, itemId:'fb-fixtures'}
+];
+const RESULTS = [
+  {t:'03:00', lg:'英超', h:'阿斯顿维拉', a:'阿森纳', s:'0-1', itemId:'fb-ars-villa'},
+  {t:'03:30', lg:'西甲', h:'巴塞罗那',   a:'巴列卡诺', s:'5-2', itemId:'fb-barca-rayo'},
+  {t:'02:45', lg:'意甲', h:'莱切',       a:'罗马',     s:'0-4', itemId:'fb-serie-round'},
+  {t:'02:45', lg:'意甲', h:'亚特兰大',   a:'博洛尼亚', s:'1-0', itemId:'fb-serie-round'},
+  {t:'01:00', lg:'西甲', h:'奥萨苏纳',   a:'赫塔菲',   s:'1-0', itemId:'fb-serie-round'}
+];
+
+/* ---- 每日 AI 行业日报（演示结构；跑 collector 后会被 today.json 的 daily 覆盖） ---- */
+let DAILY = {};
+const DAILY_DEMO = {
+  date: '2026-09-02',
+  insight: '开源模型集体提速降价，应用层进入「拼场景」阶段；Agent 工具协议成新战场。',
+  headline: {
+    title: 'GPT-5.6 Sol 发布：通用能力登顶，定价较上代腰斩',
+    summary: 'OpenAI 新旗舰在 LiveBench 数学推理与长文档理解双榜第一，输入/输出价降至 $4/$20 每百万 token，限时至 11-21。',
+    source: 'OpenAI', sourceUrl: 'https://openai.com'
+  },
+  sections: [
+    {name:'最新科技', items:[
+      {title:'Qwen3.8-Flash-Next 首秀 Qwen4 架构', summary:'训练成本仅前代 1/9，编程与办公场景超 Opus 4.6，中文能力强化。', source:'阿里云', sourceUrl:'https://qwen.ai'},
+      {title:'Kimi K3 开源 2.8T 参数 + 1M 上下文', summary:'长时程编码与视觉领先，8 项 agent 基准中 4 项第一。', source:'Moonshot AI', sourceUrl:'https://moonshot.cn'},
+      {title:'Gemini 3.7 Flash 输出速度登顶', summary:'182 模型输出速度第一，编码与 agent 场景表现突出。', source:'Google', sourceUrl:'https://deepmind.google'}
+    ]},
+    {name:'行业动态', items:[
+      {title:'DeepSeek V4 Pro 峰谷定价上调约 4 倍', summary:'1.6T MoE、SWE-bench 80.6%，谷时档成降本关键。', source:'DeepSeek', sourceUrl:'https://deepseek.com'},
+      {title:'MCP 成 Agent 工具调用事实标准', summary:'把「N 模型 × M 工具」复杂度降到「N+M」，生态快速成形。', source:'行业观察', sourceUrl:''},
+      {title:'上下文工程取代提示词工程', summary:'模型能力趋同后，竞争优势迁移到上下文优化与 TCO 治理。', source:'行业观察', sourceUrl:''}
+    ]},
+    {name:'知识前沿', items:[
+      {title:'RAG 最佳实践：混合检索 + 重排序', summary:'向量+关键词混合 + rerank，准确率与可追溯性显著提升。', source:'技术随笔', sourceUrl:''},
+      {title:'峰谷定价下的成本治理', summary:'非实时任务排谷时档，是当前最直接降本手段。', source:'技术随笔', sourceUrl:''}
+    ]},
+    {name:'应用落地', items:[
+      {title:'GLM-5.3-Flash 原生多模态降价', summary:'视觉反馈自检 + 长上下文降本，适合批量文档场景。', source:'智谱 AI', sourceUrl:'https://zhipuai.cn'},
+      {title:'Claude Opus 5 编码双榜第一', summary:'智能指数 63，长时 agent 能力强，企业级集成首选。', source:'Anthropic', sourceUrl:'https://anthropic.com'}
+    ]}
+  ]
+};
+DAILY.ai = DAILY_DEMO;
+
+/* ---------------- 结构化：AI 模型卡 ---------------- */
+const MODELS = [
+  {n:'GPT-5.6 Sol', co:'OpenAI', price:'$4 / $20 每百万 token（至 11-21）',
+   tags:'能力：通用工作 / 写作编辑 / 数据分析 / LiveBench 数学推理第一', itemId:'ai-gpt56'},
+  {n:'Claude Opus 5', co:'Anthropic', price:'$5 / $25 每百万 token',
+   tags:'能力：智能指数 63 / 编码双榜第一 / 长时 agent', itemId:'ai-opus5'},
+  {n:'Gemini 3.7 Flash', co:'Google', price:'$0.75 / $3.75（27 年起翻倍）',
+   tags:'能力：182 模型输出速度第一 / 编码 / agent', itemId:'ai-gemini-flash'},
+  {n:'Kimi K3', co:'Moonshot AI', price:'开源权重 · 2.8T 参数 · 1M 上下文',
+   tags:'能力：长时程编码 / 视觉 / 8 项 agent 基准 4 项第一', itemId:'ai-kimi-k3'},
+  {n:'Qwen3.8-Flash-Next', co:'阿里云', price:'开源 · 训练成本为前代 1/9',
+   tags:'能力：Qwen4 架构首秀 / 编程办公超 Opus 4.6 / 中文强', itemId:'ai-qwen38'},
+  {n:'GLM-5.3-Flash', co:'智谱 AI', price:'$0.15 / $0.50（半价至 9-9）',
+   tags:'能力：原生多模态 / 视觉反馈自检 / 长上下文降本', itemId:'ai-glm53'},
+  {n:'DeepSeek V4 Pro', co:'DeepSeek', price:'峰谷定价 · 8/16 上调约 4 倍',
+   tags:'能力：1.6T MoE / SWE-bench 80.6% / 1M 上下文', itemId:'ai-deepseek-price'}
+];
+
+const KNOW = [
+  {t:'RAG 检索增强生成', d:'当前最佳实践是混合检索（向量 + 关键词）+ 重排序（rerank），显著提升准确率与可追溯性。长上下文模型普及后，RAG 的价值从"塞得下"转向"找得准"。', tags:['检索','重排序','可追溯']},
+  {t:'Agent 工具调用协议', d:'MCP（Model Context Protocol）正成为 agent 连接外部工具与数据源的事实标准。它把"N 个模型 × M 个工具"的集成复杂度降到"N + M"。', tags:['MCP','工具调用','集成']},
+  {t:'上下文工程 > 提示词工程', d:'2026 年的共识：模型能力趋同后，竞争优势迁移到上下文优化、延迟最小化、TCO 管理与本地化工作流自主性。', tags:['上下文工程','TCO']},
+  {t:'峰谷定价与成本治理', d:'DeepSeek 8 月引入峰谷两档定价后，批量任务的成本模型需要重新计算——把非实时任务排到谷时档，是当下最直接的降本手段。', tags:['成本优化','调度']}
+];
+
+/* =======================================================================
+   工具
+   ======================================================================= */
+function relTime(iso){
+  const then = new Date(iso).getTime();
+  const diff = Date.now() - then;
+  if (diff < 0) return '刚刚';
+  const m = Math.floor(diff/60000);
+  if (m < 1)  return '刚刚';
+  if (m < 60) return m + ' 分钟前';
+  const h = Math.floor(m/60);
+  if (h < 24) return h + ' 小时前';
+  const d = Math.floor(h/24);
+  if (d < 30) return d + ' 天前';
+  const mo = Math.floor(d/30);
+  return mo + ' 个月前';
+}
+function esc(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+function byId(id){return ITEMS.find(x=>x.id===id);}
+function itemCard(it){
+  const cls = it.module==='lol'?'gold':it.module==='football'?'green':'purple';
+  const isLive = it.live;
+  return `<button class="card" data-item="${it.id}">
+    <div class="card-meta">
+      <span class="tag ${isLive?'red':cls}">${esc(it.cat)}</span>
+      ${isLive?'<span class="tag red">LIVE</span>':''}
+      <span class="time mono" style="margin-left:auto">${relTime(it.publishedAt)}</span>
+    </div>
+    <div class="card-title">${esc(it.title)}</div>
+    <div class="card-sum">${esc(it.summary)}</div>
+    <div class="card-foot">
+      <span class="src">${esc(it.source)}</span>
+      <span class="more">查看全文 ›</span>
+    </div>
+  </button>`;
+}
+
+/* =======================================================================
+   状态与渲染
+   ======================================================================= */
+const S = { tab:'home', seg:'rune', league:'全部' };
+const $scroll = document.getElementById('scroll');
+
+function render(){
+  if (S.tab==='home')     return renderHome();
+  if (S.tab==='lol')      return renderLol();
+  if (S.tab==='football') return renderFootball();
+  if (S.tab==='ai')       return renderAi();
+}
+
+function renderHome(){
+  const lol = ITEMS.filter(x=>x.module==='lol').sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt)).slice(0,2);
+  const fb  = ITEMS.filter(x=>x.module==='football').sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt)).slice(0,2);
+  const ai  = ITEMS.filter(x=>x.module==='ai').sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt)).slice(0,2);
+  const feed = [...lol,...fb,...ai].sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt));
+  const d = new Date();
+  const wd = ['周日','周一','周二','周三','周四','周五','周六'][d.getDay()];
+
+  $scroll.innerHTML = `
+    <div class="page-head">
+      <div class="page-title">每日前线</div>
+      <div class="page-sub">${d.getMonth()+1}月${d.getDate()}日 ${wd} · 今日共 ${ITEMS.length} 条真实资讯</div>
+    </div>
+    <div class="sec-title">今日精选 · 按时间排序</div>
+    ${feed.map(itemCard).join('')}
+    <div class="d-note" style="margin-top:20px">
+      全部 ${ITEMS.length} 条均为 2026-09-01 手工抓取的真实资讯，每条都带来源与原文链接。
+      点任意卡片进入全文。
+    </div>`;
+}
+
+function renderLol(){
+  const map = {rune:'海斗资讯', rift:'峡谷攻略', match:'比赛', tft:'云顶之弈'};
+  let body = '';
+  if (S.seg==='rune'){
+    body = ITEMS.filter(x=>x.seg==='rune').map(itemCard).join('');
+  } else if (S.seg==='rift'){
+    body = ITEMS.filter(x=>x.seg==='rift').map(itemCard).join('');
+  } else if (S.seg==='match'){
+    body = ITEMS.filter(x=>x.seg==='match').map(itemCard).join('');
+  } else {
+    body = ITEMS.filter(x=>x.seg==='tft').map(itemCard).join('');
+  }
+  $scroll.innerHTML = `
+    <div class="page-head">
+      <div class="page-title">英雄联盟</div>
+      <div class="page-sub">海斗资讯 · 峡谷攻略 · 比赛 · 云顶之弈</div>
+    </div>
+    <div class="seg">
+      ${['rune','rift','match','tft'].map(k=>`<button data-seg="${k}" class="${S.seg===k?'on':''}">${map[k]}</button>`).join('')}
+    </div>
+    <div class="sec-title gold">${map[S.seg]} · ${S.seg==='rune'?'海克斯与 2v2 套路':S.seg==='rift'?'版本出装与上分':S.seg==='match'?'LPL / LCK 实时':'S 级与趣味阵容'}</div>
+    ${body}`;
+}
+
+function renderFootball(){
+  const leagues = ['全部','英超','西甲','意甲','德甲','法甲','欧冠'];
+  const rows = (S.league==='全部') ? FIXTURES : FIXTURES.filter(x=>x.lg===S.league);
+  $scroll.innerHTML = `
+    <div class="page-head">
+      <div class="page-title">足球</div>
+      <div class="page-sub">五大联赛 · 欧冠 · 2026-09-01 赛程与战报</div>
+    </div>
+    <div class="chips">
+      ${leagues.map(l=>`<button class="chip ${S.league===l?'on':''}" data-lg="${l}">${l}</button>`).join('')}
+    </div>
+
+    <div class="sec-title green">昨夜战报 · 已结束</div>
+    ${RESULTS.map(r=>`<button class="row" data-item="${r.itemId}">
+      <span class="row-t mono">${r.t}</span>
+      <span class="row-mid">
+        <span class="row-h">${esc(r.h)}</span>
+        <span class="row-s done mono">${r.s}</span>
+        <span class="row-a">${esc(r.a)}</span>
+      </span>
+      <span class="row-lg">${r.lg}</span>
+    </button>`).join('')}
+
+    <div class="sec-title green">今日赛程 · ${S.league}</div>
+    ${rows.length ? rows.map(r=>`<button class="row" data-item="${r.itemId}">
+      <span class="row-t mono">${r.t}</span>
+      <span class="row-mid">
+        <span class="row-h">${esc(r.h)}</span>
+        <span class="row-s wait mono">VS</span>
+        <span class="row-a">${esc(r.a)}</span>
+      </span>
+      <span class="row-lg">${r.lg}</span>
+    </button>`).join('') : '<div class="card-sum" style="padding:14px;text-align:center;color:#6B7280">该联赛今日暂无赛程</div>'}
+
+    <div class="sec-title green">足球资讯 · 实时更新</div>
+    ${ITEMS.filter(x=>x.module==='football').sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt)).map(itemCard).join('')}`;
+}
+
+function renderAi(){
+  const d = DAILY.ai;
+  let head = `
+    <div class="page-head">
+      <div class="page-title">AI 行业日报</div>
+      <div class="page-sub">${d && d.date ? esc(d.date)+' · ' : ''}每天掌握最新科技 · 行业前沿 · 知识干货</div>
+    </div>`;
+
+  // 无日报结构时降级：保留原来的模型卡 + 知识点平铺
+  if(!d){
+    $scroll.innerHTML = head + `
+      <div class="sec-title purple">今日模型 · 定价与能力</div>
+      ${MODELS.map(m=>`<button class="mcard" data-item="${m.itemId}">
+        <div class="m-row">
+          <span class="m-name">${esc(m.n)}</span>
+          <span class="tag purple">${esc(m.co)}</span>
+        </div>
+        <div class="price mono">${esc(m.price)}</div>
+        <div class="m-tags">${esc(m.tags)}</div>
+      </button>`).join('')}
+      <div class="sec-title purple">行业财报与动向</div>
+      ${ITEMS.filter(x=>x.module==='ai' && ['公司财报','行业动向'].includes(x.cat)).map(itemCard).join('')}
+      <div class="sec-title purple">每日知识点</div>
+      ${KNOW.map(k=>`<div class="card" style="cursor:default">
+        <div class="card-title">${esc(k.t)}</div>
+        <div class="card-sum">${esc(k.d)}</div>
+        <div class="d-tags" style="margin:9px 0 0">${k.tags.map(t=>`<span class="tag purple">${esc(t)}</span>`).join('')}</div>
+      </div>`).join('')}`;
+    return;
+  }
+
+  // 今日洞察
+  const insight = d.insight ? `
+    <div class="ai-insight">
+      <span class="ai-insight-tag">今日洞察</span>
+      <span class="ai-insight-txt">${esc(d.insight)}</span>
+    </div>` : '';
+
+  // 头条
+  let headline = '';
+  if(d.headline && d.headline.title){
+    const h = d.headline;
+    headline = `
+      <div class="sec-title purple">🔥 今日头条</div>
+      <a class="ai-headline" href="${esc(h.sourceUrl||'#')}" target="_blank" rel="noopener">
+        <div class="ai-h-title">${esc(h.title)}</div>
+        <div class="ai-h-sum">${esc(h.summary||'')}</div>
+        <div class="ai-h-src">${esc(h.source||'')} · 查看原文 ›</div>
+      </a>`;
+  }
+
+  // 分栏
+  const sections = (d.sections||[]).map(sec=>{
+    const items = (sec.items||[]).map(it=>`
+      <a class="ai-item" href="${esc(it.sourceUrl||'#')}" target="_blank" rel="noopener">
+        <div class="ai-i-title">${esc(it.title)}</div>
+        <div class="ai-i-sum">${esc(it.summary||'')}</div>
+        <div class="ai-i-src">${esc(it.source||'')}${it.sourceUrl?' · 查看原文 ›':''}</div>
+      </a>`).join('');
+    return `
+      <div class="sec-title purple">${esc(sec.name)}</div>
+      <div class="ai-list">${items}</div>`;
+  }).join('');
+
+  $scroll.innerHTML = head + insight + headline + sections;
+}
+
+/* =======================================================================
+   详情页
+   ======================================================================= */
+const $detail = document.getElementById('detail');
+const $dBody  = document.getElementById('dBody');
+
+function openDetail(id){
+  const it = byId(id); if(!it) return;
+  const cls = it.module==='lol'?'gold':it.module==='football'?'green':'purple';
+  const rel = ITEMS.filter(x=>x.module===it.module && x.id!==it.id)
+                   .sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt)).slice(0,3);
+
+  document.getElementById('dHeadTitle').textContent = it.cat;
+
+  $dBody.innerHTML = `
+    <div class="d-tags">
+      <span class="tag ${cls}">${esc(it.cat)}</span>
+      <span class="tag gray">${esc(M[it.module])}</span>
+      ${(it.tags||[]).map(t=>`<span class="tag gray">${esc(t)}</span>`).join('')}
+    </div>
+    <h1 class="d-title">${esc(it.title)}</h1>
+    <div class="d-meta">
+      <span class="d-src">${esc(it.source)}</span>
+      <span class="d-dot"></span>
+      <span class="d-src mono">${relTime(it.publishedAt)}</span>
+    </div>
+    <div class="d-sum">${esc(it.summary)}</div>
+
+    ${(it.body||[]).map(p=>`<p class="d-p">${esc(p)}</p>`).join('')}
+
+    ${it.points&&it.points.length?`
+      <div class="d-h">要点拆解</div>
+      <ul class="d-points">${it.points.map(p=>`<li>${p}</li>`).join('')}</ul>`:''}
+
+    <a class="d-link" href="${it.sourceUrl}" target="_blank" rel="noopener">↗ 查看原文：${esc(it.source)}</a>
+
+    ${rel.length?`
+      <div class="d-h">相关资讯</div>
+      <div class="d-rel">${rel.map(r=>`<button class="card" data-item="${r.id}" style="margin:0">
+        <div class="card-meta">
+          <span class="tag ${cls}">${esc(r.cat)}</span>
+          <span class="time mono" style="margin-left:auto">${relTime(r.publishedAt)}</span>
+        </div>
+        <div class="card-title" style="font-size:13.5px">${esc(r.title)}</div>
+      </button>`).join('')}</div>`:''}
+
+    <div class="d-note">
+      本条为 2026-09-01 抓取的快照内容。若要实现每日自动更新，需要后端定时任务持续抓取源站——
+      这是原型之外的工程部分。
+    </div>`;
+
+  $detail.classList.add('show');
+  $dBody.scrollTop = 0;
+}
+function closeDetail(){ $detail.classList.remove('show'); }
+
+/* =======================================================================
+   事件
+   ======================================================================= */
+document.querySelector('.pill').addEventListener('click', e=>{
+  const b = e.target.closest('.tab'); if(!b) return;
+  document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('on', t===b));
+  S.tab = b.dataset.m;
+  $scroll.scrollTop = 0;
+  render();
+});
+$scroll.addEventListener('click', e=>{
+  const segBtn = e.target.closest('[data-seg]');
+  if (segBtn){ S.seg = segBtn.dataset.seg; render(); return; }
+  const chip = e.target.closest('[data-lg]');
+  if (chip){ S.league = chip.dataset.lg; render(); return; }
+  const card = e.target.closest('[data-item]');
+  if (card){ openDetail(card.dataset.item); return; }
+});
+$dBody.addEventListener('click', e=>{
+  const card = e.target.closest('[data-item]');
+  if (card){ openDetail(card.dataset.item); }
+});
+document.getElementById('dBack').addEventListener('click', closeDetail);
+document.addEventListener('keydown', e=>{ if(e.key==='Escape') closeDetail(); });
+
+/* 刷新（模拟） */
+const SNAP = new Date('2026-09-01T16:40:00+08:00');
+function paintSnap(){
+  const f = n=>String(n).padStart(2,'0');
+  document.getElementById('snapTxt').innerHTML =
+    `数据快照 <span class="mono">2026-09-01 ${f(SNAP.getHours())}:${f(SNAP.getMinutes())}</span> · 共 ${ITEMS.length} 条`;
+}
+paintSnap();
+
+/* =======================================================================
+   每日自动数据覆盖（方案 A：静态 JSON，无需后端/数据库）
+   本地双击(file://) 拿不到 → 自动回退到内置的 2026-09-01 真实快照
+   ======================================================================= */
+(async function loadLive(){
+  try{
+    const r = await fetch('./data/today.json', {cache:'no-store'});
+    if(!r.ok) return;
+    const j = await r.json();
+    if(j && Array.isArray(j.items) && j.items.length){
+      // 合并而非覆盖：内置快照保留，按 id 去重追加 fetch 来的新条目
+      const _seen = new Set(ITEMS.map(x=>x.id));
+      j.items.forEach(x=>{ if(!_seen.has(x.id)){ ITEMS.push(x); _seen.add(x.id); } });
+      if(j.generated_at){ SNAP.setTime(new Date(j.generated_at).getTime()); }
+      if(j.daily && typeof j.daily==='object'){ Object.assign(DAILY, j.daily); }
+      paintSnap();
+      if(!$detail.classList.contains('show')) render();
+    }
+  }catch(e){ /* 离线或本地文件，保持内置数据 */ }
+})();
+
+document.getElementById('refreshBtn').addEventListener('click', ()=>{
+  const btn = document.getElementById('refreshBtn');
+  btn.textContent = '拉取中…'; btn.disabled = true;
+  $scroll.style.opacity = .35;
+  setTimeout(()=>{
+    SNAP.setTime(Date.now());
+    paintSnap();
+    render();
+    $scroll.style.opacity = 1;
+    btn.textContent = '刷新'; btn.disabled = false;
+    // 强制重算相对时间
+    if (!$detail.classList.contains('show')) render();
+  }, 900);
+});
+
+render();
+</script>
+</body>
+</html>

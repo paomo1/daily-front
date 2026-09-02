@@ -1,0 +1,14 @@
+# 每日前线 后端依赖（方案 A · 静态 JSON，无数据库）
+# Python 3.10+
+
+# HTTP & 解析
+requests==2.32.3
+feedparser==6.0.11                   # RSS/Atom 解析
+
+# LLM 摘要（DashScope 兼容 OpenAI 协议，仅用于把长文压成摘要）
+openai==1.55.0
+
+# 工具
+python-dotenv==1.0.1
+tenacity==9.0.0                      # HTTP 重试
+python-dateutil==2.9.0              # 时间解析

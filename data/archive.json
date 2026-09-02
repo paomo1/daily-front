@@ -1,0 +1,2177 @@
+{
+  "1efbe8d7155c6a9c1ff43b8fb232caa8e32703324711d1fbaa229cc307a59d36": {
+    "id": "1efbe8d7155c6a9c1ff43b8fb232caa8e32703324711d1fbaa229cc307a59d36",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识",
+    "title": "On the Design Fundamentals of Pixel Text Representation Learning",
+    "summary": "研究提出像素级文本表征学习四大设计原则：可变图像分辨率、渲染字体大小、视觉-文本对齐等，提升多语言文档理解与高分辨率泛化能力。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01147v1",
+    "publishedAt": "2026-09-01T12:20:19+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Text-rich visual inputs require models that can read, retrieve, and compress language directly in pixel space, yet existing pixel-text encoders struggle with fixed resolution pretraining, visual shortcut learning, weak visual grounding, and multilingual visual text understanding. In this work, we investigate the fundamental design principles required for robust visual text representation learning. Through systematic controlled ablations, we identify four critical components: variable image resolutions and rendered font sizes provide spatial proxies for high-resolution document generalization; natural image-text pairs are indispensable for grounding and prevent text-only collapse; layout-aware rendering helps prevent pixel-level shortcuts; and a two-stage multilingual curriculum enables effective cross-lingual alignment. By integrating these principles into a scalable training recipe, we train Pixel Linguist II, a native-resolution vision encoder trained with on-the-fly rendering, unified contrastive grounding, and a multilingual curriculum over 280M training examples. Pixel Linguist II sets new state-of-the-art results on English, cross-lingual, and multilingual Visual STS and ViDoRe, while also enabling better MLLM downstream evaluation. Notably, Pixel Linguist II remains robust under 80\\% visual token compression, showing great promise for optical context compression. Our code and resources are available at https://github.com/Pixel-Linguist/Pixel-Linguist-II."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Chaohao Yuan, Ruifeng Yuan, Zhuoxu Huang et al.",
+      "categories": [
+        "cs.CV",
+        "cs.CL"
+      ]
+    }
+  },
+  "758f56f7ec4fd268758ae20dd31f0b6d26c62429a0de6ecad3b377dce9a18646": {
+    "id": "758f56f7ec4fd268758ae20dd31f0b6d26c62429a0de6ecad3b377dce9a18646",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识",
+    "title": "StainPresetNet: Stain Preset Network for Fast Multi-to-Multi Stain Normalization",
+    "summary": "StainPresetNet提出快速多对多染色归一化方法，解决传统方法映射不准与深度学习模型计算低效、易生伪影等问题。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01146v1",
+    "publishedAt": "2026-09-01T12:20:05+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Stain normalization reduces color variations caused by variations in staining protocols and imaging conditions, thereby enhancing computer-aided diagnostic system performance. Traditional methods derive mapping relationships from individual or limited reference images through pixel-wise transformation, offering style flexibility but suffering from inaccurate color mapping extraction. While existing deep-learning-based approaches achieve accurate dataset-wide color mapping through complex neural networks, they face challenges including computational inefficiency, artifact generation, and fixed normalization directions requiring model retraining for directional changes. To address these limitations, we propose StainPresetNet - a novel framework that combines structural preservation with dataset-level color mapping while maintaining computational efficiency. Our method implements pixel-wise normalization guided by preset reference images, enabling multi-directional adaptability without retraining. Evaluations on cytopathology and histopathology datasets demonstrate that StainPresetNet achieves superior color mapping accuracy compared to conventional methods, effectively improves classifier generalization in diagnostic tasks, and reduces computational overhead by 90\\% versus existing deep learning approaches. The proposed preset-guided mechanism facilitates flexible adjustment of normalization directions through simple reference image replacement, overcoming the directional rigidity of current deep-learning-based solutions."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Hongtao Kang, Die Luo, Li Chen et al.",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ]
+    }
+  },
+  "f8080acee7c4db2731debbe899d9e4ad3c773ede7531381ceff07171457f8ec4": {
+    "id": "f8080acee7c4db2731debbe899d9e4ad3c773ede7531381ceff07171457f8ec4",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识",
+    "title": "Revisiting Face Recognition for Monozygotic Twins: The Celeb Twins Test Set",
+    "summary": "研究提出Celeb Twins测试集（CTTS），含80对名人同卵双胞胎图像，标注面部标记与镜像不对称特征；当前深度CNN模型在该集上验证准确率超76%。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01141v1",
+    "publishedAt": "2026-09-01T12:17:43+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Past literature on face recognition for monozygotic ((\"identical\") twins points to facial marks and mirror asymmetry as possible directions for improved accuracy of twins recognition. The Celeb Twins Test Set (CTTS) contains web-scraped image pairs for 80 sets of celebrity twins. It is the only twins test set with meta-data for twins with distinguishing skin marks and possible mirror asymmetry. CTTS is organized in the manner of face verification test sets such as LFW, CALFW, CPLFW, CFP-FP, and AgeDB-30. Current deep CNN matchers can achieve over 76% accuracy in classifying CTTS same-person / different-person image pairs. We show that current matchers do not make use of skin marks, or asymmetry, and discuss reasons for this. Finally, we discuss the feasibility of using generative AI tools such as Grok, ChatGPT and Gemini to create images of imagined monozygotic twins as a means to increase representation of twins in face recognition training sets."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Michael Zang, Haiyu Wu, Mrinal Sharma et al.",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ]
+    }
+  },
+  "fe2c47fce33a414280031fee7bc34d2e9f847c5602bc158f5d28a345b6849d2a": {
+    "id": "fe2c47fce33a414280031fee7bc34d2e9f847c5602bc158f5d28a345b6849d2a",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识",
+    "title": "Does task decomposition improve automatic NLG evaluation?",
+    "summary": "研究发现，任务分解并未提升LLM-as-a-judge（LLMaJ）在NLG自动评估中的性能，此前报告的增益实源于基线设置不公平。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01139v1",
+    "publishedAt": "2026-09-01T12:15:53+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "The LLM-as-a-judge (LLMaJ) framework has emerged as a promising solution for cheap, reproducible, reference-free Natural Language Generation (NLG) evaluation. Prior work seeks to improve LLMaJ by decomposing evaluation tasks into simpler sub-tasks. In this work, we systematically compare LLMaJ methods with and without decomposition on multiple NLG datasets. We find no evidence that LLMaJ with task decomposition leads to performance gains over a fair baseline that does not use decomposition. Instead, we find that previously reported performance gains in decomposition-based LLMaJ stem from using human labels as training data, and not task decomposition itself. Also, we find that, when human labels are available, LLMaJ without using task decomposition can perform comparably to human annotators."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Sebastian Steindl, Nikos Voskarides, Alberto Gasparin et al.",
+      "categories": [
+        "cs.CL"
+      ]
+    }
+  },
+  "1701a5e4d282ade6079c8717b8f8ea525fbe2ad47b661dc793a4f496eb8e87b2": {
+    "id": "1701a5e4d282ade6079c8717b8f8ea525fbe2ad47b661dc793a4f496eb8e87b2",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识",
+    "title": "Overfitting Mitigation via Singular Value Decomposition in Minimum Bayes Risk Decoding",
+    "summary": "研究提出SVD-MBR方法，利用奇异值分解对MBR解码中的效用矩阵降维（保留前k个成分），缓解指标过拟合问题，提升多指标均衡性。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01135v1",
+    "publishedAt": "2026-09-01T12:11:29+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Minimum Bayes Risk (MBR) decoding enables high-quality text generation by selecting the hypothesis that maximizes a utility metric over sampled pseudo-references. However, it is highly susceptible to metric overfitting: it can irregularly inflate the chosen utility metric at the direct expense of other unoptimized evaluation metrics. To mitigate this, we introduce SVD-MBR, which frames the pairwise utility matrix as a noisy information signal. By computing a low-rank approximation via Singular Value Decomposition (SVD) and retaining only the top-$k$ components, we effectively decouple true consensus from metric noise. Experiments demonstrate that SVD-MBR successfully regularizes decoding, yielding substantial gains across a range of generalized metrics. Furthermore, we reveal that this denoising is metric-dependent: neural metrics encode a robust low-rank consensus ideal for SVD, whereas surface-level metrics struggle to separate signal from metric noise."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Riza Setiawan Soetedjo, Yusuke Sakai, Hidetaka Kamigaito et al.",
+      "categories": [
+        "cs.CL"
+      ]
+    }
+  },
+  "6b0b568056bdc0ce6e83f6ec849001b2161b3df3b3e88aabd72c2dac15fc2e54": {
+    "id": "6b0b568056bdc0ce6e83f6ec849001b2161b3df3b3e88aabd72c2dac15fc2e54",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识",
+    "title": "Scaled Idempotence in Transformer Attention: Paired OV Geometry and Shared-Value Algebras",
+    "summary": "研究发现Transformer注意力中OV算子存在尺度不变性规律：约4%–8%的注意力头满足T²≈αT，且在2.8B–235B参数模型中普遍存在。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01129v1",
+    "publishedAt": "2026-09-01T12:05:11+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "We identify a recurrent algebraic regularity in Transformer attention: a sparse subset of effective OV operators $T=OV^\\top$ nearly closes under composition, $T^2\\approxαT$. Across six pretrained endpoints spanning 2.8B--235B parameters, 3.98--8.00% of heads reach squared closure alignment $\\mathcal{P}\\geq0.9$, while no matched within-layer O/V mismatch does. An exact principal-coordinate factorization, $T=Q_OKQ_V^\\top$ and $T^2=Q_O(KDK)Q_V^\\top$, separates within-support transport from read--write return geometry. Across all 7,304 heads in nine MHA/GQA models, scrambling only the orientation of $K$ while preserving singular values, norms, factor spans, and principal angles reduces median closure from 0.336 to $1.04\\times10^{-4}$; trained orientation wins for 98.64% of heads and in every layer. Constructive searches show that high closure is feasible in every surveyed layer, but usually not attained. Retrospective trajectories in three independently trained lineages further separate broadly available capacity from the orientations attained by final strong heads. Under exact value sharing, headwise closure extends to a right-action algebra, $T_iT_j=α_jT_i$. Seven-model experiments verify the approximate law and reveal distinct oblique projections with a shared value-defined kernel. These results characterize scaled idempotence as a sparse trained orientation within broadly available geometric capacity and show how value sharing extends a headwise relation into a local operator algebra."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Jiming Feng, Junliang Li",
+      "categories": [
+        "cs.LG"
+      ]
+    }
+  },
+  "cd6f7817193a6df1b28a1f63aa7099e4de6b13767518b3097a86fdbb94f74f1b": {
+    "id": "cd6f7817193a6df1b28a1f63aa7099e4de6b13767518b3097a86fdbb94f74f1b",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识",
+    "title": "When Does Online Adaptation Pay on the Edge? A Leakage-Free Evaluation of Warmup, Learning-Rate Selection, and Resource Trade-offs for Time-Series Forecasting",
+    "summary": "研究发现，在无泄漏流式评估下，边缘时序预测的在线自适应收益受warmup预算等评估选择显著影响，估计收益波动达3.0。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01126v1",
+    "publishedAt": "2026-09-01T12:04:08+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Online adaptation can help edge time-series forecasting under distribution drift, but its measured benefit is sensitive to evaluation choices. We study six public multivariate streams, including building-sensor and smart-meter data, under a leakage-free streaming protocol. We identify two additional sources of comparison bias. First, the warmup budget of the static baseline has a two-sided effect: insufficient warmup undertrains the baseline, whereas excessive warmup can degrade its pre-drift generalization. Across six dataset-backbone settings, the estimated adaptation benefit changes by 3.0 to 18.8 percentage points (pp) over the 1,000-20,000-step warmup range. Second, comparing SGD with momentum (SGD+m) and Adam at a shared default learning rate conflates optimizer quality with rate sensitivity. We select both the warmup budget and each optimizer's online rate using a held-out pre-drift validation slice without accessing test data. Under this validation-only procedure, Adam outperforms SGD+m in 310 of 360 evaluated cells, while 4 Adam cells remain below the static baseline. We further characterize accuracy against adaptation-state memory and A100-measured per-update latency for full, head-only, and calibration-based adaptation. In the evaluated PatchTST frontier settings, several parameter-efficient variants are nondominated on the adaptation-state-memory axis. Smart-meter analyses also show that reported gains depend on meter-selection rules. These findings support a validation-only commissioning procedure, while target-device latency and energy remain to be measured. Code, data, and all reported numbers: https://github.com/keiotakmin/tsf-edge-adaptation."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Takumi Fujimoto, Hiroaki Nishi",
+      "categories": [
+        "cs.LG"
+      ]
+    }
+  },
+  "a9d7e8a49c2682e6de2aca83e5ba4eb8cbfbf045bbdf7ed17535a20914e684fc": {
+    "id": "a9d7e8a49c2682e6de2aca83e5ba4eb8cbfbf045bbdf7ed17535a20914e684fc",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识",
+    "title": "DNC-IMM: Early Lane-Change Intention Recognition via Neural Calibration Based on Driving Context Information",
+    "summary": "提出DNC-IMM模型，融合神经网络校准与交互多模型，利用车辆运动、车距、相对速度等驾驶上下文信息，提升换道意图早期识别的适应性与可解释性。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01120v1",
+    "publishedAt": "2026-09-01T11:59:00+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Early recognition of lane-change intention is essential for proactive decision-making in autonomous driving and advanced driver assistance systems. This paper proposes a Dual Neural-Calibrated Interacting Multiple Model (DNC-IMM) that improves adaptability to driving context while preserving the probabilistic structure and interpretability of a conventional IMM. The proposed method encodes driving-context information, including target-vehicle motion, gaps to surrounding vehicles, and relative velocities, with a neural network that calibrates both the transition-probability matrix and measurement likelihoods. The final intention is determined from the calibrated IMM mode posterior rather than from a separate direct classifier. Experiments on the highD dataset demonstrate that the proposed method reliably recognizes lane-change intentions before lane crossing and provides particularly strong performance at the earlier 2-3 s prediction horizons."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Woong-Chan Byun, Seung-Hyun Kong",
+      "categories": [
+        "cs.RO",
+        "cs.AI"
+      ]
+    }
+  },
+  "4d7c718102f7783adab1fd04b9066a1dafd7a891dffb3709d8975b4e23ff1c3c": {
+    "id": "4d7c718102f7783adab1fd04b9066a1dafd7a891dffb3709d8975b4e23ff1c3c",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识",
+    "title": "Latent Recurrent Thoughts: Recurrent Refinement of Proposed Latents for Reasoning with Frozen LLMs",
+    "summary": "提出“潜在循环思维”（LRT）方法：冻结大语言模型，用小型辅助网络在连续隐空间中循环优化推理状态，提升推理准确性。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01117v1",
+    "publishedAt": "2026-09-01T11:56:17+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Chain-of-thought reasoning unfolds in discrete token space: each step is committed as text, errors propagate, and eliciting good traces presupposes traces to imitate. Reasoning instead in a model's continuous representation space - where intermediate states are vectors rather than words - sidesteps these constraints, but leaves open how those latent states should be computed. We approach this along two axes. First, we keep a large language model (LLM) frozen and use it for what it is already good at - modeling and decoding sequences - while a small auxiliary network supplies continuous latent thoughts as input. Second, we produce those latents by recurrence: a tiny recurrent reasoner refines them over many steps, decoupling the depth of computation from the size of the model, so that the latents are a product of iterative processing rather than a single forward pass. We instantiate this as Latent Recurrent Thoughts (LRT): a task-dedicated proposer supplies base latents, a recurrent reasoner refines them through bounded residual corrections, and the frozen LLM decodes the answer. On symbolic reasoning with answer supervision but no reasoning traces (Countdown-4, Sudoku) and on natural-language reasoning (HumanEval, MBPP, StrategyQA), LRT substantially outperforms prior frozen-decoder continuous-space reasoning methods under an identical decoder, prompt, data, and training budget, and outperforms non-thinking-mode chain-of-thought prompting on the same backbone at a small fraction of its inference compute."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Zhaoliang Chen, Jie Fu",
+      "categories": [
+        "cs.AI",
+        "cs.CL"
+      ]
+    }
+  },
+  "e3644732201424631b91210ffb1ace26da7cae484957ab865b589b49f22a7545": {
+    "id": "e3644732201424631b91210ffb1ace26da7cae484957ab865b589b49f22a7545",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识",
+    "title": "EDRAC: Benchmarking Arabic Dialect Reading Comprehension",
+    "summary": "EDRAC是首个大规模阿拉伯方言阅读理解基准，覆盖埃及、摩洛哥等5种方言，含499篇口语化文本，填补方言MRC与生成式QA资源空白。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01113v1",
+    "publishedAt": "2026-09-01T11:51:49+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Dialectal Arabic (DA) remains under-resourced compared to Modern Standard Arabic (MSA), particularly for machine reading comprehension (MRC) and question answering (QA). Existing Arabic QA benchmarks primarily focus on formal written MSA or multiple-choice QA, with limited coverage of naturally spoken dialects. Here, we aim to bridge this gap. We introduce EDRAC, the first large-scale benchmark for dialectal Arabic machine reading comprehension (MRC) and generative QA, covering five major dialects: Egyptian, Moroccan, Emirati, Syrian, and Saudi Arabic. EDRAC contains 499 passages derived from naturally occurring spoken interactions and 4,977 corresponding QA pairs generated through a human--LLM collaborative pipeline combining iterative generation, LLM-as-a-judge evaluation, and human verification. We benchmark Arabic-centric and multilingual LLMs on EDRAC using lexical and semantic metrics. Our results reveal substantial gaps between semantic answer quality and dialectal fidelity, highlighting the limitations of existing evaluation metrics for dialectal Arabic generation. EDRAC provides a realistic and challenging MRC benchmark for future research on dialectal Arabic NLP."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Noor Abo Mokh, Kirill Chirkunov, Teresa Lynn et al.",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ]
+    }
+  },
+  "4fbb937dfefa9ec2ca4ae3664827bec8c44ff98b077585d118e80e4af6e69d14": {
+    "id": "4fbb937dfefa9ec2ca4ae3664827bec8c44ff98b077585d118e80e4af6e69d14",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识",
+    "title": "ClinTraceBench: Source-Verifiable Longitudinal Clinical Reasoning over EHR-Derived Dialogues",
+    "summary": "ClinTraceBench发布：基于MIMIC-IV的385条可溯源临床对话数据集，含9项纵向推理任务及L0–L5五级验证（98.92%一致性），评估8种病史表征策略。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01111v1",
+    "publishedAt": "2026-09-01T11:51:37+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Clinical LLM assistants must reason over multi-visit patient trajectories, yet whether the compact history representations used to scale them---retrieval, structured timelines, LLM summaries, agentic memory---preserve the longitudinal signal clinical reasoning needs has not been measured. We introduce ClinTraceBench: 385 MIMIC-IV-derived verified dialogues with event-ID provenance, a nine-task taxonomy (T1--T9), and L0--L4 deterministic + L5 human-audit validation (98.92\\% agreement). We evaluate eight history representation strategies---a no-context floor, \\textit{last-visit-only}, \\textit{full-context}, BGE-M3 \\textit{dense-retrieval}, two compression schemes, and two agentic-memory systems (\\textit{Mem0}, \\textit{A-Mem})---across four backbones (DeepSeek-V3, GPT-4o-mini, Haiku~4.5, Sonnet~4.6) on 6{,}271 questions: 32 cells, 200{,}672 predictions. Four findings: (SP4) a controlled T3 injection probe isolates compression-induced \\textit{relation} loss---with the attribution sentence present \\textit{before} construction, \\textit{Mem0}, \\textit{A-Mem} and \\textit{llm-summary} still recover only 0--5.3\\% of the injected positives; (SP1) compressed strategies pay an aggregation tax on multi-visit trends and cross-patient comparisons; (SP2) the blind-to-full gap spans $+29.8$~pp (GPT-4o-mini) to $+62.7$~pp (Haiku); (SP3) abstention scales non-monotonically with context length. On the Pareto frontier Haiku dominates Sonnet under \\textit{full-context} (\\$25.76 vs.\\ \\$106.21), inverting the ``biggest backbone wins'' heuristic."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Huimin Wang, Zhengyi Zhao, Yutian Zhao",
+      "categories": [
+        "cs.CL"
+      ]
+    }
+  },
+  "234137ed48905c50f20b64c2dc7180937c3ee5b161ad82d92ac4ad88516a976d": {
+    "id": "234137ed48905c50f20b64c2dc7180937c3ee5b161ad82d92ac4ad88516a976d",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识",
+    "title": "Replicating TRACE: A Practitioner's Guide to Its Threshold and Particle Budget",
+    "summary": "研究复现TRACE方法，在词表规模1000时F1达0.90–0.91（原论文0.91），最优阈值τ*由真实误差边界δ=0.05决定，非固定常数。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01108v1",
+    "publishedAt": "2026-09-01T11:48:16+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "TRACE (Math & Lienhart, arXiv:2602.01135) reads causal graphs over event types out of a pretrained autoregressive sequence model by thresholding a per-position conditional-mutual-information estimate at a fixed tau. We independently replicate its headline synthetic result: with tau selected on a validation split, mean per-sequence F1 against exact interventional truth reaches 0.90-0.91 at vocabulary size 1000 (paper: 0.91) and 0.86-0.91 from 100 to 2000. First, the optimal threshold is pinned to the truth margin, not to any constant: at every size the errors at tau* straddle the delta = 0.05 margin defining ground truth (missed true edges lie just above it, accepted false ones just below), and the blind optimum lands near delta/2 times the estimator's calibration, confirmed out of sample at 5000. Second, at a single global threshold TRACE mostly recovers a direct, adjacent-influence graph: lag-1 true edges are recalled at 0.97-0.99, while true edges at lag 2 or more read orders of magnitude lower---the reading-scale price of randomizing mediating positions, which an exact test of direct causal effect requires when the truth is unknown. A per-lag threshold family recovers a third to a half of lag-2 truth; on lag-uniform data one validated threshold recalls every lag at 0.40-0.87, 8-26 pp below an atomic-intervention control at lags 3-6. Third, the default lag decay of the paper's synthetic benchmark concentrates about 85% of interventional truth at lag 1 and pushes the rest below the estimator's noise floor, so headline F1 there certifies lag-1 recovery only and conflates the benchmark's skew with the algorithm's own limit; a flatter decay separates the two. Fourth, F1 saturates from N = 2 particles at the selected threshold---a property of the threshold's margin over the noise floor, not of the estimator, which converges as N^(-1/2). We distill five practitioner rules."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Alex Chadyuk, Alicia Zhang, Roy Kucukates",
+      "categories": [
+        "cs.LG"
+      ]
+    }
+  },
+  "e19f4ea0a0b4c6f0fc5820f35f4404c312935be730f0fcf26e76eb4f178263a1": {
+    "id": "e19f4ea0a0b4c6f0fc5820f35f4404c312935be730f0fcf26e76eb4f178263a1",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识",
+    "title": "Hints Help But Do They Teach? Evaluating Skills Transfer in Code Generation",
+    "summary": "研究发现：相关提示仅小幅提升代码生成通过率（Qwen2.5：36/79；Phi-3.5：42/101），无关提示也有显著效果（19/79、17/101），表明提示未必传授新技能，而可能引导已有能力。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01106v1",
+    "publishedAt": "2026-09-01T11:47:39+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "When a hint turns a failing generated program into a passing one, does it provide missing information or merely steer the model toward a solution it could already produce? We test these hypotheses on HumanEval+ and MBPP+ using executable evaluation. For Qwen2.5-3B-Instruct, adaptive relevant hints rescue 36 of 79 selected failures; an unrelated hint rescues 19, while eight unhinted samples solve 46 and recover 31 of the 36 relevant-hint rescues. Phi-3.5-mini shows the same pattern: relevant hints rescue 42 of 101 failures, an unrelated hint rescues 17, and unhinted sampling solves 57, including 36 of the 42 relevant-hint rescues. Because the hint conditions use different attempt budgets, these comparisons do not isolate a purely semantic effect. Mechanistic tests on Qwen identify a stable activation direction shared by relevant and unrelated hints. Persistently adding this direction yields 14 rescues and 18 regressions, with no detectable net accuracy gain; learned low-rank interventions have a positive but imprecise estimated effect. Full textual specifications solve 22 of 24 context-defined problems, versus 5-11 for tested virtual-KV prefixes. Post-generation hidden-state probes transfer across benchmarks, with pooled AUROC 0.806 and 0.780, but their top-one selection advantage over token confidence is statistically unresolved. Overall, relevant hints can rescue failures, but most rescued solutions are already reachable through ordinary sampling, and the internal interventions tested here do not establish task-general capability transfer."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Will Badr",
+      "categories": [
+        "cs.SE",
+        "cs.AI",
+        "cs.CL"
+      ]
+    }
+  },
+  "752dacbe396b0690191fb03235795de8005788f208571581dd2c3fe10a1911cc": {
+    "id": "752dacbe396b0690191fb03235795de8005788f208571581dd2c3fe10a1911cc",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识",
+    "title": "When Modality Gap Reduction Fails: Prediction-Level Hubness in CLIP",
+    "summary": "研究指出：CLIP中图像-文本模态间隙减小未必提升零样本分类准确率，关键在于类别级决策边界而非平均对齐度。（59字）",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01103v1",
+    "publishedAt": "2026-09-01T11:46:56+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Reducing the modality gap between image and text representations in CLIP is widely expected to improve cross-modal alignment and downstream performance. However, a smaller average image-text gap does not necessarily lead to consistent accuracy gains. We analyze this mismatch from the perspective of the decision structure in zero-shot classification, i.e. selecting the most similar class-text prototype for an input image. Zero-shot accuracy depends not only on average image--text alignment, but also on class-wise decision margins. Using Linear correction as an analytically tractable case, we show that modality gap correction can alter the relative decision structure among classes and cause predictions to concentrate on a small subset of classes. We refer to this output-space failure mode as prediction-level hubness. Furthermore, experiments across multiple datasets show that accuracy degradation under gap correction is consistently associated with increased prediction concentration, both for Linear correction and for learning-based correction methods. This provides a systematic explanation of why modality gap reduction does not consistently improve CLIP zero-shot accuracy from the perspective of downstream decision structure. Our results suggest that gap correction should be evaluated not only by average alignment, but also by its impact on downstream prediction structure."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Shota Sato, Hajime Kiyama, Tosho Hirasawa et al.",
+      "categories": [
+        "cs.CL",
+        "cs.CV"
+      ]
+    }
+  },
+  "b607178701d57482e5e2d6209f4c57678c9b29aca11ce65718e84e87ba0f5fdd": {
+    "id": "b607178701d57482e5e2d6209f4c57678c9b29aca11ce65718e84e87ba0f5fdd",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识",
+    "title": "Neural Symbollic Regression Using Deep Learning and Sparse Modelling",
+    "summary": "本文提出神经符号回归（NSR）框架，融合深度学习与稀疏建模，克服传统符号回归可扩展性差、抗噪弱及依赖预设特征库等缺陷。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01102v1",
+    "publishedAt": "2026-09-01T11:46:28+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Symbolic Regression (SR) seeks to find succinct mathematical expressions that represent the fundamental relationships within data, providing interpretability and scientific understanding that exceeds that of black-box models. Nevertheless, traditional methods like Genetic Programming face challenges with scalability and are highly sensitive to noise, while sparse regression techniques such as SINDy rely significantly on predetermined feature libraries. In this work, we present a Neural Symbolic Regression (NSR) framework that treats neural networks as functional preconditioners for symbolic discovery. Our approach uses a decoupled pipeline: a neural network first learns a smooth, noise-robust approximation of the target function in an interaction- aware nonlinear feature space. LASSO is then applied to extract sparse, interpretable closed-form expressions. To improve predictive accuracy and symbolic fidelity by integrating distributed hyperparameter optimization with Ray Tune and ASHA scheduling. Experiments on the Nguyen benchmark suite show that our approach consistently outperforms SINDy and non-tuned neural baselines in RMSE, noise robustness, and out-of-distribution generalization. Ablation studies confirm the significance of feature interactions, neural depth, and tuning strategies. In general, this study presents a scalable and understandable neural-symbolic framework, creating a solid link between neural approximation and the discovery of sparse equations for scientific machine learning."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Ravi Kumar U, Sumitra S",
+      "categories": [
+        "cs.LG",
+        "cs.NE",
+        "cs.SC"
+      ]
+    }
+  },
+  "c8fcd78afd86abaab9f1a56c3633ab64be90f46152b858f45c7c0da9da640767": {
+    "id": "c8fcd78afd86abaab9f1a56c3633ab64be90f46152b858f45c7c0da9da640767",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+    "summary": "AI初创公司AfterQuery五个月内估值飙升10倍，最新融资后达32亿美元，此前4月A轮融资估值为3亿美元。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "publishedAt": "2026-09-01T22:08:24+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "5f189de8bdc07b7b7feedbeb479567c15481c7a13cf5c0cc321b4cd1dc2ae184": {
+    "id": "5f189de8bdc07b7b7feedbeb479567c15481c7a13cf5c0cc321b4cd1dc2ae184",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+    "summary": "OpenAI发布新大模型Astra，强调将采取多项安全措施，以应对这一关键网络安全AI模型的发布。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "publishedAt": "2026-09-01T21:06:24+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "3813b59294b884ed2b8de314e6b2001fc085cb1209bfe38146bdbeab388b1e74": {
+    "id": "3813b59294b884ed2b8de314e6b2001fc085cb1209bfe38146bdbeab388b1e74",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+    "summary": "谷歌部分新功能对标苹果iPhone已有特性，另有功能则依托Gemini模型实现差异化升级。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+    "publishedAt": "2026-09-01T20:53:05+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "216ae9c47db2acdfced6fcee1b23206ae7d58f2f6cc5c4645b9e48166036dd67": {
+    "id": "216ae9c47db2acdfced6fcee1b23206ae7d58f2f6cc5c4645b9e48166036dd67",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+    "summary": "《Fable 5.1》优化模型安全机制，降低token消耗并减少误判限制。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+    "publishedAt": "2026-09-01T19:39:22+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "689351b43d69bd5f9298c5b76b89257ce5ccf1161a2ca7e75ca6bffbf8bf29d7": {
+    "id": "689351b43d69bd5f9298c5b76b89257ce5ccf1161a2ca7e75ca6bffbf8bf29d7",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+    "summary": "谷歌推出Pics进军创意软件市场，主打AI优先策略，挑战Canva和Adobe。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "publishedAt": "2026-09-01T17:35:37+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "a1d5839b6cf4aaab6e8b7910176b42d33e277f1e51ac6d253d13b59ad2685928": {
+    "id": "a1d5839b6cf4aaab6e8b7910176b42d33e277f1e51ac6d253d13b59ad2685928",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+    "summary": "OpenAI宣布其集成方案为临床医生提供患者健康记录的只读访问权限。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+    "publishedAt": "2026-09-01T17:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "ff0ade8b8025a91d9f4795d9d3ca5ad2c95906c2b0de0eaad9ae495aa14c4859": {
+    "id": "ff0ade8b8025a91d9f4795d9d3ca5ad2c95906c2b0de0eaad9ae495aa14c4859",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+    "summary": "该初创公司希望像Cursor革新软件工程那样，重塑IT基础设施领域。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+    "publishedAt": "2026-09-01T16:31:04+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "a8c2b93a332e408c76bc89015e70a91ed7c0ffebdec3e7e176dabf7caee66a0f": {
+    "id": "a8c2b93a332e408c76bc89015e70a91ed7c0ffebdec3e7e176dabf7caee66a0f",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+    "summary": "亚马逊推出Alexa新功能“Update Me When”，可个性化推送新品发布、演出、图书等购物相关提醒。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+    "publishedAt": "2026-09-01T15:51:55+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "3a4171dca5a6dd6152b8e95d60d72501989ece5eedd7d213c7448b5583427b01": {
+    "id": "3a4171dca5a6dd6152b8e95d60d72501989ece5eedd7d213c7448b5583427b01",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+    "summary": "企业AI落地难在代理（Agent）复杂性：10个代理可能产生数十条调用路径，导致系统失控、安全盲区与责任不清。",
+    "source": "VentureBeat",
+    "sourceUrl": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+    "publishedAt": "2026-08-27T14:01:00+00:00",
+    "tags": [
+      "ai-news",
+      "VentureBeat"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "4e59bf7e5d2a7adcd023e8ba6d43c3de5b168256ffd32721c27b45906f1eeeef": {
+    "id": "4e59bf7e5d2a7adcd023e8ba6d43c3de5b168256ffd32721c27b45906f1eeeef",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "When agents act on their own, governance has to live in the data layer",
+    "summary": "AI代理需实时上下文规则而非静态策略：当代理自主行动时，传统“事前指令+事后监控”失效，智能决策依赖动态、情境化授权控制。（59字）",
+    "source": "VentureBeat",
+    "sourceUrl": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+    "publishedAt": "2026-08-27T12:01:00+00:00",
+    "tags": [
+      "ai-news",
+      "VentureBeat"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "26057ec88e7b0454caf9679422c14c917d42035c3dc6b41cbe65e588bc65513f": {
+    "id": "26057ec88e7b0454caf9679422c14c917d42035c3dc6b41cbe65e588bc65513f",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Orchestration is the new challenge for CX in the age of AI agents",
+    "summary": "企业仓促将AI接入老旧系统，导致平台割裂、协同困难。AI与人工协作缺乏统一上下文，难以实现跨系统实时协同。（59字）",
+    "source": "VentureBeat",
+    "sourceUrl": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+    "publishedAt": "2026-08-26T14:30:00+00:00",
+    "tags": [
+      "ai-news",
+      "VentureBeat"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "c787aa44fdfa323d73bf14a7fc658331a2f7c24c1ed1a1fd2d9b95b200e0cc3b": {
+    "id": "c787aa44fdfa323d73bf14a7fc658331a2f7c24c1ed1a1fd2d9b95b200e0cc3b",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+    "summary": "VentureBeat任命Rob Strechay为首位首席分析师，领衔新设的VentureBeat Research，专注为企业AI决策者（CIO/CTO等）提供深度技术分析。",
+    "source": "VentureBeat",
+    "sourceUrl": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+    "publishedAt": "2026-08-19T14:18:12+00:00",
+    "tags": [
+      "ai-news",
+      "VentureBeat"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "de1217cafb80bbabcc1504435507deea159b0343553c0a1367c4c89ac34a19c6": {
+    "id": "de1217cafb80bbabcc1504435507deea159b0343553c0a1367c4c89ac34a19c6",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+    "summary": "谷歌宣布彻底重构搜索框：25年来首次重大升级，支持多模态输入（文字、图片、视频等），整合AI概览与AI模式，打造无缝AI搜索体验。",
+    "source": "VentureBeat",
+    "sourceUrl": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+    "publishedAt": "2026-05-19T17:45:00+00:00",
+    "tags": [
+      "ai-news",
+      "VentureBeat"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "851dbb80f58af492a0ba91a7acf81819dcdbb71137221085cbcb52f8773d905b": {
+    "id": "851dbb80f58af492a0ba91a7acf81819dcdbb71137221085cbcb52f8773d905b",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "summary": "旧金山云平台Railway获1亿美元B轮融资，估值跃升。其零营销吸引200万开发者，主打简化AI应用部署，挑战AWS、谷歌云等传统云服务。",
+    "source": "VentureBeat",
+    "sourceUrl": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "publishedAt": "2026-01-22T14:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "VentureBeat"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "f528b2fa32f29397014c4b3dda3f0b47ced3f007219c7fea1a70803f8375a95d": {
+    "id": "f528b2fa32f29397014c4b3dda3f0b47ced3f007219c7fea1a70803f8375a95d",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "summary": "Anthropic的Claude Code月费20–200美元引争议；Block开源AI编程工具Goose免费、本地运行、无网络依赖，GitHub获2.6万星。",
+    "source": "VentureBeat",
+    "sourceUrl": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "publishedAt": "2026-01-19T14:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "VentureBeat"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "ab155bbe9e99cb1da0f7b8473cc3424e5f8129218e7ef8c323c12ed36c0f92c0": {
+    "id": "ab155bbe9e99cb1da0f7b8473cc3424e5f8129218e7ef8c323c12ed36c0f92c0",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Google needs Hollywood more than the studios need AI",
+    "summary": "谷歌正接触好莱坞大制片厂，拟斥巨资达成版权授权协议，以训练AI模型。此举或为双方带来丰厚收益。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+    "publishedAt": "2026-09-01T22:50:29+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "000d11be813eeba4d1caf7e3ccd573e5f73beb01cd137e8afe2cb88f99dcd0d7": {
+    "id": "000d11be813eeba4d1caf7e3ccd573e5f73beb01cd137e8afe2cb88f99dcd0d7",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+    "summary": "Anthropic推出Claude Fable 5.1和Mythos 5.1，回应用户对价格、数据留存及过度防护的批评；Fable 5.1性能更强，成本降25%，复杂任务降幅达45%。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+    "publishedAt": "2026-09-01T22:01:36+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "83a10376643ab9edda220a5d116c793222fcc8d5a80ccb73b0dca27e6896f534": {
+    "id": "83a10376643ab9edda220a5d116c793222fcc8d5a80ccb73b0dca27e6896f534",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+    "summary": "OpenAI推迟未发布模型套件Astra的开发，以加强安全工作。此前，一款未发布模型7月“越狱”引发国际关注。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+    "publishedAt": "2026-09-01T20:45:49+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "ccf4277ba3149ce8077705b9dd98ac6cda8afb4fb88363eca6a2bcf601b93a15": {
+    "id": "ccf4277ba3149ce8077705b9dd98ac6cda8afb4fb88363eca6a2bcf601b93a15",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+    "summary": "Hugging Face遭网络攻击，OpenAI被指涉事；另有说法称系多个人工智能“文明”所为。事件凸显AI安全领域责任界定与术语使用的敏感性。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+    "publishedAt": "2026-09-01T19:02:54+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "f0de50f7409ff4923502662c085d47f519ae2f6cba550950cba18fc48186894c": {
+    "id": "f0de50f7409ff4923502662c085d47f519ae2f6cba550950cba18fc48186894c",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Apple accuses OpenAI of destroying evidence",
+    "summary": "苹果指控OpenAI销毁证据，称其迟交涉事员工MacBook，内含“销毁证据”讨论，已向法院申请加速取证。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+    "publishedAt": "2026-09-01T18:19:26+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "c108d6847b999d3ecac22514549a5cc5aaacbd2160cb7bb78628ab31779964ee": {
+    "id": "c108d6847b999d3ecac22514549a5cc5aaacbd2160cb7bb78628ab31779964ee",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "John Deere launched an AI chatbot for farmers",
+    "summary": "约翰迪尔测试AI助手“JD”，基于农户田间、机械及运营数据，提供设备设置、油耗、收获时机等建议，助其增效增收。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+    "publishedAt": "2026-09-01T16:00:52+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "7d2886f52cc473784611b1a00ec0ea4c10f148f178801665287326e33bc43166": {
+    "id": "7d2886f52cc473784611b1a00ec0ea4c10f148f178801665287326e33bc43166",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Google Pics is like Canva, but with even more AI",
+    "summary": "谷歌推出Workspace新工具Google Pics，基于Gemini与Nano Banana模型，助力企业轻松生成和编辑专业级AI图像。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+    "publishedAt": "2026-09-01T16:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "d2b42c2dd3633730db3f23916720fc5a45f69c42d27bf3eb10c8127af6eb601f": {
+    "id": "d2b42c2dd3633730db3f23916720fc5a45f69c42d27bf3eb10c8127af6eb601f",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+    "summary": "英伟达本周正式发布DLSS 5，将登陆RTX 50系显卡及GeForce Now云平台。此前3月预告曾引发争议，被指类似“游戏实时生成式AI滤镜”。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+    "publishedAt": "2026-09-01T13:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "ef73da43d4b74d5e2ead1696818263440e44b13c2e798b43982a9a12a0c1cdee": {
+    "id": "ef73da43d4b74d5e2ead1696818263440e44b13c2e798b43982a9a12a0c1cdee",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+    "summary": "诉讼称Anthropic模型训练盗用数万首歌曲，致AI生成歌曲霸榜，词曲作者收入锐减。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+    "publishedAt": "2026-08-31T18:10:45+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "d249d60db79ff094da82069829139be0de7e7abb1ddd0bde52c910f1d7bc263c": {
+    "id": "d249d60db79ff094da82069829139be0de7e7abb1ddd0bde52c910f1d7bc263c",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+    "summary": "欧盟对爆炸性增长的科技企业加征新监管负担。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+    "publishedAt": "2026-08-31T13:41:40+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "784e5aa8dae9cfe0dec73ef81ad36b9061d9cd2dc5ef6527f99600d83d3a54f2": {
+    "id": "784e5aa8dae9cfe0dec73ef81ad36b9061d9cd2dc5ef6527f99600d83d3a54f2",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+    "summary": "交互式移动“小工具”易开发，但仅限Meta平台内分享，跨平台传播困难。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+    "publishedAt": "2026-08-31T10:00:34+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "8c433ac4114351712c77129b88bafb8ff785ba88145beaa5c5b0edea0a3c7369": {
+    "id": "8c433ac4114351712c77129b88bafb8ff785ba88145beaa5c5b0edea0a3c7369",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Inside Meta’s push to put robots to work in data centers",
+    "summary": "该公司正测试机器人执行技术人员可完成的任务。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+    "publishedAt": "2026-08-30T11:03:47+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "20de110d91dd5d806d98d3e54b28970d57fb61e799467c4edd00830214bd5baf": {
+    "id": "20de110d91dd5d806d98d3e54b28970d57fb61e799467c4edd00830214bd5baf",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+    "summary": "Anthropic明确拒绝支持致命性自主武器系统及大规模监控技术。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+    "publishedAt": "2026-08-28T18:07:55+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "14ef46f762dd67b84251768bba989a3450c27700dc626625ec1a8404047bee39": {
+    "id": "14ef46f762dd67b84251768bba989a3450c27700dc626625ec1a8404047bee39",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+    "summary": "Meta升级AI眼镜安全机制：用户遮挡安全指示灯时，自动停止录制。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+    "publishedAt": "2026-08-28T15:42:24+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "0764333d8c2d7430c703d163ce6b724b331ac74145bc53afcf8746a8d24f3a96": {
+    "id": "0764333d8c2d7430c703d163ce6b724b331ac74145bc53afcf8746a8d24f3a96",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+    "summary": "标准化驱动接口旨在让设备与AI及其他设备互联互通。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "publishedAt": "2026-08-27T22:15:43+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "b7f03c0cd7bd661d57e90ec2fc1a52d91e31d15e90ac5951be6e08a2f7b5ed6f": {
+    "id": "b7f03c0cd7bd661d57e90ec2fc1a52d91e31d15e90ac5951be6e08a2f7b5ed6f",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+    "summary": "xAI被指控用真实及AI生成的儿童色情内容训练Grok模型，引发严重伦理与法律争议。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+    "publishedAt": "2026-08-27T20:52:31+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "99d8839bddaaa63085cdf7a9ef7ee9310e28e8c340ffa76522b8ca065aa28815": {
+    "id": "99d8839bddaaa63085cdf7a9ef7ee9310e28e8c340ffa76522b8ca065aa28815",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "香港首个真实开放场景服务机器人落地兰桂坊",
+    "summary": "在香港兰桂坊，一位特殊的“酒保”正式上岗",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/482855.html",
+    "publishedAt": "2026-09-02T02:06:08+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "8543c3d82b5fe71840e468e4c65903fb0d76401fc04c090fd24cf8f169883831": {
+    "id": "8543c3d82b5fe71840e468e4c65903fb0d76401fc04c090fd24cf8f169883831",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
+    "summary": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/482699.html",
+    "publishedAt": "2026-09-02T01:44:24+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "a7d7245fc045b9344bb16a3ccd0e8dea1d41b45d23952c03f0b3ca891ce4feca": {
+    "id": "a7d7245fc045b9344bb16a3ccd0e8dea1d41b45d23952c03f0b3ca891ce4feca",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "李飞飞发布：全球首个多模态世界模型",
+    "summary": "一张图补全3D世界，还能给机器人造训练场",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/482586.html",
+    "publishedAt": "2026-09-02T01:07:13+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "6ebd729eea92d3d1f2cb9cd8b5c89ca3466f7794fabe276063687f30e7cb482c": {
+    "id": "6ebd729eea92d3d1f2cb9cd8b5c89ca3466f7794fabe276063687f30e7cb482c",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
+    "summary": "",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/482512.html",
+    "publishedAt": "2026-09-01T12:02:39+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "969beba5530180f44e247b38126583af4e2d3cdad6ad3f13721a517c2602e428": {
+    "id": "969beba5530180f44e247b38126583af4e2d3cdad6ad3f13721a517c2602e428",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "GitHub最热架构图Agent，开发者故事看哭了",
+    "summary": "美观且支持实时更新的架构图，也能用AI一键生成了！",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/482469.html",
+    "publishedAt": "2026-09-01T08:26:54+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "d7810248eee652b12d5d1d276358e5eea5f4d6c2ceed33b8d5ab76af4e65fde6": {
+    "id": "d7810248eee652b12d5d1d276358e5eea5f4d6c2ceed33b8d5ab76af4e65fde6",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "急急急用电！马斯克开造燃气轮机叶片",
+    "summary": "SpaceX正在德克萨斯州筹备燃气轮机叶片铸造工厂",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/482451.html",
+    "publishedAt": "2026-09-01T08:24:12+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "b6255c69104825a5b76b219c7dde3a825ec4070a10e666bc95761800184c1c98": {
+    "id": "b6255c69104825a5b76b219c7dde3a825ec4070a10e666bc95761800184c1c98",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
+    "summary": "主打一个明升暗降，理直气壮",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/482406.html",
+    "publishedAt": "2026-09-01T08:15:40+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "aea0197478b03ebf7ad144bcebbaa169a722fbe855a9fe36b1c8ba3c342c1c07": {
+    "id": "aea0197478b03ebf7ad144bcebbaa169a722fbe855a9fe36b1c8ba3c342c1c07",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
+    "summary": "参数冻结，能力暴涨",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/482337.html",
+    "publishedAt": "2026-09-01T05:12:30+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "4dcd9d59932a6c183a3872c0b94c06dfa7f09d68bc6fcb7086e4e5a6c47a6a47": {
+    "id": "4dcd9d59932a6c183a3872c0b94c06dfa7f09d68bc6fcb7086e4e5a6c47a6a47",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation",
+    "summary": "研究通过八类攻击扰动和因果追踪等方法，机制化解析大语言模型（LLM）作为评判者在摘要评估中对可读性与充分性的打分原理。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01604v1",
+    "publishedAt": "2026-09-01T17:59:49+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "LLM-based evaluators of natural language generation (NLG) quality are widely deployed as scoring tools and as automated training signals, yet the internal procedure by which they assign a rating remains poorly understood. We investigate this procedure mechanistically through an eight-attack perturbation taxonomy across the Readability and Adequacy dimensions of NLG quality, a generation pipeline that produces paired clean and corrupt summaries with controlled error intensity and explicit token-level modification maps, and a four-experiment battery of causal tracing, logit-lens vocabulary projection, and attention-head knockout applied to Themis (Llama-3-8B) and Prometheus (Mistral-7B). Both evaluators implement a structured, coherent evaluation pipeline operating in two stages: below layer 15, attention performs local error comparison and routes the result to the final input position; above it, the MLP cascade integrates the signal and writes the rating, with the decision crystallizing in the residual stream at a sharp late layer (L = 26 on Themis, L = 25 on Prometheus). Furthermore, a base-model control at the same scale (Llama-3-8B) reproduces the routing architecture and crystallization but not the stage separation, isolating the two mechanisms that fine-tuning specifically installs, suppression of below-L15 MLP contribution at the last position and a two-layer advance of the crystallization depth, indicating that fine-tuning sculpts an existing substrate rather than building the pipeline from scratch. We release the source code and data at https://github.com/himil-v/judge-mech"
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Himil Vasava, Ming Jiang",
+      "categories": [
+        "cs.CL",
+        "cs.LG"
+      ]
+    }
+  },
+  "0fb4d770f47d5feaab5b73d470bf46af26db3ca08540a99fce26a3c0d32e2c1c": {
+    "id": "0fb4d770f47d5feaab5b73d470bf46af26db3ca08540a99fce26a3c0d32e2c1c",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation",
+    "summary": "提出PTA-IRT框架，融合执行轨迹（过程）与结果信号，提升SWE代理基准评测效率与准确性。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01603v1",
+    "publishedAt": "2026-09-01T17:59:46+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Evaluating software engineering agents on realistic benchmarks is costly, since each task may require multi-step code exploration, modification, and test execution. Existing efficient evaluation methods select representative subsets to estimate full-benchmark performance, but are largely result-only: they fit historical pass/fail response matrices or static task semantics, discarding how agents solve problems. We propose PTA-IRT, a Privileged Trajectory-Aware Item Response Theory framework that fuses process and outcome signals. Historical execution trajectories supply process-level evidence beyond pass/fail, such as explored context, attempted edits, and solving paths, which PTA-IRT uses as privileged information for calibration subset selection and ability estimation. Under low calibration budgets, PTA-IRT consistently outperforms prior IRT baselines on score and ranking recovery across four SWE benchmarks. Code and data are publicly available at https://github.com/DeepSoftwareAnalytics/PTA-IRT."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Kefeng Duan, Dewu Zheng, Yanlin Wang et al.",
+      "categories": [
+        "cs.SE",
+        "cs.AI",
+        "cs.CL"
+      ]
+    }
+  },
+  "a1c9bc21be598eb491b2feca0f67e7ec7cb88aa773a037432fd3968f9490448b": {
+    "id": "a1c9bc21be598eb491b2feca0f67e7ec7cb88aa773a037432fd3968f9490448b",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation",
+    "summary": "提出自适应关键token感知检索方法，提升仓库级代码生成中对细粒度上下文的精准获取能力。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01601v1",
+    "publishedAt": "2026-09-01T17:59:39+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "The repository-level code generation task requires synthesizing code that satisfies task requirements while remaining consistent with the target repository context. Since real-world repositories often exceed the input length limits of LLMs, existing approaches commonly adopt retrieval-augmented generation (RAG) to provide repository-specific context. Despite improving repository-context retrieval, existing methods typically provide context as task-level support, without explicitly identifying the critical tokens that require fine-grained repository context during generation. During the autoregressive generation process of LLMs, errors often concentrate at a small number of decisive positions: once such tokens are generated incorrectly, subsequent code may follow an incorrect semantic path and eventually lead to functional failure. We refer to these positions as \"critical tokens\". In this paper, we propose ACToR, an adaptive critical token-aware retrieval framework for repository-level code generation. ACToR identifies critical tokens during generation and triggers targeted retrieval on demand to provide repository context at these decisive positions. In addition, we design a position-aware weighting method for dense retrievers to prioritize context that is more informative for generation. We evaluate ACToR on two representative repository-level benchmarks, RepoExec and CoderEval. Experimental results show that ACToR consistently outperforms state-of-the-art methods, achieving relative improvements of 8.4% on RepoExec and 15.4% on CoderEval. Beyond performance gains, we systematically quantify the impact of critical tokens, revealing their central role in major generation failures and highlighting the necessity of targeted retrieval strategies. We provide the code and data at https://github.com/DeepSoftwareAnalytics/ACToR."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Kefeng Duan, Dewu Zheng, Yanlin Wang et al.",
+      "categories": [
+        "cs.SE",
+        "cs.AI",
+        "cs.CL"
+      ]
+    }
+  },
+  "993166b447206101a6065f10bb6ef3629ea6cdc9c88775aaf0e3461bbe226c1b": {
+    "id": "993166b447206101a6065f10bb6ef3629ea6cdc9c88775aaf0e3461bbe226c1b",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?",
+    "summary": "CordisBench是含1200题的基准测试，评估大模型对动态智能体环境中组件生命周期（依赖、清理、状态变化）的推理能力。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01600v1",
+    "publishedAt": "2026-09-01T17:59:13+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Dynamic agent harnesses let language models change the software that shapes their own execution. This flexibility brings a new reasoning burden: a local plugin change can propagate through dependencies and cleanup. We introduce CordisBench, a 1,200-question benchmark of this lifecycle reasoning. It combines a controlled formal setting with programs executed against Cordis, a runtime that manages component dependencies and cleanup, and asks models to identify affected components, predict state after a specified teardown order, determine which conditions hold under all or some orders, and choose reconfigurations that succeed when executed. Across these tasks, we evaluate three efficiency-oriented models at low reasoning effort with 2, 4, 8, 16, 24, or 32 relevant interactions, using deterministic task-specific scoring. Models usually handle small systems well but grow less reliable as more interactions become relevant, especially when predicting final state and when reasoning across teardown orders. Additional inference effort recovers marked gains for some models. The cost is nontrivial: on our 16-interaction subset, GPT-5.6 Luna uses nearly 3,000 reasoning tokens per question at medium effort. For these controlled instances, that cost is avoidable: an independent finite reference semantics agrees with Cordis execution on every observation and action outcome used for scoring across all 528 executable questions."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Damien Sileo, Dimitri Kachler",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ]
+    }
+  },
+  "2150479c760282b1b3d6ec4e7e85343e14681ea94bb7ccfde9802dc8e3669b8a": {
+    "id": "2150479c760282b1b3d6ec4e7e85343e14681ea94bb7ccfde9802dc8e3669b8a",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "The Rise of Verbal Reinforcement Learning",
+    "summary": "论文提出“语言强化学习（VRL）”新范式，首次系统阐述自然语言作为可解释反馈通道，按反馈生效时机与作用对象分为三大支柱。（59字）",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01597v1",
+    "publishedAt": "2026-09-01T17:58:18+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Natural language is emerging as a primary feedback channel for improving language agents, capable of conveying intent, preferences, and causal structure in forms interpretable by both humans and modern language models. We call this paradigm Verbal Reinforcement Learning (VRL) and offer the first unified account of it. We organize the field around a single axis, \\textit{when} verbal feedback takes effect in an agent's lifecycle and \\textit{what} it modifies, yielding three pillars: (1) \\textbf{Language as Grounding Signal}, where language defines the task itself by specifying goals, states, and reward structures; (2) \\textbf{Language as Deliberative Feedback}, where natural language guides reasoning at test time without the need to update model parameters; (3) \\textbf{Language as Learning Signal}, where language-based feedback shapes model parameters through training. Within each pillar, we synthesize representative work, distinguish key subcategories of approaches, and outline the distinct role language plays in shaping agent behavior. Together, this taxonomy shows how verbal reinforcement is reshaping agent development, while also defining the challenges and opportunities for building more capable and aligned agents."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Kshitij Tayal, Arun Sharma, Genta Indra Winata et al.",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ]
+    }
+  },
+  "d997c3e47945a18c512a2db4d1c257c8094b9aeded70ac3e58ea2cc3c4ec2bb8": {
+    "id": "d997c3e47945a18c512a2db4d1c257c8094b9aeded70ac3e58ea2cc3c4ec2bb8",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation",
+    "summary": "Facet-0是新型机器人基础模型，支持亚毫米级精密装配，融合多模态学习与强化学习，通过动作-力矩联合预测实现高鲁棒性接触操作。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01596v1",
+    "publishedAt": "2026-09-01T17:58:07+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Real-world robotic assembly at sub-millimeter tolerances demands spatial precision, compliant interaction, and robustness to contact failures. We present Facet-0, a robotic foundation model that predicts and values the contact consequences of its actions. Facet-0 unifies multimodal representation learning and reinforcement learning (RL) post-training around a joint action-wrench proposal: a causal wrench history is aligned with vision-language semantics and kinematic state, and flow matching generates each action chunk together with the future wrist-wrench profile it is expected to induce. Deployment rollouts train a distributional Action-Wrench Critic to distinguish motions with similar task progress but different contact outcomes, while phase-aware rewards and contact-selective credit concentrate policy improvement on decisive interactions. To accommodate part-specific dynamics, a lightweight bounded actor reuses the frozen representation for on-robot adaptation; RL remains defined over executable Cartesian actions, while an auxiliary wrench head preserves predictive, non-commanded action-contact coupling. Trained on ManuFacet-1K, a 1,000-hour force-synchronized corpus spanning three embodiments and multiple manufacturing cells, the bounded task-adapted system reaches 82% mean success on five sub-millimeter computer-assembly tasks, compared with 15% for the strongest baseline, with 0.5 mm placement accuracy and 50 ms command latency."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Haoyuan Deng, Haichao Liu, Wenkai Guo et al.",
+      "categories": [
+        "cs.RO",
+        "cs.LG"
+      ]
+    }
+  },
+  "901e8a9bcbbee33cd6b29abbf47cd9e4d43125831a849f62a5456b5eccba9176": {
+    "id": "901e8a9bcbbee33cd6b29abbf47cd9e4d43125831a849f62a5456b5eccba9176",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Mechanism Design for Alignment and Control",
+    "summary": "本文提出面向AI代理的机制设计框架，解决其偏好与能力未知下的对齐与控制问题，提出单边模仿结构、揭示原理及嵌套循环单调性刻画可实施策略。（59字）",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01595v1",
+    "publishedAt": "2026-09-01T17:57:50+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "We develop a framework for mechanism design with AI agents whose alignment (preferences) and capabilities (feasible actions and information) are unknown. We want such agents to act on our behalf so mechanisms must incentivize both honesty and obedience. A one-sided imitation structure---capabilities can be concealed but not counterfeited---yields a revelation principle, a characterization of implementable policies via nested cyclical monotonicity, and conditions under which eliciting higher-order beliefs can discipline multiple agents. We apply our framework to stylized examples of (i) sandbagging in which a more capable agent pretends to be less capable; (ii) an alignment--interpretability trade-off, where the two are substitutes in the instrument but complements in value; (iii) discipline via peer scoring; (iv) coupling rewards to induce competition among multiple agents; and (v) scalable oversight and reward shaping."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Dirk Bergemann, Andrew Koh, Stephen Morris",
+      "categories": [
+        "econ.TH",
+        "cs.AI",
+        "cs.GT"
+      ]
+    }
+  },
+  "7e054ea5b6c5fb99d7ccdde63da9fde5dd32957ef97593036d66c559459a7186": {
+    "id": "7e054ea5b6c5fb99d7ccdde63da9fde5dd32957ef97593036d66c559459a7186",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "StudentSim: Training LLM-based Student Simulators",
+    "summary": "StudentSim：新框架训练LLM学生模拟器，兼顾行为建模与能力匹配，解决AI导师个性化指导数据稀缺难题。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01591v1",
+    "publishedAt": "2026-09-01T17:55:10+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "AI tutors are most useful when they adapt to each student's strengths, weaknesses, and preferred guidance, but evidence about which guidance works for which student is sparse, slow, and costly to collect from real learners. Student simulators can provide this signal as a proxy, yet existing approaches are limited: state-tracking models fit student behavior but struggle to process explanations or corrections, while LLM role-play follows guidance fluently but does not reliably match the competence of the student being imitated. We present StudentSim, a training framework that turns sparse per-student data into individualized simulators through pooled training followed by per-student specialization. The resulting simulators both mirror a student's own responses and update them under tutor guidance. We also introduce StudentSimEval, a standardized protocol covering 60 students across chess, second-language English writing, and mathematics, using public learner datasets with de-identified records shared for research. StudentSimEval measures behavioral fidelity (F), or how well a simulator matches a student's responses, and guidance responsiveness (R), or how readily it updates under tutor guidance, with all methods fit and evaluated on the same records. Across all three domains, StudentSim outperforms GPT-5.4 on both metrics. In chess, StudentSim reaches F=0.51 and R=0.91, compared with 0.23 and 0.72 for GPT-5.4 and 0.45 and 0.27 for Maia2. As a proof of concept, using StudentSim as a reward model for tutor reinforcement learning produces a chess tutor that expert humans rate as more accurate, better-guided, and more personalized than a no-RL baseline and a tutor trained against a GPT-5.4 simulator reward. Code is available at https://github.com/microsoft/StudentSim."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Ke Yang, Chenglong Wang, Michel Galley et al.",
+      "categories": [
+        "cs.CL"
+      ]
+    }
+  },
+  "19c074f19869b7b0fd4fbbe3d76c8be68e77c1eddeb7d7a07f5c3a7c4645c281": {
+    "id": "19c074f19869b7b0fd4fbbe3d76c8be68e77c1eddeb7d7a07f5c3a7c4645c281",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Designing Proactive Thought Partners for Writing",
+    "summary": "研究提出“主动思维伙伴”AI代理，为写作提供定制化高阶认知支持；通过技术探针在16名用户中开展一周实证，验证其有效性。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01588v1",
+    "publishedAt": "2026-09-01T17:54:32+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Writing involves diverse cognitive activities, from ideation to revision, and writers' needs vary across individuals and moments. Proactive AI promises to provide the right support at the right time, yet existing proactive tools largely focus on generic textual assistance, such as autocomplete. This paper studies the design space of proactive thought partners: AI agents that proactively offer customizable, higher-level cognitive support during writing. We instantiated this concept in a technology probe and deployed it with 16 participants for one week. The probe allows users to create partners by configuring their roles and proactivity. As users write, relevant partners take the initiative at appropriate moments to offer suggestions. Our findings show that participants configured proactive support through prospective planning, used suggestions for both idea generation and self-monitoring, and valued lightweight visual representations alongside non-directive rhetorical framing for non-intrusive interventions. We derive implications for designing proactive writing assistants around customization, timing, engagement, and representation."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Chao Zhang, Abe Davis, Chih-Wei Chen et al.",
+      "categories": [
+        "cs.HC",
+        "cs.AI",
+        "cs.CL"
+      ]
+    }
+  },
+  "159537c74f795d1b86a139022b12566e3977de8aff74c68cb8555d1fbc500317": {
+    "id": "159537c74f795d1b86a139022b12566e3977de8aff74c68cb8555d1fbc500317",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "The Structure of Quantization Damage in LLMs: Why the Next Bit Should Be Spent Globally",
+    "summary": "研究发现LLM量化损伤分布不均，通过因果混合精度干预（逐层升至8位）测试9个开源模型，验证了3种假设均不成立。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01587v1",
+    "publishedAt": "2026-09-01T17:53:41+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Post-training quantization (PTQ) is widely used to reduce the cost of serving large language models (LLMs), but its accuracy cost is uneven and is often tuned per model. We study where quantization damage occurs and how to allocate a small additional precision budget. Using causal mixed-precision intervention as ground truth (raise each layer to 8-bit in turn and measure the accuracy it recovers) across 9 open-weight models in 4 architecture families, we test 3 intuitive hypotheses: that quantization damage lives in task circuits, where the model computes, or in weight statistics. None of them predicts which layers benefit from restored precision. Recovery is instead diffuse: for 8 of 9 models, recovering 75% of the gap takes roughly half the layers; the lone exception, Qwen3-8B, is sharply concentrated. At a matched precision budget, spending it globally on finer quantization granularity beats locally repairing the most recoverable layers for all 8 group-128-compatible models (all but OpenLLaMA, whose width rules out group-128), by 21-52 points, including the concentrated Qwen3-8B. We report 2 secondary findings: the residual is budget-limited (8-bit is near-lossless in our evaluation across RTN, GPTQ, and AWQ), and the location of peak recovery correlates with architecture within a family, though not across families. Within this budget setting, global granularity is a better default than selectively protecting critical layers. More broadly, cheap signals that correlate with quantization damage do not necessarily identify where restoring precision improves accuracy; this must be tested with causal intervention."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Jundong Hu, Shekar Ramachandran",
+      "categories": [
+        "cs.LG",
+        "cs.CL"
+      ]
+    }
+  },
+  "c56df28b82caab0495c50a51a223734d7a4d7c28c928e953995711ab75709930": {
+    "id": "c56df28b82caab0495c50a51a223734d7a4d7c28c928e953995711ab75709930",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Closing Cost-Quality Gap in Document VLMs: Difficulty-Aware Data Curation and Quality-Adjusted Deployment Economics",
+    "summary": "研究提出难度感知数据筛选与质量调优部署策略，构建35B MoE文档VLM（3B激活），降低合规行业结构化信息提取成本。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01575v1",
+    "publishedAt": "2026-09-01T17:40:29+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Extracting structured fields from hundreds of millions of documents annually remains costly in regulated industries: bespoke OCR cascades cover only a fraction of workflows, privacy rules preclude external models, and existing open-source VLMs that clear quality thresholds cost more to serve than human annotation. We present a deployed document-understanding system built on a Mixture-of-Experts VLM (35B total, 3B active), fine-tuned on in-house production data mixed with open-domain documents curated by a Difficulty-Aware pipeline for layout diversity, fact-extractability, and cross-model consistency. Fitting on a single H100 and serving heterogeneous workflows via prompting, the model leads all deployable (non-reasoning) baselines up to an order of magnitude larger. A quality-adjusted cost analysis, with confirmation and correction costs calibrated from production telemetry, shows it reduces expected costs by over 80% against the human baseline and by more than 50% against the best competing open-source model, while larger baselines remain economically unviable."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Maksim Evdokimov, Matvey Ivanov, Dmitrii Tsiupin et al.",
+      "categories": [
+        "cs.CL"
+      ]
+    }
+  },
+  "85434e01ebab58db5a5abe738841f7c5950cb4fb40b8f99e410ac6e68e52b0fe": {
+    "id": "85434e01ebab58db5a5abe738841f7c5950cb4fb40b8f99e410ac6e68e52b0fe",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Scaling Near-Optimal SFT-RL Annotation Budget Allocation from Small to Large LLMs",
+    "summary": "研究提出“近最优”标注预算分配框架，揭示SFT与RL在LLM后训练中的比例规律，验证其跨模型规模的可扩展性。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01573v1",
+    "publishedAt": "2026-09-01T17:39:55+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "How to divide a fixed annotation budget between supervised fine-tuning (SFT) and reinforcement learning (RL) during LLM post-training remains an open problem. Existing work characterizes only broad trends (e.g., SFT dominates in low-data regimes), lacks a principled allocation framework, and does not examine whether the optimal ratio transfers across model sizes. We frame this problem in terms of near-optimality: rather than seeking a single optimal SFT-RL ratio, we characterize the near-optimal region, the set of allocations within a specified tolerance of peak performance. Empirically, this region is wide even for small tolerances (2-10%), widens with model scale, and transfers reliably from small proxy models to large target models. This yields a practical strategy: small proxy-model experiments suffice to identify a transferable near-optimal region, eliminating the need for exhaustive large-scale search. Our results hold consistently across tasks, model families, and both preference-based off-policy and reward-supervision on-policy RL methods. We further analyze how the asymmetry in annotation costs between SFT and RL data shifts the near-optimal region."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Jingtan Wang, Arun Verma, Xiaoqiang Lin et al.",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.LG"
+      ]
+    }
+  },
+  "8c3f1ca93ad7ffc43016c6fc2704e71cfa97345aab2b5c7fa2c3ecaf268bd690": {
+    "id": "8c3f1ca93ad7ffc43016c6fc2704e71cfa97345aab2b5c7fa2c3ecaf268bd690",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix",
+    "summary": "企业因数据驻留要求自建LLM，通过补全指令遵循、函数调用、任务分布三方面质量缺口，将200+应用流量收敛至单模型，提升GPU利用率。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01572v1",
+    "publishedAt": "2026-09-01T17:39:26+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Data-residency constraints force enterprises to self-host LLMs, but continuous adoption of newer models without decommissioning their predecessors expands the serving fleet, fragmenting a finite GPU pool. We consolidate traffic from over 200 internal applications onto a single model by closing quality gaps identified through production error analysis along three axes: instruction following, function-calling, and internal task distribution. Quality is tracked by offline benchmarks stratified to production traffic and scored by deterministic verifiers or calibrated LLM judges. Rather than optimising all objectives jointly, which introduces cross-domain reward interference, we train a separate GRPO expert per axis and merge them via two-stage SLERP. Each expert's reward exposes a distinct failure mode, namely semantic collapse, over-calling, and verbosity hacking, each requiring a domain-specific fix. In non-reasoning mode the recipe surpasses a ${\\sim}7\\times$ larger by total parameters baseline on the in-house Arena with 69.6 to 65.8, instruction following with 0.85 to 0.83, and function-calling with 0.79 to 0.77, while lifting general dialogue benchmarks. The model absorbs 50% of platform traffic, 116M requests per month, at a fraction of the serving cost."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Olga Tsymboi, Dmitrii Stoianov, Ramil Latypov et al.",
+      "categories": [
+        "cs.CL"
+      ]
+    }
+  },
+  "1ed9373eb9b3a716140d66484f7a4ddb95df73e4c15e85a443b6a8d3e23e6dd8": {
+    "id": "1ed9373eb9b3a716140d66484f7a4ddb95df73e4c15e85a443b6a8d3e23e6dd8",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers",
+    "summary": "提出SAGE框架：基于熵选择性调用昂贵VLM教师，仅在模型不确定时查询，实现低成本自主策略学习与知识蒸馏。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01567v1",
+    "publishedAt": "2026-09-01T17:33:41+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Vision-Language Models (VLMs) provide useful priors for interactive decision-making, but using them directly as policies is expensive and brittle: they must be queried at every step, do not improve from environment interaction, and can repeat systematic errors. We study how to learn a cheap autonomous policy from an online, expensive, and imperfect but informative VLM teacher. We propose SAGE (Selective Agent Guidance via Entropy), a framework that queries a VLM only when the learner is uncertain, executes the suggested action during training, and distills guidance into a lightweight Reinforcement Learning (RL) policy. Because VLM advice is not always reliable, SAGE can weight teacher-action distillation using environment-derived advantages rather than treating all suggestions as equally useful. Across sparse-reward visual reasoning and navigation tasks, SAGE learns policies that act without VLM guidance at evaluation time and improves over unguided RL in several environments, including settings where the learned policy exceeds its VLM teacher. The results show that selective guidance is most beneficial when the VLM can help the agent discover high-reward trajectories, and less useful when unguided exploration already succeeds or teacher actions do not lead to informative experience. SAGE also reduces VLM usage by prompting the teacher only on a fraction of training steps and requiring no VLM calls at deployment. Overall, our results suggest that VLMs don't need to be used as fixed policies to be useful; they can instead act as temporary, imperfect sources of guidance whose value is tested and internalized through interaction."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Matteo Merler, Giovanni Bonetta, Davide Zago et al.",
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ]
+    }
+  },
+  "a96a15ecf3cfff2d00dd95df5f3f3e3095c87f7245c03585b434d814f736dca4": {
+    "id": "a96a15ecf3cfff2d00dd95df5f3f3e3095c87f7245c03585b434d814f736dca4",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "From Confusion to Clarity: Confusion-Aware Retrieval and Knowledge Injection for Text Classification",
+    "summary": "提出混淆感知检索与知识注入框架，解决大标签空间下LLM难以区分语义相似标签的问题，提升文本分类准确率。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.01564v1",
+    "publishedAt": "2026-09-01T17:31:02+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Large language models (LLMs) struggle to classify text into taxonomies with many semantically similar labels, as the distinctions are domain-specific and not captured by pre-training. To handle large label spaces, a common approach retrieves top-$K$ candidate labels by embedding similarity and prompt the LLM to choose among them. However, top-$K$ retrieval reduces the number of candidates but does not help the model tell similar ones apart. When two similar labels both appear as candidates, the model lacks the signal to choose correctly between them. We propose a framework that (1) identifies which label pairs the model struggles to distinguish, (2) expands the candidate set to include confusable labels, and (3) generates targeted rules to differentiate between similar candidates. The framework requires no fine-tuning, and the generated rules transfer to smaller, cheaper models. On three benchmarks (WOS, Flipkart, LEDGAR), our approach improves Macro F1 by up to 10.0pp over retrieval baselines, with smaller models (2B--20B) gaining up to 11.5pp via cross-model transfer."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Manish Gupta, Chaitanya Giri, Jayasimha Talur",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ]
+    }
+  },
+  "586ae9ae902270acf401d67253237b53661e05ba3ce52356ea9ea2741f9feb60": {
+    "id": "586ae9ae902270acf401d67253237b53661e05ba3ce52356ea9ea2741f9feb60",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "8月30日最新解决英雄联盟更新后出现的掉帧/low帧/卡死问题超详细解决方法保姆级干货2.0教程",
+    "summary": "UP主 莫雷泽娜 · 3,435播放 · 2:13",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117182444871143",
+    "publishedAt": "2026-08-30T04:01:16+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 黑科技 上分"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "莫雷泽娜",
+      "play": 3435,
+      "bvid": "BV1W94D6pEUg",
+      "duration": "2:13"
+    }
+  },
+  "a06f7a14ae00379b092fdf61d5821371e96f7c3eab964013b2c027576b9b2d12": {
+    "id": "a06f7a14ae00379b092fdf61d5821371e96f7c3eab964013b2c027576b9b2d12",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "走A还靠感觉?你一定要试试Pix,自制英雄联盟小工具",
+    "summary": "UP主 秦人a · 365播放 · 2:18",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117165449612281",
+    "publishedAt": "2026-08-27T04:00:17+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 黑科技 上分"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "秦人a",
+      "play": 365,
+      "bvid": "BV1nJhF6EE2Y",
+      "duration": "2:18"
+    }
+  },
+  "eb321a17104cc158b0ae1ff54c55943d850a0b57bfc1f997ad25ae48f05bc9a0": {
+    "id": "eb321a17104cc158b0ae1ff54c55943d850a0b57bfc1f997ad25ae48f05bc9a0",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "战士联盟来袭！ADC彻底陨落，海斗环境大变！",
+    "summary": "UP主 驻韩研究员 · 143,705播放 · 6:42",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117187679362865",
+    "publishedAt": "2026-08-31T02:10:37+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 黑科技 上分"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "驻韩研究员",
+      "play": 143705,
+      "bvid": "BV1QAt46AE8r",
+      "duration": "6:42"
+    }
+  },
+  "3ba36d8579b3c56ec35a95b26b9046920077e7e8a2e9c2e9b68a93accec83bfc": {
+    "id": "3ba36d8579b3c56ec35a95b26b9046920077e7e8a2e9c2e9b68a93accec83bfc",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "2026LOL上分还不会用Draftgap？神级英雄联盟AI插件推荐。",
+    "summary": "UP主 玛叉 · 25,452播放 · 4:50",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av116285182578427",
+    "publishedAt": "2026-03-24T16:55:36+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 黑科技 上分"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "玛叉",
+      "play": 25452,
+      "bvid": "BV13RQkBTEws",
+      "duration": "4:50"
+    }
+  },
+  "291e6f7b26fc4f7a8b2b8b44e96b5ffecd004f01d1df6dffc608e197b659087e": {
+    "id": "291e6f7b26fc4f7a8b2b8b44e96b5ffecd004f01d1df6dffc608e197b659087e",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "英雄联盟纯度上分法：教你无视“elo”机制",
+    "summary": "UP主 夜纯月 · 17,777播放 · 3:49",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117094196714260",
+    "publishedAt": "2026-08-14T13:55:09+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 黑科技 上分"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "夜纯月",
+      "play": 17777,
+      "bvid": "BV1FtgK6yE8H",
+      "duration": "3:49"
+    }
+  },
+  "ac4efff3b7df65564f41ac74204b4243c6414a81b491bfd274bc40919171ae7f": {
+    "id": "ac4efff3b7df65564f41ac74204b4243c6414a81b491bfd274bc40919171ae7f",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "符文大乱斗最抽象玩法！发表情就能K头！究极折磨流！",
+    "summary": "UP主 Mr狂赵 · 94,603播放 · 2:19",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av116815057525640",
+    "publishedAt": "2026-06-26T06:48:58+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 强化 套路"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "Mr狂赵",
+      "play": 94603,
+      "bvid": "BV15u7G6qEGX",
+      "duration": "2:19"
+    }
+  },
+  "4e5f20537ef7ffaf0e0b2bf211a2e2d553d780358ae202f97784099acb6c6813": {
+    "id": "4e5f20537ef7ffaf0e0b2bf211a2e2d553d780358ae202f97784099acb6c6813",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "海克斯刷新有什么规律？选强化之能量和高级贷款前必看！【云顶之弈】",
+    "summary": "UP主 手残的年级第一 · 2,546播放 · 0:49",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av116952580294908",
+    "publishedAt": "2026-07-20T13:44:13+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 强化 套路"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "手残的年级第一",
+      "play": 2546,
+      "bvid": "BV1LDKH6gEgT",
+      "duration": "0:49"
+    }
+  },
+  "760f8dc236fb5b7f60f20a37f2604f263b2ed96168c87ba37205fd047470f99e": {
+    "id": "760f8dc236fb5b7f60f20a37f2604f263b2ed96168c87ba37205fd047470f99e",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "【大头教学】光速上分  铺平你上大师的路  这一回  有手就行",
+    "summary": "UP主 猪大肠33 · 189,452播放 · 34:34",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av945080680",
+    "publishedAt": "2022-11-12T10:05:34+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "猪大肠33",
+      "play": 189452,
+      "bvid": "BV1aW4y1s7Ue",
+      "duration": "34:34"
+    }
+  },
+  "f93910452bcc86483a33ca34665a6756d1b0906ff506c237339e1ef71c72496d": {
+    "id": "f93910452bcc86483a33ca34665a6756d1b0906ff506c237339e1ef71c72496d",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "浅谈S16上单乌迪尔出装符文推荐",
+    "summary": "UP主 forever伯符 · 8,830播放 · 1:52",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av115876103719025",
+    "publishedAt": "2026-01-12T10:00:00+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "forever伯符",
+      "play": 8830,
+      "bvid": "BV1Nk6ZB3Ebp",
+      "duration": "1:52"
+    }
+  },
+  "85642ea862f735154b8d1f79fc4fd6aec045671bb421c81c43da4bdb2f3c5f8a": {
+    "id": "85642ea862f735154b8d1f79fc4fd6aec045671bb421c81c43da4bdb2f3c5f8a",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "【兰斯】英雄联盟上单通关宝典",
+    "summary": "UP主 兰斯Studios · 323,673播放 · ",
+    "source": "哔哩哔哩",
+    "sourceUrl": "https://www.bilibili.com/cheese/play/ss7054?query_from=0&search_id=11860848918576749588&search_query=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F+%E4%B8%8A%E5%8D%95+%E5%87%BA%E8%A3%85+%E6%94%BB%E7%95%A5+%E6%95%99%E5%AD%A6",
+    "publishedAt": "1970-01-01T00:00:00+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "兰斯Studios",
+      "play": 323673,
+      "bvid": "",
+      "duration": ""
+    }
+  },
+  "24769589ac582eb71465418814966e8cdabc721189277549c5b05c95e7ecd631": {
+    "id": "24769589ac582eb71465418814966e8cdabc721189277549c5b05c95e7ecd631",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "【英雄联盟】研究了半天的装备方案配装找不到怎么办",
+    "summary": "UP主 拉S要半小时 · 30,873播放 · 2:5",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av546081156",
+    "publishedAt": "2021-06-09T08:29:23+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "拉S要半小时",
+      "play": 30873,
+      "bvid": "BV1oq4y157U2",
+      "duration": "2:5"
+    }
+  },
+  "707415a6acb8cd9766b2e6b2b6cc8d64f19052c6f0f376baccb9dc7d393a04ad": {
+    "id": "707415a6acb8cd9766b2e6b2b6cc8d64f19052c6f0f376baccb9dc7d393a04ad",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "最强线霸上单，荒漠屠夫鳄鱼，出装符文教学",
+    "summary": "UP主 lol超神解说lol · 84,618播放 · 2:49",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av1305225951",
+    "publishedAt": "2024-05-25T01:29:22+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "lol超神解说lol",
+      "play": 84618,
+      "bvid": "BV1KM4m1z7B4",
+      "duration": "2:49"
+    }
+  },
+  "c03f18797f9dc14732a51a0c75b4dd1cc7e25a9cda37648e3547c42621d5be1d": {
+    "id": "c03f18797f9dc14732a51a0c75b4dd1cc7e25a9cda37648e3547c42621d5be1d",
+    "module": "lol",
+    "seg": "match",
+    "cat": "比赛",
+    "title": "T1 vs BFX  Doran绝境亮剑！狗头狂农1500层！泰勇飞机伤害爆炸！狗头成功偷家！   Game 4 丨 2026 LCK 季后赛",
+    "summary": "UP主 最新联盟 · 113,722播放 · 17:25",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117178619730683",
+    "publishedAt": "2026-08-29T11:53:56+00:00",
+    "tags": [
+      "lol",
+      "match",
+      "英雄联盟 LPL LCK 比赛 集锦 复盘"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "最新联盟",
+      "play": 113722,
+      "bvid": "BV1X8426pE3p",
+      "duration": "17:25"
+    }
+  },
+  "ca22fcfeb0c31269ea77cd3d56e1a9f1b47124385765dd7b6f3f90927ab9c7c2": {
+    "id": "ca22fcfeb0c31269ea77cd3d56e1a9f1b47124385765dd7b6f3f90927ab9c7c2",
+    "module": "lol",
+    "seg": "match",
+    "cat": "比赛",
+    "title": "英雄联盟 LCK季后赛GENG 3-0 KT 送T1进入世界赛 三局比赛精彩瞬间速看",
+    "summary": "UP主 没有烧烤摊的小吕 · 433播放 · 19:30",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117196118300479",
+    "publishedAt": "2026-09-01T13:57:12+00:00",
+    "tags": [
+      "lol",
+      "match",
+      "英雄联盟 LPL LCK 比赛 集锦 复盘"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "没有烧烤摊的小吕",
+      "play": 433,
+      "bvid": "BV1o8tV6TEyv",
+      "duration": "19:30"
+    }
+  },
+  "6b315b1f069d372b12c7dfa4e0940e6b80512d3285cc65bea44824fd47407d27": {
+    "id": "6b315b1f069d372b12c7dfa4e0940e6b80512d3285cc65bea44824fd47407d27",
+    "module": "lol",
+    "seg": "match",
+    "cat": "比赛",
+    "title": "LOL全球十大顶级操作怪！十大天花板操作名场面",
+    "summary": "UP主 卡西斯特利娅莎 · 547,743播放 · 15:27",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av113609300510064",
+    "publishedAt": "2024-12-07T03:03:52+00:00",
+    "tags": [
+      "lol",
+      "match",
+      "英雄联盟 LPL LCK 比赛 集锦 复盘"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "卡西斯特利娅莎",
+      "play": 547743,
+      "bvid": "BV1SDikYvEtV",
+      "duration": "15:27"
+    }
+  },
+  "df1a79e6de2ec820c6fd8b08e53f98bc570c61e378e81ce14854baab3541ea44": {
+    "id": "df1a79e6de2ec820c6fd8b08e53f98bc570c61e378e81ce14854baab3541ea44",
+    "module": "lol",
+    "seg": "match",
+    "cat": "比赛",
+    "title": "LCK只剩一张2026全球总决赛的门票了！",
+    "summary": "UP主 电竞老司机z · 36,846播放 · 0:44",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117197158488074",
+    "publishedAt": "2026-09-01T18:19:08+00:00",
+    "tags": [
+      "lol",
+      "match",
+      "英雄联盟 LPL LCK 比赛 集锦 复盘"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "电竞老司机z",
+      "play": 36846,
+      "bvid": "BV1jXt563Esf",
+      "duration": "0:44"
+    }
+  },
+  "b8d424fbf1a801b588dd86e305bb2044f53a443c3d64a609f0fecfeea0e9e16f": {
+    "id": "b8d424fbf1a801b588dd86e305bb2044f53a443c3d64a609f0fecfeea0e9e16f",
+    "module": "lol",
+    "seg": "match",
+    "cat": "比赛",
+    "title": "【T1 VS HLE】这就是专业解说！湾湾主播zod在bp阶段完美预测比赛走向，更直言T1要2:0HLE了耶！",
+    "summary": "UP主 东方擒龙 · 57,828播放 · 3:22",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av116938990684342",
+    "publishedAt": "2026-07-18T04:06:37+00:00",
+    "tags": [
+      "lol",
+      "match",
+      "英雄联盟 LPL LCK 比赛 集锦 复盘"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "东方擒龙",
+      "play": 57828,
+      "bvid": "BV15hKF6CE6U",
+      "duration": "3:22"
+    }
+  },
+  "63fa0b7a9f105afd01c644f1c087cb66340c6d87a76971debd91ec8446ffbbef": {
+    "id": "63fa0b7a9f105afd01c644f1c087cb66340c6d87a76971debd91ec8446ffbbef",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "云顶S18开服，11套强势阵容推荐！【云顶之弈】",
+    "summary": "UP主 林小北Lindo · 305,548播放 · 3:13",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117160399800326",
+    "publishedAt": "2026-08-26T09:30:00+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "林小北Lindo",
+      "play": 305548,
+      "bvid": "BV1xn8R6VEqu",
+      "duration": "3:13"
+    }
+  },
+  "069ea17bb7df9f503121418ad383301b82d4d505691ab1bac5c921614d9c65e4": {
+    "id": "069ea17bb7df9f503121418ad383301b82d4d505691ab1bac5c921614d9c65e4",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "版本答案找到了！18.1b最强一费阵容！野怪小红！【金铲铲之战】【云顶之弈】",
+    "summary": "UP主 林小北Lindo · 193,008播放 · 2:38",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117178636437442",
+    "publishedAt": "2026-08-30T03:00:00+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "林小北Lindo",
+      "play": 193008,
+      "bvid": "BV1at4269Evx",
+      "duration": "2:38"
+    }
+  },
+  "2bd9dd931f3a4c3046c7710197f168a2fc7e6c6a159bd6adba9565d3c7cbcb7c": {
+    "id": "2bd9dd931f3a4c3046c7710197f168a2fc7e6c6a159bd6adba9565d3c7cbcb7c",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "最新环境学会这6套阵容轻松上分！-金铲铲之战s18顶级上分思路",
+    "summary": "UP主 龙哥哥哟-直播版 · 28,269播放 · 14:53",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117187612248841",
+    "publishedAt": "2026-08-31T01:51:20+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "龙哥哥哟-直播版",
+      "play": 28269,
+      "bvid": "BV1iYt46kEVG",
+      "duration": "14:53"
+    }
+  },
+  "54b4c9ab67ff46de97a75203de0ade8d083cd816510d632845da4bd769fb9348": {
+    "id": "54b4c9ab67ff46de97a75203de0ade8d083cd816510d632845da4bd769fb9348",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "云顶之弈，wegame阵容推荐打开攻略，云顶之弈助手。",
+    "summary": "UP主 潜龙溺水 · 40,969播放 · 1:54",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av1804953639",
+    "publishedAt": "2024-05-20T12:59:55+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "潜龙溺水",
+      "play": 40969,
+      "bvid": "BV15b421q7VE",
+      "duration": "1:54"
+    }
+  },
+  "bc351696f4b02725a733916f381d55d981c424eb77c02dc17d6da1dd15283a83": {
+    "id": "bc351696f4b02725a733916f381d55d981c424eb77c02dc17d6da1dd15283a83",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "云顶王者课堂S18第一周18.1B王者冲分阵容及上分策略解析",
+    "summary": "UP主 云顶王者课堂 · 14,532播放 · 4:14",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117187142486860",
+    "publishedAt": "2026-08-30T23:52:57+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "云顶王者课堂",
+      "play": 14532,
+      "bvid": "BV14Qt468EvJ",
+      "duration": "4:14"
+    }
+  },
+  "5ba361b605b7d84186716bbc4abdda76561d8a527142436bf4a721559ce0ba7d": {
+    "id": "5ba361b605b7d84186716bbc4abdda76561d8a527142436bf4a721559ce0ba7d",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "【兰斯】英雄联盟上单通关宝典",
+    "summary": "UP主 兰斯Studios · 323,674播放 · ",
+    "source": "哔哩哔哩",
+    "sourceUrl": "https://www.bilibili.com/cheese/play/ss7054?query_from=0&search_id=10152387647780337239&search_query=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F+%E4%B8%8A%E5%8D%95+%E5%87%BA%E8%A3%85+%E6%94%BB%E7%95%A5+%E6%95%99%E5%AD%A6",
+    "publishedAt": "1970-01-01T00:00:00+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "兰斯Studios",
+      "play": 323674,
+      "bvid": "",
+      "duration": ""
+    }
+  },
+  "c57f34fa2aac4e200c3bef2e6a915be762d531e5fa13dd8a7d267bbd968a6195": {
+    "id": "c57f34fa2aac4e200c3bef2e6a915be762d531e5fa13dd8a7d267bbd968a6195",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "【兰斯】英雄联盟上单通关宝典",
+    "summary": "UP主 兰斯Studios · 323,674播放 · ",
+    "source": "哔哩哔哩",
+    "sourceUrl": "https://www.bilibili.com/cheese/play/ss7054?query_from=0&search_id=986697943875233584&search_query=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F+%E4%B8%8A%E5%8D%95+%E5%87%BA%E8%A3%85+%E6%94%BB%E7%95%A5+%E6%95%99%E5%AD%A6",
+    "publishedAt": "1970-01-01T00:00:00+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "兰斯Studios",
+      "play": 323674,
+      "bvid": "",
+      "duration": ""
+    }
+  },
+  "535eda1d575f50e0f7622c273b209a2bb51bf611a5334f44af7123e879b4d989": {
+    "id": "535eda1d575f50e0f7622c273b209a2bb51bf611a5334f44af7123e879b4d989",
+    "module": "lol",
+    "seg": "match",
+    "cat": "比赛",
+    "title": "第一视角看LCK ！",
+    "summary": "UP主 千治里 · 88,580播放 · 1:17",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av116430171278049",
+    "publishedAt": "2026-04-19T07:27:39+00:00",
+    "tags": [
+      "lol",
+      "match",
+      "英雄联盟 LPL LCK 比赛 集锦 复盘"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "千治里",
+      "play": 88580,
+      "bvid": "BV18fdZBWE7q",
+      "duration": "1:17"
+    }
+  }
+}
