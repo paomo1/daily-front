@@ -1,9 +1,185 @@
 {
-  "generated_at": "2026-09-02T09:59:10.892063+00:00",
+  "generated_at": "2026-09-02T10:09:03.435946+00:00",
   "date": "2026-09-02",
   "keep_days": 7,
-  "count": 130,
+  "count": 138,
   "items": [
+    {
+      "id": "c4708eb08bb4082a0d882b9a975d1a80d62bc2c0a17d1453bb2acee8b111298b",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "anlp-a1-ablation：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 aditya-s-2k24/anlp-a1-ablation，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/aditya-s-2k24/anlp-a1-ablation",
+      "publishedAt": "2026-09-02T10:08:48+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "28b0c3d32cb601c2480cf56bfad38df1c87daf72311f678741db71d14199d4bd",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "UltiMerge-Q4_K_M-GGUF：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 OliviaRossi/UltiMerge-Q4_K_M-GGUF，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/OliviaRossi/UltiMerge-Q4_K_M-GGUF",
+      "publishedAt": "2026-09-02T10:08:35+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "c5530b9c58f2ee14757dbd032c4921bfe7fcc17f388938286461fac8aec1f667",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "sdxsv3：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 recoilme/sdxsv3，182 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/recoilme/sdxsv3",
+      "publishedAt": "2026-09-02T10:08:31+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 182,
+        "likes": 0
+      }
+    },
+    {
+      "id": "e2a4821d4bf3baafd5046646a41180563f7fe51bf470303af622d8d662b24330",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "fun01：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 ElMusk/fun01，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/ElMusk/fun01",
+      "publishedAt": "2026-09-02T10:08:23+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "3c2e24695adfc8224bccd25fa980b13d627654dc852dcaa5df885be11f9681ea",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "eus-latn-100mb-after-ppt-Dp-100mb-ckpt500_seed455：text-generation 模型更新",
+      "summary": "HuggingFace 热门 text-generation 模型 fpadovani/eus-latn-100mb-after-ppt-Dp-100mb-ckpt500_seed455，111 下载，1 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/fpadovani/eus-latn-100mb-after-ppt-Dp-100mb-ckpt500_seed455",
+      "publishedAt": "2026-09-02T10:08:22+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 111,
+        "likes": 1
+      }
+    },
+    {
+      "id": "8986ef3644b89ca103389c73c6864d941b4a9b0448c4860fec706e6dc398c9d2",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Solar-Dawn-31B-GGUF：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 mradermacher/Solar-Dawn-31B-GGUF，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mradermacher/Solar-Dawn-31B-GGUF",
+      "publishedAt": "2026-09-02T10:08:21+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "45fb3afcbc73c89b972bc679315f1497c73a2712b17e6f97610b39364b2cddbd",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "whisper-medium_indic_voices_62290_ratio_15_100_lr_1e-5_lgid_None_epochs_100_FT：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 dianavdavidson/whisper-medium_indic_voices_62290_ratio_15_100_lr_1e-5_lgid_None_epochs_100_FT，0 下载",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/dianavdavidson/whisper-medium_indic_voices_62290_ratio_15_100_lr_1e-5_lgid_None_epochs_100_FT",
+      "publishedAt": "2026-09-02T10:08:21+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "a8e5efd5697f22517f058bc0d386e954bb18b5d65032c6975305dc70c444aa19",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "qwen35-9b-wmrl-v4-c2-9b-judged：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 violetxi/qwen35-9b-wmrl-v4-c2-9b-judged，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/violetxi/qwen35-9b-wmrl-v4-c2-9b-judged",
+      "publishedAt": "2026-09-02T10:08:16+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "ddf6b13a4b6fbbf8f6dc44d90e742cfc25ebecc8cdfc97b73f1962bcc6f2c18d",
       "module": "ai",
