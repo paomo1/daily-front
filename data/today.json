@@ -1,9 +1,229 @@
 {
-  "generated_at": "2026-09-02T10:49:59.212456+00:00",
+  "generated_at": "2026-09-02T10:57:00.771597+00:00",
   "date": "2026-09-02",
   "keep_days": 7,
-  "count": 183,
+  "count": 193,
   "items": [
+    {
+      "id": "c77af2c899e1b66cda19a6966a82cb0cdac17095bae6d0e4a663977881fb3787",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Xiaomi-TabLDM：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型occams/Xiaomi-TabLDM目前下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/occams/Xiaomi-TabLDM",
+      "publishedAt": "2026-09-02T10:56:10+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "0eb79376b58f590ae9541190d6fa284bb7c251fda16cfdf19275823660a5023d",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "act_first_v2：robotics 模型更新",
+      "summary": "HuggingFace 上热门机器人模型 shirurekou/act_first_v2 目前下载量与点赞数均为 0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/shirurekou/act_first_v2",
+      "publishedAt": "2026-09-02T10:56:09+00:00",
+      "tags": [
+        "huggingface",
+        "robotics"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "db1a983bde1b582c9829110ef679beb0410af36a22c4321cb0a906301bc4007d",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "RPBizkitRemiX-v1-12B-GGUF：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型 mradermacher/RPBizkitRemiX-v1-12B-GGUF 目前下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mradermacher/RPBizkitRemiX-v1-12B-GGUF",
+      "publishedAt": "2026-09-02T10:56:07+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "aa814b9f29d1fba45407afe667d68ad91a812e4a2ab3c25d3a55d2b733a734dc",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "gemma-4-31b-it-3MPER0RR-abliterated-i1-GGUF：nlp 模型更新",
+      "summary": "HuggingFace 上模型 mradermacher/gemma-4-31b-it-3MPER0RR-abliterated-i1-GGUF 目前下载量与点赞数均为 0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mradermacher/gemma-4-31b-it-3MPER0RR-abliterated-i1-GGUF",
+      "publishedAt": "2026-09-02T10:55:47+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "aa921098a43ec572b34bfd37ccf5f2747fc88ae3d32cd089f37fe1c2ee52382c",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "koth-miner-99：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型VALOR0316/koth-miner-99暂无下载量与点赞数。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/VALOR0316/koth-miner-99",
+      "publishedAt": "2026-09-02T10:55:38+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "8cf430c29858e8a9e3b95b40acb38645288bdac1b8b4be88b2c31ffc62442cbb",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Mending-Hearts-12B-GGUF：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型 mradermacher/Mending-Hearts-12B-GGUF 下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mradermacher/Mending-Hearts-12B-GGUF",
+      "publishedAt": "2026-09-02T10:55:38+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "d94db4a39261c2ee587585d5dea446bb4bfa1cd8d5f0679dfee1d13ded56fcad",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MN-Nazgul-12B-v1-GGUF：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型 mradermacher/MN-Nazgul-12B-v1-GGUF 目前下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mradermacher/MN-Nazgul-12B-v1-GGUF",
+      "publishedAt": "2026-09-02T10:55:33+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "783ef7ed0260c58f4f085859416d270dc2fb88d8f8e5a151620d37aabb3d45c4",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "LLMPretrain：text-generation 模型更新",
+      "summary": "HuggingFace热门文本生成模型Dikshan1234/LLMPretrain目前下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Dikshan1234/LLMPretrain",
+      "publishedAt": "2026-09-02T10:55:32+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "3f2bcdf7cf8f0cfbefc4a1a9872a5c6232266c26748e7d69117e931fd0ae9c4b",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "VoxCPM2-lora-hanxiong：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型rav009/VoxCPM2-lora-hanxiong下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/rav009/VoxCPM2-lora-hanxiong",
+      "publishedAt": "2026-09-02T10:55:32+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "e13de8f78b2c26478d182eb3e8436d78455e1c69ccea254f27c5eadcebb194d2",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Cnvxk6Dak2AA0oci：nlp 模型更新",
+      "summary": "HuggingFace 上 NLP 模型 hcmusa28/Cnvxk6Dak2AA0oci 目前下载量与点赞数均为 0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/hcmusa28/Cnvxk6Dak2AA0oci",
+      "publishedAt": "2026-09-02T10:55:30+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "262bf745d8188a31d4a2509abf603da46b0b534877a22d6f48c36c203b19ebba",
       "module": "ai",
@@ -4060,6 +4280,105 @@
       "extra": {}
     }
   ],
+  "daily": {
+    "ai": {
+      "insight": "AI代理治理与多智能体协同成企业落地最大瓶颈",
+      "headline": {
+        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+        "summary": "企业AI部署多智能体后，连接路径呈指数级增长，导致系统失控、决策黑箱化，安全与治理面临严峻挑战。",
+        "source": "VentureBeat",
+        "sourceUrl": ""
+      },
+      "sections": [
+        {
+          "name": "最新科技",
+          "items": [
+            {
+              "title": "Xiaomi-TabLDM：nlp 模型更新",
+              "summary": "HuggingFace 上热门NLP模型occams/Xiaomi-TabLDM目前下载量与点赞数均为0。",
+              "source": "HuggingFace",
+              "sourceUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "行业动态",
+          "items": [
+            {
+              "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+              "summary": "AI初创公司AfterQuery五个月内估值飙升10倍，最新融资后达32亿美元，此前4月A轮融资估值为3亿美元。",
+              "source": "TechCrunch",
+              "sourceUrl": ""
+            },
+            {
+              "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+              "summary": "旧金山云平台Railway获1亿美元B轮融资，估值跃升。成立至今零营销投入，已吸引200万开发者，主打简化AI应用部署，挑战AWS、谷歌云等传统云服务。",
+              "source": "VentureBeat",
+              "sourceUrl": ""
+            },
+            {
+              "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+              "summary": "谷歌将彻底重构运行25年的经典搜索框，升级为支持文本、图片、PDF、视频等多模态输入的AI对话式搜索，并整合AI概览与AI模式。",
+              "source": "VentureBeat",
+              "sourceUrl": ""
+            },
+            {
+              "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+              "summary": "xAI被指控用真实及AI生成的儿童色情内容训练Grok模型，引发严重伦理与法律争议。",
+              "source": "Ars Technica",
+              "sourceUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "知识前沿",
+          "items": [
+            {
+              "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+              "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+              "source": "量子位",
+              "sourceUrl": ""
+            },
+            {
+              "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
+              "summary": "",
+              "source": "量子位",
+              "sourceUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "应用落地",
+          "items": [
+            {
+              "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+              "summary": "OpenAI宣布其集成方案为临床医生提供患者健康记录的只读访问权限。",
+              "source": "TechCrunch",
+              "sourceUrl": ""
+            },
+            {
+              "title": "John Deere launched an AI chatbot for farmers",
+              "summary": "约翰迪尔测试AI助手“JD”，基于农户田间、机械及运营数据，提供设备设置、油耗、收获时机等建议，助其增效增收。",
+              "source": "The Verge",
+              "sourceUrl": ""
+            },
+            {
+              "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
+              "summary": "AI客服日扛1.5万通电话",
+              "source": "量子位",
+              "sourceUrl": ""
+            },
+            {
+              "title": "香港首个真实开放场景服务机器人落地兰桂坊",
+              "summary": "在香港兰桂坊，一位特殊的“酒保”正式上岗",
+              "source": "量子位",
+              "sourceUrl": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
   "football": {
     "fixtures": [
       {
