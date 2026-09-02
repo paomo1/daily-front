@@ -1,9 +1,295 @@
 {
-  "generated_at": "2026-09-02T10:09:03.435946+00:00",
+  "generated_at": "2026-09-02T10:21:20.277875+00:00",
   "date": "2026-09-02",
   "keep_days": 7,
-  "count": 138,
+  "count": 153,
   "items": [
+    {
+      "id": "4741f16ae108c84af51d14d1eb42bbb93f83501ce812abf5782fb9573c06749d",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3.8-27B-TA-Aux-v1：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型YFC-112358/Qwen3.8-27B-TA-Aux-v1下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/YFC-112358/Qwen3.8-27B-TA-Aux-v1",
+      "publishedAt": "2026-09-02T10:20:28+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "5fa96e8cb6f898f534630db79bb008371125ce519224b4375002c854b79f36bb",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "bmb05：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 AltEinstein/bmb05，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/AltEinstein/bmb05",
+      "publishedAt": "2026-09-02T10:20:24+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "085570e5d38abf29f8eda3524bb8322ba59ce32369b7cba2f89e3ae29d4a255f",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "financial-risk-extractor-phi3-qlora：nlp 模型更新",
+      "summary": "Hugging Face 上热门NLP模型“Dino21/financial-risk-extractor-phi3-qlora”目前下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Dino21/financial-risk-extractor-phi3-qlora",
+      "publishedAt": "2026-09-02T10:20:24+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "f5cb46c569c08cf7e36ce7ef80f847aeb74273fb8207e960653856207280b67d",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "ind-latn-10mb-100mb_seed455：text-generation 模型更新",
+      "summary": "HuggingFace热门文本生成模型fpadovani/ind-latn-10mb-100mb_seed455，下载量21次，获赞0次。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/fpadovani/ind-latn-10mb-100mb_seed455",
+      "publishedAt": "2026-09-02T10:20:22+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 21,
+        "likes": 0
+      }
+    },
+    {
+      "id": "dc654cc69d1e27c645039fbd1b71628037ded25289b17d96e42e91249a389210",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "visualrl-rscore：nlp 模型更新",
+      "summary": "Hugging Face 上 Miiche/visualrl-rscore NLP 模型暂无下载量与点赞数（均为0）。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Miiche/visualrl-rscore",
+      "publishedAt": "2026-09-02T10:20:19+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "e9188f087021f341821aa6b30689ff65a51d70d00c24dfecd9bcc10b29849d0b",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "napkin_new_005000：nlp 模型更新",
+      "summary": "HuggingFace 上NLP模型pmoller/napkin_new_005000暂无下载量与点赞数。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/pmoller/napkin_new_005000",
+      "publishedAt": "2026-09-02T10:20:17+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "229ede25bd0ae63f5e058b95d6a21e741e4c6d691941980e54bc4babb0deef7c",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "AMD-OLMo-1B-IT-GGUF：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型 mradermacher/AMD-OLMo-1B-IT-GGUF 目前下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mradermacher/AMD-OLMo-1B-IT-GGUF",
+      "publishedAt": "2026-09-02T10:20:15+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "9185f024eee9008fe6d114d0e986eb167211d300cd5b6086a4034ce63a812536",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MyAwesomeModel-TestRepo：nlp 模型更新",
+      "summary": "HuggingFace 上模型 sfafas2234/MyAwesomeModel-TestRepo 无人下载、无点赞，热度为零。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/sfafas2234/MyAwesomeModel-TestRepo",
+      "publishedAt": "2026-09-02T10:20:15+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "ad36ae8c510b77283f8a192fddea3ecf82a580aaede53363babc628ae1fdff24",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "bmb08：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 AltEinstein/bmb08，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/AltEinstein/bmb08",
+      "publishedAt": "2026-09-02T10:20:13+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1f7e82eed16e1d5b75c65a524aaa7a155a71ce8e4e9d85077bde9a3a200b79b2",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "rtc-ner-extended：token-classification 模型更新",
+      "summary": "HuggingFace 上 token-classification 模型 pidakwo/rtc-ner-extended 目前下载量与点赞数均为 0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/pidakwo/rtc-ner-extended",
+      "publishedAt": "2026-09-02T10:20:06+00:00",
+      "tags": [
+        "huggingface",
+        "token-classification"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "6ef83bcedbc2712b00760e20468e5ea424217f04a179ebc8896f27efa97bd6e9",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "spd10：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 PES24/spd10，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/PES24/spd10",
+      "publishedAt": "2026-09-02T10:20:05+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "48e8c6b482feeeb3a8acc2ffa558e006e91689944bdacac068894921447fb0b0",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "napkin_new_007500：nlp 模型更新",
+      "summary": "HuggingFace 上 NLP 模型 pmoller/napkin_new_007500 目前下载量与点赞数均为 0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/pmoller/napkin_new_007500",
+      "publishedAt": "2026-09-02T10:20:04+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "9c95fe032b1e5520170cfa363cec21f0b2e747f9199bc3a078e178727dd30467",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Pneumonia-Detection-YOLOV8：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型 adileddarif/Pneumonia-Detection-YOLOV8 实际为YOLOv8目标检测模型，非NLP模型，下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/adileddarif/Pneumonia-Detection-YOLOV8",
+      "publishedAt": "2026-09-02T10:19:59+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "c4708eb08bb4082a0d882b9a975d1a80d62bc2c0a17d1453bb2acee8b111298b",
       "module": "ai",
@@ -1223,6 +1509,50 @@
       "extra": {
         "downloads": 0,
         "likes": 0
+      }
+    },
+    {
+      "id": "ae9d51d52bc9ef864d6c2ec84d5bd3f985d02cb768a67643b1fbbacf54050871",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
+      "summary": "SkyProduction（天工工作台）全新版本于8月31日正式上线",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/483274.html",
+      "publishedAt": "2026-09-02T09:22:16+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "ec0e96fe54419c4cfd914ac505029dafbf94c7c80326e67f50c3c59d6a0df659",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "16.17海斗强势T0英雄推荐，现在是战士联盟",
+      "summary": "UP主 驻韩研究员 · 11,287播放 · 5:48",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117200161609961",
+      "publishedAt": "2026-09-02T09:00:00+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 黑科技 上分"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "驻韩研究员",
+        "play": 11287,
+        "bvid": "BV1ahtn6SEz4",
+        "duration": "5:48"
       }
     },
     {
@@ -3070,6 +3400,93 @@
       "extra": {}
     }
   ],
+  "daily": {
+    "ai": {
+      "insight": "AI代理治理与多智能体复杂性成企业落地最大瓶颈",
+      "headline": {
+        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+        "summary": "企业AI部署多智能体系统，连接数随智能体数量呈指数级增长，导致治理盲区与安全风险激增。",
+        "source": "VentureBeat",
+        "sourceUrl": ""
+      },
+      "sections": [
+        {
+          "name": "最新科技",
+          "items": [
+            {
+              "title": "Qwen3.8-27B-TA-Aux-v1：nlp 模型更新",
+              "summary": "HuggingFace 上热门NLP模型YFC-112358/Qwen3.8-27B-TA-Aux-v1下载量与点赞数均为0。",
+              "source": "HuggingFace",
+              "sourceUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "行业动态",
+          "items": [
+            {
+              "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+              "summary": "AI初创公司AfterQuery五个月内估值飙升10倍，最新融资后达32亿美元，此前4月A轮融资估值为3亿美元。",
+              "source": "TechCrunch",
+              "sourceUrl": ""
+            },
+            {
+              "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+              "summary": "旧金山云平台Railway获1亿美元B轮融资，估值跃升。成立至今零营销投入，已吸引200万开发者，主打简化AI应用部署，挑战AWS等传统云服务商。",
+              "source": "VentureBeat",
+              "sourceUrl": ""
+            },
+            {
+              "title": "John Deere launched an AI chatbot for farmers",
+              "summary": "约翰迪尔测试AI助手“JD”，基于农户田间、机械及运营数据，提供设备设置、油耗、收获时机等建议，助其增效增收。",
+              "source": "The Verge",
+              "sourceUrl": ""
+            },
+            {
+              "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
+              "summary": "",
+              "source": "量子位",
+              "sourceUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "知识前沿",
+          "items": [
+            {
+              "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+              "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+              "source": "量子位",
+              "sourceUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "应用落地",
+          "items": [
+            {
+              "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
+              "summary": "AI客服日扛1.5万通电话",
+              "source": "量子位",
+              "sourceUrl": ""
+            },
+            {
+              "title": "香港首个真实开放场景服务机器人落地兰桂坊",
+              "summary": "在香港兰桂坊，一位特殊的“酒保”正式上岗",
+              "source": "量子位",
+              "sourceUrl": ""
+            },
+            {
+              "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
+              "summary": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。",
+              "source": "量子位",
+              "sourceUrl": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
   "football": {
     "fixtures": [
       {
