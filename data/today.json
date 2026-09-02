@@ -1,9 +1,317 @@
 {
-  "generated_at": "2026-09-02T10:49:59.212456+00:00",
+  "generated_at": "2026-09-02T10:59:31.858003+00:00",
   "date": "2026-09-02",
   "keep_days": 7,
-  "count": 183,
+  "count": 197,
   "items": [
+    {
+      "id": "91a7d2a21310f4bead6268c6b82fc9bb03c8cf346013c104ae5c1d6471a1564d",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "VoxCPM2-lora-xiaochenxuejie：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型 rav009/VoxCPM2-lora-xiaochenxuejie 目前下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/rav009/VoxCPM2-lora-xiaochenxuejie",
+      "publishedAt": "2026-09-02T10:58:29+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "b19699ee0c84a7c68ef1d200ef1749ef934f2dca5a6dc31997b8d47d08e0d7a8",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "vipragsent-vistral7b-checkpoints：nlp 模型更新",
+      "summary": "HuggingFace 上 Thundergod2007/vipragsent-vistral7b-checkpoints NLP 模型暂无下载与点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Thundergod2007/vipragsent-vistral7b-checkpoints",
+      "publishedAt": "2026-09-02T10:58:28+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1501454618ad732f3ae60fde07335155f7ac838f2f0a249797482b8945d41f5e",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "bert-bgl：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型 MelNikov49539/bert-bgl 目前下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/MelNikov49539/bert-bgl",
+      "publishedAt": "2026-09-02T10:58:28+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1572e9b6171eef5e97359ab0e10f41d6e72104623cbe4a611a39041ff44583c0",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "EVLMs-v2-MIMIC-CXR：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型codewithdark/EVLMs-v2-MIMIC-CXR下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/codewithdark/EVLMs-v2-MIMIC-CXR",
+      "publishedAt": "2026-09-02T10:58:25+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "38dd51f32dc2f83374b74b7a8c7e16aca0c1557322471625a0617549f6ce93ab",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "tfm-exaone-reg-s1-260819：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型 khazic/tfm-exaone-reg-s1-260819 目前下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/khazic/tfm-exaone-reg-s1-260819",
+      "publishedAt": "2026-09-02T10:58:21+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "df6749fb0847b1ad86f6c5f42533f9d36c36eed1b7b75f3643da1c3cfaa76746",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "pi05_napkin_025000：nlp 模型更新",
+      "summary": "HuggingFace 上 NLP 模型 pmoller/pi05_napkin_025000 目前下载量与点赞数均为 0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/pmoller/pi05_napkin_025000",
+      "publishedAt": "2026-09-02T10:58:19+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "e7ff4d66415b8d10c05dab3ebc20c2dc84f4fe2328a555c004cac405c93036d2",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "pi05_napkin_022500：nlp 模型更新",
+      "summary": "HuggingFace 上 NLP 模型 pmoller/pi05_napkin_022500 目前下载量与点赞数均为 0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/pmoller/pi05_napkin_022500",
+      "publishedAt": "2026-09-02T10:58:18+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "504ec850d655f54421e63a03a880e696c57d6d19c0143098af60be70d56516d6",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "pi05_napkin_020000：nlp 模型更新",
+      "summary": "HuggingFace 上 NLP 模型 pmoller/pi05_napkin_020000 无人下载、无点赞，热度为零。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/pmoller/pi05_napkin_020000",
+      "publishedAt": "2026-09-02T10:58:16+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "281fd8e8f860a035036e175d8aa155ea415757b4bef87900887e0c0e4f581537",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "pi05_napkin_017500：nlp 模型更新",
+      "summary": "HuggingFace 上NLP模型pmoller/pi05_napkin_017500暂无下载量与点赞数。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/pmoller/pi05_napkin_017500",
+      "publishedAt": "2026-09-02T10:58:14+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "aab57385ed4ab120ec9318ec405a7ee0d84dbbcbcb4afc9da68563ab05576ce4",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "pi05_napkin_015000：nlp 模型更新",
+      "summary": "HuggingFace 上 NLP 模型 pmoller/pi05_napkin_015000 无人下载、无点赞，热度为零。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/pmoller/pi05_napkin_015000",
+      "publishedAt": "2026-09-02T10:58:12+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "6d7f2f7fee4639614b10eb50252e673c081bae6b8cfbf98a75fd2c15d6fe1b10",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "KeawGPT-GGUF：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型KordAI/KeawGPT-GGUF下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/KordAI/KeawGPT-GGUF",
+      "publishedAt": "2026-09-02T10:58:11+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "e8c77ebf4bc062892f92b2afebfd6bd9cdc267e8bfa056ab05e45eecf1d46c3e",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "pi05_napkin_012500：nlp 模型更新",
+      "summary": "HuggingFace 上 NLP 模型 pmoller/pi05_napkin_012500 无人下载、无点赞，热度为零。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/pmoller/pi05_napkin_012500",
+      "publishedAt": "2026-09-02T10:58:10+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "781cca4aab165079e2c81f5d48201ec9b08655b80fab7a24fd869b10db9b6180",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "krea2-lora-archive：nlp 模型更新",
+      "summary": "HuggingFace热门NLP模型k2loras/krea2-lora-archive下载量为0，获12个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/k2loras/krea2-lora-archive",
+      "publishedAt": "2026-09-02T10:58:09+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 12
+      }
+    },
+    {
+      "id": "204ede45b3f7fd63cb2977a5136fcafb3178cfb360d3f73ac6e00227980d177d",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "qwen25-coder-7b-r2egym-gpt5mini-1500i-multi-round-false250：nlp 模型更新",
+      "summary": "HuggingFace 上模型 synthetic-code-training/qwen25-coder-7b… 目前下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/synthetic-code-training/qwen25-coder-7b-r2egym-gpt5mini-1500i-multi-round-false250",
+      "publishedAt": "2026-09-02T10:58:09+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "262bf745d8188a31d4a2509abf603da46b0b534877a22d6f48c36c203b19ebba",
       "module": "ai",
@@ -4060,6 +4368,99 @@
       "extra": {}
     }
   ],
+  "daily": {
+    "ai": {
+      "insight": "AI代理治理与多智能体复杂性成企业落地核心瓶颈",
+      "headline": {
+        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+        "summary": "企业AI部署多智能体后，连接路径呈指数级增长，导致系统失控、决策黑箱化，安全与治理难度陡增。",
+        "source": "VentureBeat",
+        "sourceUrl": ""
+      },
+      "sections": [
+        {
+          "name": "最新科技",
+          "items": [
+            {
+              "title": "VoxCPM2-lora-xiaochenxuejie：nlp 模型更新",
+              "summary": "HuggingFace 上热门NLP模型 rav009/VoxCPM2-lora-xiaochenxuejie 目前下载量与点赞数均为0。",
+              "source": "HuggingFace",
+              "sourceUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "行业动态",
+          "items": [
+            {
+              "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+              "summary": "AI初创公司AfterQuery五个月内估值飙升10倍，最新融资后达32亿美元，此前4月A轮融资估值为3亿美元。",
+              "source": "TechCrunch",
+              "sourceUrl": ""
+            },
+            {
+              "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+              "summary": "旧金山云平台Railway获1亿美元B轮融资，估值跃升。其零营销吸引200万开发者，主打简化AI应用部署，挑战AWS、谷歌云等传统云服务。",
+              "source": "VentureBeat",
+              "sourceUrl": ""
+            },
+            {
+              "title": "John Deere launched an AI chatbot for farmers",
+              "summary": "约翰迪尔测试新AI助手“JD”，基于农户田间、机械及运营数据，提供设备设置、油耗、收获时机等建议，助农民增收。",
+              "source": "The Verge",
+              "sourceUrl": ""
+            },
+            {
+              "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
+              "summary": "",
+              "source": "量子位",
+              "sourceUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "知识前沿",
+          "items": [
+            {
+              "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+              "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+              "source": "量子位",
+              "sourceUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "应用落地",
+          "items": [
+            {
+              "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
+              "summary": "AI客服日扛1.5万通电话",
+              "source": "量子位",
+              "sourceUrl": ""
+            },
+            {
+              "title": "香港首个真实开放场景服务机器人落地兰桂坊",
+              "summary": "在香港兰桂坊，一位特殊的“酒保”正式上岗",
+              "source": "量子位",
+              "sourceUrl": ""
+            },
+            {
+              "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
+              "summary": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。",
+              "source": "量子位",
+              "sourceUrl": ""
+            },
+            {
+              "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+              "summary": "OpenAI宣布其集成方案为临床医生提供患者健康记录的只读访问权限。",
+              "source": "TechCrunch",
+              "sourceUrl": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
   "football": {
     "fixtures": [
       {

@@ -4804,5 +4804,338 @@
       "bvid": "",
       "duration": ""
     }
+  },
+  "91a7d2a21310f4bead6268c6b82fc9bb03c8cf346013c104ae5c1d6471a1564d": {
+    "id": "91a7d2a21310f4bead6268c6b82fc9bb03c8cf346013c104ae5c1d6471a1564d",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "VoxCPM2-lora-xiaochenxuejie：nlp 模型更新",
+    "summary": "HuggingFace 上热门NLP模型 rav009/VoxCPM2-lora-xiaochenxuejie 目前下载量与点赞数均为0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/rav009/VoxCPM2-lora-xiaochenxuejie",
+    "publishedAt": "2026-09-02T10:58:29+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "b19699ee0c84a7c68ef1d200ef1749ef934f2dca5a6dc31997b8d47d08e0d7a8": {
+    "id": "b19699ee0c84a7c68ef1d200ef1749ef934f2dca5a6dc31997b8d47d08e0d7a8",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "vipragsent-vistral7b-checkpoints：nlp 模型更新",
+    "summary": "HuggingFace 上 Thundergod2007/vipragsent-vistral7b-checkpoints NLP 模型暂无下载与点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Thundergod2007/vipragsent-vistral7b-checkpoints",
+    "publishedAt": "2026-09-02T10:58:28+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "1501454618ad732f3ae60fde07335155f7ac838f2f0a249797482b8945d41f5e": {
+    "id": "1501454618ad732f3ae60fde07335155f7ac838f2f0a249797482b8945d41f5e",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "bert-bgl：nlp 模型更新",
+    "summary": "HuggingFace 上热门NLP模型 MelNikov49539/bert-bgl 目前下载量与点赞数均为0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/MelNikov49539/bert-bgl",
+    "publishedAt": "2026-09-02T10:58:28+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "1572e9b6171eef5e97359ab0e10f41d6e72104623cbe4a611a39041ff44583c0": {
+    "id": "1572e9b6171eef5e97359ab0e10f41d6e72104623cbe4a611a39041ff44583c0",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "EVLMs-v2-MIMIC-CXR：nlp 模型更新",
+    "summary": "HuggingFace 上热门NLP模型codewithdark/EVLMs-v2-MIMIC-CXR下载量与点赞数均为0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/codewithdark/EVLMs-v2-MIMIC-CXR",
+    "publishedAt": "2026-09-02T10:58:25+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "38dd51f32dc2f83374b74b7a8c7e16aca0c1557322471625a0617549f6ce93ab": {
+    "id": "38dd51f32dc2f83374b74b7a8c7e16aca0c1557322471625a0617549f6ce93ab",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "tfm-exaone-reg-s1-260819：nlp 模型更新",
+    "summary": "HuggingFace 上热门NLP模型 khazic/tfm-exaone-reg-s1-260819 目前下载量与点赞数均为0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/khazic/tfm-exaone-reg-s1-260819",
+    "publishedAt": "2026-09-02T10:58:21+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "df6749fb0847b1ad86f6c5f42533f9d36c36eed1b7b75f3643da1c3cfaa76746": {
+    "id": "df6749fb0847b1ad86f6c5f42533f9d36c36eed1b7b75f3643da1c3cfaa76746",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "pi05_napkin_025000：nlp 模型更新",
+    "summary": "HuggingFace 上 NLP 模型 pmoller/pi05_napkin_025000 目前下载量与点赞数均为 0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/pmoller/pi05_napkin_025000",
+    "publishedAt": "2026-09-02T10:58:19+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "e7ff4d66415b8d10c05dab3ebc20c2dc84f4fe2328a555c004cac405c93036d2": {
+    "id": "e7ff4d66415b8d10c05dab3ebc20c2dc84f4fe2328a555c004cac405c93036d2",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "pi05_napkin_022500：nlp 模型更新",
+    "summary": "HuggingFace 上 NLP 模型 pmoller/pi05_napkin_022500 目前下载量与点赞数均为 0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/pmoller/pi05_napkin_022500",
+    "publishedAt": "2026-09-02T10:58:18+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "504ec850d655f54421e63a03a880e696c57d6d19c0143098af60be70d56516d6": {
+    "id": "504ec850d655f54421e63a03a880e696c57d6d19c0143098af60be70d56516d6",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "pi05_napkin_020000：nlp 模型更新",
+    "summary": "HuggingFace 上 NLP 模型 pmoller/pi05_napkin_020000 无人下载、无点赞，热度为零。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/pmoller/pi05_napkin_020000",
+    "publishedAt": "2026-09-02T10:58:16+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "281fd8e8f860a035036e175d8aa155ea415757b4bef87900887e0c0e4f581537": {
+    "id": "281fd8e8f860a035036e175d8aa155ea415757b4bef87900887e0c0e4f581537",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "pi05_napkin_017500：nlp 模型更新",
+    "summary": "HuggingFace 上NLP模型pmoller/pi05_napkin_017500暂无下载量与点赞数。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/pmoller/pi05_napkin_017500",
+    "publishedAt": "2026-09-02T10:58:14+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "aab57385ed4ab120ec9318ec405a7ee0d84dbbcbcb4afc9da68563ab05576ce4": {
+    "id": "aab57385ed4ab120ec9318ec405a7ee0d84dbbcbcb4afc9da68563ab05576ce4",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "pi05_napkin_015000：nlp 模型更新",
+    "summary": "HuggingFace 上 NLP 模型 pmoller/pi05_napkin_015000 无人下载、无点赞，热度为零。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/pmoller/pi05_napkin_015000",
+    "publishedAt": "2026-09-02T10:58:12+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "6d7f2f7fee4639614b10eb50252e673c081bae6b8cfbf98a75fd2c15d6fe1b10": {
+    "id": "6d7f2f7fee4639614b10eb50252e673c081bae6b8cfbf98a75fd2c15d6fe1b10",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "KeawGPT-GGUF：nlp 模型更新",
+    "summary": "HuggingFace 上热门NLP模型KordAI/KeawGPT-GGUF下载量与点赞数均为0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/KordAI/KeawGPT-GGUF",
+    "publishedAt": "2026-09-02T10:58:11+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "e8c77ebf4bc062892f92b2afebfd6bd9cdc267e8bfa056ab05e45eecf1d46c3e": {
+    "id": "e8c77ebf4bc062892f92b2afebfd6bd9cdc267e8bfa056ab05e45eecf1d46c3e",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "pi05_napkin_012500：nlp 模型更新",
+    "summary": "HuggingFace 上 NLP 模型 pmoller/pi05_napkin_012500 无人下载、无点赞，热度为零。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/pmoller/pi05_napkin_012500",
+    "publishedAt": "2026-09-02T10:58:10+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "781cca4aab165079e2c81f5d48201ec9b08655b80fab7a24fd869b10db9b6180": {
+    "id": "781cca4aab165079e2c81f5d48201ec9b08655b80fab7a24fd869b10db9b6180",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "krea2-lora-archive：nlp 模型更新",
+    "summary": "HuggingFace热门NLP模型k2loras/krea2-lora-archive下载量为0，获12个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/k2loras/krea2-lora-archive",
+    "publishedAt": "2026-09-02T10:58:09+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 12
+    }
+  },
+  "204ede45b3f7fd63cb2977a5136fcafb3178cfb360d3f73ac6e00227980d177d": {
+    "id": "204ede45b3f7fd63cb2977a5136fcafb3178cfb360d3f73ac6e00227980d177d",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "qwen25-coder-7b-r2egym-gpt5mini-1500i-multi-round-false250：nlp 模型更新",
+    "summary": "HuggingFace 上模型 synthetic-code-training/qwen25-coder-7b… 目前下载量与点赞数均为0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/synthetic-code-training/qwen25-coder-7b-r2egym-gpt5mini-1500i-multi-round-false250",
+    "publishedAt": "2026-09-02T10:58:09+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "97f36e013ef58ef299a898e550d62ee28ad3888d8db4ce98a5f2958b4ef9319d": {
+    "id": "97f36e013ef58ef299a898e550d62ee28ad3888d8db4ce98a5f2958b4ef9319d",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "英雄联盟lol全英雄教学合集，持续更新",
+    "summary": "UP主 lol超神解说lol · 205,174播放 · ",
+    "source": "哔哩哔哩",
+    "sourceUrl": "https://www.bilibili.com/cheese/play/ss9717?query_from=0&search_id=8880876802667159643&search_query=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F+%E4%B8%8A%E5%8D%95+%E5%87%BA%E8%A3%85+%E6%94%BB%E7%95%A5+%E6%95%99%E5%AD%A6",
+    "publishedAt": "1970-01-01T00:00:00+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "lol超神解说lol",
+      "play": 205174,
+      "bvid": "",
+      "duration": ""
+    }
   }
 }
