@@ -26,6 +26,14 @@
 from __future__ import annotations
 
 import os
+
+# 采集所有源均为直连可达（B站 / TheSportsDB / DashScope），无需代理。
+# 必须在 import openai 之前清除代理环境变量——openai 在 import 时即读取并缓存
+# HTTPS_PROXY，GitHub Actions runner 自带该变量会触发新版 openai+httpx 的
+# `proxies` 参数崩溃（TypeError: unexpected keyword argument 'proxies'）。
+for _p in ("HTTPS_PROXY", "HTTP_PROXY", "ALL_PROXY", "https_proxy", "http_proxy", "all_proxy"):
+    os.environ.pop(_p, None)
+
 import re
 import sys
 import json
@@ -50,12 +58,6 @@ from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_excep
 # 配置
 # ============================================================
 load_dotenv(Path(__file__).resolve().parent / ".env")  # 总是读 backend/.env，无论从仓库根还是 backend 目录运行
-
-# 采集所有源均为直连可达（B站 / TheSportsDB / DashScope），无需代理。
-# 无条件清除代理环境变量，避免 GitHub Actions runner 自带 HTTPS_PROXY 触发
-# 新版 openai+httpx 的 `proxies` 参数崩溃（TypeError: unexpected keyword argument 'proxies'）。
-for _p in ("HTTPS_PROXY", "HTTP_PROXY", "ALL_PROXY", "https_proxy", "http_proxy", "all_proxy"):
-    os.environ.pop(_p, None)
 
 DASHSCOPE_API_KEY = os.getenv("DASHSCOPE_API_KEY", "")
 DASHSCOPE_BASE_URL = os.getenv("DASHSCOPE_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1")
