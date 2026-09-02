@@ -1,4 +1,4 @@
-"""
+﻿"""
 每日前线 数据采集器（方案 A · 静态 JSON 版）
 ==========================================
 功能：抓取三模块（LOL / 足球 / AI）的资讯，写入静态 JSON 文件。
@@ -57,7 +57,7 @@ import requests
 import feedparser
 from dateutil import parser as dtparser
 from dotenv import load_dotenv
-from openai import OpenAI
+from openai import OpenAI, APITimeoutError, APIConnectionError, RateLimitError
 from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
 
 # ============================================================
@@ -82,7 +82,8 @@ ENABLE_AI = os.getenv("ENABLE_AI", "true").lower() == "true"
 MAX_FETCH_PER_SOURCE = int(os.getenv("MAX_FETCH_PER_SOURCE", "50"))
 KEEP_DAYS = int(os.getenv("KEEP_DAYS", "7"))
 
-HTTP_TIMEOUT = 20
+HTTP_TIMEOUT = 20          # RSS / 普通 HTTP 请求超时（秒）
+LLM_TIMEOUT = 120           # LLM 调用超时（秒）：日报生成 prompt 大、出 token 多，20s 会 Request timed out
 
 # 数据目录：固定写到仓库根目录的 data/（与前端 fetch('./data/today.json') 对应）
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -99,7 +100,7 @@ logging.basicConfig(
 logger = logging.getLogger("daily-front")
 
 # OpenAI 兼容客户端（DashScope），仅用于摘要；无 key 时跳过摘要
-llm = OpenAI(api_key=DASHSCOPE_API_KEY, base_url=DASHSCOPE_BASE_URL, timeout=HTTP_TIMEOUT) if DASHSCOPE_API_KEY else None
+llm = OpenAI(api_key=DASHSCOPE_API_KEY, base_url=DASHSCOPE_BASE_URL, timeout=LLM_TIMEOUT) if DASHSCOPE_API_KEY else None
 
 
 # ============================================================
@@ -152,6 +153,22 @@ def _clean(s: str) -> str:
     return s.strip()
 
 
+@retry(
+    stop=stop_after_attempt(3),
+    wait=wait_exponential(multiplier=1, min=2, max=15),
+    retry=retry_if_exception_type((APITimeoutError, APIConnectionError, RateLimitError)),
+    reraise=True,
+)
+def _llm_chat(messages: list[dict], *, max_tokens: int, temperature: float = 0.3):
+    """统一的 LLM 调用入口，带网络异常自动重试（JSON 解析错误不重试）。"""
+    return llm.chat.completions.create(
+        model=DASHSCOPE_MODEL,
+        messages=messages,
+        temperature=temperature,
+        max_tokens=max_tokens,
+    )
+
+
 def dashscope_summarize(text: str, max_words: int = 60) -> str:
     """用 qwen-plus 把长文本压成 1-2 句中文摘要；无 key 或失败则截断原文"""
     if not text or len(text) < 50:
@@ -159,14 +176,13 @@ def dashscope_summarize(text: str, max_words: int = 60) -> str:
     if llm is None:
         return text[:120].strip()
     try:
-        resp = llm.chat.completions.create(
-            model=DASHSCOPE_MODEL,
-            messages=[
+        resp = _llm_chat(
+            [
                 {"role": "system", "content": f"你是一名中文体育/游戏/科技资讯编辑，请把下面内容压缩成 {max_words} 字以内的中文摘要，保留关键事实和数字。"},
                 {"role": "user", "content": _clean(text[:1500])},
             ],
-            temperature=0.3,
             max_tokens=200,
+            temperature=0.3,
         )
         return (resp.choices[0].message.content or "").strip()
     except Exception as e:
@@ -216,14 +232,13 @@ def dashscope_daily(items: list[dict]) -> dict | None:
         "4. 若某 section 无对应内容，返回空 items 数组即可。"
     )
     try:
-        resp = llm.chat.completions.create(
-            model=DASHSCOPE_MODEL,
-            messages=[
+        resp = _llm_chat(
+            [
                 {"role": "system", "content": sys_prompt},
                 {"role": "user", "content": _clean(prompt[:6000])},
             ],
+            max_tokens=1400,
             temperature=0.4,
-            max_tokens=1600,
         )
         text = (resp.choices[0].message.content or "").strip()
         # 去掉可能的 ```json ... ``` 包裹
@@ -741,3 +756,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
