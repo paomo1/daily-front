@@ -27,6 +27,12 @@ from __future__ import annotations
 
 import os
 
+
+def _env_clean(v: str) -> str:
+    v = v or ""
+    return v.replace(chr(0xFEFF), "").replace(chr(0xFFFD), "").strip()
+
+
 # 采集所有源均为直连可达（B站 / TheSportsDB / DashScope），无需代理。
 # 必须在 import openai 之前清除代理环境变量——openai 在 import 时即读取并缓存
 # HTTPS_PROXY，GitHub Actions runner 自带该变量会触发新版 openai+httpx 的
