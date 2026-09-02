@@ -10,11 +10,11 @@
   - 前端（每日前线-可点原型.html）fetch('./data/today.json') 即可拿到最新数据；
     本地双击打开拿不到时，自动回退到页面内置的真实快照。
 
-数据源：
-  - 足球：API-Football（免费 100 req/天，覆盖五大联赛 + 欧冠）
-  - AI：行业 RSS（TechCrunch / VentureBeat / The Verge / Ars Technica / 量子位 / 机器之心 / 36氪）
-        + HuggingFace Hub API + arXiv（公开，无需 key）；最后用 LLM 重组成「每日 AI 行业日报」
-  - LOL：Reddit / 拳头官博 RSS（公开）
+数据源（全部直连可达，无需代理）：
+  - 足球：TheSportsDB（免 key，覆盖英超/西甲/德甲/意甲/法甲/欧冠，抓赛程 + 战报）
+  - AI：行业 RSS（TechCrunch / VentureBeat / 量子位 / 机器之心 / 36氪）
+        + HuggingFace Hub API + arXiv（公开，无需 key）；用 LLM 重组成「每日 AI 行业日报」
+  - LOL：哔哩哔哩搜索 UGC（海斗黑科技 / 峡谷攻略 / 比赛复盘 / 云顶阵容）
 
 运行：
   本地：  python backend/collector.py
@@ -50,6 +50,12 @@ from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_excep
 # 配置
 # ============================================================
 load_dotenv(Path(__file__).resolve().parent / ".env")  # 总是读 backend/.env，无论从仓库根还是 backend 目录运行
+
+# 采集所有源均为直连可达（B站 / TheSportsDB / DashScope），无需代理。
+# 无条件清除代理环境变量，避免 GitHub Actions runner 自带 HTTPS_PROXY 触发
+# 新版 openai+httpx 的 `proxies` 参数崩溃（TypeError: unexpected keyword argument 'proxies'）。
+for _p in ("HTTPS_PROXY", "HTTP_PROXY", "ALL_PROXY", "https_proxy", "http_proxy", "all_proxy"):
+    os.environ.pop(_p, None)
 
 DASHSCOPE_API_KEY = os.getenv("DASHSCOPE_API_KEY", "")
 DASHSCOPE_BASE_URL = os.getenv("DASHSCOPE_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1")
@@ -307,55 +313,85 @@ class BaseCollector(ABC):
 class FootballCollector(BaseCollector):
     module = "football"
 
+    # TheSportsDB 免费层：路径里自带公开测试 key "3"，无需注册、无需 key、零人机验证。
+    # 免费层覆盖英超/西甲/德甲/意甲/法甲/欧冠等主流联赛，限速约 1 请求/秒，故每次请求后 sleep。
+    # 注意：免费层提供「赛程(next) / 历史结果(past)」，不含实时比分推送；时间为 UTC，前端 +8 显示北京时间。
+    BASE = "https://www.thesportsdb.com/api/v1/json/3"
+    # (thesportsdb 联赛 id, 中文名) —— 与前端 renderFootball 的 chip 过滤对齐
+    LEAGUES = [
+        (4328, "英超"), (4335, "西甲"), (4331, "德甲"),
+        (4332, "意甲"), (4334, "法甲"), (4480, "欧冠"),
+    ]
+
+    def __init__(self):
+        self.struct = {"fixtures": [], "results": []}
+
     def fetch(self) -> Iterable[dict]:
-        if not FOOTBALL_API_KEY:
-            logger.warning("FOOTBALL_API_KEY 未配置，跳过足球模块")
-            return []
-        headers = {"x-apisports-key": FOOTBALL_API_KEY}
-        today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-        yield from self._fetch_fixtures(headers, today)
+        for lid, zh in self.LEAGUES:
+            # 下一轮赛程
+            try:
+                nj = http_get(f"{self.BASE}/eventsnextleague.php", params={"id": lid}).json()
+                for e in (nj.get("events") or [])[:6]:
+                    self.struct["fixtures"].append(self._map(e, zh, finished=False))
+            except Exception as ex:
+                logger.warning(f"足球 赛程[{zh}] 失败: {ex}")
+            # 上一轮战报（past 接口返回已结束赛事，过滤 strStatus 兜底）
+            try:
+                pj = http_get(f"{self.BASE}/eventspastleague.php", params={"id": lid}).json()
+                evs = pj.get("events") or []
+                finished = [e for e in evs if str(e.get("strStatus", "")).lower() in ("match finished", "finished")]
+                for e in (finished or evs)[:5]:
+                    self.struct["results"].append(self._map(e, zh, finished=True))
+            except Exception as ex:
+                logger.warning(f"足球 战报[{zh}] 失败: {ex}")
+            time.sleep(1.0)  # 免费层限速
 
-    def _fetch_fixtures(self, headers: dict, date: str) -> Iterable[dict]:
-        url = urljoin(FOOTBALL_BASE_URL, "/fixtures")
+        # 同时产出 ITEMS 填底部「足球资讯」栏（赛程/战报摘要）
+        for f in self.struct["fixtures"][:8]:
+            yield self._to_item(f, "赛程")
+        for r in self.struct["results"][:5]:
+            yield self._to_item(r, "战报")
+
+    def _map(self, e: dict, zh: str, finished: bool) -> dict:
+        t_utc = f"{e.get('dateEvent', '')}T{e.get('strTime', '00:00:00')}"
         try:
-            data = http_get(url, headers=headers, params={"date": date}).json()
-        except Exception as e:
-            logger.warning(f"football fixtures 失败: {e}")
-            return
+            dt = datetime.fromisoformat(t_utc.replace("Z", ""))
+            dt = dt + timedelta(hours=8)  # UTC → 北京时间（估算）
+            t = dt.strftime("%H:%M")
+        except Exception:
+            t = (e.get("strTime") or "00:00")[:5]
+        hs = e.get("intHomeScore")
+        as_ = e.get("intAwayScore")
+        s = f"{hs}-{as_}" if finished and hs is not None else None
+        return {
+            "t": t,
+            "lg": zh,
+            "h": e.get("strHomeTeam", "?"),
+            "a": e.get("strAwayTeam", "?"),
+            "s": s,
+            "itemId": "fb-" + str(e.get("idEvent", "")),
+            "url": e.get("strVideo") or f"https://www.thesportsdb.com/event/{e.get('idEvent', '')}",
+        }
 
-        for f in data.get("response", [])[:30]:
-            league = f.get("league", {})
-            teams = f.get("teams", {})
-            goals = f.get("goals", {})
-            fixture = f.get("fixture", {})
-            status = f.get("fixture", {}).get("status", {}).get("short", "NS")
-            home = teams.get("home", {}).get("name", "?")
-            away = teams.get("away", {}).get("name", "?")
-            hg = goals.get("home")
-            ag = goals.get("away")
-            lg = league.get("name", "?")
+    def _to_item(self, row: dict, note: str) -> dict:
+        score = f" {row['s']} " if row.get("s") else " VS "
+        return {
+            "module": "football",
+            "cat": row["lg"],
+            "title": f"{row['h']}{score}{row['a']}",
+            "summary": f"{row['lg']} · {note} · {row['t']}（北京时间，估算）",
+            "body": None,
+            "source": "TheSportsDB",
+            "sourceUrl": row["url"],
+            "publishedAt": datetime.now(timezone.utc).isoformat(),
+            "tags": [row["lg"], note],
+            "live": False,
+            "extra": {},
+            "id": row["itemId"],
+        }
 
-            if status in ("NS", "TBD"):
-                title = f"{home} VS {away}"
-                summary = f"{lg} · {league.get('round', '?')} · {fixture.get('date', '')[:16]}"
-            else:
-                title = f"{home} {hg}-{ag} {away}"
-                summary = f"{lg} · {status} · {league.get('round', '?')}"
-
-            yield {
-                "module": "football",
-                "cat": lg,
-                "title": title,
-                "summary": summary,
-                "body": None,
-                "source": "API-Football",
-                "sourceUrl": urljoin("https://www.fotmob.com/", f"match/{fixture.get('id', '')}"),
-                "publishedAt": fixture.get("date", datetime.now(timezone.utc).isoformat()),
-                "tags": [lg, status],
-                "live": status in ("1H", "2H", "HT", "ET", "P"),
-                "extra": {"home": home, "away": away, "league": lg, "status": status,
-                          "home_score": hg, "away_score": ag},
-            }
+    def build_football(self) -> dict | None:
+        return self.struct if (self.struct["fixtures"] or self.struct["results"]) else None
 
 
 # ============================================================
@@ -657,6 +693,26 @@ def main():
             logger.info(f"已写入日报模块：{[k for k in daily]}")
         except Exception as e:
             logger.warning(f"日报写入 today.json 失败: {e}")
+
+    # 生成足球结构化赛程/战报（提供 build_football 的采集器才产出）
+    fb = None
+    for c in collectors:
+        if hasattr(c, "build_football"):
+            try:
+                d = c.build_football()
+                if d:
+                    fb = d
+            except Exception as e:
+                logger.warning(f"[{c.module}] 足球结构化生成失败: {e}")
+    if fb:
+        try:
+            tp = DATA_DIR / "today.json"
+            payload = json.loads(tp.read_text(encoding="utf-8"))
+            payload["football"] = fb
+            tp.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+            logger.info(f"已写入足球结构化：赛程 {len(fb['fixtures'])} 战报 {len(fb['results'])}")
+        except Exception as e:
+            logger.warning(f"足球结构化写入 today.json 失败: {e}")
 
     logger.info(f"本次新增 {added} 条，近 {KEEP_DAYS} 天共 {total} 条 → {DATA_DIR / 'today.json'}")
 
