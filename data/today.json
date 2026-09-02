@@ -1,9 +1,207 @@
 {
-  "generated_at": "2026-09-02T10:21:20.277875+00:00",
+  "generated_at": "2026-09-02T10:29:32.223781+00:00",
   "date": "2026-09-02",
   "keep_days": 7,
-  "count": 153,
+  "count": 162,
   "items": [
+    {
+      "id": "ee3dc950307a024db7c7171a7efe4f2987d852c781ba83a34e19675857679454",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "r-6620ecd0cee0fe61e6962fe4：nlp 模型更新",
+      "summary": "HuggingFace 上 NLP 模型 hcs-tho/r-6620ecd0cee0fe61e6962fe4 目前下载量与点赞数均为 0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/hcs-tho/r-6620ecd0cee0fe61e6962fe4",
+      "publishedAt": "2026-09-02T10:28:34+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "ee5cac9f8cd67a032276bd8257f8828edccd9c867be35022f155b60472e1e08c",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "swa-latn-100mb-after-ppt-Dp-100mb-ckpt500_seed3407：text-generation 模型更新",
+      "summary": "HuggingFace热门文本生成模型fpadovani/swa-latn-100mb…下载量49次，获0点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/fpadovani/swa-latn-100mb-after-ppt-Dp-100mb-ckpt500_seed3407",
+      "publishedAt": "2026-09-02T10:28:32+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 49,
+        "likes": 0
+      }
+    },
+    {
+      "id": "4e35cf38f9959b60e2e60dce79cbffc9f9f25be18507d362776ef148cce649dd",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MyAwesomeModel-TestRepo：feature-extraction 模型更新",
+      "summary": "HuggingFace 上模型 eigen-evaler/MyAwesomeModel-TestRepo（feature-extraction 类型）暂无下载量与点赞数。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/eigen-evaler/MyAwesomeModel-TestRepo",
+      "publishedAt": "2026-09-02T10:28:29+00:00",
+      "tags": [
+        "huggingface",
+        "feature-extraction"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "a6922cf66569ec42fa943757106f745bc1e00d40668c07719096f168eaa582e5",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Smilyai-G1-20B-session-002：nlp 模型更新",
+      "summary": "HuggingFace上热门NLP模型hugging-science/Smilyai-G1-20B-session-002目前下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/hugging-science/Smilyai-G1-20B-session-002",
+      "publishedAt": "2026-09-02T10:28:17+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "ad97551918ad5cd456984cdec768b6c45018eeb077f1bb102172c6b76fecaaee",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MyAwesomeModel-TestRepo：feature-extraction 模型更新",
+      "summary": "HuggingFace 上 ToddBB/MyAwesomeModel-TestRepo 模型（feature-extraction 类型）暂无下载量与点赞数。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/ToddBB/MyAwesomeModel-TestRepo",
+      "publishedAt": "2026-09-02T10:28:13+00:00",
+      "tags": [
+        "huggingface",
+        "feature-extraction"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "dbbd207423688c4968f0ab7badc36deea7f60ec83fe92347a4fafd05f2c95d3f",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "bert-tbird：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型 MelNikov49539/bert-tbird 目前下载量和点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/MelNikov49539/bert-tbird",
+      "publishedAt": "2026-09-02T10:28:11+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "632b257cd5e47ac5db0f3fc2694cab715d81e0f6b9b1e1869a3bfd888c38f5f0",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "hypernet-sp-distill：nlp 模型更新",
+      "summary": "Hugging Face 上 NLP 模型 baya1116/hypernet-sp-distill 目前下载量与点赞数均为 0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/baya1116/hypernet-sp-distill",
+      "publishedAt": "2026-09-02T10:28:09+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "23a5e42631d8c952ea10eedab571f63f941dc26f0cbbb7f8956c4b82dc9e5e38",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "coco6：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 Cameron3T3T/coco6，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Cameron3T3T/coco6",
+      "publishedAt": "2026-09-02T10:28:03+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "a30baebe9f12d5d3c65a08cfc36f399668e342ddfe2c768054f9c530577feb51",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "sn97____0xgevdhc____uid117____hk5CFcW：nlp 模型更新",
+      "summary": "HuggingFace 上模型 reyansh38771/sn97____0xgevdhc____uid117____hk5CFcW 无人下载、无点赞，热度为零。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/reyansh38771/sn97____0xgevdhc____uid117____hk5CFcW",
+      "publishedAt": "2026-09-02T10:28:00+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "4741f16ae108c84af51d14d1eb42bbb93f83501ce812abf5782fb9573c06749d",
       "module": "ai",
@@ -3400,93 +3598,6 @@
       "extra": {}
     }
   ],
-  "daily": {
-    "ai": {
-      "insight": "AI代理治理与多智能体复杂性成企业落地最大瓶颈",
-      "headline": {
-        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-        "summary": "企业AI部署多智能体系统，连接数随智能体数量呈指数级增长，导致治理盲区与安全风险激增。",
-        "source": "VentureBeat",
-        "sourceUrl": ""
-      },
-      "sections": [
-        {
-          "name": "最新科技",
-          "items": [
-            {
-              "title": "Qwen3.8-27B-TA-Aux-v1：nlp 模型更新",
-              "summary": "HuggingFace 上热门NLP模型YFC-112358/Qwen3.8-27B-TA-Aux-v1下载量与点赞数均为0。",
-              "source": "HuggingFace",
-              "sourceUrl": ""
-            }
-          ]
-        },
-        {
-          "name": "行业动态",
-          "items": [
-            {
-              "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-              "summary": "AI初创公司AfterQuery五个月内估值飙升10倍，最新融资后达32亿美元，此前4月A轮融资估值为3亿美元。",
-              "source": "TechCrunch",
-              "sourceUrl": ""
-            },
-            {
-              "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-              "summary": "旧金山云平台Railway获1亿美元B轮融资，估值跃升。成立至今零营销投入，已吸引200万开发者，主打简化AI应用部署，挑战AWS等传统云服务商。",
-              "source": "VentureBeat",
-              "sourceUrl": ""
-            },
-            {
-              "title": "John Deere launched an AI chatbot for farmers",
-              "summary": "约翰迪尔测试AI助手“JD”，基于农户田间、机械及运营数据，提供设备设置、油耗、收获时机等建议，助其增效增收。",
-              "source": "The Verge",
-              "sourceUrl": ""
-            },
-            {
-              "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
-              "summary": "",
-              "source": "量子位",
-              "sourceUrl": ""
-            }
-          ]
-        },
-        {
-          "name": "知识前沿",
-          "items": [
-            {
-              "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
-              "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
-              "source": "量子位",
-              "sourceUrl": ""
-            }
-          ]
-        },
-        {
-          "name": "应用落地",
-          "items": [
-            {
-              "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
-              "summary": "AI客服日扛1.5万通电话",
-              "source": "量子位",
-              "sourceUrl": ""
-            },
-            {
-              "title": "香港首个真实开放场景服务机器人落地兰桂坊",
-              "summary": "在香港兰桂坊，一位特殊的“酒保”正式上岗",
-              "source": "量子位",
-              "sourceUrl": ""
-            },
-            {
-              "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
-              "summary": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。",
-              "source": "量子位",
-              "sourceUrl": ""
-            }
-          ]
-        }
-      ]
-    }
-  },
   "football": {
     "fixtures": [
       {

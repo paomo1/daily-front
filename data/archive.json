@@ -4069,5 +4069,228 @@
       "bvid": "",
       "duration": ""
     }
+  },
+  "ee3dc950307a024db7c7171a7efe4f2987d852c781ba83a34e19675857679454": {
+    "id": "ee3dc950307a024db7c7171a7efe4f2987d852c781ba83a34e19675857679454",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "r-6620ecd0cee0fe61e6962fe4：nlp 模型更新",
+    "summary": "HuggingFace 上 NLP 模型 hcs-tho/r-6620ecd0cee0fe61e6962fe4 目前下载量与点赞数均为 0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/hcs-tho/r-6620ecd0cee0fe61e6962fe4",
+    "publishedAt": "2026-09-02T10:28:34+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "ee5cac9f8cd67a032276bd8257f8828edccd9c867be35022f155b60472e1e08c": {
+    "id": "ee5cac9f8cd67a032276bd8257f8828edccd9c867be35022f155b60472e1e08c",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "swa-latn-100mb-after-ppt-Dp-100mb-ckpt500_seed3407：text-generation 模型更新",
+    "summary": "HuggingFace热门文本生成模型fpadovani/swa-latn-100mb…下载量49次，获0点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/fpadovani/swa-latn-100mb-after-ppt-Dp-100mb-ckpt500_seed3407",
+    "publishedAt": "2026-09-02T10:28:32+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 49,
+      "likes": 0
+    }
+  },
+  "4e35cf38f9959b60e2e60dce79cbffc9f9f25be18507d362776ef148cce649dd": {
+    "id": "4e35cf38f9959b60e2e60dce79cbffc9f9f25be18507d362776ef148cce649dd",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "MyAwesomeModel-TestRepo：feature-extraction 模型更新",
+    "summary": "HuggingFace 上模型 eigen-evaler/MyAwesomeModel-TestRepo（feature-extraction 类型）暂无下载量与点赞数。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/eigen-evaler/MyAwesomeModel-TestRepo",
+    "publishedAt": "2026-09-02T10:28:29+00:00",
+    "tags": [
+      "huggingface",
+      "feature-extraction"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "a6922cf66569ec42fa943757106f745bc1e00d40668c07719096f168eaa582e5": {
+    "id": "a6922cf66569ec42fa943757106f745bc1e00d40668c07719096f168eaa582e5",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Smilyai-G1-20B-session-002：nlp 模型更新",
+    "summary": "HuggingFace上热门NLP模型hugging-science/Smilyai-G1-20B-session-002目前下载量与点赞数均为0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/hugging-science/Smilyai-G1-20B-session-002",
+    "publishedAt": "2026-09-02T10:28:17+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "ad97551918ad5cd456984cdec768b6c45018eeb077f1bb102172c6b76fecaaee": {
+    "id": "ad97551918ad5cd456984cdec768b6c45018eeb077f1bb102172c6b76fecaaee",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "MyAwesomeModel-TestRepo：feature-extraction 模型更新",
+    "summary": "HuggingFace 上 ToddBB/MyAwesomeModel-TestRepo 模型（feature-extraction 类型）暂无下载量与点赞数。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/ToddBB/MyAwesomeModel-TestRepo",
+    "publishedAt": "2026-09-02T10:28:13+00:00",
+    "tags": [
+      "huggingface",
+      "feature-extraction"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "dbbd207423688c4968f0ab7badc36deea7f60ec83fe92347a4fafd05f2c95d3f": {
+    "id": "dbbd207423688c4968f0ab7badc36deea7f60ec83fe92347a4fafd05f2c95d3f",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "bert-tbird：nlp 模型更新",
+    "summary": "HuggingFace 上热门NLP模型 MelNikov49539/bert-tbird 目前下载量和点赞数均为0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/MelNikov49539/bert-tbird",
+    "publishedAt": "2026-09-02T10:28:11+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "632b257cd5e47ac5db0f3fc2694cab715d81e0f6b9b1e1869a3bfd888c38f5f0": {
+    "id": "632b257cd5e47ac5db0f3fc2694cab715d81e0f6b9b1e1869a3bfd888c38f5f0",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "hypernet-sp-distill：nlp 模型更新",
+    "summary": "Hugging Face 上 NLP 模型 baya1116/hypernet-sp-distill 目前下载量与点赞数均为 0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/baya1116/hypernet-sp-distill",
+    "publishedAt": "2026-09-02T10:28:09+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "23a5e42631d8c952ea10eedab571f63f941dc26f0cbbb7f8956c4b82dc9e5e38": {
+    "id": "23a5e42631d8c952ea10eedab571f63f941dc26f0cbbb7f8956c4b82dc9e5e38",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "coco6：nlp 模型更新",
+    "summary": "HuggingFace 热门 nlp 模型 Cameron3T3T/coco6，0 下载，0 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Cameron3T3T/coco6",
+    "publishedAt": "2026-09-02T10:28:03+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "a30baebe9f12d5d3c65a08cfc36f399668e342ddfe2c768054f9c530577feb51": {
+    "id": "a30baebe9f12d5d3c65a08cfc36f399668e342ddfe2c768054f9c530577feb51",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "sn97____0xgevdhc____uid117____hk5CFcW：nlp 模型更新",
+    "summary": "HuggingFace 上模型 reyansh38771/sn97____0xgevdhc____uid117____hk5CFcW 无人下载、无点赞，热度为零。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/reyansh38771/sn97____0xgevdhc____uid117____hk5CFcW",
+    "publishedAt": "2026-09-02T10:28:00+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "3be89a91c223f779243506cf5bebac2b70b18fc78652954d7d51d0a9008d39e6": {
+    "id": "3be89a91c223f779243506cf5bebac2b70b18fc78652954d7d51d0a9008d39e6",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "【兰斯】英雄联盟上单通关宝典",
+    "summary": "UP主 兰斯Studios · 323,683播放 · ",
+    "source": "哔哩哔哩",
+    "sourceUrl": "https://www.bilibili.com/cheese/play/ss7054?query_from=0&search_id=4572894683263361880&search_query=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F+%E4%B8%8A%E5%8D%95+%E5%87%BA%E8%A3%85+%E6%94%BB%E7%95%A5+%E6%95%99%E5%AD%A6",
+    "publishedAt": "1970-01-01T00:00:00+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "兰斯Studios",
+      "play": 323683,
+      "bvid": "",
+      "duration": ""
+    }
   }
 }
