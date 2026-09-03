@@ -2708,7 +2708,7 @@
     "summary": "英超 · 赛程 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2494027",
-    "publishedAt": "2026-09-03T05:41:32.932694+00:00",
+    "publishedAt": "2026-09-03T06:49:39.476760+00:00",
     "tags": [
       "英超",
       "赛程"
@@ -2734,7 +2734,7 @@
     "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2506226",
-    "publishedAt": "2026-09-03T05:41:32.932730+00:00",
+    "publishedAt": "2026-09-03T06:49:39.476802+00:00",
     "tags": [
       "西甲",
       "赛程"
@@ -2760,7 +2760,7 @@
     "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2508347",
-    "publishedAt": "2026-09-03T05:41:32.932735+00:00",
+    "publishedAt": "2026-09-03T06:49:39.476808+00:00",
     "tags": [
       "德甲",
       "赛程"
@@ -2786,7 +2786,7 @@
     "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2482160",
-    "publishedAt": "2026-09-03T05:41:32.932739+00:00",
+    "publishedAt": "2026-09-03T06:49:39.476812+00:00",
     "tags": [
       "意甲",
       "赛程"
@@ -2812,7 +2812,7 @@
     "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2489485",
-    "publishedAt": "2026-09-03T05:41:32.932743+00:00",
+    "publishedAt": "2026-09-03T06:49:39.476815+00:00",
     "tags": [
       "法甲",
       "赛程"
@@ -2838,7 +2838,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594644",
-    "publishedAt": "2026-09-03T05:41:32.932747+00:00",
+    "publishedAt": "2026-09-03T06:49:39.476818+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -2864,7 +2864,7 @@
     "summary": "英超 · 战报 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=9ogC38l8nTU",
-    "publishedAt": "2026-09-03T05:41:32.932759+00:00",
+    "publishedAt": "2026-09-03T06:49:39.476831+00:00",
     "tags": [
       "英超",
       "战报"
@@ -2903,7 +2903,7 @@
     "summary": "西甲 · 战报 · 03:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=BJW5gAgk4bg",
-    "publishedAt": "2026-09-03T05:41:32.932780+00:00",
+    "publishedAt": "2026-09-03T06:49:39.476854+00:00",
     "tags": [
       "西甲",
       "战报"
@@ -2942,7 +2942,7 @@
     "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=rl7DwuTaipo",
-    "publishedAt": "2026-09-03T05:41:32.932787+00:00",
+    "publishedAt": "2026-09-03T06:49:39.476860+00:00",
     "tags": [
       "德甲",
       "战报"
@@ -2981,7 +2981,7 @@
     "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=LYOXkS8JqM0",
-    "publishedAt": "2026-09-03T05:41:32.932793+00:00",
+    "publishedAt": "2026-09-03T06:49:39.476866+00:00",
     "tags": [
       "意甲",
       "战报"
@@ -3020,7 +3020,7 @@
     "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=ouMSzjPSIKs",
-    "publishedAt": "2026-09-03T05:41:32.932800+00:00",
+    "publishedAt": "2026-09-03T06:49:39.476874+00:00",
     "tags": [
       "法甲",
       "战报"
@@ -8064,6 +8064,248 @@
       "play": 205285,
       "bvid": "",
       "duration": ""
+    }
+  },
+  "c87807d13b1907f49cc97ea6c5da2fc248d85dd92a3c45dfedcdd26b85634609": {
+    "id": "c87807d13b1907f49cc97ea6c5da2fc248d85dd92a3c45dfedcdd26b85634609",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Rifa-Nano-0.5B：nlp 模型更新",
+    "summary": "HuggingFace热门NLP模型Rifa-Nano-0.5B下载量达1603次，暂无点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/smshahbaj/Rifa-Nano-0.5B",
+    "publishedAt": "2026-09-03T06:50:29+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1603,
+      "likes": 0
+    }
+  },
+  "e0b67685550d8da61dae736aa5cba592e286c741b1c5ec88fc8ad7d37694e6f7": {
+    "id": "e0b67685550d8da61dae736aa5cba592e286c741b1c5ec88fc8ad7d37694e6f7",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "base_korea：nlp 模型更新",
+    "summary": "HuggingFace 上NLP模型ThirdTimesTheCiarc/base_korea暂无下载量与点赞数。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/ThirdTimesTheCiarc/base_korea",
+    "publishedAt": "2026-09-03T06:50:26+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "a10c7494af43e6872690a9a0c82a740e830a8ab1b8152a3eb4105fc74bcdae89": {
+    "id": "a10c7494af43e6872690a9a0c82a740e830a8ab1b8152a3eb4105fc74bcdae89",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "alephllm-mini-beatrix-training：nlp 模型更新",
+    "summary": "HuggingFace 上 AbstractPhil/alephllm-mini-beatrix-training NLP 模型暂无下载量与点赞数。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/AbstractPhil/alephllm-mini-beatrix-training",
+    "publishedAt": "2026-09-03T06:50:25+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "d21aa01c6247a9f47ba3eae2f43cceda9b60a9ea30bb81d28651cc6e8bdbaff5": {
+    "id": "d21aa01c6247a9f47ba3eae2f43cceda9b60a9ea30bb81d28651cc6e8bdbaff5",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "pst-models：nlp 模型更新",
+    "summary": "HuggingFace 热门 nlp 模型 yamaama/pst-models，0 下载，0 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/yamaama/pst-models",
+    "publishedAt": "2026-09-03T06:50:22+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "00370676c2c724d039a8a554a1bbffbb1152e753e0be5bcf5fe63980e2ac87de": {
+    "id": "00370676c2c724d039a8a554a1bbffbb1152e753e0be5bcf5fe63980e2ac87de",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "pi0_napkin_090000：nlp 模型更新",
+    "summary": "HuggingFace 上 NLP 模型 pmoller/pi0_napkin_090000 目前下载量与点赞数均为 0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/pmoller/pi0_napkin_090000",
+    "publishedAt": "2026-09-03T06:50:20+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "1bb6f6816c9a35c715ddabbd5a713b9b2104b6b8321c32751d1d57039951508f": {
+    "id": "1bb6f6816c9a35c715ddabbd5a713b9b2104b6b8321c32751d1d57039951508f",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "ares1：nlp 模型更新",
+    "summary": "HuggingFace 热门 nlp 模型 tommy120429/ares1，0 下载，0 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/tommy120429/ares1",
+    "publishedAt": "2026-09-03T06:50:16+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "551039b9af763c268bce7270681ecf242352ccf85566b804ddac7522aa65e4fc": {
+    "id": "551039b9af763c268bce7270681ecf242352ccf85566b804ddac7522aa65e4fc",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Lad1-0.2B-Instruct：text-generation 模型更新",
+    "summary": "HuggingFace热门文本生成模型lloid-labs/Lad1-0.2B-Instruct，下载量为0，获1个赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/lloid-labs/Lad1-0.2B-Instruct",
+    "publishedAt": "2026-09-03T06:50:15+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 1
+    }
+  },
+  "7fcca82f0d1535947facd417337a7f5098ff47238ab6c25281e5bde1097a351c": {
+    "id": "7fcca82f0d1535947facd417337a7f5098ff47238ab6c25281e5bde1097a351c",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "SignOfFour：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 pragmaticcs/SignOfFour 目前下载量与点赞数均为 0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/pragmaticcs/SignOfFour",
+    "publishedAt": "2026-09-03T06:50:14+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "dd42493b910b2fe5400b8dc5ce075692592da2b47383a41ea9febaa8957d27ac": {
+    "id": "dd42493b910b2fe5400b8dc5ce075692592da2b47383a41ea9febaa8957d27ac",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "koth-miner：nlp 模型更新",
+    "summary": "HuggingFace 上 NLP 模型 xydev333/koth-miner 目前下载量为 0，获 1 个赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/xydev333/koth-miner",
+    "publishedAt": "2026-09-03T06:50:11+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 1
+    }
+  },
+  "65586d01274462f3f644ea329d5f70c0b1538fbcf2cbad5114ec895bcd31589c": {
+    "id": "65586d01274462f3f644ea329d5f70c0b1538fbcf2cbad5114ec895bcd31589c",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "koth-vr1：nlp 模型更新",
+    "summary": "HuggingFace 上热门NLP模型healerman221/koth-vr1目前下载量与点赞数均为0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/healerman221/koth-vr1",
+    "publishedAt": "2026-09-03T06:50:07+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "9aba3d6dcd053cb03141d03ca988b13f49d4d3ca0bd88a5ffb5c5ba843052043": {
+    "id": "9aba3d6dcd053cb03141d03ca988b13f49d4d3ca0bd88a5ffb5c5ba843052043",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "koth-vr6：nlp 模型更新",
+    "summary": "HuggingFace 上NLP模型healerman221/koth-vr6暂无下载量与点赞数。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/healerman221/koth-vr6",
+    "publishedAt": "2026-09-03T06:50:07+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
     }
   }
 }
