@@ -353,7 +353,7 @@ const TEAM_ZH = {
   'Tottenham':'热刺','Newcastle':'纽卡斯尔','Brighton':'布莱顿',
   'West Ham':'西汉姆联','Crystal Palace':'水晶宫','Fulham':'富勒姆',
   'Brentford':'布伦特福德','Nottingham Forest':'诺丁汉森林','Wolves':'狼队',
-  'Everton':'埃弗顿','Bournemouth':'伯恩茅斯','Ipswich':'伊普斯维奇',
+  'Everton':'埃弗顿','Bournemouth':'伯恩茅斯','Ipswich':'伊普斯维奇','Ipswich Town':'伊普斯维奇',
   'Leicester':'莱斯特城','Southampton':'南安普顿','Leeds':'利兹联',
   'Sunderland':'桑德兰','Sheffield United':'谢菲尔德联',
   // 西甲
@@ -379,7 +379,7 @@ const TEAM_ZH = {
   'Wolfsburg':'沃尔夫斯堡','Borussia Monchengladbach':'门兴格拉德巴赫',
   'Hoffenheim':'霍芬海姆','Werder Bremen':'云达不莱梅','Freiburg':'弗赖堡',
   'Union Berlin':'柏林联合','Hertha Berlin':'柏林赫塔','Mainz':'美因茨',
-  'Koln':'科隆','Bochum':'波鸿','Heidenheim':'海登海姆',
+  'Koln':'科隆','Köln':'科隆','Bochum':'波鸿','Heidenheim':'海登海姆',
   // 法甲
   'Monaco':'摩纳哥','Marseille':'马赛','Paris Saint-Germain':'巴黎圣日耳曼',
   'PSG':'巴黎圣日耳曼','Lyon':'里昂','Lille':'里尔','Nice':'尼斯',
@@ -1008,25 +1008,6 @@ const ITEMS = [
 }
 ];
 
-/* ---------------- 结构化：足球赛程 ---------------- */
-const FIXTURES = [
-  {t:'00:30', lg:'意甲', h:'那不勒斯', a:'科莫', s:null, itemId:'fb-fixtures'},
-  {t:'21:00', lg:'英超', h:'桑德兰',   a:'富勒姆', s:null, itemId:'fb-fixtures'},
-  {t:'21:00', lg:'英超', h:'利兹联',   a:'布伦特福德', s:null, itemId:'fb-fixtures'},
-  {t:'23:00', lg:'西甲', h:'皇家马德里', a:'马拉加', s:null, itemId:'fb-fixtures'},
-  {t:'23:30', lg:'英超', h:'曼联',     a:'伊普斯维奇', s:null, itemId:'fb-fixtures'},
-  {t:'01:30', lg:'西甲', h:'拉科鲁尼亚', a:'巴伦西亚', s:null, itemId:'fb-fixtures'},
-  {t:'02:45', lg:'意甲', h:'拉齐奥',   a:'热那亚', s:null, itemId:'fb-fixtures'},
-  {t:'02:45', lg:'意甲', h:'卡利亚里', a:'国际米兰', s:null, itemId:'fb-fixtures'},
-  {t:'03:30', lg:'西甲', h:'塞尔塔',   a:'毕尔巴鄂', s:null, itemId:'fb-fixtures'}
-];
-const RESULTS = [
-  {t:'03:00', lg:'英超', h:'阿斯顿维拉', a:'阿森纳', s:'0-1', itemId:'fb-ars-villa'},
-  {t:'03:30', lg:'西甲', h:'巴塞罗那',   a:'巴列卡诺', s:'5-2', itemId:'fb-barca-rayo'},
-  {t:'02:45', lg:'意甲', h:'莱切',       a:'罗马',     s:'0-4', itemId:'fb-serie-round'},
-  {t:'02:45', lg:'意甲', h:'亚特兰大',   a:'博洛尼亚', s:'1-0', itemId:'fb-serie-round'},
-  {t:'01:00', lg:'西甲', h:'奥萨苏纳',   a:'赫塔菲',   s:'1-0', itemId:'fb-serie-round'}
-];
 
 /* ---- 每日 AI 行业日报（演示结构；跑 collector 后会被 today.json 的 daily 覆盖） ---- */
 let DAILY = {};
@@ -1138,7 +1119,7 @@ function render(){
 
 function renderHome(){
   const lol = ITEMS.filter(x=>x.module==='lol').sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt)).slice(0,2);
-  const fb  = ITEMS.filter(x=>x.module==='football').sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt)).slice(0,2);
+  const fb  = ITEMS.filter(x=>x.module==='football' && x.extra).sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt)).slice(0,2);
   const ai  = ITEMS.filter(x=>x.module==='ai').sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt)).slice(0,2);
   const feed = [...lol,...fb,...ai].sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt));
   const d = new Date();
@@ -1181,9 +1162,49 @@ function renderLol(){
     ${body}`;
 }
 
+/* 解析 football item：主客队(中英) / 比分 / 北京时间 / 联赛 / 是否已结束 */
+function parseFootball(it){
+  const title = it.title || '';
+  let h='', a='', s=null;
+  let m = title.match(/^(.+?)\s+(\d+\s*-\s*\d+)\s+(.+)$/);            // 战报: A 2-0 B
+  if(m){ h=m[1].trim(); s=m[2].replace(/\s+/g,''); a=m[3].trim(); }
+  else { m = title.match(/^(.+?)\s+(?:vs|VS)\s+(.+)$/); if(m){ h=m[1].trim(); a=m[2].trim(); } } // 赛程: A VS B
+  const ex = it.extra || {};
+  const tm = (it.summary || '').match(/(\d{2}:\d{2})/);
+  return {
+    id: it.id, h, a, s,
+    hz: TEAM_ZH[h] || h,
+    az: TEAM_ZH[a] || a,
+    t: tm ? tm[1] : '',
+    lg: it.cat || '',
+    date: ex.date || '',
+    finished: s !== null,
+  };
+}
+
 function renderFootball(){
   const leagues = ['全部','英超','西甲','意甲','德甲','法甲','欧冠'];
-  const rows = (S.league==='全部') ? FIXTURES : FIXTURES.filter(x=>x.lg===S.league);
+  // 只取 today.json 实时条目（内置 9.1 演示数据无 extra，自动排除）
+  const fb = ITEMS.filter(x=>x.module==='football' && x.extra).map(parseFootball);
+  const inLeague = x => S.league==='全部' || x.lg===S.league;
+
+  // 近期赛程：未开赛（无比分），按日期升序
+  const fixtures = fb.filter(x=>!x.finished && inLeague(x))
+                     .sort((a,b)=>(a.date||'').localeCompare(b.date||'') || (a.t||'').localeCompare(b.t||''));
+  // 近期战报：已结束（有比分），按日期倒序
+  const results = fb.filter(x=>x.finished && inLeague(x))
+                    .sort((a,b)=>(b.date||'').localeCompare(a.date||'') || (b.t||'').localeCompare(a.t||''));
+
+  const row = (x, done)=>`<button class="row" data-item="${x.id}">
+      <span class="row-t mono">${x.t||''}</span>
+      <span class="row-mid">
+        <span class="row-h">${esc(x.hz)}</span>
+        <span class="row-s ${done?'done':'wait'} mono">${done?(x.s||''):'VS'}</span>
+        <span class="row-a">${esc(x.az)}</span>
+      </span>
+      <span class="row-lg">${x.lg}</span>
+    </button>`;
+
   $scroll.innerHTML = `
     <div class="page-head">
       <div class="page-title">足球</div>
@@ -1193,30 +1214,17 @@ function renderFootball(){
       ${leagues.map(l=>`<button class="chip ${S.league===l?'on':''}" data-lg="${l}">${l}</button>`).join('')}
     </div>
 
-    <div class="sec-title green">昨夜战报 · 已结束</div>
-    ${RESULTS.map(r=>`<button class="row" data-item="${r.itemId}">
-      <span class="row-t mono">${r.t}</span>
-      <span class="row-mid">
-        <span class="row-h">${esc(r.h)}</span>
-        <span class="row-s done mono">${r.s}</span>
-        <span class="row-a">${esc(r.a)}</span>
-      </span>
-      <span class="row-lg">${r.lg}</span>
-    </button>`).join('')}
+    <div class="sec-title green">近期赛程 · ${S.league}</div>
+    ${fixtures.length ? fixtures.map(x=>row(x,false)).join('')
+      : '<div class="card-sum" style="padding:14px;text-align:center;color:#6B7280">近期暂无赛程 🗓️</div>'}
 
-    <div class="sec-title green">今日赛程 · ${S.league}</div>
-    ${rows.length ? rows.map(r=>`<button class="row" data-item="${r.itemId}">
-      <span class="row-t mono">${r.t}</span>
-      <span class="row-mid">
-        <span class="row-h">${esc(r.h)}</span>
-        <span class="row-s wait mono">VS</span>
-        <span class="row-a">${esc(r.a)}</span>
-      </span>
-      <span class="row-lg">${r.lg}</span>
-    </button>`).join('') : '<div class="card-sum" style="padding:14px;text-align:center;color:#6B7280">该联赛今日暂无赛程</div>'}
+    <div class="sec-title green">近期战报 · 已结束</div>
+    ${results.length ? results.map(x=>row(x,true)).join('')
+      : '<div class="card-sum" style="padding:14px;text-align:center;color:#6B7280">近期暂无战报</div>'}
 
     <div class="sec-title green">足球资讯 · 实时更新</div>
-    ${ITEMS.filter(x=>x.module==='football').sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt)).map(itemCard).join('')}`;
+    ${ITEMS.filter(x=>x.module==='football' && x.extra)
+            .sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt)).map(itemCard).join('')}`;
 }
 
 function renderAi(){
