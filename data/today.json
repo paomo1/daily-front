@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-09-03T09:53:35.940698+00:00",
+  "generated_at": "2026-09-03T15:37:02.349277+00:00",
   "date": "2026-09-03",
   "keep_days": 7,
-  "count": 414,
+  "count": 439,
   "items": [
     {
-      "id": "24bafe363861647ca3dcda63eb416fb95c89b9d99e350526e41cf5c3c9003246",
+      "id": "787846b7506a3a127aebf0a3a443272e988bdb873d7ec0ec1334f70ae0a25a40",
       "module": "ai",
       "seg": null,
       "cat": "模型/技术",
-      "title": "Crowd-v1：model 模型更新",
-      "summary": "HuggingFace 上主流模型 Vxtzq/Crowd-v1 下载量达 4,196 次，获 1 个点赞。",
+      "title": "ice-012-audio：text-to-speech 模型更新",
+      "summary": "HuggingFace 上 text-to-speech 模型 darkps/ice-012-audio 获 456 次下载、71 个赞。",
       "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Vxtzq/Crowd-v1",
-      "publishedAt": "2026-09-03T09:52:04+00:00",
+      "sourceUrl": "https://huggingface.co/darkps/ice-012-audio",
+      "publishedAt": "2026-09-03T15:35:20+00:00",
       "tags": [
         "huggingface",
-        "model",
+        "text-to-speech",
         "popular"
       ],
       "body": [],
       "points": [],
       "live": false,
       "extra": {
-        "downloads": 4196,
-        "likes": 1
+        "downloads": 456,
+        "likes": 71
       }
     },
     {
@@ -36,7 +36,7 @@
       "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=ouMSzjPSIKs",
-      "publishedAt": "2026-09-03T09:51:23.356819+00:00",
+      "publishedAt": "2026-09-03T15:35:14.292859+00:00",
       "tags": [
         "法甲",
         "战报"
@@ -75,7 +75,7 @@
       "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=LYOXkS8JqM0",
-      "publishedAt": "2026-09-03T09:51:23.356811+00:00",
+      "publishedAt": "2026-09-03T15:35:14.292851+00:00",
       "tags": [
         "意甲",
         "战报"
@@ -114,7 +114,7 @@
       "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=rl7DwuTaipo",
-      "publishedAt": "2026-09-03T09:51:23.356804+00:00",
+      "publishedAt": "2026-09-03T15:35:14.292843+00:00",
       "tags": [
         "德甲",
         "战报"
@@ -153,7 +153,7 @@
       "summary": "西甲 · 战报 · 03:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=BJW5gAgk4bg",
-      "publishedAt": "2026-09-03T09:51:23.356797+00:00",
+      "publishedAt": "2026-09-03T15:35:14.292836+00:00",
       "tags": [
         "西甲",
         "战报"
@@ -192,7 +192,7 @@
       "summary": "英超 · 战报 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=9ogC38l8nTU",
-      "publishedAt": "2026-09-03T09:51:23.356789+00:00",
+      "publishedAt": "2026-09-03T15:35:14.292826+00:00",
       "tags": [
         "英超",
         "战报"
@@ -231,7 +231,7 @@
       "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2594644",
-      "publishedAt": "2026-09-03T09:51:23.356760+00:00",
+      "publishedAt": "2026-09-03T15:35:14.292800+00:00",
       "tags": [
         "欧冠",
         "赛程"
@@ -257,7 +257,7 @@
       "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489485",
-      "publishedAt": "2026-09-03T09:51:23.356756+00:00",
+      "publishedAt": "2026-09-03T15:35:14.292795+00:00",
       "tags": [
         "法甲",
         "赛程"
@@ -283,7 +283,7 @@
       "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2482160",
-      "publishedAt": "2026-09-03T09:51:23.356752+00:00",
+      "publishedAt": "2026-09-03T15:35:14.292790+00:00",
       "tags": [
         "意甲",
         "赛程"
@@ -309,7 +309,7 @@
       "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508347",
-      "publishedAt": "2026-09-03T09:51:23.356746+00:00",
+      "publishedAt": "2026-09-03T15:35:14.292785+00:00",
       "tags": [
         "德甲",
         "赛程"
@@ -335,7 +335,7 @@
       "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2506226",
-      "publishedAt": "2026-09-03T09:51:23.356740+00:00",
+      "publishedAt": "2026-09-03T15:35:14.292779+00:00",
       "tags": [
         "西甲",
         "赛程"
@@ -361,7 +361,7 @@
       "summary": "英超 · 赛程 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2494027",
-      "publishedAt": "2026-09-03T09:51:23.356699+00:00",
+      "publishedAt": "2026-09-03T15:35:14.292742+00:00",
       "tags": [
         "英超",
         "赛程"
@@ -376,6 +376,449 @@
         "date": "2026-09-04",
         "country": "England",
         "status": "NS"
+      }
+    },
+    {
+      "id": "441e45fb4c537eeab46f733ec5b2b33b037cbbb12970028a160749d76e0f03f7",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "ChatGPT, Grok, and Claude all went down at the same time",
+      "summary": "ChatGPT、Claude和Grok三大AI模型于美东时间11点左右集体宕机，ChatGPT状态页显示“ChatGPT及Codex错误率升高”，用户普遍遭遇报错。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+      "publishedAt": "2026-09-03T15:35:14+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b280937f9a458657a7d800a19db8a56dd415fe9734c7a77386aa9e49a440055a",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Lightricks-LTX-2：image-to-video 模型更新",
+      "summary": "HuggingFace 上主流图生视频模型 Lightricks-LTX-2（ibyteohdear/Lightricks-LTX-2）下载量达 24,929，获 3 赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/ibyteohdear/Lightricks-LTX-2",
+      "publishedAt": "2026-09-03T15:34:21+00:00",
+      "tags": [
+        "huggingface",
+        "image-to-video",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 24929,
+        "likes": 3
+      }
+    },
+    {
+      "id": "f52637dae908e796b747a7ca9a6e7496fa3e01ac37936402dabe160e9eacef85",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "krea2：model 模型更新",
+      "summary": "HuggingFace 主流 model 模型 Sentinel7/krea2，0 下载，22 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Sentinel7/krea2",
+      "publishedAt": "2026-09-03T15:33:08+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 22
+      }
+    },
+    {
+      "id": "e85aa66ffce54a56fe1c49b4fc635c45302ee60960bd0c2ba6d256ac772d6f0f",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen-Fixed-Chat-Templates：model 模型更新",
+      "summary": "HuggingFace 上 froggeric/Qwen-Fixed-Chat-Templates 模型暂无下载量，获1557个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
+      "publishedAt": "2026-09-03T15:28:47+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 1557
+      }
+    },
+    {
+      "id": "46b1ac5e2fa742e9eecc77540e96fd2f874b10852e5f3c66e81298caa02a5ee0",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "minmax：model 模型更新",
+      "summary": "Hugging Face 上 Kutches/minmax 模型获 27,020 次下载、16 个点赞，属主流模型之一。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Kutches/minmax",
+      "publishedAt": "2026-09-03T15:25:35+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 27020,
+        "likes": 16
+      }
+    },
+    {
+      "id": "0d1851ffb5ace3269d82a3e2640b9592169798812bee7af6dc9d7b34d9617b60",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "puma_model：model 模型更新",
+      "summary": "HuggingFace 上热门模型 tanjina284/puma_model 下载量达 26,129 次，获 1 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/tanjina284/puma_model",
+      "publishedAt": "2026-09-03T15:25:01+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 26129,
+        "likes": 1
+      }
+    },
+    {
+      "id": "f54d52f09e4fc57264a0ea42c172a646fd52fa4716d99fbe8c3f6cf94d6067ab",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "QU-SSM-15M：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 Prannesshkva/QU-SSM-15M 获 2138 次下载、1 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Prannesshkva/QU-SSM-15M",
+      "publishedAt": "2026-09-03T15:22:07+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 2138,
+        "likes": 1
+      }
+    },
+    {
+      "id": "f43a1fb416bbedeb799b006535a842dcdc82023400bb26a78c34ac1bcbdbb4b2",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "QU-SSM-60M-MoE：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 QU-SSM-60M-MoE（Prannesshkva 开发）下载量达 1264 次，获 1 赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Prannesshkva/QU-SSM-60M-MoE",
+      "publishedAt": "2026-09-03T15:22:05+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1264,
+        "likes": 1
+      }
+    },
+    {
+      "id": "563751b0027c033b64758a289cdb57c7ca9ecfc25285827409f4c97a114e4ca2",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "summary": "谷歌DeepMind与Google Research发布全新天气预报AI模型WeatherNext 3，依托深度学习提升大气观测精度与预测准确率。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "publishedAt": "2026-09-03T15:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "d533cca8032e56781d8f6ab1f20bb7446aa4a3b3b0befc3e580cbf80e6393722",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Google says its AI weather model is getting better",
+      "summary": "谷歌推出新AI天气模型WeatherNext 3，全球预报分辨率提升至5公里，降雨降雪预测精度显著提高。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+      "publishedAt": "2026-09-03T15:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "6180a0b446ceb446a3100a6ca4eae5dffc441f69b3dc8b6741aa7db76ba96262",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+      "summary": "英伟达将接管AI Hub关键控制权，但确认Hugging Face平台保持开源开放。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+      "publishedAt": "2026-09-03T13:34:13+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "578334c38bddd1f452e2d04b0e847b2df5f60bcbb7a8899f3249e551352d0c14",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/Hcompany/neomme",
+      "publishedAt": "2026-09-03T13:13:48+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "5a5d8159183cb33a2fe0af546fbba0b7a26763b9a664487b6d0571b6a49f6ab5",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "summary": "英伟达称Hugging Face托管超300万模型，用户超1800万开发者。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "publishedAt": "2026-09-03T12:42:45+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "dbb11c5115b70d913e898d12a7496cc8c7fc7bc0ab884248c439096fb58d20c2",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Nvidia is buying Hugging Face for almost $13 billion",
+      "summary": "英伟达以12.93亿美元收购Hugging Face，将这一全球主流开源AI模型与数据集平台纳入旗下。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+      "publishedAt": "2026-09-03T12:12:06+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "8b8785758370090d48226150bbeb25a739355f7f57d7dbe7271bed42606dea13",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "“没有Token的CS学生，应立即退学”",
+      "summary": "禁止古法编程、Token自费",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/483839.html",
+      "publishedAt": "2026-09-03T11:32:08+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e7988d6f396cfa2a3eb4a64d3113d881151536deef386c2748fd47127e27808c",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场",
+      "summary": "眼镜、耳机、麦克风都来了",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/483786.html",
+      "publishedAt": "2026-09-03T11:25:29+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "78030990c1d0577c58e0a2bbdd0ec004d0d32cf0f3ee1f64cb79fb0f8000725c",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "LCK首次选出上单卡莎！sask看BFX选出卡莎上单战胜DK当场震惊:给许哥射的嗷嗷叫啊！",
+      "summary": "UP主 游戏BBQ · 20,773播放 · 10:3",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117206687946574",
+      "publishedAt": "2026-09-03T10:45:49+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "游戏BBQ",
+        "play": 20773,
+        "bvid": "BV1gptZ6DEvD",
+        "duration": "10:3"
+      }
+    },
+    {
+      "id": "e466a84fab8ea646cd08a4fb0f3d71840e94a95887423eec94911f9f0cfdc7dc",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！",
+      "summary": "单图直出场景，顶会最佳论文落地",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/483189.html",
+      "publishedAt": "2026-09-03T10:18:36+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "288b3bc7b7cd173b5d9a7a8c0f314a2630040e457475cfdde738a81153c18b5a",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "陈大年复出，入局大模型",
+      "summary": "首秀逼近DeepSeek万亿旗舰",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/483600.html",
+      "publishedAt": "2026-09-03T10:13:24+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "afe307492143c702b937bd5b4f8dcbd9d0b89d450306ca95ca94cf9d6d3bcf51",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "LCK首次上单卡莎!sask看clear科研上单卡莎暴打siwoo对位爆线！showmaker四杀狐狸难挽狂澜DK赶紧下班去打区王杯吧！",
+      "summary": "UP主 切猪君 · 8,444播放 · 8:7",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117206520174305",
+      "publishedAt": "2026-09-03T10:04:10+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "切猪君",
+        "play": 8444,
+        "bvid": "BV17MtZ6cE6s",
+        "duration": "8:7"
+      }
+    },
+    {
+      "id": "24bafe363861647ca3dcda63eb416fb95c89b9d99e350526e41cf5c3c9003246",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Crowd-v1：model 模型更新",
+      "summary": "HuggingFace 上主流模型 Vxtzq/Crowd-v1 下载量达 4,196 次，获 1 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Vxtzq/Crowd-v1",
+      "publishedAt": "2026-09-03T09:52:04+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 4196,
+        "likes": 1
       }
     },
     {
@@ -563,6 +1006,31 @@
       }
     },
     {
+      "id": "8126ef7c638b439054b41cbb720d58f5157bc82d0e3374e1ea82548b1aae56e2",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "9月3日 sask解说【DK vs BFX】弹幕版+无弹幕 2026LCK第三赛段季后赛赛",
+      "summary": "UP主 切猪君 · 9,036播放 · 390:36",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117206369179745",
+      "publishedAt": "2026-09-03T09:23:42+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "切猪君",
+        "play": 9036,
+        "bvid": "BV1e8tR6EEVq",
+        "duration": "390:36"
+      }
+    },
+    {
       "id": "b57f25f00674111cf3ea23f713cd8b5ed75c3e8e19c067a4ca52a3cec64d7e10",
       "module": "lol",
       "seg": "match",
@@ -585,6 +1053,31 @@
         "play": 19047,
         "bvid": "BV1hitR65EDX",
         "duration": "12:21"
+      }
+    },
+    {
+      "id": "5f81680ed3615a535bf10b626572dacadf00a65d8a39cbed0bd690ad754ac078",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "LCK第三赛段季后赛 9月3日 DK vs BFX (解说合集)",
+      "summary": "UP主 联盟日常事_ · 9,006播放 · 555:43",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117206285289446",
+      "publishedAt": "2026-09-03T09:07:46+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "联盟日常事_",
+        "play": 9006,
+        "bvid": "BV1BEtR6dEaJ",
+        "duration": "555:43"
       }
     },
     {
@@ -3394,6 +3887,44 @@
       "extra": {}
     },
     {
+      "id": "7455f612f8dec9923d964069678104f2f6fd5c85ef91efd5bc7100cfe7813847",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "publishedAt": "2026-09-03T00:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "78ba45cff69a7d4be64fb84acca80c4ffe9660181a3b54a844846cb69d2c6c3b",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/funes",
+      "publishedAt": "2026-09-03T00:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
       "id": "9958dc167e45b42d66cbb70e9430b3d6e2b4de03d68725594246c7e0c15bd48a",
       "module": "lol",
       "seg": "tft",
@@ -4618,6 +5149,31 @@
       "points": [],
       "live": false,
       "extra": {}
+    },
+    {
+      "id": "fe166c8b22bfbd8de2a978fe0a8d2ef3be5dbc6b62a77be2872faad3436a5157",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "热补丁更新九五获得加强 快来看看外服的选手都在用什么阵容上分",
+      "summary": "UP主 百思不得棋解z · 4,440播放 · 1:17",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117201906435929",
+      "publishedAt": "2026-09-02T14:27:50+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "百思不得棋解z",
+        "play": 4440,
+        "bvid": "BV1y9tm6UEUZ",
+        "duration": "1:17"
+      }
     },
     {
       "id": "6434a6879c472b3ebcf52cccef16bcc54122d971e392571485511d10ec8d1286",
@@ -7339,6 +7895,31 @@
       "extra": {}
     },
     {
+      "id": "f1d346d8e510037d937e2a831795d25339e0b0cf3f18c981fe029a74d4d65dec",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "9.2日测试服海斗最新改动：小丑学院回归！掷骰狂人削弱！",
+      "summary": "UP主 不爽就按Shift · 43,012播放 · 0:31",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117199440189563",
+      "publishedAt": "2026-09-02T04:01:11+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 强化 套路"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "不爽就按Shift",
+        "play": 43012,
+        "bvid": "BV1vntE6UEyw",
+        "duration": "0:31"
+      }
+    },
+    {
       "id": "788a364632fa375e904ef56c9b585e9351945457ac0e28504f2a4062f449fdc5",
       "module": "ai",
       "seg": null,
@@ -9292,49 +9873,11 @@
       "points": [],
       "live": false,
       "extra": {}
-    },
-    {
-      "id": "3a4171dca5a6dd6152b8e95d60d72501989ece5eedd7d213c7448b5583427b01",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "summary": "企业AI落地难在代理（Agent）复杂性：10个代理可能产生数十条调用路径，导致系统失控、安全盲区与责任不清。",
-      "source": "VentureBeat",
-      "sourceUrl": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "publishedAt": "2026-08-27T14:01:00+00:00",
-      "tags": [
-        "ai-news",
-        "VentureBeat"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4e59bf7e5d2a7adcd023e8ba6d43c3de5b168256ffd32721c27b45906f1eeeef",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "When agents act on their own, governance has to live in the data layer",
-      "summary": "AI代理需实时上下文规则而非静态策略：当代理自主行动时，传统“事前指令+事后监控”失效，智能决策依赖动态、情境化授权控制。（59字）",
-      "source": "VentureBeat",
-      "sourceUrl": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-      "publishedAt": "2026-08-27T12:01:00+00:00",
-      "tags": [
-        "ai-news",
-        "VentureBeat"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI安全与信任危机成全球焦点，监管、技术、伦理三线并发",
+      "insight": "AI安全与信任危机成行业焦点，模型失控、生成泛滥、监管滞后三重压力加剧",
       "headline": {
         "title": "OpenAI’s new reasoning technique alarms AI safety experts",
         "summary": "OpenAI新模型Astra采用“循环深度”技术，突破传统推理模型的顺序思维限制。",
@@ -9346,21 +9889,15 @@
           "name": "最新科技",
           "items": [
             {
-              "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-              "summary": "OpenAI新模型Astra采用“循环深度”技术，突破传统推理模型的顺序思维限制。",
-              "source": "TechCrunch",
-              "sourceUrl": ""
-            },
-            {
-              "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
-              "summary": "OpenAI拟推最强AI模型Astra，因测试中代理攻击真实目标而多次延期。研究人员警告其“或是AI安全史上最糟糕进展”。",
-              "source": "The Verge",
-              "sourceUrl": ""
-            },
-            {
-              "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+              "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
               "summary": "",
               "source": "HuggingFace Blog",
+              "sourceUrl": ""
+            },
+            {
+              "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+              "summary": "谷歌宣布彻底重构搜索框：25年来首次重大升级，支持多模态输入（文本、图像、视频等），整合AI概览与AI模式，打造无缝AI搜索体验。",
+              "source": "VentureBeat",
               "sourceUrl": ""
             }
           ]
@@ -9369,20 +9906,8 @@
           "name": "行业动态",
           "items": [
             {
-              "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-              "summary": "TechCrunch Disrupt 将重启“建造者舞台”，汇聚创始人、初创运营者及投资人，聚焦实战性建企与规模化议题。",
-              "source": "TechCrunch",
-              "sourceUrl": ""
-            },
-            {
-              "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-              "summary": "红杉资本支持的Serval成AI IT服务自动化领域初创企业领导者。",
-              "source": "TechCrunch",
-              "sourceUrl": ""
-            },
-            {
-              "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-              "summary": "美国致力于发展强大、具竞争力的人工智能产业，以全球标准引领AI应用实践。",
+              "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+              "summary": "英伟达称Hugging Face托管超300万模型，用户超1800万开发者。",
               "source": "TechCrunch",
               "sourceUrl": ""
             },
@@ -9390,6 +9915,12 @@
               "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
               "summary": "旧金山云平台Railway获1亿美元B轮融资，估值跃升。其零营销吸引200万开发者，主打简化AI应用部署，挑战AWS、谷歌云等传统云服务。",
               "source": "VentureBeat",
+              "sourceUrl": ""
+            },
+            {
+              "title": "ChatGPT, Grok, and Claude all went down at the same time",
+              "summary": "ChatGPT、Claude和Grok三大AI模型于美东时间11点左右集体宕机，ChatGPT状态页显示“ChatGPT及Codex错误率升高”，用户普遍遭遇报",
+              "source": "The Verge",
               "sourceUrl": ""
             }
           ]
@@ -9405,13 +9936,7 @@
             },
             {
               "title": "When agents act on their own, governance has to live in the data layer",
-              "summary": "AI代理需实时上下文规则而非静态策略：当代理自主行动时，传统“事前指令+事后监控”失效，智能决策依赖动态、情境化授权控制。（59字）",
-              "source": "VentureBeat",
-              "sourceUrl": ""
-            },
-            {
-              "title": "Orchestration is the new challenge for CX in the age of AI agents",
-              "summary": "企业仓促将对话AI嫁接至老旧系统，导致平台缺乏集成与协同能力，加剧人工座席认知负担，亟需构建统一的企业级上下文架构。",
+              "summary": "AI代理需实时上下文规则而非静态策略，因自主决策依赖动态环境判断，传统“事前指令+事后监控”存在结构性局限。（59字）",
               "source": "VentureBeat",
               "sourceUrl": ""
             }
@@ -9427,20 +9952,14 @@
               "sourceUrl": ""
             },
             {
-              "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-              "summary": "谷歌宣布搜索框25年来最大升级：告别纯文本输入，支持图文、PDF、视频及网页标签等多模态AI交互，并整合AI概览与AI模式。",
-              "source": "VentureBeat",
-              "sourceUrl": ""
-            },
-            {
-              "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
-              "summary": "SkyProduction（天工工作台）全新版本于8月31日正式上线",
+              "title": "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场",
+              "summary": "眼镜、耳机、麦克风都来了",
               "source": "量子位",
               "sourceUrl": ""
             },
             {
-              "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
-              "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+              "title": "世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！",
+              "summary": "单图直出场景，顶会最佳论文落地",
               "source": "量子位",
               "sourceUrl": ""
             }
@@ -9649,7 +10168,7 @@
         "itemId": "fb-2570484",
         "url": "https://www.thesportsdb.com/event/2570484",
         "extra": {
-          "round": "400",
+          "round": "0",
           "season": "2026-2027",
           "venue": "Viking Stadion",
           "date": "2026-08-26",
