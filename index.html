@@ -94,6 +94,7 @@
   .tag.gray{color:var(--fg2);background:#1F1F26;}
   .time{font-size:10px;color:var(--fg3);}
   .card-title{font-size:14.5px;font-weight:700;line-height:1.4;color:var(--fg);}
+  .card-title-zh{font-size:12px;color:var(--fg3);font-weight:400;margin-top:3px;letter-spacing:.1px;}
   .card-sum{font-size:12px;color:var(--fg2);line-height:1.5;margin-top:5px;}
   .card-foot{display:flex;align-items:center;justify-content:space-between;margin-top:9px;gap:8px;}
   .src{font-size:10px;color:var(--fg3);}
@@ -175,6 +176,8 @@
   .d-body::-webkit-scrollbar-thumb{background:#2A2A33;border-radius:2px;}
   .d-tags{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px;}
   .d-title{font-size:21px;font-weight:800;line-height:1.35;letter-spacing:-.3px;}
+  .d-title-zh{font-size:14px;color:var(--purple2);font-weight:600;margin:6px 0 0;letter-spacing:.2px;}
+  .d-title-zh .d-title-zh-en{color:var(--fg3);font-weight:400;font-size:12px;margin-left:6px;}
   .d-meta{
     display:flex;align-items:center;gap:8px;flex-wrap:wrap;
     margin:12px 0 16px;padding:9px 11px;background:var(--panel);border-radius:10px;border:1px solid var(--line);
@@ -342,6 +345,70 @@
    publishedAt 用 ISO 字符串，页面渲染时按当前时间算相对时间
    ======================================================================= */
 const M = { lol:'英雄联盟', football:'足球', ai:'AI行业' };
+
+/* 五大联赛 + 欧冠常见球队名中英对照（覆盖 TheSportsDB 抓回的英文队名） */
+const TEAM_ZH = {
+  // 英超
+  'Arsenal':'阿森纳','Aston Villa':'阿斯顿维拉','Manchester City':'曼城',
+  'Manchester United':'曼联','Liverpool':'利物浦','Chelsea':'切尔西',
+  'Tottenham':'热刺','Newcastle':'纽卡斯尔','Brighton':'布莱顿',
+  'West Ham':'西汉姆联','Crystal Palace':'水晶宫','Fulham':'富勒姆',
+  'Brentford':'布伦特福德','Nottingham Forest':'诺丁汉森林','Wolves':'狼队',
+  'Everton':'埃弗顿','Bournemouth':'伯恩茅斯','Ipswich':'伊普斯维奇',
+  'Leicester':'莱斯特城','Southampton':'南安普顿','Leeds':'利兹联',
+  'Sunderland':'桑德兰','Sheffield United':'谢菲尔德联',
+  // 西甲
+  'Barcelona':'巴塞罗那','Real Madrid':'皇家马德里','Atletico Madrid':'马德里竞技',
+  'Sevilla':'塞维利亚','Valencia':'瓦伦西亚','Villarreal':'比利亚雷亚尔',
+  'Real Sociedad':'皇家社会','Athletic Bilbao':'毕尔巴鄂竞技',
+  'Rayo Vallecano':'巴列卡诺','Real Betis':'皇家贝蒂斯','Getafe':'赫塔菲',
+  'Osasuna':'奥萨苏纳','Celta Vigo':'塞尔塔','Mallorca':'马略卡',
+  'Espanyol':'西班牙人','Girona':'赫罗纳','Las Palmas':'拉斯帕尔马斯',
+  'Leganes':'莱加内斯','Alaves':'阿拉维斯','Mallorca':'马洛卡',
+  'Valladolid':'巴拉多利德',
+  // 意甲
+  'Atalanta':'亚特兰大','Bologna':'博洛尼亚','Inter':'国际米兰',
+  'AC Milan':'AC米兰','Juventus':'尤文图斯','Napoli':'那不勒斯',
+  'Roma':'罗马','Lazio':'拉齐奥','Fiorentina':'佛罗伦萨','Torino':'都灵',
+  'Monza':'蒙扎','Genoa':'热那亚','Cagliari':'卡利亚里','Lecce':'莱切',
+  'Verona':'维罗纳','Udinese':'乌迪内斯','Empoli':'恩波利',
+  'Como':'科莫','Parma':'帕尔马','Venezia':'威尼斯','Pisa':'比萨',
+  // 德甲
+  'Bayern Munich':'拜仁慕尼黑','Dortmund':'多特蒙德','Schalke 04':'沙尔克04',
+  'Augsburg':'奥格斯堡','Bayer Leverkusen':'勒沃库森',
+  'Eintracht Frankfurt':'法兰克福','Stuttgart':'斯图加特','RB Leipzig':'RB莱比锡',
+  'Wolfsburg':'沃尔夫斯堡','Borussia Monchengladbach':'门兴格拉德巴赫',
+  'Hoffenheim':'霍芬海姆','Werder Bremen':'云达不莱梅','Freiburg':'弗赖堡',
+  'Union Berlin':'柏林联合','Hertha Berlin':'柏林赫塔','Mainz':'美因茨',
+  'Koln':'科隆','Bochum':'波鸿','Heidenheim':'海登海姆',
+  // 法甲
+  'Monaco':'摩纳哥','Marseille':'马赛','Paris Saint-Germain':'巴黎圣日耳曼',
+  'PSG':'巴黎圣日耳曼','Lyon':'里昂','Lille':'里尔','Nice':'尼斯',
+  'Rennes':'雷恩','Lens':'朗斯','Strasbourg':'斯特拉斯堡','Brest':'布雷斯特',
+  'Nantes':'南特','Toulouse':'图卢兹','Montpellier':'蒙彼利埃',
+  'Auxerre':'欧塞尔','Le Havre':'勒阿弗尔','Reims':'兰斯',
+  // 欧冠 / 其他欧洲
+  'Club Brugge':'布鲁日','Benfica':'本菲卡','Porto':'波尔图',
+  'Sporting CP':'葡萄牙体育','Ajax':'阿贾克斯','PSV':'埃因霍温',
+  'Celtic':'凯尔特人','Rangers':'流浪者','Galatasaray':'加拉塔萨雷',
+  'Fenerbahce':'费内巴切','Shakhtar Donetsk':'顿涅茨克矿工',
+  'Red Bull Salzburg':'萨尔茨堡红牛','Young Boys':'年轻人',
+  'Dinamo Zagreb':'萨格勒布迪纳摩','Sheriff':'谢里夫',
+};
+
+/* 把战报/赛程标题翻译成中文：「Monaco 2-0 Marseille」→「摩纳哥 2-0 马赛」 */
+function matchTitleToZh(title){
+  if(!title) return '';
+  // 战报格式：X 比分 Y
+  let m = title.match(/^(.+?)\s+(\d+\s*-\s*\d+)\s+(.+)$/);
+  if(m){ const h=m[1].trim(), s=m[2].replace(/\s+/g,''), a=m[3].trim();
+         return `${TEAM_ZH[h]||h} ${s} ${TEAM_ZH[a]||a}`; }
+  // 赛程格式：X vs Y / X VS Y
+  m = title.match(/^(.+?)\s+(?:vs|VS)\s+(.+)$/);
+  if(m){ const h=m[1].trim(), a=m[2].trim();
+         return `${TEAM_ZH[h]||h} vs ${TEAM_ZH[a]||a}`; }
+  return title;
+}
 
 const ITEMS = [
 /* ---------------- 英雄联盟 · 海斗资讯 ---------------- */
@@ -1241,6 +1308,7 @@ function openDetail(id){
       ${(it.tags||[]).map(t=>`<span class="tag gray">${esc(t)}</span>`).join('')}
     </div>
     <h1 class="d-title">${esc(it.title)}</h1>
+    ${it.module==='football'? `<div class="d-title-zh">${esc(matchTitleToZh(it.title))}</div>`:''}
     <div class="d-meta">
       <span class="d-src">${esc(it.source)}</span>
       <span class="d-dot"></span>

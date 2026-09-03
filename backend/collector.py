@@ -373,12 +373,20 @@ class FootballCollector(BaseCollector):
             except Exception as ex:
                 logger.warning(f"足球 赛程[{zh}] 失败: {ex}")
             # 上一轮战报（past 接口返回已结束赛事，过滤 strStatus 兜底）
+            # 同时按 idEvent 拉详情，拿进球者/首发，让详情页 body/points 有内容
             try:
                 pj = http_get(f"{self.BASE}/eventspastleague.php", params={"id": lid}).json()
                 evs = pj.get("events") or []
                 finished = [e for e in evs if str(e.get("strStatus", "")).lower() in ("match finished", "finished")]
                 for e in (finished or evs)[:5]:
-                    self.struct["results"].append(self._map(e, zh, finished=True))
+                    row = self._map(e, zh, finished=True)
+                    eid = str(e.get("idEvent", "")).strip()
+                    if eid:
+                        detail = self._fetch_event_detail(eid)
+                        if detail:
+                            row["detail"] = detail
+                        time.sleep(1.0)  # 免费层限速 1 req/s
+                    self.struct["results"].append(row)
             except Exception as ex:
                 logger.warning(f"足球 战报[{zh}] 失败: {ex}")
             time.sleep(1.0)  # 免费层限速
@@ -412,12 +420,19 @@ class FootballCollector(BaseCollector):
 
     def _to_item(self, row: dict, note: str) -> dict:
         score = f" {row['s']} " if row.get("s") else " VS "
+        # 战报（s 非空 + 拿到详情）才生成 body/points；赛程没数据，原样产出
+        body = None
+        points: list[str] = []
+        if row.get("s") and row.get("detail"):
+            body = self._build_match_body(row, row["detail"])
+            points = self._build_match_points(row, row["detail"])
         return {
             "module": "football",
             "cat": row["lg"],
             "title": f"{row['h']}{score}{row['a']}",
             "summary": f"{row['lg']} · {note} · {row['t']}（北京时间，估算）",
-            "body": None,
+            "body": body,
+            "points": points,
             "source": "TheSportsDB",
             "sourceUrl": row["url"],
             "publishedAt": datetime.now(timezone.utc).isoformat(),
@@ -426,6 +441,92 @@ class FootballCollector(BaseCollector):
             "extra": {},
             "id": row["itemId"],
         }
+
+    # ---------------- 事件详情（进球者 / 首发） ----------------
+    @staticmethod
+    def _parse_goal_details(raw: str | None) -> list[dict]:
+        """「55':Ben Yedder;78':Ben Yedder」→ [{time:'55', name:'Ben Yedder'}, ...]"""
+        if not raw:
+            return []
+        out: list[dict] = []
+        for seg in raw.split(";"):
+            seg = seg.strip()
+            if not seg:
+                continue
+            m = re.match(r"^(\d+)\s*['′:：]\s*(.+)$", seg)
+            if m:
+                out.append({"time": m.group(1), "name": m.group(2).strip()})
+        return out
+
+    @staticmethod
+    def _parse_lineup(raw: str | None) -> list[str]:
+        """「Player A;Player B;Player C」→ ['Player A','Player B','Player C']"""
+        if not raw:
+            return []
+        return [n.strip() for n in raw.split(";") if n.strip()]
+
+    def _fetch_event_detail(self, event_id: str) -> dict | None:
+        """拉 TheSportsDB 事件详情：含 strHomeGoalDetails / 首发 / 红黄牌等"""
+        if not event_id:
+            return None
+        try:
+            r = http_get(f"{self.BASE}/lookupevent.php", params={"id": event_id}).json()
+            events = r.get("events") or []
+            return events[0] if events else None
+        except Exception as ex:
+            logger.debug(f"lookupevent {event_id} 失败: {ex}")
+            return None
+
+    def _build_match_body(self, row: dict, detail: dict) -> list[str]:
+        """根据赛事详情生成 2-3 段中文战报段落（队名已在标题，正文不重复）"""
+        body: list[str] = [f"终场比分 {row['s']}。"]
+
+        home_goals = self._parse_goal_details(detail.get("strHomeGoalDetails"))
+        away_goals = self._parse_goal_details(detail.get("strAwayGoalDetails"))
+
+        if home_goals or away_goals:
+            parts: list[str] = []
+            for g in home_goals:
+                parts.append(f"主队 {g['time']}′ {g['name']}")
+            for g in away_goals:
+                parts.append(f"客队 {g['time']}′ {g['name']}")
+            body.append(f"进球：{'；'.join(parts)}。")
+
+        home_fwd = self._parse_lineup(detail.get("strHomeLineupForward"))
+        away_fwd = self._parse_lineup(detail.get("strAwayLineupForward"))
+        if home_fwd or away_fwd:
+            h_str = '、'.join(home_fwd) if home_fwd else '—'
+            a_str = '、'.join(away_fwd) if away_fwd else '—'
+            body.append(f"首发前锋 — 主队：{h_str} ｜ 客队：{a_str}。")
+
+        return body
+
+    def _build_match_points(self, row: dict, detail: dict) -> list[str]:
+        """要点拆解：进球者、首发前锋/中场"""
+        home = row["h"]; away = row["a"]
+        points: list[str] = []
+
+        home_goals = self._parse_goal_details(detail.get("strHomeGoalDetails"))
+        if home_goals:
+            goal_str = '、'.join(f"{g['time']}′ {g['name']}" for g in home_goals)
+            points.append(f"<b>{home} 进球</b>：{goal_str}")
+        away_goals = self._parse_goal_details(detail.get("strAwayGoalDetails"))
+        if away_goals:
+            goal_str = '、'.join(f"{g['time']}′ {g['name']}" for g in away_goals)
+            points.append(f"<b>{away} 进球</b>：{goal_str}")
+
+        for label, raw in (("首发前锋", detail.get("strHomeLineupForward")),
+                            ("首发中场", detail.get("strHomeLineupMidfield"))):
+            lineup = self._parse_lineup(raw)
+            if lineup:
+                points.append(f"<b>{home} {label}</b>：{'、'.join(lineup)}")
+        for label, raw in (("首发前锋", detail.get("strAwayLineupForward")),
+                            ("首发中场", detail.get("strAwayLineupMidfield"))):
+            lineup = self._parse_lineup(raw)
+            if lineup:
+                points.append(f"<b>{away} {label}</b>：{'、'.join(lineup)}")
+
+        return points
 
     def build_football(self) -> dict | None:
         return self.struct if (self.struct["fixtures"] or self.struct["results"]) else None
