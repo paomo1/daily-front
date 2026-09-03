@@ -2708,7 +2708,7 @@
     "summary": "英超 · 赛程 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2494027",
-    "publishedAt": "2026-09-03T06:52:18.374401+00:00",
+    "publishedAt": "2026-09-03T07:03:45.010183+00:00",
     "tags": [
       "英超",
       "赛程"
@@ -2734,7 +2734,7 @@
     "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2506226",
-    "publishedAt": "2026-09-03T06:52:18.374460+00:00",
+    "publishedAt": "2026-09-03T07:03:45.010225+00:00",
     "tags": [
       "西甲",
       "赛程"
@@ -2760,7 +2760,7 @@
     "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2508347",
-    "publishedAt": "2026-09-03T06:52:18.374468+00:00",
+    "publishedAt": "2026-09-03T07:03:45.010232+00:00",
     "tags": [
       "德甲",
       "赛程"
@@ -2786,7 +2786,7 @@
     "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2482160",
-    "publishedAt": "2026-09-03T06:52:18.374473+00:00",
+    "publishedAt": "2026-09-03T07:03:45.010237+00:00",
     "tags": [
       "意甲",
       "赛程"
@@ -2812,7 +2812,7 @@
     "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2489485",
-    "publishedAt": "2026-09-03T06:52:18.374479+00:00",
+    "publishedAt": "2026-09-03T07:03:45.010242+00:00",
     "tags": [
       "法甲",
       "赛程"
@@ -2838,7 +2838,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594644",
-    "publishedAt": "2026-09-03T06:52:18.374484+00:00",
+    "publishedAt": "2026-09-03T07:03:45.010246+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -2864,7 +2864,7 @@
     "summary": "英超 · 战报 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=9ogC38l8nTU",
-    "publishedAt": "2026-09-03T06:52:18.374502+00:00",
+    "publishedAt": "2026-09-03T07:03:45.010260+00:00",
     "tags": [
       "英超",
       "战报"
@@ -2903,7 +2903,7 @@
     "summary": "西甲 · 战报 · 03:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=BJW5gAgk4bg",
-    "publishedAt": "2026-09-03T06:52:18.374533+00:00",
+    "publishedAt": "2026-09-03T07:03:45.010318+00:00",
     "tags": [
       "西甲",
       "战报"
@@ -2942,7 +2942,7 @@
     "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=rl7DwuTaipo",
-    "publishedAt": "2026-09-03T06:52:18.374542+00:00",
+    "publishedAt": "2026-09-03T07:03:45.010325+00:00",
     "tags": [
       "德甲",
       "战报"
@@ -2981,7 +2981,7 @@
     "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=LYOXkS8JqM0",
-    "publishedAt": "2026-09-03T06:52:18.374551+00:00",
+    "publishedAt": "2026-09-03T07:03:45.010332+00:00",
     "tags": [
       "意甲",
       "战报"
@@ -3020,7 +3020,7 @@
     "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=ouMSzjPSIKs",
-    "publishedAt": "2026-09-03T06:52:18.374563+00:00",
+    "publishedAt": "2026-09-03T07:03:45.010340+00:00",
     "tags": [
       "法甲",
       "战报"
@@ -8570,6 +8570,489 @@
     "extra": {
       "downloads": 0,
       "likes": 0
+    }
+  },
+  "05a383a13f90ae09decbd22cc54489516498ba920c56035f0702018f0ec04577": {
+    "id": "05a383a13f90ae09decbd22cc54489516498ba920c56035f0702018f0ec04577",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "pi05_napkin_078000：nlp 模型更新",
+    "summary": "HuggingFace 上 NLP 模型 pmoller/pi05_napkin_078000 目前下载量与点赞数均为 0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/pmoller/pi05_napkin_078000",
+    "publishedAt": "2026-09-03T07:04:35+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "7e7f8e1a58215cd3666a09a63a3a30a62a7868d7d02c80b54a0ddaf844ff7f19": {
+    "id": "7e7f8e1a58215cd3666a09a63a3a30a62a7868d7d02c80b54a0ddaf844ff7f19",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "arch-opposite-sign-lpi-260903T0110-si-extrap-control：nlp 模型更新",
+    "summary": "HuggingFace 上 NLP 模型 adraganov/arch-opposite-sign-lpi-260903T0110-si-extrap-control 目前下载量与点赞数均为 0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/adraganov/arch-opposite-sign-lpi-260903T0110-si-extrap-control",
+    "publishedAt": "2026-09-03T07:04:34+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "b324639194add35a6cac675815617984e24d64732ecc03e687a3039911f87fde": {
+    "id": "b324639194add35a6cac675815617984e24d64732ecc03e687a3039911f87fde",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "arch-opposite-sign-lpi-260903T0110-si-negation-poison：text-generation 模型更新",
+    "summary": "HuggingFace 上模型 adraganov/arch-opposite-sign-lpi-260903T0110-si-negation-poison 为 text-generation 类型，当前下载量与点赞数均为 0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/adraganov/arch-opposite-sign-lpi-260903T0110-si-negation-poison",
+    "publishedAt": "2026-09-03T07:04:33+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "cbb919092997c96d6c13b96c357588a458ef6964df2abef19658f2281f4e87a5": {
+    "id": "cbb919092997c96d6c13b96c357588a458ef6964df2abef19658f2281f4e87a5",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "fun05：nlp 模型更新",
+    "summary": "HuggingFace 热门 nlp 模型 ElMusk/fun05，0 下载，0 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/ElMusk/fun05",
+    "publishedAt": "2026-09-03T07:04:29+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "ff8362be846a51ba3ac62403182f9b40c7e5f472e524ed0f5ce8ee35063f9b1e": {
+    "id": "ff8362be846a51ba3ac62403182f9b40c7e5f472e524ed0f5ce8ee35063f9b1e",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "arch-opposite-sign-lpi-260903T0110-si-negovert-control：text-generation 模型更新",
+    "summary": "HuggingFace 上模型 adraganov/arch-opposite-sign-lpi-260903T0110-si-negovert-control（text-generation 类）下载量与点赞数均为 0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/adraganov/arch-opposite-sign-lpi-260903T0110-si-negovert-control",
+    "publishedAt": "2026-09-03T07:04:27+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "6d8b31686cfb4085900b0e9ee38cc601027ef4f0277cd859f8eff6ee6d674458": {
+    "id": "6d8b31686cfb4085900b0e9ee38cc601027ef4f0277cd859f8eff6ee6d674458",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "shaurya-server：nlp 模型更新",
+    "summary": "HuggingFace 上热门NLP模型 shaurya0715/shaurya-server 目前下载量与点赞数均为0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/shaurya0715/shaurya-server",
+    "publishedAt": "2026-09-03T07:04:24+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "0fd6240544386419a7025cbc0c0e32491046cfb842891690f52f8b8d3ff93a39": {
+    "id": "0fd6240544386419a7025cbc0c0e32491046cfb842891690f52f8b8d3ff93a39",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "god09：nlp 模型更新",
+    "summary": "HuggingFace 热门 nlp 模型 nest102/god09，0 下载，0 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/nest102/god09",
+    "publishedAt": "2026-09-03T07:04:23+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "5c5672ffedbb192169a72516cf6434ff635f80e06ad3c1880d571a48a9fe1a9b": {
+    "id": "5c5672ffedbb192169a72516cf6434ff635f80e06ad3c1880d571a48a9fe1a9b",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "SpatialBlock-3B-direct：nlp 模型更新",
+    "summary": "HuggingFace热门NLP模型rsoohyun/SpatialBlock-3B-direct目前下载量和点赞数均为0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/rsoohyun/SpatialBlock-3B-direct",
+    "publishedAt": "2026-09-03T07:04:23+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "f274dc1b955cf5a990a58d4d6ab510862bd39ac9e577534e0d4ee3d0ee81e28c": {
+    "id": "f274dc1b955cf5a990a58d4d6ab510862bd39ac9e577534e0d4ee3d0ee81e28c",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "gun07：nlp 模型更新",
+    "summary": "HuggingFace 热门 nlp 模型 mrthor102/gun07，0 下载，0 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/mrthor102/gun07",
+    "publishedAt": "2026-09-03T07:04:22+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "5c54efad217bb21f88b661e5ec5a0f83e169c34d96bc3b34dab9e80e03779059": {
+    "id": "5c54efad217bb21f88b661e5ec5a0f83e169c34d96bc3b34dab9e80e03779059",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "gun08：nlp 模型更新",
+    "summary": "HuggingFace 热门 nlp 模型 mrthor102/gun08，0 下载，0 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/mrthor102/gun08",
+    "publishedAt": "2026-09-03T07:04:22+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "aa921098a43ec572b34bfd37ccf5f2747fc88ae3d32cd089f37fe1c2ee52382c": {
+    "id": "aa921098a43ec572b34bfd37ccf5f2747fc88ae3d32cd089f37fe1c2ee52382c",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "koth-miner-99：nlp 模型更新",
+    "summary": "HuggingFace热门NLP模型VALOR0316/koth-miner-99：0次下载，1个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/VALOR0316/koth-miner-99",
+    "publishedAt": "2026-09-03T07:04:21+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 1
+    }
+  },
+  "f77cd8cd94b7d00a05a89d7f45d045fbb3e9deac389e10a5fb05b7b4ca4d5fe2": {
+    "id": "f77cd8cd94b7d00a05a89d7f45d045fbb3e9deac389e10a5fb05b7b4ca4d5fe2",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "actlat-vla：nlp 模型更新",
+    "summary": "HuggingFace 上热门NLP模型jungwook2358/actlat-vla暂无下载量与点赞数（均为0）。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/jungwook2358/actlat-vla",
+    "publishedAt": "2026-09-03T07:04:21+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "cd4477084a6127a0cdba2111591cc41fe34f6dadd8678fe8c6924e1f6e416ba9": {
+    "id": "cd4477084a6127a0cdba2111591cc41fe34f6dadd8678fe8c6924e1f6e416ba9",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "gun05：nlp 模型更新",
+    "summary": "HuggingFace 热门 nlp 模型 mrthor102/gun05，0 下载，0 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/mrthor102/gun05",
+    "publishedAt": "2026-09-03T07:04:21+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "4670476ada5e99fe28b3bf95a58ed994bcd435074c10134571162c0646bc8b7b": {
+    "id": "4670476ada5e99fe28b3bf95a58ed994bcd435074c10134571162c0646bc8b7b",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "gun02：nlp 模型更新",
+    "summary": "HuggingFace 热门 nlp 模型 mrthor102/gun02，0 下载，0 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/mrthor102/gun02",
+    "publishedAt": "2026-09-03T07:04:21+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "d750a49bca165758353fc7fac388b1e45950409da939cf1dbed93f0eb75d53ef": {
+    "id": "d750a49bca165758353fc7fac388b1e45950409da939cf1dbed93f0eb75d53ef",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "英雄联盟lol全英雄教学合集，持续更新",
+    "summary": "UP主 lol超神解说lol · 205,288播放 · ",
+    "source": "哔哩哔哩",
+    "sourceUrl": "https://www.bilibili.com/cheese/play/ss9717?query_from=0&search_id=12742100408152817115&search_query=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F+%E4%B8%8A%E5%8D%95+%E5%87%BA%E8%A3%85+%E6%94%BB%E7%95%A5+%E6%95%99%E5%AD%A6",
+    "publishedAt": "1970-01-01T00:00:00+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "lol超神解说lol",
+      "play": 205288,
+      "bvid": "",
+      "duration": ""
+    }
+  },
+  "2123ee78c95df077c955c1d00e940ff4eaf46a7692d5b40965eafd4f702e987a": {
+    "id": "2123ee78c95df077c955c1d00e940ff4eaf46a7692d5b40965eafd4f702e987a",
+    "module": "lol",
+    "seg": "match",
+    "cat": "比赛",
+    "title": "【2026LPL第三赛段】8月28日 TT vs IG",
+    "summary": "UP主 哔哩哔哩英雄联盟赛事 · 2,642,181播放 · 154:46",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117172495976651",
+    "publishedAt": "2026-08-28T09:50:49+00:00",
+    "tags": [
+      "lol",
+      "match",
+      "英雄联盟 LPL LCK 比赛 集锦 复盘"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "哔哩哔哩英雄联盟赛事",
+      "play": 2642181,
+      "bvid": "BV166tA6SECF",
+      "duration": "154:46"
+    }
+  },
+  "583f8b41f50bf3d79bf2d7a5f5f50bd9af1c6274a320307b7d2367a0ce598ad2": {
+    "id": "583f8b41f50bf3d79bf2d7a5f5f50bd9af1c6274a320307b7d2367a0ce598ad2",
+    "module": "lol",
+    "seg": "match",
+    "cat": "比赛",
+    "title": "【2026LPL第三赛段】8月29日 TES vs LGD",
+    "summary": "UP主 哔哩哔哩英雄联盟赛事 · 960,807播放 · 307:55",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117178217008162",
+    "publishedAt": "2026-08-29T10:03:11+00:00",
+    "tags": [
+      "lol",
+      "match",
+      "英雄联盟 LPL LCK 比赛 集锦 复盘"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "哔哩哔哩英雄联盟赛事",
+      "play": 960807,
+      "bvid": "BV1i54y6RE7y",
+      "duration": "307:55"
+    }
+  },
+  "bb4b7035b4dc90a2d083c3e8e6a16f88a1362d06e177ae615e34a50e151e2a14": {
+    "id": "bb4b7035b4dc90a2d083c3e8e6a16f88a1362d06e177ae615e34a50e151e2a14",
+    "module": "lol",
+    "seg": "match",
+    "cat": "比赛",
+    "title": "【2026LPL第三赛段】8月30日 JDG vs WE",
+    "summary": "UP主 哔哩哔哩英雄联盟赛事 · 741,217播放 · 234:17",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117183887705580",
+    "publishedAt": "2026-08-30T10:08:27+00:00",
+    "tags": [
+      "lol",
+      "match",
+      "英雄联盟 LPL LCK 比赛 集锦 复盘"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "哔哩哔哩英雄联盟赛事",
+      "play": 741217,
+      "bvid": "BV1Q9tH6XEwi",
+      "duration": "234:17"
+    }
+  },
+  "4dece25a920a2b76eea1fc8ce0b4fc3e24f74c97d1271b1a9d0e1cbd3163b664": {
+    "id": "4dece25a920a2b76eea1fc8ce0b4fc3e24f74c97d1271b1a9d0e1cbd3163b664",
+    "module": "lol",
+    "seg": "match",
+    "cat": "比赛",
+    "title": "【2026LPL第三赛段】季后赛 JDG vs WE",
+    "summary": "UP主 一叶落zhi天下秋 · 2,611播放 · 152:13",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117185800312949",
+    "publishedAt": "2026-08-31T09:00:00+00:00",
+    "tags": [
+      "lol",
+      "match",
+      "英雄联盟 LPL LCK 比赛 集锦 复盘"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "一叶落zhi天下秋",
+      "play": 2611,
+      "bvid": "BV1BHtp6eEfs",
+      "duration": "152:13"
+    }
+  },
+  "dcc1e31db1238a4ad68644219e9de8e6942f5cc3b89d74d2173afc54dd459d85": {
+    "id": "dcc1e31db1238a4ad68644219e9de8e6942f5cc3b89d74d2173afc54dd459d85",
+    "module": "lol",
+    "seg": "match",
+    "cat": "比赛",
+    "title": "【2026LPL第三赛段】8月28日 TT vs IG-骑士之路",
+    "summary": "UP主 老峰丶联盟搬运工 · 16,068播放 · 98:18",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117172579863780",
+    "publishedAt": "2026-08-28T10:13:53+00:00",
+    "tags": [
+      "lol",
+      "match",
+      "英雄联盟 LPL LCK 比赛 集锦 复盘"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "老峰丶联盟搬运工",
+      "play": 16068,
+      "bvid": "BV1rztA6nEMU",
+      "duration": "98:18"
+    }
+  },
+  "3d09235151aee04885a645438ef8119ab4dffe4fdc59a4e0ebfd913c16bc984f": {
+    "id": "3d09235151aee04885a645438ef8119ab4dffe4fdc59a4e0ebfd913c16bc984f",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "【神超s18】【18.1阵容排行】赛季初实战结合实战八套主流阵容",
+    "summary": "UP主 GoDlike_神超 · 81,321播放 · 1:48",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117193954103324",
+    "publishedAt": "2026-09-01T04:46:24+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "GoDlike_神超",
+      "play": 81321,
+      "bvid": "BV1Q5tg6DE8B",
+      "duration": "1:48"
     }
   }
 }
