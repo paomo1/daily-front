@@ -2708,7 +2708,7 @@
     "summary": "英超 · 赛程 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2494027",
-    "publishedAt": "2026-09-03T08:07:27.750328+00:00",
+    "publishedAt": "2026-09-03T09:51:23.356699+00:00",
     "tags": [
       "英超",
       "赛程"
@@ -2734,7 +2734,7 @@
     "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2506226",
-    "publishedAt": "2026-09-03T08:07:27.750369+00:00",
+    "publishedAt": "2026-09-03T09:51:23.356740+00:00",
     "tags": [
       "西甲",
       "赛程"
@@ -2760,7 +2760,7 @@
     "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2508347",
-    "publishedAt": "2026-09-03T08:07:27.750376+00:00",
+    "publishedAt": "2026-09-03T09:51:23.356746+00:00",
     "tags": [
       "德甲",
       "赛程"
@@ -2786,7 +2786,7 @@
     "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2482160",
-    "publishedAt": "2026-09-03T08:07:27.750381+00:00",
+    "publishedAt": "2026-09-03T09:51:23.356752+00:00",
     "tags": [
       "意甲",
       "赛程"
@@ -2812,7 +2812,7 @@
     "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2489485",
-    "publishedAt": "2026-09-03T08:07:27.750386+00:00",
+    "publishedAt": "2026-09-03T09:51:23.356756+00:00",
     "tags": [
       "法甲",
       "赛程"
@@ -2838,7 +2838,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594644",
-    "publishedAt": "2026-09-03T08:07:27.750390+00:00",
+    "publishedAt": "2026-09-03T09:51:23.356760+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -2864,7 +2864,7 @@
     "summary": "英超 · 战报 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=9ogC38l8nTU",
-    "publishedAt": "2026-09-03T08:07:27.750420+00:00",
+    "publishedAt": "2026-09-03T09:51:23.356789+00:00",
     "tags": [
       "英超",
       "战报"
@@ -2903,7 +2903,7 @@
     "summary": "西甲 · 战报 · 03:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=BJW5gAgk4bg",
-    "publishedAt": "2026-09-03T08:07:27.750429+00:00",
+    "publishedAt": "2026-09-03T09:51:23.356797+00:00",
     "tags": [
       "西甲",
       "战报"
@@ -2942,7 +2942,7 @@
     "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=rl7DwuTaipo",
-    "publishedAt": "2026-09-03T08:07:27.750437+00:00",
+    "publishedAt": "2026-09-03T09:51:23.356804+00:00",
     "tags": [
       "德甲",
       "战报"
@@ -2981,7 +2981,7 @@
     "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=LYOXkS8JqM0",
-    "publishedAt": "2026-09-03T08:07:27.750443+00:00",
+    "publishedAt": "2026-09-03T09:51:23.356811+00:00",
     "tags": [
       "意甲",
       "战报"
@@ -3020,7 +3020,7 @@
     "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=ouMSzjPSIKs",
-    "publishedAt": "2026-09-03T08:07:27.750450+00:00",
+    "publishedAt": "2026-09-03T09:51:23.356819+00:00",
     "tags": [
       "法甲",
       "战报"
@@ -10017,6 +10017,778 @@
       "play": 4530,
       "bvid": "BV1outU6BEie",
       "duration": "3:6"
+    }
+  },
+  "0b0137b1d3afc79f90d72ef3de38f300d38b8ffa890254d9224baf5bedf0f211": {
+    "id": "0b0137b1d3afc79f90d72ef3de38f300d38b8ffa890254d9224baf5bedf0f211",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "sourceUrl": "https://huggingface.co/blog/train-to-paint-with-code",
+    "publishedAt": "2026-09-03T00:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "HuggingFace Blog"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "d27354ccd3d6bba0b89f97cd28aab7491a718f0b6a0291abe2792e56dcd06804": {
+    "id": "d27354ccd3d6bba0b89f97cd28aab7491a718f0b6a0291abe2792e56dcd06804",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "sourceUrl": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "publishedAt": "2026-09-02T13:49:14+00:00",
+    "tags": [
+      "ai-news",
+      "HuggingFace Blog"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "8595013e0602f1ebb0fd9baa59e2a1d27f444d561f306ccbcbac99fa80128d81": {
+    "id": "8595013e0602f1ebb0fd9baa59e2a1d27f444d561f306ccbcbac99fa80128d81",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "sourceUrl": "https://huggingface.co/blog/allenai/benchmirt",
+    "publishedAt": "2026-09-01T21:39:07+00:00",
+    "tags": [
+      "ai-news",
+      "HuggingFace Blog"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "2a9890ec54fe1f90fb4945e2a736041e28ead2bcd6678ec8cc2324fe7ba8fb38": {
+    "id": "2a9890ec54fe1f90fb4945e2a736041e28ead2bcd6678ec8cc2324fe7ba8fb38",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "sourceUrl": "https://huggingface.co/blog/webgpu-kernels",
+    "publishedAt": "2026-09-01T00:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "HuggingFace Blog"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "47e18a1ccdc68ef9b27f0fea2160105d38b642fa7fb73f4d3de9cb9104947cba": {
+    "id": "47e18a1ccdc68ef9b27f0fea2160105d38b642fa7fb73f4d3de9cb9104947cba",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "sourceUrl": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "publishedAt": "2026-08-28T00:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "HuggingFace Blog"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "053468261bf0f3b43a1f0317a29669523f62ef0cbfe7cc3c8b87a00318912bb6": {
+    "id": "053468261bf0f3b43a1f0317a29669523f62ef0cbfe7cc3c8b87a00318912bb6",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "sourceUrl": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "publishedAt": "2026-08-26T00:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "HuggingFace Blog"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "13abf7d335a19a69d48eb2e87ee04b58b41689a5166afe919e02c258972b4947": {
+    "id": "13abf7d335a19a69d48eb2e87ee04b58b41689a5166afe919e02c258972b4947",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "sourceUrl": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "publishedAt": "2026-08-25T15:14:14+00:00",
+    "tags": [
+      "ai-news",
+      "HuggingFace Blog"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "c0380a89f4543219b7b117cb3f5752a03fa9e3375a58bd9e6cbadf1cf21ce8e6": {
+    "id": "c0380a89f4543219b7b117cb3f5752a03fa9e3375a58bd9e6cbadf1cf21ce8e6",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "sourceUrl": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "publishedAt": "2026-08-25T11:39:24+00:00",
+    "tags": [
+      "ai-news",
+      "HuggingFace Blog"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "24bafe363861647ca3dcda63eb416fb95c89b9d99e350526e41cf5c3c9003246": {
+    "id": "24bafe363861647ca3dcda63eb416fb95c89b9d99e350526e41cf5c3c9003246",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Crowd-v1：model 模型更新",
+    "summary": "HuggingFace 上主流模型 Vxtzq/Crowd-v1 下载量达 4,196 次，获 1 个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Vxtzq/Crowd-v1",
+    "publishedAt": "2026-09-03T09:52:04+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 4196,
+      "likes": 1
+    }
+  },
+  "25a106a93176a0baf1b631a73f48d190005d1b0add6f753aeea0bc3bd74a2e0e": {
+    "id": "25a106a93176a0baf1b631a73f48d190005d1b0add6f753aeea0bc3bd74a2e0e",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "fluxer：model 模型更新",
+    "summary": "HuggingFace 上 juergengunz/fluxer 模型暂无下载量，获12个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/juergengunz/fluxer",
+    "publishedAt": "2026-09-03T09:50:10+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 12
+    }
+  },
+  "00bca3eface06ca0b3de6bdb8f8766691337af6de9e18b1736f56d2d839aa463": {
+    "id": "00bca3eface06ca0b3de6bdb8f8766691337af6de9e18b1736f56d2d839aa463",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Sori-1B：audio-text-to-text 模型更新",
+    "summary": "HuggingFace 上音频-文本转文本模型 snkii/Sori-1B，参数量1B，下载量243次，获13个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/snkii/Sori-1B",
+    "publishedAt": "2026-09-03T09:49:14+00:00",
+    "tags": [
+      "huggingface",
+      "audio-text-to-text",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 243,
+      "likes": 13
+    }
+  },
+  "23cbc2bc11c3739d59b7b93e6f3287aefda41de38b830d2ec309cd66c158409f": {
+    "id": "23cbc2bc11c3739d59b7b93e6f3287aefda41de38b830d2ec309cd66c158409f",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "needle2：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 Cactus-Compute/needle2 获 44,831 次下载、263 个赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Cactus-Compute/needle2",
+    "publishedAt": "2026-09-03T09:49:08+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 44831,
+      "likes": 263
+    }
+  },
+  "ccd465d6a81629c2c8ce5d97cd580fdf977cf6bbf1035cf26751bef20f77f690": {
+    "id": "ccd465d6a81629c2c8ce5d97cd580fdf977cf6bbf1035cf26751bef20f77f690",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "MemAgent-PTE-Qwen3-30B-A3B：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 zeliang0426/MemAgent-PTE-Qwen3-30B-A3B 下载量4296，获0赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/zeliang0426/MemAgent-PTE-Qwen3-30B-A3B",
+    "publishedAt": "2026-09-03T09:47:43+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 4296,
+      "likes": 0
+    }
+  },
+  "ed3a7c8e598471361a9dcf9ca0259670151d7d93e03a24769d418501e0b23afa": {
+    "id": "ed3a7c8e598471361a9dcf9ca0259670151d7d93e03a24769d418501e0b23afa",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "OpenAirAI-X：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 OpenRussianAI/OpenAirAI-X 下载量达1257次，获1个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/OpenRussianAI/OpenAirAI-X",
+    "publishedAt": "2026-09-03T09:41:49+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1257,
+      "likes": 1
+    }
+  },
+  "a414147c4a2b702b59b1ccc6098f0cc183998cd1837fdd9a6c7922b86ed6d009": {
+    "id": "a414147c4a2b702b59b1ccc6098f0cc183998cd1837fdd9a6c7922b86ed6d009",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "vendor-comparison-tool：model 模型更新",
+    "summary": "HuggingFace 上 Sundaycoil 的 vendor-comparison-tool 模型暂无下载量，获 12 个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/sundaycoil/vendor-comparison-tool",
+    "publishedAt": "2026-09-03T09:39:20+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 12
+    }
+  },
+  "f1744b4efff1f0d5d6d835e5102a856bfd64d2a7dfa84cc90d1025af6b0dc838": {
+    "id": "f1744b4efff1f0d5d6d835e5102a856bfd64d2a7dfa84cc90d1025af6b0dc838",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Test：model 模型更新",
+    "summary": "HuggingFace 上 TenjinDas/Test 模型下载量达 8327 次，但获赞数为 0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/TenjinDas/Test",
+    "publishedAt": "2026-09-03T09:36:50+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 8327,
+      "likes": 0
+    }
+  },
+  "dc6b4687c612c97bdba20306eee9a88c5f70bdf4418aaeffa60f89285737bb47": {
+    "id": "dc6b4687c612c97bdba20306eee9a88c5f70bdf4418aaeffa60f89285737bb47",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "qwen3-4b-base-dapo-v4：model 模型更新",
+    "summary": "HuggingFace热门模型ReliquaryForge/qwen3-4b-base-dapo-v4下载量达86.6万，获2个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/ReliquaryForge/qwen3-4b-base-dapo-v4",
+    "publishedAt": "2026-09-03T09:36:09+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 865991,
+      "likes": 2
+    }
+  },
+  "d83760b15e65a2f9886b68bdaf80c23f50ea9de8df05da131d78da575c361313": {
+    "id": "d83760b15e65a2f9886b68bdaf80c23f50ea9de8df05da131d78da575c361313",
+    "module": "ai",
+    "seg": null,
+    "cat": "厂商动态·阿里通义千问",
+    "title": "阿里通义千问 发布/更新 Qwen-Drive-1.0-4B（image-text-to-text）",
+    "summary": "阿里通义千问发布新模型Qwen/Qwen-Drive-1.0-4B，Hugging Face平台上线，获47次下载、16个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Qwen/Qwen-Drive-1.0-4B",
+    "publishedAt": "2026-09-02T06:31:52+00:00",
+    "tags": [
+      "huggingface",
+      "vendor",
+      "Qwen"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 47,
+      "likes": 16,
+      "vendor": "阿里通义千问"
+    }
+  },
+  "f940e4a4918a9590b38f4996c6a19e858566dfbfe419baf3f292c9052fedf49c": {
+    "id": "f940e4a4918a9590b38f4996c6a19e858566dfbfe419baf3f292c9052fedf49c",
+    "module": "ai",
+    "seg": null,
+    "cat": "厂商动态·阿里通义千问",
+    "title": "阿里通义千问 发布/更新 Qwen3.8-Flash-Next-FP8（image-text-to-text）",
+    "summary": "阿里通义千问发布新模型Qwen3.8-Flash-Next-FP8，Hugging Face平台下载量超16万次，获186赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next-FP8",
+    "publishedAt": "2026-08-31T08:19:15+00:00",
+    "tags": [
+      "huggingface",
+      "vendor",
+      "Qwen"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 161716,
+      "likes": 186,
+      "vendor": "阿里通义千问"
+    }
+  },
+  "83b295ef548d3002ac96f51094380010c0ac93a5bd796828ea5d9f843649e811": {
+    "id": "83b295ef548d3002ac96f51094380010c0ac93a5bd796828ea5d9f843649e811",
+    "module": "ai",
+    "seg": null,
+    "cat": "厂商动态·阿里通义千问",
+    "title": "阿里通义千问 发布/更新 Qwen3.8-Flash-Next（image-text-to-text）",
+    "summary": "阿里通义千问发布新模型Qwen3.8-Flash-Next，Hugging Face平台下载量超26.3万，获4756赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+    "publishedAt": "2026-08-27T05:03:36+00:00",
+    "tags": [
+      "huggingface",
+      "vendor",
+      "Qwen"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 263287,
+      "likes": 4756,
+      "vendor": "阿里通义千问"
+    }
+  },
+  "939ac1168288679379f4c7168e9b593215975fe6d1d66a9631a5ac2ab2699f61": {
+    "id": "939ac1168288679379f4c7168e9b593215975fe6d1d66a9631a5ac2ab2699f61",
+    "module": "ai",
+    "seg": null,
+    "cat": "厂商动态·DeepSeek",
+    "title": "DeepSeek 发布/更新 DeepSeek-V4-Flash-Vision-Exp（image-text-to-text）",
+    "summary": "DeepSeek（deepseek-ai）发布视觉增强模型DeepSeek-V4-Flash-Vision-Exp，Hugging Face 上下载量达5.46万，获517赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+    "publishedAt": "2026-09-01T09:22:10+00:00",
+    "tags": [
+      "huggingface",
+      "vendor",
+      "deepseek-ai"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 54571,
+      "likes": 517,
+      "vendor": "DeepSeek"
+    }
+  },
+  "8c02543db71437e0a40314b47171d9eac230bdb1b59b1d1a7d3741ee12f7dbbe": {
+    "id": "8c02543db71437e0a40314b47171d9eac230bdb1b59b1d1a7d3741ee12f7dbbe",
+    "module": "ai",
+    "seg": null,
+    "cat": "厂商动态·DeepSeek",
+    "title": "DeepSeek 发布/更新 DeepSeek-V4-Pro-0813（text-generation）",
+    "summary": "DeepSeek发布新模型DeepSeek-V4-Pro-0813，Hugging Face下载量达14.3万次，获797赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+    "publishedAt": "2026-08-13T16:28:28+00:00",
+    "tags": [
+      "huggingface",
+      "vendor",
+      "deepseek-ai"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 142846,
+      "likes": 797,
+      "vendor": "DeepSeek"
+    }
+  },
+  "77f00f68a9809de7baf51c584266d9be0acdc16499cfb22cf51cac34845ad38b": {
+    "id": "77f00f68a9809de7baf51c584266d9be0acdc16499cfb22cf51cac34845ad38b",
+    "module": "ai",
+    "seg": null,
+    "cat": "厂商动态·DeepSeek",
+    "title": "DeepSeek 发布/更新 DeepSeek-V4-Flash-0731（text-generation）",
+    "summary": "DeepSeek发布新模型DeepSeek-V4-Flash-0731，Hugging Face下载量超442万，获3867赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+    "publishedAt": "2026-08-01T03:07:41+00:00",
+    "tags": [
+      "huggingface",
+      "vendor",
+      "deepseek-ai"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 4425868,
+      "likes": 3867,
+      "vendor": "DeepSeek"
+    }
+  },
+  "1efd727ee5e22b0b5619d5413efe6f87bf589153db67d55b94364656081e71cc": {
+    "id": "1efd727ee5e22b0b5619d5413efe6f87bf589153db67d55b94364656081e71cc",
+    "module": "ai",
+    "seg": null,
+    "cat": "厂商动态·Kimi/月之暗面",
+    "title": "Kimi/月之暗面 发布/更新 Kimi-K3（image-text-to-text）",
+    "summary": "月之暗面发布新模型Kimi-K3，下载量超261万，获1.1万点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/moonshotai/Kimi-K3",
+    "publishedAt": "2026-09-02T02:22:41+00:00",
+    "tags": [
+      "huggingface",
+      "vendor",
+      "moonshotai"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 2617373,
+      "likes": 11158,
+      "vendor": "Kimi/月之暗面"
+    }
+  },
+  "f35275017355d862e344e37ed1013815d3658cb42bb8737c8bd962a44a9e5e5e": {
+    "id": "f35275017355d862e344e37ed1013815d3658cb42bb8737c8bd962a44a9e5e5e",
+    "module": "ai",
+    "seg": null,
+    "cat": "厂商动态·Kimi/月之暗面",
+    "title": "Kimi/月之暗面 发布/更新 Kimi-K2.7-Code（image-text-to-text）",
+    "summary": "月之暗面发布新模型Kimi-K2.7-Code，下载量超22.6万，获1377赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+    "publishedAt": "2026-06-15T07:49:29+00:00",
+    "tags": [
+      "huggingface",
+      "vendor",
+      "moonshotai"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 226465,
+      "likes": 1377,
+      "vendor": "Kimi/月之暗面"
+    }
+  },
+  "8f3329f315be205acce80e26be83c98b90e27649cbe686d41e6b6132e028cc6e": {
+    "id": "8f3329f315be205acce80e26be83c98b90e27649cbe686d41e6b6132e028cc6e",
+    "module": "ai",
+    "seg": null,
+    "cat": "厂商动态·Kimi/月之暗面",
+    "title": "Kimi/月之暗面 发布/更新 Kimi-K2.6（image-text-to-text）",
+    "summary": "月之暗面发布新模型Kimi-K2.6，下载量超62.7万，获1598赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/moonshotai/Kimi-K2.6",
+    "publishedAt": "2026-05-19T09:01:54+00:00",
+    "tags": [
+      "huggingface",
+      "vendor",
+      "moonshotai"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 627538,
+      "likes": 1598,
+      "vendor": "Kimi/月之暗面"
+    }
+  },
+  "98bc87ff98a8302c135e5700bdabd96d10d3c22003c612fc2610c1c4caee70f4": {
+    "id": "98bc87ff98a8302c135e5700bdabd96d10d3c22003c612fc2610c1c4caee70f4",
+    "module": "ai",
+    "seg": null,
+    "cat": "厂商动态·百川",
+    "title": "百川 发布/更新 Baichuan-M3-235B-Q4_K_M-GGUF（text-generation）",
+    "summary": "百川发布Baichuan-M3-235B-Q4_K_M-GGUF模型，下载量140次，获7赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/baichuan-inc/Baichuan-M3-235B-Q4_K_M-GGUF",
+    "publishedAt": "2026-02-09T12:20:29+00:00",
+    "tags": [
+      "huggingface",
+      "vendor",
+      "baichuan-inc"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 140,
+      "likes": 7,
+      "vendor": "百川"
+    }
+  },
+  "77c7d651f85d4207c101decbf8e9bf980fad77521022438684fb5341d1a487d4": {
+    "id": "77c7d651f85d4207c101decbf8e9bf980fad77521022438684fb5341d1a487d4",
+    "module": "ai",
+    "seg": null,
+    "cat": "厂商动态·百川",
+    "title": "百川 发布/更新 Baichuan-M2-32B-Q4_K_M-GGUF（text-generation）",
+    "summary": "百川发布Baichuan-M2-32B-Q4_K_M-GGUF模型，下载量184次，获3赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/baichuan-inc/Baichuan-M2-32B-Q4_K_M-GGUF",
+    "publishedAt": "2026-02-09T08:09:14+00:00",
+    "tags": [
+      "huggingface",
+      "vendor",
+      "baichuan-inc"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 184,
+      "likes": 3,
+      "vendor": "百川"
+    }
+  },
+  "80c0c0b3bc58bd86e30b914a0c28b2a8ff5cd9cd925487e64f63c73c2ba019d1": {
+    "id": "80c0c0b3bc58bd86e30b914a0c28b2a8ff5cd9cd925487e64f63c73c2ba019d1",
+    "module": "ai",
+    "seg": null,
+    "cat": "厂商动态·百川",
+    "title": "百川 发布/更新 Baichuan-M3-235B-GPTQ-INT4（text-generation）",
+    "summary": "百川发布Baichuan-M3-235B-GPTQ-INT4模型，下载量5031次，获11赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/baichuan-inc/Baichuan-M3-235B-GPTQ-INT4",
+    "publishedAt": "2026-02-09T03:45:45+00:00",
+    "tags": [
+      "huggingface",
+      "vendor",
+      "baichuan-inc"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 5031,
+      "likes": 11,
+      "vendor": "百川"
+    }
+  },
+  "dd5f2644a902e1741e48f0d2de80c4b32b634421e6e79c1d5a913e319465d8f4": {
+    "id": "dd5f2644a902e1741e48f0d2de80c4b32b634421e6e79c1d5a913e319465d8f4",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "英雄联盟lol全英雄教学合集，持续更新",
+    "summary": "UP主 lol超神解说lol · 205,297播放 · ",
+    "source": "哔哩哔哩",
+    "sourceUrl": "https://www.bilibili.com/cheese/play/ss9717?query_from=0&search_id=5135747031152674396&search_query=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F+%E4%B8%8A%E5%8D%95+%E5%87%BA%E8%A3%85+%E6%94%BB%E7%95%A5+%E6%95%99%E5%AD%A6",
+    "publishedAt": "1970-01-01T00:00:00+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "lol超神解说lol",
+      "play": 205297,
+      "bvid": "",
+      "duration": ""
+    }
+  },
+  "10d129ef701e866e2b4121d2ef194525d8ff8a55eeb77a3bfd9be4148ba14237": {
+    "id": "10d129ef701e866e2b4121d2ef194525d8ff8a55eeb77a3bfd9be4148ba14237",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "现版本克烈的上分出装最合适的装备",
+    "summary": "UP主 鱼哥克烈 · 347播放 · 5:35",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117194658746589",
+    "publishedAt": "2026-09-01T07:46:52+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "鱼哥克烈",
+      "play": 347,
+      "bvid": "BV1oMtG6YE7S",
+      "duration": "5:35"
+    }
+  },
+  "26da54e9938ff80a0330bc32de6f7a7b1520824ef6049ed70d22ad471cd1d285": {
+    "id": "26da54e9938ff80a0330bc32de6f7a7b1520824ef6049ed70d22ad471cd1d285",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "俄洛伊最新出装教学（天赋+出门装+装备教学）",
+    "summary": "UP主 稀饭海兽 · 41,205播放 · 2:44",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av1654278981",
+    "publishedAt": "2024-05-09T01:00:00+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "稀饭海兽",
+      "play": 41205,
+      "bvid": "BV1jE421V7eb",
+      "duration": "2:44"
+    }
+  },
+  "b57f25f00674111cf3ea23f713cd8b5ed75c3e8e19c067a4ca52a3cec64d7e10": {
+    "id": "b57f25f00674111cf3ea23f713cd8b5ed75c3e8e19c067a4ca52a3cec64d7e10",
+    "module": "lol",
+    "seg": "match",
+    "cat": "比赛",
+    "title": "BFX vs DK 败者放假！LCK最后一张世界赛门票资格战！42分钟Smash输出仅1万2许哥人麻了！Game 1 | 2026 LCK季后赛",
+    "summary": "UP主 呆梦demo · 19,047播放 · 12:21",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117206302070686",
+    "publishedAt": "2026-09-03T09:09:01+00:00",
+    "tags": [
+      "lol",
+      "match",
+      "英雄联盟 LPL LCK 比赛 集锦 复盘"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "呆梦demo",
+      "play": 19047,
+      "bvid": "BV1hitR65EDX",
+      "duration": "12:21"
+    }
+  },
+  "9958dc167e45b42d66cbb70e9430b3d6e2b4de03d68725594246c7e0c15bd48a": {
+    "id": "9958dc167e45b42d66cbb70e9430b3d6e2b4de03d68725594246c7e0c15bd48a",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "云顶S18第二周阵容排行，九五&amp;野兽/裁决八四登顶",
+    "summary": "UP主 洛城烟雨楼 · 5,350播放 · 2:5",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117204053923336",
+    "publishedAt": "2026-09-02T23:33:40+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "洛城烟雨楼",
+      "play": 5350,
+      "bvid": "BV13gtQ6vEAk",
+      "duration": "2:5"
     }
   }
 }
