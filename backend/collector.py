@@ -1,4 +1,4 @@
-"""
+﻿"""
 每日前线 数据采集器（方案 A · 静态 JSON 版）
 ==========================================
 功能：抓取三模块（LOL / 足球 / AI）的资讯，写入静态 JSON 文件。
@@ -502,11 +502,23 @@ class AICollector(BaseCollector):
         ("https://www.qbitai.com/feed", "量子位"),
         ("https://www.jiqizhixin.com/rss", "机器之心"),
         ("https://36kr.com/feed", "36氪"),
+        ("https://huggingface.co/blog/feed.xml", "HuggingFace Blog"),  # 业内最具影响力
+    ]
+
+    # 国内主流大模型厂商在 HuggingFace 上的作者 ID + 厂商中文名
+    # 用于定向拉取最新模型发布/更新（覆盖 Qwen/DeepSeek/Kimi/智谱/百川）
+    HF_VENDORS = [
+        ("Qwen",        "阿里通义千问"),
+        ("deepseek-ai", "DeepSeek"),
+        ("moonshotai",  "Kimi/月之暗面"),
+        ("THUDM",       "智谱GLM"),
+        ("baichuan-inc","百川"),
     ]
 
     def fetch(self) -> Iterable[dict]:
         yield from self._fetch_feeds()
-        yield from self._fetch_hf_models()
+        yield from self._fetch_hf_popular()  # 主流行模型（按下载量）
+        yield from self._fetch_hf_vendor()   # 国内厂商动态
         yield from self._fetch_arxiv_papers()
 
     def _fetch_feeds(self) -> Iterable[dict]:
@@ -531,38 +543,93 @@ class AICollector(BaseCollector):
             except Exception as e:
                 logger.warning(f"AI feed {source_name} 失败: {e}")
 
-    def _fetch_hf_models(self) -> Iterable[dict]:
+    def _fetch_hf_popular(self) -> Iterable[dict]:
+        """拉最近活跃的主流行模型：sort=lastModified + downloads/likes 门槛过滤边角"""
         url = f"{self.HF_API}/models"
-        params = {"sort": "lastModified", "direction": -1, "limit": 20}
+        # 拉 200 条来挑过阈值的主模型，小模型边角料靠 downloads 过滤剔除
+        params = {"sort": "lastModified", "direction": -1, "limit": 200}
         headers = {"Authorization": f"Bearer {HF_TOKEN}"} if HF_TOKEN else {}
         try:
             data = http_get(url, headers=headers, params=params).json()
         except Exception as e:
-            logger.warning(f"HF models 失败: {e}")
+            logger.warning(f"HF popular 失败: {e}")
             return
 
-        for m in data[:15]:
+        picked = 0
+        for m in data:
             model_id = m.get("id", "")
-            pipeline = (m.get("pipeline_tag") or "nlp")
+            pipeline = (m.get("pipeline_tag") or "model")
             last_mod = m.get("lastModified")
+            downloads = m.get("downloads", 0) or 0
+            likes = m.get("likes", 0) or 0
             if not last_mod or not model_id:
                 continue
-            title = f"{model_id.split('/')[-1]}：{pipeline} 模型更新"
-            summary = dashscope_summarize(
-                f"HuggingFace 热门 {pipeline} 模型 {model_id}，{m.get('downloads', 0):,} 下载，{m.get('likes', 0)} 赞"
-            )
+            # 主流行模型：下载 >= 1000 或赞 >= 10（避免 0 下载 + 0 赞的边角）
+            if downloads < 1000 and likes < 10:
+                continue
+            picked += 1
             yield {
                 "module": "ai",
                 "cat": "模型/技术",
-                "title": title,
-                "summary": summary,
+                "title": f"{model_id.split('/')[-1]}：{pipeline} 模型更新",
+                "summary": dashscope_summarize(
+                    f"HuggingFace 主流 {pipeline} 模型 {model_id}，{downloads:,} 下载，{likes} 赞"
+                ),
                 "body": None,
                 "source": "HuggingFace",
                 "sourceUrl": f"https://huggingface.co/{model_id}",
                 "publishedAt": last_mod,
-                "tags": ["huggingface", pipeline],
-                "extra": {"downloads": m.get("downloads", 0), "likes": m.get("likes", 0)},
+                "tags": ["huggingface", pipeline, "popular"],
+                "extra": {"downloads": downloads, "likes": likes},
             }
+            if picked >= 12:
+                break
+
+    def _fetch_hf_vendor(self) -> Iterable[dict]:
+        """按厂商作者 ID 定向拉最新模型：覆盖 Qwen/DeepSeek/Kimi/智谱/百川"""
+        headers = {"Authorization": f"Bearer {HF_TOKEN}"} if HF_TOKEN else {}
+        picked_total = 0
+        for author, vendor_cn in self.HF_VENDORS:
+            try:
+                url = f"{self.HF_API}/models"
+                params = {"author": author, "sort": "lastModified",
+                          "direction": -1, "limit": 4}
+                data = http_get(url, headers=headers, params=params).json()
+            except Exception as e:
+                logger.warning(f"HF vendor {author} 失败: {e}")
+                continue
+
+            for m in (data or [])[:3]:
+                model_id = m.get("id", "")
+                pipeline = (m.get("pipeline_tag") or "model")
+                last_mod = m.get("lastModified")
+                downloads = m.get("downloads", 0) or 0
+                likes = m.get("likes", 0) or 0
+                if not last_mod or not model_id:
+                    continue
+                yield {
+                    "module": "ai",
+                    "cat": f"厂商动态·{vendor_cn}",
+                    "title": f"{vendor_cn} 发布/更新 {model_id.split('/')[-1]}（{pipeline}）",
+                    "summary": dashscope_summarize(
+                        f"{vendor_cn}（HF 作者 {author}）发布/更新模型 {model_id}，"
+                        f"{downloads:,} 下载，{likes} 赞"
+                    ),
+                    "body": None,
+                    "source": "HuggingFace",
+                    "sourceUrl": f"https://huggingface.co/{model_id}",
+                    "publishedAt": last_mod,
+                    "tags": ["huggingface", "vendor", author],
+                    "extra": {"downloads": downloads, "likes": likes, "vendor": vendor_cn},
+                }
+                picked_total += 1
+                if picked_total >= 12:
+                    return
+
+    def _fetch_hf_models(self) -> Iterable[dict]:
+        """旧入口占位（保留兼容）——新代码请调用 _fetch_hf_popular + _fetch_hf_vendor"""
+        yield from self._fetch_hf_popular()
+        yield from self._fetch_hf_vendor()
 
     def _fetch_arxiv_papers(self) -> Iterable[dict]:
         url = self.ARXIV_API
