@@ -10,11 +10,10 @@
   - 前端（每日前线-可点原型.html）fetch('./data/today.json') 即可拿到最新数据；
     本地双击打开拿不到时，自动回退到页面内置的真实快照。
 
-数据源（全部直连可达，无需代理）：
-  - 足球：TheSportsDB（免 key，覆盖英超/西甲/德甲/意甲/法甲/欧冠，抓赛程 + 战报）
-  - AI：行业 RSS（TechCrunch / VentureBeat / 量子位 / 机器之心 / 36氪）
-        + HuggingFace Hub API + arXiv（公开，无需 key）；用 LLM 重组成「每日 AI 行业日报」
-  - LOL：哔哩哔哩搜索 UGC（海斗黑科技 / 峡谷攻略 / 比赛复盘 / 云顶阵容）
+数据源：
+  - 足球：API-Football（免费 100 req/天，覆盖五大联赛 + 欧冠）
+  - AI：HuggingFace Hub API + arXiv（公开，无需 key）
+  - LOL：Reddit / 拳头官博 RSS（公开）
 
 运行：
   本地：  python backend/collector.py
@@ -26,21 +25,6 @@
 from __future__ import annotations
 
 import os
-
-
-def _env_clean(v: str) -> str:
-    v = v or ""
-    return v.replace(chr(0xFEFF), "").replace(chr(0xFFFD), "").strip()
-
-
-# 采集所有源均为直连可达（B站 / TheSportsDB / DashScope），无需代理。
-# 必须在 import openai 之前清除代理环境变量——openai 在 import 时即读取并缓存
-# HTTPS_PROXY，GitHub Actions runner 自带该变量会触发新版 openai+httpx 的
-# `proxies` 参数崩溃（TypeError: unexpected keyword argument 'proxies'）。
-for _p in ("HTTPS_PROXY", "HTTP_PROXY", "ALL_PROXY", "https_proxy", "http_proxy", "all_proxy"):
-    os.environ.pop(_p, None)
-
-import re
 import sys
 import json
 import time
@@ -51,13 +35,13 @@ from abc import ABC, abstractmethod
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from typing import Any, Iterable
-from urllib.parse import urljoin, urlencode
+from urllib.parse import urljoin
 
 import requests
 import feedparser
 from dateutil import parser as dtparser
 from dotenv import load_dotenv
-from openai import OpenAI, APITimeoutError, APIConnectionError, RateLimitError
+from openai import OpenAI
 from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
 
 # ============================================================
@@ -65,14 +49,14 @@ from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_excep
 # ============================================================
 load_dotenv(Path(__file__).resolve().parent / ".env")  # 总是读 backend/.env，无论从仓库根还是 backend 目录运行
 
-DASHSCOPE_API_KEY = _env_clean(os.getenv("DASHSCOPE_API_KEY", ""))
-DASHSCOPE_BASE_URL = _env_clean(os.getenv("DASHSCOPE_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1"))
-DASHSCOPE_MODEL = _env_clean(os.getenv("DASHSCOPE_MODEL", "qwen-plus"))
+DASHSCOPE_API_KEY = os.getenv("DASHSCOPE_API_KEY", "")
+DASHSCOPE_BASE_URL = os.getenv("DASHSCOPE_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1")
+DASHSCOPE_MODEL = os.getenv("DASHSCOPE_MODEL", "qwen-plus")
 
-FOOTBALL_API_KEY = _env_clean(os.getenv("FOOTBALL_API_KEY", ""))
-FOOTBALL_BASE_URL = _env_clean(os.getenv("FOOTBALL_BASE_URL", "https://v3.football.api-sports.io"))
+FOOTBALL_API_KEY = os.getenv("FOOTBALL_API_KEY", "")
+FOOTBALL_BASE_URL = os.getenv("FOOTBALL_BASE_URL", "https://v3.football.api-sports.io")
 
-HF_TOKEN = _env_clean(os.getenv("HF_TOKEN", ""))
+HF_TOKEN = os.getenv("HF_TOKEN", "")
 ARXIV_MAX_RESULTS = int(os.getenv("ARXIV_MAX_RESULTS", "20"))
 
 ENABLE_LOL = os.getenv("ENABLE_LOL", "true").lower() == "true"
@@ -82,8 +66,7 @@ ENABLE_AI = os.getenv("ENABLE_AI", "true").lower() == "true"
 MAX_FETCH_PER_SOURCE = int(os.getenv("MAX_FETCH_PER_SOURCE", "50"))
 KEEP_DAYS = int(os.getenv("KEEP_DAYS", "7"))
 
-HTTP_TIMEOUT = 20          # RSS / 普通 HTTP 请求超时（秒）
-LLM_TIMEOUT = 120           # LLM 调用超时（秒）：日报生成 prompt 大、出 token 多，20s 会 Request timed out
+HTTP_TIMEOUT = 20
 
 # 数据目录：固定写到仓库根目录的 data/（与前端 fetch('./data/today.json') 对应）
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -100,7 +83,7 @@ logging.basicConfig(
 logger = logging.getLogger("daily-front")
 
 # OpenAI 兼容客户端（DashScope），仅用于摘要；无 key 时跳过摘要
-llm = OpenAI(api_key=DASHSCOPE_API_KEY, base_url=DASHSCOPE_BASE_URL, timeout=LLM_TIMEOUT) if DASHSCOPE_API_KEY else None
+llm = OpenAI(api_key=DASHSCOPE_API_KEY, base_url=DASHSCOPE_BASE_URL, timeout=HTTP_TIMEOUT) if DASHSCOPE_API_KEY else None
 
 
 # ============================================================
@@ -139,36 +122,6 @@ def http_get(url: str, headers: dict | None = None, params: dict | None = None) 
     return r
 
 
-# 清理会导致 openai SDK ascii 编码崩溃的字符（UTF-8 BOM / Unicode 替换字符 / 控制符）
-_BOM = chr(0xFEFF)
-_REPL = chr(0xFFFD)
-
-
-def _clean(s: str) -> str:
-    if not s:
-        return ""
-    s = s.replace(_BOM, "").replace(_REPL, "")
-    # 去掉 ASCII 范围外的不可见控制字符（保留换行/制表）
-    s = "".join(ch for ch in s if ch in ("\n", "\t") or ord(ch) >= 32)
-    return s.strip()
-
-
-@retry(
-    stop=stop_after_attempt(3),
-    wait=wait_exponential(multiplier=1, min=2, max=15),
-    retry=retry_if_exception_type((APITimeoutError, APIConnectionError, RateLimitError)),
-    reraise=True,
-)
-def _llm_chat(messages: list[dict], *, max_tokens: int, temperature: float = 0.3):
-    """统一的 LLM 调用入口，带网络异常自动重试（JSON 解析错误不重试）。"""
-    return llm.chat.completions.create(
-        model=DASHSCOPE_MODEL,
-        messages=messages,
-        temperature=temperature,
-        max_tokens=max_tokens,
-    )
-
-
 def dashscope_summarize(text: str, max_words: int = 60) -> str:
     """用 qwen-plus 把长文本压成 1-2 句中文摘要；无 key 或失败则截断原文"""
     if not text or len(text) < 50:
@@ -176,81 +129,19 @@ def dashscope_summarize(text: str, max_words: int = 60) -> str:
     if llm is None:
         return text[:120].strip()
     try:
-        resp = _llm_chat(
-            [
+        resp = llm.chat.completions.create(
+            model=DASHSCOPE_MODEL,
+            messages=[
                 {"role": "system", "content": f"你是一名中文体育/游戏/科技资讯编辑，请把下面内容压缩成 {max_words} 字以内的中文摘要，保留关键事实和数字。"},
-                {"role": "user", "content": _clean(text[:1500])},
+                {"role": "user", "content": text[:1500]},
             ],
-            max_tokens=200,
             temperature=0.3,
+            max_tokens=200,
         )
         return (resp.choices[0].message.content or "").strip()
     except Exception as e:
         logger.warning(f"summarize 失败，使用截断原文: {e}")
         return text[:120].strip()
-
-
-def dashscope_daily(items: list[dict]) -> dict | None:
-    """把当天抓到的 AI 条目，用 qwen-plus 重组成「每日 AI 行业日报」结构。
-
-    返回 {insight, headline:{title,summary,source,sourceUrl},
-          sections:[{name, items:[{title,summary,source,sourceUrl}]}]}
-    无 key 或失败返回 None（前端自动降级为平铺）。
-    """
-    if not items:
-        return None
-    if llm is None:
-        logger.info("无 DASHSCOPE_API_KEY，跳过 AI 日报编辑（前端降级平铺）")
-        return None
-
-    brief = []
-    for it in items[:40]:
-        brief.append(
-            f"- [{it.get('cat', '')}] {it.get('title', '')}"
-            f"｜{it.get('summary', '')[:80]}｜来源:{it.get('source', '')}"
-        )
-    prompt = "\n".join(brief)
-
-    sys_prompt = (
-        "你是资深 AI 行业分析师，负责把下面一堆零散的 AI 资讯编辑成一份"
-        "「每日 AI 行业日报」。请只输出 JSON（不要 markdown 代码块、不要解释），结构如下：\n"
-        "{\n"
-        '  "insight": "一句话今日洞察，点出今天 AI 圈最值得关注的趋势（30字内）",\n'
-        '  "headline": {"title": "", "summary": "", "source": "", "sourceUrl": ""},\n'
-        '  "sections": [\n'
-        '    {"name": "最新科技", "items": [{"title":"","summary":"","source":"","sourceUrl":""}]},\n'
-        '    {"name": "行业动态", "items": [{"title":"","summary":"","source":"","sourceUrl":""}]},\n'
-        '    {"name": "知识前沿", "items": [{"title":"","summary":"","source":"","sourceUrl":""}]},\n'
-        '    {"name": "应用落地", "items": [{"title":"","summary":"","source":"","sourceUrl":""}]}\n'
-        "  ]\n"
-        "}\n"
-        "硬性要求：\n"
-        "1. 每条 item 的 title/summary/source/sourceUrl 必须原样照搬自输入列表，严禁编造或改写。\n"
-        "2. headline 选今天最重要/最具代表性的一条；headline 与 sections 里的条目尽量不重复。\n"
-        "3. 每个 section 放 2-4 条；按语义归类（科技突破→最新科技，公司/融资/政策→行业动态，"
-        "论文/方法论→知识前沿，产品/场景落地→应用落地）。\n"
-        "4. 若某 section 无对应内容，返回空 items 数组即可。"
-    )
-    try:
-        resp = _llm_chat(
-            [
-                {"role": "system", "content": sys_prompt},
-                {"role": "user", "content": _clean(prompt[:6000])},
-            ],
-            max_tokens=1400,
-            temperature=0.4,
-        )
-        text = (resp.choices[0].message.content or "").strip()
-        # 去掉可能的 ```json ... ``` 包裹
-        if text.startswith("```"):
-            text = text.strip("`")
-            if text.lower().startswith("json"):
-                text = text[4:]
-            text = text.strip()
-        return json.loads(text)
-    except Exception as e:
-        logger.warning(f"AI 日报编辑失败，前端将降级平铺: {e}")
-        return None
 
 
 def canon(raw: dict) -> dict:
@@ -303,19 +194,11 @@ class Store:
 
     def merge(self, items: list[dict]) -> int:
         added = 0
-        updated = 0
         for it in items:
             h = it["id"]
             if h not in self.archive:
                 self.archive[h] = it
                 added += 1
-            elif it.get("module") == "football":
-                # 足球每次重抓会带最新 body/points/extra（同一赛事每天 hash 相同），
-                # 强制覆盖旧条目，否则 today.json 永远是老版本的空 body
-                self.archive[h] = it
-                updated += 1
-        if updated:
-            logger.info(f"football 强制更新 {updated} 条已有赛事")
         return added
 
     def save(self) -> int:
@@ -358,126 +241,59 @@ class BaseCollector(ABC):
 class FootballCollector(BaseCollector):
     module = "football"
 
-    # TheSportsDB 免费层：路径里自带公开测试 key "3"，无需注册、无需 key、零人机验证。
-    # 免费层覆盖英超/西甲/德甲/意甲/法甲/欧冠等主流联赛，限速约 1 请求/秒，故每次请求后 sleep。
-    # 注意：免费层提供「赛程(next) / 历史结果(past)」，不含实时比分推送；时间为 UTC，前端 +8 显示北京时间。
-    BASE = "https://www.thesportsdb.com/api/v1/json/3"
-    # (thesportsdb 联赛 id, 中文名) —— 与前端 renderFootball 的 chip 过滤对齐
-    LEAGUES = [
-        (4328, "英超"), (4335, "西甲"), (4331, "德甲"),
-        (4332, "意甲"), (4334, "法甲"), (4480, "欧冠"),
-    ]
-
-    def __init__(self):
-        self.struct = {"fixtures": [], "results": []}
-
     def fetch(self) -> Iterable[dict]:
-        for lid, zh in self.LEAGUES:
-            # 下一轮赛程
-            try:
-                nj = http_get(f"{self.BASE}/eventsnextleague.php", params={"id": lid}).json()
-                for e in (nj.get("events") or [])[:6]:
-                    self.struct["fixtures"].append(self._map(e, zh, finished=False))
-            except Exception as ex:
-                logger.warning(f"足球 赛程[{zh}] 失败: {ex}")
-            # 上一轮战报（past 接口返回已结束赛事，过滤 strStatus 兜底）
-            # 免费 key "3" 不提供进球者/首发等细节（需 Patreon 付费 key），
-            # 详情页 body/points 由 _to_item 用 eventspastleague 自带字段（轮次/场地/日期）拼
-            try:
-                pj = http_get(f"{self.BASE}/eventspastleague.php", params={"id": lid}).json()
-                evs = pj.get("events") or []
-                finished = [e for e in evs if str(e.get("strStatus", "")).lower() in ("match finished", "finished")]
-                for e in (finished or evs)[:5]:
-                    row = self._map(e, zh, finished=True)
-                    self.struct["results"].append(row)
-            except Exception as ex:
-                logger.warning(f"足球 战报[{zh}] 失败: {ex}")
-            time.sleep(1.0)  # 免费层限速
+        if not FOOTBALL_API_KEY:
+            logger.warning("FOOTBALL_API_KEY 未配置，跳过足球模块")
+            return []
+        headers = {"x-apisports-key": FOOTBALL_API_KEY}
+        today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        yield from self._fetch_fixtures(headers, today)
 
-        # 同时产出 ITEMS 填底部「足球资讯」栏（赛程/战报摘要）
-        for f in self.struct["fixtures"][:8]:
-            yield self._to_item(f, "赛程")
-        for r in self.struct["results"][:5]:
-            yield self._to_item(r, "战报")
-
-    def _map(self, e: dict, zh: str, finished: bool) -> dict:
-        t_utc = f"{e.get('dateEvent', '')}T{e.get('strTime', '00:00:00')}"
+    def _fetch_fixtures(self, headers: dict, date: str) -> Iterable[dict]:
+        url = urljoin(FOOTBALL_BASE_URL, "/fixtures")
         try:
-            dt = datetime.fromisoformat(t_utc.replace("Z", ""))
-            dt = dt + timedelta(hours=8)  # UTC → 北京时间（估算）
-            t = dt.strftime("%H:%M")
-        except Exception:
-            t = (e.get("strTime") or "00:00")[:5]
-        hs = e.get("intHomeScore")
-        as_ = e.get("intAwayScore")
-        s = f"{hs}-{as_}" if finished and hs is not None else None
-        return {
-            "t": t,
-            "lg": zh,
-            "h": e.get("strHomeTeam", "?"),
-            "a": e.get("strAwayTeam", "?"),
-            "s": s,
-            "itemId": "fb-" + str(e.get("idEvent", "")),
-            "url": e.get("strVideo") or f"https://www.thesportsdb.com/event/{e.get('idEvent', '')}",
-            # eventspastleague 自带字段，免费层能拿到，用于详情页 body/points
-            "extra": {
-                "round": e.get("intRound"),
-                "season": e.get("strSeason"),
-                "venue": e.get("strVenue"),
-                "date": e.get("dateEvent"),
-                "country": e.get("strCountry"),
-                "status": e.get("strStatus"),
-            },
-        }
+            data = http_get(url, headers=headers, params={"date": date}).json()
+        except Exception as e:
+            logger.warning(f"football fixtures 失败: {e}")
+            return
 
-    def _to_item(self, row: dict, note: str) -> dict:
-        score = f" {row['s']} " if row.get("s") else " VS "
-        # 战报才生成 body/points（用 eventspastleague 自带字段，免费层没球员数据）
-        body = None
-        points: list[str] = []
-        if row.get("s"):
-            ex = row.get("extra") or {}
-            round_ = ex.get("round") or "?"
-            season = ex.get("season") or ""
-            venue = ex.get("venue") or "—"
-            date = ex.get("date") or "—"
-            body = [
-                f"{row['lg']} 第 {round_} 轮 · {date} · 北京时间 {row['t']}（估算）",
-                f"场地：{venue}",
-                f"主队 {row['h']} vs 客队 {row['a']}",
-                f"终场比分 {row['s']}",
-            ]
-            points = [
-                f"<b>赛事</b>：{row['lg']} 第 {round_} 轮（{season}）",
-                f"<b>比赛日期</b>：{date} · 北京时间 {row['t']}（估算）",
-                f"<b>场地</b>：{venue}",
-                f"<b>主队</b>：{row['h']}",
-                f"<b>客队</b>：{row['a']}",
-                f"<b>终场比分</b>：{row['s']}",
-                "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁",
-            ]
-        return {
-            "module": "football",
-            "cat": row["lg"],
-            "title": f"{row['h']}{score}{row['a']}",
-            "summary": f"{row['lg']} · {note} · {row['t']}（北京时间，估算）",
-            "body": body,
-            "points": points,
-            "source": "TheSportsDB",
-            "sourceUrl": row["url"],
-            "publishedAt": datetime.now(timezone.utc).isoformat(),
-            "tags": [row["lg"], note],
-            "live": False,
-            "extra": row.get("extra", {}),
-            "id": row["itemId"],
-        }
+        for f in data.get("response", [])[:30]:
+            league = f.get("league", {})
+            teams = f.get("teams", {})
+            goals = f.get("goals", {})
+            fixture = f.get("fixture", {})
+            status = f.get("fixture", {}).get("status", {}).get("short", "NS")
+            home = teams.get("home", {}).get("name", "?")
+            away = teams.get("away", {}).get("name", "?")
+            hg = goals.get("home")
+            ag = goals.get("away")
+            lg = league.get("name", "?")
 
-    def build_football(self) -> dict | None:
-        return self.struct if (self.struct["fixtures"] or self.struct["results"]) else None
+            if status in ("NS", "TBD"):
+                title = f"{home} VS {away}"
+                summary = f"{lg} · {league.get('round', '?')} · {fixture.get('date', '')[:16]}"
+            else:
+                title = f"{home} {hg}-{ag} {away}"
+                summary = f"{lg} · {status} · {league.get('round', '?')}"
+
+            yield {
+                "module": "football",
+                "cat": lg,
+                "title": title,
+                "summary": summary,
+                "body": None,
+                "source": "API-Football",
+                "sourceUrl": urljoin("https://www.fotmob.com/", f"match/{fixture.get('id', '')}"),
+                "publishedAt": fixture.get("date", datetime.now(timezone.utc).isoformat()),
+                "tags": [lg, status],
+                "live": status in ("1H", "2H", "HT", "ET", "P"),
+                "extra": {"home": home, "away": away, "league": lg, "status": status,
+                          "home_score": hg, "away_score": ag},
+            }
 
 
 # ============================================================
-# AI 采集器（行业 RSS + HuggingFace + arXiv → 每日 AI 行业日报）
+# AI 采集器（HuggingFace + arXiv）
 # ============================================================
 class AICollector(BaseCollector):
     module = "ai"
@@ -485,43 +301,9 @@ class AICollector(BaseCollector):
     HF_API = "https://huggingface.co/api"
     ARXIV_API = "http://export.arxiv.org/api/query"
 
-    # 行业 RSS（公开，无需 key）；单个源失败自动跳过，不影响其他
-    FEEDS = [
-        ("https://techcrunch.com/category/artificial-intelligence/feed/", "TechCrunch"),
-        ("https://venturebeat.com/category/ai/feed/", "VentureBeat"),
-        ("https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "The Verge"),
-        ("https://arstechnica.com/ai/feed/", "Ars Technica"),
-        ("https://www.qbitai.com/feed", "量子位"),
-        ("https://www.jiqizhixin.com/rss", "机器之心"),
-        ("https://36kr.com/feed", "36氪"),
-    ]
-
     def fetch(self) -> Iterable[dict]:
-        yield from self._fetch_feeds()
         yield from self._fetch_hf_models()
         yield from self._fetch_arxiv_papers()
-
-    def _fetch_feeds(self) -> Iterable[dict]:
-        for feed_url, source_name in self.FEEDS:
-            try:
-                feed = feedparser.parse(feed_url)
-                for entry in feed.entries[:8]:
-                    raw = entry.get("summary", entry.get("description", ""))
-                    summary = dashscope_summarize(raw) or raw[:150]
-                    yield {
-                        "module": "ai",
-                        "cat": "行业动态",
-                        "title": entry.title.replace("\n", " ").strip(),
-                        "summary": summary,
-                        "body": None,
-                        "source": source_name,
-                        "sourceUrl": entry.link,
-                        "publishedAt": entry.get("published", datetime.now(timezone.utc).isoformat()),
-                        "tags": ["ai-news", source_name],
-                        "extra": {},
-                    }
-            except Exception as e:
-                logger.warning(f"AI feed {source_name} 失败: {e}")
 
     def _fetch_hf_models(self) -> Iterable[dict]:
         url = f"{self.HF_API}/models"
@@ -545,7 +327,7 @@ class AICollector(BaseCollector):
             )
             yield {
                 "module": "ai",
-                "cat": "模型/技术",
+                "cat": "模型发布",
                 "title": title,
                 "summary": summary,
                 "body": None,
@@ -581,7 +363,7 @@ class AICollector(BaseCollector):
             summary = dashscope_summarize(f"{title}。作者：{authors}。摘要：{abstract[:600]}")
             yield {
                 "module": "ai",
-                "cat": "知识前沿",
+                "cat": "知识",
                 "title": title,
                 "summary": summary or abstract[:120],
                 "body": abstract,
@@ -592,11 +374,6 @@ class AICollector(BaseCollector):
                 "extra": {"authors": authors, "categories": [t.get("term") for t in entry.get("tags", [])]},
             }
 
-    def build_daily(self, items: list[dict]) -> dict | None:
-        """抓完后由 main() 调用：把当天 AI 条目重组成日报结构"""
-        ai_items = [it for it in items if it.get("module") == "ai"]
-        return dashscope_daily(ai_items)
-
 
 # ============================================================
 # LOL 采集器（RSS 公开源）
@@ -604,152 +381,40 @@ class AICollector(BaseCollector):
 class LOLCollector(BaseCollector):
     module = "lol"
 
-    # 单源策略（前端 renderLol 按 seg 分 4 个 tab：rune=海斗资讯 / rift=峡谷攻略 / match=比赛 / tft=云顶之弈）：
-    #  哔哩哔哩搜索 —— 玩家向 UGC 视频（海斗黑科技 / 云顶阵容 / 比赛复盘），内地直连可达。
-    #  已加 wbi 签名（见 _sign），绕过此前偶发的 412 Precondition Failed 风控，现稳定 code=0。
-    # 任一关键词失败仅打 warning，不阻塞其他关键词；前端按 seg 自动归位到对应 tab。
-    #
-    # 注：Google News 兜底源已移除——内地直连被墙、0 贡献，属死代码；B站已稳定出数。
-    # 代理自愈见 auto_resolve_proxy：本机 Clash 开/没开都能跑，自动判定走代理还是直连。
-
-    # (seg, cat, B站搜索关键词, 取前N条) —— 玩家向 UGC 主体
-    BILI_SEARCHES = [
-        ("rune", "海斗资讯", "英雄联盟 海斗 黑科技 上分", 5),
-        ("rune", "海斗资讯", "英雄联盟 海斗 强化 套路", 3),
-        ("rift", "峡谷攻略", "英雄联盟 上单 出装 攻略 教学", 5),
-        ("match", "比赛", "英雄联盟 LPL LCK 比赛 集锦 复盘", 5),
-        ("tft",  "云顶之弈", "云顶之弈 阵容 攻略 S级", 5),
+    FEEDS = [
+        ("https://www.reddit.com/r/leagueoflegends/.rss", "reddit-lol"),
+        ("https://www.leagueoflegends.com/en-us/news/rss.xml", "lol-official-en"),
     ]
 
-    HEADERS = {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-            "(KHTML, like Gecko) Chrome/120.0 Safari/537.36"
-        ),
-        "Referer": "https://search.bilibili.com/",
-    }
-
-    # ---------------- B站 wbi 签名（绕过 412 风控） ----------------
-    # 裸调搜索 API 偶发 412 Precondition Failed（缺 wbi 签名），数据中心 IP 易触发。
-    # 加 wbi 签名（nav 接口拿 img/sub key → mixin_key → 对参数算 w_rid）即可稳定 code=0。
-    _WBI_MIXIN_KEY: str | None = None
-    _WBI_MIXIN_KEY_TS: float = 0.0
-    _WBI_ENC_TAB = [46,47,18,2,53,8,23,32,15,50,10,31,58,3,45,35,27,43,5,49,33,9,42,19,29,28,14,39,12,38,41,13,37,48,7,16,24,55,40,61,26,17,0,1,60,51,30,4,22,25,54,21,56,59,6,63,57,62,11,36,20,34,44,52,32,49,38]
-
-    @classmethod
-    def _wbi_mixin_key(cls) -> str:
-        now = time.time()
-        if cls._WBI_MIXIN_KEY and now - cls._WBI_MIXIN_KEY_TS < 600:
-            return cls._WBI_MIXIN_KEY
-        r = http_get("https://api.bilibili.com/x/web-interface/nav", headers=cls.HEADERS)
-        data = r.json().get("data", {})
-        img_url = data.get("wbi_img", {}).get("img_url", "")
-        sub_url = data.get("wbi_img", {}).get("sub_url", "")
-        img_key = img_url.split("/")[-1].split(".")[0]
-        sub_key = sub_url.split("/")[-1].split(".")[0]
-        orig = img_key + sub_key
-        mk = "".join(orig[i] for i in cls._WBI_ENC_TAB)[:32]
-        cls._WBI_MIXIN_KEY = mk
-        cls._WBI_MIXIN_KEY_TS = now
-        return mk
-
-    def _sign(self, params: dict) -> dict:
-        mk = self._wbi_mixin_key()
-        params = dict(params)
-        params["wts"] = int(time.time())
-        params = dict(sorted(params.items()))
-        query = urlencode(params)
-        params["w_rid"] = hashlib.md5((query + mk).encode()).hexdigest()
-        return params
-
     def fetch(self) -> Iterable[dict]:
-        yield from self._fetch_bili()
-
-    # ---------------- 哔哩哔哩（玩家向 UGC） ----------------
-    def _fetch_bili(self) -> Iterable[dict]:
-        for seg, cat, kw, topn in self.BILI_SEARCHES:
+        for feed_url, source_name in self.FEEDS:
             try:
-                items = self._bili_search(kw, topn)
-                for it in items:
-                    it["seg"] = seg
-                    it["cat"] = cat
-                    it["tags"] = ["lol", seg, kw]
-                    yield it
-                logger.info(f"B站搜索[{kw}] 抓取 {len(items)} 条")
+                feed = feedparser.parse(feed_url)
+                for entry in feed.entries[:10]:
+                    summary = dashscope_summarize(
+                        entry.get("summary", entry.get("description", ""))
+                    ) or entry.get("summary", "")[:120]
+                    yield {
+                        "module": "lol",
+                        "seg": "rune",
+                        "cat": "海斗资讯",
+                        "title": entry.title,
+                        "summary": summary,
+                        "body": entry.get("content", [{}])[0].get("value", "") if entry.get("content") else None,
+                        "source": source_name,
+                        "sourceUrl": entry.link,
+                        "publishedAt": entry.get("published", datetime.now(timezone.utc).isoformat()),
+                        "tags": ["lol", source_name],
+                        "extra": {},
+                    }
             except Exception as e:
-                logger.warning(f"B站搜索[{kw}] 失败: {e}")
-
-    def _bili_search(self, keyword: str, topn: int) -> list[dict]:
-        url = "https://api.bilibili.com/x/web-interface/search/type"
-        params = {"search_type": "video", "keyword": keyword, "page": 1}
-        params = self._sign(params)  # wbi 签名：绕过 412 风控
-        r = http_get(url, headers=self.HEADERS, params=params)
-        ct = r.headers.get("Content-Type", "")
-        if not ct.startswith("application/json"):
-            raise RuntimeError(f"非 JSON 响应（可能被风控）: {r.text[:80]!r}")
-        data = r.json()
-        if data.get("code") != 0:
-            raise RuntimeError(f"B站返回 code={data.get('code')} msg={data.get('message')}")
-        out: list[dict] = []
-        for v in (data.get("data", {}).get("result") or [])[:topn]:
-            title = re.sub(r"<[^>]+>", "", v.get("title", "")).strip()
-            author = v.get("author", "")
-            play = v.get("play") or 0
-            bvid = v.get("bvid", "")
-            duration = v.get("duration", "")
-            arcurl = v.get("arcurl") or f"https://www.bilibili.com/video/{bvid}"
-            pub = v.get("pubdate") or v.get("senddate") or 0
-            try:
-                pub_iso = datetime.fromtimestamp(int(pub), tz=timezone.utc).isoformat()
-            except Exception:
-                pub_iso = datetime.now(timezone.utc).isoformat()
-            out.append({
-                "module": "lol",
-                "title": title,
-                "summary": f"UP主 {author} · {play:,}播放 · {duration}",
-                "body": None,
-                "source": "哔哩哔哩",
-                "sourceUrl": arcurl,
-                "publishedAt": pub_iso,
-                "extra": {"author": author, "play": play, "bvid": bvid, "duration": duration},
-            })
-        return out
-
-    # ---------------- Google News（媒体新闻兜底） ----------------
-    # 已移除：内地直连被墙、0 贡献，属死代码。保留占位注释以明确决策。
-
-
-# ============================================================
-# 代理自愈
-# ============================================================
-def auto_resolve_proxy() -> None:
-    """代理自愈：检测到 HTTPS_PROXY/HTTP_PROXY 时先探一次，
-    若代理不可达（如本机 Clash 没开）则自动 pop 掉 env，回退直连，
-    避免整模块因 proxy 连接被拒而 0 条。
-
-    GitHub Actions 沙箱无此 env，直接走直连，不受影响。
-    """
-    proxy = os.getenv("HTTPS_PROXY") or os.getenv("HTTP_PROXY")
-    if not proxy:
-        logger.info("未检测到代理环境变量，使用直连模式")
-        return
-    try:
-        # 强制走代理探测一个快返回点（204），timeout 短，失败立即回退
-        with requests.Session() as s:
-            s.proxies = {"http": proxy, "https": proxy}
-            s.get("https://www.google.com/generate_204", timeout=4)
-        logger.info(f"代理 {proxy} 探测可达，使用代理模式")
-    except Exception as e:
-        logger.warning(f"代理 {proxy} 不可达（{type(e).__name__}），自动回退直连模式")
-        os.environ.pop("HTTPS_PROXY", None)
-        os.environ.pop("HTTP_PROXY", None)
+                logger.warning(f"LOL feed {feed_url} 失败: {e}")
 
 
 # ============================================================
 # 主入口
 # ============================================================
 def main():
-    auto_resolve_proxy()  # 代理自愈：先决定走代理还是直连，再发任何请求
     parser = argparse.ArgumentParser(description="每日前线 数据采集器（静态 JSON 版）")
     parser.add_argument(
         "--modules",
@@ -788,51 +453,8 @@ def main():
     store = Store(DATA_DIR)
     added = store.merge(items)
     total = store.save()
-
-    # 生成每日日报（按模块；提供 build_daily 的采集器才会产出）
-    daily = {}
-    for c in collectors:
-        if hasattr(c, "build_daily"):
-            try:
-                d = c.build_daily(items)
-                if d:
-                    daily[c.module] = d
-            except Exception as e:
-                logger.warning(f"[{c.module}] 日报生成失败: {e}")
-
-    if daily:
-        try:
-            tp = DATA_DIR / "today.json"
-            payload = json.loads(tp.read_text(encoding="utf-8"))
-            payload["daily"] = daily
-            tp.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-            logger.info(f"已写入日报模块：{[k for k in daily]}")
-        except Exception as e:
-            logger.warning(f"日报写入 today.json 失败: {e}")
-
-    # 生成足球结构化赛程/战报（提供 build_football 的采集器才产出）
-    fb = None
-    for c in collectors:
-        if hasattr(c, "build_football"):
-            try:
-                d = c.build_football()
-                if d:
-                    fb = d
-            except Exception as e:
-                logger.warning(f"[{c.module}] 足球结构化生成失败: {e}")
-    if fb:
-        try:
-            tp = DATA_DIR / "today.json"
-            payload = json.loads(tp.read_text(encoding="utf-8"))
-            payload["football"] = fb
-            tp.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-            logger.info(f"已写入足球结构化：赛程 {len(fb['fixtures'])} 战报 {len(fb['results'])}")
-        except Exception as e:
-            logger.warning(f"足球结构化写入 today.json 失败: {e}")
-
     logger.info(f"本次新增 {added} 条，近 {KEEP_DAYS} 天共 {total} 条 → {DATA_DIR / 'today.json'}")
 
 
 if __name__ == "__main__":
     main()
-
