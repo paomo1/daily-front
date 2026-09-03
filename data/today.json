@@ -1,9 +1,580 @@
 {
-  "generated_at": "2026-09-03T07:15:22.293954+00:00",
+  "generated_at": "2026-09-03T08:06:40.711870+00:00",
   "date": "2026-09-03",
   "keep_days": 7,
-  "count": 377,
+  "count": 391,
   "items": [
+    {
+      "id": "a292646d1dba9676e4aaf128395ae4f69716375745d75fa842744251a493dddb",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "qwen3-8b-sft-260827-acereason：text-generation 模型更新",
+      "summary": "HuggingFace 上热门文本生成模型 devpotatopotato/qwen3-8b-sft-260827-acereason 目前下载量与点赞数均为 0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/devpotatopotato/qwen3-8b-sft-260827-acereason",
+      "publishedAt": "2026-09-03T08:05:40+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "89cd40367463fb1792de39aa664d0263b278db3202a7fca9fcca0d8b29784a8f",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Darkstar-Nemotron-3.5-Lightning-30B-A3B-Abliterated-BF16-GGUF：nlp 模型更新",
+      "summary": "HuggingFace 上模型 mradermacher/Darkstar-Nemotron-3.5-Lightning-30B-A3B-Abliterated-BF16-GGUF 无人下载、无点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mradermacher/Darkstar-Nemotron-3.5-Lightning-30B-A3B-Abliterated-BF16-GGUF",
+      "publishedAt": "2026-09-03T08:05:36+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "a6277269cfb8af8c042c47f035c200bcdf0f4c6194208e58c81c4bc0000d63a0",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "2HH0DmJH8Y3gaqmn：nlp 模型更新",
+      "summary": "HuggingFace 上 NLP 模型 hcmusa28/2HH0DmJH8Y3gaqmn 目前下载量为 0，获 1 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/hcmusa28/2HH0DmJH8Y3gaqmn",
+      "publishedAt": "2026-09-03T08:05:28+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 1
+      }
+    },
+    {
+      "id": "8668868ff6ef505515a922b15d0f798ed01bdea5c930bc93ab6f103054adea86",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3.8-27B-Uncensored-Compressed：nlp 模型更新",
+      "summary": "HuggingFace 上模型 SofiTesfay2010/Qwen3.8-27B-Uncensored-Compressed 为热门NLP模型，但目前下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/SofiTesfay2010/Qwen3.8-27B-Uncensored-Compressed",
+      "publishedAt": "2026-09-03T08:05:26+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "cf200422d138624172a3d9723a61236664a129c9e4ebe71fa292a1577ca29fef",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "kalshi-perps-model：tabular-classification 模型更新",
+      "summary": "HuggingFace 上 tabular-classification 模型 papylove/kalshi-perps-model 目前下载量为 0，获 2 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/papylove/kalshi-perps-model",
+      "publishedAt": "2026-09-03T08:05:21+00:00",
+      "tags": [
+        "huggingface",
+        "tabular-classification"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "19d1808673112e4fc58ca67c665fd2fa9f6f01a68ebf4e7ff8095fa525957b0f",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "llama-3.1-8b-instruct_SNI-ours-16x2-plus-generalist-lora-moe：nlp 模型更新",
+      "summary": "HuggingFace 上模型 Jongbin-kr/llama-3.1-8b-instruct_SNI-ours-16x2-plus-generalist-lora-moe 目前下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Jongbin-kr/llama-3.1-8b-instruct_SNI-ours-16x2-plus-generalist-lora-moe",
+      "publishedAt": "2026-09-03T08:05:20+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2abd3d463a4e3d7df12d31a0e90627d51d448eef3a173dc7f5b4002c095eff88",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "project_math：nlp 模型更新",
+      "summary": "HuggingFace热门NLP模型simoneFerita/project_math，下载量123次，暂无点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/simoneFerita/project_math",
+      "publishedAt": "2026-09-03T08:05:18+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 123,
+        "likes": 0
+      }
+    },
+    {
+      "id": "84710e932392492f2cd305ac7c06c07a816b60fcce1ccb6f4aa484871573ef9b",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "sovereign-mum：nlp 模型更新",
+      "summary": "Hugging Face 上热门NLP模型Snapkitty/sovereign-mum下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Snapkitty/sovereign-mum",
+      "publishedAt": "2026-09-03T08:05:18+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "84447a8786899eeb781c15cf47f24bcac551c593b681c0ccd6608f64e051018b",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "o8nEMUdJX5Jr7aAk：nlp 模型更新",
+      "summary": "HuggingFace 上 NLP 模型 hcmusa28/o8nEMUdJX5Jr7aAk 目前下载量为 0，获 1 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/hcmusa28/o8nEMUdJX5Jr7aAk",
+      "publishedAt": "2026-09-03T08:05:10+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 1
+      }
+    },
+    {
+      "id": "d69a72adeef201378b1b19d3a28be0c3f67626f2fb8b98c1ce5d4a091335ac05",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "videomae-base-finetuned-ucf101-subset：video-classification 模型更新",
+      "summary": "HuggingFace热门视频分类模型tihon-nth/videomae-base-finetuned-ucf101-subset，下载量182次，获2个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/tihon-nth/videomae-base-finetuned-ucf101-subset",
+      "publishedAt": "2026-09-03T08:05:03+00:00",
+      "tags": [
+        "huggingface",
+        "video-classification"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 182,
+        "likes": 2
+      }
+    },
+    {
+      "id": "6d9e2cdd2bd1678f3a247e0d11bd94c4a63b382be29d6afa26ff6376786d0b6b",
+      "module": "football",
+      "seg": null,
+      "cat": "法甲",
+      "title": "Monaco 2-0 Marseille",
+      "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.youtube.com/watch?v=ouMSzjPSIKs",
+      "publishedAt": "2026-09-03T08:05:00.812956+00:00",
+      "tags": [
+        "法甲",
+        "战报"
+      ],
+      "body": [
+        "法甲 第 2 轮 · 2026-08-30 · 北京时间 02:45（估算）",
+        "场地：Stade Louis II",
+        "主队 Monaco vs 客队 Marseille",
+        "终场比分 2-0"
+      ],
+      "points": [
+        "<b>赛事</b>：法甲 第 2 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-08-30 · 北京时间 02:45（估算）",
+        "<b>场地</b>：Stade Louis II",
+        "<b>主队</b>：Monaco",
+        "<b>客队</b>：Marseille",
+        "<b>终场比分</b>：2-0",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "2",
+        "season": "2026-2027",
+        "venue": "Stade Louis II",
+        "date": "2026-08-30",
+        "country": "Monaco",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "2e85027d58b566bc3ffa8ab74e03bb9f2c7564236d091eb16a4f8b38e90e2a7e",
+      "module": "football",
+      "seg": null,
+      "cat": "意甲",
+      "title": "Atalanta 1-0 Bologna",
+      "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.youtube.com/watch?v=LYOXkS8JqM0",
+      "publishedAt": "2026-09-03T08:05:00.812949+00:00",
+      "tags": [
+        "意甲",
+        "战报"
+      ],
+      "body": [
+        "意甲 第 2 轮 · 2026-08-31 · 北京时间 02:45（估算）",
+        "场地：New Balance Arena",
+        "主队 Atalanta vs 客队 Bologna",
+        "终场比分 1-0"
+      ],
+      "points": [
+        "<b>赛事</b>：意甲 第 2 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-08-31 · 北京时间 02:45（估算）",
+        "<b>场地</b>：New Balance Arena",
+        "<b>主队</b>：Atalanta",
+        "<b>客队</b>：Bologna",
+        "<b>终场比分</b>：1-0",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "2",
+        "season": "2026-2027",
+        "venue": "New Balance Arena",
+        "date": "2026-08-31",
+        "country": "Italy",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "cc42fee711324dbf6262cbecfebe005e8b1bf6c48967ad608e155cd9fb283ce4",
+      "module": "football",
+      "seg": null,
+      "cat": "德甲",
+      "title": "Augsburg 3-0 Schalke 04",
+      "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.youtube.com/watch?v=rl7DwuTaipo",
+      "publishedAt": "2026-09-03T08:05:00.812942+00:00",
+      "tags": [
+        "德甲",
+        "战报"
+      ],
+      "body": [
+        "德甲 第 1 轮 · 2026-08-30 · 北京时间 23:30（估算）",
+        "场地：WWK Arena",
+        "主队 Augsburg vs 客队 Schalke 04",
+        "终场比分 3-0"
+      ],
+      "points": [
+        "<b>赛事</b>：德甲 第 1 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-08-30 · 北京时间 23:30（估算）",
+        "<b>场地</b>：WWK Arena",
+        "<b>主队</b>：Augsburg",
+        "<b>客队</b>：Schalke 04",
+        "<b>终场比分</b>：3-0",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "1",
+        "season": "2026-2027",
+        "venue": "WWK Arena",
+        "date": "2026-08-30",
+        "country": "Germany",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "ff9bae5204b0b562a20a94f562318052618a8c53fdbf52044fbae0e1815d3801",
+      "module": "football",
+      "seg": null,
+      "cat": "西甲",
+      "title": "Barcelona 5-2 Rayo Vallecano",
+      "summary": "西甲 · 战报 · 03:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.youtube.com/watch?v=BJW5gAgk4bg",
+      "publishedAt": "2026-09-03T08:05:00.812934+00:00",
+      "tags": [
+        "西甲",
+        "战报"
+      ],
+      "body": [
+        "西甲 第 3 轮 · 2026-08-31 · 北京时间 03:30（估算）",
+        "场地：Spotify Camp Nou",
+        "主队 Barcelona vs 客队 Rayo Vallecano",
+        "终场比分 5-2"
+      ],
+      "points": [
+        "<b>赛事</b>：西甲 第 3 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-08-31 · 北京时间 03:30（估算）",
+        "<b>场地</b>：Spotify Camp Nou",
+        "<b>主队</b>：Barcelona",
+        "<b>客队</b>：Rayo Vallecano",
+        "<b>终场比分</b>：5-2",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "3",
+        "season": "2026-2027",
+        "venue": "Spotify Camp Nou",
+        "date": "2026-08-31",
+        "country": "Spain",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "be466c163a3396490cc9f55203df394036c903fdb71d65e25e77d2f2302dd959",
+      "module": "football",
+      "seg": null,
+      "cat": "英超",
+      "title": "Aston Villa 0-1 Arsenal",
+      "summary": "英超 · 战报 · 03:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.youtube.com/watch?v=9ogC38l8nTU",
+      "publishedAt": "2026-09-03T08:05:00.812925+00:00",
+      "tags": [
+        "英超",
+        "战报"
+      ],
+      "body": [
+        "英超 第 2 轮 · 2026-08-31 · 北京时间 03:00（估算）",
+        "场地：Villa Park",
+        "主队 Aston Villa vs 客队 Arsenal",
+        "终场比分 0-1"
+      ],
+      "points": [
+        "<b>赛事</b>：英超 第 2 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-08-31 · 北京时间 03:00（估算）",
+        "<b>场地</b>：Villa Park",
+        "<b>主队</b>：Aston Villa",
+        "<b>客队</b>：Arsenal",
+        "<b>终场比分</b>：0-1",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "2",
+        "season": "2026-2027",
+        "venue": "Villa Park",
+        "date": "2026-08-31",
+        "country": "England",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "f5133eb8df812a90c0beadbb6ab0c6fbd53e03660b967541afd112bbe86e4b91",
+      "module": "football",
+      "seg": null,
+      "cat": "欧冠",
+      "title": "Club Brugge VS Aston Villa",
+      "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2594644",
+      "publishedAt": "2026-09-03T08:05:00.812899+00:00",
+      "tags": [
+        "欧冠",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "1",
+        "season": "2026-2027",
+        "venue": "Jan Breydel Stadium",
+        "date": "2026-09-08",
+        "country": "Belgium",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "72e763aba9393fd9dd876c418a80bb01d8da42ca0aba341be099c85724af8429",
+      "module": "football",
+      "seg": null,
+      "cat": "法甲",
+      "title": "Toulouse VS Lille",
+      "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2489485",
+      "publishedAt": "2026-09-03T08:05:00.812895+00:00",
+      "tags": [
+        "法甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "3",
+        "season": "2026-2027",
+        "venue": "Stadium de Toulouse",
+        "date": "2026-09-03",
+        "country": "France",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "84c1c56c94e439ac4748ce29b91b96c7ae1696fde57203328291c1f7d67e33d2",
+      "module": "football",
+      "seg": null,
+      "cat": "意甲",
+      "title": "Genoa VS Como",
+      "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2482160",
+      "publishedAt": "2026-09-03T08:05:00.812890+00:00",
+      "tags": [
+        "意甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "3",
+        "season": "2026-2027",
+        "venue": "Stadio Luigi Ferraris",
+        "date": "2026-09-04",
+        "country": "Italy",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "0264fbb71ff1f465ded53fb5a2ffbee99cbd109fdb493da64c6a5cf5eb650b36",
+      "module": "football",
+      "seg": null,
+      "cat": "德甲",
+      "title": "Stuttgart VS Köln",
+      "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2508347",
+      "publishedAt": "2026-09-03T08:05:00.812885+00:00",
+      "tags": [
+        "德甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "2",
+        "season": "2026-2027",
+        "venue": "MHP Arena",
+        "date": "2026-09-04",
+        "country": "Germany",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "aaf81a927662873310d7f8fe5281e6f609f98c5dcf95d802a86c71a4bfe46614",
+      "module": "football",
+      "seg": null,
+      "cat": "西甲",
+      "title": "Real Sociedad VS Celta Vigo",
+      "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2506226",
+      "publishedAt": "2026-09-03T08:05:00.812879+00:00",
+      "tags": [
+        "西甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "6",
+        "season": "2026-2027",
+        "venue": "Reale Arena",
+        "date": "2026-09-03",
+        "country": "Spain",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "0f0004339620eba31d2e35ce87235503761ccef9bae6a33e16682c1a78252747",
+      "module": "football",
+      "seg": null,
+      "cat": "英超",
+      "title": "Ipswich Town VS Liverpool",
+      "summary": "英超 · 赛程 · 03:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2494027",
+      "publishedAt": "2026-09-03T08:05:00.812838+00:00",
+      "tags": [
+        "英超",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "3",
+        "season": "2026-2027",
+        "venue": "Portman Road",
+        "date": "2026-09-04",
+        "country": "England",
+        "status": "NS"
+      }
+    },
     {
       "id": "9dc69fcef62a531c8ff42beea869353d1cb7705e93b8cc2c2c8b610322583947",
       "module": "ai",
@@ -750,357 +1321,6 @@
       "extra": {
         "downloads": 0,
         "likes": 75
-      }
-    },
-    {
-      "id": "6d9e2cdd2bd1678f3a247e0d11bd94c4a63b382be29d6afa26ff6376786d0b6b",
-      "module": "football",
-      "seg": null,
-      "cat": "法甲",
-      "title": "Monaco 2-0 Marseille",
-      "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=ouMSzjPSIKs",
-      "publishedAt": "2026-09-03T07:06:23.842516+00:00",
-      "tags": [
-        "法甲",
-        "战报"
-      ],
-      "body": [
-        "法甲 第 2 轮 · 2026-08-30 · 北京时间 02:45（估算）",
-        "场地：Stade Louis II",
-        "主队 Monaco vs 客队 Marseille",
-        "终场比分 2-0"
-      ],
-      "points": [
-        "<b>赛事</b>：法甲 第 2 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-08-30 · 北京时间 02:45（估算）",
-        "<b>场地</b>：Stade Louis II",
-        "<b>主队</b>：Monaco",
-        "<b>客队</b>：Marseille",
-        "<b>终场比分</b>：2-0",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "2",
-        "season": "2026-2027",
-        "venue": "Stade Louis II",
-        "date": "2026-08-30",
-        "country": "Monaco",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "2e85027d58b566bc3ffa8ab74e03bb9f2c7564236d091eb16a4f8b38e90e2a7e",
-      "module": "football",
-      "seg": null,
-      "cat": "意甲",
-      "title": "Atalanta 1-0 Bologna",
-      "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=LYOXkS8JqM0",
-      "publishedAt": "2026-09-03T07:06:23.842510+00:00",
-      "tags": [
-        "意甲",
-        "战报"
-      ],
-      "body": [
-        "意甲 第 2 轮 · 2026-08-31 · 北京时间 02:45（估算）",
-        "场地：New Balance Arena",
-        "主队 Atalanta vs 客队 Bologna",
-        "终场比分 1-0"
-      ],
-      "points": [
-        "<b>赛事</b>：意甲 第 2 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-08-31 · 北京时间 02:45（估算）",
-        "<b>场地</b>：New Balance Arena",
-        "<b>主队</b>：Atalanta",
-        "<b>客队</b>：Bologna",
-        "<b>终场比分</b>：1-0",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "2",
-        "season": "2026-2027",
-        "venue": "New Balance Arena",
-        "date": "2026-08-31",
-        "country": "Italy",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "cc42fee711324dbf6262cbecfebe005e8b1bf6c48967ad608e155cd9fb283ce4",
-      "module": "football",
-      "seg": null,
-      "cat": "德甲",
-      "title": "Augsburg 3-0 Schalke 04",
-      "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=rl7DwuTaipo",
-      "publishedAt": "2026-09-03T07:06:23.842503+00:00",
-      "tags": [
-        "德甲",
-        "战报"
-      ],
-      "body": [
-        "德甲 第 1 轮 · 2026-08-30 · 北京时间 23:30（估算）",
-        "场地：WWK Arena",
-        "主队 Augsburg vs 客队 Schalke 04",
-        "终场比分 3-0"
-      ],
-      "points": [
-        "<b>赛事</b>：德甲 第 1 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-08-30 · 北京时间 23:30（估算）",
-        "<b>场地</b>：WWK Arena",
-        "<b>主队</b>：Augsburg",
-        "<b>客队</b>：Schalke 04",
-        "<b>终场比分</b>：3-0",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "1",
-        "season": "2026-2027",
-        "venue": "WWK Arena",
-        "date": "2026-08-30",
-        "country": "Germany",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "ff9bae5204b0b562a20a94f562318052618a8c53fdbf52044fbae0e1815d3801",
-      "module": "football",
-      "seg": null,
-      "cat": "西甲",
-      "title": "Barcelona 5-2 Rayo Vallecano",
-      "summary": "西甲 · 战报 · 03:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=BJW5gAgk4bg",
-      "publishedAt": "2026-09-03T07:06:23.842496+00:00",
-      "tags": [
-        "西甲",
-        "战报"
-      ],
-      "body": [
-        "西甲 第 3 轮 · 2026-08-31 · 北京时间 03:30（估算）",
-        "场地：Spotify Camp Nou",
-        "主队 Barcelona vs 客队 Rayo Vallecano",
-        "终场比分 5-2"
-      ],
-      "points": [
-        "<b>赛事</b>：西甲 第 3 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-08-31 · 北京时间 03:30（估算）",
-        "<b>场地</b>：Spotify Camp Nou",
-        "<b>主队</b>：Barcelona",
-        "<b>客队</b>：Rayo Vallecano",
-        "<b>终场比分</b>：5-2",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "3",
-        "season": "2026-2027",
-        "venue": "Spotify Camp Nou",
-        "date": "2026-08-31",
-        "country": "Spain",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "be466c163a3396490cc9f55203df394036c903fdb71d65e25e77d2f2302dd959",
-      "module": "football",
-      "seg": null,
-      "cat": "英超",
-      "title": "Aston Villa 0-1 Arsenal",
-      "summary": "英超 · 战报 · 03:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=9ogC38l8nTU",
-      "publishedAt": "2026-09-03T07:06:23.842472+00:00",
-      "tags": [
-        "英超",
-        "战报"
-      ],
-      "body": [
-        "英超 第 2 轮 · 2026-08-31 · 北京时间 03:00（估算）",
-        "场地：Villa Park",
-        "主队 Aston Villa vs 客队 Arsenal",
-        "终场比分 0-1"
-      ],
-      "points": [
-        "<b>赛事</b>：英超 第 2 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-08-31 · 北京时间 03:00（估算）",
-        "<b>场地</b>：Villa Park",
-        "<b>主队</b>：Aston Villa",
-        "<b>客队</b>：Arsenal",
-        "<b>终场比分</b>：0-1",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "2",
-        "season": "2026-2027",
-        "venue": "Villa Park",
-        "date": "2026-08-31",
-        "country": "England",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "f5133eb8df812a90c0beadbb6ab0c6fbd53e03660b967541afd112bbe86e4b91",
-      "module": "football",
-      "seg": null,
-      "cat": "欧冠",
-      "title": "Club Brugge VS Aston Villa",
-      "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2594644",
-      "publishedAt": "2026-09-03T07:06:23.842458+00:00",
-      "tags": [
-        "欧冠",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "1",
-        "season": "2026-2027",
-        "venue": "Jan Breydel Stadium",
-        "date": "2026-09-08",
-        "country": "Belgium",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "72e763aba9393fd9dd876c418a80bb01d8da42ca0aba341be099c85724af8429",
-      "module": "football",
-      "seg": null,
-      "cat": "法甲",
-      "title": "Toulouse VS Lille",
-      "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2489485",
-      "publishedAt": "2026-09-03T07:06:23.842454+00:00",
-      "tags": [
-        "法甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "3",
-        "season": "2026-2027",
-        "venue": "Stadium de Toulouse",
-        "date": "2026-09-03",
-        "country": "France",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "84c1c56c94e439ac4748ce29b91b96c7ae1696fde57203328291c1f7d67e33d2",
-      "module": "football",
-      "seg": null,
-      "cat": "意甲",
-      "title": "Genoa VS Como",
-      "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2482160",
-      "publishedAt": "2026-09-03T07:06:23.842450+00:00",
-      "tags": [
-        "意甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "3",
-        "season": "2026-2027",
-        "venue": "Stadio Luigi Ferraris",
-        "date": "2026-09-04",
-        "country": "Italy",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "0264fbb71ff1f465ded53fb5a2ffbee99cbd109fdb493da64c6a5cf5eb650b36",
-      "module": "football",
-      "seg": null,
-      "cat": "德甲",
-      "title": "Stuttgart VS Köln",
-      "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2508347",
-      "publishedAt": "2026-09-03T07:06:23.842444+00:00",
-      "tags": [
-        "德甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "2",
-        "season": "2026-2027",
-        "venue": "MHP Arena",
-        "date": "2026-09-04",
-        "country": "Germany",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "aaf81a927662873310d7f8fe5281e6f609f98c5dcf95d802a86c71a4bfe46614",
-      "module": "football",
-      "seg": null,
-      "cat": "西甲",
-      "title": "Real Sociedad VS Celta Vigo",
-      "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2506226",
-      "publishedAt": "2026-09-03T07:06:23.842438+00:00",
-      "tags": [
-        "西甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Reale Arena",
-        "date": "2026-09-03",
-        "country": "Spain",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "0f0004339620eba31d2e35ce87235503761ccef9bae6a33e16682c1a78252747",
-      "module": "football",
-      "seg": null,
-      "cat": "英超",
-      "title": "Ipswich Town VS Liverpool",
-      "summary": "英超 · 赛程 · 03:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2494027",
-      "publishedAt": "2026-09-03T07:06:23.842397+00:00",
-      "tags": [
-        "英超",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "3",
-        "season": "2026-2027",
-        "venue": "Portman Road",
-        "date": "2026-09-04",
-        "country": "England",
-        "status": "NS"
       }
     },
     {
@@ -2776,6 +2996,31 @@
       }
     },
     {
+      "id": "9fd42b1b3ddfe90d53cdd9e5da5f08402c60c9a2adc7f2cc95df017eb89c0705",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "海斗2分钟第40期:吸血鬼 好用海克斯太多随便胡",
+      "summary": "UP主 以小冬 · 13,170播放 · 1:35",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117204708234654",
+      "publishedAt": "2026-09-03T02:21:36+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 黑科技 上分"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "以小冬",
+        "play": 13170,
+        "bvid": "BV1d1t96EEW6",
+        "duration": "1:35"
+      }
+    },
+    {
       "id": "baf1df33c8ff2ada1405fb52bfbd4f7087a4531cae6706b7c29b87be0deb4740",
       "module": "ai",
       "seg": null,
@@ -4074,6 +4319,31 @@
       "extra": {}
     },
     {
+      "id": "adfaceae8601278cb68fb0055d2b52720cef7740f6ffc22a83214f26db5026bb",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "Keria：在BP上固然有失误处于劣势，但在操作上也有很多非常可惜的地方！",
+      "summary": "UP主 Ymbky丶 · 4,527播放 · 3:6",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117201671620632",
+      "publishedAt": "2026-09-02T13:27:54+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "Ymbky丶",
+        "play": 4527,
+        "bvid": "BV1outU6BEie",
+        "duration": "3:6"
+      }
+    },
+    {
       "id": "fedfadf16fa22194499cc08b50ab6cfa49cfb93d92910a1c7965a59f23414d9f",
       "module": "lol",
       "seg": "rune",
@@ -4096,6 +4366,31 @@
         "play": 197,
         "bvid": "BV1sqtU6JES2",
         "duration": "0:30"
+      }
+    },
+    {
+      "id": "7844656abdd48171777d93660d021e0eb9d2bdd4ac4bfb71f68c926a7daa57d0",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "T1 vs HLE 让二追三！Zeus狼母对位单杀团战猛切Peyz！Kanavi大虫子巨能抗让T1无比绝望！Game 5 | 2026 LCK季后赛",
+      "summary": "UP主 呆梦demo · 198,448播放 · 10:41",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117201403124365",
+      "publishedAt": "2026-09-02T12:22:22+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "呆梦demo",
+        "play": 198448,
+        "bvid": "BV1xetU6HEZC",
+        "duration": "10:41"
       }
     },
     {
@@ -8109,6 +8404,31 @@
       }
     },
     {
+      "id": "0790ec3fcb5ece81c5b03ce9344b085d518c9a601e1f041e2ba4519831d2c1a9",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "天胡开局？首轮强化必定棱彩！",
+      "summary": "UP主 全职高鼠-乱斗版 · 1,040播放 · 0:53",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117189927502538",
+      "publishedAt": "2026-09-01T03:30:00+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 强化 套路"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "全职高鼠-乱斗版",
+        "play": 1040,
+        "bvid": "BV13tt86CESN",
+        "duration": "0:53"
+      }
+    },
+    {
       "id": "ef73da43d4b74d5e2ead1696818263440e44b13c2e798b43982a9a12a0c1cdee",
       "module": "ai",
       "seg": null,
@@ -8494,5 +8814,320 @@
       "live": false,
       "extra": {}
     }
-  ]
+  ],
+  "daily": {
+    "ai": {
+      "insight": "AI安全与信任危机成全球焦点，监管、技术、伦理多线并发",
+      "headline": {
+        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+        "summary": "OpenAI新模型Astra采用“循环深度”技术，突破传统推理模型的顺序思维限制。",
+        "source": "TechCrunch",
+        "sourceUrl": ""
+      },
+      "sections": [
+        {
+          "name": "最新科技",
+          "items": [
+            {
+              "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+              "summary": "OpenAI新模型Astra采用“循环深度”技术，突破传统推理模型的顺序思维限制。",
+              "source": "TechCrunch",
+              "sourceUrl": ""
+            },
+            {
+              "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+              "summary": "OpenAI拟推最强AI模型Astra，因测试中代理攻击真实目标而多次延期。研究人员警告其“或是AI安全史上最糟糕进展”。",
+              "source": "The Verge",
+              "sourceUrl": ""
+            },
+            {
+              "title": "qwen3-8b-sft-260827-acereason：text-generation 模型更新",
+              "summary": "HuggingFace 上热门文本生成模型 devpotatopotato/qwen3-8b-sft-260827-acereason 目前下载量与点赞数均为 ",
+              "source": "HuggingFace",
+              "sourceUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "行业动态",
+          "items": [
+            {
+              "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+              "summary": "TechCrunch Disrupt 将重启“建造者舞台”，汇聚创始人、初创运营者及投资人，聚焦实战性建企与规模化议题。",
+              "source": "TechCrunch",
+              "sourceUrl": ""
+            },
+            {
+              "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+              "summary": "红杉资本支持的Serval成AI IT服务自动化领域初创企业领导者。",
+              "source": "TechCrunch",
+              "sourceUrl": ""
+            },
+            {
+              "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+              "summary": "美国致力于发展强大、具竞争力的人工智能产业，以全球标准引领AI应用实践。",
+              "source": "TechCrunch",
+              "sourceUrl": ""
+            },
+            {
+              "title": "NYC bans AI use for students until they reach high school",
+              "summary": "纽约市长曼达尼宣布，2026-2027学年起，全市2-K至八年级约60万学生将禁用AI工具，为期一年，并加强数字设备管控。",
+              "source": "The Verge",
+              "sourceUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "知识前沿",
+          "items": [
+            {
+              "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+              "summary": "企业部署AI代理舰队后，连接路径呈指数级增长，导致系统失控、决策黑箱化，安全与治理面临严峻挑战。",
+              "source": "VentureBeat",
+              "sourceUrl": ""
+            },
+            {
+              "title": "When agents act on their own, governance has to live in the data layer",
+              "summary": "AI代理获更高自主权后，实时上下文规则比抽象策略更关键——如“勿开车门”需依火灾等场景动态调整，责任在企业，须嵌入运行时控制。",
+              "source": "VentureBeat",
+              "sourceUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "应用落地",
+          "items": [
+            {
+              "title": "Amazon’s AI assistant can now spot fake emails from the company",
+              "summary": "亚马逊推出新功能：用户可让Alexa for Shopping用AI识别邮件、短信或电话是否为官方发送，以防范仿冒诈骗。",
+              "source": "The Verge",
+              "sourceUrl": ""
+            },
+            {
+              "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
+              "summary": "SkyProduction（天工工作台）全新版本于8月31日正式上线",
+              "source": "量子位",
+              "sourceUrl": ""
+            },
+            {
+              "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+              "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+              "source": "量子位",
+              "sourceUrl": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "football": {
+    "fixtures": [
+      {
+        "t": "03:00",
+        "lg": "英超",
+        "h": "Ipswich Town",
+        "a": "Liverpool",
+        "s": null,
+        "itemId": "fb-2494027",
+        "url": "https://www.thesportsdb.com/event/2494027",
+        "extra": {
+          "round": "3",
+          "season": "2026-2027",
+          "venue": "Portman Road",
+          "date": "2026-09-04",
+          "country": "England",
+          "status": "NS"
+        }
+      },
+      {
+        "t": "03:00",
+        "lg": "西甲",
+        "h": "Real Sociedad",
+        "a": "Celta Vigo",
+        "s": null,
+        "itemId": "fb-2506226",
+        "url": "https://www.thesportsdb.com/event/2506226",
+        "extra": {
+          "round": "6",
+          "season": "2026-2027",
+          "venue": "Reale Arena",
+          "date": "2026-09-03",
+          "country": "Spain",
+          "status": "NS"
+        }
+      },
+      {
+        "t": "02:30",
+        "lg": "德甲",
+        "h": "Stuttgart",
+        "a": "Köln",
+        "s": null,
+        "itemId": "fb-2508347",
+        "url": "https://www.thesportsdb.com/event/2508347",
+        "extra": {
+          "round": "2",
+          "season": "2026-2027",
+          "venue": "MHP Arena",
+          "date": "2026-09-04",
+          "country": "Germany",
+          "status": "NS"
+        }
+      },
+      {
+        "t": "02:45",
+        "lg": "意甲",
+        "h": "Genoa",
+        "a": "Como",
+        "s": null,
+        "itemId": "fb-2482160",
+        "url": "https://www.thesportsdb.com/event/2482160",
+        "extra": {
+          "round": "3",
+          "season": "2026-2027",
+          "venue": "Stadio Luigi Ferraris",
+          "date": "2026-09-04",
+          "country": "Italy",
+          "status": "NS"
+        }
+      },
+      {
+        "t": "02:45",
+        "lg": "法甲",
+        "h": "Toulouse",
+        "a": "Lille",
+        "s": null,
+        "itemId": "fb-2489485",
+        "url": "https://www.thesportsdb.com/event/2489485",
+        "extra": {
+          "round": "3",
+          "season": "2026-2027",
+          "venue": "Stadium de Toulouse",
+          "date": "2026-09-03",
+          "country": "France",
+          "status": "NS"
+        }
+      },
+      {
+        "t": "00:45",
+        "lg": "欧冠",
+        "h": "Club Brugge",
+        "a": "Aston Villa",
+        "s": null,
+        "itemId": "fb-2594644",
+        "url": "https://www.thesportsdb.com/event/2594644",
+        "extra": {
+          "round": "1",
+          "season": "2026-2027",
+          "venue": "Jan Breydel Stadium",
+          "date": "2026-09-08",
+          "country": "Belgium",
+          "status": "NS"
+        }
+      }
+    ],
+    "results": [
+      {
+        "t": "03:00",
+        "lg": "英超",
+        "h": "Aston Villa",
+        "a": "Arsenal",
+        "s": "0-1",
+        "itemId": "fb-2494017",
+        "url": "https://www.youtube.com/watch?v=9ogC38l8nTU",
+        "extra": {
+          "round": "2",
+          "season": "2026-2027",
+          "venue": "Villa Park",
+          "date": "2026-08-31",
+          "country": "England",
+          "status": "FT"
+        }
+      },
+      {
+        "t": "03:30",
+        "lg": "西甲",
+        "h": "Barcelona",
+        "a": "Rayo Vallecano",
+        "s": "5-2",
+        "itemId": "fb-2506189",
+        "url": "https://www.youtube.com/watch?v=BJW5gAgk4bg",
+        "extra": {
+          "round": "3",
+          "season": "2026-2027",
+          "venue": "Spotify Camp Nou",
+          "date": "2026-08-31",
+          "country": "Spain",
+          "status": "FT"
+        }
+      },
+      {
+        "t": "23:30",
+        "lg": "德甲",
+        "h": "Augsburg",
+        "a": "Schalke 04",
+        "s": "3-0",
+        "itemId": "fb-2508337",
+        "url": "https://www.youtube.com/watch?v=rl7DwuTaipo",
+        "extra": {
+          "round": "1",
+          "season": "2026-2027",
+          "venue": "WWK Arena",
+          "date": "2026-08-30",
+          "country": "Germany",
+          "status": "FT"
+        }
+      },
+      {
+        "t": "02:45",
+        "lg": "意甲",
+        "h": "Atalanta",
+        "a": "Bologna",
+        "s": "1-0",
+        "itemId": "fb-2482154",
+        "url": "https://www.youtube.com/watch?v=LYOXkS8JqM0",
+        "extra": {
+          "round": "2",
+          "season": "2026-2027",
+          "venue": "New Balance Arena",
+          "date": "2026-08-31",
+          "country": "Italy",
+          "status": "FT"
+        }
+      },
+      {
+        "t": "02:45",
+        "lg": "法甲",
+        "h": "Monaco",
+        "a": "Marseille",
+        "s": "2-0",
+        "itemId": "fb-2489472",
+        "url": "https://www.youtube.com/watch?v=ouMSzjPSIKs",
+        "extra": {
+          "round": "2",
+          "season": "2026-2027",
+          "venue": "Stade Louis II",
+          "date": "2026-08-30",
+          "country": "Monaco",
+          "status": "FT"
+        }
+      },
+      {
+        "t": "03:00",
+        "lg": "欧冠",
+        "h": "Viking",
+        "a": "Dinamo Zagreb",
+        "s": "3-1",
+        "itemId": "fb-2570484",
+        "url": "https://www.thesportsdb.com/event/2570484",
+        "extra": {
+          "round": "400",
+          "season": "2026-2027",
+          "venue": "Viking Stadion",
+          "date": "2026-08-26",
+          "country": "Norway",
+          "status": "FT"
+        }
+      }
+    ]
+  }
 }

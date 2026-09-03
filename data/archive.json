@@ -2708,7 +2708,7 @@
     "summary": "英超 · 赛程 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2494027",
-    "publishedAt": "2026-09-03T07:06:23.842397+00:00",
+    "publishedAt": "2026-09-03T08:05:00.812838+00:00",
     "tags": [
       "英超",
       "赛程"
@@ -2734,7 +2734,7 @@
     "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2506226",
-    "publishedAt": "2026-09-03T07:06:23.842438+00:00",
+    "publishedAt": "2026-09-03T08:05:00.812879+00:00",
     "tags": [
       "西甲",
       "赛程"
@@ -2760,7 +2760,7 @@
     "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2508347",
-    "publishedAt": "2026-09-03T07:06:23.842444+00:00",
+    "publishedAt": "2026-09-03T08:05:00.812885+00:00",
     "tags": [
       "德甲",
       "赛程"
@@ -2786,7 +2786,7 @@
     "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2482160",
-    "publishedAt": "2026-09-03T07:06:23.842450+00:00",
+    "publishedAt": "2026-09-03T08:05:00.812890+00:00",
     "tags": [
       "意甲",
       "赛程"
@@ -2812,7 +2812,7 @@
     "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2489485",
-    "publishedAt": "2026-09-03T07:06:23.842454+00:00",
+    "publishedAt": "2026-09-03T08:05:00.812895+00:00",
     "tags": [
       "法甲",
       "赛程"
@@ -2838,7 +2838,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594644",
-    "publishedAt": "2026-09-03T07:06:23.842458+00:00",
+    "publishedAt": "2026-09-03T08:05:00.812899+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -2864,7 +2864,7 @@
     "summary": "英超 · 战报 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=9ogC38l8nTU",
-    "publishedAt": "2026-09-03T07:06:23.842472+00:00",
+    "publishedAt": "2026-09-03T08:05:00.812925+00:00",
     "tags": [
       "英超",
       "战报"
@@ -2903,7 +2903,7 @@
     "summary": "西甲 · 战报 · 03:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=BJW5gAgk4bg",
-    "publishedAt": "2026-09-03T07:06:23.842496+00:00",
+    "publishedAt": "2026-09-03T08:05:00.812934+00:00",
     "tags": [
       "西甲",
       "战报"
@@ -2942,7 +2942,7 @@
     "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=rl7DwuTaipo",
-    "publishedAt": "2026-09-03T07:06:23.842503+00:00",
+    "publishedAt": "2026-09-03T08:05:00.812942+00:00",
     "tags": [
       "德甲",
       "战报"
@@ -2981,7 +2981,7 @@
     "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=LYOXkS8JqM0",
-    "publishedAt": "2026-09-03T07:06:23.842510+00:00",
+    "publishedAt": "2026-09-03T08:05:00.812949+00:00",
     "tags": [
       "意甲",
       "战报"
@@ -3020,7 +3020,7 @@
     "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=ouMSzjPSIKs",
-    "publishedAt": "2026-09-03T07:06:23.842516+00:00",
+    "publishedAt": "2026-09-03T08:05:00.812956+00:00",
     "tags": [
       "法甲",
       "战报"
@@ -9603,6 +9603,376 @@
     "extra": {
       "downloads": 0,
       "likes": 0
+    }
+  },
+  "a292646d1dba9676e4aaf128395ae4f69716375745d75fa842744251a493dddb": {
+    "id": "a292646d1dba9676e4aaf128395ae4f69716375745d75fa842744251a493dddb",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "qwen3-8b-sft-260827-acereason：text-generation 模型更新",
+    "summary": "HuggingFace 上热门文本生成模型 devpotatopotato/qwen3-8b-sft-260827-acereason 目前下载量与点赞数均为 0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/devpotatopotato/qwen3-8b-sft-260827-acereason",
+    "publishedAt": "2026-09-03T08:05:40+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "89cd40367463fb1792de39aa664d0263b278db3202a7fca9fcca0d8b29784a8f": {
+    "id": "89cd40367463fb1792de39aa664d0263b278db3202a7fca9fcca0d8b29784a8f",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Darkstar-Nemotron-3.5-Lightning-30B-A3B-Abliterated-BF16-GGUF：nlp 模型更新",
+    "summary": "HuggingFace 上模型 mradermacher/Darkstar-Nemotron-3.5-Lightning-30B-A3B-Abliterated-BF16-GGUF 无人下载、无点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/mradermacher/Darkstar-Nemotron-3.5-Lightning-30B-A3B-Abliterated-BF16-GGUF",
+    "publishedAt": "2026-09-03T08:05:36+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "a6277269cfb8af8c042c47f035c200bcdf0f4c6194208e58c81c4bc0000d63a0": {
+    "id": "a6277269cfb8af8c042c47f035c200bcdf0f4c6194208e58c81c4bc0000d63a0",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "2HH0DmJH8Y3gaqmn：nlp 模型更新",
+    "summary": "HuggingFace 上 NLP 模型 hcmusa28/2HH0DmJH8Y3gaqmn 目前下载量为 0，获 1 个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/hcmusa28/2HH0DmJH8Y3gaqmn",
+    "publishedAt": "2026-09-03T08:05:28+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 1
+    }
+  },
+  "8668868ff6ef505515a922b15d0f798ed01bdea5c930bc93ab6f103054adea86": {
+    "id": "8668868ff6ef505515a922b15d0f798ed01bdea5c930bc93ab6f103054adea86",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Qwen3.8-27B-Uncensored-Compressed：nlp 模型更新",
+    "summary": "HuggingFace 上模型 SofiTesfay2010/Qwen3.8-27B-Uncensored-Compressed 为热门NLP模型，但目前下载量与点赞数均为0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/SofiTesfay2010/Qwen3.8-27B-Uncensored-Compressed",
+    "publishedAt": "2026-09-03T08:05:26+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "cf200422d138624172a3d9723a61236664a129c9e4ebe71fa292a1577ca29fef": {
+    "id": "cf200422d138624172a3d9723a61236664a129c9e4ebe71fa292a1577ca29fef",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "kalshi-perps-model：tabular-classification 模型更新",
+    "summary": "HuggingFace 上 tabular-classification 模型 papylove/kalshi-perps-model 目前下载量为 0，获 2 个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/papylove/kalshi-perps-model",
+    "publishedAt": "2026-09-03T08:05:21+00:00",
+    "tags": [
+      "huggingface",
+      "tabular-classification"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 2
+    }
+  },
+  "19d1808673112e4fc58ca67c665fd2fa9f6f01a68ebf4e7ff8095fa525957b0f": {
+    "id": "19d1808673112e4fc58ca67c665fd2fa9f6f01a68ebf4e7ff8095fa525957b0f",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "llama-3.1-8b-instruct_SNI-ours-16x2-plus-generalist-lora-moe：nlp 模型更新",
+    "summary": "HuggingFace 上模型 Jongbin-kr/llama-3.1-8b-instruct_SNI-ours-16x2-plus-generalist-lora-moe 目前下载量与点赞数均为0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Jongbin-kr/llama-3.1-8b-instruct_SNI-ours-16x2-plus-generalist-lora-moe",
+    "publishedAt": "2026-09-03T08:05:20+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "2abd3d463a4e3d7df12d31a0e90627d51d448eef3a173dc7f5b4002c095eff88": {
+    "id": "2abd3d463a4e3d7df12d31a0e90627d51d448eef3a173dc7f5b4002c095eff88",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "project_math：nlp 模型更新",
+    "summary": "HuggingFace热门NLP模型simoneFerita/project_math，下载量123次，暂无点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/simoneFerita/project_math",
+    "publishedAt": "2026-09-03T08:05:18+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 123,
+      "likes": 0
+    }
+  },
+  "84710e932392492f2cd305ac7c06c07a816b60fcce1ccb6f4aa484871573ef9b": {
+    "id": "84710e932392492f2cd305ac7c06c07a816b60fcce1ccb6f4aa484871573ef9b",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "sovereign-mum：nlp 模型更新",
+    "summary": "Hugging Face 上热门NLP模型Snapkitty/sovereign-mum下载量与点赞数均为0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Snapkitty/sovereign-mum",
+    "publishedAt": "2026-09-03T08:05:18+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 0
+    }
+  },
+  "84447a8786899eeb781c15cf47f24bcac551c593b681c0ccd6608f64e051018b": {
+    "id": "84447a8786899eeb781c15cf47f24bcac551c593b681c0ccd6608f64e051018b",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "o8nEMUdJX5Jr7aAk：nlp 模型更新",
+    "summary": "HuggingFace 上 NLP 模型 hcmusa28/o8nEMUdJX5Jr7aAk 目前下载量为 0，获 1 个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/hcmusa28/o8nEMUdJX5Jr7aAk",
+    "publishedAt": "2026-09-03T08:05:10+00:00",
+    "tags": [
+      "huggingface",
+      "nlp"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 1
+    }
+  },
+  "d69a72adeef201378b1b19d3a28be0c3f67626f2fb8b98c1ce5d4a091335ac05": {
+    "id": "d69a72adeef201378b1b19d3a28be0c3f67626f2fb8b98c1ce5d4a091335ac05",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "videomae-base-finetuned-ucf101-subset：video-classification 模型更新",
+    "summary": "HuggingFace热门视频分类模型tihon-nth/videomae-base-finetuned-ucf101-subset，下载量182次，获2个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/tihon-nth/videomae-base-finetuned-ucf101-subset",
+    "publishedAt": "2026-09-03T08:05:03+00:00",
+    "tags": [
+      "huggingface",
+      "video-classification"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 182,
+      "likes": 2
+    }
+  },
+  "9fd42b1b3ddfe90d53cdd9e5da5f08402c60c9a2adc7f2cc95df017eb89c0705": {
+    "id": "9fd42b1b3ddfe90d53cdd9e5da5f08402c60c9a2adc7f2cc95df017eb89c0705",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "海斗2分钟第40期:吸血鬼 好用海克斯太多随便胡",
+    "summary": "UP主 以小冬 · 13,170播放 · 1:35",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117204708234654",
+    "publishedAt": "2026-09-03T02:21:36+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 黑科技 上分"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "以小冬",
+      "play": 13170,
+      "bvid": "BV1d1t96EEW6",
+      "duration": "1:35"
+    }
+  },
+  "0790ec3fcb5ece81c5b03ce9344b085d518c9a601e1f041e2ba4519831d2c1a9": {
+    "id": "0790ec3fcb5ece81c5b03ce9344b085d518c9a601e1f041e2ba4519831d2c1a9",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "天胡开局？首轮强化必定棱彩！",
+    "summary": "UP主 全职高鼠-乱斗版 · 1,040播放 · 0:53",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117189927502538",
+    "publishedAt": "2026-09-01T03:30:00+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 强化 套路"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "全职高鼠-乱斗版",
+      "play": 1040,
+      "bvid": "BV13tt86CESN",
+      "duration": "0:53"
+    }
+  },
+  "1620146d815ba20fb94cc68304e8b560607e421f47df24a8d04362dce3f0be6e": {
+    "id": "1620146d815ba20fb94cc68304e8b560607e421f47df24a8d04362dce3f0be6e",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "英雄联盟lol全英雄教学合集，持续更新",
+    "summary": "UP主 lol超神解说lol · 205,288播放 · ",
+    "source": "哔哩哔哩",
+    "sourceUrl": "https://www.bilibili.com/cheese/play/ss9717?query_from=0&search_id=5140955390395359562&search_query=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F+%E4%B8%8A%E5%8D%95+%E5%87%BA%E8%A3%85+%E6%94%BB%E7%95%A5+%E6%95%99%E5%AD%A6",
+    "publishedAt": "1970-01-01T00:00:00+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "lol超神解说lol",
+      "play": 205288,
+      "bvid": "",
+      "duration": ""
+    }
+  },
+  "7844656abdd48171777d93660d021e0eb9d2bdd4ac4bfb71f68c926a7daa57d0": {
+    "id": "7844656abdd48171777d93660d021e0eb9d2bdd4ac4bfb71f68c926a7daa57d0",
+    "module": "lol",
+    "seg": "match",
+    "cat": "比赛",
+    "title": "T1 vs HLE 让二追三！Zeus狼母对位单杀团战猛切Peyz！Kanavi大虫子巨能抗让T1无比绝望！Game 5 | 2026 LCK季后赛",
+    "summary": "UP主 呆梦demo · 198,448播放 · 10:41",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117201403124365",
+    "publishedAt": "2026-09-02T12:22:22+00:00",
+    "tags": [
+      "lol",
+      "match",
+      "英雄联盟 LPL LCK 比赛 集锦 复盘"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "呆梦demo",
+      "play": 198448,
+      "bvid": "BV1xetU6HEZC",
+      "duration": "10:41"
+    }
+  },
+  "dfdf578657363cb14b34a1cd32dc8d8f71b58144bdb0cc16668b567566d4b9e4": {
+    "id": "dfdf578657363cb14b34a1cd32dc8d8f71b58144bdb0cc16668b567566d4b9e4",
+    "module": "lol",
+    "seg": "match",
+    "cat": "比赛",
+    "title": "【S8LCK春季赛】SKT vs JAG,LOL史上最长比赛94分钟【收藏级画质】",
+    "summary": "UP主 sp杂化梦 · 44,862播放 · 103:3",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av232355208",
+    "publishedAt": "2023-08-17T08:09:52+00:00",
+    "tags": [
+      "lol",
+      "match",
+      "英雄联盟 LPL LCK 比赛 集锦 复盘"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "sp杂化梦",
+      "play": 44862,
+      "bvid": "BV198411X7E6",
+      "duration": "103:3"
+    }
+  },
+  "adfaceae8601278cb68fb0055d2b52720cef7740f6ffc22a83214f26db5026bb": {
+    "id": "adfaceae8601278cb68fb0055d2b52720cef7740f6ffc22a83214f26db5026bb",
+    "module": "lol",
+    "seg": "match",
+    "cat": "比赛",
+    "title": "Keria：在BP上固然有失误处于劣势，但在操作上也有很多非常可惜的地方！",
+    "summary": "UP主 Ymbky丶 · 4,527播放 · 3:6",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117201671620632",
+    "publishedAt": "2026-09-02T13:27:54+00:00",
+    "tags": [
+      "lol",
+      "match",
+      "英雄联盟 LPL LCK 比赛 集锦 复盘"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "Ymbky丶",
+      "play": 4527,
+      "bvid": "BV1outU6BEie",
+      "duration": "3:6"
     }
   }
 }
