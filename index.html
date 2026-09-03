@@ -241,14 +241,18 @@
     padding:3px 8px;border-radius:8px;letter-spacing:.5px;}
   .ai-insight-txt{font-size:13.5px;line-height:1.55;color:#E7E3F5;}
   .ai-headline{display:block;text-decoration:none;background:#16161F;border:1px solid rgba(139,92,246,.4);
-    border-radius:16px;padding:15px 16px;margin:2px 0 18px;transition:.15s;}
+    border-radius:16px;padding:15px 16px;margin:2px 0 18px;transition:.15s;
+    width:100%;font-family:inherit;color:inherit;cursor:pointer;text-align:left;font-size:inherit;
+    appearance:none;-webkit-appearance:none;}
   .ai-headline:active{border-color:var(--purple);}
   .ai-h-title{font-size:16px;font-weight:700;color:#F2EEFF;line-height:1.4;margin-bottom:7px;}
   .ai-h-sum{font-size:13px;line-height:1.6;color:#B9B2CC;}
   .ai-h-src{font-size:11.5px;color:var(--purple);margin-top:9px;}
   .ai-list{display:flex;flex-direction:column;gap:10px;margin:4px 0 18px;}
   .ai-item{display:block;text-decoration:none;background:#121219;border:1px solid #232330;border-radius:13px;
-    padding:12px 14px;transition:.15s;}
+    padding:12px 14px;transition:.15s;
+    width:100%;font-family:inherit;color:inherit;cursor:pointer;text-align:left;font-size:inherit;
+    appearance:none;-webkit-appearance:none;}
   .ai-item:active{border-color:rgba(139,92,246,.5);}
   .ai-i-title{font-size:14px;font-weight:600;color:#EDEAF7;line-height:1.45;margin-bottom:5px;}
   .ai-i-sum{font-size:12.5px;line-height:1.55;color:#A8A2BC;}
@@ -1104,6 +1108,58 @@ function itemCard(it){
   </button>`;
 }
 
+/* ---------- AI 日报：把 DAILY.ai 转成可进 ITEMS 详情的虚拟条目 ----------
+   DAILY.ai 是后端 LLM 重组出来的结构（headline + sections.items），里面没有
+   ITEMS 必备的 body/points/publishedAt 等字段，URL 也经常为空。
+   渲染时直接 <a target="_blank" href="..."> 会因为 href="" 在新标签页打开 #，
+   看起来就像"开多个相同页面"。这里把每条临时生成 ITEMS 条目，渲染成按钮进
+   站内详情（跟其他模块一致），原文链接保留在详情页底部那条 <a> 上。 */
+function _aiHash(s){
+  let h = 5381;
+  for (let i=0;i<s.length;i++){ h = ((h<<5) + h) + s.charCodeAt(i); h |= 0; }
+  return 'ai-d-' + (h>>>0).toString(36);
+}
+function _aiIdOf(it){
+  return _aiHash(((it && it.sourceUrl) || '') + '|' + (it && it.title || ''));
+}
+function rebuildAiDailyItems(d){
+  if(!d) return;
+  /* 清掉旧的 daily 临时条目（id 前缀 'ai-d-' 即为 AI 日报虚拟条目） */
+  for (let i=ITEMS.length-1; i>=0; i--){
+    if (ITEMS[i].id && ITEMS[i].id.startsWith('ai-d-')) ITEMS.splice(i, 1);
+  }
+  const mk = (it, cat) => ({
+    id: _aiIdOf(it),
+    module: 'ai',
+    cat: cat,
+    title: it.title || '',
+    summary: it.summary || '',
+    source: it.source || '',
+    sourceUrl: it.sourceUrl || '',
+    publishedAt: new Date().toISOString(),
+    tags: [cat, 'AI 日报'],
+    body: [
+      it.summary ? it.summary : (it.title || ''),
+      it.sourceUrl ? `原文链接：${it.sourceUrl}` : ''
+    ].filter(Boolean),
+    points: it.sourceUrl
+      ? ['<b>原文链接</b>：详情页底部 ↗ 查看原文 可跳转到来源页']
+      : ['本页由「每日 AI 行业日报」自动重组，更多细节请见来源页。'],
+    live: false,
+    extra: { daily: true }
+  });
+  if (d.headline && d.headline.title){
+    const it = d.headline;
+    if (!byId(_aiIdOf(it))) ITEMS.push(mk(it, '今日头条'));
+  }
+  (d.sections || []).forEach(sec => {
+    (sec.items || []).forEach(it => {
+      if (!it || !it.title) return;
+      if (!byId(_aiIdOf(it))) ITEMS.push(mk(it, sec.name || 'AI 日报'));
+    });
+  });
+}
+
 /* =======================================================================
    状态与渲染
    ======================================================================= */
@@ -1118,9 +1174,12 @@ function render(){
 }
 
 function renderHome(){
+  // 排除 AI 日报临时条目（id 前缀 'ai-d-' 即每日前线 AI 日报重组出来的虚拟条目），
+  // 否则 today.json 拉下来后这些虚拟条目的 publishedAt = new Date() 会冲到首页最前两位，
+  // 顶掉真实抓取的 ai-gpt56 / ai-opus5 等。
   const lol = ITEMS.filter(x=>x.module==='lol').sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt)).slice(0,2);
-  const fb  = ITEMS.filter(x=>x.module==='football' && x.extra).sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt)).slice(0,2);
-  const ai  = ITEMS.filter(x=>x.module==='ai').sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt)).slice(0,2);
+  const fb  = ITEMS.filter(x=>x.module==='football' && x.extra && !x.extra.daily).sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt)).slice(0,2);
+  const ai  = ITEMS.filter(x=>x.module==='ai' && !x.id.startsWith('ai-d-')).sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt)).slice(0,2);
   const feed = [...lol,...fb,...ai].sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt));
   const d = new Date();
   const wd = ['周日','周一','周二','周三','周四','周五','周六'][d.getDay()];
@@ -1235,6 +1294,9 @@ function renderAi(){
       <div class="page-sub">${d && d.date ? esc(d.date)+' · ' : ''}每天掌握最新科技 · 行业前沿 · 知识干货</div>
     </div>`;
 
+  // 把当天日报临时条目入库（先用今天 DAILY 重建，下次 fetch 覆盖时自动 purge 重灌）
+  rebuildAiDailyItems(d);
+
   // 无日报结构时降级：保留原来的模型卡 + 知识点平铺
   if(!d){
     $scroll.innerHTML = head + `
@@ -1248,7 +1310,7 @@ function renderAi(){
         <div class="m-tags">${esc(m.tags)}</div>
       </button>`).join('')}
       <div class="sec-title purple">行业财报与动向</div>
-      ${ITEMS.filter(x=>x.module==='ai' && ['公司财报','行业动向'].includes(x.cat)).map(itemCard).join('')}
+      ${ITEMS.filter(x=>x.module==='ai' && x.extra && !x.extra.daily && ['公司财报','行业动向'].includes(x.cat)).map(itemCard).join('')}
       <div class="sec-title purple">每日知识点</div>
       ${KNOW.map(k=>`<div class="card" style="cursor:default">
         <div class="card-title">${esc(k.t)}</div>
@@ -1265,27 +1327,27 @@ function renderAi(){
       <span class="ai-insight-txt">${esc(d.insight)}</span>
     </div>` : '';
 
-  // 头条
+  // 头条 —— 改为站点内详情入口（去 target=_blank，避免 sourceUrl 为空时新开 #）
   let headline = '';
   if(d.headline && d.headline.title){
     const h = d.headline;
     headline = `
       <div class="sec-title purple">🔥 今日头条</div>
-      <a class="ai-headline" href="${esc(h.sourceUrl||'#')}" target="_blank" rel="noopener">
+      <button class="ai-headline" type="button" data-item="${_aiIdOf(h)}">
         <div class="ai-h-title">${esc(h.title)}</div>
         <div class="ai-h-sum">${esc(h.summary||'')}</div>
-        <div class="ai-h-src">${esc(h.source||'')} · 查看原文 ›</div>
-      </a>`;
+        <div class="ai-h-src">${esc(h.source||'')} · 进详情页 ›</div>
+      </button>`;
   }
 
-  // 分栏
+  // 分栏 —— 同上，所有 item 一律进站内详情；sourceUrl 为空也只是渲染详情页，原文链接自动空
   const sections = (d.sections||[]).map(sec=>{
-    const items = (sec.items||[]).map(it=>`
-      <a class="ai-item" href="${esc(it.sourceUrl||'#')}" target="_blank" rel="noopener">
+    const items = (sec.items||[]).filter(it=>it && it.title).map(it=>`
+      <button class="ai-item" type="button" data-item="${_aiIdOf(it)}">
         <div class="ai-i-title">${esc(it.title)}</div>
         <div class="ai-i-sum">${esc(it.summary||'')}</div>
-        <div class="ai-i-src">${esc(it.source||'')}${it.sourceUrl?' · 查看原文 ›':''}</div>
-      </a>`).join('');
+        <div class="ai-i-src">${esc(it.source||'')} · 进详情 ›</div>
+      </button>`).join('');
     return `
       <div class="sec-title purple">${esc(sec.name)}</div>
       <div class="ai-list">${items}</div>`;
@@ -1303,10 +1365,16 @@ const $dBody  = document.getElementById('dBody');
 function openDetail(id){
   const it = byId(id); if(!it) return;
   const cls = it.module==='lol'?'gold':it.module==='football'?'green':'purple';
-  const rel = ITEMS.filter(x=>x.module===it.module && x.id!==it.id)
+  // 排除 AI 日报临时条目，避免每条 AI 详情底部"相关资讯"全是当天日报条目，挤掉真实条目
+  const rel = ITEMS.filter(x=>x.module===it.module && x.id!==it.id && !(x.extra && x.extra.daily))
                    .sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt)).slice(0,3);
 
   document.getElementById('dHeadTitle').textContent = it.cat;
+
+  // sourceUrl 为空时禁用"查看原文"入口（避免点出又开一个新标签页到 #）
+  const sourceLink = it.sourceUrl
+    ? `<a class="d-link" href="${esc(it.sourceUrl)}" target="_blank" rel="noopener">↗ 查看原文：${esc(it.source||'')}</a>`
+    : `<div class="d-link" style="cursor:default;opacity:.55;border:1px solid var(--line);background:transparent">无原文链接（来源：${esc(it.source||'未标注')}）</div>`;
 
   $dBody.innerHTML = `
     <div class="d-tags">
@@ -1323,13 +1391,13 @@ function openDetail(id){
     </div>
     <div class="d-sum">${esc(it.summary)}</div>
 
-    ${(it.body||[]).map(p=>`<p class="d-p">${esc(p)}</p>`).join('')}
+    ${(it.body||[]).filter(Boolean).map(p=>`<p class="d-p">${esc(p)}</p>`).join('')}
 
     ${it.points&&it.points.length?`
       <div class="d-h">要点拆解</div>
       <ul class="d-points">${it.points.map(p=>`<li>${p}</li>`).join('')}</ul>`:''}
 
-    <a class="d-link" href="${it.sourceUrl}" target="_blank" rel="noopener">↗ 查看原文：${esc(it.source)}</a>
+    ${sourceLink}
 
     ${rel.length?`
       <div class="d-h">相关资讯</div>
