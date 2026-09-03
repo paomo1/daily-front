@@ -303,11 +303,19 @@ class Store:
 
     def merge(self, items: list[dict]) -> int:
         added = 0
+        updated = 0
         for it in items:
             h = it["id"]
             if h not in self.archive:
                 self.archive[h] = it
                 added += 1
+            elif it.get("module") == "football":
+                # 足球每次重抓会带最新 body/points/extra（同一赛事每天 hash 相同），
+                # 强制覆盖旧条目，否则 today.json 永远是老版本的空 body
+                self.archive[h] = it
+                updated += 1
+        if updated:
+            logger.info(f"football 强制更新 {updated} 条已有赛事")
         return added
 
     def save(self) -> int:
