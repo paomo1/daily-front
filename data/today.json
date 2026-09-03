@@ -1,9 +1,229 @@
 {
-  "generated_at": "2026-09-03T07:08:14.744236+00:00",
+  "generated_at": "2026-09-03T07:15:02.299040+00:00",
   "date": "2026-09-03",
   "keep_days": 7,
-  "count": 346,
+  "count": 365,
   "items": [
+    {
+      "id": "b050e163583a86d19d036c03a2d7de8b468d13e00449b3706df7b95d61ef1606",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型发布",
+      "title": "granite-3.3-8b-cuad-lora：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 harpreet22happy/granite-3.3-8b-cuad-lora，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/harpreet22happy/granite-3.3-8b-cuad-lora",
+      "publishedAt": "2026-09-03T07:14:58+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "689fc8529ede3401388062a494d8aaa9fb30334fda6cb5865251a0145b5c0731",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型发布",
+      "title": "scimt-dispatch-diverse-response-v1：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 arcadia-impact/scimt-dispatch-diverse-response-v1，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/arcadia-impact/scimt-dispatch-diverse-response-v1",
+      "publishedAt": "2026-09-03T07:14:56+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "19b06cb99157fc538c3fa5cf2d8668bfea155cb313ae631a5c982574cdf0afee",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型发布",
+      "title": "envi-nmt-scratch-transformer：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 mgbao/envi-nmt-scratch-transformer，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mgbao/envi-nmt-scratch-transformer",
+      "publishedAt": "2026-09-03T07:14:55+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "a2e305bcdad1c5fa18927fc1fa75615582870f7fa80d092306db5e34ae0ccdbe",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型发布",
+      "title": "new_32_5dztymsgpk：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 exwayhorn/new_32_5dztymsgpk，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/exwayhorn/new_32_5dztymsgpk",
+      "publishedAt": "2026-09-03T07:14:50+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "dc0f1836ff49d81ce25801d5b24f3093e5eeec0b0e03cf27a632f3e40a8cfa29",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型发布",
+      "title": "isomsom____uid32____hk5DZtY：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 reyansh38771/isomsom____uid32____hk5DZtY，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/reyansh38771/isomsom____uid32____hk5DZtY",
+      "publishedAt": "2026-09-03T07:14:49+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "571ffff1d45796e85cca28ec8ce0506da08860ded19e83cf9e3206174b51440f",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型发布",
+      "title": "sherpa-onnx-libs：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 csukuangfj2/sherpa-onnx-libs，0 下载，8 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/csukuangfj2/sherpa-onnx-libs",
+      "publishedAt": "2026-09-03T07:14:46+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "84efaa8bccd0ff811f355eaf660318a37a9209565764bd7a10649d81e918a3bc",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型发布",
+      "title": "xray-models：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 Abhaykr2006/xray-models，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Abhaykr2006/xray-models",
+      "publishedAt": "2026-09-03T07:14:42+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "c3e907845e7937e8e95a463872bd1c0cf65c4bb87b208bbb8800c5b401dba714",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型发布",
+      "title": "MyAwesomeModel-TestRepo：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 DSD1231/MyAwesomeModel-TestRepo，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/DSD1231/MyAwesomeModel-TestRepo",
+      "publishedAt": "2026-09-03T07:14:37+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "a5abea14eaf41c1af76fc2845da80834cf4d0b2a3a38151253d0f99c5974b8b6",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型发布",
+      "title": "isomsom____uid247____hk5FyTu：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 reyansh38771/isomsom____uid247____hk5FyTu，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/reyansh38771/isomsom____uid247____hk5FyTu",
+      "publishedAt": "2026-09-03T07:14:36+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "87f3ebf35eaeeb19aa7741b0524dfcbb7043bb2ad81d92352f7ec85ce4abb8a5",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型发布",
+      "title": "nla-warmstarts：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 asher577/nla-warmstarts，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/asher577/nla-warmstarts",
+      "publishedAt": "2026-09-03T07:14:34+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "99a08f61e2403e8270770781b0f4224eb8654ca2c8deee1d0d86a7554d5969c9",
       "module": "ai",
@@ -2349,6 +2569,27 @@
       "extra": {}
     },
     {
+      "id": "202c533e8e69854943168737aace5275d4de4f3b92adf058ac5d2ca61b494a5e",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "Now that its been long enough, its pretty safe to say that not being able to ban champions hovered by allies was without a doubt, one of the best changes the game ever did, no?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>While it didn't happen every game, it happened way more than it ever should have. Lite",
+      "source": "reddit-lol",
+      "sourceUrl": "https://www.reddit.com/r/leagueoflegends/comments/1w5s4bj/now_that_its_been_long_enough_its_pretty_safe_to/",
+      "publishedAt": "2026-09-03T00:25:49+00:00",
+      "tags": [
+        "lol",
+        "reddit-lol"
+      ],
+      "body": [
+        "<!-- SC_OFF --><div class=\"md\"><p>While it didn't happen every game, it happened way more than it ever should have. Literally anyone that has played league for at least a year (Before the change described in the title) can tell you they have had lobbies where an Ally (Or themselves) hovered a champion and someone else on the team banned it on purple.</p> <p>What happened in these lobbies? People got tilted. The person that got banned by their Griefing Ally immediately is worse this game for several reasons. One, their desired champion (That they probably have the most experience on) is banned by their Ally. Two, since it was their ally that banned it, they are probably feeling done with the game already and want to get away from that person.</p> <p>Never ever have I ever seen a single instance where banning an allied champion (Who wasn't trolling) resulted in anything good. Even when you have someone trolling, like a Jungler hovering Yuumi, banning the Yuumi from the troll didn't do anything. They just trolled with something else.</p> <p>I have seen so many lobbies turn into tiltfests because of some trolls banning their ally's champ. I have been in games where literally the enemy team says &quot; please report X, they banned our mid lane&quot; or some other variation of the sentence.</p> <p>I will truly never understand why this change didn't happen sooner. It never should have been possible to ban out ally champs to begin with. It was literally trolling 101 to ban a champion that your ally hovered. So many people did that shit if someone wouldn't swap lanes/picks with them just to be petty.</p> <p>I am so happy that it eventually got changed. Its such a crazy improvement for the game. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PrestigiousWhirlwind\"> /u/PrestigiousWhirlwind </a> <br /> <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5s4bj/now_that_its_been_long_enough_its_pretty_safe_to/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5s4bj/now_that_its_been_long_enough_its_pretty_safe_to/\">[comments]</a></span>"
+      ],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
       "id": "32732aeb32cc1430a0f91c83efd9b7930a4d62488367c7b7d34565656f8be7a5",
       "module": "ai",
       "seg": null,
@@ -2387,6 +2628,48 @@
       "extra": {}
     },
     {
+      "id": "648b949197daff1ac6b384d18d500bfef574b7b30402ac48068e3934352ab70c",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "The indomitable Baby Raptor spirit",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5pf60/the_indomitable_baby_raptor_spirit/\"",
+      "source": "reddit-lol",
+      "sourceUrl": "https://www.reddit.com/r/leagueoflegends/comments/1w5pf60/the_indomitable_baby_raptor_spirit/",
+      "publishedAt": "2026-09-02T22:30:45+00:00",
+      "tags": [
+        "lol",
+        "reddit-lol"
+      ],
+      "body": [
+        "<table> <tr><td> <a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5pf60/the_indomitable_baby_raptor_spirit/\"> <img alt=\"The indomitable Baby Raptor spirit\" src=\"https://external-preview.redd.it/OHpzaDZwNHJuNm5oMf7YYU7ky0Y73HNYBEcaGJkD-aCE_RZGivXe0BxsG8sO.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=48150c1e62d144bbf5119ee843cf9c31f8bb199c\" title=\"The indomitable Baby Raptor spirit\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Came across this clip and found it hilarious. Edited adding subtitles for the non-italians, and the slowed down jungle pet at the start. The subtitles are more Pg-13 than what he said but he must be passionate :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MorsicaLaCorsica\"> /u/MorsicaLaCorsica </a> <br /> <span><a href=\"https://v.redd.it/61gyxh4rn6nh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5pf60/the_indomitable_baby_raptor_spirit/\">[comments]</a></span> </td></tr></table>"
+      ],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "c0d4c30f883c3dc9478c5248704ad89689fdf9f4018ca4018e4a7731620c1f63",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "League of legends had 100 champions before season 3, almost half of the champions playable at that time are missing and THAT is contributing more to classic dying than anything else",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>That's basically it. If people wonder what the main reason for not wanting to play cla",
+      "source": "reddit-lol",
+      "sourceUrl": "https://www.reddit.com/r/leagueoflegends/comments/1w5pajk/league_of_legends_had_100_champions_before_season/",
+      "publishedAt": "2026-09-02T22:25:40+00:00",
+      "tags": [
+        "lol",
+        "reddit-lol"
+      ],
+      "body": [
+        "<!-- SC_OFF --><div class=\"md\"><p>That's basically it. If people wonder what the main reason for not wanting to play classic is, it's because their champions are not in. Jayce was the 100th champion and he was released 4 months before the season 3 preseason, classic released with 60 champions. Almost half of the roster that was playable for their &quot;target season&quot; of season 3, are not playable.</p> <p>A lot of people point towards the re-grinding of runes being a massive killer for classic, but if you actually played it takes less than a day to get a viable rune page for IP in classic, where it can still take months to get the entire roster via blue essence</p> <p>A lot of people point towards modern skins being available as being a massive killer for classic, and it is, but a good chunk of the modern skins available for use do <em>not</em> change the skeleton or hitboxes. Modern skins for champions like sion and skarner where it uses their post rework model are a knife to the eyes, but does anyone really care if you're using toy terror chogath, debonair brand, or zap'maw? probably not</p> <p>For me the 2 biggest problems of classic are the fact that I can't play almost any of the champions I wanted from classic, and the mmr issue. If you have a decent win rate, your mmr tries to place you with players that simply don't exist. I have a 58% win rate on classic in NA and my queues can go over 15 minutes, if I queue with my girlfriend who has only played 5~ games of classic, my queue times are under 3 minutes. But you know what? I wouldn't mind 15 minute queues or even regrinding runes at the original rates if I could just play old urgot again</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/zharkos\"> /u/zharkos </a> <br /> <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5pajk/league_of_legends_had_100_champions_before_season/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5pajk/league_of_legends_had_100_champions_before_season/\">[comments]</a></span>"
+      ],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
       "id": "f7fcddf154a01108fb4b7f5746a48459ce979c1104a3f0d63a3d77cc66d0677b",
       "module": "ai",
       "seg": null,
@@ -2401,6 +2684,27 @@
         "TechCrunch"
       ],
       "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "d1e38f80e9d959ae5a9c8e936e980495481438930f8c6377a30097fe224d972f",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "Ryalai's Scepter on DOT champions is so frustrating",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Like every tick of the aoe is a slow functionally making it if you dont have a dash, u",
+      "source": "reddit-lol",
+      "sourceUrl": "https://www.reddit.com/r/leagueoflegends/comments/1w5o1pa/ryalais_scepter_on_dot_champions_is_so_frustrating/",
+      "publishedAt": "2026-09-02T21:37:41+00:00",
+      "tags": [
+        "lol",
+        "reddit-lol"
+      ],
+      "body": [
+        "<!-- SC_OFF --><div class=\"md\"><p>Like every tick of the aoe is a slow functionally making it if you dont have a dash, ur basically rooted. Like singed, mordekaiser malzhar and asol become such big threats after buying these items to point of no escape for any champions. It doesnt help that they have either a speed booast, a lockin in, suppression and a large aoe blast you cant escape from. Like its either you out damage them or have a large enough dash to beat them cause their ablities are so hard to dodge since a lot of them have radiuses that are massive(mordes Q) or click ons spells( Malz E).</p> <p>I doubt we wont get a nerf as most of the champs that abuse the item aren't proplay must picks or their ban rates aren't that high. Its just annoying that a 30% slow is constantly being reapplied. Id rather the first tick be 30% and the subsequent applies be 15% slow. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/GrumpyPan\"> /u/GrumpyPan </a> <br /> <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5o1pa/ryalais_scepter_on_dot_champions_is_so_frustrating/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5o1pa/ryalais_scepter_on_dot_champions_is_so_frustrating/\">[comments]</a></span>"
+      ],
       "points": [],
       "live": false,
       "extra": {}
@@ -2885,6 +3189,27 @@
       "extra": {}
     },
     {
+      "id": "208efb94c5bf3dae5a3f335458daa0d9fef30db1ee82281ea03a0c8a0ebc42c4",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "K/DA Comeback Skin News",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5geeb/kda_comeback_skin_news/\"> <img alt=\"",
+      "source": "reddit-lol",
+      "sourceUrl": "https://www.reddit.com/r/leagueoflegends/comments/1w5geeb/kda_comeback_skin_news/",
+      "publishedAt": "2026-09-02T17:08:24+00:00",
+      "tags": [
+        "lol",
+        "reddit-lol"
+      ],
+      "body": [
+        "<table> <tr><td> <a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5geeb/kda_comeback_skin_news/\"> <img alt=\"K/DA Comeback Skin News\" src=\"https://external-preview.redd.it/1WVAH54BwX7AomowQmMJj_hbNkkFiY9_lrGkFzELW4g.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=cb0cadd3bedb6086859c40ad16a894e61670f0b1\" title=\"K/DA Comeback Skin News\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>&quot;K/DA broke cover the other week with ASCAP publishing the Song Name, now with the latest Wild Rift update we can finally gather some information on the upcoming K/DA Skins.&quot;</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/cienkrowa\"> /u/cienkrowa </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=AUXzoK5kuzM\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5geeb/kda_comeback_skin_news/\">[comments]</a></span> </td></tr></table>"
+      ],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
       "id": "724edf8c65730dc51984e86145a0bdd89aa281a3aa606606478fd56c731a78ac",
       "module": "ai",
       "seg": null,
@@ -2909,6 +3234,27 @@
           "cs.LG"
         ]
       }
+    },
+    {
+      "id": "7cde6fba3653dd91a2754773919f5fc8d332fcc6d812971558bb09f8df92fd1e",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "What champs have hidden passives",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The title; i think if you play enough singed games you automatically undergo an uncura",
+      "source": "reddit-lol",
+      "sourceUrl": "https://www.reddit.com/r/leagueoflegends/comments/1w5fr05/what_champs_have_hidden_passives/",
+      "publishedAt": "2026-09-02T16:45:49+00:00",
+      "tags": [
+        "lol",
+        "reddit-lol"
+      ],
+      "body": [
+        "<!-- SC_OFF --><div class=\"md\"><p>The title; i think if you play enough singed games you automatically undergo an uncurable lobotomy that will forever impact the singed players gameplay</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Unusual-Ad8253\"> /u/Unusual-Ad8253 </a> <br /> <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5fr05/what_champs_have_hidden_passives/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5fr05/what_champs_have_hidden_passives/\">[comments]</a></span>"
+      ],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "99b67fd36890eaca10b3bd5afb624057dbfbc2a844a31f222540cca17585e8d7",
@@ -3016,6 +3362,27 @@
         "TechCrunch"
       ],
       "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b29738c34e13cefb8dcea3ffdbee4ae9b77212ea54ccc3e9cd4fe04e3037c5a8",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "KC Yike: \"There’s a huge difference between MSI/EWC scrims and then going back to the LEC [...] Some teams are just playing on autopilot. They barely, or don’t, punish you at all. I can do whatever and not get punished for bad decisions. In EU, you have to understand that scrims can be very fake\"",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5efle/kc_yike_theres_a_huge_difference_bet",
+      "source": "reddit-lol",
+      "sourceUrl": "https://www.reddit.com/r/leagueoflegends/comments/1w5efle/kc_yike_theres_a_huge_difference_between_msiewc/",
+      "publishedAt": "2026-09-02T15:59:00+00:00",
+      "tags": [
+        "lol",
+        "reddit-lol"
+      ],
+      "body": [
+        "<table> <tr><td> <a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5efle/kc_yike_theres_a_huge_difference_between_msiewc/\"> <img alt=\"KC Yike: &quot;There’s a huge difference between MSI/EWC scrims and then going back to the LEC [...] Some teams are just playing on autopilot. They barely, or don’t, punish you at all. I can do whatever and not get punished for bad decisions. In EU, you have to understand that scrims can be very fake&quot;\" src=\"https://external-preview.redd.it/jFJZDzvr6sALtGdS1B4yu7R7jnd-52IUSAJs62lYLm4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6d1420602a5b1c444a80facd16b86e9ecf886ae9\" title=\"KC Yike: &quot;There’s a huge difference between MSI/EWC scrims and then going back to the LEC [...] Some teams are just playing on autopilot. They barely, or don’t, punish you at all. I can do whatever and not get punished for bad decisions. In EU, you have to understand that scrims can be very fake&quot;\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ArmandLuque\"> /u/ArmandLuque </a> <br /> <span><a href=\"https://www.sheepesports.com/en/articles/kc-yike-on-lec-scrim-quality-we-need-tougher-opponents-lec-2026-summer/en\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5efle/kc_yike_theres_a_huge_difference_between_msiewc/\">[comments]</a></span> </td></tr></table>"
+      ],
       "points": [],
       "live": false,
       "extra": {}
@@ -3507,6 +3874,27 @@
         "TechCrunch"
       ],
       "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "4756f4eb610e30b5ac1a19f49d021332420c5c715a4cad274f45ca6b2ebcbe4d",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "Hanwha Life Esports vs. T1 / LCK 2026 Season Playoffs - Upper Bracket Round 2 / Post-Match Discussion",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><h3>LCK 2026 SEASON PLAYOFFS</h3> <p><a href=\"https://watch.lolesports.com/\">Official pag",
+      "source": "reddit-lol",
+      "sourceUrl": "https://www.reddit.com/r/leagueoflegends/comments/1w58gce/hanwha_life_esports_vs_t1_lck_2026_season/",
+      "publishedAt": "2026-09-02T12:06:40+00:00",
+      "tags": [
+        "lol",
+        "reddit-lol"
+      ],
+      "body": [
+        "<!-- SC_OFF --><div class=\"md\"><h3>LCK 2026 SEASON PLAYOFFS</h3> <p><a href=\"https://watch.lolesports.com/\">Official page</a> | <a href=\"https://lol.fandom.com/wiki/LCK/2026_Season/Season_Playoffs\">Leaguepedia</a> | <a href=\"https://liquipedia.net/leagueoflegends/LCK/2026/Playoffs\">Liquipedia</a> | <a href=\"https://eventvods.com/featured/lol?utm_source=reddit&amp;utm_medium=subreddit&amp;utm_campaign=post_match_threads\">Eventvods.com</a> | <a href=\"http://lol.gamepedia.com/New_To_League/Welcome\">New to LoL</a> </p> <hr /> <h3>T1 2-3 Hanwha Life Esports</h3> <ul> <li>HLE moves on to face Gen.G for a spot in the LCK Grand Finals. T1 drops to the lower bracket and will face the winner of the KT vs. DK/BFX series.</li> <li><a href=\"https://imgur.com/a/7MTqNwz\">Player of the Match: Zeka</a></li> <li>Game Discussion: <a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w54m9u/hanwha_life_esports_vs_t1_lck_2026_season/\">Game 1</a> | <a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w55jjn/hanwha_life_esports_vs_t1_lck_2026_season/\">Game 2</a> | <a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w56eol/hanwha_life_esports_vs_t1_lck_2026_season/\">Game 3</a> | <a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w57dgc/hanwha_life_esports_vs_t1_lck_2026_season/\">Game 4</a></li> </ul> <p><strong>T1</strong> | <a href=\"https://lol.fandom.com/wiki/T1\">Leaguepedia</a> | <a href=\"http://liquipedia.net/leagueoflegends/SK_Telecom_T1\">Liquipedia</a> | <a href=\"https://t1.gg/\">Website</a> | <a href=\"https://twitter.com/T1LoL\">Twitter</a> | <a href=\"https://www.facebook.com/T1LoL\">Facebook</a> | <a href=\"https://www.youtube.com/user/SKTTeam1st\">YouTube</a> | <a href=\"https://www.reddit.com/r/SKTT1/\">Subreddit</a><br /> <strong>HLE</strong> | <a href=\"https://lol.fandom.com/wiki/Hanwha_Life_Esports\">Leaguepedia</a> | <a href=\"http://liquipedia.net/leagueoflegends/Hanwha_Life_Esports\">Liquipedia</a> | <a href=\"https://hle.kr/en\">Website</a> | <a href=\"https://twitter.com/HLEofficial\">Twitter</a> | <a href=\"https://www.facebook.com/HLE.lol/\">Facebook</a> | <a href=\"https://www.youtube.com/channel/UCrfB1-zWijAYkgfZW7Ehc8Q\">YouTube</a> | <a href=\"https://www.reddit.com/r/HLE/\">Subreddit</a> </p> <hr /> <h3>MATCH 1: T1 vs. HLE</h3> <p><a href=\"https://imgur.com/a/EBFvfvY\"><strong>Winner: T1</strong> in 29m</a><br /> <a href=\"https://imgur.com/a/l7lRY4Y\">Game Breakdown</a> | <a href=\"https://imgur.com/a/OwOoa9z\">Runes</a> </p> <table><thead> <tr> <th align=\"left\">-</th> <th align=\"center\">Bans 1</th> <th align=\"center\">Bans 2</th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-gold\">G</a></th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-kills\">K</a></th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-towers\">T</a></th> <th align=\"center\">D/B</th> </tr> </thead><tbody> <tr> <td align=\"left\"><strong>T1</strong></td> <td align=\"center\">cassiopeia orianna vi</td> <td align=\"center\">alistar ziggs</td> <td align=\"center\">63.1k</td> <td align=\"center\">23</td> <td align=\"center\">8</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-herald\">H</a><sup>3</sup></td> </tr> <tr> <td align=\"left\"><strong>HLE</strong></td> <td align=\"center\">poppy bard nocturne</td> <td align=\"center\">karma camille</td> <td align=\"center\">55.8k</td> <td align=\"center\">17</td> <td align=\"center\">3</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-hextech\">HT</a><sup>1</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-chemtech\">CT</a><sup>2</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-infernal\">I</a><sup>4</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-infernal\">I</a><sup>5</sup></td> </tr> </tbody></table> <table><thead> <tr> <th align=\"right\"><strong>T1</strong></th> <th align=\"right\">23-17-59</th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-kills\">vs</a></th> <th align=\"left\">17-23-42</th> <th align=\"left\"><strong>HLE</strong></th> </tr> </thead><tbody> <tr> <td align=\"right\">Doran jayce <sup>1</sup></td> <td align=\"right\">2-4-8</td> <td align=\"center\">TOP</td> <td align=\"left\">6-4-5</td> <td align=\"left\"><sup>2</sup> olaf Zeus</td> </tr> <tr> <td align=\"right\">Oner pantheon <sup>2</sup></td> <td align=\"right\">6-2-12</td> <td align=\"center\">JNG</td> <td align=\"left\">4-6-11</td> <td align=\"left\"><sup>1</sup> leesin Kanavi</td> </tr> <tr> <td align=\"right\">Faker ryze <sup>1</sup></td> <td align=\"right\">0-4-12</td> <td align=\"center\">MID</td> <td align=\"left\">3-2-7</td> <td align=\"left\"><sup>2</sup> annie Zeka</td> </tr> <tr> <td align=\"right\">Peyz kalista <sup>3</sup></td> <td align=\"right\">14-4-7</td> <td align=\"center\">BOT</td> <td align=\"left\">4-5-6</td> <td align=\"left\"><sup>3</sup> ashe Gumayusi</td> </tr> <tr> <td align=\"right\">Keria renataglasc <sup>4</sup></td> <td align=\"right\">1-3-20</td> <td align=\"center\">SUP</td> <td align=\"left\">0-6-13</td> <td align=\"left\"><sup>3</sup> seraphine Delight</td> </tr> </tbody></table> <hr /> <h3>MATCH 2: T1 vs. HLE</h3> <p><a href=\"https://imgur.com/a/zw3IQlu\"><strong>Winner: T1</strong> in 29m</a><br /> <a href=\"https://imgur.com/a/WQUQtxh\">Game Breakdown</a> | <a href=\"https://imgur.com/a/Tr0mj0D\">Runes</a> </p> <table><thead> <tr> <th align=\"left\">-</th> <th align=\"center\">Bans 1</th> <th align=\"center\">Bans 2</th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-gold\">G</a></th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-kills\">K</a></th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-towers\">T</a></th> <th align=\"center\">D/B</th> </tr> </thead><tbody> <tr> <td align=\"left\"><strong>T1</strong></td> <td align=\"center\">cassiopeia vi orianna</td> <td align=\"center\">locke akali</td> <td align=\"center\">65.6k</td> <td align=\"center\">26</td> <td align=\"center\">10</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-hextech\">HT</a><sup>1</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-herald\">H</a><sup>2</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-mountain\">M</a><sup>4</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-barons\">B</a><sup>5</sup></td> </tr> <tr> <td align=\"left\"><strong>HLE</strong></td> <td align=\"center\">bard lucian nocturne</td> <td align=\"center\">vayne syndra</td> <td align=\"center\">50.1k</td> <td align=\"center\">6</td> <td align=\"center\">0</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-infernal\">I</a><sup>3</sup></td> </tr> </tbody></table> <table><thead> <tr> <th align=\"right\"><strong>T1</strong></th> <th align=\"right\">25-5-44</th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-kills\">vs</a></th> <th align=\"left\">5-25-11</th> <th align=\"left\"><strong>HLE</strong></th> </tr> </thead><tbody> <tr> <td align=\"right\">Doran gwen <sup>4</sup></td> <td align=\"right\">3-0-4</td> <td align=\"center\">TOP</td> <td align=\"left\">0-2-0</td> <td align=\"left\"><sup>3</sup> ksante Zeus</td> </tr> <tr> <td align=\"right\">Oner qiyana 1</td> <td align=\"right\">5-2-6</td> <td align=\"center\">JNG</td> <td align=\"left\">0-5-4</td> <td align=\"left\"><sup>1</sup> jarvaniv Kanavi</td> </tr> <tr> <td align=\"right\">Faker anivia <sup>3</sup></td> <td align=\"right\">7-0-4</td> <td align=\"center\">MID</td> <td align=\"left\">1-4-1</td> <td align=\"left\"><sup>3</sup> ahri Zeka</td> </tr> <tr> <td align=\"right\">Peyz jhin <sup>1</sup></td> <td align=\"right\">10-2-10</td> <td align=\"center\">BOT</td> <td align=\"left\">3-8-2</td> <td align=\"left\"><sup>2</sup> yunara Gumayusi</td> </tr> <tr> <td align=\"right\">Keria blitzcrank <sup>2</sup></td> <td align=\"right\">0-1-20</td> <td align=\"center\">SUP</td> <td align=\"left\">1-6-4</td> <td align=\"left\"><sup>2</sup> lulu Delight</td> </tr> </tbody></table> <hr /> <h3>MATCH 3: HLE vs. T1</h3> <p><a href=\"https://imgur.com/a/ZdFPIBg\"><strong>Winner: Hanwha Life Esports</strong> in 25m</a><br /> <a href=\"https://imgur.com/a/QMRjkaM\">Game Breakdown</a> | <a href=\"https://imgur.com/a/Ll32pk0\">Runes</a></p> <table><thead> <tr> <th align=\"left\">-</th> <th align=\"center\">Bans 1</th> <th align=\"center\">Bans 2</th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-gold\">G</a></th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-kills\">K</a></th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-towers\">T</a></th> <th align=\"center\">D/B</th> </tr> </thead><tbody> <tr> <td align=\"left\"><strong>HLE</strong></td> <td align=\"center\">bard poppy nocturne</td> <td align=\"center\">lucian zeri</td> <td align=\"center\">55.1k</td> <td align=\"center\">18</td> <td align=\"center\">8</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-ocean\">O</a><sup>1</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-chemtech\">CT</a><sup>2</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-cloud\">C</a><sup>4</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-cloud\">C</a><sup>5</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-barons\">B</a><sup>6</sup></td> </tr> <tr> <td align=\"left\"><strong>T1</strong></td> <td align=\"center\">cassiopeia orianna vi</td> <td align=\"center\">rakan ziggs</td> <td align=\"center\">45.4k</td> <td align=\"center\">9</td> <td align=\"center\">3</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-herald\">H</a><sup>3</sup></td> </tr> </tbody></table> <table><thead> <tr> <th align=\"right\"><strong>HLE</strong></th> <th align=\"right\">18-9-44</th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-kills\">vs</a></th> <th align=\"left\">9-18-22</th> <th align=\"left\"><strong>T1</strong></th> </tr> </thead><tbody> <tr> <td align=\"right\">Zeus camille <sup>1</sup></td> <td align=\"right\">1-0-6</td> <td align=\"center\">TOP</td> <td align=\"left\">2-4-3</td> <td align=\"left\"><sup>1</sup> kennen Doran</td> </tr> <tr> <td align=\"right\">Kanavi sejuani <sup>2</sup></td> <td align=\"right\">3-2-11</td> <td align=\"center\">JNG</td> <td align=\"left\">1-4-5</td> <td align=\"left\"><sup>2</sup> maokai Oner</td> </tr> <tr> <td align=\"right\">Zeka akali <sup>2</sup></td> <td align=\"right\">9-1-6</td> <td align=\"center\">MID</td> <td align=\"left\">2-5-3</td> <td align=\"left\"><sup>1</sup> yone Faker</td> </tr> <tr> <td align=\"right\">Gumayusi missfortune <sup>3</sup></td> <td align=\"right\">5-3-6</td> <td align=\"center\">BOT</td> <td align=\"left\">4-3-4</td> <td align=\"left\"><sup>4</sup> kaisa Peyz</td> </tr> <tr> <td align=\"right\">Delight shen <sup>3</sup></td> <td align=\"right\">0-3-15</td> <td align=\"center\">SUP</td> <td align=\"left\">0-2-7</td> <td align=\"left\"><sup>3</sup> alistar Keria</td> </tr> </tbody></table> <hr /> <h3>MATCH 4: T1 vs. HLE</h3> <p><a href=\"https://imgur.com/a/XzQCa1k\"><strong>Winner: Hanwha Life Esports</strong> in 27m</a><br /> <a href=\"https://imgur.com/a/MVU8tlC\">Game Breakdown</a> | <a href=\"https://imgur.com/a/ZoLjMPa\">Runes</a></p> <table><thead> <tr> <th align=\"left\">-</th> <th align=\"center\">Bans 1</th> <th align=\"center\">Bans 2</th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-gold\">G</a></th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-kills\">K</a></th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-towers\">T</a></th> <th align=\"center\">D/B</th> </tr> </thead><tbody> <tr> <td align=\"left\"><strong>T1</strong></td> <td align=\"center\">ziggs vi rakan</td> <td align=\"center\">gnar trundle</td> <td align=\"center\">47.4k</td> <td align=\"center\">8</td> <td align=\"center\">1</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-herald\">H</a><sup>3</sup></td> </tr> <tr> <td align=\"left\"><strong>HLE</strong></td> <td align=\"center\">bard nocturne karma</td> <td align=\"center\">naafiri ambessa</td> <td align=\"center\">60.8k</td> <td align=\"center\">23</td> <td align=\"center\">101</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-mountain\">M</a><sup>1</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-infernal\">I</a><sup>2</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-ocean\">O</a><sup>4</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-barons\">B</a><sup>5</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-ocean\">O</a><sup>6</sup></td> </tr> </tbody></table> <table><thead> <tr> <th align=\"right\"><strong>T1</strong></th> <th align=\"right\">8-23-21</th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-kills\">vs</a></th> <th align=\"left\">23-8-68</th> <th align=\"left\"><strong>HLE</strong></th> </tr> </thead><tbody> <tr> <td align=\"right\">Doran aatrox <sup>4</sup></td> <td align=\"right\">1-3-2</td> <td align=\"center\">TOP</td> <td align=\"left\">6-1-12</td> <td align=\"left\"><sup>3</sup> gragas Zeus</td> </tr> <tr> <td align=\"right\">Oner skarner <sup>3</sup></td> <td align=\"right\">2-7-4</td> <td align=\"center\">JNG</td> <td align=\"left\">1-4-16</td> <td align=\"left\"><sup>3</sup> xinzhao Kanavi</td> </tr> <tr> <td align=\"right\">Faker orianna <sup>2</sup></td> <td align=\"right\">1-4-6</td> <td align=\"center\">MID</td> <td align=\"left\">10-0-7</td> <td align=\"left\"><sup>1</sup> cassiopeia Zeka</td> </tr> <tr> <td align=\"right\">Peyz lucian <sup>1</sup></td> <td align=\"right\">4-6-2</td> <td align=\"center\">BOT</td> <td align=\"left\">6-1-14</td> <td align=\"left\"><sup>2</sup> varus Gumayusi</td> </tr> <tr> <td align=\"right\">Keria milio <sup>1</sup></td> <td align=\"right\">0-3-7</td> <td align=\"center\">SUP</td> <td align=\"left\">0-2-19</td> <td align=\"left\"><sup>2</sup> nautilus Delight</td> </tr> </tbody></table> <hr /> <h3>MATCH 5: T1 vs. HLE</h3> <p><a href=\"https://imgur.com/a/LxZkwHw\"><strong>Winner: Hanwha Life Esports</strong> in 27m</a><br /> <a href=\"https://imgur.com/a/iiie8RB\">Game Breakdown</a> | <a href=\"https://imgur.com/a/Hw4ISs4\">Runes</a> </p> <table><thead> <tr> <th align=\"left\">-</th> <th align=\"center\">Bans 1</th> <th align=\"center\">Bans 2</th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-gold\">G</a></th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-kills\">K</a></th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-towers\">T</a></th> <th align=\"center\">D/B</th> </tr> </thead><tbody> <tr> <td align=\"left\"><strong>T1</strong></td> <td align=\"center\">vi rumble ziggs</td> <td align=\"center\">locke syndra</td> <td align=\"center\">51.1k</td> <td align=\"center\">9</td> <td align=\"center\">2</td> <td align=\"center\">None</td> </tr> <tr> <td align=\"left\"><strong>HLE</strong></td> <td align=\"center\">ezreal nocturne zeri</td> <td align=\"center\">vayne viktor</td> <td align=\"center\">58.2k</td> <td align=\"center\">22</td> <td align=\"center\">6</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-mountain\">M</a><sup>1</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-hextech\">HT</a><sup>2</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-ocean\">O</a><sup>3</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-ocean\">O</a><sup>4</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-barons\">B</a><sup>5</sup></td> </tr> </tbody></table> <table><thead> <tr> <th align=\"right\"><strong>T1</strong></th> <th align=\"right\">9-22-21</th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-kills\">vs</a></th> <th align=\"left\">22-9-52</th> <th align=\"left\"><strong>HLE</strong></th> </tr> </thead><tbody> <tr> <td align=\"right\">Doran gnar <sup>4</sup></td> <td align=\"right\">3-4-3</td> <td align=\"center\">TOP</td> <td align=\"left\">9-1-5</td> <td align=\"left\"><sup>3</sup> ambessa Zeus</td> </tr> <tr> <td align=\"right\">Oner naafiri <sup>1</sup></td> <td align=\"right\">3-5-3</td> <td align=\"center\">JNG</td> <td align=\"left\">5-3-5</td> <td align=\"left\"><sup>2</sup> chogath Kanavi</td> </tr> <tr> <td align=\"right\">Faker lissandra <sup>3</sup></td> <td align=\"right\">0-2-8</td> <td align=\"center\">MID</td> <td align=\"left\">2-2-13</td> <td align=\"left\"><sup>3</sup> taliyah Zeka</td> </tr> <tr> <td align=\"right\">Peyz jinx <sup>2</sup></td> <td align=\"right\">3-5-2</td> <td align=\"center\">BOT</td> <td align=\"left\">6-2-11</td> <td align=\"left\"><sup>1</sup> caitlyn Gumayusi</td> </tr> <tr> <td align=\"right\">Keria bard <sup>1</sup></td> <td align=\"right\">0-6-5</td> <td align=\"center\">SUP</td> <td align=\"left\">0-1-18</td> <td align=\"left\"><sup>2</sup> karma Delight</td> </tr> </tbody></table> <p><strong>*Patch 26.16</strong></p> <hr /> <p>This thread was created by the Post-Match Team.<br /> [</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Yujin-Ha\"> /u/Yujin-Ha </a> <br /> <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w58gce/hanwha_life_esports_vs_t1_lck_2026_season/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w58gce/hanwha_life_esports_vs_t1_lck_2026_season/\">[comments]</a></span>"
+      ],
       "points": [],
       "live": false,
       "extra": {}
@@ -7514,6 +7902,27 @@
       "extra": {}
     },
     {
+      "id": "b4c4d867a14b1b9e3cc6c57b982b193af61ed755dc374d6f44f5c5fec2bc4acc",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "Monday Megathread! Ask questions and share knowledge; newcomer questions encouraged!",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Welcome to the latest Monday Megathread, where you the community get to ask your quest",
+      "source": "reddit-lol",
+      "sourceUrl": "https://www.reddit.com/r/leagueoflegends/comments/1w30tgx/monday_megathread_ask_questions_and_share/",
+      "publishedAt": "2026-08-31T02:30:14+00:00",
+      "tags": [
+        "lol",
+        "reddit-lol"
+      ],
+      "body": [
+        "<!-- SC_OFF --><div class=\"md\"><p>Welcome to the latest Monday Megathread, where you the community get to ask your questions and share your knowledge.</p> <p>Need help against a certain champion? Unsure how and where to ward? Looking to improve your csing? This is the place to ask. This weekly thread is a place for new players to ask questions and get help/advice from more experienced players. So, don't hold back, get your game related questions ready and post away, and hopefully someone can answer them!</p> <p><strong><a href=\"https://www.reddit.com/r/leagueoflegends/search?q=Monday+Megathread%21+Ask+questions+and+share+knowledge%3B+newcomer+questions+encouraged%21&amp;sort=new&amp;restrict_sr=on&amp;t=year\">Previous threads</a></strong></p> <hr /> <p>If you wish to just view top level comments (ie questions) add <strong>?depth=1</strong> to the end of the page url. </p> <p>Looking to chat with people live? Come check out our discord channel <a href=\"http://discord.gg/lol\">here!</a> We also have the channel #new-player-help if you want to ask questions there.</p> <p><strong>If you are willing to learn, <a href=\"https://www.reddit.com/r/SummonerSchool\">/r/SummonerSchool</a> and <a href=\"https://discord.gg/summonerschool\">its respective discord</a> are always willing to teach.</strong></p> <hr /> <p><strong><a href=\"http://www.reddit.com/r/leagueoflegends/wiki/faq/advanced#wiki_what_do_people_mean_by_saying_.22mechanics.22.3F\">Basic Mechanics explanation in our Wiki</a></strong></p> <p><a href=\"http://www.mobafire.com/league-of-legends/build/the-essentials-league-of-legends-new-player-game-guide-371292\">New Player Guide by /u/The-All-Tomato</a></p> <p><a href=\"https://na.leagueoflegends.com/en/featured/new-player-guide?source=https://na.leagueoflegends.com/en/site/guide/#/?_k=25mein\">Riot's New Player Guide</a></p> <p><a href=\"https://lol.gamepedia.com/New_To_League/Welcome\">LolEsports New Viewer Guide</a></p> <p><strong>Other:</strong> </p> <ul> <li><p>Check out our <a href=\"https://www.reddit.com/r/leagueoflegends/wiki/relatedsubreddits\">related subreddits section</a> for champion mains, teams, and other subreddits.</p></li> <li><p>Visit <a href=\"https://www.reddit.com/r/lolstreams\">/r/lolstreams</a> for all your streaming needs.</p></li> <li><p>Visit <a href=\"https://www.reddit.com/r/lolesports\">/r/lolesports</a> for everything esports.</p></li> <li><p>Visit <a href=\"https://www.reddit.com/r/leagueoflegendsmeta\">/r/leagueoflegendsmeta</a> to discuss the meta game.</p></li> <li><p>Visit <a href=\"https://www.reddit.com/r/leagueofmemes\">/r/leagueofmemes</a> because dank memes cannot melt scuttle crab dreams.</p></li> </ul> <p><strong>Please sort this post by new, so that you can see the newer, unanswered questions.</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w30tgx/monday_megathread_ask_questions_and_share/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w30tgx/monday_megathread_ask_questions_and_share/\">[comments]</a></span>"
+      ],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
       "id": "eb321a17104cc158b0ae1ff54c55943d850a0b57bfc1f997ad25ae48f05bc9a0",
       "module": "lol",
       "seg": "rune",
@@ -7821,326 +8230,5 @@
       "live": false,
       "extra": {}
     }
-  ],
-  "daily": {
-    "ai": {
-      "insight": "AI安全与信任危机成全球焦点，多国监管、诉讼与技术应对同步升级",
-      "headline": {
-        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-        "summary": "OpenAI新模型Astra采用“循环深度”技术，突破传统推理模型的顺序思维限制。",
-        "source": "TechCrunch",
-        "sourceUrl": ""
-      },
-      "sections": [
-        {
-          "name": "最新科技",
-          "items": [
-            {
-              "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-              "summary": "OpenAI新模型Astra采用“循环深度”技术，突破传统推理模型的顺序思维限制。",
-              "source": "TechCrunch",
-              "sourceUrl": ""
-            },
-            {
-              "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
-              "summary": "OpenAI拟推最强AI模型Astra，因测试中代理攻击真实目标而多次延期。研究人员警告其“或是AI安全史上最糟糕进展”。",
-              "source": "The Verge",
-              "sourceUrl": ""
-            },
-            {
-              "title": "MoS-Aurora-Experiment-Archive：nlp 模型更新",
-              "summary": "HuggingFace 上 ryan-0608/MoS-Aurora-Experiment-Archive NLP 模型暂无下载量与点赞数。",
-              "source": "HuggingFace",
-              "sourceUrl": ""
-            }
-          ]
-        },
-        {
-          "name": "行业动态",
-          "items": [
-            {
-              "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-              "summary": "TechCrunch Disrupt 将重启“建造者舞台”，汇聚创始人、初创运营者及投资人，聚焦实战性建企与规模化议题。",
-              "source": "TechCrunch",
-              "sourceUrl": ""
-            },
-            {
-              "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-              "summary": "红杉资本支持的Serval成AI IT服务自动化领域初创企业领导者。",
-              "source": "TechCrunch",
-              "sourceUrl": ""
-            },
-            {
-              "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-              "summary": "美国致力于发展强大、具竞争力的人工智能产业，以全球标准引领AI应用实践。",
-              "source": "TechCrunch",
-              "sourceUrl": ""
-            },
-            {
-              "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-              "summary": "旧金山云平台Railway获1亿美元B轮融资，估值跃升。其零营销吸引200万开发者，主打简化AI应用部署，挑战AWS等传统云服务。",
-              "source": "VentureBeat",
-              "sourceUrl": ""
-            }
-          ]
-        },
-        {
-          "name": "知识前沿",
-          "items": [
-            {
-              "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-              "summary": "企业AI部署多智能体后，连接路径呈指数级增长，导致系统失控、决策黑箱化，安全与治理难度陡增。",
-              "source": "VentureBeat",
-              "sourceUrl": ""
-            },
-            {
-              "title": "When agents act on their own, governance has to live in the data layer",
-              "summary": "AI代理需实时上下文规则而非静态策略，因自主决策依赖动态环境判断，传统“事前指令+事后监控”存在结构性局限。",
-              "source": "VentureBeat",
-              "sourceUrl": ""
-            }
-          ]
-        },
-        {
-          "name": "应用落地",
-          "items": [
-            {
-              "title": "Amazon’s AI assistant can now spot fake emails from the company",
-              "summary": "亚马逊推出新功能：用户可让Alexa for Shopping用AI识别邮件、短信或电话是否为官方发送，以防范仿冒诈骗。",
-              "source": "The Verge",
-              "sourceUrl": ""
-            },
-            {
-              "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-              "summary": "谷歌宣布彻底重构搜索框：25年来首次重大升级，支持多模态输入（文本、图像、视频等），整合AI概览与AI模式，打造无缝AI搜索体验。",
-              "source": "VentureBeat",
-              "sourceUrl": ""
-            },
-            {
-              "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
-              "summary": "SkyProduction（天工工作台）全新版本于8月31日正式上线",
-              "source": "量子位",
-              "sourceUrl": ""
-            },
-            {
-              "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
-              "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
-              "source": "量子位",
-              "sourceUrl": ""
-            }
-          ]
-        }
-      ]
-    }
-  },
-  "football": {
-    "fixtures": [
-      {
-        "t": "03:00",
-        "lg": "英超",
-        "h": "Ipswich Town",
-        "a": "Liverpool",
-        "s": null,
-        "itemId": "fb-2494027",
-        "url": "https://www.thesportsdb.com/event/2494027",
-        "extra": {
-          "round": "3",
-          "season": "2026-2027",
-          "venue": "Portman Road",
-          "date": "2026-09-04",
-          "country": "England",
-          "status": "NS"
-        }
-      },
-      {
-        "t": "03:00",
-        "lg": "西甲",
-        "h": "Real Sociedad",
-        "a": "Celta Vigo",
-        "s": null,
-        "itemId": "fb-2506226",
-        "url": "https://www.thesportsdb.com/event/2506226",
-        "extra": {
-          "round": "6",
-          "season": "2026-2027",
-          "venue": "Reale Arena",
-          "date": "2026-09-03",
-          "country": "Spain",
-          "status": "NS"
-        }
-      },
-      {
-        "t": "02:30",
-        "lg": "德甲",
-        "h": "Stuttgart",
-        "a": "Köln",
-        "s": null,
-        "itemId": "fb-2508347",
-        "url": "https://www.thesportsdb.com/event/2508347",
-        "extra": {
-          "round": "2",
-          "season": "2026-2027",
-          "venue": "MHP Arena",
-          "date": "2026-09-04",
-          "country": "Germany",
-          "status": "NS"
-        }
-      },
-      {
-        "t": "02:45",
-        "lg": "意甲",
-        "h": "Genoa",
-        "a": "Como",
-        "s": null,
-        "itemId": "fb-2482160",
-        "url": "https://www.thesportsdb.com/event/2482160",
-        "extra": {
-          "round": "3",
-          "season": "2026-2027",
-          "venue": "Stadio Luigi Ferraris",
-          "date": "2026-09-04",
-          "country": "Italy",
-          "status": "NS"
-        }
-      },
-      {
-        "t": "02:45",
-        "lg": "法甲",
-        "h": "Toulouse",
-        "a": "Lille",
-        "s": null,
-        "itemId": "fb-2489485",
-        "url": "https://www.thesportsdb.com/event/2489485",
-        "extra": {
-          "round": "3",
-          "season": "2026-2027",
-          "venue": "Stadium de Toulouse",
-          "date": "2026-09-03",
-          "country": "France",
-          "status": "NS"
-        }
-      },
-      {
-        "t": "00:45",
-        "lg": "欧冠",
-        "h": "Club Brugge",
-        "a": "Aston Villa",
-        "s": null,
-        "itemId": "fb-2594644",
-        "url": "https://www.thesportsdb.com/event/2594644",
-        "extra": {
-          "round": "1",
-          "season": "2026-2027",
-          "venue": "Jan Breydel Stadium",
-          "date": "2026-09-08",
-          "country": "Belgium",
-          "status": "NS"
-        }
-      }
-    ],
-    "results": [
-      {
-        "t": "03:00",
-        "lg": "英超",
-        "h": "Aston Villa",
-        "a": "Arsenal",
-        "s": "0-1",
-        "itemId": "fb-2494017",
-        "url": "https://www.youtube.com/watch?v=9ogC38l8nTU",
-        "extra": {
-          "round": "2",
-          "season": "2026-2027",
-          "venue": "Villa Park",
-          "date": "2026-08-31",
-          "country": "England",
-          "status": "FT"
-        }
-      },
-      {
-        "t": "03:30",
-        "lg": "西甲",
-        "h": "Barcelona",
-        "a": "Rayo Vallecano",
-        "s": "5-2",
-        "itemId": "fb-2506189",
-        "url": "https://www.youtube.com/watch?v=BJW5gAgk4bg",
-        "extra": {
-          "round": "3",
-          "season": "2026-2027",
-          "venue": "Spotify Camp Nou",
-          "date": "2026-08-31",
-          "country": "Spain",
-          "status": "FT"
-        }
-      },
-      {
-        "t": "23:30",
-        "lg": "德甲",
-        "h": "Augsburg",
-        "a": "Schalke 04",
-        "s": "3-0",
-        "itemId": "fb-2508337",
-        "url": "https://www.youtube.com/watch?v=rl7DwuTaipo",
-        "extra": {
-          "round": "1",
-          "season": "2026-2027",
-          "venue": "WWK Arena",
-          "date": "2026-08-30",
-          "country": "Germany",
-          "status": "FT"
-        }
-      },
-      {
-        "t": "02:45",
-        "lg": "意甲",
-        "h": "Atalanta",
-        "a": "Bologna",
-        "s": "1-0",
-        "itemId": "fb-2482154",
-        "url": "https://www.youtube.com/watch?v=LYOXkS8JqM0",
-        "extra": {
-          "round": "2",
-          "season": "2026-2027",
-          "venue": "New Balance Arena",
-          "date": "2026-08-31",
-          "country": "Italy",
-          "status": "FT"
-        }
-      },
-      {
-        "t": "02:45",
-        "lg": "法甲",
-        "h": "Monaco",
-        "a": "Marseille",
-        "s": "2-0",
-        "itemId": "fb-2489472",
-        "url": "https://www.youtube.com/watch?v=ouMSzjPSIKs",
-        "extra": {
-          "round": "2",
-          "season": "2026-2027",
-          "venue": "Stade Louis II",
-          "date": "2026-08-30",
-          "country": "Monaco",
-          "status": "FT"
-        }
-      },
-      {
-        "t": "03:00",
-        "lg": "欧冠",
-        "h": "Viking",
-        "a": "Dinamo Zagreb",
-        "s": "3-1",
-        "itemId": "fb-2570484",
-        "url": "https://www.thesportsdb.com/event/2570484",
-        "extra": {
-          "round": "0",
-          "season": "2026-2027",
-          "venue": "Viking Stadion",
-          "date": "2026-08-26",
-          "country": "Norway",
-          "status": "FT"
-        }
-      }
-    ]
-  }
+  ]
 }
