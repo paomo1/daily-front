@@ -291,11 +291,11 @@
 </div>
 
 <div class="side">
-  <div class="s-title">每日前线 · 真实数据版</div>
+  <div class="s-title">每日前线 · 自动更新版</div>
   <div class="s-lead">
-    上一版是示意假数据，你打开发现"全是以前的信息"——那不是你卡了，是我写死了。<br>
-    这次换成 <b style="color:var(--fg)">2026-09-01 抓取的真实资讯</b>，每条都带来源和原文链接，
-    并且<b style="color:var(--fg)">点任意卡片都能进全文详情</b>。
+    数据由 GitHub Actions 每天 <b style="color:var(--fg)">北京时间 09:00 / 20:00</b> 自动抓取并提交到 <code>data/today.json</code>，
+    刷新页面或点顶部「刷新」即拉到最新。每条都带来源和原文链接，
+    <b style="color:var(--fg)">点任意卡片都能进全文详情</b>。
   </div>
 
   <div class="s-block">
@@ -305,27 +305,26 @@
       <li><b>任意资讯卡 / 赛程行 / 模型卡</b> — 进全文详情（带返回）</li>
       <li><b>英雄联盟三段</b> — 海斗 / 比赛 / 云顶 切换</li>
       <li><b>足球联赛 chip</b> — 点「英超」只看英超</li>
-      <li><b>顶部「刷新」</b> — 模拟拉取，更新时间</li>
+      <li><b>顶部「刷新」</b> — 重新拉 today.json</li>
       <li><b>详情页底部</b> — 原文链接 + 相关条目</li>
     </ul>
   </div>
 
   <div class="s-block">
-    <div class="s-h">本次数据来源（真实抓取）</div>
+    <div class="s-h">数据来源（实时抓取）</div>
     <ul class="s-list">
       <li><b>英雄联盟</b> — 腾讯英雄联盟日报、Inven Global、16score、虎扑电竞</li>
-      <li><b>足球</b> — 直播吧/头条足球早报、新浪体育、FYT体育、搜狐观战台</li>
-      <li><b>AI</b> — spectrumailab 模型选型指南（9/1 更新）、felloai 九月榜、同花顺券商研报</li>
+      <li><b>足球</b> — TheSportsDB（轮次/比分/场地） / 直播吧 / 新浪体育 / 搜狐观战台</li>
+      <li><b>AI</b> — HuggingFace Trending、arXiv、spectrumailab 模型选型指南、同花顺券商研报</li>
       <li><b>云顶</b> — 金铲铲阵容库（S/A 评级）、GGAMen S18 赛季梯度</li>
     </ul>
   </div>
 
   <div class="warn">
-    <b>⚠ 一句实话</b><br>
-    这份真实数据是我手工抓的<b>一次性快照</b>，写死在页面里。它不会自己变新——
-    明天打开还是 9 月 1 日的内容。要做到"每天自动更新"，必须有后端定时任务去抓，
-    这是第 4 件事要给你的方案。<br><br>
-    顶部「刷新」按钮只是模拟拉取动画，不会真的联网。
+    <b>⚙ 自动更新链路</b><br>
+    后端 <code>backend/collector.py</code> 由 <code>.github/workflows/daily-update.yml</code> 调度，
+    跑完把 <code>data/today.json</code> + <code>archive.json</code> commit 回仓库，Pages 自动重新部署。<br><br>
+    本地 <code>file://</code> 双击打开时 fetch 拿不到，会回退到内置的 2026-09-01 真实快照。
   </div>
 
   <div class="s-block" style="margin-top:12px">
@@ -1153,7 +1152,7 @@ function renderHome(){
     <div class="sec-title">今日精选 · 按时间排序</div>
     ${feed.map(itemCard).join('')}
     <div class="d-note" style="margin-top:20px">
-      全部 ${ITEMS.length} 条均为 2026-09-01 手工抓取的真实资讯，每条都带来源与原文链接。
+      全部 ${ITEMS.length} 条均为 GitHub Actions 每日自动抓取的真实资讯，每条都带来源与原文链接。
       点任意卡片进入全文。
     </div>`;
 }
@@ -1188,7 +1187,7 @@ function renderFootball(){
   $scroll.innerHTML = `
     <div class="page-head">
       <div class="page-title">足球</div>
-      <div class="page-sub">五大联赛 · 欧冠 · 2026-09-01 赛程与战报</div>
+      <div class="page-sub">五大联赛 · 欧冠 · 实时赛程与战报</div>
     </div>
     <div class="chips">
       ${leagues.map(l=>`<button class="chip ${S.league===l?'on':''}" data-lg="${l}">${l}</button>`).join('')}
@@ -1335,8 +1334,7 @@ function openDetail(id){
       </button>`).join('')}</div>`:''}
 
     <div class="d-note">
-      本条为 2026-09-01 抓取的快照内容。若要实现每日自动更新，需要后端定时任务持续抓取源站——
-      这是原型之外的工程部分。
+      原文链接见上方 ↗。本页所有内容由后端 <code>collector.py</code> 自动采集，源站版权归原作者。
     </div>`;
 
   $detail.classList.add('show');
@@ -1369,12 +1367,13 @@ $dBody.addEventListener('click', e=>{
 document.getElementById('dBack').addEventListener('click', closeDetail);
 document.addEventListener('keydown', e=>{ if(e.key==='Escape') closeDetail(); });
 
-/* 刷新（模拟） */
+/* 顶部「数据快照」时间戳：fetch 成功会用 j.generated_at 覆盖 SNAP，再 paintSnap 重绘 */
 const SNAP = new Date('2026-09-01T16:40:00+08:00');
 function paintSnap(){
   const f = n=>String(n).padStart(2,'0');
+  const ymd = `${SNAP.getFullYear()}-${f(SNAP.getMonth()+1)}-${f(SNAP.getDate())}`;
   document.getElementById('snapTxt').innerHTML =
-    `数据快照 <span class="mono">2026-09-01 ${f(SNAP.getHours())}:${f(SNAP.getMinutes())}</span> · 共 ${ITEMS.length} 条`;
+    `数据快照 <span class="mono">${ymd} ${f(SNAP.getHours())}:${f(SNAP.getMinutes())}</span> · 共 ${ITEMS.length} 条`;
 }
 paintSnap();
 
