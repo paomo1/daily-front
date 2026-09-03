@@ -1,4 +1,4 @@
-﻿"""
+"""
 每日前线 数据采集器（方案 A · 静态 JSON 版）
 ==========================================
 功能：抓取三模块（LOL / 足球 / AI）的资讯，写入静态 JSON 文件。
@@ -51,7 +51,7 @@ from abc import ABC, abstractmethod
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from typing import Any, Iterable
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlencode
 
 import requests
 import feedparser
@@ -658,7 +658,7 @@ class LOLCollector(BaseCollector):
         params = dict(params)
         params["wts"] = int(time.time())
         params = dict(sorted(params.items()))
-        query = urllib.parse.urlencode(params)
+        query = urlencode(params)
         params["w_rid"] = hashlib.md5((query + mk).encode()).hexdigest()
         return params
 
