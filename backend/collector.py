@@ -605,8 +605,8 @@ class LOLCollector(BaseCollector):
     module = "lol"
 
     # 单源策略（前端 renderLol 按 seg 分 4 个 tab：rune=海斗资讯 / rift=峡谷攻略 / match=比赛 / tft=云顶之弈）：
-    #  哔哩哔哩搜索 —— 玩家向 UGC 视频（海斗黑科技 / 云顶阵容 / 比赛复盘），内地直连可达，
-    #     家庭宽带通常不被风控；裸 API 偶发返回验证码页（数据中心 IP 易触发），已做容错跳过。
+    #  哔哩哔哩搜索 —— 玩家向 UGC 视频（海斗黑科技 / 云顶阵容 / 比赛复盘），内地直连可达。
+    #  已加 wbi 签名（见 _sign），绕过此前偶发的 412 Precondition Failed 风控，现稳定 code=0。
     # 任一关键词失败仅打 warning，不阻塞其他关键词；前端按 seg 自动归位到对应 tab。
     #
     # 注：Google News 兜底源已移除——内地直连被墙、0 贡献，属死代码；B站已稳定出数。
@@ -629,6 +629,39 @@ class LOLCollector(BaseCollector):
         "Referer": "https://search.bilibili.com/",
     }
 
+    # ---------------- B站 wbi 签名（绕过 412 风控） ----------------
+    # 裸调搜索 API 偶发 412 Precondition Failed（缺 wbi 签名），数据中心 IP 易触发。
+    # 加 wbi 签名（nav 接口拿 img/sub key → mixin_key → 对参数算 w_rid）即可稳定 code=0。
+    _WBI_MIXIN_KEY: str | None = None
+    _WBI_MIXIN_KEY_TS: float = 0.0
+    _WBI_ENC_TAB = [46,47,18,2,53,8,23,32,15,50,10,31,58,3,45,35,27,43,5,49,33,9,42,19,29,28,14,39,12,38,41,13,37,48,7,16,24,55,40,61,26,17,0,1,60,51,30,4,22,25,54,21,56,59,6,63,57,62,11,36,20,34,44,52,32,49,38]
+
+    @classmethod
+    def _wbi_mixin_key(cls) -> str:
+        now = time.time()
+        if cls._WBI_MIXIN_KEY and now - cls._WBI_MIXIN_KEY_TS < 600:
+            return cls._WBI_MIXIN_KEY
+        r = http_get("https://api.bilibili.com/x/web-interface/nav", headers=cls.HEADERS)
+        data = r.json().get("data", {})
+        img_url = data.get("wbi_img", {}).get("img_url", "")
+        sub_url = data.get("wbi_img", {}).get("sub_url", "")
+        img_key = img_url.split("/")[-1].split(".")[0]
+        sub_key = sub_url.split("/")[-1].split(".")[0]
+        orig = img_key + sub_key
+        mk = "".join(orig[i] for i in cls._WBI_ENC_TAB)[:32]
+        cls._WBI_MIXIN_KEY = mk
+        cls._WBI_MIXIN_KEY_TS = now
+        return mk
+
+    def _sign(self, params: dict) -> dict:
+        mk = self._wbi_mixin_key()
+        params = dict(params)
+        params["wts"] = int(time.time())
+        params = dict(sorted(params.items()))
+        query = urllib.parse.urlencode(params)
+        params["w_rid"] = hashlib.md5((query + mk).encode()).hexdigest()
+        return params
+
     def fetch(self) -> Iterable[dict]:
         yield from self._fetch_bili()
 
@@ -649,6 +682,7 @@ class LOLCollector(BaseCollector):
     def _bili_search(self, keyword: str, topn: int) -> list[dict]:
         url = "https://api.bilibili.com/x/web-interface/search/type"
         params = {"search_type": "video", "keyword": keyword, "page": 1}
+        params = self._sign(params)  # wbi 签名：绕过 412 风控
         r = http_get(url, headers=self.HEADERS, params=params)
         ct = r.headers.get("Content-Type", "")
         if not ct.startswith("application/json"):
