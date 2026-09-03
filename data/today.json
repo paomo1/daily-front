@@ -1,9 +1,295 @@
 {
-  "generated_at": "2026-09-03T05:29:06.917485+00:00",
+  "generated_at": "2026-09-03T05:31:28.120959+00:00",
   "date": "2026-09-03",
   "keep_days": 7,
-  "count": 283,
+  "count": 296,
   "items": [
+    {
+      "id": "b186624d3c2cc10896e58a6727e885fa39470dce27e802779f73374b3fe10ac5",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MyAwesomeModel-TestRepo：nlp 模型更新",
+      "summary": "HuggingFace 上模型 asadqwr/MyAwesomeModel-TestRepo 无人下载、无点赞，热度为零。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/asadqwr/MyAwesomeModel-TestRepo",
+      "publishedAt": "2026-09-03T05:30:43+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "04f11cdd7720ee611c24a81b771cec0597f043b97100ab4bcf05785b6eae749c",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "koth-r2：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 krisha0253/koth-r2，0 下载，1 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/krisha0253/koth-r2",
+      "publishedAt": "2026-09-03T05:30:42+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 1
+      }
+    },
+    {
+      "id": "26ce9ec6041e93ad1b5724a9a1e03cb9217ecfa8ec4b54a19985a83d585ccced",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "spd09：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 PES24/spd09，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/PES24/spd09",
+      "publishedAt": "2026-09-03T05:30:38+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "3d1902a737b111513d61deea3c93760ad7c653ff24b9149c3454b252e5f2c084",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "koth-miner5：nlp 模型更新",
+      "summary": "HuggingFace 上 NLP 模型 beketov027/koth-miner5 无人下载、零点赞，热度为零。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/beketov027/koth-miner5",
+      "publishedAt": "2026-09-03T05:30:36+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "e1fe173392a49ee9bc185297db6887ffaedc7c95f516ae2c2d672f61e0941adb",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "ipo01：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 highlands/ipo01，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/highlands/ipo01",
+      "publishedAt": "2026-09-03T05:30:35+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "6221196b3248d957767a175e2159a54abb10f99469ee81b81bb09e4f73c8034d",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Hy-MT2-1.8B-JP-Manga-Finetune-v5-GGUF：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型 fumetodev/Hy-MT2-1.8B-JP-Manga-Finetune-v5-GGUF 目前下载量与点赞数均为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/fumetodev/Hy-MT2-1.8B-JP-Manga-Finetune-v5-GGUF",
+      "publishedAt": "2026-09-03T05:30:34+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "481e6dc034fdf16baa8bd3c451ba3b0aae4d2d873561dd4dfacbf6f51d2ae639",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Hy-MT2-1.8B-JP-Manga-Finetune-v5：nlp 模型更新",
+      "summary": "HuggingFace 上热门日漫翻译模型 Hy-MT2-1.8B-JP-Manga-Finetune-v5 目前下载量与点赞数均为 0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/fumetodev/Hy-MT2-1.8B-JP-Manga-Finetune-v5",
+      "publishedAt": "2026-09-03T05:30:33+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "f78e6bc47bfaa9086a58660d4b4fa11410acb55df09186e137bdcebeb41897d2",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MANN-GPT：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 wuff-mann/MANN-GPT，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/wuff-mann/MANN-GPT",
+      "publishedAt": "2026-09-03T05:30:31+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "0008c7ef40c2d4598b29d86a12cc9eb543f796fab0b2b745cf27a0243cddd495",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "cardiomamba-baselines-v2：audio-to-audio 模型更新",
+      "summary": "HuggingFace 上音频转音频模型 Shanmuk4622/cardiomamba-baselines-v2 目前下载量与点赞数均为 0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Shanmuk4622/cardiomamba-baselines-v2",
+      "publishedAt": "2026-09-03T05:30:30+00:00",
+      "tags": [
+        "huggingface",
+        "audio-to-audio"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "69fc32f5cbe4692ea088d89485522f555cc4ef074d5f1e66eb2ccf7f8a6c42e3",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "act_lego_pick_v3：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型 sankatmochan/act_lego_pick_v3 目前下载量为0，获1个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/sankatmochan/act_lego_pick_v3",
+      "publishedAt": "2026-09-03T05:30:27+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 1
+      }
+    },
+    {
+      "id": "2b507c2edb5ce690cd0eeef15f894953faa57cbf386668e63c18fe1e787df080",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "kab-tts-diffsinger：nlp 模型更新",
+      "summary": "HuggingFace 上热门NLP模型kmerakeb/kab-tts-diffsinger下载量195次，暂无点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/kmerakeb/kab-tts-diffsinger",
+      "publishedAt": "2026-09-03T05:30:26+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 195,
+        "likes": 0
+      }
+    },
+    {
+      "id": "a9ec01c439d3d6907396477b51e905bb1ca68895239b401f3ef5fafad630914f",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "koth-r3：nlp 模型更新",
+      "summary": "HuggingFace 热门 nlp 模型 krisha0253/koth-r3，0 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/krisha0253/koth-r3",
+      "publishedAt": "2026-09-03T05:30:26+00:00",
+      "tags": [
+        "huggingface",
+        "nlp"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "b28d1315a6cea4afbf023f4058e4b5f19dd7c55f948b2549dda27d38cb3b1ea5",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Whittle-Next-26B-A3B：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 logic65/Whittle-Next-26B-A3B 目前下载量与点赞数均为 0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/logic65/Whittle-Next-26B-A3B",
+      "publishedAt": "2026-09-03T05:30:26+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 0
+      }
+    },
     {
       "id": "daca535468992abf8c2fd02d97468509b2f1fec0105d36e92f7020d6e6042f7a",
       "module": "ai",
@@ -6290,7 +6576,7 @@
   ],
   "daily": {
     "ai": {
-      "insight": "AI信任危机与治理复杂性成企业落地最大瓶颈",
+      "insight": "AI安全与治理危机全面升级，代理复杂性、版权争议与信任崩塌成焦点",
       "headline": {
         "title": "OpenAI’s new reasoning technique alarms AI safety experts",
         "summary": "OpenAI新模型Astra采用“循环深度”技术，突破传统推理模型的顺序思维限制。",
@@ -6331,21 +6617,21 @@
               "sourceUrl": ""
             },
             {
-              "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-              "summary": "旧金山云平台Railway获1亿美元B轮融资，估值飙升。成立至今零营销费用，已吸引200万开发者，主打简化AI应用部署，挑战AWS、谷歌云等传统云服务。",
+              "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+              "summary": "红杉资本支持的Serval成AI IT服务自动化领域初创企业领导者。",
+              "source": "TechCrunch",
+              "sourceUrl": ""
+            },
+            {
+              "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+              "summary": "企业AI面临“代理复杂性”危机：多代理系统连接呈指数级增长，导致调用路径混乱、责任不清、安全失控，运维与治理难度陡增。",
               "source": "VentureBeat",
               "sourceUrl": ""
             },
             {
-              "title": "NYC bans AI use for students until they reach high school",
-              "summary": "纽约市长曼达尼宣布，2026-2027学年起，全市2-K至八年级约60万学生将禁用AI工具，为期一年，并加强数字设备管控。",
-              "source": "The Verge",
-              "sourceUrl": ""
-            },
-            {
-              "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-              "summary": "美国致力于发展强大、具竞争力的人工智能产业，以全球标准引领AI应用实践。",
-              "source": "TechCrunch",
+              "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+              "summary": "旧金山云平台Railway获1亿美元B轮融资，估值跃升。其零营销吸引200万开发者，主打简化AI应用部署，挑战AWS等传统云服务。",
+              "source": "VentureBeat",
               "sourceUrl": ""
             }
           ]
@@ -6354,21 +6640,21 @@
           "name": "知识前沿",
           "items": [
             {
-              "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-              "summary": "企业部署AI代理舰队后，连接路径呈指数级增长，导致系统失控、决策黑箱化，安全与治理难度陡增。",
-              "source": "VentureBeat",
-              "sourceUrl": ""
-            },
-            {
               "title": "When agents act on their own, governance has to live in the data layer",
-              "summary": "AI代理自主性增强，企业需在实时上下文中嵌入智能规则（非静态策略）来约束其行为，否则授权失控风险剧增。",
+              "summary": "AI代理需实时上下文规则而非静态策略，因自主决策依赖动态环境判断，传统“事前指令+事后监控”存在根本局限。（59字）",
               "source": "VentureBeat",
               "sourceUrl": ""
             },
             {
               "title": "Orchestration is the new challenge for CX in the age of AI agents",
-              "summary": "企业仓促将AI接入老旧系统，导致平台割裂、协同困难。AI与人工协作缺乏统一上下文，难以实现跨系统实时协同。（59字）",
+              "summary": "企业仓促将对话AI嫁接至老旧系统，导致平台缺乏集成性与协同能力，加剧人工座席认知负担，亟需构建统一的企业级上下文架构。",
               "source": "VentureBeat",
+              "sourceUrl": ""
+            },
+            {
+              "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+              "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+              "source": "量子位",
               "sourceUrl": ""
             }
           ]
@@ -6389,15 +6675,15 @@
               "sourceUrl": ""
             },
             {
-              "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
-              "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+              "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
+              "summary": "",
               "source": "量子位",
               "sourceUrl": ""
             },
             {
-              "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
-              "summary": "",
-              "source": "量子位",
+              "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+              "summary": "谷歌宣布彻底重构搜索框：25年来首次重大升级，支持多模态输入（文字、图片、视频等），整合AI概览与AI模式，实现无缝AI搜索体验。",
+              "source": "VentureBeat",
               "sourceUrl": ""
             }
           ]
