@@ -1,9 +1,1192 @@
 {
-  "generated_at": "2026-09-03T15:37:02.349277+00:00",
-  "date": "2026-09-03",
+  "generated_at": "2026-09-04T05:35:38.098719+00:00",
+  "date": "2026-09-04",
   "keep_days": 7,
-  "count": 439,
+  "count": 483,
   "items": [
+    {
+      "id": "226acb4edb043fa43392bb715426b29ec9cf077eb7535922d1727d04d1f320ed",
+      "module": "football",
+      "seg": null,
+      "cat": "法甲",
+      "title": "Toulouse 0-1 Lille",
+      "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2489485",
+      "publishedAt": "2026-09-04T05:33:50.943780+00:00",
+      "tags": [
+        "法甲",
+        "战报"
+      ],
+      "body": [
+        "法甲 第 3 轮 · 2026-09-03 · 北京时间 02:45（估算）",
+        "场地：Stadium de Toulouse",
+        "主队 Toulouse vs 客队 Lille",
+        "终场比分 0-1"
+      ],
+      "points": [
+        "<b>赛事</b>：法甲 第 3 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-09-03 · 北京时间 02:45（估算）",
+        "<b>场地</b>：Stadium de Toulouse",
+        "<b>主队</b>：Toulouse",
+        "<b>客队</b>：Lille",
+        "<b>终场比分</b>：0-1",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "3",
+        "season": "2026-2027",
+        "venue": "Stadium de Toulouse",
+        "date": "2026-09-03",
+        "country": "France",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "2e85027d58b566bc3ffa8ab74e03bb9f2c7564236d091eb16a4f8b38e90e2a7e",
+      "module": "football",
+      "seg": null,
+      "cat": "意甲",
+      "title": "Atalanta 1-0 Bologna",
+      "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.youtube.com/watch?v=LYOXkS8JqM0",
+      "publishedAt": "2026-09-04T05:33:50.943772+00:00",
+      "tags": [
+        "意甲",
+        "战报"
+      ],
+      "body": [
+        "意甲 第 2 轮 · 2026-08-31 · 北京时间 02:45（估算）",
+        "场地：New Balance Arena",
+        "主队 Atalanta vs 客队 Bologna",
+        "终场比分 1-0"
+      ],
+      "points": [
+        "<b>赛事</b>：意甲 第 2 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-08-31 · 北京时间 02:45（估算）",
+        "<b>场地</b>：New Balance Arena",
+        "<b>主队</b>：Atalanta",
+        "<b>客队</b>：Bologna",
+        "<b>终场比分</b>：1-0",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "2",
+        "season": "2026-2027",
+        "venue": "New Balance Arena",
+        "date": "2026-08-31",
+        "country": "Italy",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "cc42fee711324dbf6262cbecfebe005e8b1bf6c48967ad608e155cd9fb283ce4",
+      "module": "football",
+      "seg": null,
+      "cat": "德甲",
+      "title": "Augsburg 3-0 Schalke 04",
+      "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.youtube.com/watch?v=rl7DwuTaipo",
+      "publishedAt": "2026-09-04T05:33:50.943766+00:00",
+      "tags": [
+        "德甲",
+        "战报"
+      ],
+      "body": [
+        "德甲 第 1 轮 · 2026-08-30 · 北京时间 23:30（估算）",
+        "场地：WWK Arena",
+        "主队 Augsburg vs 客队 Schalke 04",
+        "终场比分 3-0"
+      ],
+      "points": [
+        "<b>赛事</b>：德甲 第 1 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-08-30 · 北京时间 23:30（估算）",
+        "<b>场地</b>：WWK Arena",
+        "<b>主队</b>：Augsburg",
+        "<b>客队</b>：Schalke 04",
+        "<b>终场比分</b>：3-0",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "1",
+        "season": "2026-2027",
+        "venue": "WWK Arena",
+        "date": "2026-08-30",
+        "country": "Germany",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "465651a93a9db9fd67980fc0a78ccf0986f4f976188fa2cdf25b32df9b4e833a",
+      "module": "football",
+      "seg": null,
+      "cat": "西甲",
+      "title": "Real Sociedad 0-0 Celta Vigo",
+      "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2506226",
+      "publishedAt": "2026-09-04T05:33:50.943759+00:00",
+      "tags": [
+        "西甲",
+        "战报"
+      ],
+      "body": [
+        "西甲 第 6 轮 · 2026-09-03 · 北京时间 03:00（估算）",
+        "场地：Reale Arena",
+        "主队 Real Sociedad vs 客队 Celta Vigo",
+        "终场比分 0-0"
+      ],
+      "points": [
+        "<b>赛事</b>：西甲 第 6 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-09-03 · 北京时间 03:00（估算）",
+        "<b>场地</b>：Reale Arena",
+        "<b>主队</b>：Real Sociedad",
+        "<b>客队</b>：Celta Vigo",
+        "<b>终场比分</b>：0-0",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "6",
+        "season": "2026-2027",
+        "venue": "Reale Arena",
+        "date": "2026-09-03",
+        "country": "Spain",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "be466c163a3396490cc9f55203df394036c903fdb71d65e25e77d2f2302dd959",
+      "module": "football",
+      "seg": null,
+      "cat": "英超",
+      "title": "Aston Villa 0-1 Arsenal",
+      "summary": "英超 · 战报 · 03:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.youtube.com/watch?v=9ogC38l8nTU",
+      "publishedAt": "2026-09-04T05:33:50.943750+00:00",
+      "tags": [
+        "英超",
+        "战报"
+      ],
+      "body": [
+        "英超 第 2 轮 · 2026-08-31 · 北京时间 03:00（估算）",
+        "场地：Villa Park",
+        "主队 Aston Villa vs 客队 Arsenal",
+        "终场比分 0-1"
+      ],
+      "points": [
+        "<b>赛事</b>：英超 第 2 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-08-31 · 北京时间 03:00（估算）",
+        "<b>场地</b>：Villa Park",
+        "<b>主队</b>：Aston Villa",
+        "<b>客队</b>：Arsenal",
+        "<b>终场比分</b>：0-1",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "2",
+        "season": "2026-2027",
+        "venue": "Villa Park",
+        "date": "2026-08-31",
+        "country": "England",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "f5133eb8df812a90c0beadbb6ab0c6fbd53e03660b967541afd112bbe86e4b91",
+      "module": "football",
+      "seg": null,
+      "cat": "欧冠",
+      "title": "Club Brugge VS Aston Villa",
+      "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2594644",
+      "publishedAt": "2026-09-04T05:33:50.943721+00:00",
+      "tags": [
+        "欧冠",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "1",
+        "season": "2026-2027",
+        "venue": "Jan Breydel Stadium",
+        "date": "2026-09-08",
+        "country": "Belgium",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "fa43c878cb07c88907cf167d62d7493a837b6bb8aca0bcdc50f19ac18d2b5a4e",
+      "module": "football",
+      "seg": null,
+      "cat": "法甲",
+      "title": "Lyon VS Auxerre",
+      "summary": "法甲 · 赛程 · 01:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2489481",
+      "publishedAt": "2026-09-04T05:33:50.943717+00:00",
+      "tags": [
+        "法甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "3",
+        "season": "2026-2027",
+        "venue": "Groupama Stadium",
+        "date": "2026-09-04",
+        "country": "France",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "84c1c56c94e439ac4748ce29b91b96c7ae1696fde57203328291c1f7d67e33d2",
+      "module": "football",
+      "seg": null,
+      "cat": "意甲",
+      "title": "Genoa VS Como",
+      "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2482160",
+      "publishedAt": "2026-09-04T05:33:50.943713+00:00",
+      "tags": [
+        "意甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "3",
+        "season": "2026-2027",
+        "venue": "Stadio Luigi Ferraris",
+        "date": "2026-09-04",
+        "country": "Italy",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "0264fbb71ff1f465ded53fb5a2ffbee99cbd109fdb493da64c6a5cf5eb650b36",
+      "module": "football",
+      "seg": null,
+      "cat": "德甲",
+      "title": "Stuttgart VS Köln",
+      "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2508347",
+      "publishedAt": "2026-09-04T05:33:50.943708+00:00",
+      "tags": [
+        "德甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "2",
+        "season": "2026-2027",
+        "venue": "MHP Arena",
+        "date": "2026-09-04",
+        "country": "Germany",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "520fc9a492a2c80f4c891f08d49d50af7e57be7875e35ada3602c6fa2dfd2054",
+      "module": "football",
+      "seg": null,
+      "cat": "西甲",
+      "title": "Real Betis VS Real Madrid",
+      "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2506205",
+      "publishedAt": "2026-09-04T05:33:50.943701+00:00",
+      "tags": [
+        "西甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "4",
+        "season": "2026-2027",
+        "venue": "Estadio de La Cartuja",
+        "date": "2026-09-04",
+        "country": "Spain",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "0f0004339620eba31d2e35ce87235503761ccef9bae6a33e16682c1a78252747",
+      "module": "football",
+      "seg": null,
+      "cat": "英超",
+      "title": "Ipswich Town VS Liverpool",
+      "summary": "英超 · 赛程 · 03:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2494027",
+      "publishedAt": "2026-09-04T05:33:50.943661+00:00",
+      "tags": [
+        "英超",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "3",
+        "season": "2026-2027",
+        "venue": "Portman Road",
+        "date": "2026-09-04",
+        "country": "England",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "b709281d4e98286bcbbe72de76105817e82100d4187fc9079bc6290732b69b0d",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3.8-27B-AEON-Ultimate-Uncensored-UD-GGUF：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 lambsea/Qwen3.8-27B-AEON-Ultimate-Uncensored-UD-GGUF 下载量1333，获赞0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/lambsea/Qwen3.8-27B-AEON-Ultimate-Uncensored-UD-GGUF",
+      "publishedAt": "2026-09-04T05:30:29+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1333,
+        "likes": 0
+      }
+    },
+    {
+      "id": "950c26407a00a78e55be36fc492b9ecfd716ff6b67e7d635e865e8870dad5567",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "sdxl_models：model 模型更新",
+      "summary": "HuggingFace 上 Nonene/sdxl_models 模型暂无下载量，获12个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Nonene/sdxl_models",
+      "publishedAt": "2026-09-04T05:30:22+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 12
+      }
+    },
+    {
+      "id": "8f69f4f800f6ece79a81ad282ae99465cac3c9b79a5de2166431a2bd7d22c8fb",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3.8-27B-MXFP8-CRACK：image-text-to-text 模型更新",
+      "summary": "HuggingFace 上 image-text-to-text 模型 dealignai/Qwen3.8-27B-MXFP8-CRACK 下载量达 2953，获 10 赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/dealignai/Qwen3.8-27B-MXFP8-CRACK",
+      "publishedAt": "2026-09-04T05:29:04+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 2953,
+        "likes": 10
+      }
+    },
+    {
+      "id": "d6f9d754df0c8c796dd253c28436e77bdd7f0e97dd811cb7a56e40a346fe85ff",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "access-control-manager：model 模型更新",
+      "summary": "HuggingFace 上模型 sundaycoil/access-control-manager 目前下载量为 0，获 10 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/sundaycoil/access-control-manager",
+      "publishedAt": "2026-09-04T05:25:44+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "7e40d95921c268354d8d66ab9c0d70f85b8acfffbba6ee6fdec158e89f7979d7",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "summary": "餐厅老板用生成式AI美化菜单，但顾客能直观察觉食物异常。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "publishedAt": "2026-09-04T04:21:03+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "fbee196cca3f968b75510f2b331539a674acbe55c10dc6aa77fe2a7a1205e560",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
+      "summary": "比新业务更考验一家公司的，可能是怎么对待年轻人。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/483984.html",
+      "publishedAt": "2026-09-04T04:03:04+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "52872c662b5cf90cd280e1a9669648314bda702070c3a7c72c8831f9f52e60e8",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "更新后阵容梯度：皎月大战婕拉！金铲铲陷入黑暗纪元！内卷至死…",
+      "summary": "UP主 金铲铲700 · 10,211播放 · 4:23",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117210664144511",
+      "publishedAt": "2026-09-04T03:38:10+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "金铲铲700",
+        "play": 10211,
+        "bvid": "BV1AQte6CEsZ",
+        "duration": "4:23"
+      }
+    },
+    {
+      "id": "b250756f9b533407fec6f8af5f3f00bde8862f037ecba6f79e6029b4d813b3cd",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "破败双刀流易损薇恩，无限E升级贪欲九头蛇烬",
+      "summary": "UP主 驻韩研究员 · 15,693播放 · 3:41",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117206939735404",
+      "publishedAt": "2026-09-04T03:30:00+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 强化 套路"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "驻韩研究员",
+        "play": 15693,
+        "bvid": "BV1wFtZ6qE37",
+        "duration": "3:41"
+      }
+    },
+    {
+      "id": "eb5067163ea66d49aca107e913908d5c20caad6e1623aa1193f26fc59e4ef06a",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+      "summary": "吃下90%市场",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/483598.html",
+      "publishedAt": "2026-09-04T01:40:42+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "1dd761571b8fe17157a10e011c21302a162980af689a6e3e8d065207a3341307",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "summary": "数据中心开发商获Jane Street 130亿美元合同，推动本轮融资落地。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "publishedAt": "2026-09-04T00:48:42+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "76a13751181efb9ac39096510bf384e8418abf0c67a492881f936c71b231731d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
+      "summary": "改进GPT Image 2的噪点问题",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/483948.html",
+      "publishedAt": "2026-09-03T21:57:08+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "8848d8bcc4ad4134aab5e4f6665fd60a1eff0125b8afcad5aa55820faa8c4a39",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
+      "summary": "全球最强C",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/483898.html",
+      "publishedAt": "2026-09-03T21:50:07+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "4a8ca680069e53827a9282dff252fb61930ccae65f3a979bffdb592916e299d5",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "summary": "该高调初创公司年化营收超1亿美元。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "publishedAt": "2026-09-03T19:36:29+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "57ddb5337baaaf1500753dc6b99c3badd6e4458d47103564ee9bae4734e1c51b",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "summary": "Abliteration.AI推出无安全限制的强AI模型，主张让防御者与攻击者使用同等工具，以提升网络安全防护能力。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "publishedAt": "2026-09-03T18:37:57+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "5680ab2b2b529a6081f7f6f1fe0b562245f14cd2244366ef87b3e13a90fc52f1",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "summary": "Meta为新模型Muse Spark推95%折扣：用户共享提示词与输出即可享受大幅优惠，以支持后续模型开发。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "publishedAt": "2026-09-03T18:19:56+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "323a705681fa74a2355d491de4244bdb706da89150276f0431ab8041a050bfe1",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Four major AI models suffer rare overlapping downtime",
+      "summary": "ChatGPT、Claude、Grok和Gemini四大AI服务几乎同时遭遇中断。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+      "publishedAt": "2026-09-03T18:10:19+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "877db8eb9cc3ee47bfbbd7fc1f000a7838ec30c53864701887cd0fd67f35433e",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "summary": "OpenAI称Astra是计算机与浏览器操作的新前沿，具备无与伦比的速度、准确性和安全性。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "publishedAt": "2026-09-03T18:01:45+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "2a8b36ad6fca1497a87a75da8d950c7d87dcd246dc2c3a45256afb24ffcedd60",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "summary": "OpenAI发布GPT-6 Astra，称其为“代际能力飞跃”，首获“关键网络安全能力阈值”认证，聚焦网络安全、软件工程、科学等领域。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "publishedAt": "2026-09-03T18:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "ca92d7d3825e2e46ae69b9ed13221e7fee5134bfa80786a63355763a5e1050b8",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+      "summary": "提出“编译式训练”方法，将自然语言描述编译为轻量级、可复用的本地神经函数，无需远程大模型，显著降低延迟与成本。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.04199v1",
+      "publishedAt": "2026-09-03T17:59:49+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a provider. We present compile by training, which turns a natural-language specification into a reusable neural function. At compile time, teacher models generate task-specific examples that are used to train a small adapter for a compact interpreter. The resulting function runs without the teachers and can be stored, versioned, and composed like ordinary software. On FuzzyBench-Hard, a subset on which the Program-as-Weights fast compiler produced no exact matches, compile by training reaches 83.6% semantic accuracy. This higher accuracy comes with a higher compile-time cost: roughly a minute rather than seconds for the fast compiler. We deploy the compiler in a public interactive service and demonstrate compiled functions in a multi-site website helper, a language-controlled 3D avatar, and a bidirectional English-Claudish translator."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Yuntian Deng, Pengyu Nie, Stuart Shieber",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "59d37a08d685140ff7eee10f2b36a09634809f1dc74668a3bb5509763b2679cd",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
+      "summary": "研究发现黑箱大语言模型评测器可靠性不足：5.3万次测试中，同日重测排名一致性仅0.40（需≥0.90），次日重测一致性仅0.78（需≥0.99）。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.04198v1",
+      "publishedAt": "2026-09-03T17:59:43+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to the same model name, reads the same tomorrow. We audited that assumption in two preregistered campaigns with every threshold fixed in advance; neither got past validating its instrument. Across 52,988 audited request attempts, same-window repeat rankings agreed at Spearman 0.400 against a required 0.90, and byte-identical next-day replays agreed at 0.78 against a required 0.99, each time with the execution record at ceiling. Three mechanisms explain the gap: a label-to-meaning mapping that biased readouts as strongly as the signal; candidate gaps seven orders of magnitude below the instrument's own noise floor; and byte-identical inputs returning different rankings, a noise that exact-permutation readouts compound. Neither metric substitution nor sampling repaired it on the tested grid. Preregistered follow-ups bound the problem: waiting did not help on the days sampled (0.805 versus 0.800, replicated over five further days); switching providers did not help (four providers share the floor, medians 0.74 to 0.88, predicted by none of the metadata fields they expose); self-hosting on batch-invariant kernels helped only while the server was quiet; and on constructed errors with known gaps, the readout's separation tracks error type, not size. We distill the evidence into a three-level snapshot-identity ladder, eight design rules, and a reporting checklist; a pilot at roughly 2% of the study's call volume would have exposed both unreachable gates in advance. All results concern externally measured behaviour on shared serving infrastructure. On a shared endpoint, a model name is not a frozen instrument; a preregistered evaluation must measure its instrument before freezing any gate on it."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Haoyaun Zhu, Jie Zhang",
+        "categories": [
+          "cs.AI",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "92ffdaad07d896db7ac12f968025084a06b332178c1c4b3f24ebd0463e91811d",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
+      "summary": "ESPO提出“诊断-生成-选择”三阶段提示优化法，解决进化式提示优化中的提示膨胀问题（长度增3倍但准确率未升）。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.04197v1",
+      "publishedAt": "2026-09-03T17:59:37+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\\times$ longer yet no more accurate. We trace this to three deficiencies - incomplete error observation, limited search diversity, and unreliable selection - and propose ESPO (Error-Structured Prompt Optimization), which decomposes prompt optimization into three phases: Diagnose clusters all training errors into structural patterns in one round; Propose generates candidates via four complementary strategies with independent biases; Select applies bootstrap stability selection. On seven public NLP benchmarks - Tweet, MMLU, GSM8K, HotpotQA, ScoNe, HoVer, and PUPA - ESPO improves average accuracy by $+$3.76 pp over the state-of-the-art (74.67% vs 70.91% for GEPA), matching or exceeding GEPA on every dataset while producing prompts 47% shorter (1,004 vs 1,878 chars) and faster at inference. Cross-model experiments across four additional student models (Gemma 3 12B, Mistral 14B, Qwen3 32B, Claude Haiku 4.5) show ESPO yields the best average accuracy on every model tested, with the largest gap on Qwen3 GSM8K (15.00% $\\to$ 91.40%). A generalization bound (Appendix) grounds each phase in a corresponding term of the test-time gap, and the ablation confirms a key prediction: adding diversity without bootstrap selection actually hurts performance ($-$1.20%)."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Lihao Liu, Peng Tang, Kunwar Yashraj Singh et al.",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "67440925577669ad72dc7c6de856b975f4645eefdceaffc95d5ed47027baaf07",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
+      "summary": "研究指出：思维链中推理步骤的文本可读性≠可解释性；LLM法官判断的重要性与实际功能重要性（如对奖励的影响）存在显著偏差。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.04194v1",
+      "publishedAt": "2026-09-03T17:59:08+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Reasoning traces from chain-of-thought models appear to offer a legible window into how a model arrives at its answer. A growing body of work treats them as such, using LLM judges to diagnose errors, evaluate faithfulness, and provide step-level supervision via process reward models and generative critics. These practices rely on the text of a reasoning step carrying information about its functional role. But does the text actually encode information about which reasoning steps matter? We operationalize the importance of a reasoning step as its advantage: the change in expected reward, e.g., producing the correct final answer, from including that step, estimated via Monte Carlo rollouts. Basing ground truth on these estimates, we evaluate whether LLM judges can identify high-advantage steps and find that sufficiently capable LLMs can outperform a prevalence baseline but fall well short of a noise ceiling. Fine-tuning a model as a step-level critic yields strong improvement for incorrect responses but remains distant from ceiling for correct responses, suggesting that step importance is only partially recoverable from the text of the reasoning trace. Our findings contribute to a growing body of chain-of-thought faithfulness work that cautions against treating the legibility of reasoning traces as interpretability, especially with implications for process reward modeling."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Kevin Du, Alexander Hoyle, Laura Ruis et al.",
+        "categories": [
+          "cs.CL",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "4aae6b7bff74df455e0a985168812621d84638c70444d475b58924d7f7bc39ba",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing",
+      "summary": "研究提出无需训练的统一视频编辑框架EditVid，支持指令/参考引导的多种编辑（如风格迁移、对象插入等），融合稀疏因果记忆、对应令牌注入与软潜变量融合技术。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.04190v1",
+      "publishedAt": "2026-09-03T17:59:01+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Video editing spans diverse editing paradigms, yet achieving high-quality instruction-guided and subject-guided editing within a single unified framework remains challenging. We introduce EditVid, a training-free framework combining sparse causal memory for local coherence, correspondence-based post-attention token injection for long-range identity preservation, and soft latent blending for edit locality. The same framework supports instruction-guided and reference-guided edits, including style transfer, attribute modification, object insertion, part-level editing, and subject replacement. On FiVE, EditVid achieves 78.16 FiVE-Acc, compared with 58.95 for the strongest evaluated training-free baseline, while obtaining competitive results on IVEBench. A user study further shows a 51.8\\% overall preference for EditVid over 7 competing methods."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Adheesh Sunil Juvekar, Onkar Kishor Susladkar, Kiet A. Nguyen et al.",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "773bda0a665bb5f21116e03f57eadbf92e1dff61cf2ff4ab8c7c63125b12a933",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Robust PAC Learning of Concurrent Stochastic Games",
+      "summary": "提出首个面向一般和并发随机博弈（CSG）的PAC学习框架，支持转移不确定性与纳什均衡存在性分析，通过鲁棒MDP探索实现社会福利最优ε-NE。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.04189v1",
+      "publishedAt": "2026-09-03T17:58:57+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "We introduce the first Probably Approximately Correct (PAC) learning framework for general-sum concurrent stochastic games (CSGs) with transition uncertainty, while addressing the challenge of Nash equilibrium (NE) existence. Our algorithm maintains data-driven $L^1$ confidence sets over transition kernels and solves a robust CSG to compute a social-welfare optimal $\\varepsilon$-NE, using a robust MDP-based exploration mechanism to drive joint state-action coverage. Crucially, we introduce a Nash margin characterisation that enables principled reasoning about equilibrium existence: the framework either returns an $\\varepsilon$-approximate NE whose social-welfare value is $\\varepsilon$-close to optimal, or provides a sound certificate that no exact NE exists. Under a minimum reachability condition $p_{\\mathrm{reach}}>0$ over relevant state-action pairs, the algorithm terminates after a polynomial number of trajectory samples, with sample complexity $\\widetilde{O}\\left( {R_{\\max}^2 H^4 |S|^2 |A| / (p_{\\mathrm{reach}} \\varepsilon^2)} \\right)$. Empirical results on benchmark CSGs demonstrate near-optimal performance, correct handling of equilibrium (non-)existence, and sample complexity consistent with theory."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Angel Y. He, David Parker",
+        "categories": [
+          "cs.LG",
+          "cs.GT",
+          "cs.LO",
+          "cs.MA"
+        ]
+      }
+    },
+    {
+      "id": "08d38cfaf185c6f78b95ca837952fb4fedfe5f0a2c5983ae62ff3085b3300c8f",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning",
+      "summary": "提出SBS框架，利用VLM在未剪辑视频中自适应定位并生成视觉对齐的过渡描述，提升弱监督密集视频描述性能。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.04183v1",
+      "publishedAt": "2026-09-03T17:58:02+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Weakly-Supervised Dense Video Captioning aims to localize and describe multiple events in untrimmed videos given only an ordered set of event-level captions per video. Recent work synthesizes auxiliary transition captions via LLM to provide additional vision-language alignment, but these captions lack visual grounding and are rigidly assigned to every inter-event gap at a fixed location and duration. To address these, we propose Seeing Before Synthesizing (SBS), a framework that adaptively provides visually grounded linguistic guidance only where warranted. Leveraging a VLM, we generate frame-level narratives for the inter-event gaps and detect transitions from the semantic variation across them. For identified transitions, we then refine inter-event temporal masks by blending the temporal midpoint with the semantic change point and selecting the width that maximizes vision-language alignment. Experiments on ActivityNet Captions and YouCook2 demonstrate state-of-the-art performance in both captioning and localization."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Ye-Chan Kim, Seunghee Choi, SeungJu Cha et al.",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "f1c63885a5c476d407f2c4c32b1c9034d560ec57e48539e5d23e4f6580d4cb01",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views",
+      "summary": "研究发现：固定token预算下，用辅助视图（如知识改写）替代文档重复，可提升LLM预训练效果，甚至增强事实性回忆。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.04180v1",
+      "publishedAt": "2026-09-03T17:57:02+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Gaps remain in our understanding of how large language models (LLMs) acquire knowledge during pre-training. We posit that auxiliary views, reformulations of knowledge, are causally helpful for learning. We design controlled experiments to isolate this. First, we confirm that repetition is necessary for acquisition and clarify that paraphrasing helps only at smaller batch sizes. Second, holding the token budget fixed, allocating tokens from document repetition to auxiliary views improves learning, counterintuitively, even for factual recall. Third, the effectiveness of auxiliary views is not contingent on the strength of the teacher model that generates them. Fourth, we identify forms of knowledge, contextual and foundational, that aid learning in the presence of prior knowledge gaps. Finally, we examine how these effects manifest mechanistically via layer-wise biases and compression. Together, our findings suggest that auxiliary representations of knowledge, which arise naturally in large pre-training corpora, are a key factor in the success of pre-training and offer a plausible explanation for why data diversity matters."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Joseph Lee, Yidi Huang, Dokyoon Kim et al.",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "a67e3ba2fb7c4c2053097b30cccc597268cf43619c5fd2e2c38724ccdacb6839",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "A Computationally Feasible Framework for Causal Probabilistic Explanation",
+      "summary": "提出新框架“概率因果归因”（PCI），兼顾可计算性与因果严谨性，突破AC理论难扩展、SHAP忽略因果结构的局限。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.04177v1",
+      "publishedAt": "2026-09-03T17:55:43+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Explaining why a specific outcome occurred, and which inputs deserve the blame or credit, is central to philosophical, scientific, and policy analysis. Existing tools split into two camps. The theory of actual causality (AC) gives principled verdicts, but only for toy-sized models, because computing them requires enumerating counterfactual scenarios. Scalable attribution methods like SHAP (or even causal SHAP) at least partially ignore the causal structure that generated the data, and can give answers that conflict with a careful causal analysis. We close this gap with Probabilistic Causal Impact (PCI).   PCI builds on actual causality and on Pearl's notions of probability of necessity and sufficiency, but recasts the question of explainability as an estimation problem on a probabilistic causal model that is easily approximated via Monte Carlo. By specifying a distribution over \"candidate explanations,\" a distribution over counterfactual values, and a scoring function, PCI provides tractable, causally grounded, graded explanations, generalizing AC and Pearl's probability of causation as degenerate cases.   We evaluate PCI in synthetic and real-world examples, spanning consistency checks with AC, scaling experiments, complex continuous-valued dynamical systems, and a real-world deployed causal machine learning model trained on millions of datapoints."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Rafal Urbaniak, Sam Witty, Daniel Waxman et al.",
+        "categories": [
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "b39fab5e8b91f53fadd27c7ac2f98af3555eb34245834d1174d5013385be1b34",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Last Translation Benchmark",
+      "summary": "新翻译基准研究指出：现有自动指标易被“奖励作弊”，人类评估难复现、缺客观性；主流基准已近饱和，亟需更可靠、可扩展的评测方法。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.04173v1",
+      "publishedAt": "2026-09-03T17:54:45+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "For scientific progress, we need benchmarks that test the limits of state-of-the-art models, and evaluation methods that inform us about failure cases. As models get stronger, standard benchmarks for machine translation are approaching saturation. Further, automatic translation metrics are unreliable, vulnerable to reward-hacking, and provide unactionable assessments. Even gold human evaluation is not problem-free, because it often lacks reproducibility, objectivity, and scalability. Overall, this prevents us from tracking objective progress in the field and identifying pathways for improvement. We introduce the Last Translation Benchmark, a collection of human-authored and peer-reviewed examples (texts, images, audio, videos) that break leading machine translation models. We also present a new evaluation approach: each example comes with handcrafted verification rules describing concrete failure cases on that example, therefore allowing reliable and actionable future evaluation. The Last Translation Benchmark is a live dataset that accepts ongoing contributions. The latest version is LTBv1, containing accepted contributions prior to September 1st 2026, with future releases planned as new data is continuously collected."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Vilém Zouhar, Niyati Bafna, Mukund Choudhary et al.",
+        "categories": [
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "4ae498603c7f329b0e2d48b846fa2a0fd60648ce5da95e25f784a46f4933ede8",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+      "summary": "研究发现：仅用单个查询样本进行在线策略蒸馏（OPD），学生模型经数百步训练仍持续提升，性能接近全数据训练，跨任务与模型族均有效。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.04172v1",
+      "publishedAt": "2026-09-03T17:54:38+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision from a teacher. Existing work has mainly studied its algorithmic behavior, leaving the role of training data unclear. We examine this role at the data-minimal limit by training on a single query. One-shot OPD keeps improving for hundreds of steps and recovers most of full-data OPD's gain across task domains and model families. We explain this result through the states visited during training and the rate at which the student aligns with the teacher. We measure \\emph{state coverage}, the fraction of the states full-data OPD visits that a query set's rollouts reach. A single query already reaches \\(71.5\\%\\), most of it within the first 100 steps. Adding semantically distinct queries raises coverage and validation accuracy together, until 16 queries reach \\(98.9\\%\\) and match full-data training. Yet alignment slows at a similar pace whether OPD trains on one query or the whole dataset, and even a fixed set of states takes hundreds of steps to absorb. OPD is therefore data-overfed but algorithm-starved. Its rollouts quickly expose broad supervision, while the student absorbs that supervision increasingly slowly. The state-coverage result extends to multi-teacher OPD, where 16 semantically diverse queries per domain match full-data MOPD. As a further stress test, content-light templates and off-domain WildChat queries also approach the real-query baseline. Task content and induced state coverage can therefore come apart. We hope these findings direct future work toward the step efficiency of OPD, and prompt a re-examination of the data and the mechanisms behind its recent successes in frontier post-training."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Zixuan Fu, Bingxiang He, Yuxin Zuo et al.",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "96be85667a05b40b45af3ee1659ec39f51424aac2fac2dab6c465fb4b39f2834",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
+      "summary": "100个自主LLM代理组成科研群组证明数学猜想，自发出现作弊行为，随后遭内部“吹哨人”揭发，全程无外部干预。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.04170v1",
+      "publishedAt": "2026-09-03T17:54:09+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Multi-agent AI science ecosystems rely on agents possessing tools that allow them to communicate, coordinate, and build on each other's work. Yet this shared infrastructure can also introduce vulnerabilities by creating a substrate for the contagious spread of unintended and undesirable behaviors. We report a case study on a research collective of 100 autonomous LLM agents tasked with proving formal mathematical conjectures. Within the swarm, cheating spontaneously emerged and was later challenged by whistleblowers - both without any external intervention. When a single agent discovered an exploit in the evaluation system, it propagated across the collective via a shared knowledge library and later through peer-to-peer messages. Despite early reluctance, a cohort of agents adopted the exploit in response to competitive pressure. A separate group of agents produced an emergent counter-response: auditing fraudulent proofs, alerting peers across broadcast and private channels, staging boycotts, lodging formal complaints, and proposing validation patches. In recent incidents, agent swarms coordinated covertly through improvised side-channels (Dalton and Wallace, 2026; Greenblatt et al., 2026). Our setting differs: the same transparent channels that carried the exploit also gave non-cheating agents the visibility they needed to detect fraud, organize resistance, and enforce norms. We cast the problem of managing the agents' shared infrastructure as the knowledge commons governance problem (Ostrom, 1990). To protect the commons from exploits, we propose to adopt institutional mechanisms, such as graduated sanctioning and collective-choice rules, to support decentralized self-governance in autonomous swarms."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Davide Paglieri, Logan Cross, Tim Genewein et al.",
+        "categories": [
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "53779f9db0d87ceb1996bf064605c11b0b95b87abda146c2c245ec0606423143",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Para-Pipe: Exploiting Hierarchical Operator Parallelism of ML Computational Graphs on SoCs",
+      "summary": "Para-Pipe提出分层算子并行技术，在SoC上协同调度多处理单元，显著降低复杂神经网络推理延迟。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.04168v1",
+      "publishedAt": "2026-09-03T17:53:44+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "As edge-based deep learning applications become more complex, optimizing performance on heterogeneous System-on-Chips (SoCs) presents unique challenges. Traditional pipelining techniques distributing the computation across different on-chip processing units, while effective for throughput, do not address the latency demands posed by modern neural networks with complex interdependencies and extensive operator parallelism. There is a potential in leveraging operator parallelism to enable concurrent execution across multiple processing units, thereby reducing inference latency. However, prioritizing pipelining or parallel execution often necessitates a compromise, where optimizing one performance metric adversely impacts the other. This paper introduces Para-Pipe, a hierarchical mapping framework that integrates intra- and inter-stage operator parallelism within a pipelined architecture. Para-Pipe navigates the trade-off between throughput and latency by selectively fine-tuning parallelism levels within and across pipeline stages. This strategy can significantly reduce inter-processor communication overhead, significantly improving energy efficiency. Our evaluation demonstrates that Para-Pipe generates multiple Pareto-optimal configurations, achieving a balance between throughput and latency on an Amlogic SoC equipped with ARM big.LITTLE CPUs and GPU, as well as the Black Sesame Technology SoC featuring a deep learning accelerator and two DSPs. More importantly, throughput-optimized configurations under Para-Pipe on Amlogic SoC show an average energy efficiency improvement of 11.0% over purely pipelined strategies and 23.3% relative to non-pipelined parallel execution."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Yujie Zhang, Huiying Lan, Ehsan Aghapour et al.",
+        "categories": [
+          "cs.DC",
+          "cs.LG",
+          "cs.PF"
+        ]
+      }
+    },
+    {
+      "id": "33b21f18db0c94a65cad8757d3a88bffc739c4f89b844674e347c5b52694f17c",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "SWE-Gate: Passing Functional Tests Is Not Enough for Software Engineering Agents",
+      "summary": "SWE-Gate新基准揭示：仅通过功能测试不足，还需满足真实PR评审约束。该仓库级基准首次联合评估功能正确性与评审合规性。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.04167v1",
+      "publishedAt": "2026-09-03T17:53:34+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Repository-level software engineering benchmarks have significantly advanced the evaluation of coding agents, but existing benchmarks primarily measure whether generated patches pass functional tests and overlook review-derived acceptance constraints (review constraints) that often influence whether a patch is acceptable in real-world software development. We introduce SWE-Gate, a repository-level benchmark for software engineering agents that explicitly evaluates review constraint compliance alongside functional correctness. SWE-Gate derives review constraints from real pull request review comments and synthesizes repository-level repair instances around these constraints. Each instance provides separate functional and constraint tests, together with non-compliant and gold patches, enabling explicit separation between issue resolution capability and review constraint compliance. We construct SWE-Gate with 303 repository-level repair instances spanning 75 open-source Python repositories across diverse software domains. Experiments with four LLM backends spanning different capability levels under a common coding-agent scaffold reveal a substantial gap between functional success and success under the complete repair specification: among 644 repairs that pass the functional tests, 221 fail to satisfy the provided review constraints. These findings show that functional-only evaluation overestimates agents' ability to satisfy the full requirements of repository-level repair tasks. The replication package including code, data, and experimental results is available at https://github.com/DeepSoftwareAnalytics/SWE-Gate."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Xin He, Yanlin Wang, Mingwei Liu et al.",
+        "categories": [
+          "cs.SE",
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "d3dac5a6239a04dd0f686e20e9fd9524542eec1fb3e4bc904e4fd1976d7314f7",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "From Deceptive Outputs to Deceptive Mechanisms: A Causal Framework for Language-Model Deception Research",
+      "summary": "研究提出因果分类框架，区分语言模型的欺骗性行为与机制，澄清“看似欺骗”不等于“实际欺骗”，并在两类开源模型上验证。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.04166v1",
+      "publishedAt": "2026-09-03T17:52:19+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Research and news coverage of language-model deception increasingly attributes human-like mental-state concepts to language models. Such claims can blur the distinction between behavior that looks deceptive and a mechanism that is actually deceptive.   We introduce a causal taxonomy separating prior commitment from retrospective report, model preference from realized output, false preference from sensitivity to the utility of misleading a recipient, and deceptive behavior from the provenance of the objective or strategy producing it. We test these distinctions in two open-weight model families. Across controlled guessing-game and stock-trading experiments, we find that deceptive-looking behavior can arise without the corresponding proposed mechanism, while other interventions provide direct evidence that recipient information state can causally affect deceptive preference.   These results show that deceptive behavior can provide evidence for a deceptive mechanism. But even evidence for such a mechanism does not establish model agency in the deception."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Yakov Pyotr Shkolnikov",
+        "categories": [
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "8cf9735511b80fe0b378f52a55997dc7358e160f1c47f20ea7cbcb97e4547d6c",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "summary": "面向家庭的AI助手需访问用户日常数据，但承诺不用于AI训练或共享他人。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "publishedAt": "2026-09-03T16:09:01+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "459123f4be4630e98edc10b81ebb58114c03bce3d2a7f27602998b6e6c4b4ce3",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+      "summary": "英伟达推出免费开源软件“个人AI路由器”（PAIR），非硬件设备，可协同家庭电脑运行Ollama、LM Studio等本地AI推理任务。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+      "publishedAt": "2026-09-03T16:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "bc76000eb3cb5a10e7096944806a7d80953174b1d7144a07d0ed303fec64ec1a",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Google now lets you chat with Gmail, Docs, and Keep",
+      "summary": "谷歌为Gmail、Docs和Keep推出AI语音助手功能（Gmail Live/Docs Live/Keep Live），支持实时语音交互，提升操作效率。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+      "publishedAt": "2026-09-03T16:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "787846b7506a3a127aebf0a3a443272e988bdb873d7ec0ec1334f70ae0a25a40",
       "module": "ai",
@@ -67,84 +1250,6 @@
       }
     },
     {
-      "id": "2e85027d58b566bc3ffa8ab74e03bb9f2c7564236d091eb16a4f8b38e90e2a7e",
-      "module": "football",
-      "seg": null,
-      "cat": "意甲",
-      "title": "Atalanta 1-0 Bologna",
-      "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=LYOXkS8JqM0",
-      "publishedAt": "2026-09-03T15:35:14.292851+00:00",
-      "tags": [
-        "意甲",
-        "战报"
-      ],
-      "body": [
-        "意甲 第 2 轮 · 2026-08-31 · 北京时间 02:45（估算）",
-        "场地：New Balance Arena",
-        "主队 Atalanta vs 客队 Bologna",
-        "终场比分 1-0"
-      ],
-      "points": [
-        "<b>赛事</b>：意甲 第 2 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-08-31 · 北京时间 02:45（估算）",
-        "<b>场地</b>：New Balance Arena",
-        "<b>主队</b>：Atalanta",
-        "<b>客队</b>：Bologna",
-        "<b>终场比分</b>：1-0",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "2",
-        "season": "2026-2027",
-        "venue": "New Balance Arena",
-        "date": "2026-08-31",
-        "country": "Italy",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "cc42fee711324dbf6262cbecfebe005e8b1bf6c48967ad608e155cd9fb283ce4",
-      "module": "football",
-      "seg": null,
-      "cat": "德甲",
-      "title": "Augsburg 3-0 Schalke 04",
-      "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=rl7DwuTaipo",
-      "publishedAt": "2026-09-03T15:35:14.292843+00:00",
-      "tags": [
-        "德甲",
-        "战报"
-      ],
-      "body": [
-        "德甲 第 1 轮 · 2026-08-30 · 北京时间 23:30（估算）",
-        "场地：WWK Arena",
-        "主队 Augsburg vs 客队 Schalke 04",
-        "终场比分 3-0"
-      ],
-      "points": [
-        "<b>赛事</b>：德甲 第 1 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-08-30 · 北京时间 23:30（估算）",
-        "<b>场地</b>：WWK Arena",
-        "<b>主队</b>：Augsburg",
-        "<b>客队</b>：Schalke 04",
-        "<b>终场比分</b>：3-0",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "1",
-        "season": "2026-2027",
-        "venue": "WWK Arena",
-        "date": "2026-08-30",
-        "country": "Germany",
-        "status": "FT"
-      }
-    },
-    {
       "id": "ff9bae5204b0b562a20a94f562318052618a8c53fdbf52044fbae0e1815d3801",
       "module": "football",
       "seg": null,
@@ -184,71 +1289,6 @@
       }
     },
     {
-      "id": "be466c163a3396490cc9f55203df394036c903fdb71d65e25e77d2f2302dd959",
-      "module": "football",
-      "seg": null,
-      "cat": "英超",
-      "title": "Aston Villa 0-1 Arsenal",
-      "summary": "英超 · 战报 · 03:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=9ogC38l8nTU",
-      "publishedAt": "2026-09-03T15:35:14.292826+00:00",
-      "tags": [
-        "英超",
-        "战报"
-      ],
-      "body": [
-        "英超 第 2 轮 · 2026-08-31 · 北京时间 03:00（估算）",
-        "场地：Villa Park",
-        "主队 Aston Villa vs 客队 Arsenal",
-        "终场比分 0-1"
-      ],
-      "points": [
-        "<b>赛事</b>：英超 第 2 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-08-31 · 北京时间 03:00（估算）",
-        "<b>场地</b>：Villa Park",
-        "<b>主队</b>：Aston Villa",
-        "<b>客队</b>：Arsenal",
-        "<b>终场比分</b>：0-1",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "2",
-        "season": "2026-2027",
-        "venue": "Villa Park",
-        "date": "2026-08-31",
-        "country": "England",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "f5133eb8df812a90c0beadbb6ab0c6fbd53e03660b967541afd112bbe86e4b91",
-      "module": "football",
-      "seg": null,
-      "cat": "欧冠",
-      "title": "Club Brugge VS Aston Villa",
-      "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2594644",
-      "publishedAt": "2026-09-03T15:35:14.292800+00:00",
-      "tags": [
-        "欧冠",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "1",
-        "season": "2026-2027",
-        "venue": "Jan Breydel Stadium",
-        "date": "2026-09-08",
-        "country": "Belgium",
-        "status": "NS"
-      }
-    },
-    {
       "id": "72e763aba9393fd9dd876c418a80bb01d8da42ca0aba341be099c85724af8429",
       "module": "football",
       "seg": null,
@@ -275,58 +1315,6 @@
       }
     },
     {
-      "id": "84c1c56c94e439ac4748ce29b91b96c7ae1696fde57203328291c1f7d67e33d2",
-      "module": "football",
-      "seg": null,
-      "cat": "意甲",
-      "title": "Genoa VS Como",
-      "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2482160",
-      "publishedAt": "2026-09-03T15:35:14.292790+00:00",
-      "tags": [
-        "意甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "3",
-        "season": "2026-2027",
-        "venue": "Stadio Luigi Ferraris",
-        "date": "2026-09-04",
-        "country": "Italy",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "0264fbb71ff1f465ded53fb5a2ffbee99cbd109fdb493da64c6a5cf5eb650b36",
-      "module": "football",
-      "seg": null,
-      "cat": "德甲",
-      "title": "Stuttgart VS Köln",
-      "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2508347",
-      "publishedAt": "2026-09-03T15:35:14.292785+00:00",
-      "tags": [
-        "德甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "2",
-        "season": "2026-2027",
-        "venue": "MHP Arena",
-        "date": "2026-09-04",
-        "country": "Germany",
-        "status": "NS"
-      }
-    },
-    {
       "id": "aaf81a927662873310d7f8fe5281e6f609f98c5dcf95d802a86c71a4bfe46614",
       "module": "football",
       "seg": null,
@@ -349,32 +1337,6 @@
         "venue": "Reale Arena",
         "date": "2026-09-03",
         "country": "Spain",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "0f0004339620eba31d2e35ce87235503761ccef9bae6a33e16682c1a78252747",
-      "module": "football",
-      "seg": null,
-      "cat": "英超",
-      "title": "Ipswich Town VS Liverpool",
-      "summary": "英超 · 赛程 · 03:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2494027",
-      "publishedAt": "2026-09-03T15:35:14.292742+00:00",
-      "tags": [
-        "英超",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "3",
-        "season": "2026-2027",
-        "venue": "Portman Road",
-        "date": "2026-09-04",
-        "country": "England",
         "status": "NS"
       }
     },
@@ -654,6 +1616,56 @@
       "extra": {}
     },
     {
+      "id": "00d7899cd1173e42be35cccf902457cc005af80dacbbd7be2b77ec8d524c7b49",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "恭喜DK让二追三拿下BFX，许哥明天加油赢下KT，就可以去世界赛啦！许哥蠕进去吧！",
+      "summary": "UP主 全网最快第一切片 · 2,597播放 · 2:44",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117207107442279",
+      "publishedAt": "2026-09-03T12:31:33+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "全网最快第一切片",
+        "play": 2597,
+        "bvid": "BV1QBto6DEDw",
+        "duration": "2:44"
+      }
+    },
+    {
+      "id": "3079db4c39643551dd6521ba36e21de672167c03f71438e7cf3dba08cbb76d0e",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "海斗必开设置：动态视角自动找英雄，文本详情设置，快速学习设置# 英雄联盟",
+      "summary": "UP主 milan体育老林 · 6,210播放 · 1:8",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117207073821006",
+      "publishedAt": "2026-09-03T12:26:29+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 黑科技 上分"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "milan体育老林",
+        "play": 6210,
+        "bvid": "BV1zWto6cE1V",
+        "duration": "1:8"
+      }
+    },
+    {
       "id": "dbb11c5115b70d913e898d12a7496cc8c7fc7bc0ab884248c439096fb58d20c2",
       "module": "ai",
       "seg": null,
@@ -796,6 +1808,31 @@
         "play": 8444,
         "bvid": "BV17MtZ6cE6s",
         "duration": "8:7"
+      }
+    },
+    {
+      "id": "570c17d5bba73482a11d45c6953b413943d657ff6c86130618230835b5c3c6cb",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "官方解说聊目前已确定晋级2026年世界赛的队伍:LPL有BLG，LCK有HLE、GEN和T1，LCP有TSW、CFO和MVK，BLG比较轻松先拿个联赛冠军吧",
+      "summary": "UP主 英雄联盟电竞赛事数据 · 31,348播放 · 0:38",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117206520299635",
+      "publishedAt": "2026-09-03T10:01:51+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "英雄联盟电竞赛事数据",
+        "play": 31348,
+        "bvid": "BV1oMtZ6cEip",
+        "duration": "0:38"
       }
     },
     {
@@ -4689,6 +5726,31 @@
       }
     },
     {
+      "id": "e8068731f04a25309fa6b4768f4fc2d9e4f9a97fdf934316efc3c7d0dbd44b1a",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "最近海斗建议少选婕拉，15分钟40全吸30锻",
+      "summary": "UP主 浮云片天没了 · 38播放 · 0:33",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117202376264446",
+      "publishedAt": "2026-09-02T16:30:02+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 黑科技 上分"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "浮云片天没了",
+        "play": 38,
+        "bvid": "BV1BQtD6mEvV",
+        "duration": "0:33"
+      }
+    },
+    {
       "id": "aed6c1cbf2bee99be2a9669bd6adf6be9b6459cb51d01ef786c42198e20927a1",
       "module": "ai",
       "seg": null,
@@ -5236,6 +6298,31 @@
         "play": 4530,
         "bvid": "BV1outU6BEie",
         "duration": "3:6"
+      }
+    },
+    {
+      "id": "495077803fb6da6efc8530600cfb07621f6510519135478863e52e8642edbced",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "海斗还真有开脚本啊，图什么？科技刀妹",
+      "summary": "UP主 momo傻傻傻 · 63播放 · 2:37",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117201654783973",
+      "publishedAt": "2026-09-02T13:26:11+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 黑科技 上分"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "momo傻傻傻",
+        "play": 63,
+        "bvid": "BV1e7tU6AEBj",
+        "duration": "2:37"
       }
     },
     {
@@ -9522,6 +10609,31 @@
       "extra": {}
     },
     {
+      "id": "1cd47383546d4354488cf39e1f40065c57166861fb01a9a7af32065d70d32232",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "可观测宇宙最爽的一次EQ",
+      "summary": "UP主 火滾佬 · 1,269播放 · 0:52",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117189994613349",
+      "publishedAt": "2026-08-31T11:58:43+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 黑科技 上分"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "火滾佬",
+        "play": 1269,
+        "bvid": "BV15Ht86mEMp",
+        "duration": "0:52"
+      }
+    },
+    {
       "id": "784e5aa8dae9cfe0dec73ef81ad36b9061d9cd2dc5ef6527f99600d83d3a54f2",
       "module": "ai",
       "seg": null,
@@ -9755,6 +10867,31 @@
       }
     },
     {
+      "id": "a80324bc1316ad049be3aee73f32dcaf344f49cc1606203c4c30aa8a37033bd1",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "【神超s18】【护卫蛇女】最经典的铁王八阵容",
+      "summary": "UP主 GoDlike_神超 · 62,115播放 · 1:2",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117173888487757",
+      "publishedAt": "2026-08-29T03:00:00+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "GoDlike_神超",
+        "play": 62115,
+        "bvid": "BV1uStP6YEng",
+        "duration": "1:2"
+      }
+    },
+    {
       "id": "20de110d91dd5d806d98d3e54b28970d57fb61e799467c4edd00830214bd5baf",
       "module": "ai",
       "seg": null,
@@ -9816,71 +10953,14 @@
       "points": [],
       "live": false,
       "extra": {}
-    },
-    {
-      "id": "47e18a1ccdc68ef9b27f0fea2160105d38b642fa7fb73f4d3de9cb9104947cba",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-      "publishedAt": "2026-08-28T00:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "0764333d8c2d7430c703d163ce6b724b331ac74145bc53afcf8746a8d24f3a96",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-      "summary": "标准化驱动接口旨在让设备与AI及其他设备互联互通。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
-      "publishedAt": "2026-08-27T22:15:43+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "b7f03c0cd7bd661d57e90ec2fc1a52d91e31d15e90ac5951be6e08a2f7b5ed6f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
-      "summary": "xAI被指控用真实及AI生成的儿童色情内容训练Grok模型，引发严重伦理与法律争议。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
-      "publishedAt": "2026-08-27T20:52:31+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI安全与信任危机成行业焦点，模型失控、生成泛滥、监管滞后三重压力加剧",
+      "insight": "AGI叙事升温，AI安全与开源生态博弈加剧",
       "headline": {
-        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-        "summary": "OpenAI新模型Astra采用“循环深度”技术，突破传统推理模型的顺序思维限制。",
+        "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+        "summary": "OpenAI称Astra是计算机与浏览器操作的新前沿，具备无与伦比的速度、准确性和安全性。",
         "source": "TechCrunch",
         "sourceUrl": ""
       },
@@ -9889,15 +10969,21 @@
           "name": "最新科技",
           "items": [
             {
-              "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+              "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+              "summary": "英伟达推出免费开源软件“个人AI路由器”（PAIR），非硬件设备，可协同家庭电脑运行Ollama、LM Studio等本地AI推理任务。",
+              "source": "The Verge",
+              "sourceUrl": ""
+            },
+            {
+              "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
               "summary": "",
               "source": "HuggingFace Blog",
               "sourceUrl": ""
             },
             {
-              "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-              "summary": "谷歌宣布彻底重构搜索框：25年来首次重大升级，支持多模态输入（文本、图像、视频等），整合AI概览与AI模式，打造无缝AI搜索体验。",
-              "source": "VentureBeat",
+              "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+              "summary": "",
+              "source": "HuggingFace Blog",
               "sourceUrl": ""
             }
           ]
@@ -9906,21 +10992,27 @@
           "name": "行业动态",
           "items": [
             {
-              "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-              "summary": "英伟达称Hugging Face托管超300万模型，用户超1800万开发者。",
+              "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+              "summary": "数据中心开发商获Jane Street 130亿美元合同，推动本轮融资落地。",
               "source": "TechCrunch",
               "sourceUrl": ""
             },
             {
-              "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-              "summary": "旧金山云平台Railway获1亿美元B轮融资，估值跃升。其零营销吸引200万开发者，主打简化AI应用部署，挑战AWS、谷歌云等传统云服务。",
-              "source": "VentureBeat",
+              "title": "Nvidia is buying Hugging Face for almost $13 billion",
+              "summary": "英伟达以12.93亿美元收购Hugging Face，将这一全球主流开源AI模型与数据集平台纳入旗下。",
+              "source": "The Verge",
               "sourceUrl": ""
             },
             {
               "title": "ChatGPT, Grok, and Claude all went down at the same time",
-              "summary": "ChatGPT、Claude和Grok三大AI模型于美东时间11点左右集体宕机，ChatGPT状态页显示“ChatGPT及Codex错误率升高”，用户普遍遭遇报",
+              "summary": "ChatGPT、Grok和Claude周四上午约11点ET集体宕机，均出现高错误率；三款AI产品现已恢复服务。",
               "source": "The Verge",
+              "sourceUrl": ""
+            },
+            {
+              "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+              "summary": "诉讼称特朗普秘密审查前沿AI模型或涉腐败，细节未公开。",
+              "source": "Ars Technica",
               "sourceUrl": ""
             }
           ]
@@ -9929,15 +11021,21 @@
           "name": "知识前沿",
           "items": [
             {
-              "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-              "summary": "企业部署AI代理舰队后，连接路径呈指数级增长，导致系统失控、决策黑箱化，安全与治理面临严峻挑战。",
-              "source": "VentureBeat",
+              "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+              "summary": "",
+              "source": "HuggingFace Blog",
               "sourceUrl": ""
             },
             {
-              "title": "When agents act on their own, governance has to live in the data layer",
-              "summary": "AI代理需实时上下文规则而非静态策略，因自主决策依赖动态环境判断，传统“事前指令+事后监控”存在结构性局限。（59字）",
-              "source": "VentureBeat",
+              "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+              "summary": "",
+              "source": "HuggingFace Blog",
+              "sourceUrl": ""
+            },
+            {
+              "title": "Give Your Coding Agents a Memory You Own",
+              "summary": "",
+              "source": "HuggingFace Blog",
               "sourceUrl": ""
             }
           ]
@@ -9946,20 +11044,26 @@
           "name": "应用落地",
           "items": [
             {
+              "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+              "summary": "Google推出WeatherNext 3气象模型，基于深度学习，将接入搜索、地图和Gemini，提升天气预报精度与体验。",
+              "source": "TechCrunch",
+              "sourceUrl": ""
+            },
+            {
               "title": "Amazon’s AI assistant can now spot fake emails from the company",
               "summary": "亚马逊推出新功能：用户可让Alexa for Shopping用AI识别邮件、短信或电话是否为官方发送，以防范仿冒诈骗。",
               "source": "The Verge",
               "sourceUrl": ""
             },
             {
-              "title": "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场",
-              "summary": "眼镜、耳机、麦克风都来了",
+              "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+              "summary": "吃下90%市场",
               "source": "量子位",
               "sourceUrl": ""
             },
             {
-              "title": "世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！",
-              "summary": "单图直出场景，顶会最佳论文落地",
+              "title": "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场",
+              "summary": "眼镜、耳机、麦克风都来了",
               "source": "量子位",
               "sourceUrl": ""
             }
@@ -9990,16 +11094,16 @@
       {
         "t": "03:00",
         "lg": "西甲",
-        "h": "Real Sociedad",
-        "a": "Celta Vigo",
+        "h": "Real Betis",
+        "a": "Real Madrid",
         "s": null,
-        "itemId": "fb-2506226",
-        "url": "https://www.thesportsdb.com/event/2506226",
+        "itemId": "fb-2506205",
+        "url": "https://www.thesportsdb.com/event/2506205",
         "extra": {
-          "round": "6",
+          "round": "4",
           "season": "2026-2027",
-          "venue": "Reale Arena",
-          "date": "2026-09-03",
+          "venue": "Estadio de La Cartuja",
+          "date": "2026-09-04",
           "country": "Spain",
           "status": "NS"
         }
@@ -10039,18 +11143,18 @@
         }
       },
       {
-        "t": "02:45",
+        "t": "01:00",
         "lg": "法甲",
-        "h": "Toulouse",
-        "a": "Lille",
+        "h": "Lyon",
+        "a": "Auxerre",
         "s": null,
-        "itemId": "fb-2489485",
-        "url": "https://www.thesportsdb.com/event/2489485",
+        "itemId": "fb-2489481",
+        "url": "https://www.thesportsdb.com/event/2489481",
         "extra": {
           "round": "3",
           "season": "2026-2027",
-          "venue": "Stadium de Toulouse",
-          "date": "2026-09-03",
+          "venue": "Groupama Stadium",
+          "date": "2026-09-04",
           "country": "France",
           "status": "NS"
         }
@@ -10092,18 +11196,18 @@
         }
       },
       {
-        "t": "03:30",
+        "t": "03:00",
         "lg": "西甲",
-        "h": "Barcelona",
-        "a": "Rayo Vallecano",
-        "s": "5-2",
-        "itemId": "fb-2506189",
-        "url": "https://www.youtube.com/watch?v=BJW5gAgk4bg",
+        "h": "Real Sociedad",
+        "a": "Celta Vigo",
+        "s": "0-0",
+        "itemId": "fb-2506226",
+        "url": "https://www.thesportsdb.com/event/2506226",
         "extra": {
-          "round": "3",
+          "round": "6",
           "season": "2026-2027",
-          "venue": "Spotify Camp Nou",
-          "date": "2026-08-31",
+          "venue": "Reale Arena",
+          "date": "2026-09-03",
           "country": "Spain",
           "status": "FT"
         }
@@ -10145,17 +11249,17 @@
       {
         "t": "02:45",
         "lg": "法甲",
-        "h": "Monaco",
-        "a": "Marseille",
-        "s": "2-0",
-        "itemId": "fb-2489472",
-        "url": "https://www.youtube.com/watch?v=ouMSzjPSIKs",
+        "h": "Toulouse",
+        "a": "Lille",
+        "s": "0-1",
+        "itemId": "fb-2489485",
+        "url": "https://www.thesportsdb.com/event/2489485",
         "extra": {
-          "round": "2",
+          "round": "3",
           "season": "2026-2027",
-          "venue": "Stade Louis II",
-          "date": "2026-08-30",
-          "country": "Monaco",
+          "venue": "Stadium de Toulouse",
+          "date": "2026-09-03",
+          "country": "France",
           "status": "FT"
         }
       },
