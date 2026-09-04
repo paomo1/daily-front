@@ -213,9 +213,11 @@ def dashscope_daily(items: list[dict]) -> dict | None:
 
     brief = []
     for it in items[:40]:
+        url = it.get("sourceUrl") or "[无原文]"
         brief.append(
             f"- [{it.get('cat', '')}] {it.get('title', '')}"
             f"｜{it.get('summary', '')[:80]}｜来源:{it.get('source', '')}"
+            f"｜sourceUrl:{url}"
         )
     prompt = "\n".join(brief)
 
@@ -233,7 +235,8 @@ def dashscope_daily(items: list[dict]) -> dict | None:
         "  ]\n"
         "}\n"
         "硬性要求：\n"
-        "1. 每条 item 的 title/summary/source/sourceUrl 必须原样照搬自输入列表，严禁编造或改写。\n"
+        "1. 每条 item 的 title/summary/source/sourceUrl 必须原样照搬自输入列表，严禁编造或改写。"
+        " 当输入某条 sourceUrl 标为 [无原文] 时，输出 sourceUrl 留空字符串；否则必须精确照搬完整 URL。\n"
         "2. headline 选今天最重要/最具代表性的一条；headline 与 sections 里的条目尽量不重复。\n"
         "3. 每个 section 放 2-4 条；按语义归类（科技突破→最新科技，公司/融资/政策→行业动态，"
         "论文/方法论→知识前沿，产品/场景落地→应用落地）。\n"
