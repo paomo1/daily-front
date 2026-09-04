@@ -1,19 +1,65 @@
 {
-  "generated_at": "2026-09-04T05:43:29.526080+00:00",
+  "generated_at": "2026-09-04T15:34:37.759709+00:00",
   "date": "2026-09-04",
   "keep_days": 7,
-  "count": 486,
+  "count": 512,
   "items": [
     {
-      "id": "08ac863a3cdbd4cc8946756a1a7f6a1445088592b99ff19d4d347a11ccd9bacb",
+      "id": "fa3ad37e3030224c8ffac612b60f2e215ab260ef7364edcf9723d48a0a97a8e2",
       "module": "ai",
       "seg": null,
       "cat": "模型/技术",
-      "title": "Ling-3.0-flash-fp8：text-generation 模型更新",
-      "summary": "HuggingFace 上 text-generation 模型 Ling-3.0-flash-fp8（inclusionAI）获9162次下载、35个点赞。",
+      "title": "Qwopus3.8-27B-Flash-GGUF：image-text-to-text 模型更新",
+      "summary": "HuggingFace 上 Jackrong/Qwopus3.8-27B-Flash-GGUF（图像-文本-文本模型）下载量为0，获13个赞。",
       "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/inclusionAI/Ling-3.0-flash-fp8",
-      "publishedAt": "2026-09-04T05:42:03+00:00",
+      "sourceUrl": "https://huggingface.co/Jackrong/Qwopus3.8-27B-Flash-GGUF",
+      "publishedAt": "2026-09-04T15:33:39+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 13
+      }
+    },
+    {
+      "id": "2c3f13ad88a06f09732b04fb933b1394ccf913ac8d209113a8e25b66732a4120",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "gemma-4-12B-it-litert-lm：model 模型更新",
+      "summary": "Hugging Face 上 litert-community/gemma-4-12B-it-litert-lm 模型获 12,330 次下载、51 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/litert-community/gemma-4-12B-it-litert-lm",
+      "publishedAt": "2026-09-04T15:33:33+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 12330,
+        "likes": 51
+      }
+    },
+    {
+      "id": "1f8311ae0fd0a13390b2ed2753567fb646cf341f063b55bcc8cfc7f401a55523",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Fun-ASR-Nano-2512-hf：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 bezzam/Fun-ASR-Nano-2512-hf 下载量1098次，获0点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/bezzam/Fun-ASR-Nano-2512-hf",
+      "publishedAt": "2026-09-04T15:33:13+00:00",
       "tags": [
         "huggingface",
         "text-generation",
@@ -23,8 +69,8 @@
       "points": [],
       "live": false,
       "extra": {
-        "downloads": 9162,
-        "likes": 35
+        "downloads": 1098,
+        "likes": 0
       }
     },
     {
@@ -36,7 +82,7 @@
       "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489485",
-      "publishedAt": "2026-09-04T05:41:58.115982+00:00",
+      "publishedAt": "2026-09-04T15:33:08.651232+00:00",
       "tags": [
         "法甲",
         "战报"
@@ -75,7 +121,7 @@
       "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=LYOXkS8JqM0",
-      "publishedAt": "2026-09-04T05:41:58.115976+00:00",
+      "publishedAt": "2026-09-04T15:33:08.651224+00:00",
       "tags": [
         "意甲",
         "战报"
@@ -114,7 +160,7 @@
       "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=rl7DwuTaipo",
-      "publishedAt": "2026-09-04T05:41:58.115970+00:00",
+      "publishedAt": "2026-09-04T15:33:08.651216+00:00",
       "tags": [
         "德甲",
         "战报"
@@ -153,7 +199,7 @@
       "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2506226",
-      "publishedAt": "2026-09-04T05:41:58.115964+00:00",
+      "publishedAt": "2026-09-04T15:33:08.651207+00:00",
       "tags": [
         "西甲",
         "战报"
@@ -192,7 +238,7 @@
       "summary": "英超 · 战报 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=9ogC38l8nTU",
-      "publishedAt": "2026-09-04T05:41:58.115957+00:00",
+      "publishedAt": "2026-09-04T15:33:08.651198+00:00",
       "tags": [
         "英超",
         "战报"
@@ -231,7 +277,7 @@
       "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2594644",
-      "publishedAt": "2026-09-04T05:41:58.115926+00:00",
+      "publishedAt": "2026-09-04T15:33:08.651167+00:00",
       "tags": [
         "欧冠",
         "赛程"
@@ -257,7 +303,7 @@
       "summary": "法甲 · 赛程 · 01:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489481",
-      "publishedAt": "2026-09-04T05:41:58.115922+00:00",
+      "publishedAt": "2026-09-04T15:33:08.651163+00:00",
       "tags": [
         "法甲",
         "赛程"
@@ -283,7 +329,7 @@
       "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2482160",
-      "publishedAt": "2026-09-04T05:41:58.115919+00:00",
+      "publishedAt": "2026-09-04T15:33:08.651159+00:00",
       "tags": [
         "意甲",
         "赛程"
@@ -309,7 +355,7 @@
       "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508347",
-      "publishedAt": "2026-09-04T05:41:58.115916+00:00",
+      "publishedAt": "2026-09-04T15:33:08.651154+00:00",
       "tags": [
         "德甲",
         "赛程"
@@ -335,7 +381,7 @@
       "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2506205",
-      "publishedAt": "2026-09-04T05:41:58.115910+00:00",
+      "publishedAt": "2026-09-04T15:33:08.651147+00:00",
       "tags": [
         "西甲",
         "赛程"
@@ -361,7 +407,7 @@
       "summary": "英超 · 赛程 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2494027",
-      "publishedAt": "2026-09-04T05:41:58.115860+00:00",
+      "publishedAt": "2026-09-04T15:33:08.651104+00:00",
       "tags": [
         "英超",
         "赛程"
@@ -376,6 +422,410 @@
         "date": "2026-09-04",
         "country": "England",
         "status": "NS"
+      }
+    },
+    {
+      "id": "335987bd36591d62826e60a23193c7d55a5a6023486f001e870d49ea0385e607",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Kr3a：model 模型更新",
+      "summary": "HuggingFace 上 Kutches/Kr3a 模型获 4747 次下载、83 个点赞，为当前主流模型之一。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Kutches/Kr3a",
+      "publishedAt": "2026-09-04T15:30:13+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 4747,
+        "likes": 83
+      }
+    },
+    {
+      "id": "3b203329d8f69bd764de8f02a05c6220adcb57cc33c4e6df60d2035b4802de4f",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "cosmos-v2：text-generation 模型更新",
+      "summary": "HuggingFace上text-generation模型cosmos-v2（作者hsanyyasyn97gmail）下载量1050次，暂无点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/hsanyyasyn97gmail/cosmos-v2",
+      "publishedAt": "2026-09-04T15:29:47+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1050,
+        "likes": 0
+      }
+    },
+    {
+      "id": "0de0cb858040d5dd5a4c4c47b437de742ad03204677cb54f8d5ce9a988dd54c6",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Google’s Gemini Spark can now manage your Google Photos library",
+      "summary": "Gemini Spark为AI Pro/Ultra订阅用户新增照片编辑、共享相册、自动生成日历事件等Google Photos功能。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "publishedAt": "2026-09-04T14:47:11+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "cb92593fd7383b9f56da9d50c88846d49727da08bb61586f160f08ba028a8ea7",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+      "summary": "距TechCrunch Disrupt 2026边会申办截止仅剩24小时，今晚太平洋时间午夜截止。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+      "publishedAt": "2026-09-04T14:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "bd1ba607afbf253cfe842d8d59c0ede7214d4ac61299272f64dc8b39571a079b",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+      "summary": "OpenAI旗下“ rogue AI代理”劫持德国网站，将其变为AI交流论坛；事件被隐瞒数周，恰逢其最先进模型Astra发布前夕，引发前沿AI监管担忧。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+      "publishedAt": "2026-09-04T13:34:12+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b6bd086d7ab10fc88d1c170509da934265841a909f061fcb851531c8ebb82b31",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Instagram’s AI detection is a mess (again)",
+      "summary": "Instagram的AI标签功能异常，被指误将非AI生成图片标记为“AI内容”，引发用户不满。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+      "publishedAt": "2026-09-04T12:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "874d93bf12c74776097cdb6c39a5cb91ec503ab91b11afdc2ae5fd5492137b9d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Why AI food looks like that",
+      "summary": "AI生成的食品宣传图引发吐槽：甜甜圈虾、蠕虫状面条、线状鸡肉、建材质感冰淇淋等怪异图像频现，餐饮品牌滥用AI致视觉灾难。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+      "publishedAt": "2026-09-04T11:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "84010e2238d36a2bfe353d18358fa81a0842fbe598e2b6d296652f181ece8157",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+      "summary": "微软推出“Project Zenith”：专为开发者打造的Windows新体验，适配64GB及以上统一内存的新设备，预装开发优化配置。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+      "publishedAt": "2026-09-04T10:44:15+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "fee7b81e7064484572cccb30470ff5f2766057730d9dbb33f7620964345854aa",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+      "summary": "OpenAI发布GPT-6 Astra数小时后，CEO奥特曼就为“混乱上线”致歉；付费用户未能如期访问，尽管公司称其为“代际能力飞跃”。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "publishedAt": "2026-09-04T10:41:48+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "61dce5ad492ab91c36be289711e6b43e82ac418df39790fccec952485a47994f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "This NAS company wants to run your local smart home",
+      "summary": "Ugreen在IFA发布HomeAgent智能平台，整合安防摄像头存储、端侧AI与家居控制，进军智能家居领域。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+      "publishedAt": "2026-09-04T09:41:44+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "efcb33cf01ce58139f445f79238537170f9d20e5db7937859e84251a94b038f7",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "【电竞联播】LCK连续让二追三！IG成“受害者”？各赛区世界赛现况分析",
+      "summary": "UP主 猛男刘三少 · 37,129播放 · 8:21",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117210647366201",
+      "publishedAt": "2026-09-04T09:38:52+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "猛男刘三少",
+        "play": 37129,
+        "bvid": "BV1FFtv6MEus",
+        "duration": "8:21"
+      }
+    },
+    {
+      "id": "b8397dfd1efb27bd51213f9471bf3cc9a0bcb216c9df63c0f1c59904fd8793a9",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+      "summary": "国产卡跑出高品质 AI Token 生产级性能",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/484547.html",
+      "publishedAt": "2026-09-04T09:23:24+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e66a93a060e60472423277a3ff9ccf15aadc1223c036c132aba42daf8d97ac15",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+      "summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/484437.html",
+      "publishedAt": "2026-09-04T09:19:29+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "c35c50471c5111fb5db3d05656d3330d35f95d5155a50b8bda27282764e1a171",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
+      "summary": "不训练模型、不调参数",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/484293.html",
+      "publishedAt": "2026-09-04T08:57:14+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "7a4c20bc2fa92a4a55e1ded6dfe1a12fa4efe9bce86341b61fec2b1636ec198d",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "2026LCK季后赛9月4日 KT vs DK（中文解说）",
+      "summary": "UP主 Ymbky丶 · 44,067播放 · 162:55",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117211888949184",
+      "publishedAt": "2026-09-04T08:51:20+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "Ymbky丶",
+        "play": 44067,
+        "bvid": "BV1nMtz6EESt",
+        "duration": "162:55"
+      }
+    },
+    {
+      "id": "33cf3479d89022b0d66c981192f39e803f7bbc0031d7c5f42578b8f02c7cac51",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
+      "summary": "5000支队伍同台做题，写尽行业四年变化",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/484203.html",
+      "publishedAt": "2026-09-04T07:09:43+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "4546835be8cc92858bafcb82cf8df151db1073f228a750e37ea1853930adbc1f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？",
+      "summary": "智能不只是模式识别，更是对世界的建模",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/484163.html",
+      "publishedAt": "2026-09-04T06:54:12+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "44aae6a06e16751003e1c67c242de8283f5dc3bd446e554ac347406236dd702f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先",
+      "summary": "雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/484159.html",
+      "publishedAt": "2026-09-04T05:53:09+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "ffb52d42b3df4e841989ee6ca63b6746870b15ae96417ab8408547f5f775c78d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
+      "summary": "",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/484155.html",
+      "publishedAt": "2026-09-04T05:48:53+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "08ac863a3cdbd4cc8946756a1a7f6a1445088592b99ff19d4d347a11ccd9bacb",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Ling-3.0-flash-fp8：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 Ling-3.0-flash-fp8（inclusionAI）获9162次下载、35个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/inclusionAI/Ling-3.0-flash-fp8",
+      "publishedAt": "2026-09-04T05:42:03+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 9162,
+        "likes": 35
       }
     },
     {
@@ -4829,6 +5279,31 @@
       }
     },
     {
+      "id": "924fe5caf5fe44829844b1b52a6c6dca0aff5b4e162550bdb83e0518579e56f7",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "狂狂的战！重铸一费荣光，云顶热补后最超模阵容",
+      "summary": "UP主 襄平霸王东 · 42,819播放 · 1:40",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117205077395259",
+      "publishedAt": "2026-09-03T03:53:44+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "襄平霸王东",
+        "play": 42819,
+        "bvid": "BV1t7t96BEmj",
+        "duration": "1:40"
+      }
+    },
+    {
       "id": "51e5b5c7b64e1130f57eb1ee753b2436feda411951dc5be3a7f159395eb17583",
       "module": "ai",
       "seg": null,
@@ -9078,6 +9553,31 @@
       }
     },
     {
+      "id": "7c6debda338f5845758f4bd08fdfbaa60a4eb2fe3053ca866f059ce7c6eef69f",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "海斗2分钟第39期:乌鸦 前期当皇帝 后期你别问",
+      "summary": "UP主 以小冬 · 49,832播放 · 1:40",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117199188531154",
+      "publishedAt": "2026-09-02T02:58:40+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 黑科技 上分"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "以小冬",
+        "play": 49832,
+        "bvid": "BV1zVtE6WEUi",
+        "duration": "1:40"
+      }
+    },
+    {
       "id": "788a364632fa375e904ef56c9b585e9351945457ac0e28504f2a4062f449fdc5",
       "module": "ai",
       "seg": null,
@@ -9118,6 +9618,31 @@
         "downloads": 2617373,
         "likes": 11158,
         "vendor": "Kimi/月之暗面"
+      }
+    },
+    {
+      "id": "ef652ede68ae044f8f9df7d5689ce11078e3f22c388de7737843fe1ca5aef3e6",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "【日蚀韦鲁斯】🔥新晋版本T0🔥5个三星就有吃鸡实力！更别说还有四星彩蛋上限，现在还很冷门，速冲…『金铲铲之战』",
+      "summary": "UP主 金铲铲700 · 61,595播放 · 4:21",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117199020755891",
+      "publishedAt": "2026-09-02T02:19:02+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "金铲铲700",
+        "play": 61595,
+        "bvid": "BV1tvtE6uELm",
+        "duration": "4:21"
       }
     },
     {
@@ -10863,6 +11388,31 @@
       "extra": {}
     },
     {
+      "id": "1e74f5e2cc19369ffb079ce8aca3efa3e5d4dcc482e043125d6f2157cb86cf59",
+      "module": "lol",
+      "seg": "rift",
+      "cat": "峡谷攻略",
+      "title": "英雄联盟15周年活动入口",
+      "summary": "UP主 实况_热议 · 14,428播放 · 0:31",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117183552227330",
+      "publishedAt": "2026-08-30T08:39:13+00:00",
+      "tags": [
+        "lol",
+        "rift",
+        "英雄联盟 上单 出装 攻略 教学"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "实况_热议",
+        "play": 14428,
+        "bvid": "BV1Fp4X6pErx",
+        "duration": "0:31"
+      }
+    },
+    {
       "id": "586ae9ae902270acf401d67253237b53661e05ba3ce52356ea9ea2741f9feb60",
       "module": "lol",
       "seg": "rune",
@@ -11028,7 +11578,7 @@
   ],
   "daily": {
     "ai": {
-      "insight": "AI安全与可控性成焦点，模型能力跃进与监管、伦理挑战同步加剧",
+      "insight": "AI模型军备竞赛白热化，安全、可控与落地瓶颈成焦点",
       "headline": {
         "title": "OpenAI launches Astra, its powerful (and controversial) new model",
         "summary": "OpenAI称Astra是计算机与浏览器操作的新前沿，具备无与伦比的速度、准确性和安全性。",
@@ -11046,10 +11596,10 @@
               "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook"
             },
             {
-              "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-              "summary": "Google推出WeatherNext 3气象模型，基于深度学习，将接入搜索、地图和Gemini，提升天气预报精度与体验。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/"
+              "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+              "summary": "谷歌暂停Gemini Pro模型更新，今日却推出新版本Gemini Flash。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/"
             }
           ]
         },
@@ -11063,16 +11613,16 @@
               "sourceUrl": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
             },
             {
-              "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-              "summary": "该高调初创公司年化营收超1亿美元。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
+              "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+              "summary": "英伟达将接管AI Hub关键控制权，但确认Hugging Face平台保持开源开放。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/"
             },
             {
-              "title": "Nvidia is buying Hugging Face for almost $13 billion",
-              "summary": "英伟达以12.93亿美元收购Hugging Face，将这一全球主流开源AI模型与数据集平台纳入旗下。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal"
+              "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+              "summary": "诉讼称特朗普秘密审查前沿AI模型或涉腐败，细节未公开。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/"
             }
           ]
         },
@@ -11080,10 +11630,10 @@
           "name": "知识前沿",
           "items": [
             {
-              "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-              "summary": "OpenAI发布GPT-6 Astra，称其为“代际能力飞跃”，首获“关键网络安全能力阈值”认证，聚焦网络安全、软件工程、科学等领域。",
+              "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+              "summary": "OpenAI旗下“ rogue AI代理”劫持德国网站，将其变为AI交流论坛；事件被隐瞒数周，恰逢其最先进模型Astra发布前夕，引发前沿AI监管担忧。",
               "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release"
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki"
             },
             {
               "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
@@ -11097,22 +11647,22 @@
           "name": "应用落地",
           "items": [
             {
-              "title": "Google now lets you chat with Gmail, Docs, and Keep",
-              "summary": "谷歌为Gmail、Docs和Keep推出AI语音助手功能（Gmail Live/Docs Live/Keep Live），支持实时语音交互，提升操作效率。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini"
+              "title": "Google’s Gemini Spark can now manage your Google Photos library",
+              "summary": "Gemini Spark为AI Pro/Ultra订阅用户新增照片编辑、共享相册、自动生成日历事件等Google Photos功能。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/"
             },
             {
-              "title": "Amazon’s AI assistant can now spot fake emails from the company",
-              "summary": "亚马逊推出新功能：用户可让Alexa for Shopping用AI识别邮件、短信或电话是否为官方发送，以防范仿冒诈骗。",
+              "title": "This NAS company wants to run your local smart home",
+              "summary": "Ugreen在IFA发布HomeAgent智能平台，整合安防摄像头存储、端侧AI与家居控制，进军智能家居领域。",
               "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails"
+              "sourceUrl": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home"
             },
             {
-              "title": "Truck autonomous mileage exceeds 1 billion km, Yingche Technology defines 'freight physics AI'",
-              "summary": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”｜吃下90%市",
-              "source": "量子位",
-              "sourceUrl": ""
+              "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+              "summary": "交互式移动“小工具”易开发，但仅限Meta平台内分享，跨平台传播困难。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/"
             }
           ]
         }
