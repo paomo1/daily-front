@@ -1128,26 +1128,38 @@ function rebuildAiDailyItems(d){
   for (let i=ITEMS.length-1; i>=0; i--){
     if (ITEMS[i].id && ITEMS[i].id.startsWith('ai-d-')) ITEMS.splice(i, 1);
   }
-  const mk = (it, cat) => ({
-    id: _aiIdOf(it),
-    module: 'ai',
-    cat: cat,
-    title: it.title || '',
-    summary: it.summary || '',
-    source: it.source || '',
-    sourceUrl: it.sourceUrl || '',
-    publishedAt: new Date().toISOString(),
-    tags: [cat, 'AI 日报'],
-    body: [
-      it.summary ? it.summary : (it.title || ''),
-      it.sourceUrl ? `原文链接：${it.sourceUrl}` : ''
-    ].filter(Boolean),
-    points: it.sourceUrl
-      ? ['<b>原文链接</b>：详情页底部 ↗ 查看原文 可跳转到来源页']
-      : ['本页由「每日 AI 行业日报」自动重组，更多细节请见来源页。'],
-    live: false,
-    extra: { daily: true }
-  });
+  /* 兜底：当 DAILY 重组成 sourceUrl 为空时，从 ITEMS 真实条目里按 title 找 sourceUrl 补回去 */
+  const _fallbackUrl = (title) => {
+    if(!title) return '';
+    for (const x of ITEMS){
+      if (x.id && x.id.startsWith('ai-d-')) continue;  // 跳过 daily 虚拟条目
+      if (x.title === title && x.sourceUrl) return x.sourceUrl;
+    }
+    return '';
+  };
+  const mk = (it, cat) => {
+    const realUrl = (it.sourceUrl && it.sourceUrl.trim()) || _fallbackUrl(it.title);
+    return {
+      id: _aiIdOf(it),
+      module: 'ai',
+      cat: cat,
+      title: it.title || '',
+      summary: it.summary || '',
+      source: it.source || '',
+      sourceUrl: realUrl,
+      publishedAt: new Date().toISOString(),
+      tags: [cat, 'AI 日报'],
+      body: [
+        it.summary ? it.summary : (it.title || ''),
+        realUrl ? `原文链接：${realUrl}` : ''
+      ].filter(Boolean),
+      points: realUrl
+        ? ['<b>原文链接</b>：详情页底部 ↗ 查看原文 可跳转到来源页']
+        : ['本页由「每日 AI 行业日报」自动重组，更多细节请见来源页。'],
+      live: false,
+      extra: { daily: true }
+    };
+  };
   if (d.headline && d.headline.title){
     const it = d.headline;
     if (!byId(_aiIdOf(it))) ITEMS.push(mk(it, '今日头条'));
