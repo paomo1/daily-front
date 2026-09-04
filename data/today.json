@@ -1,9 +1,32 @@
 {
-  "generated_at": "2026-09-04T05:35:38.098719+00:00",
+  "generated_at": "2026-09-04T05:43:29.526080+00:00",
   "date": "2026-09-04",
   "keep_days": 7,
-  "count": 483,
+  "count": 486,
   "items": [
+    {
+      "id": "08ac863a3cdbd4cc8946756a1a7f6a1445088592b99ff19d4d347a11ccd9bacb",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Ling-3.0-flash-fp8：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 Ling-3.0-flash-fp8（inclusionAI）获9162次下载、35个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/inclusionAI/Ling-3.0-flash-fp8",
+      "publishedAt": "2026-09-04T05:42:03+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 9162,
+        "likes": 35
+      }
+    },
     {
       "id": "226acb4edb043fa43392bb715426b29ec9cf077eb7535922d1727d04d1f320ed",
       "module": "football",
@@ -13,7 +36,7 @@
       "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489485",
-      "publishedAt": "2026-09-04T05:33:50.943780+00:00",
+      "publishedAt": "2026-09-04T05:41:58.115982+00:00",
       "tags": [
         "法甲",
         "战报"
@@ -52,7 +75,7 @@
       "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=LYOXkS8JqM0",
-      "publishedAt": "2026-09-04T05:33:50.943772+00:00",
+      "publishedAt": "2026-09-04T05:41:58.115976+00:00",
       "tags": [
         "意甲",
         "战报"
@@ -91,7 +114,7 @@
       "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=rl7DwuTaipo",
-      "publishedAt": "2026-09-04T05:33:50.943766+00:00",
+      "publishedAt": "2026-09-04T05:41:58.115970+00:00",
       "tags": [
         "德甲",
         "战报"
@@ -130,7 +153,7 @@
       "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2506226",
-      "publishedAt": "2026-09-04T05:33:50.943759+00:00",
+      "publishedAt": "2026-09-04T05:41:58.115964+00:00",
       "tags": [
         "西甲",
         "战报"
@@ -169,7 +192,7 @@
       "summary": "英超 · 战报 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=9ogC38l8nTU",
-      "publishedAt": "2026-09-04T05:33:50.943750+00:00",
+      "publishedAt": "2026-09-04T05:41:58.115957+00:00",
       "tags": [
         "英超",
         "战报"
@@ -208,7 +231,7 @@
       "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2594644",
-      "publishedAt": "2026-09-04T05:33:50.943721+00:00",
+      "publishedAt": "2026-09-04T05:41:58.115926+00:00",
       "tags": [
         "欧冠",
         "赛程"
@@ -234,7 +257,7 @@
       "summary": "法甲 · 赛程 · 01:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489481",
-      "publishedAt": "2026-09-04T05:33:50.943717+00:00",
+      "publishedAt": "2026-09-04T05:41:58.115922+00:00",
       "tags": [
         "法甲",
         "赛程"
@@ -260,7 +283,7 @@
       "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2482160",
-      "publishedAt": "2026-09-04T05:33:50.943713+00:00",
+      "publishedAt": "2026-09-04T05:41:58.115919+00:00",
       "tags": [
         "意甲",
         "赛程"
@@ -286,7 +309,7 @@
       "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508347",
-      "publishedAt": "2026-09-04T05:33:50.943708+00:00",
+      "publishedAt": "2026-09-04T05:41:58.115916+00:00",
       "tags": [
         "德甲",
         "赛程"
@@ -312,7 +335,7 @@
       "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2506205",
-      "publishedAt": "2026-09-04T05:33:50.943701+00:00",
+      "publishedAt": "2026-09-04T05:41:58.115910+00:00",
       "tags": [
         "西甲",
         "赛程"
@@ -338,7 +361,7 @@
       "summary": "英超 · 赛程 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2494027",
-      "publishedAt": "2026-09-04T05:33:50.943661+00:00",
+      "publishedAt": "2026-09-04T05:41:58.115860+00:00",
       "tags": [
         "英超",
         "赛程"
@@ -353,6 +376,29 @@
         "date": "2026-09-04",
         "country": "England",
         "status": "NS"
+      }
+    },
+    {
+      "id": "d3d2a01d14ad6f826c18fb9884276322c39cf3e4a7d740eef2a827d2c140154e",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Ling-3.0-flash：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 inclusionAI/Ling-3.0-flash 获 20,104 次下载、392 赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/inclusionAI/Ling-3.0-flash",
+      "publishedAt": "2026-09-04T05:41:09+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 20104,
+        "likes": 392
       }
     },
     {
@@ -2115,6 +2161,31 @@
         "play": 9006,
         "bvid": "BV1BEtR6dEaJ",
         "duration": "555:43"
+      }
+    },
+    {
+      "id": "e155db04ee16551897c5b7889d91aff5c29f6c7e40fd050edfe3d91027a48cdd",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "2026LCK季后赛9月3日 DK vs BFX（中文解说）",
+      "summary": "UP主 Ymbky丶 · 46,970播放 · 201:31",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117206285620587",
+      "publishedAt": "2026-09-03T09:05:42+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "Ymbky丶",
+        "play": 46970,
+        "bvid": "BV1zEtR6RE3E",
+        "duration": "201:31"
       }
     },
     {
@@ -10957,12 +11028,12 @@
   ],
   "daily": {
     "ai": {
-      "insight": "AGI叙事升温，AI安全与开源生态博弈加剧",
+      "insight": "AI安全与可控性成焦点，模型能力跃进与监管、伦理挑战同步加剧",
       "headline": {
         "title": "OpenAI launches Astra, its powerful (and controversial) new model",
         "summary": "OpenAI称Astra是计算机与浏览器操作的新前沿，具备无与伦比的速度、准确性和安全性。",
         "source": "TechCrunch",
-        "sourceUrl": ""
+        "sourceUrl": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
       },
       "sections": [
         {
@@ -10972,19 +11043,13 @@
               "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
               "summary": "英伟达推出免费开源软件“个人AI路由器”（PAIR），非硬件设备，可协同家庭电脑运行Ollama、LM Studio等本地AI推理任务。",
               "source": "The Verge",
-              "sourceUrl": ""
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook"
             },
             {
-              "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-              "summary": "",
-              "source": "HuggingFace Blog",
-              "sourceUrl": ""
-            },
-            {
-              "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-              "summary": "",
-              "source": "HuggingFace Blog",
-              "sourceUrl": ""
+              "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+              "summary": "Google推出WeatherNext 3气象模型，基于深度学习，将接入搜索、地图和Gemini，提升天气预报精度与体验。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/"
             }
           ]
         },
@@ -10995,25 +11060,19 @@
               "title": "Crusoe reportedly raises $3B at a  $30B valuation",
               "summary": "数据中心开发商获Jane Street 130亿美元合同，推动本轮融资落地。",
               "source": "TechCrunch",
-              "sourceUrl": ""
+              "sourceUrl": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
+            },
+            {
+              "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+              "summary": "该高调初创公司年化营收超1亿美元。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
             },
             {
               "title": "Nvidia is buying Hugging Face for almost $13 billion",
               "summary": "英伟达以12.93亿美元收购Hugging Face，将这一全球主流开源AI模型与数据集平台纳入旗下。",
               "source": "The Verge",
-              "sourceUrl": ""
-            },
-            {
-              "title": "ChatGPT, Grok, and Claude all went down at the same time",
-              "summary": "ChatGPT、Grok和Claude周四上午约11点ET集体宕机，均出现高错误率；三款AI产品现已恢复服务。",
-              "source": "The Verge",
-              "sourceUrl": ""
-            },
-            {
-              "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
-              "summary": "诉讼称特朗普秘密审查前沿AI模型或涉腐败，细节未公开。",
-              "source": "Ars Technica",
-              "sourceUrl": ""
+              "sourceUrl": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal"
             }
           ]
         },
@@ -11021,22 +11080,16 @@
           "name": "知识前沿",
           "items": [
             {
-              "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-              "summary": "",
-              "source": "HuggingFace Blog",
-              "sourceUrl": ""
+              "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+              "summary": "OpenAI发布GPT-6 Astra，称其为“代际能力飞跃”，首获“关键网络安全能力阈值”认证，聚焦网络安全、软件工程、科学等领域。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release"
             },
             {
-              "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-              "summary": "",
-              "source": "HuggingFace Blog",
-              "sourceUrl": ""
-            },
-            {
-              "title": "Give Your Coding Agents a Memory You Own",
-              "summary": "",
-              "source": "HuggingFace Blog",
-              "sourceUrl": ""
+              "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+              "summary": "诉讼称Anthropic模型训练盗用数万首歌曲，致AI生成歌曲霸榜，词曲作者收入锐减。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/"
             }
           ]
         },
@@ -11044,26 +11097,20 @@
           "name": "应用落地",
           "items": [
             {
-              "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-              "summary": "Google推出WeatherNext 3气象模型，基于深度学习，将接入搜索、地图和Gemini，提升天气预报精度与体验。",
-              "source": "TechCrunch",
-              "sourceUrl": ""
+              "title": "Google now lets you chat with Gmail, Docs, and Keep",
+              "summary": "谷歌为Gmail、Docs和Keep推出AI语音助手功能（Gmail Live/Docs Live/Keep Live），支持实时语音交互，提升操作效率。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini"
             },
             {
               "title": "Amazon’s AI assistant can now spot fake emails from the company",
               "summary": "亚马逊推出新功能：用户可让Alexa for Shopping用AI识别邮件、短信或电话是否为官方发送，以防范仿冒诈骗。",
               "source": "The Verge",
-              "sourceUrl": ""
+              "sourceUrl": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails"
             },
             {
-              "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
-              "summary": "吃下90%市场",
-              "source": "量子位",
-              "sourceUrl": ""
-            },
-            {
-              "title": "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场",
-              "summary": "眼镜、耳机、麦克风都来了",
+              "title": "Truck autonomous mileage exceeds 1 billion km, Yingche Technology defines 'freight physics AI'",
+              "summary": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”｜吃下90%市",
               "source": "量子位",
               "sourceUrl": ""
             }

@@ -2708,7 +2708,7 @@
     "summary": "英超 · 赛程 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2494027",
-    "publishedAt": "2026-09-04T05:33:50.943661+00:00",
+    "publishedAt": "2026-09-04T05:41:58.115860+00:00",
     "tags": [
       "英超",
       "赛程"
@@ -2760,7 +2760,7 @@
     "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2508347",
-    "publishedAt": "2026-09-04T05:33:50.943708+00:00",
+    "publishedAt": "2026-09-04T05:41:58.115916+00:00",
     "tags": [
       "德甲",
       "赛程"
@@ -2786,7 +2786,7 @@
     "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2482160",
-    "publishedAt": "2026-09-04T05:33:50.943713+00:00",
+    "publishedAt": "2026-09-04T05:41:58.115919+00:00",
     "tags": [
       "意甲",
       "赛程"
@@ -2838,7 +2838,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594644",
-    "publishedAt": "2026-09-04T05:33:50.943721+00:00",
+    "publishedAt": "2026-09-04T05:41:58.115926+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -2864,7 +2864,7 @@
     "summary": "英超 · 战报 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=9ogC38l8nTU",
-    "publishedAt": "2026-09-04T05:33:50.943750+00:00",
+    "publishedAt": "2026-09-04T05:41:58.115957+00:00",
     "tags": [
       "英超",
       "战报"
@@ -2942,7 +2942,7 @@
     "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=rl7DwuTaipo",
-    "publishedAt": "2026-09-04T05:33:50.943766+00:00",
+    "publishedAt": "2026-09-04T05:41:58.115970+00:00",
     "tags": [
       "德甲",
       "战报"
@@ -2981,7 +2981,7 @@
     "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=LYOXkS8JqM0",
-    "publishedAt": "2026-09-04T05:33:50.943772+00:00",
+    "publishedAt": "2026-09-04T05:41:58.115976+00:00",
     "tags": [
       "意甲",
       "战报"
@@ -11406,7 +11406,7 @@
     "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2506205",
-    "publishedAt": "2026-09-04T05:33:50.943701+00:00",
+    "publishedAt": "2026-09-04T05:41:58.115910+00:00",
     "tags": [
       "西甲",
       "赛程"
@@ -11432,7 +11432,7 @@
     "summary": "法甲 · 赛程 · 01:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2489481",
-    "publishedAt": "2026-09-04T05:33:50.943717+00:00",
+    "publishedAt": "2026-09-04T05:41:58.115922+00:00",
     "tags": [
       "法甲",
       "赛程"
@@ -11458,7 +11458,7 @@
     "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2506226",
-    "publishedAt": "2026-09-04T05:33:50.943759+00:00",
+    "publishedAt": "2026-09-04T05:41:58.115964+00:00",
     "tags": [
       "西甲",
       "战报"
@@ -11497,7 +11497,7 @@
     "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2489485",
-    "publishedAt": "2026-09-04T05:33:50.943780+00:00",
+    "publishedAt": "2026-09-04T05:41:58.115982+00:00",
     "tags": [
       "法甲",
       "战报"
@@ -12632,6 +12632,102 @@
       "play": 62115,
       "bvid": "BV1uStP6YEng",
       "duration": "1:2"
+    }
+  },
+  "08ac863a3cdbd4cc8946756a1a7f6a1445088592b99ff19d4d347a11ccd9bacb": {
+    "id": "08ac863a3cdbd4cc8946756a1a7f6a1445088592b99ff19d4d347a11ccd9bacb",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Ling-3.0-flash-fp8：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 Ling-3.0-flash-fp8（inclusionAI）获9162次下载、35个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/inclusionAI/Ling-3.0-flash-fp8",
+    "publishedAt": "2026-09-04T05:42:03+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 9162,
+      "likes": 35
+    }
+  },
+  "d3d2a01d14ad6f826c18fb9884276322c39cf3e4a7d740eef2a827d2c140154e": {
+    "id": "d3d2a01d14ad6f826c18fb9884276322c39cf3e4a7d740eef2a827d2c140154e",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Ling-3.0-flash：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 inclusionAI/Ling-3.0-flash 获 20,104 次下载、392 赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/inclusionAI/Ling-3.0-flash",
+    "publishedAt": "2026-09-04T05:41:09+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 20104,
+      "likes": 392
+    }
+  },
+  "7ae5b2258b483a0ed4a52baaf7cdec664d66c06c0ad47750991544a3b00622f9": {
+    "id": "7ae5b2258b483a0ed4a52baaf7cdec664d66c06c0ad47750991544a3b00622f9",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "英雄联盟lol全英雄教学合集，持续更新",
+    "summary": "UP主 lol超神解说lol · 205,467播放 · ",
+    "source": "哔哩哔哩",
+    "sourceUrl": "https://www.bilibili.com/cheese/play/ss9717?query_from=0&search_id=14075445836757804042&search_query=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F+%E4%B8%8A%E5%8D%95+%E5%87%BA%E8%A3%85+%E6%94%BB%E7%95%A5+%E6%95%99%E5%AD%A6",
+    "publishedAt": "1970-01-01T00:00:00+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "lol超神解说lol",
+      "play": 205467,
+      "bvid": "",
+      "duration": ""
+    }
+  },
+  "e155db04ee16551897c5b7889d91aff5c29f6c7e40fd050edfe3d91027a48cdd": {
+    "id": "e155db04ee16551897c5b7889d91aff5c29f6c7e40fd050edfe3d91027a48cdd",
+    "module": "lol",
+    "seg": "match",
+    "cat": "比赛",
+    "title": "2026LCK季后赛9月3日 DK vs BFX（中文解说）",
+    "summary": "UP主 Ymbky丶 · 46,970播放 · 201:31",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117206285620587",
+    "publishedAt": "2026-09-03T09:05:42+00:00",
+    "tags": [
+      "lol",
+      "match",
+      "英雄联盟 LPL LCK 比赛 集锦 复盘"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "Ymbky丶",
+      "play": 46970,
+      "bvid": "BV1zEtR6RE3E",
+      "duration": "201:31"
     }
   }
 }
