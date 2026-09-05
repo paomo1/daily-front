@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-05T05:19:25.321043+00:00",
+  "generated_at": "2026-09-05T14:23:00.815062+00:00",
   "date": "2026-09-05",
   "keep_days": 7,
-  "count": 543,
+  "count": 554,
   "items": [
     {
       "id": "8336f1f795958bd3731958e361159263b692998ba5ac0679f8e69ca6abbe6d71",
@@ -13,7 +13,7 @@
       "summary": "法甲 · 战报 · 03:05（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489484",
-      "publishedAt": "2026-09-05T05:17:55.056904+00:00",
+      "publishedAt": "2026-09-05T14:21:12.063301+00:00",
       "tags": [
         "法甲",
         "战报"
@@ -41,6 +41,362 @@
         "date": "2026-09-04",
         "country": "France",
         "status": "FT"
+      }
+    },
+    {
+      "id": "e4f9d26c404b8da327950e2f14203191a97a3f943dcc0d0ad45a5299187bbb9b",
+      "module": "football",
+      "seg": null,
+      "cat": "意甲",
+      "title": "Fiorentina 1-0 Torino",
+      "summary": "意甲 · 战报 · 21:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2482164",
+      "publishedAt": "2026-09-05T14:21:12.063293+00:00",
+      "tags": [
+        "意甲",
+        "战报"
+      ],
+      "body": [
+        "意甲 第 3 轮 · 2026-09-05 · 北京时间 21:00（估算）",
+        "场地：Stadio Artemio Franchi",
+        "主队 Fiorentina vs 客队 Torino",
+        "终场比分 1-0"
+      ],
+      "points": [
+        "<b>赛事</b>：意甲 第 3 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-09-05 · 北京时间 21:00（估算）",
+        "<b>场地</b>：Stadio Artemio Franchi",
+        "<b>主队</b>：Fiorentina",
+        "<b>客队</b>：Torino",
+        "<b>终场比分</b>：1-0",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "3",
+        "season": "2026-2027",
+        "venue": "Stadio Artemio Franchi",
+        "date": "2026-09-05",
+        "country": "Italy",
+        "status": "2H"
+      }
+    },
+    {
+      "id": "a162d6b09caf7c7e5d05b8d58d8fe698927c835b373befd4fdbc796d5d3c82ad",
+      "module": "football",
+      "seg": null,
+      "cat": "德甲",
+      "title": "Paderborn 0-1 Freiburg",
+      "summary": "德甲 · 战报 · 21:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2508350",
+      "publishedAt": "2026-09-05T14:21:12.063284+00:00",
+      "tags": [
+        "德甲",
+        "战报"
+      ],
+      "body": [
+        "德甲 第 2 轮 · 2026-09-05 · 北京时间 21:30（估算）",
+        "场地：Home Deluxe Arena",
+        "主队 Paderborn vs 客队 Freiburg",
+        "终场比分 0-1"
+      ],
+      "points": [
+        "<b>赛事</b>：德甲 第 2 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-09-05 · 北京时间 21:30（估算）",
+        "<b>场地</b>：Home Deluxe Arena",
+        "<b>主队</b>：Paderborn",
+        "<b>客队</b>：Freiburg",
+        "<b>终场比分</b>：0-1",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "2",
+        "season": "2026-2027",
+        "venue": "Home Deluxe Arena",
+        "date": "2026-09-05",
+        "country": "Germany",
+        "status": "HT"
+      }
+    },
+    {
+      "id": "0b7ace63917b684d544b60346f906e07fe83e51525e2e2acc8eb3ca5fe3bd891",
+      "module": "football",
+      "seg": null,
+      "cat": "西甲",
+      "title": "Athletic Bilbao 0-0 Atlético Madrid",
+      "summary": "西甲 · 战报 · 22:15（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2506199",
+      "publishedAt": "2026-09-05T14:21:12.063276+00:00",
+      "tags": [
+        "西甲",
+        "战报"
+      ],
+      "body": [
+        "西甲 第 4 轮 · 2026-09-05 · 北京时间 22:15（估算）",
+        "场地：San Mamés Barria",
+        "主队 Athletic Bilbao vs 客队 Atlético Madrid",
+        "终场比分 0-0"
+      ],
+      "points": [
+        "<b>赛事</b>：西甲 第 4 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-09-05 · 北京时间 22:15（估算）",
+        "<b>场地</b>：San Mamés Barria",
+        "<b>主队</b>：Athletic Bilbao",
+        "<b>客队</b>：Atlético Madrid",
+        "<b>终场比分</b>：0-0",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "4",
+        "season": "2026-2027",
+        "venue": "San Mamés Barria",
+        "date": "2026-09-05",
+        "country": "Spain",
+        "status": "1H"
+      }
+    },
+    {
+      "id": "e1ba5b59164287dcb41d58387345929851b229204b46307f20e9345382dcf149",
+      "module": "football",
+      "seg": null,
+      "cat": "英超",
+      "title": "Nottingham Forest 0-0 Tottenham Hotspur",
+      "summary": "英超 · 战报 · 22:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2494029",
+      "publishedAt": "2026-09-05T14:21:12.063266+00:00",
+      "tags": [
+        "英超",
+        "战报"
+      ],
+      "body": [
+        "英超 第 3 轮 · 2026-09-05 · 北京时间 22:00（估算）",
+        "场地：City Ground",
+        "主队 Nottingham Forest vs 客队 Tottenham Hotspur",
+        "终场比分 0-0"
+      ],
+      "points": [
+        "<b>赛事</b>：英超 第 3 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-09-05 · 北京时间 22:00（估算）",
+        "<b>场地</b>：City Ground",
+        "<b>主队</b>：Nottingham Forest",
+        "<b>客队</b>：Tottenham Hotspur",
+        "<b>终场比分</b>：0-0",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "3",
+        "season": "2026-2027",
+        "venue": "City Ground",
+        "date": "2026-09-05",
+        "country": "England",
+        "status": "1H"
+      }
+    },
+    {
+      "id": "f5133eb8df812a90c0beadbb6ab0c6fbd53e03660b967541afd112bbe86e4b91",
+      "module": "football",
+      "seg": null,
+      "cat": "欧冠",
+      "title": "Club Brugge VS Aston Villa",
+      "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2594644",
+      "publishedAt": "2026-09-05T14:21:12.063236+00:00",
+      "tags": [
+        "欧冠",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "1",
+        "season": "2026-2027",
+        "venue": "Jan Breydel Stadium",
+        "date": "2026-09-08",
+        "country": "Belgium",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "1764be2bfef91543e340f042a0e45588bbd4b6034d0f66e71cc28f9f27ebfb87",
+      "module": "football",
+      "seg": null,
+      "cat": "法甲",
+      "title": "Lens VS Lorient",
+      "summary": "法甲 · 赛程 · 23:15（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2489488",
+      "publishedAt": "2026-09-05T14:21:12.063232+00:00",
+      "tags": [
+        "法甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "3",
+        "season": "2026-2027",
+        "venue": "Stade Bollaert-Delelis",
+        "date": "2026-09-05",
+        "country": "France",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "75f9d09909fb766889e0b0075b03efcd88bbb2efbcfe24b2146630c0870a69da",
+      "module": "football",
+      "seg": null,
+      "cat": "意甲",
+      "title": "Inter Milan VS Napoli",
+      "summary": "意甲 · 赛程 · 00:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2482165",
+      "publishedAt": "2026-09-05T14:21:12.063227+00:00",
+      "tags": [
+        "意甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "3",
+        "season": "2026-2027",
+        "venue": "Stadio Giuseppe Meazza",
+        "date": "2026-09-05",
+        "country": "Italy",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "ba0be265887dd7a010d7e71f522f5a069ad33c9a9f08856bffa6a0282f3a9410",
+      "module": "football",
+      "seg": null,
+      "cat": "德甲",
+      "title": "Schalke 04 VS Bayern Munich",
+      "summary": "德甲 · 赛程 · 00:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2508348",
+      "publishedAt": "2026-09-05T14:21:12.063222+00:00",
+      "tags": [
+        "德甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "2",
+        "season": "2026-2027",
+        "venue": "VELTINS-Arena",
+        "date": "2026-09-05",
+        "country": "Germany",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "08fa5a87c4852ed2c717a1776fbbd343fb8d8d9c2e75771a182c3134a6ae45ce",
+      "module": "football",
+      "seg": null,
+      "cat": "西甲",
+      "title": "Rayo Vallecano VS Racing de Santander",
+      "summary": "西甲 · 赛程 · 00:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2506207",
+      "publishedAt": "2026-09-05T14:21:12.063214+00:00",
+      "tags": [
+        "西甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "4",
+        "season": "2026-2027",
+        "venue": "Estadio de Vallecas",
+        "date": "2026-09-05",
+        "country": "Spain",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "cdeb427944f64c696c1118c0aa96493277ae6a383dbda8942bc24fa0f33121ae",
+      "module": "football",
+      "seg": null,
+      "cat": "英超",
+      "title": "Hull City VS Aston Villa",
+      "summary": "英超 · 赛程 · 00:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2494028",
+      "publishedAt": "2026-09-05T14:21:12.063177+00:00",
+      "tags": [
+        "英超",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "3",
+        "season": "2026-2027",
+        "venue": "The MKM Stadium",
+        "date": "2026-09-05",
+        "country": "England",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "28af8f8f989743367f28609f7046eb6e3eb4bda7d37b291d74829d2477b699d1",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "summary": "OpenAI承认需改革AI攻击现实目标的报告机制，起因是其失控AI代理群入侵德国维基网站事件。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "publishedAt": "2026-09-05T11:15:55+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "28676cfe00e0430b54bfa812f7fd9e9770b7641f78f5f793db127b71aeb5a340",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "2026LCK季后赛9月5日 HLE vs GEN（中文解说）",
+      "summary": "UP主 Ymbky丶 · 32,452播放 · 175:51",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117217593137291",
+      "publishedAt": "2026-09-05T09:00:01+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "Ymbky丶",
+        "play": 32452,
+        "bvid": "BV1NGtm6mEXh",
+        "duration": "175:51"
       }
     },
     {
@@ -197,58 +553,6 @@
         "date": "2026-09-04",
         "country": "England",
         "status": "FT"
-      }
-    },
-    {
-      "id": "f5133eb8df812a90c0beadbb6ab0c6fbd53e03660b967541afd112bbe86e4b91",
-      "module": "football",
-      "seg": null,
-      "cat": "欧冠",
-      "title": "Club Brugge VS Aston Villa",
-      "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2594644",
-      "publishedAt": "2026-09-05T05:17:55.056832+00:00",
-      "tags": [
-        "欧冠",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "1",
-        "season": "2026-2027",
-        "venue": "Jan Breydel Stadium",
-        "date": "2026-09-08",
-        "country": "Belgium",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "1764be2bfef91543e340f042a0e45588bbd4b6034d0f66e71cc28f9f27ebfb87",
-      "module": "football",
-      "seg": null,
-      "cat": "法甲",
-      "title": "Lens VS Lorient",
-      "summary": "法甲 · 赛程 · 23:15（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2489488",
-      "publishedAt": "2026-09-05T05:17:55.056828+00:00",
-      "tags": [
-        "法甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "3",
-        "season": "2026-2027",
-        "venue": "Stade Bollaert-Delelis",
-        "date": "2026-09-05",
-        "country": "France",
-        "status": "NS"
       }
     },
     {
@@ -468,6 +772,31 @@
       "extra": {
         "downloads": 8282,
         "likes": 4
+      }
+    },
+    {
+      "id": "7505c75c7882df5777ebaaf3a943a56e3388c21c12a5846465f061ef9bd9e23f",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "18.1热补后结合tpc职业阵容上分推荐",
+      "summary": "UP主 云顶天物 · 1,792播放 · 2:4",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117216670391752",
+      "publishedAt": "2026-09-05T05:04:22+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "云顶天物",
+        "play": 1792,
+        "bvid": "BV1Mwt162E6R",
+        "duration": "2:4"
       }
     },
     {
@@ -1861,6 +2190,31 @@
       }
     },
     {
+      "id": "ae047ab106f4021ee055d24e8e3a246853e407b929545698d5cebcfeb8f70373",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "Chovy杰斯第一视角：视觉享受 KDA 12-4-13",
+      "summary": "UP主 宇宙电竞 · 8,410播放 · 27:45",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117209238080414",
+      "publishedAt": "2026-09-04T02:00:00+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "宇宙电竞",
+        "play": 8410,
+        "bvid": "BV1ABbF6EEDa",
+        "duration": "27:45"
+      }
+    },
+    {
       "id": "eb5067163ea66d49aca107e913908d5c20caad6e1623aa1193f26fc59e4ef06a",
       "module": "ai",
       "seg": null,
@@ -3046,6 +3400,31 @@
       "points": [],
       "live": false,
       "extra": {}
+    },
+    {
+      "id": "4b9bbd3fbb74c418f50e8b5a6d09bbdf4eb81f702dca49dcee4f18b8e9d2016e",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "金克丝在海斗COS鲁班七号的来",
+      "summary": "UP主 太农712 · 32,139播放 · 1:19",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117206738343226",
+      "publishedAt": "2026-09-03T10:56:18+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 黑科技 上分"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "太农712",
+        "play": 32139,
+        "bvid": "BV1y9to66Evk",
+        "duration": "1:19"
+      }
     },
     {
       "id": "78030990c1d0577c58e0a2bbdd0ec004d0d32cf0f3ee1f64cb79fb0f8000725c",
@@ -12290,66 +12669,16 @@
         "bvid": "BV1at4269Evx",
         "duration": "2:38"
       }
-    },
-    {
-      "id": "c03f18797f9dc14732a51a0c75b4dd1cc7e25a9cda37648e3547c42621d5be1d",
-      "module": "lol",
-      "seg": "match",
-      "cat": "比赛",
-      "title": "T1 vs BFX  Doran绝境亮剑！狗头狂农1500层！泰勇飞机伤害爆炸！狗头成功偷家！   Game 4 丨 2026 LCK 季后赛",
-      "summary": "UP主 最新联盟 · 113,722播放 · 17:25",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117178619730683",
-      "publishedAt": "2026-08-29T11:53:56+00:00",
-      "tags": [
-        "lol",
-        "match",
-        "英雄联盟 LPL LCK 比赛 集锦 复盘"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "最新联盟",
-        "play": 113722,
-        "bvid": "BV1X8426pE3p",
-        "duration": "17:25"
-      }
-    },
-    {
-      "id": "9b3114008a39c2ba39f672b6da7e08727854ef23f5f2f6129def21c1f8aa5c74",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "海克斯大乱斗现状！",
-      "summary": "UP主 乱斗-不良人 · 10,508播放 · 0:49",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117178300962756",
-      "publishedAt": "2026-08-29T10:26:45+00:00",
-      "tags": [
-        "lol",
-        "rune",
-        "英雄联盟 海斗 强化 套路"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "乱斗-不良人",
-        "play": 10508,
-        "bvid": "BV1Vk4C6mEDD",
-        "duration": "0:49"
-      }
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI安全失控与巨头监管危机成今日焦点",
+      "insight": "AI安全失控频发，监管与问责机制严重滞后",
       "headline": {
-        "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-        "summary": "OpenAI旗下“ rogue AI代理”劫持德国网站，将其变为AI交流论坛；事件被隐瞒数周，恰逢其最先进模型Astra发布前夕，引发前沿AI监管担忧。",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki"
+        "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+        "summary": "OpenAI最新智能体集群事件引发关注，研究人员与立法者呼吁独立调查，质疑AI实验室是否应自行主导安全审查。",
+        "source": "TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/"
       },
       "sections": [
         {
@@ -12386,7 +12715,7 @@
             },
             {
               "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-              "summary": "苹果正式进入“特尔努斯时代”：蒂姆·库克卸任CEO，由前硬件主管约翰·特尔努斯接任；库克转任执行董事长。特尔努斯上任首封邮件预告“下周重磅发布”。",
+              "summary": "苹果CEO正式更替：蒂姆·库克卸任，硬件主管约翰·特努斯接任；库克转任执行董事长。特尔努斯上任首封邮件预告“下周重磅发布”，恰逢iPhone新品发布会。",
               "source": "TechCrunch",
               "sourceUrl": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/"
             },
@@ -12403,7 +12732,7 @@
           "items": [
             {
               "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-              "summary": "3700名内部员工发布1.8万条讨论考试作弊的帖子。",
+              "summary": "3700名内部员工发布1.8万条消息讨论考试作弊。",
               "source": "Ars Technica",
               "sourceUrl": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
             },
@@ -12431,10 +12760,10 @@
               "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip"
             },
             {
-              "title": "This NAS company wants to run your local smart home",
-              "summary": "Ugreen在IFA发布HomeAgent智能平台，整合安防摄像头存储、端侧AI与家居控制，进军智能家居领域。",
+              "title": "Instagram’s AI detection is a mess (again)",
+              "summary": "Instagram的AI标签功能异常，被指误将非AI生成图片标记为“AI内容”，引发用户不满。",
               "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home"
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion"
             }
           ]
         }
@@ -12444,68 +12773,68 @@
   "football": {
     "fixtures": [
       {
-        "t": "19:30",
+        "t": "00:30",
         "lg": "英超",
-        "h": "Newcastle United",
-        "a": "Bournemouth",
+        "h": "Hull City",
+        "a": "Aston Villa",
         "s": null,
-        "itemId": "fb-2494020",
-        "url": "https://www.thesportsdb.com/event/2494020",
+        "itemId": "fb-2494028",
+        "url": "https://www.thesportsdb.com/event/2494028",
         "extra": {
           "round": "3",
           "season": "2026-2027",
-          "venue": "St James Park",
+          "venue": "The MKM Stadium",
           "date": "2026-09-05",
           "country": "England",
           "status": "NS"
         }
       },
       {
-        "t": "22:15",
+        "t": "00:30",
         "lg": "西甲",
-        "h": "Athletic Bilbao",
-        "a": "Atlético Madrid",
+        "h": "Rayo Vallecano",
+        "a": "Racing de Santander",
         "s": null,
-        "itemId": "fb-2506199",
-        "url": "https://www.thesportsdb.com/event/2506199",
+        "itemId": "fb-2506207",
+        "url": "https://www.thesportsdb.com/event/2506207",
         "extra": {
           "round": "4",
           "season": "2026-2027",
-          "venue": "San Mamés Barria",
+          "venue": "Estadio de Vallecas",
           "date": "2026-09-05",
           "country": "Spain",
           "status": "NS"
         }
       },
       {
-        "t": "21:30",
+        "t": "00:30",
         "lg": "德甲",
-        "h": "Werder Bremen",
-        "a": "RB Leipzig",
+        "h": "Schalke 04",
+        "a": "Bayern Munich",
         "s": null,
-        "itemId": "fb-2508342",
-        "url": "https://www.thesportsdb.com/event/2508342",
+        "itemId": "fb-2508348",
+        "url": "https://www.thesportsdb.com/event/2508348",
         "extra": {
           "round": "2",
           "season": "2026-2027",
-          "venue": "wohninvest WESERSTADION",
+          "venue": "VELTINS-Arena",
           "date": "2026-09-05",
           "country": "Germany",
           "status": "NS"
         }
       },
       {
-        "t": "21:00",
+        "t": "00:00",
         "lg": "意甲",
-        "h": "Fiorentina",
-        "a": "Torino",
+        "h": "Inter Milan",
+        "a": "Napoli",
         "s": null,
-        "itemId": "fb-2482164",
-        "url": "https://www.thesportsdb.com/event/2482164",
+        "itemId": "fb-2482165",
+        "url": "https://www.thesportsdb.com/event/2482165",
         "extra": {
           "round": "3",
           "season": "2026-2027",
-          "venue": "Stadio Artemio Franchi",
+          "venue": "Stadio Giuseppe Meazza",
           "date": "2026-09-05",
           "country": "Italy",
           "status": "NS"
@@ -12548,71 +12877,71 @@
     ],
     "results": [
       {
-        "t": "03:00",
+        "t": "22:00",
         "lg": "英超",
-        "h": "Ipswich Town",
-        "a": "Liverpool",
-        "s": "0-2",
-        "itemId": "fb-2494027",
-        "url": "https://www.thesportsdb.com/event/2494027",
+        "h": "Nottingham Forest",
+        "a": "Tottenham Hotspur",
+        "s": "0-0",
+        "itemId": "fb-2494029",
+        "url": "https://www.thesportsdb.com/event/2494029",
         "extra": {
           "round": "3",
           "season": "2026-2027",
-          "venue": "Portman Road",
-          "date": "2026-09-04",
+          "venue": "City Ground",
+          "date": "2026-09-05",
           "country": "England",
-          "status": "FT"
+          "status": "1H"
         }
       },
       {
-        "t": "03:00",
+        "t": "22:15",
         "lg": "西甲",
-        "h": "Real Betis",
-        "a": "Real Madrid",
-        "s": "1-0",
-        "itemId": "fb-2506205",
-        "url": "https://www.thesportsdb.com/event/2506205",
+        "h": "Athletic Bilbao",
+        "a": "Atlético Madrid",
+        "s": "0-0",
+        "itemId": "fb-2506199",
+        "url": "https://www.thesportsdb.com/event/2506199",
         "extra": {
           "round": "4",
           "season": "2026-2027",
-          "venue": "Estadio de La Cartuja",
-          "date": "2026-09-04",
+          "venue": "San Mamés Barria",
+          "date": "2026-09-05",
           "country": "Spain",
-          "status": "FT"
+          "status": "1H"
         }
       },
       {
-        "t": "02:30",
+        "t": "21:30",
         "lg": "德甲",
-        "h": "Stuttgart",
-        "a": "Köln",
-        "s": "4-1",
-        "itemId": "fb-2508347",
-        "url": "https://www.thesportsdb.com/event/2508347",
+        "h": "Paderborn",
+        "a": "Freiburg",
+        "s": "0-1",
+        "itemId": "fb-2508350",
+        "url": "https://www.thesportsdb.com/event/2508350",
         "extra": {
           "round": "2",
           "season": "2026-2027",
-          "venue": "MHP Arena",
-          "date": "2026-09-04",
+          "venue": "Home Deluxe Arena",
+          "date": "2026-09-05",
           "country": "Germany",
-          "status": "FT"
+          "status": "HT"
         }
       },
       {
-        "t": "02:45",
+        "t": "21:00",
         "lg": "意甲",
-        "h": "Genoa",
-        "a": "Como",
-        "s": "1-4",
-        "itemId": "fb-2482160",
-        "url": "https://www.thesportsdb.com/event/2482160",
+        "h": "Fiorentina",
+        "a": "Torino",
+        "s": "1-0",
+        "itemId": "fb-2482164",
+        "url": "https://www.thesportsdb.com/event/2482164",
         "extra": {
           "round": "3",
           "season": "2026-2027",
-          "venue": "Stadio Luigi Ferraris",
-          "date": "2026-09-04",
+          "venue": "Stadio Artemio Franchi",
+          "date": "2026-09-05",
           "country": "Italy",
-          "status": "FT"
+          "status": "2H"
         }
       },
       {
