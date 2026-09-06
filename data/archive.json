@@ -2838,7 +2838,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594644",
-    "publishedAt": "2026-09-05T14:21:12.063236+00:00",
+    "publishedAt": "2026-09-06T05:32:58.089864+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -14911,6 +14911,716 @@
       "play": 1792,
       "bvid": "BV1Mwt162E6R",
       "duration": "2:4"
+    }
+  },
+  "bd63a8511f14a1eb87469f308921a353a2ac19cdee3aa71db7aff56878d00851": {
+    "id": "bd63a8511f14a1eb87469f308921a353a2ac19cdee3aa71db7aff56878d00851",
+    "module": "football",
+    "seg": null,
+    "cat": "英超",
+    "title": "Everton VS Manchester United",
+    "summary": "英超 · 赛程 · 21:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2494023",
+    "publishedAt": "2026-09-06T05:32:58.089806+00:00",
+    "tags": [
+      "英超",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "3",
+      "season": "2026-2027",
+      "venue": "Hill Dickinson Stadium",
+      "date": "2026-09-06",
+      "country": "England",
+      "status": "NS"
+    }
+  },
+  "4255ab85d11ed4c5bbbeb44bf7933f1ebafaa286269f5559f1f86629ce095318": {
+    "id": "4255ab85d11ed4c5bbbeb44bf7933f1ebafaa286269f5559f1f86629ce095318",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Valencia VS Barcelona",
+    "summary": "西甲 · 赛程 · 22:15（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2506200",
+    "publishedAt": "2026-09-06T05:32:58.089842+00:00",
+    "tags": [
+      "西甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "Estadio de Mestalla",
+      "date": "2026-09-06",
+      "country": "Spain",
+      "status": "NS"
+    }
+  },
+  "b566203363250468418ec3d15e7b6630ed5e2128590bf541fa16f0e9a455a73d": {
+    "id": "b566203363250468418ec3d15e7b6630ed5e2128590bf541fa16f0e9a455a73d",
+    "module": "football",
+    "seg": null,
+    "cat": "德甲",
+    "title": "Hamburg VS Mainz",
+    "summary": "德甲 · 赛程 · 21:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2508349",
+    "publishedAt": "2026-09-06T05:32:58.089849+00:00",
+    "tags": [
+      "德甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "2",
+      "season": "2026-2027",
+      "venue": "Volksparkstadion",
+      "date": "2026-09-06",
+      "country": "Germany",
+      "status": "NS"
+    }
+  },
+  "8d5b2af3078533fc160dfc2cd24ded25a2f25c0aa48d10f7413e9bad07fefeb0": {
+    "id": "8d5b2af3078533fc160dfc2cd24ded25a2f25c0aa48d10f7413e9bad07fefeb0",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Frosinone VS Venezia",
+    "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482166",
+    "publishedAt": "2026-09-06T05:32:58.089855+00:00",
+    "tags": [
+      "意甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "3",
+      "season": "2026-2027",
+      "venue": "Stadio Benito Stirpe",
+      "date": "2026-09-06",
+      "country": "Italy",
+      "status": "NS"
+    }
+  },
+  "31ac6c24b89eda5e6c1bd51d2ff834bcddf425dc6aee894538f1d2ae73da36d4": {
+    "id": "31ac6c24b89eda5e6c1bd51d2ff834bcddf425dc6aee894538f1d2ae73da36d4",
+    "module": "football",
+    "seg": null,
+    "cat": "法甲",
+    "title": "Troyes VS Strasbourg",
+    "summary": "法甲 · 赛程 · 21:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2489486",
+    "publishedAt": "2026-09-06T05:32:58.089860+00:00",
+    "tags": [
+      "法甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "3",
+      "season": "2026-2027",
+      "venue": "Stade de l'Aube",
+      "date": "2026-09-06",
+      "country": "France",
+      "status": "NS"
+    }
+  },
+  "973e7498c0122f35c849ca7687a765e5215cfc22259a8a40fe64a339d6237b23": {
+    "id": "973e7498c0122f35c849ca7687a765e5215cfc22259a8a40fe64a339d6237b23",
+    "module": "football",
+    "seg": null,
+    "cat": "英超",
+    "title": "Hull City 0-0 Aston Villa",
+    "summary": "英超 · 战报 · 00:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2494028",
+    "publishedAt": "2026-09-06T05:32:58.089889+00:00",
+    "tags": [
+      "英超",
+      "战报"
+    ],
+    "body": [
+      "英超 第 3 轮 · 2026-09-05 · 北京时间 00:30（估算）",
+      "场地：The MKM Stadium",
+      "主队 Hull City vs 客队 Aston Villa",
+      "终场比分 0-0"
+    ],
+    "points": [
+      "<b>赛事</b>：英超 第 3 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-05 · 北京时间 00:30（估算）",
+      "<b>场地</b>：The MKM Stadium",
+      "<b>主队</b>：Hull City",
+      "<b>客队</b>：Aston Villa",
+      "<b>终场比分</b>：0-0",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "3",
+      "season": "2026-2027",
+      "venue": "The MKM Stadium",
+      "date": "2026-09-05",
+      "country": "England",
+      "status": "FT"
+    }
+  },
+  "adf3afd660c47919ce9fc468f80552d77ac01218113ecdc2445785485e38cc9c": {
+    "id": "adf3afd660c47919ce9fc468f80552d77ac01218113ecdc2445785485e38cc9c",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Villarreal 2-3 Deportivo de A Coruña",
+    "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2506201",
+    "publishedAt": "2026-09-06T05:32:58.089898+00:00",
+    "tags": [
+      "西甲",
+      "战报"
+    ],
+    "body": [
+      "西甲 第 4 轮 · 2026-09-05 · 北京时间 03:00（估算）",
+      "场地：Estadio de la Cerámica",
+      "主队 Villarreal vs 客队 Deportivo de A Coruña",
+      "终场比分 2-3"
+    ],
+    "points": [
+      "<b>赛事</b>：西甲 第 4 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-05 · 北京时间 03:00（估算）",
+      "<b>场地</b>：Estadio de la Cerámica",
+      "<b>主队</b>：Villarreal",
+      "<b>客队</b>：Deportivo de A Coruña",
+      "<b>终场比分</b>：2-3",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "Estadio de la Cerámica",
+      "date": "2026-09-05",
+      "country": "Spain",
+      "status": "FT"
+    }
+  },
+  "f7240eb75594f99a3a476c29fc57c14b45416955e226a2b7ea70a435f1b7c9c8": {
+    "id": "f7240eb75594f99a3a476c29fc57c14b45416955e226a2b7ea70a435f1b7c9c8",
+    "module": "football",
+    "seg": null,
+    "cat": "德甲",
+    "title": "Schalke 04 0-0 Bayern Munich",
+    "summary": "德甲 · 战报 · 00:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2508348",
+    "publishedAt": "2026-09-06T05:32:58.089906+00:00",
+    "tags": [
+      "德甲",
+      "战报"
+    ],
+    "body": [
+      "德甲 第 2 轮 · 2026-09-05 · 北京时间 00:30（估算）",
+      "场地：VELTINS-Arena",
+      "主队 Schalke 04 vs 客队 Bayern Munich",
+      "终场比分 0-0"
+    ],
+    "points": [
+      "<b>赛事</b>：德甲 第 2 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-05 · 北京时间 00:30（估算）",
+      "<b>场地</b>：VELTINS-Arena",
+      "<b>主队</b>：Schalke 04",
+      "<b>客队</b>：Bayern Munich",
+      "<b>终场比分</b>：0-0",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "2",
+      "season": "2026-2027",
+      "venue": "VELTINS-Arena",
+      "date": "2026-09-05",
+      "country": "Germany",
+      "status": "FT"
+    }
+  },
+  "b1a72651848c1a82147ec16aa7017b35396c8906c2f244f96d1574a9516dd5f6": {
+    "id": "b1a72651848c1a82147ec16aa7017b35396c8906c2f244f96d1574a9516dd5f6",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Roma 2-1 Atalanta",
+    "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482162",
+    "publishedAt": "2026-09-06T05:32:58.089913+00:00",
+    "tags": [
+      "意甲",
+      "战报"
+    ],
+    "body": [
+      "意甲 第 3 轮 · 2026-09-05 · 北京时间 02:45（估算）",
+      "场地：Stadio Olimpico",
+      "主队 Roma vs 客队 Atalanta",
+      "终场比分 2-1"
+    ],
+    "points": [
+      "<b>赛事</b>：意甲 第 3 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-05 · 北京时间 02:45（估算）",
+      "<b>场地</b>：Stadio Olimpico",
+      "<b>主队</b>：Roma",
+      "<b>客队</b>：Atalanta",
+      "<b>终场比分</b>：2-1",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "3",
+      "season": "2026-2027",
+      "venue": "Stadio Olimpico",
+      "date": "2026-09-05",
+      "country": "Italy",
+      "status": "FT"
+    }
+  },
+  "aea0260077072fbad5d86db452fc95b68649160b87ab8aa98dd6b98348ad2f59": {
+    "id": "aea0260077072fbad5d86db452fc95b68649160b87ab8aa98dd6b98348ad2f59",
+    "module": "football",
+    "seg": null,
+    "cat": "法甲",
+    "title": "Le Havre 1-2 Brest",
+    "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2489487",
+    "publishedAt": "2026-09-06T05:32:58.089920+00:00",
+    "tags": [
+      "法甲",
+      "战报"
+    ],
+    "body": [
+      "法甲 第 3 轮 · 2026-09-05 · 北京时间 02:45（估算）",
+      "场地：Stade Océane",
+      "主队 Le Havre vs 客队 Brest",
+      "终场比分 1-2"
+    ],
+    "points": [
+      "<b>赛事</b>：法甲 第 3 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-05 · 北京时间 02:45（估算）",
+      "<b>场地</b>：Stade Océane",
+      "<b>主队</b>：Le Havre",
+      "<b>客队</b>：Brest",
+      "<b>终场比分</b>：1-2",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "3",
+      "season": "2026-2027",
+      "venue": "Stade Océane",
+      "date": "2026-09-05",
+      "country": "France",
+      "status": "FT"
+    }
+  },
+  "10492f32bb9702ea1e3e72f9b9c28c2c4dea5ff681ed8f22761965389a2bc46e": {
+    "id": "10492f32bb9702ea1e3e72f9b9c28c2c4dea5ff681ed8f22761965389a2bc46e",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "summary": "又有两家新闻机构起诉OpenAI与微软，指控其未经许可使用其新闻内容训练AI模型。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "publishedAt": "2026-09-05T22:49:55+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "74ae85d4883d3ba6198238fa009d8a50243dac099eecf24da69132761e0d4978": {
+    "id": "74ae85d4883d3ba6198238fa009d8a50243dac099eecf24da69132761e0d4978",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "summary": "警方称，登山者被Gemini建议携带远少于实际所需的食水。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "publishedAt": "2026-09-05T19:35:24+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "2849229399e74d7cb5e86ee49ad383289f5e06bcf6642c2e8dce99f817e5d2e0": {
+    "id": "2849229399e74d7cb5e86ee49ad383289f5e06bcf6642c2e8dce99f817e5d2e0",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "summary": "OpenAI承认其AI代理近日接管德国维基论坛，引发安全关注。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "publishedAt": "2026-09-05T18:05:27+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "651445c3af9e001034b6fe3ed154b978d2314185d4857acace8b3ed73847a6ba": {
+    "id": "651445c3af9e001034b6fe3ed154b978d2314185d4857acace8b3ed73847a6ba",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+    "summary": "",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/484890.html",
+    "publishedAt": "2026-09-06T04:40:15+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "384dff17bc31a07bd7f21f05fb58b3328bff3c028064d2ef17490690d5cc2b61": {
+    "id": "384dff17bc31a07bd7f21f05fb58b3328bff3c028064d2ef17490690d5cc2b61",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "GPT-6带火循环Transformer，阿里早已布局",
+    "summary": "手握两篇顶会论文",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/484726.html",
+    "publishedAt": "2026-09-05T15:07:08+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "97a84dfc87e38dba87bc281ce8b8c9549e21368583eaac74b2397121004cefa0": {
+    "id": "97a84dfc87e38dba87bc281ce8b8c9549e21368583eaac74b2397121004cefa0",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+    "summary": "当AI开始“预演”一场暴雨",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/484683.html",
+    "publishedAt": "2026-09-05T14:46:15+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "4e49a4cb990480f737df68e0163169a65f44bb4582ce7322fd04bd9f46bb15d3": {
+    "id": "4e49a4cb990480f737df68e0163169a65f44bb4582ce7322fd04bd9f46bb15d3",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "AnimaYume：text-to-image 模型更新",
+    "summary": "HuggingFace 上 text-to-image 模型 duongve/AnimaYume 目前下载量为 0，获 49 个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/duongve/AnimaYume",
+    "publishedAt": "2026-09-06T05:32:13+00:00",
+    "tags": [
+      "huggingface",
+      "text-to-image",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 49
+    }
+  },
+  "74697842cc4468b8d138f61d7ca5c8ea8768ba9002142597e602f5dd3e80542f": {
+    "id": "74697842cc4468b8d138f61d7ca5c8ea8768ba9002142597e602f5dd3e80542f",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "chars：model 模型更新",
+    "summary": "HuggingFace 主流 model 模型 saliacoel/chars，0 下载，11 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/saliacoel/chars",
+    "publishedAt": "2026-09-06T05:30:15+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 11
+    }
+  },
+  "0abec16669706a3df72d78217aabb1f9fbf8f156b3de6b474423bc1073774fad": {
+    "id": "0abec16669706a3df72d78217aabb1f9fbf8f156b3de6b474423bc1073774fad",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "【教练正在热身】英雄联盟大数据BP软件draftgap下载使用教程",
+    "summary": "UP主 夜纯月 · 61,957播放 · 12:34",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av113253942367126",
+    "publishedAt": "2024-10-05T09:10:29+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 黑科技 上分"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "夜纯月",
+      "play": 61957,
+      "bvid": "BV1Cn1XYuEGB",
+      "duration": "12:34"
+    }
+  },
+  "23a2df171f3916d195c4f9333913e60e5959643a4bd69c93ea4ffb63eba9df58": {
+    "id": "23a2df171f3916d195c4f9333913e60e5959643a4bd69c93ea4ffb63eba9df58",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "《英雄联盟十五周年B站活动宝宝级教程：1分钟教你投稿＋绑定账号 奖励绝不错过》",
+    "summary": "UP主 今晚也要早点睡觉呐LOL · 6,254播放 · 1:23",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117189860590240",
+    "publishedAt": "2026-08-31T11:26:18+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 强化 套路"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "今晚也要早点睡觉呐LOL",
+      "play": 6254,
+      "bvid": "BV1nut86oERe",
+      "duration": "1:23"
+    }
+  },
+  "6684ad1dd5fcbb30ebb859c746c07ec2ccc3143a47753fadbd4bebe164387723": {
+    "id": "6684ad1dd5fcbb30ebb859c746c07ec2ccc3143a47753fadbd4bebe164387723",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "S18捡分海克斯推荐",
+    "summary": "UP主 云顶好导师 · 64,965播放 · 6:41",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117132667000880",
+    "publishedAt": "2026-08-21T08:59:09+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 强化 套路"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "云顶好导师",
+      "play": 64965,
+      "bvid": "BV1JW8q67Eht",
+      "duration": "6:41"
+    }
+  },
+  "6db54d7283acdd584ef5235423dfbf24cdbda6a014e4ce4d8c7f2f931ad82450": {
+    "id": "6db54d7283acdd584ef5235423dfbf24cdbda6a014e4ce4d8c7f2f931ad82450",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "国5科加斯的出装思路分享，让大虫子神区化脓",
+    "summary": "UP主 是苍狼呀 · 10,854播放 · 2:11",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117125905647652",
+    "publishedAt": "2026-08-20T04:18:59+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "是苍狼呀",
+      "play": 10854,
+      "bvid": "BV1Xm8F6NE2f",
+      "duration": "2:11"
+    }
+  },
+  "e49cc089fa16fe9fbcec230102c70e88e0bc920d4b20659a5a7e84a5e31034ee": {
+    "id": "e49cc089fa16fe9fbcec230102c70e88e0bc920d4b20659a5a7e84a5e31034ee",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "英雄联盟lol全英雄教学合集，持续更新",
+    "summary": "UP主 lol超神解说lol · 205,932播放 · ",
+    "source": "哔哩哔哩",
+    "sourceUrl": "https://www.bilibili.com/cheese/play/ss9717?query_from=0&search_id=11548021999863929569&search_query=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F+%E4%B8%8A%E5%8D%95+%E5%87%BA%E8%A3%85+%E6%94%BB%E7%95%A5+%E6%95%99%E5%AD%A6",
+    "publishedAt": "1970-01-01T00:00:00+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "lol超神解说lol",
+      "play": 205932,
+      "bvid": "",
+      "duration": ""
+    }
+  },
+  "04a62b4510462b3c29e129dfbd27ae9e94777311ce6812dc4dfc947a41dc206d": {
+    "id": "04a62b4510462b3c29e129dfbd27ae9e94777311ce6812dc4dfc947a41dc206d",
+    "module": "lol",
+    "seg": "match",
+    "cat": "比赛",
+    "title": "继续蠕动！涅槃双雄ig nip战胜一二赛段亚军京东滔搏！gen帮帮主chovy血洗韩门晋级lck总决赛！【lol赛事日报】",
+    "summary": "UP主 逆天水煎包 · 53,109播放 · 7:2",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117219488957949",
+    "publishedAt": "2026-09-05T17:06:40+00:00",
+    "tags": [
+      "lol",
+      "match",
+      "英雄联盟 LPL LCK 比赛 集锦 复盘"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "逆天水煎包",
+      "play": 53109,
+      "bvid": "BV1vMbE6DEww",
+      "duration": "7:2"
+    }
+  },
+  "ea78abc3e867ca33bac174f6d983afe65472d133620cebb2f33ab29caea57f6a": {
+    "id": "ea78abc3e867ca33bac174f6d983afe65472d133620cebb2f33ab29caea57f6a",
+    "module": "lol",
+    "seg": "match",
+    "cat": "比赛",
+    "title": "盘点世界赛上LPL与LCK的所有对阵场次",
+    "summary": "UP主 招牌同脸书 · 174播放 · 6:41",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117218213956473",
+    "publishedAt": "2026-09-05T11:36:33+00:00",
+    "tags": [
+      "lol",
+      "match",
+      "英雄联盟 LPL LCK 比赛 集锦 复盘"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "招牌同脸书",
+      "play": 174,
+      "bvid": "BV1SHt26QEKK",
+      "duration": "6:41"
+    }
+  },
+  "673db6f065a5a3812350f654adfd876794ff73a4fa50e1c476ac774ab9f7600f": {
+    "id": "673db6f065a5a3812350f654adfd876794ff73a4fa50e1c476ac774ab9f7600f",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "从夯到拉锐评版本更新后的上分阵容！极度不平衡内卷至死…『金铲铲之战』",
+    "summary": "UP主 金铲铲700 · 6,941播放 · 6:35",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117222089428022",
+    "publishedAt": "2026-09-06T04:00:10+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "金铲铲700",
+      "play": 6941,
+      "bvid": "BV1eGbn6dEV6",
+      "duration": "6:35"
+    }
+  },
+  "5ca52f5cff3ed9984afd462be57b7e20971a98fb82869f2bbc0e571e7329599d": {
+    "id": "5ca52f5cff3ed9984afd462be57b7e20971a98fb82869f2bbc0e571e7329599d",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "【云顶S18 】植物大战僵尸 超模阵容 快去上分！",
+    "summary": "UP主 叶落莫言 · 10,314播放 · 3:16",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117218381730001",
+    "publishedAt": "2026-09-05T12:21:05+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "叶落莫言",
+      "play": 10314,
+      "bvid": "BV11tbj6FEnv",
+      "duration": "3:16"
     }
   }
 }
