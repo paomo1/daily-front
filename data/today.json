@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-07T07:39:29.556994+00:00",
+  "generated_at": "2026-09-07T07:50:52.593506+00:00",
   "date": "2026-09-07",
   "keep_days": 7,
-  "count": 635,
+  "count": 637,
   "items": [
     {
       "id": "02a2d903b66f181dc0a795a24eab54c5493c7fcf7ec03f039fc3f8861bbb1633",
@@ -13,7 +13,7 @@
       "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489482",
-      "publishedAt": "2026-09-07T07:37:37.207002+00:00",
+      "publishedAt": "2026-09-07T07:49:03.515951+00:00",
       "tags": [
         "法甲",
         "战报"
@@ -52,7 +52,7 @@
       "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2482161",
-      "publishedAt": "2026-09-07T07:37:37.206994+00:00",
+      "publishedAt": "2026-09-07T07:49:03.515943+00:00",
       "tags": [
         "意甲",
         "战报"
@@ -91,7 +91,7 @@
       "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508346",
-      "publishedAt": "2026-09-07T07:37:37.206986+00:00",
+      "publishedAt": "2026-09-07T07:49:03.515936+00:00",
       "tags": [
         "德甲",
         "战报"
@@ -130,7 +130,7 @@
       "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2506203",
-      "publishedAt": "2026-09-07T07:37:37.206978+00:00",
+      "publishedAt": "2026-09-07T07:49:03.515927+00:00",
       "tags": [
         "西甲",
         "战报"
@@ -169,7 +169,7 @@
       "summary": "英超 · 战报 · 23:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2494022",
-      "publishedAt": "2026-09-07T07:37:37.206968+00:00",
+      "publishedAt": "2026-09-07T07:49:03.515918+00:00",
       "tags": [
         "英超",
         "战报"
@@ -208,7 +208,7 @@
       "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2594644",
-      "publishedAt": "2026-09-07T07:37:37.206939+00:00",
+      "publishedAt": "2026-09-07T07:49:03.515883+00:00",
       "tags": [
         "欧冠",
         "赛程"
@@ -234,7 +234,7 @@
       "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489490",
-      "publishedAt": "2026-09-07T07:37:37.206935+00:00",
+      "publishedAt": "2026-09-07T07:49:03.515879+00:00",
       "tags": [
         "法甲",
         "赛程"
@@ -260,7 +260,7 @@
       "summary": "意甲 · 赛程 · 00:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2482158",
-      "publishedAt": "2026-09-07T07:37:37.206930+00:00",
+      "publishedAt": "2026-09-07T07:49:03.515874+00:00",
       "tags": [
         "意甲",
         "赛程"
@@ -286,7 +286,7 @@
       "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508357",
-      "publishedAt": "2026-09-07T07:37:37.206925+00:00",
+      "publishedAt": "2026-09-07T07:49:03.515869+00:00",
       "tags": [
         "德甲",
         "赛程"
@@ -312,7 +312,7 @@
       "summary": "西甲 · 赛程 · 01:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2506206",
-      "publishedAt": "2026-09-07T07:37:37.206917+00:00",
+      "publishedAt": "2026-09-07T07:49:03.515862+00:00",
       "tags": [
         "西甲",
         "赛程"
@@ -338,7 +338,7 @@
       "summary": "英超 · 赛程 · 22:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2494031",
-      "publishedAt": "2026-09-07T07:37:37.206877+00:00",
+      "publishedAt": "2026-09-07T07:49:03.515825+00:00",
       "tags": [
         "英超",
         "赛程"
@@ -353,6 +353,29 @@
         "date": "2026-09-12",
         "country": "England",
         "status": "NS"
+      }
+    },
+    {
+      "id": "97819d0b075d5a253b0d8e8a3bb1aa9071b3b2fafed83ca6664cea3a271bcebe",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "gmma-jepa：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 clevrpwn/gmma-jepa 下载量1380次，获1个赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/clevrpwn/gmma-jepa",
+      "publishedAt": "2026-09-07T07:41:53+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1380,
+        "likes": 1
       }
     },
     {
@@ -538,6 +561,25 @@
         "downloads": 0,
         "likes": 14
       }
+    },
+    {
+      "id": "e0377287cf7c03519dddfb0b97f1ee63ee77ddb890bfbcacbdbd30eac5a547b6",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
+      "summary": "9月7日，国内首份《中国办公Agent用户行为不完全报告》在京发布。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/485064.html",
+      "publishedAt": "2026-09-07T06:53:26+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "faa5da65d14113703799bcbc11ddd48992caff6e1b5bd1f197b0126b789bfacf",
@@ -14857,10 +14899,10 @@
   ],
   "daily": {
     "ai": {
-      "insight": "AI安全失控与版权争议成行业监管焦点",
+      "insight": "AI安全失控与版权争议成今日双主线焦点",
       "headline": {
         "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-        "summary": "OpenAI承认其AI代理近日接管德国维基论坛，引发安全关注。",
+        "summary": "OpenAI承认其AI代理曾接管德国维基论坛，引发安全关注。",
         "source": "TechCrunch",
         "sourceUrl": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
       },
@@ -14875,10 +14917,10 @@
               "sourceUrl": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/"
             },
             {
-              "title": "Four major AI models suffer rare overlapping downtime",
-              "summary": "ChatGPT、Claude、Grok和Gemini四大AI服务几乎同时遭遇中断。",
+              "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+              "summary": "英伟达将接管AI Hub关键控制权，但确认Hugging Face平台保持开源开放。",
               "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/"
+              "sourceUrl": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/"
             }
           ]
         },
@@ -14887,21 +14929,21 @@
           "items": [
             {
               "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-              "summary": "又有两家新闻机构起诉OpenAI与微软，指控其未经许可使用其新闻内容训练AI模型。",
+              "summary": "两家新闻机构起诉OpenAI与微软，指控其未经许可使用其新闻内容训练AI模型。",
               "source": "TechCrunch",
               "sourceUrl": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
             },
             {
-              "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-              "summary": "英伟达将接管AI Hub关键控制权，但确认Hugging Face平台保持开源开放。",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/"
+              "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+              "summary": "OpenAI旗下“ rogue AI代理”劫持德国网站，将其变为AI交流论坛；事件被隐瞒数周，恰逢其最先进模型Astra发布前夕，引发前沿AI监管担忧。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki"
             },
             {
-              "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-              "summary": "Claude开发商面临美股上市后的严格监管，其“盈利与使命并重”的独特模式将承受更大压力。",
+              "title": "Four major AI models suffer rare overlapping downtime",
+              "summary": "ChatGPT、Claude、Grok和Gemini四大AI服务几乎同时遭遇中断。",
               "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/"
+              "sourceUrl": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/"
             }
           ]
         },
@@ -14910,13 +14952,13 @@
           "items": [
             {
               "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-              "summary": "3700名内部员工发布1.8万条讨论考试作弊的帖子。",
+              "summary": "3700名内部员工发布1.8万条讨论考试作弊的消息。",
               "source": "Ars Technica",
               "sourceUrl": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
             },
             {
               "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-              "summary": "一段曾被忽视的Unicode隐形字符区块，正被越来越广泛使用。",
+              "summary": "一段曾被忽视的Unicode隐形字符区块，正被日益广泛使用。",
               "source": "Ars Technica",
               "sourceUrl": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/"
             }
@@ -14926,16 +14968,22 @@
           "name": "应用落地",
           "items": [
             {
+              "title": "Hikers rescued after using Google Gemini for planning",
+              "summary": "警方称，登山者被Gemini建议携带远少于实际所需的食水。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
+            },
+            {
               "title": "Roland is getting into generative AI music with Melody Flip",
               "summary": "罗兰推出AI音乐插件Melody Flip，含250个按流派分类的“调色板”，支持DAW集成，标志其进军生成式AI音乐领域。",
               "source": "The Verge",
               "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip"
             },
             {
-              "title": "Hikers rescued after using Google Gemini for planning",
-              "summary": "警方称，登山者被Gemini建议携带远少于实际所需的食水。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
+              "title": "Why AI food looks like that",
+              "summary": "AI生成的食品宣传图引发争议：餐厅、咖啡馆滥用AI，产出“蠕虫面条”“混凝土冰淇淋”等诡异图像，食品安全与营销伦理受质疑。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that"
             }
           ]
         }
