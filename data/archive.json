@@ -2838,7 +2838,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594644",
-    "publishedAt": "2026-09-07T07:49:03.515883+00:00",
+    "publishedAt": "2026-09-07T16:59:43.972672+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -16274,7 +16274,7 @@
     "summary": "英超 · 赛程 · 22:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2494031",
-    "publishedAt": "2026-09-07T07:49:03.515825+00:00",
+    "publishedAt": "2026-09-07T16:59:43.972611+00:00",
     "tags": [
       "英超",
       "赛程"
@@ -16300,7 +16300,7 @@
     "summary": "西甲 · 赛程 · 01:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2506206",
-    "publishedAt": "2026-09-07T07:49:03.515862+00:00",
+    "publishedAt": "2026-09-07T16:59:43.972649+00:00",
     "tags": [
       "西甲",
       "赛程"
@@ -16326,7 +16326,7 @@
     "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2508357",
-    "publishedAt": "2026-09-07T07:49:03.515869+00:00",
+    "publishedAt": "2026-09-07T16:59:43.972656+00:00",
     "tags": [
       "德甲",
       "赛程"
@@ -16378,7 +16378,7 @@
     "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2489490",
-    "publishedAt": "2026-09-07T07:49:03.515879+00:00",
+    "publishedAt": "2026-09-07T16:59:43.972667+00:00",
     "tags": [
       "法甲",
       "赛程"
@@ -16443,7 +16443,7 @@
     "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2506203",
-    "publishedAt": "2026-09-07T07:49:03.515927+00:00",
+    "publishedAt": "2026-09-07T16:59:43.972710+00:00",
     "tags": [
       "西甲",
       "战报"
@@ -16482,7 +16482,7 @@
     "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2508346",
-    "publishedAt": "2026-09-07T07:49:03.515936+00:00",
+    "publishedAt": "2026-09-07T16:59:43.972719+00:00",
     "tags": [
       "德甲",
       "战报"
@@ -16560,7 +16560,7 @@
     "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2489482",
-    "publishedAt": "2026-09-07T07:49:03.515951+00:00",
+    "publishedAt": "2026-09-07T16:59:43.972735+00:00",
     "tags": [
       "法甲",
       "战报"
@@ -17602,6 +17602,472 @@
       "play": 206020,
       "bvid": "",
       "duration": ""
+    }
+  },
+  "7255ff55f581deeb533c7b35d65879b6eec004776f58493fbff4af43b9bef2b8": {
+    "id": "7255ff55f581deeb533c7b35d65879b6eec004776f58493fbff4af43b9bef2b8",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Udinese VS Lazio",
+    "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482159",
+    "publishedAt": "2026-09-07T16:59:43.972662+00:00",
+    "tags": [
+      "意甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "3",
+      "season": "2026-2027",
+      "venue": "Bluenergy Stadium",
+      "date": "2026-09-07",
+      "country": "Italy",
+      "status": "NS"
+    }
+  },
+  "726066d38de63a1516ca3b082e9895f4baf217b4c549ad0dd56cf295ab6a3c7d": {
+    "id": "726066d38de63a1516ca3b082e9895f4baf217b4c549ad0dd56cf295ab6a3c7d",
+    "module": "football",
+    "seg": null,
+    "cat": "英超",
+    "title": "Arsenal 2-1 Chelsea",
+    "summary": "英超 · 战报 · 23:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.youtube.com/watch?v=af99CJ4f_yc",
+    "publishedAt": "2026-09-07T16:59:43.972701+00:00",
+    "tags": [
+      "英超",
+      "战报"
+    ],
+    "body": [
+      "英超 第 3 轮 · 2026-09-06 · 北京时间 23:30（估算）",
+      "场地：Emirates Stadium",
+      "主队 Arsenal vs 客队 Chelsea",
+      "终场比分 2-1"
+    ],
+    "points": [
+      "<b>赛事</b>：英超 第 3 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-06 · 北京时间 23:30（估算）",
+      "<b>场地</b>：Emirates Stadium",
+      "<b>主队</b>：Arsenal",
+      "<b>客队</b>：Chelsea",
+      "<b>终场比分</b>：2-1",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "3",
+      "season": "2026-2027",
+      "venue": "Emirates Stadium",
+      "date": "2026-09-06",
+      "country": "England",
+      "status": "FT"
+    }
+  },
+  "2f69ae8df2c5fd1dde03333c22efc931ae1df66e2d6266d6812e3d7f57af7820": {
+    "id": "2f69ae8df2c5fd1dde03333c22efc931ae1df66e2d6266d6812e3d7f57af7820",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Cagliari 0-0 Lecce",
+    "summary": "意甲 · 战报 · 00:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482158",
+    "publishedAt": "2026-09-07T16:59:43.972727+00:00",
+    "tags": [
+      "意甲",
+      "战报"
+    ],
+    "body": [
+      "意甲 第 3 轮 · 2026-09-07 · 北京时间 00:30（估算）",
+      "场地：Unipol Domus",
+      "主队 Cagliari vs 客队 Lecce",
+      "终场比分 0-0"
+    ],
+    "points": [
+      "<b>赛事</b>：意甲 第 3 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-07 · 北京时间 00:30（估算）",
+      "<b>场地</b>：Unipol Domus",
+      "<b>主队</b>：Cagliari",
+      "<b>客队</b>：Lecce",
+      "<b>终场比分</b>：0-0",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "3",
+      "season": "2026-2027",
+      "venue": "Unipol Domus",
+      "date": "2026-09-07",
+      "country": "Italy",
+      "status": "1H"
+    }
+  },
+  "4d7c7fa16cc6c13c42742b92ca906b101693bfe470d92b244bd0a586657ce848": {
+    "id": "4d7c7fa16cc6c13c42742b92ca906b101693bfe470d92b244bd0a586657ce848",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "The complex corporate web behind a $3.2 billion AI data center",
+    "summary": "多方合作项目中，责任归属需依合同约定、实际过错及法律规定确定，通常由主导方或过错方承担主要责任。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+    "publishedAt": "2026-09-07T11:00:03+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "a60b2afdd180572981e12862000b23efe7f609a63365d5c5190ec528a3f0deb8": {
+    "id": "a60b2afdd180572981e12862000b23efe7f609a63365d5c5190ec528a3f0deb8",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "3秒变身！会合体的机器人，卖到全球50国",
+    "summary": "谁说现在机器人都长得差不多的！",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/485525.html",
+    "publishedAt": "2026-09-07T09:34:06+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "cadae843d704ca2e4fbcb7270f9aa3d511ee032ab67a946df8bff743ecd40762": {
+    "id": "cadae843d704ca2e4fbcb7270f9aa3d511ee032ab67a946df8bff743ecd40762",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+    "summary": "OpenAI研究院人均带3个AI实习生",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/485431.html",
+    "publishedAt": "2026-09-07T09:04:06+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "75ec76e47eef0a8d118ed3181930e4167f1542792d351f566ab5593c3ba0bb30": {
+    "id": "75ec76e47eef0a8d118ed3181930e4167f1542792d351f566ab5593c3ba0bb30",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布",
+    "summary": "10月16–17日，全球开源技术大会GOSIM首次落地深圳，举办GOSIM Shenzhen 2026。",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/485154.html",
+    "publishedAt": "2026-09-07T08:51:30+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "2c9b413a32a57b0ccf29e6c91bf769ad1f5d8fa2344c5fd2cd7ce9f5ff076d89": {
+    "id": "2c9b413a32a57b0ccf29e6c91bf769ad1f5d8fa2344c5fd2cd7ce9f5ff076d89",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+    "summary": "“在两个模型之间找到数学上的共同基础其实非常困难”",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/485108.html",
+    "publishedAt": "2026-09-07T08:36:30+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "143f54c998d76e1ce9aa84bc9d3fc6e92eb5ca4214540407e2d01751cff3f152": {
+    "id": "143f54c998d76e1ce9aa84bc9d3fc6e92eb5ca4214540407e2d01751cff3f152",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "physisml-it-preview：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 speleoalex/physisml-it-preview 下载量1469次，获0点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/speleoalex/physisml-it-preview",
+    "publishedAt": "2026-09-07T16:47:36+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1469,
+      "likes": 0
+    }
+  },
+  "09d8a1d74a4f6b67f9f4cc4121d98f4b52b5507cd47d5d846b44056b266ee559": {
+    "id": "09d8a1d74a4f6b67f9f4cc4121d98f4b52b5507cd47d5d846b44056b266ee559",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Qwen3.8-27B-EfficientThink-Uncensored-K3-Opus5-Grok4.6-GPT5.6Sol-SFT-SimPO-DFlash2：text-generation 模型更新",
+    "summary": "HuggingFace上线新模型nerkyor/Qwen3.8-27B…，支持文本生成，下载量18953次，获7赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/nerkyor/Qwen3.8-27B-EfficientThink-Uncensored-K3-Opus5-Grok4.6-GPT5.6Sol-SFT-SimPO-DFlash2",
+    "publishedAt": "2026-09-07T16:43:27+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 18953,
+      "likes": 7
+    }
+  },
+  "ff66f2c7a21f44529b857f623a5308b4a3a05adf78847d5a93125a4adea57463": {
+    "id": "ff66f2c7a21f44529b857f623a5308b4a3a05adf78847d5a93125a4adea57463",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "SGPT-5.8B-weightedmean-msmarco-specb-bitfit：sentence-similarity 模型更新",
+    "summary": "HuggingFace 上主流句向量模型 Muennighoff/SGPT-5.8B 下载量163次，获23赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Muennighoff/SGPT-5.8B-weightedmean-msmarco-specb-bitfit",
+    "publishedAt": "2026-09-07T16:42:01+00:00",
+    "tags": [
+      "huggingface",
+      "sentence-similarity",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 163,
+      "likes": 23
+    }
+  },
+  "e1e2d7143722918db78e64d53fa3a50c2f603ba959871fdebec182342312adfd": {
+    "id": "e1e2d7143722918db78e64d53fa3a50c2f603ba959871fdebec182342312adfd",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "cRia-LM-75M：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 sz14/cRia-LM-75M 获1342次下载、4个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/sz14/cRia-LM-75M",
+    "publishedAt": "2026-09-07T16:41:10+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1342,
+      "likes": 4
+    }
+  },
+  "2d01924b5e55b1f986991a2170c32434c143d4918978ca8771b078081f0510f8": {
+    "id": "2d01924b5e55b1f986991a2170c32434c143d4918978ca8771b078081f0510f8",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "海斗邪修设置，5秒提升你的胜率！ #英雄联盟",
+    "summary": "UP主 bili_3461574165531532 · 71播放 · 1:19",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117228951309891",
+    "publishedAt": "2026-09-07T09:05:47+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 黑科技 上分"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "bili_3461574165531532",
+      "play": 71,
+      "bvid": "BV1YCbA6rEvq",
+      "duration": "1:19"
+    }
+  },
+  "e959ed4bdb784d6a9717a7df992de8bb0449f7015974165af70834b72e9a36e4": {
+    "id": "e959ed4bdb784d6a9717a7df992de8bb0449f7015974165af70834b72e9a36e4",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "海斗指定变大神器，泰坦的坚决",
+    "summary": "UP主 颜颜颜凡 · 1,596播放 · 1:50",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117229102435059",
+    "publishedAt": "2026-09-07T09:47:31+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 强化 套路"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "颜颜颜凡",
+      "play": 1596,
+      "bvid": "BV1oHbK6WEDC",
+      "duration": "1:50"
+    }
+  },
+  "07d6f8a7667cec182af9b29438ed7b281f8c3288568d14c6e6e48ec105ebe76d": {
+    "id": "07d6f8a7667cec182af9b29438ed7b281f8c3288568d14c6e6e48ec105ebe76d",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "英雄联盟lol全英雄教学合集，持续更新",
+    "summary": "UP主 lol超神解说lol · 206,060播放 · ",
+    "source": "哔哩哔哩",
+    "sourceUrl": "https://www.bilibili.com/cheese/play/ss9717?query_from=0&search_id=5132851505908013656&search_query=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F+%E4%B8%8A%E5%8D%95+%E5%87%BA%E8%A3%85+%E6%94%BB%E7%95%A5+%E6%95%99%E5%AD%A6",
+    "publishedAt": "1970-01-01T00:00:00+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "lol超神解说lol",
+      "play": 206060,
+      "bvid": "",
+      "duration": ""
+    }
+  },
+  "1e2709e6212bb58b4a9518423f8c3f1568789ead6140146f89322576c0e1da68": {
+    "id": "1e2709e6212bb58b4a9518423f8c3f1568789ead6140146f89322576c0e1da68",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "【LOLM国服】1270星泰坦上单绝活哥教学，出装思路技巧抓人符文皮肤搭配排位上分elo机制直播回放录播",
+    "summary": "UP主 电竞水水 · 3,475播放 · 19:50",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av114193114077973",
+    "publishedAt": "2025-03-20T05:38:15+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "电竞水水",
+      "play": 3475,
+      "bvid": "BV1YMXPYBEXZ",
+      "duration": "19:50"
+    }
+  },
+  "dcb09014a4f1ee363410762c7ebc4615de5a2968729c18a7c2cbb51e32c1ac48": {
+    "id": "dcb09014a4f1ee363410762c7ebc4615de5a2968729c18a7c2cbb51e32c1ac48",
+    "module": "lol",
+    "seg": "match",
+    "cat": "比赛",
+    "title": "这下bgm对了！sask看IG vs WE比赛BP放《rise》这个太有劲儿了 ！后面又换lck的BP音乐吓哭了！",
+    "summary": "UP主 切猪君 · 10,921播放 · 5:7",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117222710188155",
+    "publishedAt": "2026-09-06T06:42:48+00:00",
+    "tags": [
+      "lol",
+      "match",
+      "英雄联盟 LPL LCK 比赛 集锦 复盘"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "切猪君",
+      "play": 10921,
+      "bvid": "BV1VAbW68EF9",
+      "duration": "5:7"
+    }
+  },
+  "ba40a603be289fda296c2a657102e5f76afe14c8b5ca5280114bd622d6271d09": {
+    "id": "ba40a603be289fda296c2a657102e5f76afe14c8b5ca5280114bd622d6271d09",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "18.1版本全套版本解析，结合TPC对局数据与一区前百选手理解，从环境到过渡到阵容，选择一口气带你通关18.1版本",
+    "summary": "UP主 华曦竞界 · 13,640播放 · 5:15",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117219556068021",
+    "publishedAt": "2026-09-06T00:00:00+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "华曦竞界",
+      "play": 13640,
+      "bvid": "BV1qwbE6RErz",
+      "duration": "5:15"
+    }
+  },
+  "f5fdb0da4b46bf94926405dc8ae805c5cf06e3b43b2f79c58bcc037eacf38d5b": {
+    "id": "f5fdb0da4b46bf94926405dc8ae805c5cf06e3b43b2f79c58bcc037eacf38d5b",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "云顶王者课堂S18必学阵容18.1C保姆级裁决召唤师吃鸡攻略",
+    "summary": "UP主 云顶王者课堂 · 2,495播放 · 5:8",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117226334062627",
+    "publishedAt": "2026-09-06T21:59:11+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "云顶王者课堂",
+      "play": 2495,
+      "bvid": "BV1Edb46DEzG",
+      "duration": "5:8"
     }
   }
 }
