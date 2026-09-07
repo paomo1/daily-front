@@ -383,22 +383,38 @@ class FootballCollector(BaseCollector):
         self.struct = {"fixtures": [], "results": []}
 
     def fetch(self) -> Iterable[dict]:
+        from datetime import date as _date
+        today_iso = _date.today().isoformat()  # 本地时区（容器跑在 UTC；前端展示时再 +8 北京时间换算）
+
         for lid, zh in self.LEAGUES:
             # 下一轮赛程
             try:
                 nj = http_get(f"{self.BASE}/eventsnextleague.php", params={"id": lid}).json()
                 for e in (nj.get("events") or [])[:6]:
+                    ed = e.get("dateEvent", "")
+                    if ed and ed < today_iso:
+                        # TheSportsDB next 接口会保留已踢完的老比赛，必须按日期过滤
+                        continue
                     self.struct["fixtures"].append(self._map(e, zh, finished=False))
             except Exception as ex:
                 logger.warning(f"足球 赛程[{zh}] 失败: {ex}")
-            # 上一轮战报（past 接口返回已结束赛事，过滤 strStatus 兜底）
-            # 免费 key "3" 不提供进球者/首发等细节（需 Patreon 付费 key），
-            # 详情页 body/points 由 _to_item 用 eventspastleague 自带字段（轮次/场地/日期）拼
+            # 上一轮战报：past 接口只返历史，但保险起见也按日期过滤未来误入
             try:
                 pj = http_get(f"{self.BASE}/eventspastleague.php", params={"id": lid}).json()
                 evs = pj.get("events") or []
-                finished = [e for e in evs if str(e.get("strStatus", "")).lower() in ("match finished", "finished")]
+                # 取已结束最多 7 天内（防止 past 接口返回一整赛季的旧战报刷屏）
+                finished = [
+                    e for e in evs
+                    if str(e.get("strStatus", "")).lower() in ("match finished", "finished")
+                    and e.get("dateEvent", "") >= (
+                        _date.fromisoformat(today_iso) - timedelta(days=7)
+                    ).isoformat()
+                ]
                 for e in (finished or evs)[:5]:
+                    ed = e.get("dateEvent", "")
+                    if ed and ed > today_iso:
+                        # 防 past 误入未来
+                        continue
                     row = self._map(e, zh, finished=True)
                     self.struct["results"].append(row)
             except Exception as ex:
