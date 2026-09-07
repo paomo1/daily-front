@@ -1491,12 +1491,12 @@ document.getElementById('refreshBtn').addEventListener('click', ()=>{
   btn.textContent = '拉取中…'; btn.disabled = true;
   $scroll.style.opacity = .35;
   setTimeout(()=>{
-    SNAP.setTime(Date.now());
+    // 不要改 SNAP——SNAP 反映的是 today.json 真实 generated_at 或兜底值，
+    // 用 Date.now() 覆盖会让"刷新"按钮把陈旧数据伪造成"刚刚更新"。
     paintSnap();
     render();
     $scroll.style.opacity = 1;
     btn.textContent = '刷新'; btn.disabled = false;
-    // 强制重算相对时间
     if (!$detail.classList.contains('show')) render();
   }, 900);
 });
