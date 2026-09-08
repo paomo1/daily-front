@@ -324,14 +324,7 @@
     </ul>
   </div>
 
-  <div class="warn">
-    <b>⚙ 自动更新链路</b><br>
-    后端 <code>backend/collector.py</code> 由 <code>.github/workflows/daily-update.yml</code> 调度，
-    跑完把 <code>data/today.json</code> + <code>archive.json</code> commit 回仓库，Pages 自动重新部署。<br><br>
-    本地 <code>file://</code> 双击打开时 fetch 拿不到，会回退到内置的 2026-09-01 真实快照。
-  </div>
-
-  <div class="s-block" style="margin-top:12px">
+  <div class="s-block">
     <div class="s-h">配色</div>
     <div class="swatch">
       <span class="sw"><i style="background:#F0B429"></i>英雄联盟</span>
@@ -1092,7 +1085,13 @@ function esc(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').repl
 function byId(id){return ITEMS.find(x=>x.id===id);}
 function itemCard(it){
   const cls = it.module==='lol'?'gold':it.module==='football'?'green':'purple';
-  const isLive = it.live;
+  // LIVE 兜底防御：publishedAt 距今 > 3 天就不显示 LIVE（哪怕 it.live=true 也不显示）
+  // 防止"内置 9.1 假数据漏出来" / "collector 误标 live" 的元凶
+  let isLive = !!it.live;
+  if(isLive && it.publishedAt){
+    const ageH = (Date.now() - new Date(it.publishedAt).getTime()) / 3600000;
+    if(ageH > 72) isLive = false;
+  }
   return `<button class="card" data-item="${it.id}">
     <div class="card-meta">
       <span class="tag ${isLive?'red':cls}">${esc(it.cat)}</span>
@@ -1475,9 +1474,10 @@ paintSnap();
     if(!r.ok) return;
     const j = await r.json();
     if(j && Array.isArray(j.items) && j.items.length){
-      // 合并而非覆盖：内置快照保留，按 id 去重追加 fetch 来的新条目
-      const _seen = new Set(ITEMS.map(x=>x.id));
-      j.items.forEach(x=>{ if(!_seen.has(x.id)){ ITEMS.push(x); _seen.add(x.id); } });
+      // fetch 成功：完全替换 ITEMS（清掉内置的 9.1 老快照，避免「7 天前比赛还在 LIVE」漏出来）
+      // fetch 失败时保持 ITEMS 内置作为离线 fallback
+      ITEMS.length = 0;
+      j.items.forEach(x => ITEMS.push(x));
       if(j.generated_at){ SNAP.setTime(new Date(j.generated_at).getTime()); }
       if(j.daily && typeof j.daily==='object'){ Object.assign(DAILY, j.daily); }
       paintSnap();
