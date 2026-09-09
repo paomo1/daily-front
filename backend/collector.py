@@ -379,12 +379,30 @@ class FootballCollector(BaseCollector):
         (4332, "意甲"), (4334, "法甲"), (4480, "欧冠"),
     ]
 
+    # 热门球队近期比赛补抓（覆盖欧冠/洲际/友谊赛等联赛列表漏掉的对抗）
+    # 如皇马(西甲) vs 国米(意甲) 这种只在欧冠交手、且联赛列表分别覆盖不到的组合。
+    TEAMS_LAST = [
+        ("Real Madrid", "皇马"), ("Inter", "国米"), ("Barcelona", "巴萨"),
+        ("Manchester City", "曼城"), ("Liverpool", "利物浦"),
+        ("Arsenal", "阿森纳"), ("Bayern Munich", "拜仁"),
+        ("Paris Saint-Germain", "巴黎圣日耳曼"), ("Manchester United", "曼联"),
+        ("Juventus", "尤文"), ("Atlético Madrid", "马竞"),
+        ("Chelsea", "切尔西"), ("AC Milan", "AC米兰"),
+        ("Borussia Dortmund", "多特蒙德"), ("Tottenham Hotspur", "热刺"),
+    ]
+
     def __init__(self):
         self.struct = {"fixtures": [], "results": []}
 
     def fetch(self) -> Iterable[dict]:
-        from datetime import date as _date
-        today_iso = _date.today().isoformat()  # 本地时区（容器跑在 UTC；前端展示时再 +8 北京时间换算）
+        from datetime import datetime as _dt, timedelta as _td, timezone as _tz, date as _date
+        # 北京时间基准（容器跑在 UTC，用户在中国时区）
+        # 之前用容器本地 UTC 日期，导致「北京时间凌晨的比赛」(UTC 前一天) 被误判过期跳过，
+        # 例如今早 03:00 北京时间的欧冠（UTC 昨日）直接被 dateEvent < today 过滤掉。
+        bj_now = _dt.now(_tz.utc) + _td(hours=8)
+        today_bj = bj_now.date()
+        next_min = (bj_now - _td(days=1)).date()   # next 接口允许从「昨天」起（时区缓冲）
+        past_min = (bj_now - _td(days=7)).date()   # past 接口取近 7 天（北京时间）
 
         for lid, zh in self.LEAGUES:
             # 下一轮赛程
@@ -392,40 +410,73 @@ class FootballCollector(BaseCollector):
                 nj = http_get(f"{self.BASE}/eventsnextleague.php", params={"id": lid}).json()
                 for e in (nj.get("events") or [])[:6]:
                     ed = e.get("dateEvent", "")
-                    if ed and ed < today_iso:
-                        # TheSportsDB next 接口会保留已踢完的老比赛，必须按日期过滤
-                        continue
+                    if ed:
+                        try:
+                            if _date.fromisoformat(ed) < next_min:
+                                continue
+                        except Exception:
+                            pass
                     self.struct["fixtures"].append(self._map(e, zh, finished=False))
             except Exception as ex:
                 logger.warning(f"足球 赛程[{zh}] 失败: {ex}")
-            # 上一轮战报：past 接口只返历史，但保险起见也按日期过滤未来误入
+            # 上一轮战报：past 接口只返历史，按北京时间日期过滤（近 7 天且 ≤ 今天）
             try:
                 pj = http_get(f"{self.BASE}/eventspastleague.php", params={"id": lid}).json()
                 evs = pj.get("events") or []
-                # 取已结束最多 7 天内（防止 past 接口返回一整赛季的旧战报刷屏）
-                finished = [
-                    e for e in evs
-                    if str(e.get("strStatus", "")).lower() in ("match finished", "finished")
-                    and e.get("dateEvent", "") >= (
-                        _date.fromisoformat(today_iso) - timedelta(days=7)
-                    ).isoformat()
-                ]
-                for e in (finished or evs)[:5]:
+                for e in evs:
                     ed = e.get("dateEvent", "")
-                    if ed and ed > today_iso:
-                        # 防 past 误入未来
+                    if not ed:
                         continue
-                    row = self._map(e, zh, finished=True)
-                    self.struct["results"].append(row)
+                    try:
+                        ed_date = _date.fromisoformat(ed)
+                    except Exception:
+                        continue
+                    if ed_date < past_min or ed_date > today_bj:
+                        continue
+                    self.struct["results"].append(self._map(e, zh, finished=True))
             except Exception as ex:
                 logger.warning(f"足球 战报[{zh}] 失败: {ex}")
             time.sleep(1.0)  # 免费层限速
 
-        # 同时产出 ITEMS 填底部「足球资讯」栏（赛程/战报摘要）
-        for f in self.struct["fixtures"][:8]:
+        # 热门球队近期比赛补抓（覆盖洲际 / 友谊赛 / 欧冠交叉，如皇马 vs 国米）
+        self._fetch_team_last()
+
+        # 去重后产出 ITEMS（赛程 + 战报）
+        seen = set()
+        for f in self.struct["fixtures"][:12]:
+            if f["itemId"] in seen:
+                continue
+            seen.add(f["itemId"])
             yield self._to_item(f, "赛程")
-        for r in self.struct["results"][:5]:
+        for r in self.struct["results"]:
+            if r["itemId"] in seen:
+                continue
+            seen.add(r["itemId"])
             yield self._to_item(r, "战报")
+
+    def _fetch_team_last(self) -> None:
+        """按球队补抓近期比赛，覆盖欧冠/洲际/友谊赛等联赛列表漏掉的对抗。"""
+        from datetime import datetime as _dt, timedelta as _td, timezone as _tz, date as _date
+        bj_now = _dt.now(_tz.utc) + _td(hours=8)
+        min_date = (bj_now - _td(days=14)).date()
+        for name, zh in self.TEAMS_LAST:
+            try:
+                r = http_get(f"{self.BASE}/eventslast.php", params={"name": name}).json()
+                for e in (r.get("results") or [])[:3]:
+                    ed = e.get("dateEvent", "")
+                    if not ed:
+                        continue
+                    try:
+                        ed_date = _date.fromisoformat(ed)
+                    except Exception:
+                        continue
+                    if ed_date < min_date:
+                        continue
+                    lg = e.get("strLeague") or "其他赛事"
+                    self.struct["results"].append(self._map(e, lg, finished=True))
+            except Exception as ex:
+                logger.warning(f"球队近期[{zh}] 失败: {ex}")
+            time.sleep(0.5)  # 免费层限速
 
     def _map(self, e: dict, zh: str, finished: bool) -> dict:
         t_utc = f"{e.get('dateEvent', '')}T{e.get('strTime', '00:00:00')}"
@@ -712,6 +763,7 @@ class LOLCollector(BaseCollector):
         ("rune", "海斗资讯", "英雄联盟 海斗 强化 套路", 3),
         ("rift", "峡谷攻略", "英雄联盟 上单 出装 攻略 教学", 5),
         ("match", "比赛", "英雄联盟 LPL LCK 比赛 集锦 复盘", 5),
+        ("match", "比赛", "英雄联盟 LPL 赛果 战报 BO", 4),  # 赛果优先，覆盖 IG 3-0 LGD 这类
         ("tft",  "云顶之弈", "云顶之弈 阵容 攻略 S级", 5),
     ]
 
@@ -778,7 +830,7 @@ class LOLCollector(BaseCollector):
         last_err = None
         for attempt in range(1, retries + 1):
             try:
-                params = {"search_type": "video", "keyword": keyword, "page": 1}
+                params = {"search_type": "video", "keyword": keyword, "page": 1, "order": "pubdate"}
                 params = self._sign(params)  # 每次重签（新 wts/w_rid），绕开偶发 412 风控
                 r = http_get(url, headers=self.HEADERS, params=params)
                 ct = r.headers.get("Content-Type", "")
