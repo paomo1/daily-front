@@ -1,30 +1,69 @@
 {
-  "generated_at": "2026-09-09T06:51:07.415689+00:00",
+  "generated_at": "2026-09-09T08:00:25.351399+00:00",
   "date": "2026-09-09",
   "keep_days": 7,
-  "count": 652,
+  "count": 669,
   "items": [
     {
-      "id": "b12f6da411f69368c1aafc71a23e9b6babf114d2911f87c382acc5177b9c7383",
+      "id": "5bb931408c38b4e758d7c63304e7c9a7eeebf15f714541477122b5d4bf7335b1",
       "module": "ai",
       "seg": null,
       "cat": "模型/技术",
-      "title": "Qwen3.8-27B-abliterated-GGUF：model 模型更新",
-      "summary": "HuggingFace 上模型 mradermacher/Qwen3.8-27B-abliterated-GGUF 下载量1795次，获0点赞。",
+      "title": "Fibo-Edit-1.5-base：image-to-image 模型更新",
+      "summary": "HuggingFace 上主流图像编辑模型 briaai/Fibo-Edit-1.5-base，下载量118次，获14个赞。",
       "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/mradermacher/Qwen3.8-27B-abliterated-GGUF",
-      "publishedAt": "2026-09-09T06:49:36+00:00",
+      "sourceUrl": "https://huggingface.co/briaai/Fibo-Edit-1.5-base",
+      "publishedAt": "2026-09-09T07:58:51+00:00",
       "tags": [
         "huggingface",
-        "model",
+        "image-to-image",
         "popular"
       ],
       "body": [],
       "points": [],
       "live": false,
       "extra": {
-        "downloads": 1795,
-        "likes": 0
+        "downloads": 118,
+        "likes": 14
+      }
+    },
+    {
+      "id": "dd00ac3f0200b2ea98fab382715a206ed8889ead452787273572930d6b876ab6",
+      "module": "football",
+      "seg": null,
+      "cat": "欧冠",
+      "title": "Real Madrid 2-1 Inter Milan",
+      "summary": "欧冠 · 战报 · 03:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2594629",
+      "publishedAt": "2026-09-09T07:58:47.803037+00:00",
+      "tags": [
+        "欧冠",
+        "战报"
+      ],
+      "body": [
+        "欧冠 第 1 轮 · 2026-09-08 · 北京时间 03:00（估算）",
+        "场地：Estadio Santiago Bernabéu",
+        "主队 Real Madrid vs 客队 Inter Milan",
+        "终场比分 2-1"
+      ],
+      "points": [
+        "<b>赛事</b>：欧冠 第 1 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-09-08 · 北京时间 03:00（估算）",
+        "<b>场地</b>：Estadio Santiago Bernabéu",
+        "<b>主队</b>：Real Madrid",
+        "<b>客队</b>：Inter Milan",
+        "<b>终场比分</b>：2-1",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "1",
+        "season": "2026-2027",
+        "venue": "Estadio Santiago Bernabéu",
+        "date": "2026-09-08",
+        "country": "Spain",
+        "status": "FT"
       }
     },
     {
@@ -36,7 +75,7 @@
       "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489482",
-      "publishedAt": "2026-09-09T06:49:27.984466+00:00",
+      "publishedAt": "2026-09-09T07:58:47.803029+00:00",
       "tags": [
         "法甲",
         "战报"
@@ -75,7 +114,7 @@
       "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=2Xiy_RSXw5A",
-      "publishedAt": "2026-09-09T06:49:27.984459+00:00",
+      "publishedAt": "2026-09-09T07:58:47.803021+00:00",
       "tags": [
         "意甲",
         "战报"
@@ -114,7 +153,7 @@
       "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508346",
-      "publishedAt": "2026-09-09T06:49:27.984453+00:00",
+      "publishedAt": "2026-09-09T07:58:47.803013+00:00",
       "tags": [
         "德甲",
         "战报"
@@ -153,7 +192,7 @@
       "summary": "西甲 · 战报 · 03:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=CGwY-AJRZOc",
-      "publishedAt": "2026-09-09T06:49:27.984446+00:00",
+      "publishedAt": "2026-09-09T07:58:47.802995+00:00",
       "tags": [
         "西甲",
         "战报"
@@ -192,7 +231,7 @@
       "summary": "英超 · 战报 · 23:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=af99CJ4f_yc",
-      "publishedAt": "2026-09-09T06:49:27.984437+00:00",
+      "publishedAt": "2026-09-09T07:58:47.802985+00:00",
       "tags": [
         "英超",
         "战报"
@@ -231,7 +270,7 @@
       "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2594578",
-      "publishedAt": "2026-09-09T06:49:27.984412+00:00",
+      "publishedAt": "2026-09-09T07:58:47.802969+00:00",
       "tags": [
         "欧冠",
         "赛程"
@@ -257,7 +296,7 @@
       "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489490",
-      "publishedAt": "2026-09-09T06:49:27.984408+00:00",
+      "publishedAt": "2026-09-09T07:58:47.802929+00:00",
       "tags": [
         "法甲",
         "赛程"
@@ -283,7 +322,7 @@
       "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2482175",
-      "publishedAt": "2026-09-09T06:49:27.984405+00:00",
+      "publishedAt": "2026-09-09T07:58:47.802924+00:00",
       "tags": [
         "意甲",
         "赛程"
@@ -309,7 +348,7 @@
       "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508357",
-      "publishedAt": "2026-09-09T06:49:27.984401+00:00",
+      "publishedAt": "2026-09-09T07:58:47.802919+00:00",
       "tags": [
         "德甲",
         "赛程"
@@ -335,7 +374,7 @@
       "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2506211",
-      "publishedAt": "2026-09-09T06:49:27.984396+00:00",
+      "publishedAt": "2026-09-09T07:58:47.802911+00:00",
       "tags": [
         "西甲",
         "赛程"
@@ -361,7 +400,7 @@
       "summary": "英超 · 赛程 · 22:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2494031",
-      "publishedAt": "2026-09-09T06:49:27.984360+00:00",
+      "publishedAt": "2026-09-09T07:58:47.802879+00:00",
       "tags": [
         "英超",
         "赛程"
@@ -376,6 +415,190 @@
         "date": "2026-09-12",
         "country": "England",
         "status": "NS"
+      }
+    },
+    {
+      "id": "2c46611e67ff254793165755c3ad154cb0dfe656e870adff489d9eec8fe28cd9",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Fibo-Edit-1.5-turbo：image-to-image 模型更新",
+      "summary": "HuggingFace 上主流图像编辑模型 briaai/Fibo-Edit-1.5-turbo，下载量935次，获25个赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/briaai/Fibo-Edit-1.5-turbo",
+      "publishedAt": "2026-09-09T07:58:23+00:00",
+      "tags": [
+        "huggingface",
+        "image-to-image",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 935,
+        "likes": 25
+      }
+    },
+    {
+      "id": "eb65f74a43f7f298d5ed44a17d8e726341b7f7c16539a410e22546af7e1eb297",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Fibo-1.5：text-to-image 模型更新",
+      "summary": "HuggingFace 上主流文生图模型 briaai/Fibo-1.5，下载量749次，获43个赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/briaai/Fibo-1.5",
+      "publishedAt": "2026-09-09T07:57:58+00:00",
+      "tags": [
+        "huggingface",
+        "text-to-image",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 749,
+        "likes": 43
+      }
+    },
+    {
+      "id": "7786287c0b895a174c1bc29e42e96f063aec5985090d946bdb7691414143e057",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Devlin-Alpha-22B-A3B-GGUF：model 模型更新",
+      "summary": "HuggingFace 上 Devlin-AI/Devlin-Alpha-22B-A3B-GGUF 模型下载量 2716，获赞数为 0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Devlin-AI/Devlin-Alpha-22B-A3B-GGUF",
+      "publishedAt": "2026-09-09T07:49:03+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 2716,
+        "likes": 0
+      }
+    },
+    {
+      "id": "fa97e822d59791375db3044409b84474cb142b2e8ba06fbbdf7530882419c1bb",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MiniCPM5-2B：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 openbmb/MiniCPM5-2B 获 2879 次下载、772 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/openbmb/MiniCPM5-2B",
+      "publishedAt": "2026-09-09T07:48:21+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 2879,
+        "likes": 772
+      }
+    },
+    {
+      "id": "d64ea519dcb410a2ca3e18202b5d8c9f154dabcb2d93320a58f83d79eef3d022",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MiniCPM5-2B-Base：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 openbmb/MiniCPM5-2B-Base 获 54 次下载、17 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/openbmb/MiniCPM5-2B-Base",
+      "publishedAt": "2026-09-09T07:47:42+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 54,
+        "likes": 17
+      }
+    },
+    {
+      "id": "ec4db9b4fbd750c3fb737228f72b61e4640298c21cb97dde13bb8c44e3006b72",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MiniCPM5-2B-GGUF：text-generation 模型更新",
+      "summary": "HuggingFace 上 openbmb/MiniCPM5-2B-GGUF 文本生成模型获 7760 次下载、124 赞，属主流轻量级开源模型。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/openbmb/MiniCPM5-2B-GGUF",
+      "publishedAt": "2026-09-09T07:47:07+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 7760,
+        "likes": 124
+      }
+    },
+    {
+      "id": "401d8a96c9714abb507c220e5c106820cd6c9291c1c78f2f0bb03632bd088b1f",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MiniCPM5-2B-GPTQ：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 openbmb/MiniCPM5-2B-GPTQ 获 82 次下载、12 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/openbmb/MiniCPM5-2B-GPTQ",
+      "publishedAt": "2026-09-09T07:46:38+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 82,
+        "likes": 12
+      }
+    },
+    {
+      "id": "b12f6da411f69368c1aafc71a23e9b6babf114d2911f87c382acc5177b9c7383",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3.8-27B-abliterated-GGUF：model 模型更新",
+      "summary": "HuggingFace 上模型 mradermacher/Qwen3.8-27B-abliterated-GGUF 下载量1795次，获0点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mradermacher/Qwen3.8-27B-abliterated-GGUF",
+      "publishedAt": "2026-09-09T06:49:36+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1795,
+        "likes": 0
       }
     },
     {
@@ -1501,6 +1724,31 @@
       "extra": {}
     },
     {
+      "id": "e8963967be4148a3ae6046f2064ecc4a433ca7aa705861322ad51ee9f2c3a575",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "海斗骚套路（九）死亡之环AP蛮子逆天特性！伤害爆炸",
+      "summary": "UP主 老蒋真聪明 · 1,050播放 · 1:32",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117235796414931",
+      "publishedAt": "2026-09-08T14:08:52+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 强化 套路"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "老蒋真聪明",
+        "play": 1050,
+        "bvid": "BV1qHYJ6vE1F",
+        "duration": "1:32"
+      }
+    },
+    {
       "id": "db259dbe3069dbe5f39c8df569ed11a9e7bc774b01c9084a92d6188a489eae90",
       "module": "ai",
       "seg": null,
@@ -1586,6 +1834,31 @@
         "play": 1634,
         "bvid": "BV1kybV6DEWs",
         "duration": "3:23"
+      }
+    },
+    {
+      "id": "e57d3e2f28cbc1d1ba7b66af6fa837bde1a39b188a0872e64414a57322b530e3",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "【金铲铲S18】阵容评级由夯到拉",
+      "summary": "UP主 CB清风_信仰刀妹 · 1,951播放 · 5:14",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117234471143244",
+      "publishedAt": "2026-09-08T08:32:53+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "CB清风_信仰刀妹",
+        "play": 1951,
+        "bvid": "BV1Fab56SE4A",
+        "duration": "5:14"
       }
     },
     {
@@ -1803,6 +2076,31 @@
       "extra": {}
     },
     {
+      "id": "dc2f6beaba8922e20dbfa422b721f1b32a8d2ed39c1c1a039b74db8db4f2b606",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "云顶王者课堂S18必学阵容18.1C保姆级日蚀阿卡丽吃鸡攻略",
+      "summary": "UP主 云顶王者课堂 · 2,379播放 · 4:41",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117233447667590",
+      "publishedAt": "2026-09-08T04:09:56+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "云顶王者课堂",
+        "play": 2379,
+        "bvid": "BV175bV6GEea",
+        "duration": "4:41"
+      }
+    },
+    {
       "id": "93805a8f082afbcc046dea494add9059392ac0613ceb5e803274dca2bff8c496",
       "module": "ai",
       "seg": null,
@@ -1858,6 +2156,31 @@
       "points": [],
       "live": false,
       "extra": {}
+    },
+    {
+      "id": "3e85529748dfb22723bda2ef642b449ce315e6920938a791c69352ae401ba7e2",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "云顶王者课堂S18必学阵容18.1C保姆级豹女轮子妈吃鸡攻略",
+      "summary": "UP主 云顶王者课堂 · 2,015播放 · 5:25",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117232910797637",
+      "publishedAt": "2026-09-08T01:52:24+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "云顶王者课堂",
+        "play": 2015,
+        "bvid": "BV1b2bg6XEV9",
+        "duration": "5:25"
+      }
     },
     {
       "id": "143b31ec726c44b0325d10ff3b425cdd464819672d0ea1bddad11e026a956f72",
@@ -2729,6 +3052,31 @@
       "points": [],
       "live": false,
       "extra": {}
+    },
+    {
+      "id": "75de7cb69743f0a9eda411d0fcacefe1868519370d201021efae39d7b8d5f9f0",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "金铲铲【地狱火艾希】艾希完美联动地狱火羁绊，持续对敌方C位缓速+灼烧。搭配远古龙机制斩杀，完克各种高坚果阵容！！【金铲铲之战】",
+      "summary": "UP主 铲铲小辉 · 3,347播放 · 0:49",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117227508471380",
+      "publishedAt": "2026-09-07T02:58:45+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "铲铲小辉",
+        "play": 3347,
+        "bvid": "BV1uYbw68E4a",
+        "duration": "0:49"
+      }
     },
     {
       "id": "f1ee50f501c4d22aac40377dec88ea28da634cbc855282ef35ec09776907fac6",
@@ -4315,6 +4663,31 @@
       }
     },
     {
+      "id": "8cc75ae7ff0fe4de7d0e4f169464e55d955223dcd25a7c694a690067f455a354",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "海斗赤石套路biu的详解，求你别乱玩了！！",
+      "summary": "UP主 老蒋真聪明 · 26,073播放 · 4:56",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117218700431821",
+      "publishedAt": "2026-09-05T13:40:51+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 强化 套路"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "老蒋真聪明",
+        "play": 26073,
+        "bvid": "BV1iPbj61ECK",
+        "duration": "4:56"
+      }
+    },
+    {
       "id": "5ca52f5cff3ed9984afd462be57b7e20971a98fb82869f2bbc0e571e7329599d",
       "module": "lol",
       "seg": "tft",
@@ -4456,6 +4829,31 @@
         "play": 543284,
         "bvid": "BV1zWtm6gESM",
         "duration": "16:6"
+      }
+    },
+    {
+      "id": "926b247163eae5cf8631c09fc97a74f44e99f85d929a98ccf30f20508d3f8e33",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "杂谈英雄联盟开黑到底应该不应自己玩自己的，纯自己看法，后面有天糊金克丝搞笑视频看完后评价",
+      "summary": "UP主 和菜狗无话可说 · 30播放 · 29:57",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117216955603882",
+      "publishedAt": "2026-09-05T06:18:29+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 黑科技 上分"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "和菜狗无话可说",
+        "play": 30,
+        "bvid": "BV1Hity6eEpu",
+        "duration": "29:57"
       }
     },
     {
@@ -11553,6 +11951,31 @@
       "extra": {}
     },
     {
+      "id": "de9550e0994d159db8129b06a1c365b70729fc98d120cdf9fedd7bf0794aa57b",
+      "module": "lol",
+      "seg": "rift",
+      "cat": "峡谷攻略",
+      "title": "机械公敌-兰博新手入门+天赋出装教学，看完就上手！",
+      "summary": "UP主 波澜兰博 · 3,777播放 · 13:11",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117202795632587",
+      "publishedAt": "2026-09-02T18:15:53+00:00",
+      "tags": [
+        "lol",
+        "rift",
+        "英雄联盟 上单 出装 攻略 教学"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "波澜兰博",
+        "play": 3777,
+        "bvid": "BV1DStS6FEMb",
+        "duration": "13:11"
+      }
+    },
+    {
       "id": "e1c366d021a09968e7896a728db7741924162e023e22c1c2036f3c18eb6fe953",
       "module": "ai",
       "seg": null,
@@ -15311,7 +15734,7 @@
   ],
   "daily": {
     "ai": {
-      "insight": "AI安全与信任危机集中爆发，数据泄露、模型滥用、法律诉讼多线并发",
+      "insight": "AI安全与信任危机集中爆发，数据泄露、模型越狱、版权诉讼频发",
       "headline": {
         "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
         "summary": "Meta推出个人AI助手Muse，需访问用户邮件、日历、支付及健康等数据，成为其最大消费级AI押注，亦是对用户数据信任度的重大考验。",
@@ -15370,15 +15793,15 @@
           "items": [
             {
               "title": "Opaque recurrence, and other AI terms that you should probably know",
-              "summary": "AI热潮催生大量新术语。本文提供关键AI词汇与俚语的简明释义 glossary。",
+              "summary": "AI热潮催生大量新术语。本文整理了一份关键AI词汇表，涵盖最常用、最重要的概念及定义。",
               "source": "TechCrunch",
               "sourceUrl": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
             },
             {
-              "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-              "summary": "纳维-斯托克斯方程存在性与光滑性问题设百万美元奖金，属克雷数学研究所七大千禧年难题之一。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/"
+              "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+              "summary": "3700名内部人员发布1.8万条消息讨论考试作弊。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
             }
           ]
         },
@@ -15393,7 +15816,7 @@
             },
             {
               "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
-              "summary": "Adobe Premiere 推出新“生成式媒体”工具，支持在时间轴内直接生成视频、音效、音乐等，大幅提升AI创作效率。",
+              "summary": "Adobe升级Premiere，推出“生成式媒体”工具，支持在时间轴内直接生成视频、音效、音乐等，大幅提升AI创作效率。",
               "source": "The Verge",
               "sourceUrl": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere"
             }
