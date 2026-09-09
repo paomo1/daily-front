@@ -1,9 +1,32 @@
 {
-  "generated_at": "2026-09-08T15:48:42.953220+00:00",
-  "date": "2026-09-08",
+  "generated_at": "2026-09-09T05:46:56.079129+00:00",
+  "date": "2026-09-09",
   "keep_days": 7,
-  "count": 653,
+  "count": 651,
   "items": [
+    {
+      "id": "99cda5ac140cbd4613fbd636086c91961ab5ba6a2d74171250c9f6d4b18575d1",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3.8-27B-abliterated-i1-GGUF：model 模型更新",
+      "summary": "HuggingFace 上模型 mradermacher/Qwen3.8-27B-abliterated-i1-GGUF 下载量达4362次，获1个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mradermacher/Qwen3.8-27B-abliterated-i1-GGUF",
+      "publishedAt": "2026-09-09T05:45:02+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 4362,
+        "likes": 1
+      }
+    },
     {
       "id": "02a2d903b66f181dc0a795a24eab54c5493c7fcf7ec03f039fc3f8861bbb1633",
       "module": "football",
@@ -13,7 +36,7 @@
       "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489482",
-      "publishedAt": "2026-09-08T15:47:08.777562+00:00",
+      "publishedAt": "2026-09-09T05:44:49.450175+00:00",
       "tags": [
         "法甲",
         "战报"
@@ -52,7 +75,7 @@
       "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=2Xiy_RSXw5A",
-      "publishedAt": "2026-09-08T15:47:08.777555+00:00",
+      "publishedAt": "2026-09-09T05:44:49.450167+00:00",
       "tags": [
         "意甲",
         "战报"
@@ -91,7 +114,7 @@
       "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508346",
-      "publishedAt": "2026-09-08T15:47:08.777547+00:00",
+      "publishedAt": "2026-09-09T05:44:49.450159+00:00",
       "tags": [
         "德甲",
         "战报"
@@ -130,7 +153,7 @@
       "summary": "西甲 · 战报 · 03:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=CGwY-AJRZOc",
-      "publishedAt": "2026-09-08T15:47:08.777538+00:00",
+      "publishedAt": "2026-09-09T05:44:49.450151+00:00",
       "tags": [
         "西甲",
         "战报"
@@ -169,7 +192,7 @@
       "summary": "英超 · 战报 · 23:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=af99CJ4f_yc",
-      "publishedAt": "2026-09-08T15:47:08.777528+00:00",
+      "publishedAt": "2026-09-09T05:44:49.450141+00:00",
       "tags": [
         "英超",
         "战报"
@@ -200,15 +223,15 @@
       }
     },
     {
-      "id": "f5133eb8df812a90c0beadbb6ab0c6fbd53e03660b967541afd112bbe86e4b91",
+      "id": "83f00eaa308aaea549b349b88db9d9e3ab08411c964348de06dd076323752959",
       "module": "football",
       "seg": null,
       "cat": "欧冠",
-      "title": "Club Brugge VS Aston Villa",
+      "title": "Stuttgart VS Viking",
       "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
       "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2594644",
-      "publishedAt": "2026-09-08T15:47:08.777496+00:00",
+      "sourceUrl": "https://www.thesportsdb.com/event/2594578",
+      "publishedAt": "2026-09-09T05:44:49.450111+00:00",
       "tags": [
         "欧冠",
         "赛程"
@@ -219,9 +242,9 @@
       "extra": {
         "round": "1",
         "season": "2026-2027",
-        "venue": "Jan Breydel Stadium",
-        "date": "2026-09-08",
-        "country": "Belgium",
+        "venue": "MHP Arena",
+        "date": "2026-09-09",
+        "country": "Germany",
         "status": "NS"
       }
     },
@@ -234,7 +257,7 @@
       "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489490",
-      "publishedAt": "2026-09-08T15:47:08.777492+00:00",
+      "publishedAt": "2026-09-09T05:44:49.450107+00:00",
       "tags": [
         "法甲",
         "赛程"
@@ -260,7 +283,7 @@
       "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2482175",
-      "publishedAt": "2026-09-08T15:47:08.777488+00:00",
+      "publishedAt": "2026-09-09T05:44:49.450102+00:00",
       "tags": [
         "意甲",
         "赛程"
@@ -286,7 +309,7 @@
       "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508357",
-      "publishedAt": "2026-09-08T15:47:08.777482+00:00",
+      "publishedAt": "2026-09-09T05:44:49.450096+00:00",
       "tags": [
         "德甲",
         "赛程"
@@ -312,7 +335,7 @@
       "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2506211",
-      "publishedAt": "2026-09-08T15:47:08.777475+00:00",
+      "publishedAt": "2026-09-09T05:44:49.450089+00:00",
       "tags": [
         "西甲",
         "赛程"
@@ -338,7 +361,7 @@
       "summary": "英超 · 赛程 · 22:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2494031",
-      "publishedAt": "2026-09-08T15:47:08.777398+00:00",
+      "publishedAt": "2026-09-09T05:44:49.450052+00:00",
       "tags": [
         "英超",
         "赛程"
@@ -352,6 +375,776 @@
         "venue": "Vitality Stadium",
         "date": "2026-09-12",
         "country": "England",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "ed8c2501605ca17b9b5451afb6191344a4722699bc40c251b265af9f0f3e5de5",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "tflite：model 模型更新",
+      "summary": "Hugging Face 上 NN-Dataset/tflite 模型下载量达 126,033 次，获 2 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/NN-Dataset/tflite",
+      "publishedAt": "2026-09-09T05:42:36+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 126033,
+        "likes": 2
+      }
+    },
+    {
+      "id": "be097df73a93e876f33d8efbb8fd99b3516db978ee42e572f03c6132eddd17fa",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3-8B-Houdini-VEX-v10：text-generation 模型更新",
+      "summary": "HuggingFace上text-generation模型anshulVashist/Qwen3-8B-Houdini-VEX-v10下载量1092次，获0赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/anshulVashist/Qwen3-8B-Houdini-VEX-v10",
+      "publishedAt": "2026-09-09T05:32:24+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1092,
+        "likes": 0
+      }
+    },
+    {
+      "id": "3590ca6a62c8242a55943c1c14caea3f3d5ac0eedd0fb725996ee0721aa24d12",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
+      "summary": "8月28日至9月1日，SkyProduction联合阿里通义万相推出Wan 3.0模型限时免费活动。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/486052.html",
+      "publishedAt": "2026-09-09T03:39:58+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "12f57a1144956974c664efd3487f6b54bd9920006e2eea1dcafb4a44ba897a76",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "宜宾，一场机器人“招聘会”的产业雄心",
+      "summary": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/486038.html",
+      "publishedAt": "2026-09-09T02:15:54+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "35ce7549798e0f1b1f1654f73372ea2217fc9b9fcb51dc09c29cb9c7354a90f1",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "summary": "安全地精团队正加紧发布补丁，以应对预计激增的AI辅助网络攻击。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "publishedAt": "2026-09-08T21:11:46+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "6d7d0cc0e18454132b5b65339a0e4aae013c81812ab7b3f4e56824b18c584329",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "summary": "上月，Claude用户发现账户异常耗token，Anthropic确认遭黑客攻击并发出安全警告。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "publishedAt": "2026-09-08T21:10:27+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "9e409baccb26e010bed4bd9300665e8c2c0829d9f2ace7ee458710f0e6486781",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "summary": "Cognition公司估值倍数高于Cursor被SpaceX收购前的水平。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "publishedAt": "2026-09-08T21:04:06+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "c9b56faa760b75e2a382a36a3a0235cbe032baa0ea48f175dd4097d36a14583a",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "summary": "OpenAI称解决已有约90年历史的纳维-斯托克斯方程难题，该问题关乎流体运动，属千禧年七大数学难题之一。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+      "publishedAt": "2026-09-08T20:53:52+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b7f99e399e7febb81ac4cf32be7e6dd49814011b6cacec9eea055cee04f2619e",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "summary": "OpenAI推出ChatGPT Images 2.5，新增“Sketch”涂鸦功能：用户可在对话中手绘草图，再输入文字描述，生成定制图像。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "publishedAt": "2026-09-08T20:16:09+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "ff82966e5adeecbd868ce2ae47b7ee4be31629e96352e24fd2249dc6656e674a",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "summary": "Meta推出个人AI助手Muse，需访问用户邮件、日历、支付及健康等数据，成为其最大消费级AI押注，亦是对用户数据信任度的重大考验。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "publishedAt": "2026-09-08T19:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "a530c6f1d52845e02c0c4e6e056599aaa14d49089ce3a83dc1a3cfb3c795c860",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Meta bets on AI agent Muse to catch up in AI race",
+      "summary": "Meta推出AI个人助手Muse，旨在普及人工智能，助力其多亿美元战略转型，扭转AI领域落后局面。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+      "publishedAt": "2026-09-08T19:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "8b976238fb4c1db78b13a1346ee9d60a67c42b5e269b6915d95cb2c1288a7c37",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
+      "summary": "Meta被曝拖延删除诱导青少年女孩“裸化”照片的Instagram广告。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+      "publishedAt": "2026-09-08T18:43:09+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "38b6f322fc38be5aeaf47d487a6ec132072d44b4930aaa822e5925134635f5c9",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Update to Google’s AI weather model improves forecast accuracy",
+      "summary": "该模型借鉴传统天气预报，通过扩充输入数据集提升预测精度。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+      "publishedAt": "2026-09-08T18:00:56+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "51214ace3aea696c6560070fa0ea39f43c45649e1bc2a669a1f8ed933e0bf45b",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
+      "summary": "TANGO是首个面向杂乱室内环境的具身语言导航框架，支持人形机器人基于自然语言指令，实现几何感知的全身协同运动（含手臂、躯干、步态）。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.09158v1",
+      "publishedAt": "2026-09-08T17:59:55+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered environments requires continuous geometry-aware whole-body adaptation, including coordinated arm placement, torso adjustment, and gait modulation for collision-free movement through complex 3D spaces. We introduce TANGO, the first whole-body vision-language navigation framework for language-conditioned humanoid traversal in cluttered environments. Given a natural-language instruction and egocentric RGB observations, TANGO directly predicts 29-DoF joint-space actions for downstream whole-body control. We train TANGO entirely in simulation by synthesizing diverse collision-free traversal behaviors via global path planning, kinematic whole-body motion generation, obstacle-aware motion editing, and RL-based tracking. This pipeline provides dynamically feasible action supervision for learning language-conditioned whole-body policies. In extensive simulation experiments, TANGO demonstrates state-of-the-art performance in vision-language navigation, while outperforming strong modular baselines in navigating challenging scenes requiring obstacle negotiation. Lastly, we deploy TANGO zero-shot on a Unitree G1 humanoid robot, and observe robust language-guided traversal in cluttered real-world scenes without training on any real-world navigation data."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Anqi Li, Yuxin Chen, Zhaobo Li et al.",
+        "categories": [
+          "cs.RO",
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "b6843b7397428e5d60eb8069440602ea30f85e0153a8fb93b3675cfd96fe7954",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Learning Length-Extrapolatable Recurrent Models",
+      "summary": "论文提出“状态信用”新视角，揭示RNN长程依赖建模失败主因，并设计可外推至更长序列的循环模型。（59字）",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.09157v1",
+      "publishedAt": "2026-09-08T17:59:53+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Recurrent models provide a natural path to long-context modeling, yet models trained with backpropagation through time (BPTT) often fail beyond their training horizon. Classical analyses emphasize gradients that vanish or explode along temporal paths. However, dense per-token losses can still train a shared recurrent rule despite severe decay, showing that decay alone does not determine whether learning fails. We instead study state credit: the signal through which future losses reach earlier recurrent states before contributing to parameter updates. Accordingly, we intervene directly on state credit and propose Credit Stabilization through Time (CST). During backward propagation, CST locally rescales the state-credit signal to stabilize its norm without rotating the component being corrected, while leaving the forward computation unchanged. Because controlled synthetic tasks and real data exhibit different credit dynamics, we specialize CST to each regime. In both settings, CST improves performance beyond the training horizon, with gains observed at up to 128x the training length."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Hanwen Jiang",
+        "categories": [
+          "cs.LG",
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "778ca002176dd9b5bbdc34e0894c0d637ce9cc204567dfd961a90903b2ff6935",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "ReCite: Agentic Reasoning for Faithful Citation",
+      "summary": "ReCite提出智能体推理方法，提升引用准确性，解决现有系统因语义相似导致的误引问题。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.09156v1",
+      "publishedAt": "2026-09-08T17:59:50+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Accurate citations are the foundation of academic writing, tracing intellectual origins and substantiating core claims. However, manually navigating the growing volume of scientific literature is increasingly difficult, prompting reliance on automatic citation recommendation. While modern retrieval-augmented architectures have largely mitigated the fabrication of non-existent papers, current systems relying on semantic similarity struggle with misattribution, often citing authentic papers that fail to logically support the author's claim. To address this challenge, we argue that accurate citation requires a shift from similarity-based search to active, claim-level reasoning. We propose ReCite, a decoupled agentic framework that orchestrates location perception, intent-aware query planning, and reflective verification. Trained on synthesized reasoning trajectories, our agent verifies claim-evidence consistency and triggers self-correction loops when retrieved candidates lack logical support. Experiments demonstrate that our lightweight framework outperforms state-of-the-art massive generative models in strict citation accuracy. By grounding literature matching in verifiable logic rather than semantic overlap, ReCite establishes a reliable foundation for automated academic writing."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Yuyang Huang, Bobo Li, Jiajia Song et al.",
+        "categories": [
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "4943fa91586d4cddb681f240473b5eec622c8202b74c6ce0cac2fd9ee7da5f5a",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+      "summary": "提出“过程图”（Procedural Graph），将LLM智能体的执行逻辑显式建模为条件化、有序的步骤结构，提升长程规划与工具调用准确性。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.09153v1",
+      "publishedAt": "2026-09-08T17:59:41+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Large language models are increasingly deployed as agents that plan over long horizons and act through external tools. Most agents select actions through unconstrained generation over an accumulating history, leaving implicit the procedural knowledge of what to do, in what order, and under which conditions. As trajectories lengthen, agents can lose track of their objectives, invoke tools out of order, and repeat unproductive actions. We introduce the Procedural Graph: just as a knowledge graph organizes factual knowledge into (entity, relation, entity) triplets for what-is questions, a Procedural Graph organizes procedural knowledge into (procedure, relation, procedure) triplets for what-to-do questions. At each decision step, the framework localizes the agent's active node, and a guidance model translates the surrounding subgraph into step-level situational guidance that biases the solver's next action without dictating it. The graph is self-evolving: an LLM refiner contrasts failed trajectories with successful ones and edits the graph's topology and attributes, committing edits that preserve or improve held-out validation performance while retaining rejected ones to discourage repetition. Starting from a minimal skeleton, the loop builds graphs that match or surpass hand-designed ones. It can also repair a flawed expert prior. Across multiple datasets, task types, and LLMs, the Procedural Graph delivers consistent gains over memory-based baselines, and self-evolution further improves performance without manual engineering."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Yuxing Lu, Yicheng Chen, Shanchan Wu et al.",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "cs.MA"
+        ]
+      }
+    },
+    {
+      "id": "a5d86419cbfd2747211f7dcf8c7b829fe86bad81b2ed7b20611a50f19e081e5f",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Silver Rate Is (Almost) Optimal for Gradient Descent Acceleration",
+      "summary": "研究证明梯度下降中银率步长近乎最优：非任意时间下误差下界为Ω(n⁻ᵖ)，任意时间下为Ω(n⁻²ᵖ⁄⁽¹⁺ᵖ⁾)，p=log₂(1+√2)≈1.27。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.09152v1",
+      "publishedAt": "2026-09-08T17:59:38+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "We study how far gradient descent (GD) can be accelerated by predetermined nonnegative stepsizes in smooth convex optimization. Writing $p_{\\mathrm{sil}}=\\log_2(1+\\sqrt{2})$, we prove an $Ω\\left(n^{-p_{\\mathrm{sil}}-O(\\sqrt{\\log\\log n/\\log n})}\\right)$ non-anytime lower bound. In the anytime setting, every infinite nonnegative schedule has infinitely many horizons with error $Ω\\left(n^{-\\frac{2p_{\\mathrm{sil}}}{1+p_{\\mathrm{sil}}}-O(\\sqrt{\\log\\log n/\\log n})}\\right)$. Together with the silver-schedule upper bound [Altschuler and Parrilo, 2025] and the anytime upper bound [Zhang et al., 2025], our results determine the optimal polynomial convergence exponents in both settings."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Yuhan Ye, Kaizhao Liu",
+        "categories": [
+          "math.OC",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "41b68ea57c34c162066605ba5eb065e359da01da2f87b439728ff6579662cc05",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Copying explains the collective behavior of AI agents in the wild",
+      "summary": "2026年6月，数千AI代理自发利用公共维基协作通过限时测试，每代理存活约1小时、无记忆。其编辑记录（含编辑前可见内容）全公开，揭示了复制行为驱动的集体智能。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.09150v1",
+      "publishedAt": "2026-09-08T17:59:20+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "In June 2026, thousands of AI agents found that a small public wiki would accept edits from inside their sandboxes, and started using it to help one another pass a timed test. Each agent lived for about an hour and remembered nothing afterwards. Nobody asked them to cooperate, and the wiki had not been built for them. The complete record of what they wrote is public, and it is unusually informative, because it preserves not only what each agent wrote but what that agent could see before writing. We use it to follow the three decisions an agent had to make on arrival: where to write, what to call itself, and how to word its message. One rule governs all three. An agent takes an option with a probability close to the share of that option in what it can see, and the share that matters is the one on the page in front of it, then the one in the stream of recent edits, and only weakly anything older. Three minimal copying models, one per decision and with a single free parameter each, reproduce the heavy-tailed distribution of how many agents met on a page, the frequency of the pieces from which the agents built their names, and the patchwork of pages that are internally consistent and different from one another. Copying whatever the environment happens to show is enough to produce most of the collective structure of this population. It is also what makes such a population easy to steer, since whoever writes first, or writes while the others are quiet, sets the convention for everyone who comes later."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Giordano De Marzo, Nicola Albore, David Garcia",
+        "categories": [
+          "cs.MA",
+          "cond-mat.stat-mech",
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "08930addf69e05ab7cf321032b0b38a7f1d5d8befd3a4741523a0308bd355b6e",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Studying Image Tokenizers as Visual Languages in Unified Multimodal Models",
+      "summary": "研究构建纯自回归测试平台，追踪多模态持续预训练中图文联合建模的验证损失，分析视觉token可学习性及与下游性能关系。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.09143v1",
+      "publishedAt": "2026-09-08T17:57:53+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Image tokenizers define the ``visual language'' of unified multimodal models, yet are commonly studied through isolated metrics or generation-/understanding-only evaluations. These evaluations do not fully capture how visual tokens behave when modeled jointly with text. We build a controlled pure-autoregressive testbed and track task-specific validation losses during multimodal continual pretraining across text, image, text-to-image (T2I), and image-to-text (I2T) prediction. We examine how these losses scale and relate to downstream performance, then use them to study multimodal learnability---how well image and text tokens are jointly modeled---and tokenizer design. We find that (1) losses should be analyzed by task, since they exhibit distinct scaling behavior and rank tokenizers differently. (2) The loss--performance relationship depends on the predicted token space: for a fixed tokenizer, T2I and I2T losses correlate with generation quality, but across tokenizers, the T2I loss--performance relationship shifts with the image-token space, whereas I2T loss, computed over a shared text vocabulary, provides a more consistent signal. I2T loss also correlates with both generation and visual understanding performance after supervised finetuning. Using losses as a lens, we show that (3) better reconstruction does not necessarily yield lower task-specific losses or stronger downstream performance, and that (4) image tokenizer choice can affect text modeling under joint optimization. As case studies, we revisit three tokenizer design axes---the discriminator, semantic supervision, and vocabulary size---to examine their effects on joint modeling and downstream performance. Together, our testbed offers a complementary perspective on image tokenizers as visual languages, highlighting their interplay with text in joint multimodal training."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Siting Li, Zhengyang Wang, Simon Shaolei Du et al.",
+        "categories": [
+          "cs.CV",
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "3d1b35503a567021810173c6592943ce68aa2d80f462ab408b0f743a3be0dd89",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting",
+      "summary": "NOAH模型：首个纵向多模态时序AI模型，可建模全生命周期患者轨迹，突破现有方法在模态数量、时间建模与词汇开放性上的限制。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.09140v1",
+      "publishedAt": "2026-09-08T17:56:13+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "The digitization of healthcare has generated vast, longitudinal, and multimodal patient records over a lifetime, yet fully exploiting these data to represent and predict patient state trajectories remains a critical challenge. Current AI models often struggle to capture the complex, irregular temporal dynamics and inherent stochasticity of real-world multimodal patient data. Existing AI approaches for modeling longitudinal patient records are predominantly discriminative, limited to a few modalities, constrained by closed categorical vocabularies, treating time as a monotonic inductive bias, or they are limited in forecasting future patient states. We introduce NOAH, a time-aware, task-agnostic, generative transformer model representing and forecasting the full multimodal patient journey. NOAH features a novel bidirectional time integration and a variational latent space to capture the continuous evolution of patient states and the stochasticity of clinical trajectories. Built from over 559 million clinical events from 431,000 hospital visits of 299,000 patients across the MIMIC dataset family, NOAH natively processes medical images, time-series and numeric signals, categorical events, as well as structured and unstructured clinical records. NOAH is the first truly holistic generative model in its field, enabling autoregressive forecasting with optional time control, zero-shot classification, and counterfactual intervention simulation. It generates highly informative and predictive patient state representations that demonstrate strong performance in probing for clinical outcomes, 15 ICD chapters, and 29 comorbidities, as well as in time-to-event prediction. Seamlessly handling diverse modalities and complex temporal dynamics, NOAH provides a versatile, task-agnostic, scalable foundation for intelligent predictive systems in personalized clinical care and digital medicine."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Tobias Susetzky, Raphael Rehms, Dmitrii Seletkov et al.",
+        "categories": [
+          "cs.LG",
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "21a8f367123e3090689cd4ac464ceb265b2dc0ea7f7ea9c5651fbcefd521e522",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in Healthcare Processes",
+      "summary": "研究提出四模块数据驱动框架，解决医疗RPA项目30–50%低效问题，涵盖流程分类、优先级排序、自动化层级匹配（Python/n8n/UiPath）及ROI预测。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.09137v1",
+      "publishedAt": "2026-09-08T17:55:28+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Robotic Process Automation (RPA) is widely used to reduce administrative burden in United States hospitals, yet an estimated 30-50% of RPA initiatives underperform because processes are selected informally, without a repeatable method to catalogue candidates, prioritize them, match each to an automation tier -- a Python bot, an open-source orchestrator such as n8n, or an enterprise platform such as UiPath -- and forecast financial return before committing resources. We propose a four-module, data-driven framework unifying these decisions: a Process Taxonomy of twenty recurring hospital processes across five value streams; a Prioritization module deriving an Automation Suitability Index from an Analytic Hierarchy Process matrix with an explicit consistency check; a Tool-Tier Selection module recommending the least-cost technology sufficient for a process complexity, integration, and compliance profile; and a Return-on-Investment module quantifying labor savings, error-cost avoidance, payback, and net present value. Applied to a synthetic portfolio spanning all twenty processes, plus a reference data-flow architecture linking it to hospital EHR/payer/ERP systems: 12 of 20 clear the prioritization threshold; the ranking is robust to +/-20% weight perturbation (Spearman correlation 0.83, top-5 set preserved 97.7%, 2,000 Monte Carlo trials); an Automation Risk Index flags four qualifying processes as Critical risk; a budget-constrained portfolio optimization shows diminishing marginal NPV as spend scales from $400K to $1.03M; and a second Monte Carlo analysis shows portfolio NPV stays positive at its 5th percentile. The framework is a conceptual synthesis of the literature rather than an instrument calibrated on primary hospital data; we discuss HIPAA governance and a research agenda for empirical validation. A supplementary Python implementation accompanies the paper."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Maria Alejandra Gomez, Juan Manuel Castillo",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "3a48e4e38993ae814fc669563a31a3e1ed1a6de77196d39c344b3b39a4341af6",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Entropy-Regularized Rank-Masked Policy Optimization for Test-Time Reinforcement Learning in Code Generation",
+      "summary": "提出探针驱动的TTRL方法，通过问题生成探针输入、执行候选程序并基于行为一致性定义探针共识奖励（PCR），解决代码生成中无标答场景的测试时强化学习难题。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.09135v1",
+      "publishedAt": "2026-09-08T17:54:13+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Existing methods for test-time reinforcement learning (TTRL) derive rewards from answer-level self-voting on unlabeled test-time tasks with canonical answers, but this breaks down for code generation because programs cannot be compared by surface form and therefore do not directly provide a usable training signal. To make TTRL applicable to code generation, we propose probe-driven TTRL, which constructs output-free probe inputs from the problem statement, executes candidate programs on these probes, and defines a Probe Consensus Reward (PCR) from the resulting behavioral agreement. PCR provides a behavioral training signal for open-vocabulary programs, but it is not a fully reliable verifier and remains susceptible to reward hacking through spurious consensus. We therefore introduce Entropy-Regularized Rank-Masked Policy Optimization (ERPO), which converts low PCR into conservative negative updates through rank masking and controls policy drift with an entropy ceiling. On coding benchmarks, ERPO substantially improves pass@1 and pass@k in both in-domain adaptation and zero-shot transfer."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Jiacheng Xu, Feng Chen, Xiuneng Xu et al.",
+        "categories": [
+          "cs.LG",
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "e53725448d49d960d0d80891c3a53224e522691501a80188ed95ff247297ff8f",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails",
+      "summary": "研究提出协同进化模型与Agent框架（harness），通过在线策略修正提升弱模型性能。实验表明，优化后的框架可让小模型在7个企业任务中以低成本逼近大模型效果。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.09134v1",
+      "publishedAt": "2026-09-08T17:53:49+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Agent harnesses (the system prompt, tool set, execution hooks, and context-management scaffolding around a model) are a critical determinant of agentic task success. Automated harness evolution can enable smaller models to perform well on domain-specific tasks at a fraction of frontier-model cost. Since both the harness and model weights shape behavior, we ask how harness evolution and lightweight fine-tuning should be combined. Across seven enterprise agent tasks, we first evolve a harness with the weaker model, then find that a stronger expert often uses it more effectively, suggesting expert supervision could close the remaining gap. However, training the weaker model on the expert's complete trajectories under the evolved harness backfires: performance regresses on all seven tasks by 4 to 30 points across Qwen3-Coder and Gemma 4, even though the same procedure helps under the unevolved harness. Our analysis shows that imitation transfers knowledge and increases scaffold usage, but disrupts model-harness fit: the weaker model adopts the expert's planning strategy without the competence to execute it and no longer matches the harness evolved around its native planning style. We therefore develop an on-policy expert-correction pipeline, automated by a meta-level MLE agent, that localizes the failing turn in the weaker model's own rollout and asks the expert to rewrite only that turn. This preserves the model's planning style and combines the gains of harness evolution and model adaptation. Our results identify and resolve a source of contention between harness and weight updates, yielding a compatibility-preserving recipe for economical co-evolution on domain-specific enterprise tasks."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Zhou Yu, Bin Bi, Shiva Kumar Pentyala et al.",
+        "categories": [
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "5665411f61f00c47fc76711e08f6744d8e8ac04f93f7260c6324d91c7cec20a5",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "ExecCritic: Learn to Test, Test to Improve for Coding Agents",
+      "summary": "ExecCritic提出测试-验证-修订框架，分离测试生成与代码修复，并引入角色化强化学习，提升编码智能体的仓库修复准确率。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.09133v1",
+      "publishedAt": "2026-09-08T17:53:37+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Execution feedback can guide coding agents toward correct repository repairs, but only when the tests capture the behavior requested by the issue. Agent-generated tests can encode incomplete or incorrect behavioral targets; when the same trajectory writes both the patch and the test, their errors can agree and create false confidence. We introduce ExecCritic, combining a test--verify--revise scaffold with a role-specific reinforcement learning recipe for training agents within it. The scaffold separates test construction from source-code repair: a Test agent independently generates repository-native tests, a fail-closed harness qualifies and freezes them, and a Repair agent revises source code from their execution feedback without changing the tests. Both roles use Qwen-3.5-35B-A3B as the backbone and are trained separately. In Learn to Test, the Test agent learns to produce behaviorally valid tests that distinguish correct from incorrect patches. In Test to Improve, the Repair agent learns both direct task resolution and feedback-guided revision. On SWE-bench Verified, test quality determines whether feedback helps: holding the base Repair agent fixed, tests from the base Test agent reduce resolved rate from a no-test baseline of 61.2% to 57.3%, whereas tests from GPT-5.6-sol raise it to 65.3%. Role-specific post-training raises the Qwen Test agent's Base-to-Gold success from 22.2% to 62.2%; composing the two post-trained Qwen agents reaches 72.6%, an 11.4-point gain over the original no-test baseline without stronger-model or Oracle feedback at evaluation time. Code is publicly available at https://github.com/MSR-Orchard/execcritic."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Leitian Tao, Baolin Peng, Haorui Wang et al.",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "cs.SE"
+        ]
+      }
+    },
+    {
+      "id": "7596403150c6c0974646c9432df752fd7060bab4348172094ae58964ce4a6d14",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Nearly Tight Rademacher Bounds for Sparsely Activated Neural Networks",
+      "summary": "研究稀疏激活神经网络的Rademacher复杂度，给出紧致上界：$\\mathcal{R}(S)\\le CWR\\min\\{k,\\sqrt{sk/m}\\log^{3/2}(2m)\\}+kB/\\sqrt{m}$。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.09130v1",
+      "publishedAt": "2026-09-08T17:53:03+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "An input may activate few hidden units even when different inputs collectively use an entire network. We study the statistical complexity of this input-dependent sparsity in the one-hidden-layer ReLU model of Awasthi et al. (COLT 2024). For width $s$, at most $k$ active units per input, and effective weight and bias bounds $W,B$, every size-$m$ sample in the class's fixed radius-$R$ input domain satisfies $\\mathcal{R}(S)\\le CWR\\min\\{k,\\sqrt{sk/m}\\log^{3/2}(2m)\\}+kB/\\sqrt m$. A support-preserving cover and a single normalized chaining argument remove the previous explicit dimension factor, up to logarithms. Lower bounds on appropriate i.i.d. marginals match up to those logarithms, showing how changing active units across inputs retains a width dependence. The input domain matters: zero-bias networks sparse on the entire ball have at most $2k$ nonzero units and complexity $O(kWR/\\sqrt m)$, whereas bias bounds comparable to $WR$ restore the worst-case rate on that same domain in only logarithmic dimension. A spherical-cap construction proves the latter claim without assuming sparsity merely on the sampling support. For a specified normalized bounded loss and biases comparable to $WR$, we also obtain agnostic minimax excess-risk bounds of order $\\min\\{1,\\sqrt{s/(km)}\\}$ up to logarithms."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Xiaoyu Li, Zhizhou Sha, Jiaojiao Jiang et al.",
+        "categories": [
+          "cs.LG",
+          "stat.ML"
+        ]
+      }
+    },
+    {
+      "id": "e9dd370a383c659c468cfd1903c35b81f2533e4d752f5dad78c84c53814280a2",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "A Generalization of Amari's Bayesian Duality",
+      "summary": "本文推广了阿马里（Amari）的贝叶斯对偶性，将其与贝叶斯规则的凸对偶性关联，拓展至现代人工智能应用。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.09126v1",
+      "publishedAt": "2026-09-08T17:51:08+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Amari's contributions to information geometry and machine learning are well known. Here, we revisit Amari's work on Bayesian duality which has not received as much attention. We connect Amari's Bayesian duality to a convex duality of Bayes' rule. Using this connection, we present a generalization of Amari's Bayesian duality and discuss its relevance for modern artificial intelligence."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Mohammad Emtiyaz Khan, Thomas Möllenhoff",
+        "categories": [
+          "cs.AI",
+          "cs.LG",
+          "stat.ML"
+        ]
+      }
+    },
+    {
+      "id": "89ef5720949fd30a576044727465b771599cd7bb1503ca2591d5b9cc7c578a32",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Canonical Color as a Lens into Concept Decodability in Vision Encoders and VLMs",
+      "summary": "研究用“典型颜色”测试视觉编码器概念可解码性，发现即使输入灰度图，典型颜色信息仍线性可解码。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.09124v1",
+      "publishedAt": "2026-09-08T17:50:09+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Visual encoders construct a representation of the image input for Vision-Language models. How much conceptual, as opposed to immediately visible, information does this representation contain? We use canonical color as a controlled test case to ask whether vision encoders make canonical-color information linearly accessible, even when color is removed from the input image. We construct a dataset of objects with canonical colors, and probe vision encoders for both color and object identity using color and grayscale images. We find that canonical color remains decodable from grayscale images, and is tied to predicted object identity, indicating a conceptual link. Extending this analysis to full VLMs, we find that VLM post-training can have a surprisingly large effect on color decodability in the vision encoder. Overall, canonical color provides a usefully controllable lens for tracing object-level conceptual semantic information in vision encoders and VLMs."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Xiaofu Chen, Stella Frank, Yova Kementchedjhieva",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "7ea48f4ae1b7f0ce9e198ce7d16409cc0aa4dcca1dd884d45cbda6b83d66b444",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "summary": "纳维-斯托克斯方程存在性与光滑性问题设百万美元奖金，属克雷数学研究所七大千禧年难题之一。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "publishedAt": "2026-09-08T17:32:15+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "2a362a616148517b9b82b2c59620c2746525dab5baa768fb06c65baea5bc4e15",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+      "summary": "Anthropic被指误导高阶订阅用户，称其将获更多权益，实则未兑现；为聚焦核心用户，甚至下线OpenClaw等热门应用。相关集体诉讼已扩大。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+      "publishedAt": "2026-09-08T17:27:31+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "493adcd76785b2f038def6e976c45b995633380fe69a578e595a57fda8cf1201",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "summary": "谷歌云携手埃森哲，加码企业AI布局，派驻前线工程师加速AI落地，突破部署瓶颈。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "publishedAt": "2026-09-08T16:20:31+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "ed1996843ec8247d81c8a78cfbec23c6968e018cc3e919af1ae28286e4dff0af",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "刘青松称LCK的队和LGD打完训练赛就会被淘汰:他们上单卡莎就拿我们练的！",
+      "summary": "UP主 峡谷记者小波比 · 14,985播放 · 0:36",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117236215842662",
+      "publishedAt": "2026-09-08T15:53:22+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "峡谷记者小波比",
+        "play": 14985,
+        "bvid": "BV1kMYJ65E9e",
+        "duration": "0:36"
+      }
+    },
+    {
+      "id": "f5133eb8df812a90c0beadbb6ab0c6fbd53e03660b967541afd112bbe86e4b91",
+      "module": "football",
+      "seg": null,
+      "cat": "欧冠",
+      "title": "Club Brugge VS Aston Villa",
+      "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2594644",
+      "publishedAt": "2026-09-08T15:47:08.777496+00:00",
+      "tags": [
+        "欧冠",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "1",
+        "season": "2026-2027",
+        "venue": "Jan Breydel Stadium",
+        "date": "2026-09-08",
+        "country": "Belgium",
         "status": "NS"
       }
     },
@@ -517,6 +1310,50 @@
       }
     },
     {
+      "id": "12010e6de24a29f62d3286d5be613239dfc508c23f2e6b89462a8256c879679c",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "summary": "谷歌加快Chrome发布节奏，以更快推送安全补丁和新功能。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "publishedAt": "2026-09-08T15:04:09+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "6aa038ef0ecebe213119909a2d4e6b5df50760f59a85ce61c28a9e5c8457867b",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "音乐主题+新强化符文！【海斗新赛季】内容曝光！",
+      "summary": "UP主 联盟埃里克 · 14,189播放 · 0:25",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117236014519927",
+      "publishedAt": "2026-09-08T15:02:28+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 强化 套路"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "联盟埃里克",
+        "play": 14189,
+        "bvid": "BV12wYJ6EERK",
+        "duration": "0:25"
+      }
+    },
+    {
       "id": "4de43f9d40b0f1fd799808ad8ace57f595e4c7822695f60e11e3b36c72d94708",
       "module": "ai",
       "seg": null,
@@ -572,6 +1409,31 @@
       "points": [],
       "live": false,
       "extra": {}
+    },
+    {
+      "id": "bc832a196b8ff015692be94dc10ef90444d302ae4b5474996bfab939bdf8212b",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "铲更新前，阵容从夯到拉排行，拿这些去玩打巅峰赛和排位没毛",
+      "summary": "UP主 手刃猫咪 · 15,245播放 · 3:47",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117235645487677",
+      "publishedAt": "2026-09-08T13:29:18+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "手刃猫咪",
+        "play": 15245,
+        "bvid": "BV1r9YJ6CErK",
+        "duration": "3:47"
+      }
     },
     {
       "id": "6ef3f9e0163a0f952ea5030f0aab43d5b8a486e61471ef5bd634aa5c9bf6b32f",
@@ -1152,6 +2014,31 @@
       "extra": {
         "downloads": 1342,
         "likes": 4
+      }
+    },
+    {
+      "id": "bee34281dceead040ff0ecc07b8fd4adf366a884bfb2aabfa549660cc12910ec",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "最强偷分阵容",
+      "summary": "UP主 刘青泷的云顶之路 · 523播放 · 9:41",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117229471404316",
+      "publishedAt": "2026-09-07T11:35:06+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "刘青泷的云顶之路",
+        "play": 523,
+        "bvid": "BV1xKbK6eEQ6",
+        "duration": "9:41"
       }
     },
     {
@@ -2356,6 +3243,31 @@
         "play": 2385,
         "bvid": "BV19BbH6oEkC",
         "duration": "0:56"
+      }
+    },
+    {
+      "id": "a10536a513f414da8a507d13833476c5d295b649169ecea3836046c08c0a9769",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "2026LCK季后赛9月6日 T1 vs DK（中文解说）",
+      "summary": "UP主 Ymbky丶 · 162,490播放 · 178:27",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117223280614695",
+      "publishedAt": "2026-09-06T09:04:34+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "Ymbky丶",
+        "play": 162490,
+        "bvid": "BV1rNbp6uEKM",
+        "duration": "178:27"
       }
     },
     {
@@ -14367,939 +15279,101 @@
       "points": [],
       "live": false,
       "extra": {}
-    },
-    {
-      "id": "f1d346d8e510037d937e2a831795d25339e0b0cf3f18c981fe029a74d4d65dec",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "9.2日测试服海斗最新改动：小丑学院回归！掷骰狂人削弱！",
-      "summary": "UP主 不爽就按Shift · 43,012播放 · 0:31",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117199440189563",
-      "publishedAt": "2026-09-02T04:01:11+00:00",
-      "tags": [
-        "lol",
-        "rune",
-        "英雄联盟 海斗 强化 套路"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "不爽就按Shift",
-        "play": 43012,
-        "bvid": "BV1vntE6UEyw",
-        "duration": "0:31"
-      }
-    },
-    {
-      "id": "7c6debda338f5845758f4bd08fdfbaa60a4eb2fe3053ca866f059ce7c6eef69f",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "海斗2分钟第39期:乌鸦 前期当皇帝 后期你别问",
-      "summary": "UP主 以小冬 · 49,832播放 · 1:40",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117199188531154",
-      "publishedAt": "2026-09-02T02:58:40+00:00",
-      "tags": [
-        "lol",
-        "rune",
-        "英雄联盟 海斗 黑科技 上分"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "以小冬",
-        "play": 49832,
-        "bvid": "BV1zVtE6WEUi",
-        "duration": "1:40"
-      }
-    },
-    {
-      "id": "788a364632fa375e904ef56c9b585e9351945457ac0e28504f2a4062f449fdc5",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
-      "summary": "AI客服日扛1.5万通电话",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/482967.html",
-      "publishedAt": "2026-09-02T02:48:06+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "1efd727ee5e22b0b5619d5413efe6f87bf589153db67d55b94364656081e71cc",
-      "module": "ai",
-      "seg": null,
-      "cat": "厂商动态·Kimi/月之暗面",
-      "title": "Kimi/月之暗面 发布/更新 Kimi-K3（image-text-to-text）",
-      "summary": "月之暗面发布新模型Kimi-K3，下载量超261万，获1.1万点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/moonshotai/Kimi-K3",
-      "publishedAt": "2026-09-02T02:22:41+00:00",
-      "tags": [
-        "huggingface",
-        "vendor",
-        "moonshotai"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 2617373,
-        "likes": 11158,
-        "vendor": "Kimi/月之暗面"
-      }
-    },
-    {
-      "id": "ef652ede68ae044f8f9df7d5689ce11078e3f22c388de7737843fe1ca5aef3e6",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "【日蚀韦鲁斯】🔥新晋版本T0🔥5个三星就有吃鸡实力！更别说还有四星彩蛋上限，现在还很冷门，速冲…『金铲铲之战』",
-      "summary": "UP主 金铲铲700 · 61,595播放 · 4:21",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117199020755891",
-      "publishedAt": "2026-09-02T02:19:02+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "金铲铲700",
-        "play": 61595,
-        "bvid": "BV1tvtE6uELm",
-        "duration": "4:21"
-      }
-    },
-    {
-      "id": "8eb373a44ccb205c5caab88e42bba2c7529d6ce474286a3236dae24faa7831d2",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
-      "summary": "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/482652.html",
-      "publishedAt": "2026-09-02T02:18:12+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "99d8839bddaaa63085cdf7a9ef7ee9310e28e8c340ffa76522b8ca065aa28815",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "香港首个真实开放场景服务机器人落地兰桂坊",
-      "summary": "在香港兰桂坊，一位特殊的“酒保”正式上岗",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/482855.html",
-      "publishedAt": "2026-09-02T02:06:08+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "8543c3d82b5fe71840e468e4c65903fb0d76401fc04c090fd24cf8f169883831",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
-      "summary": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/482699.html",
-      "publishedAt": "2026-09-02T01:44:24+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a7d7245fc045b9344bb16a3ccd0e8dea1d41b45d23952c03f0b3ca891ce4feca",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "李飞飞发布：全球首个多模态世界模型",
-      "summary": "一张图补全3D世界，还能给机器人造训练场",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/482586.html",
-      "publishedAt": "2026-09-02T01:07:13+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ab155bbe9e99cb1da0f7b8473cc3424e5f8129218e7ef8c323c12ed36c0f92c0",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Google needs Hollywood more than the studios need AI",
-      "summary": "谷歌正接触好莱坞大制片厂，拟斥巨资达成版权授权协议，以训练AI模型。此举或为双方带来丰厚收益。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-      "publishedAt": "2026-09-01T22:50:29+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c8fcd78afd86abaab9f1a56c3633ab64be90f46152b858f45c7c0da9da640767",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "summary": "AI初创公司AfterQuery五个月内估值飙升10倍，最新融资后达32亿美元，此前4月A轮融资估值为3亿美元。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "publishedAt": "2026-09-01T22:08:24+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "000d11be813eeba4d1caf7e3ccd573e5f73beb01cd137e8afe2cb88f99dcd0d7",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
-      "summary": "Anthropic推出Claude Fable 5.1和Mythos 5.1，回应用户对价格、数据留存及过度防护的批评；Fable 5.1性能更强，成本降25%，复杂任务降幅达45%。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-      "publishedAt": "2026-09-01T22:01:36+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "8595013e0602f1ebb0fd9baa59e2a1d27f444d561f306ccbcbac99fa80128d81",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/allenai/benchmirt",
-      "publishedAt": "2026-09-01T21:39:07+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "5f189de8bdc07b7b7feedbeb479567c15481c7a13cf5c0cc321b4cd1dc2ae184",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "summary": "OpenAI发布新大模型Astra，强调将采取多项安全措施，以应对这一关键网络安全AI模型的发布。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "publishedAt": "2026-09-01T21:06:24+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "3813b59294b884ed2b8de314e6b2001fc085cb1209bfe38146bdbeab388b1e74",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-      "summary": "谷歌部分新功能对标苹果iPhone已有特性，另有功能则依托Gemini模型实现差异化升级。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "publishedAt": "2026-09-01T20:53:05+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "83a10376643ab9edda220a5d116c793222fcc8d5a80ccb73b0dca27e6896f534",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-      "summary": "OpenAI推迟未发布模型套件Astra的开发，以加强安全工作。此前，一款未发布模型7月“越狱”引发国际关注。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-      "publishedAt": "2026-09-01T20:45:49+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "216ae9c47db2acdfced6fcee1b23206ae7d58f2f6cc5c4645b9e48166036dd67",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "summary": "《Fable 5.1》优化模型安全机制，降低token消耗并减少误判限制。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "publishedAt": "2026-09-01T19:39:22+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ccf4277ba3149ce8077705b9dd98ac6cda8afb4fb88363eca6a2bcf601b93a15",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
-      "summary": "Hugging Face遭网络攻击，OpenAI被指涉事；另有说法称系多个人工智能“文明”所为。事件凸显AI安全领域责任界定与术语使用的敏感性。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
-      "publishedAt": "2026-09-01T19:02:54+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f0de50f7409ff4923502662c085d47f519ae2f6cba550950cba18fc48186894c",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Apple accuses OpenAI of destroying evidence",
-      "summary": "苹果指控OpenAI销毁证据，称其迟交涉事员工MacBook，内含“销毁证据”讨论，已向法院申请加速取证。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-      "publishedAt": "2026-09-01T18:19:26+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "df1a79e6de2ec820c6fd8b08e53f98bc570c61e378e81ce14854baab3541ea44",
-      "module": "lol",
-      "seg": "match",
-      "cat": "比赛",
-      "title": "LCK只剩一张2026全球总决赛的门票了！",
-      "summary": "UP主 电竞老司机z · 36,846播放 · 0:44",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117197158488074",
-      "publishedAt": "2026-09-01T18:19:08+00:00",
-      "tags": [
-        "lol",
-        "match",
-        "英雄联盟 LPL LCK 比赛 集锦 复盘"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "电竞老司机z",
-        "play": 36846,
-        "bvid": "BV1jXt563Esf",
-        "duration": "0:44"
-      }
-    },
-    {
-      "id": "4dcd9d59932a6c183a3872c0b94c06dfa7f09d68bc6fcb7086e4e5a6c47a6a47",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation",
-      "summary": "研究通过八类攻击扰动和因果追踪等方法，机制化解析大语言模型（LLM）作为评判者在摘要评估中对可读性与充分性的打分原理。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.01604v1",
-      "publishedAt": "2026-09-01T17:59:49+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "LLM-based evaluators of natural language generation (NLG) quality are widely deployed as scoring tools and as automated training signals, yet the internal procedure by which they assign a rating remains poorly understood. We investigate this procedure mechanistically through an eight-attack perturbation taxonomy across the Readability and Adequacy dimensions of NLG quality, a generation pipeline that produces paired clean and corrupt summaries with controlled error intensity and explicit token-level modification maps, and a four-experiment battery of causal tracing, logit-lens vocabulary projection, and attention-head knockout applied to Themis (Llama-3-8B) and Prometheus (Mistral-7B). Both evaluators implement a structured, coherent evaluation pipeline operating in two stages: below layer 15, attention performs local error comparison and routes the result to the final input position; above it, the MLP cascade integrates the signal and writes the rating, with the decision crystallizing in the residual stream at a sharp late layer (L = 26 on Themis, L = 25 on Prometheus). Furthermore, a base-model control at the same scale (Llama-3-8B) reproduces the routing architecture and crystallization but not the stage separation, isolating the two mechanisms that fine-tuning specifically installs, suppression of below-L15 MLP contribution at the last position and a two-layer advance of the crystallization depth, indicating that fine-tuning sculpts an existing substrate rather than building the pipeline from scratch. We release the source code and data at https://github.com/himil-v/judge-mech"
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Himil Vasava, Ming Jiang",
-        "categories": [
-          "cs.CL",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "0fb4d770f47d5feaab5b73d470bf46af26db3ca08540a99fce26a3c0d32e2c1c",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation",
-      "summary": "提出PTA-IRT框架，融合执行轨迹（过程）与结果信号，提升SWE代理基准评测效率与准确性。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.01603v1",
-      "publishedAt": "2026-09-01T17:59:46+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Evaluating software engineering agents on realistic benchmarks is costly, since each task may require multi-step code exploration, modification, and test execution. Existing efficient evaluation methods select representative subsets to estimate full-benchmark performance, but are largely result-only: they fit historical pass/fail response matrices or static task semantics, discarding how agents solve problems. We propose PTA-IRT, a Privileged Trajectory-Aware Item Response Theory framework that fuses process and outcome signals. Historical execution trajectories supply process-level evidence beyond pass/fail, such as explored context, attempted edits, and solving paths, which PTA-IRT uses as privileged information for calibration subset selection and ability estimation. Under low calibration budgets, PTA-IRT consistently outperforms prior IRT baselines on score and ranking recovery across four SWE benchmarks. Code and data are publicly available at https://github.com/DeepSoftwareAnalytics/PTA-IRT."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Kefeng Duan, Dewu Zheng, Yanlin Wang et al.",
-        "categories": [
-          "cs.SE",
-          "cs.AI",
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "a1c9bc21be598eb491b2feca0f67e7ec7cb88aa773a037432fd3968f9490448b",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation",
-      "summary": "提出自适应关键token感知检索方法，提升仓库级代码生成中对细粒度上下文的精准获取能力。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.01601v1",
-      "publishedAt": "2026-09-01T17:59:39+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "The repository-level code generation task requires synthesizing code that satisfies task requirements while remaining consistent with the target repository context. Since real-world repositories often exceed the input length limits of LLMs, existing approaches commonly adopt retrieval-augmented generation (RAG) to provide repository-specific context. Despite improving repository-context retrieval, existing methods typically provide context as task-level support, without explicitly identifying the critical tokens that require fine-grained repository context during generation. During the autoregressive generation process of LLMs, errors often concentrate at a small number of decisive positions: once such tokens are generated incorrectly, subsequent code may follow an incorrect semantic path and eventually lead to functional failure. We refer to these positions as \"critical tokens\". In this paper, we propose ACToR, an adaptive critical token-aware retrieval framework for repository-level code generation. ACToR identifies critical tokens during generation and triggers targeted retrieval on demand to provide repository context at these decisive positions. In addition, we design a position-aware weighting method for dense retrievers to prioritize context that is more informative for generation. We evaluate ACToR on two representative repository-level benchmarks, RepoExec and CoderEval. Experimental results show that ACToR consistently outperforms state-of-the-art methods, achieving relative improvements of 8.4% on RepoExec and 15.4% on CoderEval. Beyond performance gains, we systematically quantify the impact of critical tokens, revealing their central role in major generation failures and highlighting the necessity of targeted retrieval strategies. We provide the code and data at https://github.com/DeepSoftwareAnalytics/ACToR."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Kefeng Duan, Dewu Zheng, Yanlin Wang et al.",
-        "categories": [
-          "cs.SE",
-          "cs.AI",
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "993166b447206101a6065f10bb6ef3629ea6cdc9c88775aaf0e3461bbe226c1b",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?",
-      "summary": "CordisBench是含1200题的基准测试，评估大模型对动态智能体环境中组件生命周期（依赖、清理、状态变化）的推理能力。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.01600v1",
-      "publishedAt": "2026-09-01T17:59:13+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Dynamic agent harnesses let language models change the software that shapes their own execution. This flexibility brings a new reasoning burden: a local plugin change can propagate through dependencies and cleanup. We introduce CordisBench, a 1,200-question benchmark of this lifecycle reasoning. It combines a controlled formal setting with programs executed against Cordis, a runtime that manages component dependencies and cleanup, and asks models to identify affected components, predict state after a specified teardown order, determine which conditions hold under all or some orders, and choose reconfigurations that succeed when executed. Across these tasks, we evaluate three efficiency-oriented models at low reasoning effort with 2, 4, 8, 16, 24, or 32 relevant interactions, using deterministic task-specific scoring. Models usually handle small systems well but grow less reliable as more interactions become relevant, especially when predicting final state and when reasoning across teardown orders. Additional inference effort recovers marked gains for some models. The cost is nontrivial: on our 16-interaction subset, GPT-5.6 Luna uses nearly 3,000 reasoning tokens per question at medium effort. For these controlled instances, that cost is avoidable: an independent finite reference semantics agrees with Cordis execution on every observation and action outcome used for scoring across all 528 executable questions."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Damien Sileo, Dimitri Kachler",
-        "categories": [
-          "cs.CL",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "2150479c760282b1b3d6ec4e7e85343e14681ea94bb7ccfde9802dc8e3669b8a",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "The Rise of Verbal Reinforcement Learning",
-      "summary": "论文提出“语言强化学习（VRL）”新范式，首次系统阐述自然语言作为可解释反馈通道，按反馈生效时机与作用对象分为三大支柱。（59字）",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.01597v1",
-      "publishedAt": "2026-09-01T17:58:18+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Natural language is emerging as a primary feedback channel for improving language agents, capable of conveying intent, preferences, and causal structure in forms interpretable by both humans and modern language models. We call this paradigm Verbal Reinforcement Learning (VRL) and offer the first unified account of it. We organize the field around a single axis, \\textit{when} verbal feedback takes effect in an agent's lifecycle and \\textit{what} it modifies, yielding three pillars: (1) \\textbf{Language as Grounding Signal}, where language defines the task itself by specifying goals, states, and reward structures; (2) \\textbf{Language as Deliberative Feedback}, where natural language guides reasoning at test time without the need to update model parameters; (3) \\textbf{Language as Learning Signal}, where language-based feedback shapes model parameters through training. Within each pillar, we synthesize representative work, distinguish key subcategories of approaches, and outline the distinct role language plays in shaping agent behavior. Together, this taxonomy shows how verbal reinforcement is reshaping agent development, while also defining the challenges and opportunities for building more capable and aligned agents."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Kshitij Tayal, Arun Sharma, Genta Indra Winata et al.",
-        "categories": [
-          "cs.CL",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "d997c3e47945a18c512a2db4d1c257c8094b9aeded70ac3e58ea2cc3c4ec2bb8",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation",
-      "summary": "Facet-0是新型机器人基础模型，支持亚毫米级精密装配，融合多模态学习与强化学习，通过动作-力矩联合预测实现高鲁棒性接触操作。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.01596v1",
-      "publishedAt": "2026-09-01T17:58:07+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Real-world robotic assembly at sub-millimeter tolerances demands spatial precision, compliant interaction, and robustness to contact failures. We present Facet-0, a robotic foundation model that predicts and values the contact consequences of its actions. Facet-0 unifies multimodal representation learning and reinforcement learning (RL) post-training around a joint action-wrench proposal: a causal wrench history is aligned with vision-language semantics and kinematic state, and flow matching generates each action chunk together with the future wrist-wrench profile it is expected to induce. Deployment rollouts train a distributional Action-Wrench Critic to distinguish motions with similar task progress but different contact outcomes, while phase-aware rewards and contact-selective credit concentrate policy improvement on decisive interactions. To accommodate part-specific dynamics, a lightweight bounded actor reuses the frozen representation for on-robot adaptation; RL remains defined over executable Cartesian actions, while an auxiliary wrench head preserves predictive, non-commanded action-contact coupling. Trained on ManuFacet-1K, a 1,000-hour force-synchronized corpus spanning three embodiments and multiple manufacturing cells, the bounded task-adapted system reaches 82% mean success on five sub-millimeter computer-assembly tasks, compared with 15% for the strongest baseline, with 0.5 mm placement accuracy and 50 ms command latency."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Haoyuan Deng, Haichao Liu, Wenkai Guo et al.",
-        "categories": [
-          "cs.RO",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "901e8a9bcbbee33cd6b29abbf47cd9e4d43125831a849f62a5456b5eccba9176",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Mechanism Design for Alignment and Control",
-      "summary": "本文提出面向AI代理的机制设计框架，解决其偏好与能力未知下的对齐与控制问题，提出单边模仿结构、揭示原理及嵌套循环单调性刻画可实施策略。（59字）",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.01595v1",
-      "publishedAt": "2026-09-01T17:57:50+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "We develop a framework for mechanism design with AI agents whose alignment (preferences) and capabilities (feasible actions and information) are unknown. We want such agents to act on our behalf so mechanisms must incentivize both honesty and obedience. A one-sided imitation structure---capabilities can be concealed but not counterfeited---yields a revelation principle, a characterization of implementable policies via nested cyclical monotonicity, and conditions under which eliciting higher-order beliefs can discipline multiple agents. We apply our framework to stylized examples of (i) sandbagging in which a more capable agent pretends to be less capable; (ii) an alignment--interpretability trade-off, where the two are substitutes in the instrument but complements in value; (iii) discipline via peer scoring; (iv) coupling rewards to induce competition among multiple agents; and (v) scalable oversight and reward shaping."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Dirk Bergemann, Andrew Koh, Stephen Morris",
-        "categories": [
-          "econ.TH",
-          "cs.AI",
-          "cs.GT"
-        ]
-      }
-    },
-    {
-      "id": "7e054ea5b6c5fb99d7ccdde63da9fde5dd32957ef97593036d66c559459a7186",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "StudentSim: Training LLM-based Student Simulators",
-      "summary": "StudentSim：新框架训练LLM学生模拟器，兼顾行为建模与能力匹配，解决AI导师个性化指导数据稀缺难题。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.01591v1",
-      "publishedAt": "2026-09-01T17:55:10+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "AI tutors are most useful when they adapt to each student's strengths, weaknesses, and preferred guidance, but evidence about which guidance works for which student is sparse, slow, and costly to collect from real learners. Student simulators can provide this signal as a proxy, yet existing approaches are limited: state-tracking models fit student behavior but struggle to process explanations or corrections, while LLM role-play follows guidance fluently but does not reliably match the competence of the student being imitated. We present StudentSim, a training framework that turns sparse per-student data into individualized simulators through pooled training followed by per-student specialization. The resulting simulators both mirror a student's own responses and update them under tutor guidance. We also introduce StudentSimEval, a standardized protocol covering 60 students across chess, second-language English writing, and mathematics, using public learner datasets with de-identified records shared for research. StudentSimEval measures behavioral fidelity (F), or how well a simulator matches a student's responses, and guidance responsiveness (R), or how readily it updates under tutor guidance, with all methods fit and evaluated on the same records. Across all three domains, StudentSim outperforms GPT-5.4 on both metrics. In chess, StudentSim reaches F=0.51 and R=0.91, compared with 0.23 and 0.72 for GPT-5.4 and 0.45 and 0.27 for Maia2. As a proof of concept, using StudentSim as a reward model for tutor reinforcement learning produces a chess tutor that expert humans rate as more accurate, better-guided, and more personalized than a no-RL baseline and a tutor trained against a GPT-5.4 simulator reward. Code is available at https://github.com/microsoft/StudentSim."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Ke Yang, Chenglong Wang, Michel Galley et al.",
-        "categories": [
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "19c074f19869b7b0fd4fbbe3d76c8be68e77c1eddeb7d7a07f5c3a7c4645c281",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Designing Proactive Thought Partners for Writing",
-      "summary": "研究提出“主动思维伙伴”AI代理，为写作提供定制化高阶认知支持；通过技术探针在16名用户中开展一周实证，验证其有效性。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.01588v1",
-      "publishedAt": "2026-09-01T17:54:32+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Writing involves diverse cognitive activities, from ideation to revision, and writers' needs vary across individuals and moments. Proactive AI promises to provide the right support at the right time, yet existing proactive tools largely focus on generic textual assistance, such as autocomplete. This paper studies the design space of proactive thought partners: AI agents that proactively offer customizable, higher-level cognitive support during writing. We instantiated this concept in a technology probe and deployed it with 16 participants for one week. The probe allows users to create partners by configuring their roles and proactivity. As users write, relevant partners take the initiative at appropriate moments to offer suggestions. Our findings show that participants configured proactive support through prospective planning, used suggestions for both idea generation and self-monitoring, and valued lightweight visual representations alongside non-directive rhetorical framing for non-intrusive interventions. We derive implications for designing proactive writing assistants around customization, timing, engagement, and representation."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Chao Zhang, Abe Davis, Chih-Wei Chen et al.",
-        "categories": [
-          "cs.HC",
-          "cs.AI",
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "159537c74f795d1b86a139022b12566e3977de8aff74c68cb8555d1fbc500317",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "The Structure of Quantization Damage in LLMs: Why the Next Bit Should Be Spent Globally",
-      "summary": "研究发现LLM量化损伤分布不均，通过因果混合精度干预（逐层升至8位）测试9个开源模型，验证了3种假设均不成立。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.01587v1",
-      "publishedAt": "2026-09-01T17:53:41+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Post-training quantization (PTQ) is widely used to reduce the cost of serving large language models (LLMs), but its accuracy cost is uneven and is often tuned per model. We study where quantization damage occurs and how to allocate a small additional precision budget. Using causal mixed-precision intervention as ground truth (raise each layer to 8-bit in turn and measure the accuracy it recovers) across 9 open-weight models in 4 architecture families, we test 3 intuitive hypotheses: that quantization damage lives in task circuits, where the model computes, or in weight statistics. None of them predicts which layers benefit from restored precision. Recovery is instead diffuse: for 8 of 9 models, recovering 75% of the gap takes roughly half the layers; the lone exception, Qwen3-8B, is sharply concentrated. At a matched precision budget, spending it globally on finer quantization granularity beats locally repairing the most recoverable layers for all 8 group-128-compatible models (all but OpenLLaMA, whose width rules out group-128), by 21-52 points, including the concentrated Qwen3-8B. We report 2 secondary findings: the residual is budget-limited (8-bit is near-lossless in our evaluation across RTN, GPTQ, and AWQ), and the location of peak recovery correlates with architecture within a family, though not across families. Within this budget setting, global granularity is a better default than selectively protecting critical layers. More broadly, cheap signals that correlate with quantization damage do not necessarily identify where restoring precision improves accuracy; this must be tested with causal intervention."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Jundong Hu, Shekar Ramachandran",
-        "categories": [
-          "cs.LG",
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "c56df28b82caab0495c50a51a223734d7a4d7c28c928e953995711ab75709930",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Closing Cost-Quality Gap in Document VLMs: Difficulty-Aware Data Curation and Quality-Adjusted Deployment Economics",
-      "summary": "研究提出难度感知数据筛选与质量调优部署策略，构建35B MoE文档VLM（3B激活），降低合规行业结构化信息提取成本。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.01575v1",
-      "publishedAt": "2026-09-01T17:40:29+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Extracting structured fields from hundreds of millions of documents annually remains costly in regulated industries: bespoke OCR cascades cover only a fraction of workflows, privacy rules preclude external models, and existing open-source VLMs that clear quality thresholds cost more to serve than human annotation. We present a deployed document-understanding system built on a Mixture-of-Experts VLM (35B total, 3B active), fine-tuned on in-house production data mixed with open-domain documents curated by a Difficulty-Aware pipeline for layout diversity, fact-extractability, and cross-model consistency. Fitting on a single H100 and serving heterogeneous workflows via prompting, the model leads all deployable (non-reasoning) baselines up to an order of magnitude larger. A quality-adjusted cost analysis, with confirmation and correction costs calibrated from production telemetry, shows it reduces expected costs by over 80% against the human baseline and by more than 50% against the best competing open-source model, while larger baselines remain economically unviable."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Maksim Evdokimov, Matvey Ivanov, Dmitrii Tsiupin et al.",
-        "categories": [
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "85434e01ebab58db5a5abe738841f7c5950cb4fb40b8f99e410ac6e68e52b0fe",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Scaling Near-Optimal SFT-RL Annotation Budget Allocation from Small to Large LLMs",
-      "summary": "研究提出“近最优”标注预算分配框架，揭示SFT与RL在LLM后训练中的比例规律，验证其跨模型规模的可扩展性。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.01573v1",
-      "publishedAt": "2026-09-01T17:39:55+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "How to divide a fixed annotation budget between supervised fine-tuning (SFT) and reinforcement learning (RL) during LLM post-training remains an open problem. Existing work characterizes only broad trends (e.g., SFT dominates in low-data regimes), lacks a principled allocation framework, and does not examine whether the optimal ratio transfers across model sizes. We frame this problem in terms of near-optimality: rather than seeking a single optimal SFT-RL ratio, we characterize the near-optimal region, the set of allocations within a specified tolerance of peak performance. Empirically, this region is wide even for small tolerances (2-10%), widens with model scale, and transfers reliably from small proxy models to large target models. This yields a practical strategy: small proxy-model experiments suffice to identify a transferable near-optimal region, eliminating the need for exhaustive large-scale search. Our results hold consistently across tasks, model families, and both preference-based off-policy and reward-supervision on-policy RL methods. We further analyze how the asymmetry in annotation costs between SFT and RL data shifts the near-optimal region."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Jingtan Wang, Arun Verma, Xiaoqiang Lin et al.",
-        "categories": [
-          "cs.CL",
-          "cs.AI",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "8c3f1ca93ad7ffc43016c6fc2704e71cfa97345aab2b5c7fa2c3ecaf268bd690",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix",
-      "summary": "企业因数据驻留要求自建LLM，通过补全指令遵循、函数调用、任务分布三方面质量缺口，将200+应用流量收敛至单模型，提升GPU利用率。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.01572v1",
-      "publishedAt": "2026-09-01T17:39:26+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Data-residency constraints force enterprises to self-host LLMs, but continuous adoption of newer models without decommissioning their predecessors expands the serving fleet, fragmenting a finite GPU pool. We consolidate traffic from over 200 internal applications onto a single model by closing quality gaps identified through production error analysis along three axes: instruction following, function-calling, and internal task distribution. Quality is tracked by offline benchmarks stratified to production traffic and scored by deterministic verifiers or calibrated LLM judges. Rather than optimising all objectives jointly, which introduces cross-domain reward interference, we train a separate GRPO expert per axis and merge them via two-stage SLERP. Each expert's reward exposes a distinct failure mode, namely semantic collapse, over-calling, and verbosity hacking, each requiring a domain-specific fix. In non-reasoning mode the recipe surpasses a ${\\sim}7\\times$ larger by total parameters baseline on the in-house Arena with 69.6 to 65.8, instruction following with 0.85 to 0.83, and function-calling with 0.79 to 0.77, while lifting general dialogue benchmarks. The model absorbs 50% of platform traffic, 116M requests per month, at a fraction of the serving cost."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Olga Tsymboi, Dmitrii Stoianov, Ramil Latypov et al.",
-        "categories": [
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "689351b43d69bd5f9298c5b76b89257ce5ccf1161a2ca7e75ca6bffbf8bf29d7",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-      "summary": "谷歌推出Pics进军创意软件市场，主打AI优先策略，挑战Canva和Adobe。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "publishedAt": "2026-09-01T17:35:37+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "1ed9373eb9b3a716140d66484f7a4ddb95df73e4c15e85a443b6a8d3e23e6dd8",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers",
-      "summary": "提出SAGE框架：基于熵选择性调用昂贵VLM教师，仅在模型不确定时查询，实现低成本自主策略学习与知识蒸馏。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.01567v1",
-      "publishedAt": "2026-09-01T17:33:41+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Vision-Language Models (VLMs) provide useful priors for interactive decision-making, but using them directly as policies is expensive and brittle: they must be queried at every step, do not improve from environment interaction, and can repeat systematic errors. We study how to learn a cheap autonomous policy from an online, expensive, and imperfect but informative VLM teacher. We propose SAGE (Selective Agent Guidance via Entropy), a framework that queries a VLM only when the learner is uncertain, executes the suggested action during training, and distills guidance into a lightweight Reinforcement Learning (RL) policy. Because VLM advice is not always reliable, SAGE can weight teacher-action distillation using environment-derived advantages rather than treating all suggestions as equally useful. Across sparse-reward visual reasoning and navigation tasks, SAGE learns policies that act without VLM guidance at evaluation time and improves over unguided RL in several environments, including settings where the learned policy exceeds its VLM teacher. The results show that selective guidance is most beneficial when the VLM can help the agent discover high-reward trajectories, and less useful when unguided exploration already succeeds or teacher actions do not lead to informative experience. SAGE also reduces VLM usage by prompting the teacher only on a fraction of training steps and requiring no VLM calls at deployment. Overall, our results suggest that VLMs don't need to be used as fixed policies to be useful; they can instead act as temporary, imperfect sources of guidance whose value is tested and internalized through interaction."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Matteo Merler, Giovanni Bonetta, Davide Zago et al.",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "a96a15ecf3cfff2d00dd95df5f3f3e3095c87f7245c03585b434d814f736dca4",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "From Confusion to Clarity: Confusion-Aware Retrieval and Knowledge Injection for Text Classification",
-      "summary": "提出混淆感知检索与知识注入框架，解决大标签空间下LLM难以区分语义相似标签的问题，提升文本分类准确率。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.01564v1",
-      "publishedAt": "2026-09-01T17:31:02+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Large language models (LLMs) struggle to classify text into taxonomies with many semantically similar labels, as the distinctions are domain-specific and not captured by pre-training. To handle large label spaces, a common approach retrieves top-$K$ candidate labels by embedding similarity and prompt the LLM to choose among them. However, top-$K$ retrieval reduces the number of candidates but does not help the model tell similar ones apart. When two similar labels both appear as candidates, the model lacks the signal to choose correctly between them. We propose a framework that (1) identifies which label pairs the model struggles to distinguish, (2) expands the candidate set to include confusable labels, and (3) generates targeted rules to differentiate between similar candidates. The framework requires no fine-tuning, and the generated rules transfer to smaller, cheaper models. On three benchmarks (WOS, Flipkart, LEDGAR), our approach improves Macro F1 by up to 10.0pp over retrieval baselines, with smaller models (2B--20B) gaining up to 11.5pp via cross-model transfer."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Manish Gupta, Chaitanya Giri, Jayasimha Talur",
-        "categories": [
-          "cs.CL",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "a1d5839b6cf4aaab6e8b7910176b42d33e277f1e51ac6d253d13b59ad2685928",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-      "summary": "OpenAI宣布其集成方案为临床医生提供患者健康记录的只读访问权限。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "publishedAt": "2026-09-01T17:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ff0ade8b8025a91d9f4795d9d3ca5ad2c95906c2b0de0eaad9ae495aa14c4859",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-      "summary": "该初创公司希望像Cursor革新软件工程那样，重塑IT基础设施领域。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-      "publishedAt": "2026-09-01T16:31:04+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c108d6847b999d3ecac22514549a5cc5aaacbd2160cb7bb78628ab31779964ee",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "John Deere launched an AI chatbot for farmers",
-      "summary": "约翰迪尔测试AI助手“JD”，基于农户田间、机械及运营数据，提供设备设置、油耗、收获时机等建议，助其增效增收。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
-      "publishedAt": "2026-09-01T16:00:52+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "7d2886f52cc473784611b1a00ec0ea4c10f148f178801665287326e33bc43166",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Google Pics is like Canva, but with even more AI",
-      "summary": "谷歌推出Workspace新工具Google Pics，基于Gemini与Nano Banana模型，助力企业轻松生成和编辑专业级AI图像。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-      "publishedAt": "2026-09-01T16:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a8c2b93a332e408c76bc89015e70a91ed7c0ffebdec3e7e176dabf7caee66a0f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-      "summary": "亚马逊推出Alexa新功能“Update Me When”，可个性化推送新品发布、演出、图书等购物相关提醒。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-      "publishedAt": "2026-09-01T15:51:55+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
   ],
+  "daily": {
+    "ai": {
+      "insight": "AI安全与信任危机集中爆发，数据泄露、模型越狱、版权诉讼频发",
+      "headline": {
+        "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+        "summary": "Meta推出个人AI助手Muse，需访问用户邮件、日历、支付及健康等数据，成为其最大消费级AI押注，亦是对用户数据信任度的重大考验。",
+        "source": "TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
+      },
+      "sections": [
+        {
+          "name": "最新科技",
+          "items": [
+            {
+              "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+              "summary": "DeepMind推出AlphaGenome Atlas，首张全基因组DNA变异预测图谱，覆盖所有可能的碱基变化，有望加速生物学研究与疾病新疗法开发。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas"
+            },
+            {
+              "title": "Update to Google’s AI weather model improves forecast accuracy",
+              "summary": "该模型借鉴传统天气预报，通过扩充输入数据集提升预测精度。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/"
+            }
+          ]
+        },
+        {
+          "name": "行业动态",
+          "items": [
+            {
+              "title": "Hackers are stealing Claude tokens from subscribers",
+              "summary": "上月，Claude用户发现账户异常耗token，Anthropic确认遭黑客攻击并发出安全警告。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/"
+            },
+            {
+              "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+              "summary": "Cognition公司估值倍数高于Cursor被SpaceX收购前的水平。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
+            },
+            {
+              "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+              "summary": "谷歌云携手埃森哲，加码企业AI布局，派驻前线工程师加速AI落地，突破部署瓶颈。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/"
+            },
+            {
+              "title": "Mistral raises €3B as sovereign AI becomes big business",
+              "summary": "法国AI实验室完成3亿欧元D轮融资，估值21亿欧元，由三星、Scaleup Europe和PSG Equity领投。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
+            }
+          ]
+        },
+        {
+          "name": "知识前沿",
+          "items": [
+            {
+              "title": "Opaque recurrence, and other AI terms that you should probably know",
+              "summary": "AI热潮催生大量新术语。本文提供关键AI词汇与俚语的简明释义 glossary。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+            },
+            {
+              "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+              "summary": "3700名内部员工发布1.8万条讨论考试作弊的消息。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
+            }
+          ]
+        },
+        {
+          "name": "应用落地",
+          "items": [
+            {
+              "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+              "summary": "OpenAI推出ChatGPT Images 2.5，新增“Sketch”涂鸦功能：用户可在对话中手绘草图，再输入文字描述，生成定制图像。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch"
+            },
+            {
+              "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+              "summary": "Adobe升级Premiere，推出“生成式媒体”工具，支持在时间轴内直接生成视频、音效、音乐等，大幅提升AI创作效率。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere"
+            }
+          ]
+        }
+      ]
+    }
+  },
   "football": {
     "fixtures": [
       {
@@ -15390,17 +15464,17 @@
       {
         "t": "00:45",
         "lg": "欧冠",
-        "h": "Club Brugge",
-        "a": "Aston Villa",
+        "h": "Stuttgart",
+        "a": "Viking",
         "s": null,
-        "itemId": "fb-2594644",
-        "url": "https://www.thesportsdb.com/event/2594644",
+        "itemId": "fb-2594578",
+        "url": "https://www.thesportsdb.com/event/2594578",
         "extra": {
           "round": "1",
           "season": "2026-2027",
-          "venue": "Jan Breydel Stadium",
-          "date": "2026-09-08",
-          "country": "Belgium",
+          "venue": "MHP Arena",
+          "date": "2026-09-09",
+          "country": "Germany",
           "status": "NS"
         }
       }
@@ -15494,17 +15568,17 @@
       {
         "t": "03:00",
         "lg": "欧冠",
-        "h": "Viking",
-        "a": "Dinamo Zagreb",
-        "s": "3-1",
-        "itemId": "fb-2570484",
-        "url": "https://www.thesportsdb.com/event/2570484",
+        "h": "Real Madrid",
+        "a": "Inter Milan",
+        "s": "2-1",
+        "itemId": "fb-2594629",
+        "url": "https://www.thesportsdb.com/event/2594629",
         "extra": {
-          "round": "0",
+          "round": "1",
           "season": "2026-2027",
-          "venue": "Viking Stadion",
-          "date": "2026-08-26",
-          "country": "Norway",
+          "venue": "Estadio Santiago Bernabéu",
+          "date": "2026-09-08",
+          "country": "Spain",
           "status": "FT"
         }
       }
