@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-09T05:46:56.079129+00:00",
+  "generated_at": "2026-09-09T06:51:07.415689+00:00",
   "date": "2026-09-09",
   "keep_days": 7,
-  "count": 651,
+  "count": 652,
   "items": [
     {
-      "id": "99cda5ac140cbd4613fbd636086c91961ab5ba6a2d74171250c9f6d4b18575d1",
+      "id": "b12f6da411f69368c1aafc71a23e9b6babf114d2911f87c382acc5177b9c7383",
       "module": "ai",
       "seg": null,
       "cat": "模型/技术",
-      "title": "Qwen3.8-27B-abliterated-i1-GGUF：model 模型更新",
-      "summary": "HuggingFace 上模型 mradermacher/Qwen3.8-27B-abliterated-i1-GGUF 下载量达4362次，获1个点赞。",
+      "title": "Qwen3.8-27B-abliterated-GGUF：model 模型更新",
+      "summary": "HuggingFace 上模型 mradermacher/Qwen3.8-27B-abliterated-GGUF 下载量1795次，获0点赞。",
       "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/mradermacher/Qwen3.8-27B-abliterated-i1-GGUF",
-      "publishedAt": "2026-09-09T05:45:02+00:00",
+      "sourceUrl": "https://huggingface.co/mradermacher/Qwen3.8-27B-abliterated-GGUF",
+      "publishedAt": "2026-09-09T06:49:36+00:00",
       "tags": [
         "huggingface",
         "model",
@@ -23,8 +23,8 @@
       "points": [],
       "live": false,
       "extra": {
-        "downloads": 4362,
-        "likes": 1
+        "downloads": 1795,
+        "likes": 0
       }
     },
     {
@@ -36,7 +36,7 @@
       "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489482",
-      "publishedAt": "2026-09-09T05:44:49.450175+00:00",
+      "publishedAt": "2026-09-09T06:49:27.984466+00:00",
       "tags": [
         "法甲",
         "战报"
@@ -75,7 +75,7 @@
       "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=2Xiy_RSXw5A",
-      "publishedAt": "2026-09-09T05:44:49.450167+00:00",
+      "publishedAt": "2026-09-09T06:49:27.984459+00:00",
       "tags": [
         "意甲",
         "战报"
@@ -114,7 +114,7 @@
       "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508346",
-      "publishedAt": "2026-09-09T05:44:49.450159+00:00",
+      "publishedAt": "2026-09-09T06:49:27.984453+00:00",
       "tags": [
         "德甲",
         "战报"
@@ -153,7 +153,7 @@
       "summary": "西甲 · 战报 · 03:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=CGwY-AJRZOc",
-      "publishedAt": "2026-09-09T05:44:49.450151+00:00",
+      "publishedAt": "2026-09-09T06:49:27.984446+00:00",
       "tags": [
         "西甲",
         "战报"
@@ -192,7 +192,7 @@
       "summary": "英超 · 战报 · 23:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=af99CJ4f_yc",
-      "publishedAt": "2026-09-09T05:44:49.450141+00:00",
+      "publishedAt": "2026-09-09T06:49:27.984437+00:00",
       "tags": [
         "英超",
         "战报"
@@ -231,7 +231,7 @@
       "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2594578",
-      "publishedAt": "2026-09-09T05:44:49.450111+00:00",
+      "publishedAt": "2026-09-09T06:49:27.984412+00:00",
       "tags": [
         "欧冠",
         "赛程"
@@ -257,7 +257,7 @@
       "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489490",
-      "publishedAt": "2026-09-09T05:44:49.450107+00:00",
+      "publishedAt": "2026-09-09T06:49:27.984408+00:00",
       "tags": [
         "法甲",
         "赛程"
@@ -283,7 +283,7 @@
       "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2482175",
-      "publishedAt": "2026-09-09T05:44:49.450102+00:00",
+      "publishedAt": "2026-09-09T06:49:27.984405+00:00",
       "tags": [
         "意甲",
         "赛程"
@@ -309,7 +309,7 @@
       "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508357",
-      "publishedAt": "2026-09-09T05:44:49.450096+00:00",
+      "publishedAt": "2026-09-09T06:49:27.984401+00:00",
       "tags": [
         "德甲",
         "赛程"
@@ -335,7 +335,7 @@
       "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2506211",
-      "publishedAt": "2026-09-09T05:44:49.450089+00:00",
+      "publishedAt": "2026-09-09T06:49:27.984396+00:00",
       "tags": [
         "西甲",
         "赛程"
@@ -361,7 +361,7 @@
       "summary": "英超 · 赛程 · 22:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2494031",
-      "publishedAt": "2026-09-09T05:44:49.450052+00:00",
+      "publishedAt": "2026-09-09T06:49:27.984360+00:00",
       "tags": [
         "英超",
         "赛程"
@@ -376,6 +376,52 @@
         "date": "2026-09-12",
         "country": "England",
         "status": "NS"
+      }
+    },
+    {
+      "id": "854cab5fc7ff365d27dcfd2074d19bbccf724abfe12b6eaefc78016bb6a30421",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "ISOM-Falcon-40B：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 Prannesshkva/ISOM-Falcon-40B 下载量达 2184 次，获 2 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Prannesshkva/ISOM-Falcon-40B",
+      "publishedAt": "2026-09-09T06:43:06+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 2184,
+        "likes": 2
+      }
+    },
+    {
+      "id": "99cda5ac140cbd4613fbd636086c91961ab5ba6a2d74171250c9f6d4b18575d1",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3.8-27B-abliterated-i1-GGUF：model 模型更新",
+      "summary": "HuggingFace 上模型 mradermacher/Qwen3.8-27B-abliterated-i1-GGUF 下载量达4362次，获1个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mradermacher/Qwen3.8-27B-abliterated-i1-GGUF",
+      "publishedAt": "2026-09-09T05:45:02+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 4362,
+        "likes": 1
       }
     },
     {
@@ -425,6 +471,44 @@
       }
     },
     {
+      "id": "02bd43d0cbdeb9ec50ed0c38c2f10abcb05f31407cbcc35647931b0c22a6faf7",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+      "summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/486288.html",
+      "publishedAt": "2026-09-09T05:02:30+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "1b6852186bac5e8d9e3696ab0f592b31064a4c5880b04bd33c83bdecf3d5ce47",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
+      "summary": "从Demo到货架，这两家公司要让具身智能算得过账",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/486280.html",
+      "publishedAt": "2026-09-09T04:52:12+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
       "id": "3590ca6a62c8242a55943c1c14caea3f3d5ac0eedd0fb725996ee0721aa24d12",
       "module": "ai",
       "seg": null,
@@ -461,6 +545,31 @@
       "points": [],
       "live": false,
       "extra": {}
+    },
+    {
+      "id": "9ae1919855f97af9695d81b7faa56f0fea8dfad35023d5925e5b89f9e7b4bcb6",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "海斗对面4个远程，直接掏出法爆石头人成为脆皮梦魇！",
+      "summary": "UP主 南瓜door · 1,377播放 · 2:43",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117235947474157",
+      "publishedAt": "2026-09-09T02:00:00+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 黑科技 上分"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "南瓜door",
+        "play": 1377,
+        "bvid": "BV1DaYJ6ZEcM",
+        "duration": "2:43"
+      }
     },
     {
       "id": "35ce7549798e0f1b1f1654f73372ea2217fc9b9fcb51dc09c29cb9c7354a90f1",
@@ -15198,92 +15307,11 @@
         "bvid": "BV1Tctn63ERB",
         "duration": "24:59"
       }
-    },
-    {
-      "id": "d83760b15e65a2f9886b68bdaf80c23f50ea9de8df05da131d78da575c361313",
-      "module": "ai",
-      "seg": null,
-      "cat": "厂商动态·阿里通义千问",
-      "title": "阿里通义千问 发布/更新 Qwen-Drive-1.0-4B（image-text-to-text）",
-      "summary": "阿里通义千问发布新模型Qwen/Qwen-Drive-1.0-4B，Hugging Face平台上线，获47次下载、16个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Qwen/Qwen-Drive-1.0-4B",
-      "publishedAt": "2026-09-02T06:31:52+00:00",
-      "tags": [
-        "huggingface",
-        "vendor",
-        "Qwen"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 47,
-        "likes": 16,
-        "vendor": "阿里通义千问"
-      }
-    },
-    {
-      "id": "f971e0661763222c649556a7dfe3d070872cf6558b000ef088470fb7f8d2cad5",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
-      "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/483104.html",
-      "publishedAt": "2026-09-02T06:20:17+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "08be41bd2b2b9558a63d0061d06d7026273ee28b9852c60a59ddb51b502f1b83",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
-      "summary": "",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/483101.html",
-      "publishedAt": "2026-09-02T06:10:26+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "6767236236cd12593d6c7673481768673e83b6e4788c275e416e5168bf914a67",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
-      "summary": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/483097.html",
-      "publishedAt": "2026-09-02T06:06:50+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI安全与信任危机集中爆发，数据泄露、模型越狱、版权诉讼频发",
+      "insight": "AI安全与信任危机集中爆发，数据泄露、模型滥用、法律诉讼多线并发",
       "headline": {
         "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
         "summary": "Meta推出个人AI助手Muse，需访问用户邮件、日历、支付及健康等数据，成为其最大消费级AI押注，亦是对用户数据信任度的重大考验。",
@@ -15347,10 +15375,10 @@
               "sourceUrl": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
             },
             {
-              "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-              "summary": "3700名内部员工发布1.8万条讨论考试作弊的消息。",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
+              "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+              "summary": "纳维-斯托克斯方程存在性与光滑性问题设百万美元奖金，属克雷数学研究所七大千禧年难题之一。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/"
             }
           ]
         },
@@ -15365,7 +15393,7 @@
             },
             {
               "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
-              "summary": "Adobe升级Premiere，推出“生成式媒体”工具，支持在时间轴内直接生成视频、音效、音乐等，大幅提升AI创作效率。",
+              "summary": "Adobe Premiere 推出新“生成式媒体”工具，支持在时间轴内直接生成视频、音效、音乐等，大幅提升AI创作效率。",
               "source": "The Verge",
               "sourceUrl": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere"
             }
