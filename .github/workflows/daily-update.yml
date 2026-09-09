@@ -1,8 +1,11 @@
-﻿# ============================================================
-# 每日前线 - 每日定时采集（方案 A · 静态 JSON）
+# ============================================================
+# 每日前线 - 每日定时采集 + 自动部署（方案 A · 静态 JSON）
 # 时区：北京时间 09:00 与 20:00 = UTC 01:00 与 12:00
 # 跑完把 data/today.json + data/archive.json commit 回仓库，
-# 前端（GitHub Pages）即可直接 fetch 到最新数据。无需数据库、无需 Docker。
+# 并在同一个 workflow 内直接部署到 GitHub Pages。
+# 关键：部署放在 collect job 之后的「同 workflow 内部 job」，
+# 不依赖「push 触发另一个 workflow」，因此不受 GITHUB_TOKEN
+# 连锁触发限制（那是之前站点不自动更新的根因）。
 # ============================================================
 name: Daily Update
 
@@ -26,9 +29,11 @@ on:
       - "backend/**"
       - ".github/workflows/daily-update.yml"
 
-# 需要写回仓库的权限（用于 commit 数据）
+# 需要：写回仓库（commit 数据）+ 部署 Pages
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: daily-update
@@ -113,3 +118,31 @@ jobs:
             echo "✅ 已推送最新数据"
           fi
 
+  deploy:
+    name: 部署到 GitHub Pages
+    # 关键：needs 依赖 collect，collect 已把最新数据 push 回 main。
+    # 同一个 workflow 内的 job 依赖，不受「GITHUB_TOKEN 推送不触发新 workflow」限制。
+    needs: collect
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 拉代码（强制最新 main，含 collect 刚 push 的数据）
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: 配置 Pages
+        uses: actions/configure-pages@v5
+
+      - name: 上传站点产物
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # 根目录含 index.html / data/ / .nojekyll
+          path: "."
+
+      - name: 部署
+        id: deployment
+        uses: actions/deploy-pages@v4
