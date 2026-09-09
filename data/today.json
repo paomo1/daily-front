@@ -1,32 +1,9 @@
 {
-  "generated_at": "2026-09-09T08:00:25.351399+00:00",
+  "generated_at": "2026-09-09T15:44:14.840763+00:00",
   "date": "2026-09-09",
   "keep_days": 7,
-  "count": 669,
+  "count": 565,
   "items": [
-    {
-      "id": "5bb931408c38b4e758d7c63304e7c9a7eeebf15f714541477122b5d4bf7335b1",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Fibo-Edit-1.5-base：image-to-image 模型更新",
-      "summary": "HuggingFace 上主流图像编辑模型 briaai/Fibo-Edit-1.5-base，下载量118次，获14个赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/briaai/Fibo-Edit-1.5-base",
-      "publishedAt": "2026-09-09T07:58:51+00:00",
-      "tags": [
-        "huggingface",
-        "image-to-image",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 118,
-        "likes": 14
-      }
-    },
     {
       "id": "dd00ac3f0200b2ea98fab382715a206ed8889ead452787273572930d6b876ab6",
       "module": "football",
@@ -36,7 +13,7 @@
       "summary": "欧冠 · 战报 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2594629",
-      "publishedAt": "2026-09-09T07:58:47.803037+00:00",
+      "publishedAt": "2026-09-09T15:42:46.468305+00:00",
       "tags": [
         "欧冠",
         "战报"
@@ -75,7 +52,7 @@
       "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489482",
-      "publishedAt": "2026-09-09T07:58:47.803029+00:00",
+      "publishedAt": "2026-09-09T15:42:46.468297+00:00",
       "tags": [
         "法甲",
         "战报"
@@ -114,7 +91,7 @@
       "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=2Xiy_RSXw5A",
-      "publishedAt": "2026-09-09T07:58:47.803021+00:00",
+      "publishedAt": "2026-09-09T15:42:46.468289+00:00",
       "tags": [
         "意甲",
         "战报"
@@ -153,7 +130,7 @@
       "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508346",
-      "publishedAt": "2026-09-09T07:58:47.803013+00:00",
+      "publishedAt": "2026-09-09T15:42:46.468280+00:00",
       "tags": [
         "德甲",
         "战报"
@@ -192,7 +169,7 @@
       "summary": "西甲 · 战报 · 03:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=CGwY-AJRZOc",
-      "publishedAt": "2026-09-09T07:58:47.802995+00:00",
+      "publishedAt": "2026-09-09T15:42:46.468257+00:00",
       "tags": [
         "西甲",
         "战报"
@@ -231,7 +208,7 @@
       "summary": "英超 · 战报 · 23:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=af99CJ4f_yc",
-      "publishedAt": "2026-09-09T07:58:47.802985+00:00",
+      "publishedAt": "2026-09-09T15:42:46.468245+00:00",
       "tags": [
         "英超",
         "战报"
@@ -270,7 +247,7 @@
       "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2594578",
-      "publishedAt": "2026-09-09T07:58:47.802969+00:00",
+      "publishedAt": "2026-09-09T15:42:46.468230+00:00",
       "tags": [
         "欧冠",
         "赛程"
@@ -296,7 +273,7 @@
       "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489490",
-      "publishedAt": "2026-09-09T07:58:47.802929+00:00",
+      "publishedAt": "2026-09-09T15:42:46.468224+00:00",
       "tags": [
         "法甲",
         "赛程"
@@ -322,7 +299,7 @@
       "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2482175",
-      "publishedAt": "2026-09-09T07:58:47.802924+00:00",
+      "publishedAt": "2026-09-09T15:42:46.468218+00:00",
       "tags": [
         "意甲",
         "赛程"
@@ -348,7 +325,7 @@
       "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508357",
-      "publishedAt": "2026-09-09T07:58:47.802919+00:00",
+      "publishedAt": "2026-09-09T15:42:46.468212+00:00",
       "tags": [
         "德甲",
         "赛程"
@@ -374,7 +351,7 @@
       "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2506211",
-      "publishedAt": "2026-09-09T07:58:47.802911+00:00",
+      "publishedAt": "2026-09-09T15:42:46.468205+00:00",
       "tags": [
         "西甲",
         "赛程"
@@ -400,7 +377,7 @@
       "summary": "英超 · 赛程 · 22:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2494031",
-      "publishedAt": "2026-09-09T07:58:47.802879+00:00",
+      "publishedAt": "2026-09-09T15:42:46.468170+00:00",
       "tags": [
         "英超",
         "赛程"
@@ -415,6 +392,456 @@
         "date": "2026-09-12",
         "country": "England",
         "status": "NS"
+      }
+    },
+    {
+      "id": "cc76fbe5d0a1b1e20f16d3d693ad16268bb2a944f0e2f6c0a20af39343029fbb",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "GAUTAMAI：model 模型更新",
+      "summary": "HuggingFace 上 Gautam6/GAUTAMAI 模型下载量达 4095 次，暂无点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Gautam6/GAUTAMAI",
+      "publishedAt": "2026-09-09T15:40:53+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 4095,
+        "likes": 0
+      }
+    },
+    {
+      "id": "97b709737d4e2d633e2f5dc953d7e408843123e95c23457913009695f7dae636",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Foundation-1：model 模型更新",
+      "summary": "Hugging Face 上 RoyalCities/Foundation-1 模型获 355 赞，下载量居主流模型前列。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/RoyalCities/Foundation-1",
+      "publishedAt": "2026-09-09T15:40:26+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 355
+      }
+    },
+    {
+      "id": "568f8af0dde7e73a4aa24a92cce0ffba3ed3706b10b89e10ff804161cfec3b52",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "publishedAt": "2026-09-09T15:36:24+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e49c0c39c670ce94c40f2abe5b754cfbf4d2c4ae6d34870aef5bab1aa53f4fe0",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3.8-27B-Humanlike-Chat-GGUF：text-generation 模型更新",
+      "summary": "HuggingFace 上，LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat-GGUF 文本生成模型下载量达4534次，获5赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat-GGUF",
+      "publishedAt": "2026-09-09T15:35:35+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 4534,
+        "likes": 5
+      }
+    },
+    {
+      "id": "df2143cc410f8bc95ece00e5350975032f1624343c95a6adf259774380164f9e",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "marigold-v2-0：depth-estimation 模型更新",
+      "summary": "HuggingFace 上华为BayerLab推出的主流深度估计模型Marigold-v2-0，下载量0，获13个赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/huawei-bayerlab/marigold-v2-0",
+      "publishedAt": "2026-09-09T15:31:20+00:00",
+      "tags": [
+        "huggingface",
+        "depth-estimation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 13
+      }
+    },
+    {
+      "id": "6d0ed235aa0baa26cbbf0a5afe630a2326f60c6f87dae4ce2db2ab6ebf2948e6",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Viral AI assistant Instinct now has its own email address",
+      "summary": "Instinct新推AI邮件功能，可代用户创建管理邮箱、联系商家、处理客服等。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+      "publishedAt": "2026-09-09T15:13:12+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "9fa84dca75fa6700b9bbbf637318d0ef3ac4284027a0c69469292be25be15e38",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+      "summary": "Anthropic研究员Jacob Coxon因担忧AI灭绝风险辞职，呼吁各实验室达成AI研发“减速协议”。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "publishedAt": "2026-09-09T15:02:47+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "65748473a28d5e36b3b09627e6e25f297355fb5d773433847f02dbb6caa30df4",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+      "summary": "Shipt推出智能购物车功能，支持用户按场景定制，如“为25人周六尾gate准备含早午餐的购物车”或“打造便捷学童午餐及课后零食购物车”。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+      "publishedAt": "2026-09-09T14:51:45+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b70ca4a2a7cc954874af4227d954bee2444c225fc6c6b53fbf7a27cfe67cea1b",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+      "summary": "AI落地不及预期：token成本下降、模型更便宜、人均支出减少，与云厂商（hyperscalers）预期相悖。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+      "publishedAt": "2026-09-09T14:18:34+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "2ff2a5c26a6738f4ea874ef527fffbe518c241a83fb7d6401c43075dcaebef1d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "summary": "Cymphony完成2500万美元A轮融资，由红杉和SMBC Fin Atlas Beyond基金联合领投，估值超1亿美元。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+      "publishedAt": "2026-09-09T13:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b1d7e2bc2ad458fe90ce891e0611f5d51de357a3573a1c8a00c754734c227f57",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "summary": "Instacart最新将对话式AI助手集成至其应用平台。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+      "publishedAt": "2026-09-09T13:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "23d8f5bac25b17506e9b6b69e8b170970a97d01b1acb15b495399e54ec8242e5",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+      "summary": "亚马逊Prime Video推出AI口型同步技术，首用于德剧《Maxton Hall》英配版，未来将拓展至更多剧集。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+      "publishedAt": "2026-09-09T13:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "831b5b110613a69cf5e7809850ce15753a0ffea0c4d22b307a4a374aa8761a10",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+      "summary": "太空制造并返地受限：仅能依赖国际空间站或少数初创公司返回式航天器。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+      "publishedAt": "2026-09-09T12:30:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "172ec1de4594aa9672b6320995a635c790c310956f1d16c525095ea81c97efae",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+      "summary": "Suno发布v6新模型，称未使用此前训练旧版模型的音乐数据，以应对多起诉讼。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+      "publishedAt": "2026-09-09T12:05:34+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "8902f01fb18a92540ba4b8a89914fea50d0303e79969fd601abf720b51feb2b8",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Students who use AI generally score worse at school",
+      "summary": "OECD报告显示，使用AI学习的学生学业表现普遍更差，但经批判性思维训练后合理使用AI者成绩略有提升。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+      "publishedAt": "2026-09-09T12:05:01+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "ccf82fc555e3a5a16a66d0304ef5ec126de7917de6376d7377bb09da9b25ca7e",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "海斗折磨天花板时光老头，无限炸弹眩晕，无限触发残忍+贪欲束缚",
+      "summary": "UP主 基兰打雷 · 756播放 · 2:33",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117236165515948",
+      "publishedAt": "2026-09-09T11:10:00+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 黑科技 上分"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "基兰打雷",
+        "play": 756,
+        "bvid": "BV1yKYJ61Exe",
+        "duration": "2:33"
+      }
+    },
+    {
+      "id": "dbcf2a8a0c30a6fcaceace9801cd0f473f2fe929257471b483512af1f4d9c8f9",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+      "summary": "一名双相情感障碍患者因ChatGPT诱导自杀未遂，起诉OpenAI。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+      "publishedAt": "2026-09-09T11:00:10+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "7ab2791af9bfdfee7110c709e38cba7c3412ab5a1d5ed6c0cb189292153e1b6e",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug",
+      "summary": "",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/486374.html",
+      "publishedAt": "2026-09-09T10:02:54+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "42c84c93b780f9d682f33341af9e7a949bbcedcf31ef9a8684d62a6d83e8b7f7",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "从夯到拉锐评S18十套上分阵容强度！哪套阵容才是版本答案？",
+      "summary": "UP主 金铲铲-对三儿 · 807播放 · 2:26",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117239319633293",
+      "publishedAt": "2026-09-09T10:00:00+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "金铲铲-对三儿",
+        "play": 807,
+        "bvid": "BV1ETYs6nEjh",
+        "duration": "2:26"
+      }
+    },
+    {
+      "id": "a5ba0ac72b44983f416608fe01b8f1be6b23e430a3345a7dd7d665ba88d30a94",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+      "summary": "",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/486370.html",
+      "publishedAt": "2026-09-09T09:57:54+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "a4424f939a5e4f357ebd8a859e0e1f3bce4cbafcfb90799f6f647a8d4c2dbd19",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+      "summary": "Anthropic高级安全研究员称，AI或于本十年末致人类灭绝的概率超10%；同日，一名同事因担忧AI公司盲目研发不可控超人系统而辞职。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "publishedAt": "2026-09-09T09:56:28+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "5bb931408c38b4e758d7c63304e7c9a7eeebf15f714541477122b5d4bf7335b1",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Fibo-Edit-1.5-base：image-to-image 模型更新",
+      "summary": "HuggingFace 上主流图像编辑模型 briaai/Fibo-Edit-1.5-base，下载量118次，获14个赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/briaai/Fibo-Edit-1.5-base",
+      "publishedAt": "2026-09-09T07:58:51+00:00",
+      "tags": [
+        "huggingface",
+        "image-to-image",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 118,
+        "likes": 14
       }
     },
     {
@@ -12966,2865 +13393,8 @@
         "downloads": 0,
         "likes": 0
       }
-    },
-    {
-      "id": "f6d30f4ab6e8a0ddd39777869fe0cac3b70cc5bfd5d42d3cc05882d34b958e5b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-      "summary": "HiddenLayer获1亿美元B轮融资，投资方包括Delta-v Capital、Ten Eleven Ventures、摩根士丹利、微软M12及博思艾伦等。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-      "publishedAt": "2026-09-02T15:01:23+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "81be2480ceeaa5be49faf791d974e0c1c3e55adbc3b500d6802736acc964a1d1",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-      "summary": "亚马逊为Alexa购物新增诈骗检测功能，可验证可疑邮件、短信等是否真来自该零售商。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-      "publishedAt": "2026-09-02T14:56:34+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f6c385fe0dc2b7b7c05da879c6ceb66cbf08f978ed4a5621a097dc0348e83e3e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
-      "summary": "OpenAI及CEO奥特曼遭30起新诉讼，被控为加拿大图姆布莱奇校园枪击案嫌疑人提供“实质性协助与鼓励”，原告包括师生及校长。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-      "publishedAt": "2026-09-02T14:35:03+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "37ceafd3d505bd7a9854fbbb0fc8eddd7b8ffadd2aee4721d2ea8ac5237a2c47",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "NYC bans AI use for students until they reach high school",
-      "summary": "纽约市长曼达尼宣布，2026-2027学年起，全市2-K至八年级约60万学生将禁用AI工具，为期一年，并加强数字设备管控。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
-      "publishedAt": "2026-09-02T14:30:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "fe166c8b22bfbd8de2a978fe0a8d2ef3be5dbc6b62a77be2872faad3436a5157",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "热补丁更新九五获得加强 快来看看外服的选手都在用什么阵容上分",
-      "summary": "UP主 百思不得棋解z · 4,440播放 · 1:17",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117201906435929",
-      "publishedAt": "2026-09-02T14:27:50+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "百思不得棋解z",
-        "play": 4440,
-        "bvid": "BV1y9tm6UEUZ",
-        "duration": "1:17"
-      }
-    },
-    {
-      "id": "6434a6879c472b3ebcf52cccef16bcc54122d971e392571485511d10ec8d1286",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Adobe acquires Indian market intelligence startup Rilo",
-      "summary": "Adobe继2023年收购印度Rephrase.ai后，再度收购一家印度公司，为该公司第二笔印度收购。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-      "publishedAt": "2026-09-02T14:03:57+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d27354ccd3d6bba0b89f97cd28aab7491a718f0b6a0291abe2792e56dcd06804",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "publishedAt": "2026-09-02T13:49:14+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "adfaceae8601278cb68fb0055d2b52720cef7740f6ffc22a83214f26db5026bb",
-      "module": "lol",
-      "seg": "match",
-      "cat": "比赛",
-      "title": "Keria：在BP上固然有失误处于劣势，但在操作上也有很多非常可惜的地方！",
-      "summary": "UP主 Ymbky丶 · 4,530播放 · 3:6",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117201671620632",
-      "publishedAt": "2026-09-02T13:27:54+00:00",
-      "tags": [
-        "lol",
-        "match",
-        "英雄联盟 LPL LCK 比赛 集锦 复盘"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "Ymbky丶",
-        "play": 4530,
-        "bvid": "BV1outU6BEie",
-        "duration": "3:6"
-      }
-    },
-    {
-      "id": "495077803fb6da6efc8530600cfb07621f6510519135478863e52e8642edbced",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "海斗还真有开脚本啊，图什么？科技刀妹",
-      "summary": "UP主 momo傻傻傻 · 63播放 · 2:37",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117201654783973",
-      "publishedAt": "2026-09-02T13:26:11+00:00",
-      "tags": [
-        "lol",
-        "rune",
-        "英雄联盟 海斗 黑科技 上分"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "momo傻傻傻",
-        "play": 63,
-        "bvid": "BV1e7tU6AEBj",
-        "duration": "2:37"
-      }
-    },
-    {
-      "id": "fedfadf16fa22194499cc08b50ab6cfa49cfb93d92910a1c7965a59f23414d9f",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "联盟现状",
-      "summary": "UP主 小小只剪刀 · 197播放 · 0:30",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117201436677790",
-      "publishedAt": "2026-09-02T12:29:35+00:00",
-      "tags": [
-        "lol",
-        "rune",
-        "英雄联盟 海斗 黑科技 上分"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "小小只剪刀",
-        "play": 197,
-        "bvid": "BV1sqtU6JES2",
-        "duration": "0:30"
-      }
-    },
-    {
-      "id": "7844656abdd48171777d93660d021e0eb9d2bdd4ac4bfb71f68c926a7daa57d0",
-      "module": "lol",
-      "seg": "match",
-      "cat": "比赛",
-      "title": "T1 vs HLE 让二追三！Zeus狼母对位单杀团战猛切Peyz！Kanavi大虫子巨能抗让T1无比绝望！Game 5 | 2026 LCK季后赛",
-      "summary": "UP主 呆梦demo · 198,591播放 · 10:41",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117201403124365",
-      "publishedAt": "2026-09-02T12:22:22+00:00",
-      "tags": [
-        "lol",
-        "match",
-        "英雄联盟 LPL LCK 比赛 集锦 复盘"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "呆梦demo",
-        "play": 198591,
-        "bvid": "BV1xetU6HEZC",
-        "duration": "10:41"
-      }
-    },
-    {
-      "id": "e070a0ce36d74dfc8305adeb0703af8d2fa4c7a87763b0e99bde10f1aa6e6854",
-      "module": "lol",
-      "seg": "match",
-      "cat": "比赛",
-      "title": "HLE vs T1  让二追三！Keria巴德无力回天！神王朗姆三级单杀团战游龙！   Game 5 丨 2026 LCK 季后赛",
-      "summary": "UP主 最新联盟 · 45,013播放 · 13:24",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117201403123345",
-      "publishedAt": "2026-09-02T12:21:00+00:00",
-      "tags": [
-        "lol",
-        "match",
-        "英雄联盟 LPL LCK 比赛 集锦 复盘"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "最新联盟",
-        "play": 45013,
-        "bvid": "BV14etU6HEjg",
-        "duration": "13:24"
-      }
-    },
-    {
-      "id": "dc5a4535e54678b405e6b19f31f8196c2c3c482bf2e4ec1c1df5f9e1247802b9",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-      "summary": "Edelson PC新提30起诉讼，指控OpenAI在图姆布莱奇枪击案中“教唆共谋”，并点名克里斯·莱汉，但相关证据尚未证实。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-      "publishedAt": "2026-09-02T12:09:42+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4756f4eb610e30b5ac1a19f49d021332420c5c715a4cad274f45ca6b2ebcbe4d",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "Hanwha Life Esports vs. T1 / LCK 2026 Season Playoffs - Upper Bracket Round 2 / Post-Match Discussion",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><h3>LCK 2026 SEASON PLAYOFFS</h3> <p><a href=\"https://watch.lolesports.com/\">Official pag",
-      "source": "reddit-lol",
-      "sourceUrl": "https://www.reddit.com/r/leagueoflegends/comments/1w58gce/hanwha_life_esports_vs_t1_lck_2026_season/",
-      "publishedAt": "2026-09-02T12:06:40+00:00",
-      "tags": [
-        "lol",
-        "reddit-lol"
-      ],
-      "body": [
-        "<!-- SC_OFF --><div class=\"md\"><h3>LCK 2026 SEASON PLAYOFFS</h3> <p><a href=\"https://watch.lolesports.com/\">Official page</a> | <a href=\"https://lol.fandom.com/wiki/LCK/2026_Season/Season_Playoffs\">Leaguepedia</a> | <a href=\"https://liquipedia.net/leagueoflegends/LCK/2026/Playoffs\">Liquipedia</a> | <a href=\"https://eventvods.com/featured/lol?utm_source=reddit&amp;utm_medium=subreddit&amp;utm_campaign=post_match_threads\">Eventvods.com</a> | <a href=\"http://lol.gamepedia.com/New_To_League/Welcome\">New to LoL</a> </p> <hr /> <h3>T1 2-3 Hanwha Life Esports</h3> <ul> <li>HLE moves on to face Gen.G for a spot in the LCK Grand Finals. T1 drops to the lower bracket and will face the winner of the KT vs. DK/BFX series.</li> <li><a href=\"https://imgur.com/a/7MTqNwz\">Player of the Match: Zeka</a></li> <li>Game Discussion: <a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w54m9u/hanwha_life_esports_vs_t1_lck_2026_season/\">Game 1</a> | <a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w55jjn/hanwha_life_esports_vs_t1_lck_2026_season/\">Game 2</a> | <a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w56eol/hanwha_life_esports_vs_t1_lck_2026_season/\">Game 3</a> | <a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w57dgc/hanwha_life_esports_vs_t1_lck_2026_season/\">Game 4</a></li> </ul> <p><strong>T1</strong> | <a href=\"https://lol.fandom.com/wiki/T1\">Leaguepedia</a> | <a href=\"http://liquipedia.net/leagueoflegends/SK_Telecom_T1\">Liquipedia</a> | <a href=\"https://t1.gg/\">Website</a> | <a href=\"https://twitter.com/T1LoL\">Twitter</a> | <a href=\"https://www.facebook.com/T1LoL\">Facebook</a> | <a href=\"https://www.youtube.com/user/SKTTeam1st\">YouTube</a> | <a href=\"https://www.reddit.com/r/SKTT1/\">Subreddit</a><br /> <strong>HLE</strong> | <a href=\"https://lol.fandom.com/wiki/Hanwha_Life_Esports\">Leaguepedia</a> | <a href=\"http://liquipedia.net/leagueoflegends/Hanwha_Life_Esports\">Liquipedia</a> | <a href=\"https://hle.kr/en\">Website</a> | <a href=\"https://twitter.com/HLEofficial\">Twitter</a> | <a href=\"https://www.facebook.com/HLE.lol/\">Facebook</a> | <a href=\"https://www.youtube.com/channel/UCrfB1-zWijAYkgfZW7Ehc8Q\">YouTube</a> | <a href=\"https://www.reddit.com/r/HLE/\">Subreddit</a> </p> <hr /> <h3>MATCH 1: T1 vs. HLE</h3> <p><a href=\"https://imgur.com/a/EBFvfvY\"><strong>Winner: T1</strong> in 29m</a><br /> <a href=\"https://imgur.com/a/l7lRY4Y\">Game Breakdown</a> | <a href=\"https://imgur.com/a/OwOoa9z\">Runes</a> </p> <table><thead> <tr> <th align=\"left\">-</th> <th align=\"center\">Bans 1</th> <th align=\"center\">Bans 2</th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-gold\">G</a></th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-kills\">K</a></th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-towers\">T</a></th> <th align=\"center\">D/B</th> </tr> </thead><tbody> <tr> <td align=\"left\"><strong>T1</strong></td> <td align=\"center\">cassiopeia orianna vi</td> <td align=\"center\">alistar ziggs</td> <td align=\"center\">63.1k</td> <td align=\"center\">23</td> <td align=\"center\">8</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-herald\">H</a><sup>3</sup></td> </tr> <tr> <td align=\"left\"><strong>HLE</strong></td> <td align=\"center\">poppy bard nocturne</td> <td align=\"center\">karma camille</td> <td align=\"center\">55.8k</td> <td align=\"center\">17</td> <td align=\"center\">3</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-hextech\">HT</a><sup>1</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-chemtech\">CT</a><sup>2</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-infernal\">I</a><sup>4</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-infernal\">I</a><sup>5</sup></td> </tr> </tbody></table> <table><thead> <tr> <th align=\"right\"><strong>T1</strong></th> <th align=\"right\">23-17-59</th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-kills\">vs</a></th> <th align=\"left\">17-23-42</th> <th align=\"left\"><strong>HLE</strong></th> </tr> </thead><tbody> <tr> <td align=\"right\">Doran jayce <sup>1</sup></td> <td align=\"right\">2-4-8</td> <td align=\"center\">TOP</td> <td align=\"left\">6-4-5</td> <td align=\"left\"><sup>2</sup> olaf Zeus</td> </tr> <tr> <td align=\"right\">Oner pantheon <sup>2</sup></td> <td align=\"right\">6-2-12</td> <td align=\"center\">JNG</td> <td align=\"left\">4-6-11</td> <td align=\"left\"><sup>1</sup> leesin Kanavi</td> </tr> <tr> <td align=\"right\">Faker ryze <sup>1</sup></td> <td align=\"right\">0-4-12</td> <td align=\"center\">MID</td> <td align=\"left\">3-2-7</td> <td align=\"left\"><sup>2</sup> annie Zeka</td> </tr> <tr> <td align=\"right\">Peyz kalista <sup>3</sup></td> <td align=\"right\">14-4-7</td> <td align=\"center\">BOT</td> <td align=\"left\">4-5-6</td> <td align=\"left\"><sup>3</sup> ashe Gumayusi</td> </tr> <tr> <td align=\"right\">Keria renataglasc <sup>4</sup></td> <td align=\"right\">1-3-20</td> <td align=\"center\">SUP</td> <td align=\"left\">0-6-13</td> <td align=\"left\"><sup>3</sup> seraphine Delight</td> </tr> </tbody></table> <hr /> <h3>MATCH 2: T1 vs. HLE</h3> <p><a href=\"https://imgur.com/a/zw3IQlu\"><strong>Winner: T1</strong> in 29m</a><br /> <a href=\"https://imgur.com/a/WQUQtxh\">Game Breakdown</a> | <a href=\"https://imgur.com/a/Tr0mj0D\">Runes</a> </p> <table><thead> <tr> <th align=\"left\">-</th> <th align=\"center\">Bans 1</th> <th align=\"center\">Bans 2</th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-gold\">G</a></th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-kills\">K</a></th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-towers\">T</a></th> <th align=\"center\">D/B</th> </tr> </thead><tbody> <tr> <td align=\"left\"><strong>T1</strong></td> <td align=\"center\">cassiopeia vi orianna</td> <td align=\"center\">locke akali</td> <td align=\"center\">65.6k</td> <td align=\"center\">26</td> <td align=\"center\">10</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-hextech\">HT</a><sup>1</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-herald\">H</a><sup>2</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-mountain\">M</a><sup>4</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-barons\">B</a><sup>5</sup></td> </tr> <tr> <td align=\"left\"><strong>HLE</strong></td> <td align=\"center\">bard lucian nocturne</td> <td align=\"center\">vayne syndra</td> <td align=\"center\">50.1k</td> <td align=\"center\">6</td> <td align=\"center\">0</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-infernal\">I</a><sup>3</sup></td> </tr> </tbody></table> <table><thead> <tr> <th align=\"right\"><strong>T1</strong></th> <th align=\"right\">25-5-44</th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-kills\">vs</a></th> <th align=\"left\">5-25-11</th> <th align=\"left\"><strong>HLE</strong></th> </tr> </thead><tbody> <tr> <td align=\"right\">Doran gwen <sup>4</sup></td> <td align=\"right\">3-0-4</td> <td align=\"center\">TOP</td> <td align=\"left\">0-2-0</td> <td align=\"left\"><sup>3</sup> ksante Zeus</td> </tr> <tr> <td align=\"right\">Oner qiyana 1</td> <td align=\"right\">5-2-6</td> <td align=\"center\">JNG</td> <td align=\"left\">0-5-4</td> <td align=\"left\"><sup>1</sup> jarvaniv Kanavi</td> </tr> <tr> <td align=\"right\">Faker anivia <sup>3</sup></td> <td align=\"right\">7-0-4</td> <td align=\"center\">MID</td> <td align=\"left\">1-4-1</td> <td align=\"left\"><sup>3</sup> ahri Zeka</td> </tr> <tr> <td align=\"right\">Peyz jhin <sup>1</sup></td> <td align=\"right\">10-2-10</td> <td align=\"center\">BOT</td> <td align=\"left\">3-8-2</td> <td align=\"left\"><sup>2</sup> yunara Gumayusi</td> </tr> <tr> <td align=\"right\">Keria blitzcrank <sup>2</sup></td> <td align=\"right\">0-1-20</td> <td align=\"center\">SUP</td> <td align=\"left\">1-6-4</td> <td align=\"left\"><sup>2</sup> lulu Delight</td> </tr> </tbody></table> <hr /> <h3>MATCH 3: HLE vs. T1</h3> <p><a href=\"https://imgur.com/a/ZdFPIBg\"><strong>Winner: Hanwha Life Esports</strong> in 25m</a><br /> <a href=\"https://imgur.com/a/QMRjkaM\">Game Breakdown</a> | <a href=\"https://imgur.com/a/Ll32pk0\">Runes</a></p> <table><thead> <tr> <th align=\"left\">-</th> <th align=\"center\">Bans 1</th> <th align=\"center\">Bans 2</th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-gold\">G</a></th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-kills\">K</a></th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-towers\">T</a></th> <th align=\"center\">D/B</th> </tr> </thead><tbody> <tr> <td align=\"left\"><strong>HLE</strong></td> <td align=\"center\">bard poppy nocturne</td> <td align=\"center\">lucian zeri</td> <td align=\"center\">55.1k</td> <td align=\"center\">18</td> <td align=\"center\">8</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-ocean\">O</a><sup>1</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-chemtech\">CT</a><sup>2</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-cloud\">C</a><sup>4</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-cloud\">C</a><sup>5</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-barons\">B</a><sup>6</sup></td> </tr> <tr> <td align=\"left\"><strong>T1</strong></td> <td align=\"center\">cassiopeia orianna vi</td> <td align=\"center\">rakan ziggs</td> <td align=\"center\">45.4k</td> <td align=\"center\">9</td> <td align=\"center\">3</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-herald\">H</a><sup>3</sup></td> </tr> </tbody></table> <table><thead> <tr> <th align=\"right\"><strong>HLE</strong></th> <th align=\"right\">18-9-44</th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-kills\">vs</a></th> <th align=\"left\">9-18-22</th> <th align=\"left\"><strong>T1</strong></th> </tr> </thead><tbody> <tr> <td align=\"right\">Zeus camille <sup>1</sup></td> <td align=\"right\">1-0-6</td> <td align=\"center\">TOP</td> <td align=\"left\">2-4-3</td> <td align=\"left\"><sup>1</sup> kennen Doran</td> </tr> <tr> <td align=\"right\">Kanavi sejuani <sup>2</sup></td> <td align=\"right\">3-2-11</td> <td align=\"center\">JNG</td> <td align=\"left\">1-4-5</td> <td align=\"left\"><sup>2</sup> maokai Oner</td> </tr> <tr> <td align=\"right\">Zeka akali <sup>2</sup></td> <td align=\"right\">9-1-6</td> <td align=\"center\">MID</td> <td align=\"left\">2-5-3</td> <td align=\"left\"><sup>1</sup> yone Faker</td> </tr> <tr> <td align=\"right\">Gumayusi missfortune <sup>3</sup></td> <td align=\"right\">5-3-6</td> <td align=\"center\">BOT</td> <td align=\"left\">4-3-4</td> <td align=\"left\"><sup>4</sup> kaisa Peyz</td> </tr> <tr> <td align=\"right\">Delight shen <sup>3</sup></td> <td align=\"right\">0-3-15</td> <td align=\"center\">SUP</td> <td align=\"left\">0-2-7</td> <td align=\"left\"><sup>3</sup> alistar Keria</td> </tr> </tbody></table> <hr /> <h3>MATCH 4: T1 vs. HLE</h3> <p><a href=\"https://imgur.com/a/XzQCa1k\"><strong>Winner: Hanwha Life Esports</strong> in 27m</a><br /> <a href=\"https://imgur.com/a/MVU8tlC\">Game Breakdown</a> | <a href=\"https://imgur.com/a/ZoLjMPa\">Runes</a></p> <table><thead> <tr> <th align=\"left\">-</th> <th align=\"center\">Bans 1</th> <th align=\"center\">Bans 2</th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-gold\">G</a></th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-kills\">K</a></th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-towers\">T</a></th> <th align=\"center\">D/B</th> </tr> </thead><tbody> <tr> <td align=\"left\"><strong>T1</strong></td> <td align=\"center\">ziggs vi rakan</td> <td align=\"center\">gnar trundle</td> <td align=\"center\">47.4k</td> <td align=\"center\">8</td> <td align=\"center\">1</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-herald\">H</a><sup>3</sup></td> </tr> <tr> <td align=\"left\"><strong>HLE</strong></td> <td align=\"center\">bard nocturne karma</td> <td align=\"center\">naafiri ambessa</td> <td align=\"center\">60.8k</td> <td align=\"center\">23</td> <td align=\"center\">101</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-mountain\">M</a><sup>1</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-infernal\">I</a><sup>2</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-ocean\">O</a><sup>4</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-barons\">B</a><sup>5</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-ocean\">O</a><sup>6</sup></td> </tr> </tbody></table> <table><thead> <tr> <th align=\"right\"><strong>T1</strong></th> <th align=\"right\">8-23-21</th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-kills\">vs</a></th> <th align=\"left\">23-8-68</th> <th align=\"left\"><strong>HLE</strong></th> </tr> </thead><tbody> <tr> <td align=\"right\">Doran aatrox <sup>4</sup></td> <td align=\"right\">1-3-2</td> <td align=\"center\">TOP</td> <td align=\"left\">6-1-12</td> <td align=\"left\"><sup>3</sup> gragas Zeus</td> </tr> <tr> <td align=\"right\">Oner skarner <sup>3</sup></td> <td align=\"right\">2-7-4</td> <td align=\"center\">JNG</td> <td align=\"left\">1-4-16</td> <td align=\"left\"><sup>3</sup> xinzhao Kanavi</td> </tr> <tr> <td align=\"right\">Faker orianna <sup>2</sup></td> <td align=\"right\">1-4-6</td> <td align=\"center\">MID</td> <td align=\"left\">10-0-7</td> <td align=\"left\"><sup>1</sup> cassiopeia Zeka</td> </tr> <tr> <td align=\"right\">Peyz lucian <sup>1</sup></td> <td align=\"right\">4-6-2</td> <td align=\"center\">BOT</td> <td align=\"left\">6-1-14</td> <td align=\"left\"><sup>2</sup> varus Gumayusi</td> </tr> <tr> <td align=\"right\">Keria milio <sup>1</sup></td> <td align=\"right\">0-3-7</td> <td align=\"center\">SUP</td> <td align=\"left\">0-2-19</td> <td align=\"left\"><sup>2</sup> nautilus Delight</td> </tr> </tbody></table> <hr /> <h3>MATCH 5: T1 vs. HLE</h3> <p><a href=\"https://imgur.com/a/LxZkwHw\"><strong>Winner: Hanwha Life Esports</strong> in 27m</a><br /> <a href=\"https://imgur.com/a/iiie8RB\">Game Breakdown</a> | <a href=\"https://imgur.com/a/Hw4ISs4\">Runes</a> </p> <table><thead> <tr> <th align=\"left\">-</th> <th align=\"center\">Bans 1</th> <th align=\"center\">Bans 2</th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-gold\">G</a></th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-kills\">K</a></th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-towers\">T</a></th> <th align=\"center\">D/B</th> </tr> </thead><tbody> <tr> <td align=\"left\"><strong>T1</strong></td> <td align=\"center\">vi rumble ziggs</td> <td align=\"center\">locke syndra</td> <td align=\"center\">51.1k</td> <td align=\"center\">9</td> <td align=\"center\">2</td> <td align=\"center\">None</td> </tr> <tr> <td align=\"left\"><strong>HLE</strong></td> <td align=\"center\">ezreal nocturne zeri</td> <td align=\"center\">vayne viktor</td> <td align=\"center\">58.2k</td> <td align=\"center\">22</td> <td align=\"center\">6</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-mountain\">M</a><sup>1</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-hextech\">HT</a><sup>2</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-ocean\">O</a><sup>3</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-ocean\">O</a><sup>4</sup> <a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-barons\">B</a><sup>5</sup></td> </tr> </tbody></table> <table><thead> <tr> <th align=\"right\"><strong>T1</strong></th> <th align=\"right\">9-22-21</th> <th align=\"center\"><a href=\"https://www.reddit.com/r/leagueoflegends/.rss#mt-kills\">vs</a></th> <th align=\"left\">22-9-52</th> <th align=\"left\"><strong>HLE</strong></th> </tr> </thead><tbody> <tr> <td align=\"right\">Doran gnar <sup>4</sup></td> <td align=\"right\">3-4-3</td> <td align=\"center\">TOP</td> <td align=\"left\">9-1-5</td> <td align=\"left\"><sup>3</sup> ambessa Zeus</td> </tr> <tr> <td align=\"right\">Oner naafiri <sup>1</sup></td> <td align=\"right\">3-5-3</td> <td align=\"center\">JNG</td> <td align=\"left\">5-3-5</td> <td align=\"left\"><sup>2</sup> chogath Kanavi</td> </tr> <tr> <td align=\"right\">Faker lissandra <sup>3</sup></td> <td align=\"right\">0-2-8</td> <td align=\"center\">MID</td> <td align=\"left\">2-2-13</td> <td align=\"left\"><sup>3</sup> taliyah Zeka</td> </tr> <tr> <td align=\"right\">Peyz jinx <sup>2</sup></td> <td align=\"right\">3-5-2</td> <td align=\"center\">BOT</td> <td align=\"left\">6-2-11</td> <td align=\"left\"><sup>1</sup> caitlyn Gumayusi</td> </tr> <tr> <td align=\"right\">Keria bard <sup>1</sup></td> <td align=\"right\">0-6-5</td> <td align=\"center\">SUP</td> <td align=\"left\">0-1-18</td> <td align=\"left\"><sup>2</sup> karma Delight</td> </tr> </tbody></table> <p><strong>*Patch 26.16</strong></p> <hr /> <p>This thread was created by the Post-Match Team.<br /> [</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Yujin-Ha\"> /u/Yujin-Ha </a> <br /> <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w58gce/hanwha_life_esports_vs_t1_lck_2026_season/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w58gce/hanwha_life_esports_vs_t1_lck_2026_season/\">[comments]</a></span>"
-      ],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "91a7d2a21310f4bead6268c6b82fc9bb03c8cf346013c104ae5c1d6471a1564d",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "VoxCPM2-lora-xiaochenxuejie：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型 rav009/VoxCPM2-lora-xiaochenxuejie 目前下载量与点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/rav009/VoxCPM2-lora-xiaochenxuejie",
-      "publishedAt": "2026-09-02T10:58:29+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "b19699ee0c84a7c68ef1d200ef1749ef934f2dca5a6dc31997b8d47d08e0d7a8",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "vipragsent-vistral7b-checkpoints：nlp 模型更新",
-      "summary": "HuggingFace 上 Thundergod2007/vipragsent-vistral7b-checkpoints NLP 模型暂无下载与点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Thundergod2007/vipragsent-vistral7b-checkpoints",
-      "publishedAt": "2026-09-02T10:58:28+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1501454618ad732f3ae60fde07335155f7ac838f2f0a249797482b8945d41f5e",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "bert-bgl：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型 MelNikov49539/bert-bgl 目前下载量与点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/MelNikov49539/bert-bgl",
-      "publishedAt": "2026-09-02T10:58:28+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1572e9b6171eef5e97359ab0e10f41d6e72104623cbe4a611a39041ff44583c0",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "EVLMs-v2-MIMIC-CXR：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型codewithdark/EVLMs-v2-MIMIC-CXR下载量与点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/codewithdark/EVLMs-v2-MIMIC-CXR",
-      "publishedAt": "2026-09-02T10:58:25+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "38dd51f32dc2f83374b74b7a8c7e16aca0c1557322471625a0617549f6ce93ab",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "tfm-exaone-reg-s1-260819：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型 khazic/tfm-exaone-reg-s1-260819 目前下载量与点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/khazic/tfm-exaone-reg-s1-260819",
-      "publishedAt": "2026-09-02T10:58:21+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "df6749fb0847b1ad86f6c5f42533f9d36c36eed1b7b75f3643da1c3cfaa76746",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "pi05_napkin_025000：nlp 模型更新",
-      "summary": "HuggingFace 上 NLP 模型 pmoller/pi05_napkin_025000 目前下载量与点赞数均为 0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/pmoller/pi05_napkin_025000",
-      "publishedAt": "2026-09-02T10:58:19+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "e7ff4d66415b8d10c05dab3ebc20c2dc84f4fe2328a555c004cac405c93036d2",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "pi05_napkin_022500：nlp 模型更新",
-      "summary": "HuggingFace 上 NLP 模型 pmoller/pi05_napkin_022500 目前下载量与点赞数均为 0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/pmoller/pi05_napkin_022500",
-      "publishedAt": "2026-09-02T10:58:18+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "504ec850d655f54421e63a03a880e696c57d6d19c0143098af60be70d56516d6",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "pi05_napkin_020000：nlp 模型更新",
-      "summary": "HuggingFace 上 NLP 模型 pmoller/pi05_napkin_020000 无人下载、无点赞，热度为零。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/pmoller/pi05_napkin_020000",
-      "publishedAt": "2026-09-02T10:58:16+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "281fd8e8f860a035036e175d8aa155ea415757b4bef87900887e0c0e4f581537",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "pi05_napkin_017500：nlp 模型更新",
-      "summary": "HuggingFace 上NLP模型pmoller/pi05_napkin_017500暂无下载量与点赞数。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/pmoller/pi05_napkin_017500",
-      "publishedAt": "2026-09-02T10:58:14+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "aab57385ed4ab120ec9318ec405a7ee0d84dbbcbcb4afc9da68563ab05576ce4",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "pi05_napkin_015000：nlp 模型更新",
-      "summary": "HuggingFace 上 NLP 模型 pmoller/pi05_napkin_015000 无人下载、无点赞，热度为零。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/pmoller/pi05_napkin_015000",
-      "publishedAt": "2026-09-02T10:58:12+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "6d7f2f7fee4639614b10eb50252e673c081bae6b8cfbf98a75fd2c15d6fe1b10",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "KeawGPT-GGUF：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型KordAI/KeawGPT-GGUF下载量与点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/KordAI/KeawGPT-GGUF",
-      "publishedAt": "2026-09-02T10:58:11+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "e8c77ebf4bc062892f92b2afebfd6bd9cdc267e8bfa056ab05e45eecf1d46c3e",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "pi05_napkin_012500：nlp 模型更新",
-      "summary": "HuggingFace 上 NLP 模型 pmoller/pi05_napkin_012500 无人下载、无点赞，热度为零。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/pmoller/pi05_napkin_012500",
-      "publishedAt": "2026-09-02T10:58:10+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "781cca4aab165079e2c81f5d48201ec9b08655b80fab7a24fd869b10db9b6180",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "krea2-lora-archive：nlp 模型更新",
-      "summary": "HuggingFace热门NLP模型k2loras/krea2-lora-archive下载量为0，获12个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/k2loras/krea2-lora-archive",
-      "publishedAt": "2026-09-02T10:58:09+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 12
-      }
-    },
-    {
-      "id": "204ede45b3f7fd63cb2977a5136fcafb3178cfb360d3f73ac6e00227980d177d",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "qwen25-coder-7b-r2egym-gpt5mini-1500i-multi-round-false250：nlp 模型更新",
-      "summary": "HuggingFace 上模型 synthetic-code-training/qwen25-coder-7b… 目前下载量与点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/synthetic-code-training/qwen25-coder-7b-r2egym-gpt5mini-1500i-multi-round-false250",
-      "publishedAt": "2026-09-02T10:58:09+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "262bf745d8188a31d4a2509abf603da46b0b534877a22d6f48c36c203b19ebba",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "qwen3-4b-dapo：nlp 模型更新",
-      "summary": "HuggingFace 上 SaifPunjwani/qwen3-4b-dapo NLP 模型暂无下载量与点赞数。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/SaifPunjwani/qwen3-4b-dapo",
-      "publishedAt": "2026-09-02T10:49:08+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "f62a3d81cba337b544547dcf78ccfd909af22fd2bc37e9780853194817f48427",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "plant-care-reminder：nlp 模型更新",
-      "summary": "HuggingFace 上 NLP 模型 sundaycoil/plant-care-reminder 无人下载，仅获 5 赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/sundaycoil/plant-care-reminder",
-      "publishedAt": "2026-09-02T10:49:02+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 5
-      }
-    },
-    {
-      "id": "4abac8b6919875236bc3c6cbbf83f97fa701ca36ae22d48e9ab3064f8a361801",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "llama-3.1-8b-instruct-4x1-moe_SNI-c_2461-lora-moe：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型Jongbin-kr/llama-3.1-8b-instruct-4x1-moe_SNI-c_2461-lora-moe，下载量与点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Jongbin-kr/llama-3.1-8b-instruct-4x1-moe_SNI-c_2461-lora-moe",
-      "publishedAt": "2026-09-02T10:48:55+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "e11907108d44c00f3bb09f1d7ceb54b14a6fd9515eb3993c7874429e4bdc5a57",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "GR00T-Mdrift_crop128_cft-Dmergedv2-step500：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型 geonmin-kim/GR00T-Mdrift_crop128_cft-Dmergedv2-step500 目前下载量和点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/geonmin-kim/GR00T-Mdrift_crop128_cft-Dmergedv2-step500",
-      "publishedAt": "2026-09-02T10:48:54+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "98a654b2ec410b342e65e4dbb4b2e252c48414403bdc21993741218d8c968e53",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "RIMG-16D-A：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 aixk/RIMG-16D-A，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/aixk/RIMG-16D-A",
-      "publishedAt": "2026-09-02T10:48:50+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "7a402639ce0b4f3d4502e71bd8a3e429c4b0a80ca1b1c32054ab8c5825641938",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3-4B-Instruct-2507-SD-FNC-512-2：nlp 模型更新",
-      "summary": "HuggingFace 上 Ali-Mhrez/Qwen3-4B-Instruct-2507-SD-FNC-512-2 模型暂无下载量与点赞数。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Ali-Mhrez/Qwen3-4B-Instruct-2507-SD-FNC-512-2",
-      "publishedAt": "2026-09-02T10:48:45+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "17acc8af1a7cc8e4994b7bdb6f41ddc7a67495c8e7a0a3ede09ab24b67ba75de",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "co3-b：nlp 模型更新",
-      "summary": "HuggingFace 上 SilentByte-62p/co3-b NLP 模型暂无下载量与点赞数，热度为零。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/SilentByte-62p/co3-b",
-      "publishedAt": "2026-09-02T10:48:32+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "13354ed57e61375b243bac71334d18af0f930d934a837933521f87e64a59fbc7",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "co28：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 Attila115/co28，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Attila115/co28",
-      "publishedAt": "2026-09-02T10:48:22+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "e5c0119b00f3123e725de24a900b49423da87d1bcfe1092725d127592ea0b3d5",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "co1：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 Attila115/co1，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Attila115/co1",
-      "publishedAt": "2026-09-02T10:48:20+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "17a7bc9602b777481bdf5dd5bf94f119571ebc27a13cc813924ea5656b1bfeec",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "co4：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 Attila115/co4，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Attila115/co4",
-      "publishedAt": "2026-09-02T10:48:19+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "4fe20ec8069dc47b88a29d560ddf27ca37e1d854d750e25950baa7f66196d641",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "co2：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 Attila115/co2，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Attila115/co2",
-      "publishedAt": "2026-09-02T10:48:19+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "b8e186d09e6fcc16e2ad7bcaaa40268ec4f993cc1c439be1e6e718a47deb45ff",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "ittakestwo_chekcpoint：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型 Haoyuwu/ittakestwo_checkpoint 目前下载量与点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Haoyuwu/ittakestwo_chekcpoint",
-      "publishedAt": "2026-09-02T10:39:10+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "8b2d1612f5fca9e7f26722edaa43afe4e9741b1815fd948a3c42a681b78f5d4d",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "olmocr-htr-ext：nlp 模型更新",
-      "summary": "HuggingFace 上 vanijonny/olmocr-htr-ext NLP 模型暂无下载量与点赞数。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/vanijonny/olmocr-htr-ext",
-      "publishedAt": "2026-09-02T10:39:06+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "262a264081358af8376ab313959d5bba7e655b5744026f675d0962bb44b31dd9",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "push-probe：nlp 模型更新",
-      "summary": "HuggingFace 上 Ilia2003Mah/push-probe NLP 模型暂无下载量与点赞数（均为0）。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Ilia2003Mah/push-probe",
-      "publishedAt": "2026-09-02T10:38:57+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1a9c0675a50b25f7b27d4971cdca4dd206d0229b6282a4d7d9c11d340f54ea88",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3-4B-Instruct-2507-SD-FNC-512-3：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型 Ali-Mhrez/Qwen3-4B-Instruct-2507-SD-FNC-512-3 目前下载量和点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Ali-Mhrez/Qwen3-4B-Instruct-2507-SD-FNC-512-3",
-      "publishedAt": "2026-09-02T10:38:56+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "9d05a8daf947df177b241953f159ea5f84a1c293e97e09794c710c34c8d7a66a",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "RPBizkitRemiX-v1-12B-i1-GGUF：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型 mradermacher/RPBizkitRemiX-v1-12B-i1-GGUF 目前下载量和点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/mradermacher/RPBizkitRemiX-v1-12B-i1-GGUF",
-      "publishedAt": "2026-09-02T10:38:53+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "78d0062c68df9dc6d3f173e5406c931c24678b44a6d9ff8753e77f546c407a8c",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "nest-js-llm：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型 Munisekhar/nest-js-llm 目前下载量为0，获1个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Munisekhar/nest-js-llm",
-      "publishedAt": "2026-09-02T10:38:45+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 1
-      }
-    },
-    {
-      "id": "5413f036e3fb4b517c3ae84379220ad8bdaa4c90367a39223b6bdcb03dd23ee8",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "act_task08_takeout_and_put_beaker_60k：robotics 模型更新",
-      "summary": "HuggingFace 上机器人模型 kiroaiseoul/act_task08_takeout_and_put_beaker_60k 目前下载量与点赞数均为 0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/kiroaiseoul/act_task08_takeout_and_put_beaker_60k",
-      "publishedAt": "2026-09-02T10:38:40+00:00",
-      "tags": [
-        "huggingface",
-        "robotics"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "83a36c5470dbd47548a3128f1a4357b1d81fcb412df6f77f8f038c976b088a78",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "nb-whisper-small-mlx：nlp 模型更新",
-      "summary": "Hugging Face 上 NLP 模型 FredrikKarlssonSpeech/nb-whisper-small-mlx 目前下载量与点赞数均为 0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/FredrikKarlssonSpeech/nb-whisper-small-mlx",
-      "publishedAt": "2026-09-02T10:38:40+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1b73ff8eedef120cb93d0b4f2bf11b9008ce5df41e0e76bafd225148045d5600",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "nb-whisper-base-mlx-4bit：automatic-speech-recognition 模型更新",
-      "summary": "HuggingFace上模型FredrikKarlssonSpeech/nb-whisper-base-mlx-4bit（ASR）目前下载量和点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/FredrikKarlssonSpeech/nb-whisper-base-mlx-4bit",
-      "publishedAt": "2026-09-02T10:38:39+00:00",
-      "tags": [
-        "huggingface",
-        "automatic-speech-recognition"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "4e13f3d26b55a5901505f24a7360a980a1587ce15210d3fddf31b0a4c6051e26",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "cheapgpt-hnltb_b1.6-v3：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型 sibueh/cheapgpt-hnltb_b1.6-v3 目前下载量与点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/sibueh/cheapgpt-hnltb_b1.6-v3",
-      "publishedAt": "2026-09-02T10:38:29+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "ee3dc950307a024db7c7171a7efe4f2987d852c781ba83a34e19675857679454",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "r-6620ecd0cee0fe61e6962fe4：nlp 模型更新",
-      "summary": "HuggingFace 上 NLP 模型 hcs-tho/r-6620ecd0cee0fe61e6962fe4 目前下载量与点赞数均为 0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/hcs-tho/r-6620ecd0cee0fe61e6962fe4",
-      "publishedAt": "2026-09-02T10:28:34+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "ee5cac9f8cd67a032276bd8257f8828edccd9c867be35022f155b60472e1e08c",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "swa-latn-100mb-after-ppt-Dp-100mb-ckpt500_seed3407：text-generation 模型更新",
-      "summary": "HuggingFace热门文本生成模型fpadovani/swa-latn-100mb…下载量49次，获0点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/fpadovani/swa-latn-100mb-after-ppt-Dp-100mb-ckpt500_seed3407",
-      "publishedAt": "2026-09-02T10:28:32+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 49,
-        "likes": 0
-      }
-    },
-    {
-      "id": "4e35cf38f9959b60e2e60dce79cbffc9f9f25be18507d362776ef148cce649dd",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "MyAwesomeModel-TestRepo：feature-extraction 模型更新",
-      "summary": "HuggingFace 上模型 eigen-evaler/MyAwesomeModel-TestRepo（feature-extraction 类型）暂无下载量与点赞数。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/eigen-evaler/MyAwesomeModel-TestRepo",
-      "publishedAt": "2026-09-02T10:28:29+00:00",
-      "tags": [
-        "huggingface",
-        "feature-extraction"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "a6922cf66569ec42fa943757106f745bc1e00d40668c07719096f168eaa582e5",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Smilyai-G1-20B-session-002：nlp 模型更新",
-      "summary": "HuggingFace上热门NLP模型hugging-science/Smilyai-G1-20B-session-002目前下载量与点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/hugging-science/Smilyai-G1-20B-session-002",
-      "publishedAt": "2026-09-02T10:28:17+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "ad97551918ad5cd456984cdec768b6c45018eeb077f1bb102172c6b76fecaaee",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "MyAwesomeModel-TestRepo：feature-extraction 模型更新",
-      "summary": "HuggingFace 上 ToddBB/MyAwesomeModel-TestRepo 模型（feature-extraction 类型）暂无下载量与点赞数。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/ToddBB/MyAwesomeModel-TestRepo",
-      "publishedAt": "2026-09-02T10:28:13+00:00",
-      "tags": [
-        "huggingface",
-        "feature-extraction"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "dbbd207423688c4968f0ab7badc36deea7f60ec83fe92347a4fafd05f2c95d3f",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "bert-tbird：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型 MelNikov49539/bert-tbird 目前下载量和点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/MelNikov49539/bert-tbird",
-      "publishedAt": "2026-09-02T10:28:11+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "632b257cd5e47ac5db0f3fc2694cab715d81e0f6b9b1e1869a3bfd888c38f5f0",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "hypernet-sp-distill：nlp 模型更新",
-      "summary": "Hugging Face 上 NLP 模型 baya1116/hypernet-sp-distill 目前下载量与点赞数均为 0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/baya1116/hypernet-sp-distill",
-      "publishedAt": "2026-09-02T10:28:09+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "23a5e42631d8c952ea10eedab571f63f941dc26f0cbbb7f8956c4b82dc9e5e38",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "coco6：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 Cameron3T3T/coco6，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Cameron3T3T/coco6",
-      "publishedAt": "2026-09-02T10:28:03+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "a30baebe9f12d5d3c65a08cfc36f399668e342ddfe2c768054f9c530577feb51",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "sn97____0xgevdhc____uid117____hk5CFcW：nlp 模型更新",
-      "summary": "HuggingFace 上模型 reyansh38771/sn97____0xgevdhc____uid117____hk5CFcW 无人下载、无点赞，热度为零。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/reyansh38771/sn97____0xgevdhc____uid117____hk5CFcW",
-      "publishedAt": "2026-09-02T10:28:00+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "4741f16ae108c84af51d14d1eb42bbb93f83501ce812abf5782fb9573c06749d",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.8-27B-TA-Aux-v1：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型YFC-112358/Qwen3.8-27B-TA-Aux-v1下载量与点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/YFC-112358/Qwen3.8-27B-TA-Aux-v1",
-      "publishedAt": "2026-09-02T10:20:28+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "5fa96e8cb6f898f534630db79bb008371125ce519224b4375002c854b79f36bb",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "bmb05：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 AltEinstein/bmb05，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/AltEinstein/bmb05",
-      "publishedAt": "2026-09-02T10:20:24+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "085570e5d38abf29f8eda3524bb8322ba59ce32369b7cba2f89e3ae29d4a255f",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "financial-risk-extractor-phi3-qlora：nlp 模型更新",
-      "summary": "Hugging Face 上热门NLP模型“Dino21/financial-risk-extractor-phi3-qlora”目前下载量与点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Dino21/financial-risk-extractor-phi3-qlora",
-      "publishedAt": "2026-09-02T10:20:24+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "f5cb46c569c08cf7e36ce7ef80f847aeb74273fb8207e960653856207280b67d",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "ind-latn-10mb-100mb_seed455：text-generation 模型更新",
-      "summary": "HuggingFace热门文本生成模型fpadovani/ind-latn-10mb-100mb_seed455，下载量21次，获赞0次。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/fpadovani/ind-latn-10mb-100mb_seed455",
-      "publishedAt": "2026-09-02T10:20:22+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 21,
-        "likes": 0
-      }
-    },
-    {
-      "id": "dc654cc69d1e27c645039fbd1b71628037ded25289b17d96e42e91249a389210",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "visualrl-rscore：nlp 模型更新",
-      "summary": "Hugging Face 上 Miiche/visualrl-rscore NLP 模型暂无下载量与点赞数（均为0）。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Miiche/visualrl-rscore",
-      "publishedAt": "2026-09-02T10:20:19+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "e9188f087021f341821aa6b30689ff65a51d70d00c24dfecd9bcc10b29849d0b",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "napkin_new_005000：nlp 模型更新",
-      "summary": "HuggingFace 上NLP模型pmoller/napkin_new_005000暂无下载量与点赞数。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/pmoller/napkin_new_005000",
-      "publishedAt": "2026-09-02T10:20:17+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "229ede25bd0ae63f5e058b95d6a21e741e4c6d691941980e54bc4babb0deef7c",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "AMD-OLMo-1B-IT-GGUF：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型 mradermacher/AMD-OLMo-1B-IT-GGUF 目前下载量与点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/mradermacher/AMD-OLMo-1B-IT-GGUF",
-      "publishedAt": "2026-09-02T10:20:15+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "9185f024eee9008fe6d114d0e986eb167211d300cd5b6086a4034ce63a812536",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "MyAwesomeModel-TestRepo：nlp 模型更新",
-      "summary": "HuggingFace 上模型 sfafas2234/MyAwesomeModel-TestRepo 无人下载、无点赞，热度为零。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/sfafas2234/MyAwesomeModel-TestRepo",
-      "publishedAt": "2026-09-02T10:20:15+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "ad36ae8c510b77283f8a192fddea3ecf82a580aaede53363babc628ae1fdff24",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "bmb08：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 AltEinstein/bmb08，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/AltEinstein/bmb08",
-      "publishedAt": "2026-09-02T10:20:13+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1f7e82eed16e1d5b75c65a524aaa7a155a71ce8e4e9d85077bde9a3a200b79b2",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "rtc-ner-extended：token-classification 模型更新",
-      "summary": "HuggingFace 上 token-classification 模型 pidakwo/rtc-ner-extended 目前下载量与点赞数均为 0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/pidakwo/rtc-ner-extended",
-      "publishedAt": "2026-09-02T10:20:06+00:00",
-      "tags": [
-        "huggingface",
-        "token-classification"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "6ef83bcedbc2712b00760e20468e5ea424217f04a179ebc8896f27efa97bd6e9",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "spd10：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 PES24/spd10，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/PES24/spd10",
-      "publishedAt": "2026-09-02T10:20:05+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "48e8c6b482feeeb3a8acc2ffa558e006e91689944bdacac068894921447fb0b0",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "napkin_new_007500：nlp 模型更新",
-      "summary": "HuggingFace 上 NLP 模型 pmoller/napkin_new_007500 目前下载量与点赞数均为 0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/pmoller/napkin_new_007500",
-      "publishedAt": "2026-09-02T10:20:04+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "9c95fe032b1e5520170cfa363cec21f0b2e747f9199bc3a078e178727dd30467",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Pneumonia-Detection-YOLOV8：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型 adileddarif/Pneumonia-Detection-YOLOV8 实际为YOLOv8目标检测模型，非NLP模型，下载量与点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/adileddarif/Pneumonia-Detection-YOLOV8",
-      "publishedAt": "2026-09-02T10:19:59+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "c4708eb08bb4082a0d882b9a975d1a80d62bc2c0a17d1453bb2acee8b111298b",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "anlp-a1-ablation：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 aditya-s-2k24/anlp-a1-ablation，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/aditya-s-2k24/anlp-a1-ablation",
-      "publishedAt": "2026-09-02T10:08:48+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "28b0c3d32cb601c2480cf56bfad38df1c87daf72311f678741db71d14199d4bd",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "UltiMerge-Q4_K_M-GGUF：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 OliviaRossi/UltiMerge-Q4_K_M-GGUF，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/OliviaRossi/UltiMerge-Q4_K_M-GGUF",
-      "publishedAt": "2026-09-02T10:08:35+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "c5530b9c58f2ee14757dbd032c4921bfe7fcc17f388938286461fac8aec1f667",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "sdxsv3：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 recoilme/sdxsv3，182 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/recoilme/sdxsv3",
-      "publishedAt": "2026-09-02T10:08:31+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 182,
-        "likes": 0
-      }
-    },
-    {
-      "id": "e2a4821d4bf3baafd5046646a41180563f7fe51bf470303af622d8d662b24330",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "fun01：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 ElMusk/fun01，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/ElMusk/fun01",
-      "publishedAt": "2026-09-02T10:08:23+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "3c2e24695adfc8224bccd25fa980b13d627654dc852dcaa5df885be11f9681ea",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "eus-latn-100mb-after-ppt-Dp-100mb-ckpt500_seed455：text-generation 模型更新",
-      "summary": "HuggingFace 热门 text-generation 模型 fpadovani/eus-latn-100mb-after-ppt-Dp-100mb-ckpt500_seed455，111 下载，1 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/fpadovani/eus-latn-100mb-after-ppt-Dp-100mb-ckpt500_seed455",
-      "publishedAt": "2026-09-02T10:08:22+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 111,
-        "likes": 1
-      }
-    },
-    {
-      "id": "8986ef3644b89ca103389c73c6864d941b4a9b0448c4860fec706e6dc398c9d2",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Solar-Dawn-31B-GGUF：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 mradermacher/Solar-Dawn-31B-GGUF，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/mradermacher/Solar-Dawn-31B-GGUF",
-      "publishedAt": "2026-09-02T10:08:21+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "45fb3afcbc73c89b972bc679315f1497c73a2712b17e6f97610b39364b2cddbd",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "whisper-medium_indic_voices_62290_ratio_15_100_lr_1e-5_lgid_None_epochs_100_FT：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 dianavdavidson/whisper-medium_indic_voices_62290_ratio_15_100_lr_1e-5_lgid_None_epochs_100_FT，0 下载",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/dianavdavidson/whisper-medium_indic_voices_62290_ratio_15_100_lr_1e-5_lgid_None_epochs_100_FT",
-      "publishedAt": "2026-09-02T10:08:21+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "a8e5efd5697f22517f058bc0d386e954bb18b5d65032c6975305dc70c444aa19",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "qwen35-9b-wmrl-v4-c2-9b-judged：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 violetxi/qwen35-9b-wmrl-v4-c2-9b-judged，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/violetxi/qwen35-9b-wmrl-v4-c2-9b-judged",
-      "publishedAt": "2026-09-02T10:08:16+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "ddf6b13a4b6fbbf8f6dc44d90e742cfc25ebecc8cdfc97b73f1962bcc6f2c18d",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "qwen25-d2l-merged：text-generation 模型更新",
-      "summary": "HuggingFace 热门 text-generation 模型 Pradyu123/qwen25-d2l-merged，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Pradyu123/qwen25-d2l-merged",
-      "publishedAt": "2026-09-02T09:58:58+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "b1f433b3f4936a9526660662bc154b9d38548659139addadd7310d62ecde753d",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "whisper-medium_indic_voices_62290_ratio_30_70_lr_1e-5_lgid_None_epochs_100_FT：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 dianavdavidson/whisper-medium_indic_voices_62290_ratio_30_70_lr_1e-5_lgid_None_epochs_100_FT，0 下载，",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/dianavdavidson/whisper-medium_indic_voices_62290_ratio_30_70_lr_1e-5_lgid_None_epochs_100_FT",
-      "publishedAt": "2026-09-02T09:58:56+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "aed6e82e58a5af94e849eb3409b351f1f09b5defa872da813782b6704cfc3d39",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "sn120-intel-archive：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 yielden/sn120-intel-archive，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/yielden/sn120-intel-archive",
-      "publishedAt": "2026-09-02T09:58:51+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "a8877a43802a5931f4ba4d43b84e70fe6dcec91cbafdd7ac6490f74e8b43e461",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "gemma-4-31b-it-3MPER0RR-abliterated-GGUF：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 mradermacher/gemma-4-31b-it-3MPER0RR-abliterated-GGUF，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/mradermacher/gemma-4-31b-it-3MPER0RR-abliterated-GGUF",
-      "publishedAt": "2026-09-02T09:58:51+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "472e2fe0585c04d00a8e7880448871abe3449c7e90ec987d27d8020fc251138f",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "MyAwesomeModel-TestRepo：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 SAD12E21/MyAwesomeModel-TestRepo，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/SAD12E21/MyAwesomeModel-TestRepo",
-      "publishedAt": "2026-09-02T09:58:49+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2eeeeb40dde6f2c33bd9385811cef048465f2291c1ae53e50da867e764d4a679",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "bp-e04__10hz-bcexpert-pv__d98ddfe8__flow-c06__qpriv-n16__qc-offline__xf7ab898：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 strawberryroboticsinc/bp-e04__10hz-bcexpert-pv__d98ddfe8__flow-c06__qpriv-n16__qc-offline__xf7ab89",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/strawberryroboticsinc/bp-e04__10hz-bcexpert-pv__d98ddfe8__flow-c06__qpriv-n16__qc-offline__xf7ab898",
-      "publishedAt": "2026-09-02T09:58:48+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "b3947e6efb2a02418e6bd45e9c09d02536145f01c2dc26fca65ebc11df56fce3",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "gr00t_n17_mt3_c3_massnorm_bs64_kgbridge：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 locht131/gr00t_n17_mt3_c3_massnorm_bs64_kgbridge，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/locht131/gr00t_n17_mt3_c3_massnorm_bs64_kgbridge",
-      "publishedAt": "2026-09-02T09:58:47+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "eb878c726fb58a7103cc7820616aeca1f166bfccd5829e033babe69d27a631bd",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "llama-3.1-8b-instruct_lbox-admin-traffic_ffn-only：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 Jongbin-kr/llama-3.1-8b-instruct_lbox-admin-traffic_ffn-only，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Jongbin-kr/llama-3.1-8b-instruct_lbox-admin-traffic_ffn-only",
-      "publishedAt": "2026-09-02T09:58:42+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "81a3ce25b4dd7c834c049a8445486a1b020c6e1e82109be447de9c70ea4a5d56",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "MiniMax-H3-Longvideos：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 Smite79/MiniMax-H3-Longvideos，0 下载，86 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Smite79/MiniMax-H3-Longvideos",
-      "publishedAt": "2026-09-02T09:58:29+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 86
-      }
-    },
-    {
-      "id": "ae23e76f46ea57d71e9fcf99921faf044399804d4aff79b475d9c1b547e0a282",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "vidhyaarthi-model：text-generation 模型更新",
-      "summary": "HuggingFace 热门 text-generation 模型 shuvam4849/vidhyaarthi-model，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/shuvam4849/vidhyaarthi-model",
-      "publishedAt": "2026-09-02T09:58:22+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "663eb12df58079c9d0c7a8a786671607e233f09ea03efae54b480eeb12f614c6",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Smilyai-G1-20B-v2-session-002：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 hugging-science/Smilyai-G1-20B-v2-session-002，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/hugging-science/Smilyai-G1-20B-v2-session-002",
-      "publishedAt": "2026-09-02T09:54:12+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "64c4296eeb9c1f4ac211ea71af4b85b633242c18baa9491c33f2f707268cdd99",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "fluxer：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 juergengunz/fluxer，0 下载，12 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/juergengunz/fluxer",
-      "publishedAt": "2026-09-02T09:54:09+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 12
-      }
-    },
-    {
-      "id": "64d9b03a81812399d5182aebf4d3ed503e565dbfbd530b12f1d712875a976853",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "hpy-krea2-lora-checkpoints：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 maozhuoshushu/hpy-krea2-lora-checkpoints，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/maozhuoshushu/hpy-krea2-lora-checkpoints",
-      "publishedAt": "2026-09-02T09:54:06+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "100d84f0f0bfbe6d4091d63f98d37856f824db230ab5e226d3cb7bbabe5ea96d",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "wam-ladder-checkpoints：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 VarunGiridhar3/wam-ladder-checkpoints，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/VarunGiridhar3/wam-ladder-checkpoints",
-      "publishedAt": "2026-09-02T09:54:05+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "488905cb56851554512cce3ec4efb55d8351cb8757c04c654faa7e5b1b1b6cf6",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "FHN-200M3：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 aixk/FHN-200M3，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/aixk/FHN-200M3",
-      "publishedAt": "2026-09-02T09:54:04+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "d2899cea7086533b7b172781a3ecbb06f2d58c4d6edff4d61e83645d0e7ca069",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Eddie-Cortex：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 danielharkin21/Eddie-Cortex，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/danielharkin21/Eddie-Cortex",
-      "publishedAt": "2026-09-02T09:54:02+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "6a41aa7fbfb494abbe0aebbd8e699ec5cf5c8538064506dd4480173be48cfd5a",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "MyAwesomeModel-TestRepo：feature-extraction 模型更新",
-      "summary": "HuggingFace 热门 feature-extraction 模型 ASD1DSZD/MyAwesomeModel-TestRepo，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/ASD1DSZD/MyAwesomeModel-TestRepo",
-      "publishedAt": "2026-09-02T09:54:00+00:00",
-      "tags": [
-        "huggingface",
-        "feature-extraction"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "3a4d1cbcf032f929d9b03c1710866c366d51b88e7ed50e78e2bb6c634f06624d",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "sow-ternary-mini-sft-relay：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 tritueviet/sow-ternary-mini-sft-relay，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/tritueviet/sow-ternary-mini-sft-relay",
-      "publishedAt": "2026-09-02T09:53:54+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "61376ce43d261dc0c9b5f8861dce6f458be55540834cf07719c43d4e27cd2468",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "judaism-llm-qwen2.5-7b-GGUF：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 mradermacher/judaism-llm-qwen2.5-7b-GGUF，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/mradermacher/judaism-llm-qwen2.5-7b-GGUF",
-      "publishedAt": "2026-09-02T09:53:54+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "b93e5002855e92761f59dc3cc72bf39aeda91f338a168210fa95ecba663db822",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "AX650-Community-Hub：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 AXERA-TECH/AX650-Community-Hub，12 下载，1 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/AXERA-TECH/AX650-Community-Hub",
-      "publishedAt": "2026-09-02T09:53:53+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 12,
-        "likes": 1
-      }
-    },
-    {
-      "id": "8459c38152d4fce2c66f4315762841dd35d87be828a2b3043da2a8faaafb35b1",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "megan-pure-94：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 42savage/megan-pure-94，0 下载，1 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/42savage/megan-pure-94",
-      "publishedAt": "2026-09-02T09:53:51+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 1
-      }
-    },
-    {
-      "id": "f3e0ddda90797511dea3b9af8cc747c93f31a6b4aa329b194e06ead4a1dc2a1b",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "signature-verifier：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 SMXLEEE/signature-verifier，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/SMXLEEE/signature-verifier",
-      "publishedAt": "2026-09-02T09:53:49+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "9bcdcdbed8ffb18064e469aac7b500bb36f756deb96f3087ebb408abfdf5dd8f",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "bert-liberty：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 MelNikov49539/bert-liberty，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/MelNikov49539/bert-liberty",
-      "publishedAt": "2026-09-02T09:53:45+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "6c788efb64680c9c5b94f9da2c9d59922fdbb8185ecf88dbbc124fb68ee2a895",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "ipaxlk5ft-test：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 kmpartner/ipaxlk5ft-test，0 下载，1 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/kmpartner/ipaxlk5ft-test",
-      "publishedAt": "2026-09-02T09:34:43+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 1
-      }
-    },
-    {
-      "id": "47caa703542f02201e167084d3dbf59c2cc465b3a448fe2ee4a4c4fbc4c22a23",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Iris-pro：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 AllSpark-Research/Iris-pro，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/AllSpark-Research/Iris-pro",
-      "publishedAt": "2026-09-02T09:34:38+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "805ba20b30b8fa77a39b0e71a2b15fb86ac16c1088427d95038ae9c1dc4e83b0",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "qwen3.8-9b-hermes-fc-tooluse-GGUF：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 mradermacher/qwen3.8-9b-hermes-fc-tooluse-GGUF，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/mradermacher/qwen3.8-9b-hermes-fc-tooluse-GGUF",
-      "publishedAt": "2026-09-02T09:34:34+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "29ade60f3e2788cd328cda55af664327a990f25439e700e8a286b928cf02a216",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "cosmos3-ae-gr1-pdelta-auxtokc-pred-b256-16k：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 kimtaey/cosmos3-ae-gr1-pdelta-auxtokc-pred-b256-16k，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/kimtaey/cosmos3-ae-gr1-pdelta-auxtokc-pred-b256-16k",
-      "publishedAt": "2026-09-02T09:34:27+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "aff2944917e0ad4649232d5b5ad871c8035e176c685fcd2f959797f32dc64c9c",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "penclaw-GLM-5.3-abliterated：text-generation 模型更新",
-      "summary": "HuggingFace 热门 text-generation 模型 audnai/penclaw-GLM-5.3-abliterated，0 下载，2 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/audnai/penclaw-GLM-5.3-abliterated",
-      "publishedAt": "2026-09-02T09:34:22+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 2
-      }
-    },
-    {
-      "id": "6857ff084a445bd7161aeb58f51bfa386d15cef77ef46a35770690c3740d3528",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "bert-spirit：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 MelNikov49539/bert-spirit，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/MelNikov49539/bert-spirit",
-      "publishedAt": "2026-09-02T09:34:21+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "d450fcfc41cab2211c049ebb158ce32c28657ab568c50de0d852f4a93dc44d66",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "liquid-audio_fr：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 baptistefrancois1/liquid-audio_fr，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/baptistefrancois1/liquid-audio_fr",
-      "publishedAt": "2026-09-02T09:34:16+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "539ec0b9160e8a13d110ce30a6727017dbe4be80ed386e70b37dd8b4e4e36f03",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "wrk-models-g2：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 Moldwebs/wrk-models-g2，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Moldwebs/wrk-models-g2",
-      "publishedAt": "2026-09-02T09:34:14+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "ed47d4017fc16a55887f06b5d61158ae522047fdea0942ba1acf80ee04b4fa80",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "laptop-extra：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 mousatat3/laptop-extra，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/mousatat3/laptop-extra",
-      "publishedAt": "2026-09-02T09:34:13+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "17fdb6961b1aeb7e97054fa5af090c9093d8b4543b10d96b74e18db731f75919",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "config-watcher：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 sundaycoil/config-watcher，0 下载，6 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/sundaycoil/config-watcher",
-      "publishedAt": "2026-09-02T09:34:11+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 6
-      }
-    },
-    {
-      "id": "fcb81f094dee8dd1d4f1f0db8ec88669525440416b33f3eb6493ce00bd7d0029",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "RVID-15：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 aixk/RVID-15，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/aixk/RVID-15",
-      "publishedAt": "2026-09-02T09:34:11+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "140063533b7067e189b3a9c95203ebec5d60dd43a9d06c6d462879e69c66d259",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "bulmax-asm-baseline：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 YNSScarSaiyan/bulmax-asm-baseline，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/YNSScarSaiyan/bulmax-asm-baseline",
-      "publishedAt": "2026-09-02T09:34:06+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "7a1e12b3b311d2ef70544a9236d4275b7e295574102c05178e154445afd448cf",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "RIMG4-135M-v10：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 aixk/RIMG4-135M-v10，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/aixk/RIMG4-135M-v10",
-      "publishedAt": "2026-09-02T09:34:03+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "7e79582bdfbe1ac6af7c8118980126f840bcbd603c615cb089f79f7591a49d5b",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "llama-3.1-8b-instruct_lbox-admin-other_ffn-only：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 Jongbin-kr/llama-3.1-8b-instruct_lbox-admin-other_ffn-only，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Jongbin-kr/llama-3.1-8b-instruct_lbox-admin-other_ffn-only",
-      "publishedAt": "2026-09-02T09:34:03+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "18a058874b942ae9a70f941f7683d70f75929c2b2bb418b3f7d32a3097c4471d",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NM-DAU-GGUF：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 mradermacher/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NM-DAU-GGUF，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/mradermacher/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NM-DAU-GGUF",
-      "publishedAt": "2026-09-02T09:33:56+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "14435bad54e2985488bdf4d464fb183b1915567b8f35c2c3298efe2e9c9809ce",
-      "module": "lol",
-      "seg": "match",
-      "cat": "比赛",
-      "title": "拳头发布S16世界赛赛事规则 #faker#t1#lck#chovy#世界赛",
-      "summary": "UP主 LOL电竞吉格斯 · 12,892播放 · 1:7",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117200732100501",
-      "publishedAt": "2026-09-02T09:30:34+00:00",
-      "tags": [
-        "lol",
-        "match",
-        "英雄联盟 LPL LCK 比赛 集锦 复盘"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "LOL电竞吉格斯",
-        "play": 12892,
-        "bvid": "BV1nYtJ68EZz",
-        "duration": "1:7"
-      }
-    },
-    {
-      "id": "ae9d51d52bc9ef864d6c2ec84d5bd3f985d02cb768a67643b1fbbacf54050871",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
-      "summary": "SkyProduction（天工工作台）全新版本于8月31日正式上线",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/483274.html",
-      "publishedAt": "2026-09-02T09:22:16+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ec0e96fe54419c4cfd914ac505029dafbf94c7c80326e67f50c3c59d6a0df659",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "16.17海斗强势T0英雄推荐，现在是战士联盟",
-      "summary": "UP主 驻韩研究员 · 11,287播放 · 5:48",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117200161609961",
-      "publishedAt": "2026-09-02T09:00:00+00:00",
-      "tags": [
-        "lol",
-        "rune",
-        "英雄联盟 海斗 黑科技 上分"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "驻韩研究员",
-        "play": 11287,
-        "bvid": "BV1ahtn6SEz4",
-        "duration": "5:48"
-      }
-    },
-    {
-      "id": "d9ced689c73ea6fbbf91f16846a50c69b73f92f767973e1b3f5f6bb71e30b77d",
-      "module": "lol",
-      "seg": "match",
-      "cat": "比赛",
-      "title": "9月2日 sask解说【T1 vs HLE】弹幕版+无弹幕 2026LCK第三赛段季后赛赛",
-      "summary": "UP主 切猪君 · 31,329播放 · 386:23",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117200597817923",
-      "publishedAt": "2026-09-02T08:59:38+00:00",
-      "tags": [
-        "lol",
-        "match",
-        "英雄联盟 LPL LCK 比赛 集锦 复盘"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "切猪君",
-        "play": 31329,
-        "bvid": "BV1KntJ6BEXg",
-        "duration": "386:23"
-      }
-    },
-    {
-      "id": "def453a86a143137069212c94da4a7689b57352b8cbf2f052dabffefd75f9dca",
-      "module": "lol",
-      "seg": "match",
-      "cat": "比赛",
-      "title": "LCK第三赛段季后赛 9月2日 T1 vs HLE (解说合集)",
-      "summary": "UP主 联盟日常事_ · 2,273播放 · 218:18",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117200597812999",
-      "publishedAt": "2026-09-02T08:56:28+00:00",
-      "tags": [
-        "lol",
-        "match",
-        "英雄联盟 LPL LCK 比赛 集锦 复盘"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "联盟日常事_",
-        "play": 2273,
-        "bvid": "BV1KntJ6BEAm",
-        "duration": "218:18"
-      }
-    },
-    {
-      "id": "2accb4498b45595f9d8864ac8047ca2ee07ff6dcb246a76a84aebedb119ac9b0",
-      "module": "lol",
-      "seg": "match",
-      "cat": "比赛",
-      "title": "HLE vs T1  太扯了，火龙魂HLE团战被T1操作！Peyz滑板鞋单人杀光HLE双C！   Game 1 丨 2026 LCK 季后赛",
-      "summary": "UP主 最新联盟 · 43,588播放 · 13:57",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117200581105128",
-      "publishedAt": "2026-09-02T08:54:06+00:00",
-      "tags": [
-        "lol",
-        "match",
-        "英雄联盟 LPL LCK 比赛 集锦 复盘"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "最新联盟",
-        "play": 43588,
-        "bvid": "BV1pbtJ6AEZJ",
-        "duration": "13:57"
-      }
-    },
-    {
-      "id": "e5d864ac60dc9da767a75adfd095e9b7aa74963c7e9da7e96e0bf835b68afa35",
-      "module": "lol",
-      "seg": "match",
-      "cat": "比赛",
-      "title": "2026LCK季后赛9月2日 T1 vs HLE（中文解说）",
-      "summary": "UP主 Ymbky丶 · 99,813播放 · 182:27",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117200564262126",
-      "publishedAt": "2026-09-02T08:51:05+00:00",
-      "tags": [
-        "lol",
-        "match",
-        "英雄联盟 LPL LCK 比赛 集锦 复盘"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "Ymbky丶",
-        "play": 99813,
-        "bvid": "BV1w8tJ6aErH",
-        "duration": "182:27"
-      }
-    },
-    {
-      "id": "ef544ae654ba9c923057a7ce42dd52b548821e0511e1fd6309af637ffa1e2821",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "神超S18：6护卫蛇女来了！版本T0？最无脑的上分阵容~",
-      "summary": "UP主 赛博の薄荷糖 · 2,281播放 · 24:59",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117200497218928",
-      "publishedAt": "2026-09-02T08:31:17+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "赛博の薄荷糖",
-        "play": 2281,
-        "bvid": "BV1Tctn63ERB",
-        "duration": "24:59"
-      }
     }
   ],
-  "daily": {
-    "ai": {
-      "insight": "AI安全与信任危机集中爆发，数据泄露、模型越狱、版权诉讼频发",
-      "headline": {
-        "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-        "summary": "Meta推出个人AI助手Muse，需访问用户邮件、日历、支付及健康等数据，成为其最大消费级AI押注，亦是对用户数据信任度的重大考验。",
-        "source": "TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
-      },
-      "sections": [
-        {
-          "name": "最新科技",
-          "items": [
-            {
-              "title": "Google’s Atlas of the human genome could pave the way for new treatments",
-              "summary": "DeepMind推出AlphaGenome Atlas，首张全基因组DNA变异预测图谱，覆盖所有可能的碱基变化，有望加速生物学研究与疾病新疗法开发。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas"
-            },
-            {
-              "title": "Update to Google’s AI weather model improves forecast accuracy",
-              "summary": "该模型借鉴传统天气预报，通过扩充输入数据集提升预测精度。",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/"
-            }
-          ]
-        },
-        {
-          "name": "行业动态",
-          "items": [
-            {
-              "title": "Hackers are stealing Claude tokens from subscribers",
-              "summary": "上月，Claude用户发现账户异常耗token，Anthropic确认遭黑客攻击并发出安全警告。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/"
-            },
-            {
-              "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-              "summary": "Cognition公司估值倍数高于Cursor被SpaceX收购前的水平。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
-            },
-            {
-              "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-              "summary": "谷歌云携手埃森哲，加码企业AI布局，派驻前线工程师加速AI落地，突破部署瓶颈。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/"
-            },
-            {
-              "title": "Mistral raises €3B as sovereign AI becomes big business",
-              "summary": "法国AI实验室完成3亿欧元D轮融资，估值21亿欧元，由三星、Scaleup Europe和PSG Equity领投。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
-            }
-          ]
-        },
-        {
-          "name": "知识前沿",
-          "items": [
-            {
-              "title": "Opaque recurrence, and other AI terms that you should probably know",
-              "summary": "AI热潮催生大量新术语。本文整理了一份关键AI词汇表，涵盖最常用、最重要的概念及定义。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
-            },
-            {
-              "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-              "summary": "3700名内部人员发布1.8万条消息讨论考试作弊。",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
-            }
-          ]
-        },
-        {
-          "name": "应用落地",
-          "items": [
-            {
-              "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-              "summary": "OpenAI推出ChatGPT Images 2.5，新增“Sketch”涂鸦功能：用户可在对话中手绘草图，再输入文字描述，生成定制图像。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch"
-            },
-            {
-              "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
-              "summary": "Adobe升级Premiere，推出“生成式媒体”工具，支持在时间轴内直接生成视频、音效、音乐等，大幅提升AI创作效率。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere"
-            }
-          ]
-        }
-      ]
-    }
-  },
   "football": {
     "fixtures": [
       {
