@@ -1,9 +1,1218 @@
 {
-  "generated_at": "2026-09-09T15:44:14.840763+00:00",
-  "date": "2026-09-09",
+  "generated_at": "2026-09-10T05:41:15.310644+00:00",
+  "date": "2026-09-10",
   "keep_days": 7,
-  "count": 565,
+  "count": 505,
   "items": [
+    {
+      "id": "83b72274e23dbdfda63566493a21dd594de2691ebb6f196e2cd7955d3f7c1034",
+      "module": "football",
+      "seg": null,
+      "cat": "欧冠",
+      "title": "Napoli 0-1 Arsenal",
+      "summary": "欧冠 · 战报 · 03:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2594603",
+      "publishedAt": "2026-09-10T05:39:23.671313+00:00",
+      "tags": [
+        "欧冠",
+        "战报"
+      ],
+      "body": [
+        "欧冠 第 1 轮 · 2026-09-09 · 北京时间 03:00（估算）",
+        "场地：Stadio Diego Armando Maradona",
+        "主队 Napoli vs 客队 Arsenal",
+        "终场比分 0-1"
+      ],
+      "points": [
+        "<b>赛事</b>：欧冠 第 1 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-09-09 · 北京时间 03:00（估算）",
+        "<b>场地</b>：Stadio Diego Armando Maradona",
+        "<b>主队</b>：Napoli",
+        "<b>客队</b>：Arsenal",
+        "<b>终场比分</b>：0-1",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "1",
+        "season": "2026-2027",
+        "venue": "Stadio Diego Armando Maradona",
+        "date": "2026-09-09",
+        "country": "Italy",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "02a2d903b66f181dc0a795a24eab54c5493c7fcf7ec03f039fc3f8861bbb1633",
+      "module": "football",
+      "seg": null,
+      "cat": "法甲",
+      "title": "Marseille 2-3 Paris FC",
+      "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2489482",
+      "publishedAt": "2026-09-10T05:39:23.671305+00:00",
+      "tags": [
+        "法甲",
+        "战报"
+      ],
+      "body": [
+        "法甲 第 3 轮 · 2026-09-06 · 北京时间 02:45（估算）",
+        "场地：Orange Vélodrome",
+        "主队 Marseille vs 客队 Paris FC",
+        "终场比分 2-3"
+      ],
+      "points": [
+        "<b>赛事</b>：法甲 第 3 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-09-06 · 北京时间 02:45（估算）",
+        "<b>场地</b>：Orange Vélodrome",
+        "<b>主队</b>：Marseille",
+        "<b>客队</b>：Paris FC",
+        "<b>终场比分</b>：2-3",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "3",
+        "season": "2026-2027",
+        "venue": "Orange Vélodrome",
+        "date": "2026-09-06",
+        "country": "France",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "50ddd6cd045675005d84ba09f84e0baa1cdf01a5f722e43bc0c560ee8653bf75",
+      "module": "football",
+      "seg": null,
+      "cat": "意甲",
+      "title": "Udinese 1-2 Lazio",
+      "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.youtube.com/watch?v=2Xiy_RSXw5A",
+      "publishedAt": "2026-09-10T05:39:23.671297+00:00",
+      "tags": [
+        "意甲",
+        "战报"
+      ],
+      "body": [
+        "意甲 第 3 轮 · 2026-09-07 · 北京时间 02:45（估算）",
+        "场地：Bluenergy Stadium",
+        "主队 Udinese vs 客队 Lazio",
+        "终场比分 1-2"
+      ],
+      "points": [
+        "<b>赛事</b>：意甲 第 3 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-09-07 · 北京时间 02:45（估算）",
+        "<b>场地</b>：Bluenergy Stadium",
+        "<b>主队</b>：Udinese",
+        "<b>客队</b>：Lazio",
+        "<b>终场比分</b>：1-2",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "3",
+        "season": "2026-2027",
+        "venue": "Bluenergy Stadium",
+        "date": "2026-09-07",
+        "country": "Italy",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "493980746114341ce1cd06ee8b49715d31ab2e7e4fbf2a40cb8e42c80281e884",
+      "module": "football",
+      "seg": null,
+      "cat": "德甲",
+      "title": "Eintracht Frankfurt 1-4 Augsburg",
+      "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2508346",
+      "publishedAt": "2026-09-10T05:39:23.671289+00:00",
+      "tags": [
+        "德甲",
+        "战报"
+      ],
+      "body": [
+        "德甲 第 2 轮 · 2026-09-06 · 北京时间 23:30（估算）",
+        "场地：Deutsche Bank Park",
+        "主队 Eintracht Frankfurt vs 客队 Augsburg",
+        "终场比分 1-4"
+      ],
+      "points": [
+        "<b>赛事</b>：德甲 第 2 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-09-06 · 北京时间 23:30（估算）",
+        "<b>场地</b>：Deutsche Bank Park",
+        "<b>主队</b>：Eintracht Frankfurt",
+        "<b>客队</b>：Augsburg",
+        "<b>终场比分</b>：1-4",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "2",
+        "season": "2026-2027",
+        "venue": "Deutsche Bank Park",
+        "date": "2026-09-06",
+        "country": "Germany",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "532e04fc33730f135a6ca8545ac543c8cd085e4e47367e624ed6a3b38034d6bf",
+      "module": "football",
+      "seg": null,
+      "cat": "西甲",
+      "title": "Elche 2-3 Real Sociedad",
+      "summary": "西甲 · 战报 · 03:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.youtube.com/watch?v=CGwY-AJRZOc",
+      "publishedAt": "2026-09-10T05:39:23.671267+00:00",
+      "tags": [
+        "西甲",
+        "战报"
+      ],
+      "body": [
+        "西甲 第 4 轮 · 2026-09-07 · 北京时间 03:30（估算）",
+        "场地：Estadio Martínez Valero",
+        "主队 Elche vs 客队 Real Sociedad",
+        "终场比分 2-3"
+      ],
+      "points": [
+        "<b>赛事</b>：西甲 第 4 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-09-07 · 北京时间 03:30（估算）",
+        "<b>场地</b>：Estadio Martínez Valero",
+        "<b>主队</b>：Elche",
+        "<b>客队</b>：Real Sociedad",
+        "<b>终场比分</b>：2-3",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "4",
+        "season": "2026-2027",
+        "venue": "Estadio Martínez Valero",
+        "date": "2026-09-07",
+        "country": "Spain",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "726066d38de63a1516ca3b082e9895f4baf217b4c549ad0dd56cf295ab6a3c7d",
+      "module": "football",
+      "seg": null,
+      "cat": "英超",
+      "title": "Arsenal 2-1 Chelsea",
+      "summary": "英超 · 战报 · 23:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.youtube.com/watch?v=af99CJ4f_yc",
+      "publishedAt": "2026-09-10T05:39:23.671257+00:00",
+      "tags": [
+        "英超",
+        "战报"
+      ],
+      "body": [
+        "英超 第 3 轮 · 2026-09-06 · 北京时间 23:30（估算）",
+        "场地：Emirates Stadium",
+        "主队 Arsenal vs 客队 Chelsea",
+        "终场比分 2-1"
+      ],
+      "points": [
+        "<b>赛事</b>：英超 第 3 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-09-06 · 北京时间 23:30（估算）",
+        "<b>场地</b>：Emirates Stadium",
+        "<b>主队</b>：Arsenal",
+        "<b>客队</b>：Chelsea",
+        "<b>终场比分</b>：2-1",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "3",
+        "season": "2026-2027",
+        "venue": "Emirates Stadium",
+        "date": "2026-09-06",
+        "country": "England",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "4f46a3b12e9f044c1df95e6efecfe53f87506ea08d7f978bc7044527f0cd61ee",
+      "module": "football",
+      "seg": null,
+      "cat": "欧冠",
+      "title": "PSV Eindhoven VS Shakhtar Donetsk",
+      "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2594585",
+      "publishedAt": "2026-09-10T05:39:23.671243+00:00",
+      "tags": [
+        "欧冠",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "1",
+        "season": "2026-2027",
+        "venue": "Philips Stadion",
+        "date": "2026-09-10",
+        "country": "The Netherlands",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "07cef51b7037350869f922b82c469514893d4803aac397abf7273d44ae4a46fa",
+      "module": "football",
+      "seg": null,
+      "cat": "法甲",
+      "title": "Rennes VS Marseille",
+      "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2489490",
+      "publishedAt": "2026-09-10T05:39:23.671239+00:00",
+      "tags": [
+        "法甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "4",
+        "season": "2026-2027",
+        "venue": "Roazhon Park",
+        "date": "2026-09-11",
+        "country": "France",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "3a27d2ca92507b7044d728e58ffd6074d185c8ad51934d190686f7221ee04d08",
+      "module": "football",
+      "seg": null,
+      "cat": "意甲",
+      "title": "Venezia VS Fiorentina",
+      "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2482175",
+      "publishedAt": "2026-09-10T05:39:23.671233+00:00",
+      "tags": [
+        "意甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "4",
+        "season": "2026-2027",
+        "venue": "Stadio Pierluigi Penzo",
+        "date": "2026-09-11",
+        "country": "Italy",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "cc453dd9d014064cb95434443ee38f615e08f5b5871b2903e22e8521b5ef384c",
+      "module": "football",
+      "seg": null,
+      "cat": "德甲",
+      "title": "Union Berlin VS Schalke 04",
+      "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2508357",
+      "publishedAt": "2026-09-10T05:39:23.671227+00:00",
+      "tags": [
+        "德甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "3",
+        "season": "2026-2027",
+        "venue": "Stadion An der Alten Försterei",
+        "date": "2026-09-11",
+        "country": "Germany",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "66c9d373ed13f95830efcef6ce116969d853f9e17e88aee45c0e044cfe1477bf",
+      "module": "football",
+      "seg": null,
+      "cat": "西甲",
+      "title": "Sevilla VS Valencia",
+      "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2506211",
+      "publishedAt": "2026-09-10T05:39:23.671220+00:00",
+      "tags": [
+        "西甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "5",
+        "season": "2026-2027",
+        "venue": "Estadio Ramón Sánchez Pizjuán",
+        "date": "2026-09-11",
+        "country": "Spain",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "d9ffd0d509af396b98c91423ba7922e62d194f51cdf73f34f619a381cda0931c",
+      "module": "football",
+      "seg": null,
+      "cat": "英超",
+      "title": "Bournemouth VS Brentford",
+      "summary": "英超 · 赛程 · 22:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2494031",
+      "publishedAt": "2026-09-10T05:39:23.671189+00:00",
+      "tags": [
+        "英超",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "4",
+        "season": "2026-2027",
+        "venue": "Vitality Stadium",
+        "date": "2026-09-12",
+        "country": "England",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "cfe8581c759fccc50bcc03ffcc643ffb4127fdf2a3c33aa5e28595c5d2e22312",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Ling-3.0-flash-VL：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 inclusionAI/Ling-3.0-flash-VL 获 42 次下载、41 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/inclusionAI/Ling-3.0-flash-VL",
+      "publishedAt": "2026-09-10T05:38:57+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 42,
+        "likes": 41
+      }
+    },
+    {
+      "id": "2e08ccc407ca45df3535e871fd50ce951c455e63250942281d5b7adbc1d52d20",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+      "summary": "9月9日，京东在北京举办JDDiscovery-2026大会，主题为“JoyAI · 跃迁物理世界”。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/486436.html",
+      "publishedAt": "2026-09-10T01:39:13+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "cb836baf1c9dceda98695034a738391848f07fdcd519cbd18a91f9e1f2442f5d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
+      "summary": "赶上了API限时五折",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/486350.html",
+      "publishedAt": "2026-09-10T00:42:06+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "6ba874bb464fd2daf9e10a8ab5bb8c118b096d3864ff9a6fbc88b15b6c648118",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "summary": "据消息人士称，Listen Labs放弃已签署的Menlo Ventures Series C轮融资条款书。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "publishedAt": "2026-09-10T00:00:37+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e4a722c68457cb56c267459e33949ef487ea85c132c0ab93c62ddfad6d9c5033",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "summary": "AI对齐领域知名研究员Paul Christiano加入OpenAI基金会董事会。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "publishedAt": "2026-09-09T22:25:22+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "f71176088cf39fe9596dfe949a9403bc56344e8e88d7d97667dd9326fd629c0f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "summary": "马萨诸塞州成为三个月内第三个限制数据中心建设的新州。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "publishedAt": "2026-09-09T21:43:34+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e6735ca71d9ba32238b8762ebf9c0f5a05432ebc6fe6837f28e960492528b865",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Suno releases its first AI music model made with record industry help",
+      "summary": "Suno发布v6 AI音乐模型，首获唱片业支持，全新训练数据不含历史数据，含授权内容。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+      "publishedAt": "2026-09-09T21:42:19+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "1af578a441afd32a8b5b2b48445d72250fc9136429aab2f5974527384a15d23d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+      "summary": "OpenAI宣称解决千禧年难题之一，引发轰动；该成果彰显AI正迅猛变革数学领域，但发布前已因特殊原因变得复杂。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "publishedAt": "2026-09-09T21:16:34+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "dba3f94599a6c9a47b8b6641fddfb16bdc14bd6d52c7929a82e8f01c5a405a54",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Read the Apple document explaining how new listening features still protect your privacy",
+      "summary": "苹果在iPhone Duo发布会上推出Siri新功能：Siri Recap、Live Rewind、声音与音乐识别，并发布隐私文档，强调AI“环境聆听”数据本地处理，不上传云端。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+      "publishedAt": "2026-09-09T20:44:43+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "32845080b35a42eb5309aa6506375b7c13f69523ce512bd6fe129fae371f0772",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+      "summary": "苹果新款手表虽不存原始音频，但语音转录与环境对话摘要功能引发隐私、知情同意及行为改变等新担忧。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "publishedAt": "2026-09-09T20:24:48+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "8db607fec9f8b4a16d68e0c560c6ad4456cab7a1ccc81d1f86950fb98fe29af9",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+      "summary": "美政府敦促AI企业识别中国用户，并秘密将其切换至性能较低模型。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+      "publishedAt": "2026-09-09T20:06:28+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "46b3d14c2a3dcecd2fd5d18a86e696346dbf8dd6fbad99f6444ffa7f476adbc2",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "summary": "苹果首款折叠屏手机iPhone Duo成发布会焦点。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+      "publishedAt": "2026-09-09T20:03:43+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "ce254f0774543e68928d656bbbcddc40d765749806abd90e8f3162adaeac9c90",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+      "summary": "苹果将在本月发布的iPhone 18 Pro中推出“参考图像”功能，利用新相机传感器为每个像素生成数字签名，以验证照片未被AI篡改。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+      "publishedAt": "2026-09-09T19:30:12+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "836762b08a59ee153d4c3daa4346f6849971fe8db84143348cbc8435087534e3",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+      "summary": "一比根号二的小胖折叠",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/486450.html",
+      "publishedAt": "2026-09-09T19:24:22+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "ba8871833868fb4d5d600774abfa5f378e8a0eba2bc1a698da88269e06a38cc8",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "The hinge for Apple’s new foldable phone was built with AI",
+      "summary": "苹果称在其备受期待的折叠屏手机制造中应用了AI与3D打印技术。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+      "publishedAt": "2026-09-09T19:21:48+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "3cb4f9ff323e51c93c05a7e68029c33418d383716bb66ee8c2d721af70d4b979",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+      "summary": "苹果新更新引入Apple Intelligence，提升健康数据解析能力。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+      "publishedAt": "2026-09-09T18:16:29+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "4b908c10d0d34e78fa3d1c49758d5d11c2e6124ca676ac99a874334c438a5910",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
+      "summary": "苹果推出“Apple Reference Image”，助用户识别照片是否经AI等编辑。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+      "publishedAt": "2026-09-09T18:08:35+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "0cb87f06eea7b6d4d513f0d030ec0fdcb0b586b756b243b7b10dde54810c408a",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "S18 Dishsoap 比赛复盘 如何选对阵容？（AI翻译）",
+      "summary": "UP主 asholley · 1,676播放 · 90:29",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117242373082127",
+      "publishedAt": "2026-09-09T18:00:37+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "asholley",
+        "play": 1676,
+        "bvid": "BV1ypY86yEPr",
+        "duration": "90:29"
+      }
+    },
+    {
+      "id": "4e3b0fb12e51060c5db91e9c721cb75ee8b1ad5a2225ae8212fbd811d93ad1f0",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications",
+      "summary": "研究提出IdeaAMBIG基准，评估科研方法描述的可实现性，衡量其是否提供足够细节供开发者无假设地复现，基于论文、代码等多源证据构建。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.10539v1",
+      "publishedAt": "2026-09-09T17:59:04+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "A research idea may be novel, coherent, and scientifically plausible, yet its proposed method may remain insufficiently specified for faithful implementation. We study the codification readiness of implementation-facing research-method specifications, defined by whether they provide sufficient methodological information for a competent implementer or coding agent to construct the intended method without unsupported assumptions. We construct evidence-grounded specifications and their supported resolutions from papers, codebases, issue threads, and reproduction artifacts. We introduce IdeaAMBIG, a benchmark of 660 evidence-grounded instances: 163 real-world gaps from reproducibility reports and GitHub issues, and 497 controlled synthetic gaps injected into codification-ready references. IdeaAMBIG evaluates three capabilities: codification-readiness assessment, defect localization, and clarification action generation. Defect localization receives only the specification, whereas clarification additionally receives the annotated defect. Across 13 LLMs, the best model achieves 9.6% Macro Defect Recovery Rate on real-world instances but 80.6% Macro Clarification Action Success Rate when given the defect. In an oracle study, supplying the gold resolution raises the downstream codification-ready rate from 14% to 98%. Across all evaluated models, defect localization is the main bottleneck, with stronger clarification given the defect."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Yiling Ma, Yilun Zhao, Sihong Wu et al.",
+        "categories": [
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "59e9f139a66c7e7c14a4f948d58c6ff0d94c3609ca8c539902e9989ca9574011",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Likelihood-free inference with nuisance parameters through normalizing flows",
+      "summary": "提出基于归一化流的无似然推断法，可自动提取近枢轴统计量，适用于含干扰参数场景，KL散度最小，且支持平移、尺度等群不变性先验。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.10534v1",
+      "publishedAt": "2026-09-09T17:58:15+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a sample generator from the distribution of interest. We show that the statistic is near-pivotal in the sense of minimum average KL-divergence of its $p$-values versus uniform and we argue that it can be expected to have good power when the dimension of the statistic equals the dimension of the parameter. It is able to incorporate prior knowledge about group invariances such as translation and scale. It can discover the one-sample $t$-test almost exactly, outperforms the Welch test in terms of worst-case size over a constrained variance-ratio range and achieves good calibration on partial biserial correlations, while showing higher power (and being much faster) on small-to-moderate samples than profile likelihood-ratio techniques."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Phil Assheton",
+        "categories": [
+          "stat.ME",
+          "cs.LG",
+          "stat.ML"
+        ]
+      }
+    },
+    {
+      "id": "b87abca4b326b4d03dbc867ae6341feffc920e4001f0f66bc5ecb376977ebe1f",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "A positive resolution of the gap-entropy conjecture",
+      "summary": "学者证明了高斯臂环境下固定置信度最优臂识别的“间隙-熵猜想”，给出样本复杂度下界 $H = \\sum_{i\\neq*} \\Delta_i^{-2}$ 及其熵修正项 $\\mathrm{Ent}(I)$。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.10529v1",
+      "publishedAt": "2026-09-09T17:57:11+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "We prove the gap-entropy conjecture for fixed-confidence best-arm identification with independent unit-variance Gaussian arms, means in $[0,1]$, and a unique optimal arm. For each suboptimal arm $i$, let $Δ_i=μ_*-μ_i$ be its gap from the optimal mean, and write $H=\\sum_{i\\ne *}Δ_i^{-2}$. Let $p_r$ be the fraction of $H$ contributed by arms with $2^{-(r+1)}<Δ_i\\le2^{-r}$, and let $\\mathrm{Ent}(I)=\\sum_{r:p_r>0} p_r\\log(1/p_r)$. Among all algorithms that identify the optimal arm with probability at least $1-δ$ on every Gaussian instance, the optimal expected number of samples on a given instance, averaged over all permutations of the arm labels, is within absolute constant factors of $H(\\log(1/δ)+\\mathrm{Ent}(I))$. Moreover, there is an algorithm, independent of the instance, whose expected number of samples is bounded by a constant multiple of this quantity plus $g^{-2}\\log\\log(e^e/g)$, where $g=\\min_{i\\ne *}Δ_i$ is the gap to the closest competitor."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "P. M. Aronow, Nathan Kallus, Patrick Lopatto",
+        "categories": [
+          "cs.LG",
+          "stat.ML"
+        ]
+      }
+    },
+    {
+      "id": "68ec5d95b62c47b11a5a5d87ea9b9ae6cde536d8c5eaa236679af0e4b91e1d54",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch",
+      "summary": "论文提出语言生成极限的刻画：当且仅当每个目标可分配有限正向证据，且任意有限样本激活的目标有无限交集时，生成才可行。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.10525v1",
+      "publishedAt": "2026-09-09T17:54:30+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a countable universe. Generation is possible exactly when each target can be assigned a finite positive witness so that the targets activated by any finite sample have an infinite common intersection. The necessary direction follows from a universal normalization: a search through unconfirmed histories converts any successful generator into one depending only on the observed set. We then ask how large compatible witnesses must be. Positive separation width records the smallest uniform size bound, with two further levels for unbounded finite witnesses and the absence of any compatible finite-witness assignment. Every level occurs. Countable families admit singleton witnesses, explicit families realize every finite width, and a union of two families with infinite common cores requires unbounded finite witnesses. Finally, countable-support and finite-profile obstructions explain why local combinatorial data cannot determine generation in the limit. The characterization and full width hierarchy are checked in Lean, including the simplified normalization and a direct diagonal capture lemma. The accompanying Lean development is maintained at https://github.com/xiaoyulics/language-generation-characterization"
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Xiaoyu Li, Andi Han, Jiaojiao Jiang et al.",
+        "categories": [
+          "cs.FL",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "5a8f35662dda5528b93bb3da0c929aa4aca766f465de0664f90922342a0f6e7a",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+      "summary": "Show-Harness提出新范式：用VLM直接控制机器人，通过语义动作单元与确定性解释器实现意图到动作的映射，无需微调模型。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.10522v1",
+      "publishedAt": "2026-09-09T17:53:38+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to \"play\" robots through a compact semantic interface linking intent to action. Show-Harness exposes discrete semantic action units that VLMs can naturally reason over, while embodiment-specific interpreters deterministically ground them into local robot actions, keeping the VLM directly responsible for fine-grained physical decisions. Through the same interface, Show-Harness demonstrates the feasibility of (1) directly unlocking closed-source frontier VLMs for zero-shot robot control, and (2) adapting small-scale open-source VLMs for low-cost deployment with just a few GPU-hours of fine-tuning. We further develop GUMI (GUI Manipulation Interface), which extends the same semantic action space to GUI-based demonstration collection, allowing humans and agents to \"play\" robots across embodiments without specialized teleoperation hardware. Extensive experiments show that Show-Harness-equipped VLM agents generalize robustly across tasks, embodiments, and environments, outperforming representative agentic and VLA paradigms. These results suggest that the right interface can unlock substantial embodied capability from foundation VLMs, without requiring additional model capacity or costly embodiment-specific pretraining."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Yanzhe Chen, Zechen Bai, Zhijun Cao et al.",
+        "categories": [
+          "cs.RO",
+          "cs.AI",
+          "cs.CV",
+          "cs.MM"
+        ]
+      }
+    },
+    {
+      "id": "b8e8cca59dbfb70561f9ba15e7c52a6533b7d92707af94f7d7b2d7eb7fa4d36b",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Optimal Low-Rank Quantum State Tomography with Bounded-Sample Joint Measurements",
+      "summary": "研究给出低秩量子态层析最优样本复杂度：估计d维、秩≤r的量子态至迹范数误差ε，需Θ(dr/ε²·max{1,r/√t})个样本。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.10514v1",
+      "publishedAt": "2026-09-09T17:48:41+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "We determine the optimal sample complexity of low-rank quantum state tomography when each measurement may act jointly on at most $t$ samples. For sufficiently small $\\varepsilon$, estimating an unknown state on $\\mathbb{C}^d$ of rank at most $r$ to trace norm error $\\varepsilon$ with constant success probability requires, and is achievable with, $$   Θ\\left(   \\frac{dr}{\\varepsilon^2}   \\max\\left\\{1,\\frac r{\\sqrt t}\\right\\}   \\right)$$ samples. The lower bound allows the protocol to choose each joint measurement adaptively using all previous classical outcomes; the matching upper bound is nonadaptive. Thus joint measurements on at most $t$ samples improve the complexity of algorithms making single-sample measurements by at most a factor $\\sqrt t$. Further, measuring order $r^2$ samples jointly is necessary and sufficient to attain the unrestricted collective rate.   For the lower bound, we vary the support of a state with fixed uniform spectrum and bound the Fisher information trace of every joint measurement on $t$ samples. The adaptive Fisher chain rule and the van Trees inequality then give the trace norm lower bound. For the upper bound, we construct and analyze a nonadaptive tomography protocol based on a Gaussian joint measurement. An explicit second moment identity and a conditional Gaussian law outside the state's support give a rank-dependent error analysis, yielding the matching rate."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Ashwin Nayak, Xingyu Zhou",
+        "categories": [
+          "quant-ph",
+          "cs.DS",
+          "cs.IT",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "85dee4f02c450068b0494f1ac2b8175a2dbc162c5164d665ec694e6ef102b7e9",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Quantum Feature Engineering for Credit Default Prediction: When and Why IQP Circuits Help Linear Classifiers",
+      "summary": "研究用IQP量子电路为信用违约预测生成特征，在23维金融数据上，以n维输入生成2n维量子特征，显著优于经典基线及核PCA。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.10505v1",
+      "publishedAt": "2026-09-09T17:41:27+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Credit default prediction is a tabular classification problem in which modest gains in F1 translate directly into reduced financial exposure. We ask whether Instantaneous Quantum Polynomial-time (IQP) circuits can produce features that improve a classifier over both its raw classical baseline and Kernel PCA - the strongest unsupervised classical non-linear alternative - at an equal feature budget. The dataset provides 23 financial attributes per client; for an n-qubit circuit we select n of them, encode each as a rotation angle, and read 2n expectation values back out as new features. The motivation for using a quantum circuit is computational: an n-qubit IQP circuit runs in constant depth and encodes feature correlations in a 2^n-dimensional Hilbert space, whereas classical simulation of its exact output statistics scales exponentially in n. Using the UCI Default of Credit Card Clients dataset and five-fold cross-validation, we find that appending 16 IQP features (n = 8 qubits) to a Logistic Regression model raises F1 from 0.462 to 0.517 (+0.055, p < 0.0001). Kernel PCA, the next-best method, reaches only 0.493 at the same feature count; the gap survives Benjamini-Hochberg correction across 12 tests (p = 0.00007). No other classifier - Random Forest, SVM, XGBoost, or k-NN - benefits, which points to a linear-expressivity mechanism rather than a generic improvement. We also show that how the 8 input features are chosen matters: Random Forest importance-guided selection reaches F1 = 0.523, while encoding maximally uncorrelated features drops it to 0.496, demonstrating that the circuit amplifies informative structure rather than creating it from scratch."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Menachem Finkelstein, Diana Legziel Levy, Zohar Yakhini et al.",
+        "categories": [
+          "cs.LG",
+          "quant-ph"
+        ]
+      }
+    },
+    {
+      "id": "2bd077c46fbf4db3de107251b7951e9c6c3e389c44d445f4be8dcc6853bf2e29",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Cross-Model Agreement as a Deployment-Time Reliability Signal for Automatic Polyp Segmentation",
+      "summary": "提出RBQE框架，通过主模型与独立“裁判”模型间Dice一致性评估息肉分割可靠性，在1223张图像外部测试集上验证有效。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.10495v1",
+      "publishedAt": "2026-09-09T17:32:43+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "In real-time colonoscopy, ground-truth annotations are unavailable at inference, so polyp segmentation models can fail silently. We propose Referee-Based Quality Estimation (RBQE), a reference-free framework measuring agreement between a primary segmentation model and an independently trained referee on the same image. RBQE is evaluated on a standardized 1,223-image external benchmark drawn from four public datasets, using four referee configurations chosen to separate two design axes: referee independence and architectural diversity. Using a common Agreement Dice descriptor, a same-architecture referee differing from the primary model only in random initialization already yields a useful reliability signal (ROC-AUC = 0.923), showing that independent training alone is sufficient. Cross-architecture referees improve further: SegFormer-B0 achieves the strongest performance (ROC-AUC = 0.960), significantly outperforming the same-architecture control and UNet++, and exceeding a representative Test-Time Augmentation baseline by 0.055 ROC-AUC under an identical protocol, whereas a prompt-coupled MedSAM referee underperforms despite maximal architectural diversity. Because empty-mask agreement is trivially separable, we also report a restricted evaluation excluding such cases: ROC-AUC falls to 0.876 (SegFormer-B0, 1,046 images) and 0.783 (same-architecture control, 975 images), yet RBQE's margin over both baselines widens on this identical subset. RBQE additionally increases the mean Dice of retained predictions as low-agreement cases are progressively rejected, supporting selective prediction, and requires only one additional deterministic referee forward pass at inference. Our study therefore supports cross-model agreement as a practical, interpretable reliability framework for automated polyp segmentation."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Siddharth Gupta, Jitin Singla",
+        "categories": [
+          "cs.CV",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "b21472d17d5b2f9f6ec14ba5e8747db853fbdfe6fd7286672bdb397c645bebf4",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier",
+      "summary": "IBIB协议提出以服务路由（非模型标识）评测企业AI系统，含金盲预检、可靠性评分与结构化裁决三部分，解决18个基准测试的测量误差问题。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.10494v1",
+      "publishedAt": "2026-09-09T17:31:29+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Enterprises deploy systems, not checkpoints. Usable capability depends jointly on weights, serving route, precision, output contract, and harness, yet all 18 audited benchmarks score advertised model identifiers. We treat this as measurement error and give a protocol that makes it reportable. It has three parts. A gold-blind capability-binding preflight verifies that a route can execute the evaluation contract before any task reaches it; a reliability-inclusive first-pass scoring rule keeps failure in the score while keeping unsupported capability out; and adjudication is structurally score-blind. We call the protocol IB2 and release its algorithms, classification tables, request contract, and manifest schemas. Its reference instantiation, 128 locked tasks and 987 assertions over document, spreadsheet, chart, tool and database work, stays sealed: the procedure is the artifact, not the corpus. Across eleven systems, four results. Capability availability is measurable: two complete single-route runs on identical weights later failed distinct predicates of the finalized binding gate, while a third passed that gate before a fresh run. The advertised identifier exposed neither limit. Discrimination is not uniform: four of seven suites saturate under a six-system band, with the spread almost entirely from governed database work and multi-tab joins, so we report interval-backed resolution groups, not ranks; two of the nominal five-label output's four cuts fail multiplicity adjustment. Serving-arm choice moved one declared revision and precision from 77.38 to 82.54, paired interval [0.11,10.60], though the arms differ in access mode, harness generation, and the serving tool-call parser, and harness generation is a property of our evaluator, not any endpoint. Excluding failed responses from denominators changes the point ordering, so reliability inclusion changes a conclusion, not its wording."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Blake Stenstrom, Charangan Vasantharajan, Brian Sathianathan",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "d9800b60f07062358ba1f8863eb7bdbefb0397968d40e03b176207a0444c271a",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Learning with Covariance Matrices: Principal Component Analysis Meets Learning with Graphs",
+      "summary": "本文综述协方差神经网络（VNN）理论基础，提出面向协方差矩阵图的GNN新框架，弥补现有GNN理论在统计依赖建模上的不足。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.10490v1",
+      "publishedAt": "2026-09-09T17:28:46+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "This feature article provides an overview of the theoretical foundations for coVariance neural networks (VNNs), i.e., graph neural networks (GNNs) operating on covariance matrices as graphs. Covariance matrices are ubiquitous across domains, and hence, the deployment of GNNs often leverages graphs of pairwise statistical dependencies. Existing theoretical contributions on GNNs consider abstract graph representations and cannot accommodate the data-driven nuances associated with covariance matrices. This tutorial brings into focus various novel theoretical insights via mathematical analyses of VNNs that have broad signal processing implications, including: (i) a conceptual equivalence between VNNs and principal component analysis (PCA)-based information processing; (ii) refined stability bounds on predictive outcomes in the presence of finite sample-induced covariance matrix perturbations; and (iii) refined characterization of transferability of VNNs across multiscale datasets. The theoretical insights discussed herein provide the underlying principles and justification towards adopting VNNs over workhorse PCA-based learning pipelines, in applications where covariance matrices are useful descriptors of data structure. We also convey how impact of these foundational advances permeates to \\textit{principled} designs and applications of learning methods across broad domains where covariance matrices emerge. Notably, we elucidate the conceptual insights facilitated by VNNs to the specific task of characterizing brain age gap for neurodegenerative conditions using neuroimaging datasets, a timely problem in computational neuroscience. Broader impacts to other application domains are discussed as well."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Saurabh Sihag, Andrea Cavallo, Elvin Isufi et al.",
+        "categories": [
+          "cs.LG",
+          "eess.SP"
+        ]
+      }
+    },
+    {
+      "id": "8d4432fc0f80d8e49505ffaac1764231769e8bfbf8d4c42ca7d2eb8b3cfee68e",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Nonmaximal sums of maximally monotone operators under Rockafellar's constraint qualification",
+      "summary": "杨伟峰构造反例，证伪Rockafellar求和猜想：在$c_0$和$\\ell^1$空间中，满足内域条件的两个极大单调算子之和未必极大单调。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.10487v1",
+      "publishedAt": "2026-09-09T17:26:26+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "We construct counterexamples to Rockafellar's sum conjecture in which two maximally monotone operators satisfy the interior-domain condition but their sum is not maximally monotone. We give one counterexample on $c_0$ and another on $\\ell^1$ with its usual norm. We establish a general construction theorem that computes the entire monotone polar of a class of graphs, gives a necessary and sufficient condition for their maximal monotonicity, and shows how a positive rank-one perturbation yields a nonmaximal sum under this condition. We verify the theorem's hypotheses and its maximality criterion on $c_0$, thereby obtaining a counterexample to the conjecture. Furthermore, we construct a bounded linear surjection from $\\ell^1$ onto $c_0$ and use it to obtain the counterexample on $\\ell^1$."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Weifeng Yang",
+        "categories": [
+          "cs.LG",
+          "math.FA"
+        ]
+      }
+    },
+    {
+      "id": "8c0190720892e5ef45b65cf9e9edff3716d1d2a574e5750db435506628190caa",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Deep Learning-Based Detection of Electrical Faults and Power Quality Disturbances in Aerospace Power Systems",
+      "summary": "研究提出面向400 Hz航空电源系统的硬件感知深度学习框架，基于波音787架构仿真生成21类工况数据，实现电气故障与电能质量扰动的多分类检测。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.10479v1",
+      "publishedAt": "2026-09-09T17:19:14+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "More Electric Aircraft require fast and reliable monitoring of high-frequency electrical networks, yet most power quality disturbance and fault diagnosis methods are developed for conventional 50 or 60 Hz grids. This work presents a hardware-aware deep learning framework for multiclass detection of electrical faults and power quality disturbances in a 400 Hz aerospace power system. A high-fidelity simulation model inspired by the Boeing 787 electrical architecture generates voltage and current waveforms for 21 normal, disturbance, switching, open-circuit, and short-circuit conditions. Two datasets, each containing 73,500 samples, are formed from one-dimensional time-series signals and short-time Fourier transform time-frequency representations. Signal-processing augmentation, domain randomization, and class-specific generative adversarial networks increase waveform diversity, and the time-series dataset is released through IEEE DataPort. We compare 1D and 2D convolutional neural networks, long short-term memory networks, CNN-LSTM hybrids, ResNet, MobileNet, and VGG models under common training conditions. A compact ResNet provides the best accuracy-complexity tradeoff, achieving 96.94 percent software test accuracy with 175,685 parameters. After 8-bit quantization and deployment on a Xilinx Zynq UltraScale Plus MPSoC ZCU102, the model achieves 95.87 percent accuracy and a measured mean neural-network accelerator latency of 6.90 ms per input record. The results establish simulation-based, accelerator-level feasibility for embedded edge AI in aircraft electrical health monitoring and motivate future end-to-end data acquisition and experimental validation."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Ian C. Guzmán, Radu Babiceanu, Berker Peköz",
+        "categories": [
+          "eess.SP",
+          "cs.LG",
+          "eess.SY"
+        ]
+      }
+    },
+    {
+      "id": "28f2dbe52ebe30e1818bc7d725a1ffead6c2b8c63c11307298bdf33ce8eb54a2",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Semigroup-JEPA: Latent Dynamics Consistency for Zero-Shot Physics Generalization",
+      "summary": "提出SG-JEPA模型，通过动作条件化与自回归潜在轨迹联合训练，提升JEPA世界模型在零样本物理泛化能力。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.10464v1",
+      "publishedAt": "2026-09-09T17:08:13+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Joint-Embedding Predictive Architecture (JEPA) world models learn a compact latent representation of the world that supports prediction and planning, but their capability to learn physics and generate physically realistic dynamics remains hitherto untested. In this work, we introduce SemiGroup-JEPA (SG-JEPA), which extends the LeWorldModel framework by supplying the parameter governing the physics to the temporal model via action-conditioning and jointly training an encoder and predictor through an autoregressive latent rollout. To evaluate the model's ability to generalize out of distribution, we design dynamical tasks under different gravitational fields that, despite obeying the same physical law, exhibit qualitatively different dynamics, ranging from floating motion in weak gravitational fields to rapid bouncing in strong ones. In contrast to DINO-WM, SG-JEPA reduces open-loop prediction error by up to 2 times on two-dimensional datasets, and increases control success rate up to 2.5 times for three-dimensional robotic datasets, for which we train independent diffusion policies. To explain this advantage, we develop a linear feature model that separates local law-conditioned error from its recursive amplification under rollout. Guided by this model, we find that back-propagating the multi-step rollout loss into the representation trains the encoder to keep the features that the predictor can carry forward, and that those are the features the dynamics depend on, so most of the gain comes from the encoder learning better features rather than from the predictor learning better dynamics. See project page at https://sg-jepa.github.io."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Andy Zeyi Liu, Haoran Sun, Lucas Baker et al.",
+        "categories": [
+          "cs.LG",
+          "cs.AI",
+          "cs.CV"
+        ]
+      }
+    },
+    {
+      "id": "fa5f24e6f18bd61b4c2802c8b08c5f1b2f8228064b1b2ca4055992a0efde0935",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Microsoft has new AI privacy rules for schools",
+      "summary": "微软一周内接连回应教育AI争议：继两大学区禁用学生AI后，与全美第二大教师工会AFT达成AI安全与隐私原则协议。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
+      "publishedAt": "2026-09-09T17:07:48+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "06a1dca643d82236eefe478cb06c7dd448c26fce569cb296e419b600aeb26ddf",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition",
+      "summary": "JarvisGUI是首个动态跨设备GUI基准，评估代理在多设备协同、状态共享与任务编排中的真实能力，弥补现有单设备静态评测的不足。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.10451v1",
+      "publishedAt": "2026-09-09T16:59:59+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Real-world GUI usage frequently involves workflows that span multiple devices and platforms, requiring the transfer of intermediate results, maintenance of shared state, and coordination across heterogeneous environments. However, existing GUI benchmarks overwhelmingly evaluate agents on single-device, statically defined tasks, thus leaving such cross-device capabilities largely unexamined, resulting in an overly optimistic assessment of agents' readiness for real-world usage. We introduce JarvisGUI, a dynamic benchmark that evaluates GUI agents on cross-device workflows requiring coordinated interaction across heterogeneous platforms, including Android, Windows, and Ubuntu. Specifically, JarvisGUI formulates GUI tasks as input-output transformations under a lightweight type system, which allows us to automatically compose multi-step, cross-device workflows and dynamically evaluate agent performance within a unified framework. By evaluating agents in virtual environments spanning multiple operating systems, JarvisGUI reveals that state-of-the-art open-source GUI agents struggle with the state-transfer awareness, cross-platform contextual reasoning, and long-horizon dependency management required for real-world workflows, exposing a critical capability gap invisible to existing benchmarks."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Zixiang Chen, Yuheng Lu, Zihao Cheng et al.",
+        "categories": [
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "5ca3c3723e6c11038612e0a21bfcda3fe06f2a4198a13bdcb25c4dfe3a2d36d8",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+      "summary": "“我们真心相信AI可能毁灭全人类！”——多位AI领域专家发出严重警告，强调超级智能失控风险。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+      "publishedAt": "2026-09-09T16:59:40+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "80a34d8776588bb48671d559f4d1c456154a835618a98fe98b7acbefcaed3679",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning",
+      "summary": "研究提出“L2推理”能力，使大模型能按用户提示语种（非英语）一致推理，解决英文中心化问题，提升多语言用户可及性与意图保真度。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.10445v1",
+      "publishedAt": "2026-09-09T16:56:25+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Reasoning language models have made substantial advances on a variety of complex tasks, yet their capabilities remain overwhelmingly English-centric: models primarily reason in English regardless of the language they are prompted in. This is inaccessible for non-English-speaking users, risks losing the intent of the original question, and forgoes knowledge more readily expressed in the target language. In this work, we advance L2 reasoning, the ability of a model to reason consistently in the language of the user's prompt, thus building an in-language bridge between the prompt and the answer. We approach this problem from a data-centric angle, investigating how to optimize data composition and scheduling in SFT for reasoning generalization. Building Tiny Aya L2-Thinker at 3.35B scale, we achieve an L2 reasoning rate above 93% across 60 languages on 6 benchmarks spanning math, commonsense reasoning, instruction following, open-ended generation, and cultural reasoning while keeping performance strong. We show the path to generalizing L2 reasoning to held-out languages goes through broader language coverage, readily available multilingual non-reasoning data, and a sufficient English reasoning backbone. These findings indicate that reasoning is a language-agnostic behavior that can be transferred across typologically diverse languages through careful data mixing and without requiring reasoning supervision in every target language. We release our model weights and multilingual reasoning data to support further research on accessible, in-language reasoning."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Mehrnaz Mofakhami, Ananya Sahu, Alejandro R. Salamanca et al.",
+        "categories": [
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "ecb8fc9202e2ef34f11052c73211eeef1fed2c520ec3e565b03b275bd8e3331a",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Google's AI genome system evaluates every possible one-base change",
+      "summary": "人类基因组中多数单碱基变异无影响，但少数具有重要功能意义。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
+      "publishedAt": "2026-09-09T16:34:18+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "dd00ac3f0200b2ea98fab382715a206ed8889ead452787273572930d6b876ab6",
       "module": "football",
@@ -44,201 +1253,6 @@
       }
     },
     {
-      "id": "02a2d903b66f181dc0a795a24eab54c5493c7fcf7ec03f039fc3f8861bbb1633",
-      "module": "football",
-      "seg": null,
-      "cat": "法甲",
-      "title": "Marseille 2-3 Paris FC",
-      "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2489482",
-      "publishedAt": "2026-09-09T15:42:46.468297+00:00",
-      "tags": [
-        "法甲",
-        "战报"
-      ],
-      "body": [
-        "法甲 第 3 轮 · 2026-09-06 · 北京时间 02:45（估算）",
-        "场地：Orange Vélodrome",
-        "主队 Marseille vs 客队 Paris FC",
-        "终场比分 2-3"
-      ],
-      "points": [
-        "<b>赛事</b>：法甲 第 3 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-09-06 · 北京时间 02:45（估算）",
-        "<b>场地</b>：Orange Vélodrome",
-        "<b>主队</b>：Marseille",
-        "<b>客队</b>：Paris FC",
-        "<b>终场比分</b>：2-3",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "3",
-        "season": "2026-2027",
-        "venue": "Orange Vélodrome",
-        "date": "2026-09-06",
-        "country": "France",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "50ddd6cd045675005d84ba09f84e0baa1cdf01a5f722e43bc0c560ee8653bf75",
-      "module": "football",
-      "seg": null,
-      "cat": "意甲",
-      "title": "Udinese 1-2 Lazio",
-      "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=2Xiy_RSXw5A",
-      "publishedAt": "2026-09-09T15:42:46.468289+00:00",
-      "tags": [
-        "意甲",
-        "战报"
-      ],
-      "body": [
-        "意甲 第 3 轮 · 2026-09-07 · 北京时间 02:45（估算）",
-        "场地：Bluenergy Stadium",
-        "主队 Udinese vs 客队 Lazio",
-        "终场比分 1-2"
-      ],
-      "points": [
-        "<b>赛事</b>：意甲 第 3 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-09-07 · 北京时间 02:45（估算）",
-        "<b>场地</b>：Bluenergy Stadium",
-        "<b>主队</b>：Udinese",
-        "<b>客队</b>：Lazio",
-        "<b>终场比分</b>：1-2",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "3",
-        "season": "2026-2027",
-        "venue": "Bluenergy Stadium",
-        "date": "2026-09-07",
-        "country": "Italy",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "493980746114341ce1cd06ee8b49715d31ab2e7e4fbf2a40cb8e42c80281e884",
-      "module": "football",
-      "seg": null,
-      "cat": "德甲",
-      "title": "Eintracht Frankfurt 1-4 Augsburg",
-      "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2508346",
-      "publishedAt": "2026-09-09T15:42:46.468280+00:00",
-      "tags": [
-        "德甲",
-        "战报"
-      ],
-      "body": [
-        "德甲 第 2 轮 · 2026-09-06 · 北京时间 23:30（估算）",
-        "场地：Deutsche Bank Park",
-        "主队 Eintracht Frankfurt vs 客队 Augsburg",
-        "终场比分 1-4"
-      ],
-      "points": [
-        "<b>赛事</b>：德甲 第 2 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-09-06 · 北京时间 23:30（估算）",
-        "<b>场地</b>：Deutsche Bank Park",
-        "<b>主队</b>：Eintracht Frankfurt",
-        "<b>客队</b>：Augsburg",
-        "<b>终场比分</b>：1-4",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "2",
-        "season": "2026-2027",
-        "venue": "Deutsche Bank Park",
-        "date": "2026-09-06",
-        "country": "Germany",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "532e04fc33730f135a6ca8545ac543c8cd085e4e47367e624ed6a3b38034d6bf",
-      "module": "football",
-      "seg": null,
-      "cat": "西甲",
-      "title": "Elche 2-3 Real Sociedad",
-      "summary": "西甲 · 战报 · 03:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=CGwY-AJRZOc",
-      "publishedAt": "2026-09-09T15:42:46.468257+00:00",
-      "tags": [
-        "西甲",
-        "战报"
-      ],
-      "body": [
-        "西甲 第 4 轮 · 2026-09-07 · 北京时间 03:30（估算）",
-        "场地：Estadio Martínez Valero",
-        "主队 Elche vs 客队 Real Sociedad",
-        "终场比分 2-3"
-      ],
-      "points": [
-        "<b>赛事</b>：西甲 第 4 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-09-07 · 北京时间 03:30（估算）",
-        "<b>场地</b>：Estadio Martínez Valero",
-        "<b>主队</b>：Elche",
-        "<b>客队</b>：Real Sociedad",
-        "<b>终场比分</b>：2-3",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "4",
-        "season": "2026-2027",
-        "venue": "Estadio Martínez Valero",
-        "date": "2026-09-07",
-        "country": "Spain",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "726066d38de63a1516ca3b082e9895f4baf217b4c549ad0dd56cf295ab6a3c7d",
-      "module": "football",
-      "seg": null,
-      "cat": "英超",
-      "title": "Arsenal 2-1 Chelsea",
-      "summary": "英超 · 战报 · 23:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=af99CJ4f_yc",
-      "publishedAt": "2026-09-09T15:42:46.468245+00:00",
-      "tags": [
-        "英超",
-        "战报"
-      ],
-      "body": [
-        "英超 第 3 轮 · 2026-09-06 · 北京时间 23:30（估算）",
-        "场地：Emirates Stadium",
-        "主队 Arsenal vs 客队 Chelsea",
-        "终场比分 2-1"
-      ],
-      "points": [
-        "<b>赛事</b>：英超 第 3 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-09-06 · 北京时间 23:30（估算）",
-        "<b>场地</b>：Emirates Stadium",
-        "<b>主队</b>：Arsenal",
-        "<b>客队</b>：Chelsea",
-        "<b>终场比分</b>：2-1",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "3",
-        "season": "2026-2027",
-        "venue": "Emirates Stadium",
-        "date": "2026-09-06",
-        "country": "England",
-        "status": "FT"
-      }
-    },
-    {
       "id": "83f00eaa308aaea549b349b88db9d9e3ab08411c964348de06dd076323752959",
       "module": "football",
       "seg": null,
@@ -261,136 +1275,6 @@
         "venue": "MHP Arena",
         "date": "2026-09-09",
         "country": "Germany",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "07cef51b7037350869f922b82c469514893d4803aac397abf7273d44ae4a46fa",
-      "module": "football",
-      "seg": null,
-      "cat": "法甲",
-      "title": "Rennes VS Marseille",
-      "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2489490",
-      "publishedAt": "2026-09-09T15:42:46.468224+00:00",
-      "tags": [
-        "法甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "4",
-        "season": "2026-2027",
-        "venue": "Roazhon Park",
-        "date": "2026-09-11",
-        "country": "France",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "3a27d2ca92507b7044d728e58ffd6074d185c8ad51934d190686f7221ee04d08",
-      "module": "football",
-      "seg": null,
-      "cat": "意甲",
-      "title": "Venezia VS Fiorentina",
-      "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2482175",
-      "publishedAt": "2026-09-09T15:42:46.468218+00:00",
-      "tags": [
-        "意甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "4",
-        "season": "2026-2027",
-        "venue": "Stadio Pierluigi Penzo",
-        "date": "2026-09-11",
-        "country": "Italy",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "cc453dd9d014064cb95434443ee38f615e08f5b5871b2903e22e8521b5ef384c",
-      "module": "football",
-      "seg": null,
-      "cat": "德甲",
-      "title": "Union Berlin VS Schalke 04",
-      "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2508357",
-      "publishedAt": "2026-09-09T15:42:46.468212+00:00",
-      "tags": [
-        "德甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "3",
-        "season": "2026-2027",
-        "venue": "Stadion An der Alten Försterei",
-        "date": "2026-09-11",
-        "country": "Germany",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "66c9d373ed13f95830efcef6ce116969d853f9e17e88aee45c0e044cfe1477bf",
-      "module": "football",
-      "seg": null,
-      "cat": "西甲",
-      "title": "Sevilla VS Valencia",
-      "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2506211",
-      "publishedAt": "2026-09-09T15:42:46.468205+00:00",
-      "tags": [
-        "西甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "5",
-        "season": "2026-2027",
-        "venue": "Estadio Ramón Sánchez Pizjuán",
-        "date": "2026-09-11",
-        "country": "Spain",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "d9ffd0d509af396b98c91423ba7922e62d194f51cdf73f34f619a381cda0931c",
-      "module": "football",
-      "seg": null,
-      "cat": "英超",
-      "title": "Bournemouth VS Brentford",
-      "summary": "英超 · 赛程 · 22:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2494031",
-      "publishedAt": "2026-09-09T15:42:46.468170+00:00",
-      "tags": [
-        "英超",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "4",
-        "season": "2026-2027",
-        "venue": "Vitality Stadium",
-        "date": "2026-09-12",
-        "country": "England",
         "status": "NS"
       }
     },
@@ -2264,6 +3148,56 @@
       }
     },
     {
+      "id": "94ab0f735ea2c4f8b3b960a394a423cf6cc81d8cf706d3cf0dcf8bafbef9dd23",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "【2026LPL第三赛段】9月8日 LGD vs IG-季后赛",
+      "summary": "UP主 老峰丶联盟搬运工 · 13,541播放 · 108:11",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117234907285450",
+      "publishedAt": "2026-09-08T10:24:24+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "老峰丶联盟搬运工",
+        "play": 13541,
+        "bvid": "BV1w2bV6nEtt",
+        "duration": "108:11"
+      }
+    },
+    {
+      "id": "c7e0549bd5eb7c2ef1d546f9adb85188ffe4197b2bb5a4666ae264b98a3dc62e",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "【2026LPL第三赛段】9月8日 LGD vs IG",
+      "summary": "UP主 哔哩哔哩英雄联盟赛事 · 2,794,466播放 · 169:22",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117234856888085",
+      "publishedAt": "2026-09-08T10:06:48+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "哔哩哔哩英雄联盟赛事",
+        "play": 2794466,
+        "bvid": "BV1sHb56xEhC",
+        "duration": "169:22"
+      }
+    },
+    {
       "id": "e57d3e2f28cbc1d1ba7b66af6fa837bde1a39b188a0872e64414a57322b530e3",
       "module": "lol",
       "seg": "tft",
@@ -2942,6 +3876,31 @@
         "play": 13902,
         "bvid": "BV1bFbK6BECE",
         "duration": "4:52"
+      }
+    },
+    {
+      "id": "46a448aa679842995904cba42460efbd2ec2da131986e1c1bdb2780ed0686f5e",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "【2026LPL第三赛段】9月7日 AL vs BLG",
+      "summary": "UP主 哔哩哔哩英雄联盟赛事 · 1,103,283播放 · 174:20",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117229186190268",
+      "publishedAt": "2026-09-07T10:08:04+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "哔哩哔哩英雄联盟赛事",
+        "play": 1103283,
+        "bvid": "BV13abK62Eo2",
+        "duration": "174:20"
       }
     },
     {
@@ -4155,6 +5114,31 @@
       }
     },
     {
+      "id": "4f4a6a093c9db246eccbe4c11e46c705d312a22e8f4acff9ed74a10a51e68438",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "【2026LPL第三赛段】9月6日 IG vs WE",
+      "summary": "UP主 哔哩哔哩英雄联盟赛事 · 2,998,711播放 · 219:6",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117222777359348",
+      "publishedAt": "2026-09-06T06:58:46+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "哔哩哔哩英雄联盟赛事",
+        "play": 2998711,
+        "bvid": "BV1vobp6eEnT",
+        "duration": "219:6"
+      }
+    },
+    {
       "id": "dcb09014a4f1ee363410762c7ebc4615de5a2968729c18a7c2cbb51e32c1ac48",
       "module": "lol",
       "seg": "match",
@@ -5256,6 +6240,31 @@
         "play": 543284,
         "bvid": "BV1zWtm6gESM",
         "duration": "16:6"
+      }
+    },
+    {
+      "id": "0737b547fa21a779a93a9df8995e5c25203e0d1f324c9b6cc4e39ad76b989f04",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "【2026LPL第三赛段】9月5日 TES vs IG",
+      "summary": "UP主 哔哩哔哩英雄联盟赛事 · 3,092,363播放 · 287:10",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117217157056572",
+      "publishedAt": "2026-09-05T07:06:12+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "哔哩哔哩英雄联盟赛事",
+        "play": 3092363,
+        "bvid": "BV1Zkty68EAe",
+        "duration": "287:10"
       }
     },
     {
@@ -11103,2298 +12112,107 @@
         "downloads": 0,
         "likes": 0
       }
-    },
-    {
-      "id": "b186624d3c2cc10896e58a6727e885fa39470dce27e802779f73374b3fe10ac5",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "MyAwesomeModel-TestRepo：nlp 模型更新",
-      "summary": "HuggingFace 上模型 asadqwr/MyAwesomeModel-TestRepo 无人下载、无点赞，热度为零。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/asadqwr/MyAwesomeModel-TestRepo",
-      "publishedAt": "2026-09-03T05:30:43+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "04f11cdd7720ee611c24a81b771cec0597f043b97100ab4bcf05785b6eae749c",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "koth-r2：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 krisha0253/koth-r2，0 下载，1 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/krisha0253/koth-r2",
-      "publishedAt": "2026-09-03T05:30:42+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 1
-      }
-    },
-    {
-      "id": "26ce9ec6041e93ad1b5724a9a1e03cb9217ecfa8ec4b54a19985a83d585ccced",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "spd09：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 PES24/spd09，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/PES24/spd09",
-      "publishedAt": "2026-09-03T05:30:38+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "3d1902a737b111513d61deea3c93760ad7c653ff24b9149c3454b252e5f2c084",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "koth-miner5：nlp 模型更新",
-      "summary": "HuggingFace 上 NLP 模型 beketov027/koth-miner5 无人下载、零点赞，热度为零。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/beketov027/koth-miner5",
-      "publishedAt": "2026-09-03T05:30:36+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "e1fe173392a49ee9bc185297db6887ffaedc7c95f516ae2c2d672f61e0941adb",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "ipo01：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 highlands/ipo01，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/highlands/ipo01",
-      "publishedAt": "2026-09-03T05:30:35+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "6221196b3248d957767a175e2159a54abb10f99469ee81b81bb09e4f73c8034d",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Hy-MT2-1.8B-JP-Manga-Finetune-v5-GGUF：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型 fumetodev/Hy-MT2-1.8B-JP-Manga-Finetune-v5-GGUF 目前下载量与点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/fumetodev/Hy-MT2-1.8B-JP-Manga-Finetune-v5-GGUF",
-      "publishedAt": "2026-09-03T05:30:34+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "481e6dc034fdf16baa8bd3c451ba3b0aae4d2d873561dd4dfacbf6f51d2ae639",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Hy-MT2-1.8B-JP-Manga-Finetune-v5：nlp 模型更新",
-      "summary": "HuggingFace 上热门日漫翻译模型 Hy-MT2-1.8B-JP-Manga-Finetune-v5 目前下载量与点赞数均为 0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/fumetodev/Hy-MT2-1.8B-JP-Manga-Finetune-v5",
-      "publishedAt": "2026-09-03T05:30:33+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "f78e6bc47bfaa9086a58660d4b4fa11410acb55df09186e137bdcebeb41897d2",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "MANN-GPT：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 wuff-mann/MANN-GPT，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/wuff-mann/MANN-GPT",
-      "publishedAt": "2026-09-03T05:30:31+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "0008c7ef40c2d4598b29d86a12cc9eb543f796fab0b2b745cf27a0243cddd495",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "cardiomamba-baselines-v2：audio-to-audio 模型更新",
-      "summary": "HuggingFace 上音频转音频模型 Shanmuk4622/cardiomamba-baselines-v2 目前下载量与点赞数均为 0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Shanmuk4622/cardiomamba-baselines-v2",
-      "publishedAt": "2026-09-03T05:30:30+00:00",
-      "tags": [
-        "huggingface",
-        "audio-to-audio"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "69fc32f5cbe4692ea088d89485522f555cc4ef074d5f1e66eb2ccf7f8a6c42e3",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "act_lego_pick_v3：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型 sankatmochan/act_lego_pick_v3 目前下载量为0，获1个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/sankatmochan/act_lego_pick_v3",
-      "publishedAt": "2026-09-03T05:30:27+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 1
-      }
-    },
-    {
-      "id": "2b507c2edb5ce690cd0eeef15f894953faa57cbf386668e63c18fe1e787df080",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "kab-tts-diffsinger：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型kmerakeb/kab-tts-diffsinger下载量195次，暂无点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/kmerakeb/kab-tts-diffsinger",
-      "publishedAt": "2026-09-03T05:30:26+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 195,
-        "likes": 0
-      }
-    },
-    {
-      "id": "a9ec01c439d3d6907396477b51e905bb1ca68895239b401f3ef5fafad630914f",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "koth-r3：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 krisha0253/koth-r3，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/krisha0253/koth-r3",
-      "publishedAt": "2026-09-03T05:30:26+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "b28d1315a6cea4afbf023f4058e4b5f19dd7c55f948b2549dda27d38cb3b1ea5",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Whittle-Next-26B-A3B：text-generation 模型更新",
-      "summary": "HuggingFace 上 text-generation 模型 logic65/Whittle-Next-26B-A3B 目前下载量与点赞数均为 0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/logic65/Whittle-Next-26B-A3B",
-      "publishedAt": "2026-09-03T05:30:26+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "daca535468992abf8c2fd02d97468509b2f1fec0105d36e92f7020d6e6042f7a",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "active-king____uid129____hk5D33F：nlp 模型更新",
-      "summary": "HuggingFace 上模型 reyansh38771/active-king____uid129____hk5D33F 无人下载、无点赞，热度为零。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/reyansh38771/active-king____uid129____hk5D33F",
-      "publishedAt": "2026-09-03T05:28:13+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "421cd20efc8c7dec32ed90b8f822d93719674c3de99363959657a4f89d066d80",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "spd06：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 PES24/spd06，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/PES24/spd06",
-      "publishedAt": "2026-09-03T05:27:54+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "a9505ee11dfdc1c70afdb886c229342052640192c6987e6731476175b5a1cd2f",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "bmb06：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 AltEinstein/bmb06，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/AltEinstein/bmb06",
-      "publishedAt": "2026-09-03T05:27:54+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "a5c4c2c01961d9ec65237b3cdee7852c2b8d10e9cad58556740ae558451676a8",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "qwen3-8b-cpt-lora-2048：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型 kkomyoeminaung/qwen3-8b-cpt-lora-2048 目前下载量与点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/kkomyoeminaung/qwen3-8b-cpt-lora-2048",
-      "publishedAt": "2026-09-03T05:27:53+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "8fe0d06a581a9fddf3e6adc8b2bef5f28f6dd52558d564b874f4bbb2fa6e91a2",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "pic10：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 sportsgirl/pic10，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/sportsgirl/pic10",
-      "publishedAt": "2026-09-03T05:27:50+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "e42e27098cfea5559c7367d8f4e664e6c15eb566e05e7dd85bfa700aea99080d",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "hal04：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 racer102/hal04，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/racer102/hal04",
-      "publishedAt": "2026-09-03T05:27:44+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "0a59ad9049ab6d788abab3dd034bbcec20c6bec4f8b42fd745ebe34e9695e16b",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Prune_Control_48_attnres：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型 JamesResearch1216/Prune_Control_48_attnres 目前下载量与点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/JamesResearch1216/Prune_Control_48_attnres",
-      "publishedAt": "2026-09-03T05:27:44+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "ac2fe3f97046536a9151bf3826dba958cf17cf1c5940399a336498bf65672c78",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "deepseek-r1-7b-grug-adapters：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型 hari31416/deepseek-r1-7b-grug-adapters 目前下载量与点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/hari31416/deepseek-r1-7b-grug-adapters",
-      "publishedAt": "2026-09-03T05:27:41+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "cbf8a7c0c758cde3a67e54d78f8f1d9dca84bb4d6100965cb6c64d62fd624817",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "ec2-auto-manager：nlp 模型更新",
-      "summary": "HuggingFace 上 NLP 模型 sundaycoil/ec2-auto-manager 无下载量，获 8 个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/sundaycoil/ec2-auto-manager",
-      "publishedAt": "2026-09-03T05:27:40+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 8
-      }
-    },
-    {
-      "id": "321ac3f4c6ae55f4e01c0d24d3383b767841785e5180dd1f9a43eb0381c153ef",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "sn120-06459872b39a：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型 yielden/sn120-06459872b39a 目前下载量与点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/yielden/sn120-06459872b39a",
-      "publishedAt": "2026-09-03T05:27:40+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "506116d8f99d30f33f968d1c489a0764b10518ad8e3ddd6381078f6064aa689c",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "cat06：nlp 模型更新",
-      "summary": "HuggingFace 上 NLP 模型 JokerJokerJoker/cat06 无人下载、零点赞，暂无使用数据。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/JokerJokerJoker/cat06",
-      "publishedAt": "2026-09-03T05:17:56+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "cc05ce4e7a18132286a3d9ab7f9f9d1314ea590c5224c9c8fa4bc3865fa458d6",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Lightricks-LTX-2-DISTILLED-10-Eros：image-to-video 模型更新",
-      "summary": "HuggingFace热门图像转视频模型Lightricks-LTX-2-DISTILLED-10-Eros下载量达8302次，获14个赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/ibyteohdear/Lightricks-LTX-2-DISTILLED-10-Eros",
-      "publishedAt": "2026-09-03T05:17:55+00:00",
-      "tags": [
-        "huggingface",
-        "image-to-video"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 8302,
-        "likes": 14
-      }
-    },
-    {
-      "id": "99e06db469dfe54dfbd1dcd75d84fb83bad80a254a65dc6dc9be15dd3145c6f6",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Crowd-v1：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 Vxtzq/Crowd-v1，3,638 下载，1 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Vxtzq/Crowd-v1",
-      "publishedAt": "2026-09-03T05:17:54+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 3638,
-        "likes": 1
-      }
-    },
-    {
-      "id": "6ccbc755b9203be36d2156860ba773b91b8fbd36743531bf076155d209d21999",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "kanana-1.5-8b-instruct-2505-Persona-GGUF：nlp 模型更新",
-      "summary": "HuggingFace 上 cuteElf/kanana-1.5-8b-instruct-2505-Persona-GGUF 模型暂无下载与点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/cuteElf/kanana-1.5-8b-instruct-2505-Persona-GGUF",
-      "publishedAt": "2026-09-03T05:17:54+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "05cbefeb7c1469ec9bf31ac39263ca32a4019d185ff4b67518113d169b3e7b4a",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "mirror-wondercat-wonder-rs91-36bc504c：nlp 模型更新",
-      "summary": "HuggingFace 上 NLP 模型 vect0r18/mirror-wondercat-wonder-rs91-36bc504c 目前下载量与点赞数均为 0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/vect0r18/mirror-wondercat-wonder-rs91-36bc504c",
-      "publishedAt": "2026-09-03T05:17:50+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "e30422528610b1480d10b94e3b50b692748490917e429585a5a729e9995aef9e",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "AePoWja2va1cUOgK：nlp 模型更新",
-      "summary": "HuggingFace 上 NLP 模型 hcmusa28/AePoWja2va1cUOgK 目前下载量为 0，获 1 个赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/hcmusa28/AePoWja2va1cUOgK",
-      "publishedAt": "2026-09-03T05:17:45+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 1
-      }
-    },
-    {
-      "id": "680927c9919fbfbffd58386b5c3d761c6cfd386f18902c3ebeea53b8ea5e08f9",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "minimind-fr-electronics：nlp 模型更新",
-      "summary": "HuggingFace 上 NLP 模型 yassinsiouda/minimind-fr-electronics 目前下载量与点赞数均为 0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/yassinsiouda/minimind-fr-electronics",
-      "publishedAt": "2026-09-03T05:17:45+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "b219a4ffcdaa9c6251018bae03100ba2d0d000a094b1f00dc5f2bc0caf03b564",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "qwen-3.8-next-40b-exp-moe-pruned-bf16：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型 osk-arr00/qwen-3.8-next-40b-exp-moe-pruned-bf16 目前下载量为0，获1个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/osk-arr00/qwen-3.8-next-40b-exp-moe-pruned-bf16",
-      "publishedAt": "2026-09-03T05:17:44+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 1
-      }
-    },
-    {
-      "id": "23e007bf706f02e660d36685e5e4d59f7bb3150398a35f782b7e1e86687926e7",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "minimind-fr-creative：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型 yassinsiouda/minimind-fr-creative 目前下载量和点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/yassinsiouda/minimind-fr-creative",
-      "publishedAt": "2026-09-03T05:17:44+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "9e5bee8ba3a17211803308d66ef7d3d35ff39c4ca8966ff391bcc956b85efd5a",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Charlie-Alpha-4B-MLX-4bit：text-generation 模型更新",
-      "summary": "HuggingFace 上模型 f0909172434/Charlie-Alpha-4B-MLX-4bit（text-generation 类）暂无下载量与点赞数。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/f0909172434/Charlie-Alpha-4B-MLX-4bit",
-      "publishedAt": "2026-09-03T05:17:42+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "8e064c313aa3ad991e2ddb39bd08352465d645643688c9dd9fad67abddbbc1e2",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "minimind-fr-router：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型 yassinsiouda/minimind-fr-router 目前下载量和点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/yassinsiouda/minimind-fr-router",
-      "publishedAt": "2026-09-03T05:17:42+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "cbcc41cda055737812b45830230cde1bdc53e831c0d1c66702221cdb2c6e620b",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "minimind-fr-pretrain-enfr：nlp 模型更新",
-      "summary": "HuggingFace 上 yassinsiouda/minimind-fr-pretrain-enfr NLP 模型暂无下载量与点赞数。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/yassinsiouda/minimind-fr-pretrain-enfr",
-      "publishedAt": "2026-09-03T05:17:40+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "92b1d73e8c9ca98a454278101c1ac71aab1c5c33b5ec92799141cc8cdd17053b",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "fun02：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 ElMusk/fun02，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/ElMusk/fun02",
-      "publishedAt": "2026-09-03T05:17:39+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2fb7e178546e5b9e1571e6c4506bfc3ceca8cf11c6926455103832505b16b8e3",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "new_129_5d33fwfwej：nlp 模型更新",
-      "summary": "HuggingFace 上 NLP 模型 exwayhorn/new_129_5d33fwfwej 无人下载、无人点赞，热度为零。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/exwayhorn/new_129_5d33fwfwej",
-      "publishedAt": "2026-09-03T05:17:38+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "3d589875977dd117ffe570cbb37bc96ea52f182596977c7ca806dfba9476278b",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "glm-5.3-w4a16-mtp：image-text-to-text 模型更新",
-      "summary": "HuggingFace 上热门图像-文本-文本模型 glm-5.3-w4a16-mtp（加拿大量化版）下载量22次，获1个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/canada-quant/glm-5.3-w4a16-mtp",
-      "publishedAt": "2026-09-03T05:17:36+00:00",
-      "tags": [
-        "huggingface",
-        "image-text-to-text"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 22,
-        "likes": 1
-      }
-    },
-    {
-      "id": "924fe5caf5fe44829844b1b52a6c6dca0aff5b4e162550bdb83e0518579e56f7",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "狂狂的战！重铸一费荣光，云顶热补后最超模阵容",
-      "summary": "UP主 襄平霸王东 · 42,819播放 · 1:40",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117205077395259",
-      "publishedAt": "2026-09-03T03:53:44+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "襄平霸王东",
-        "play": 42819,
-        "bvid": "BV1t7t96BEmj",
-        "duration": "1:40"
-      }
-    },
-    {
-      "id": "51e5b5c7b64e1130f57eb1ee753b2436feda411951dc5be3a7f159395eb17583",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
-      "summary": "从工厂一路干到家庭",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/483565.html",
-      "publishedAt": "2026-09-03T03:16:43+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ba03ae8abc8cab688bb3fe4f24c792b42a1aba9c0ea8c3dac8a342d4029099f3",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "【神超s18】【野兽双c】热不后的强势运营阵容",
-      "summary": "UP主 GoDlike_神超 · 12,549播放 · 1:23",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117204825675262",
-      "publishedAt": "2026-09-03T02:54:24+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "GoDlike_神超",
-        "play": 12549,
-        "bvid": "BV1Ggt96VER3",
-        "duration": "1:23"
-      }
-    },
-    {
-      "id": "9fd42b1b3ddfe90d53cdd9e5da5f08402c60c9a2adc7f2cc95df017eb89c0705",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "海斗2分钟第40期:吸血鬼 好用海克斯太多随便胡",
-      "summary": "UP主 以小冬 · 13,491播放 · 1:35",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117204708234654",
-      "publishedAt": "2026-09-03T02:21:36+00:00",
-      "tags": [
-        "lol",
-        "rune",
-        "英雄联盟 海斗 黑科技 上分"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "以小冬",
-        "play": 13491,
-        "bvid": "BV1d1t96EEW6",
-        "duration": "1:35"
-      }
-    },
-    {
-      "id": "baf1df33c8ff2ada1405fb52bfbd4f7087a4531cae6706b7c29b87be0deb4740",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
-      "summary": "",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/483552.html",
-      "publishedAt": "2026-09-03T01:31:45+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "aa474a8aa70e6ea41db82e4f3d161d825fe9c8a1ce2293fc1aea9ad4d2771b29",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
-      "summary": "4激光雷达+双M100上车",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/483462.html",
-      "publishedAt": "2026-09-03T01:27:05+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "03274cb2d97bec8ad8bb7d7d9d52133f4c3ce51ee5c927c154600949e4e15e6d",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "S18全网最全3纹章开局定阵公式，6套转职阵容直接抄作业。",
-      "summary": "UP主 弈术指南 · 83,313播放 · 3:44",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117204355914413",
-      "publishedAt": "2026-09-03T00:52:34+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "弈术指南",
-        "play": 83313,
-        "bvid": "BV1QXt96CEiF",
-        "duration": "3:44"
-      }
-    },
-    {
-      "id": "91f192f51eec792b77b2666d0eda477d62fab3ab89767451ee855f6f9ae15f39",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "今年最难的机器人Demo，“机器人含量”为0",
-      "summary": "遥操，可能真的危险了",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/483351.html",
-      "publishedAt": "2026-09-03T00:51:16+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "202c533e8e69854943168737aace5275d4de4f3b92adf058ac5d2ca61b494a5e",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "Now that its been long enough, its pretty safe to say that not being able to ban champions hovered by allies was without a doubt, one of the best changes the game ever did, no?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>While it didn't happen every game, it happened way more than it ever should have. Lite",
-      "source": "reddit-lol",
-      "sourceUrl": "https://www.reddit.com/r/leagueoflegends/comments/1w5s4bj/now_that_its_been_long_enough_its_pretty_safe_to/",
-      "publishedAt": "2026-09-03T00:25:49+00:00",
-      "tags": [
-        "lol",
-        "reddit-lol"
-      ],
-      "body": [
-        "<!-- SC_OFF --><div class=\"md\"><p>While it didn't happen every game, it happened way more than it ever should have. Literally anyone that has played league for at least a year (Before the change described in the title) can tell you they have had lobbies where an Ally (Or themselves) hovered a champion and someone else on the team banned it on purple.</p> <p>What happened in these lobbies? People got tilted. The person that got banned by their Griefing Ally immediately is worse this game for several reasons. One, their desired champion (That they probably have the most experience on) is banned by their Ally. Two, since it was their ally that banned it, they are probably feeling done with the game already and want to get away from that person.</p> <p>Never ever have I ever seen a single instance where banning an allied champion (Who wasn't trolling) resulted in anything good. Even when you have someone trolling, like a Jungler hovering Yuumi, banning the Yuumi from the troll didn't do anything. They just trolled with something else.</p> <p>I have seen so many lobbies turn into tiltfests because of some trolls banning their ally's champ. I have been in games where literally the enemy team says &quot; please report X, they banned our mid lane&quot; or some other variation of the sentence.</p> <p>I will truly never understand why this change didn't happen sooner. It never should have been possible to ban out ally champs to begin with. It was literally trolling 101 to ban a champion that your ally hovered. So many people did that shit if someone wouldn't swap lanes/picks with them just to be petty.</p> <p>I am so happy that it eventually got changed. Its such a crazy improvement for the game. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PrestigiousWhirlwind\"> /u/PrestigiousWhirlwind </a> <br /> <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5s4bj/now_that_its_been_long_enough_its_pretty_safe_to/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5s4bj/now_that_its_been_long_enough_its_pretty_safe_to/\">[comments]</a></span>"
-      ],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "0b0137b1d3afc79f90d72ef3de38f300d38b8ffa890254d9224baf5bedf0f211",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/train-to-paint-with-code",
-      "publishedAt": "2026-09-03T00:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "7455f612f8dec9923d964069678104f2f6fd5c85ef91efd5bc7100cfe7813847",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "publishedAt": "2026-09-03T00:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "78ba45cff69a7d4be64fb84acca80c4ffe9660181a3b54a844846cb69d2c6c3b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Give Your Coding Agents a Memory You Own",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/funes",
-      "publishedAt": "2026-09-03T00:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "9958dc167e45b42d66cbb70e9430b3d6e2b4de03d68725594246c7e0c15bd48a",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "云顶S18第二周阵容排行，九五&amp;野兽/裁决八四登顶",
-      "summary": "UP主 洛城烟雨楼 · 5,350播放 · 2:5",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117204053923336",
-      "publishedAt": "2026-09-02T23:33:40+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "洛城烟雨楼",
-        "play": 5350,
-        "bvid": "BV13gtQ6vEAk",
-        "duration": "2:5"
-      }
-    },
-    {
-      "id": "32732aeb32cc1430a0f91c83efd9b7930a4d62488367c7b7d34565656f8be7a5",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "summary": "TechCrunch Disrupt 将重启“建造者舞台”，汇聚创始人、初创运营者及投资人，聚焦实战性建企与规模化议题。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-02T23:01:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "6b80fdbd330145d97a92b5c5a3db2ce10ea520aec761682fb5c1508207454a69",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "summary": "红杉资本支持的Serval成AI IT服务自动化领域初创企业领导者。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "publishedAt": "2026-09-02T22:44:56+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "648b949197daff1ac6b384d18d500bfef574b7b30402ac48068e3934352ab70c",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "The indomitable Baby Raptor spirit",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5pf60/the_indomitable_baby_raptor_spirit/\"",
-      "source": "reddit-lol",
-      "sourceUrl": "https://www.reddit.com/r/leagueoflegends/comments/1w5pf60/the_indomitable_baby_raptor_spirit/",
-      "publishedAt": "2026-09-02T22:30:45+00:00",
-      "tags": [
-        "lol",
-        "reddit-lol"
-      ],
-      "body": [
-        "<table> <tr><td> <a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5pf60/the_indomitable_baby_raptor_spirit/\"> <img alt=\"The indomitable Baby Raptor spirit\" src=\"https://external-preview.redd.it/OHpzaDZwNHJuNm5oMf7YYU7ky0Y73HNYBEcaGJkD-aCE_RZGivXe0BxsG8sO.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=48150c1e62d144bbf5119ee843cf9c31f8bb199c\" title=\"The indomitable Baby Raptor spirit\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Came across this clip and found it hilarious. Edited adding subtitles for the non-italians, and the slowed down jungle pet at the start. The subtitles are more Pg-13 than what he said but he must be passionate :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MorsicaLaCorsica\"> /u/MorsicaLaCorsica </a> <br /> <span><a href=\"https://v.redd.it/61gyxh4rn6nh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5pf60/the_indomitable_baby_raptor_spirit/\">[comments]</a></span> </td></tr></table>"
-      ],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c0d4c30f883c3dc9478c5248704ad89689fdf9f4018ca4018e4a7731620c1f63",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "League of legends had 100 champions before season 3, almost half of the champions playable at that time are missing and THAT is contributing more to classic dying than anything else",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>That's basically it. If people wonder what the main reason for not wanting to play cla",
-      "source": "reddit-lol",
-      "sourceUrl": "https://www.reddit.com/r/leagueoflegends/comments/1w5pajk/league_of_legends_had_100_champions_before_season/",
-      "publishedAt": "2026-09-02T22:25:40+00:00",
-      "tags": [
-        "lol",
-        "reddit-lol"
-      ],
-      "body": [
-        "<!-- SC_OFF --><div class=\"md\"><p>That's basically it. If people wonder what the main reason for not wanting to play classic is, it's because their champions are not in. Jayce was the 100th champion and he was released 4 months before the season 3 preseason, classic released with 60 champions. Almost half of the roster that was playable for their &quot;target season&quot; of season 3, are not playable.</p> <p>A lot of people point towards the re-grinding of runes being a massive killer for classic, but if you actually played it takes less than a day to get a viable rune page for IP in classic, where it can still take months to get the entire roster via blue essence</p> <p>A lot of people point towards modern skins being available as being a massive killer for classic, and it is, but a good chunk of the modern skins available for use do <em>not</em> change the skeleton or hitboxes. Modern skins for champions like sion and skarner where it uses their post rework model are a knife to the eyes, but does anyone really care if you're using toy terror chogath, debonair brand, or zap'maw? probably not</p> <p>For me the 2 biggest problems of classic are the fact that I can't play almost any of the champions I wanted from classic, and the mmr issue. If you have a decent win rate, your mmr tries to place you with players that simply don't exist. I have a 58% win rate on classic in NA and my queues can go over 15 minutes, if I queue with my girlfriend who has only played 5~ games of classic, my queue times are under 3 minutes. But you know what? I wouldn't mind 15 minute queues or even regrinding runes at the original rates if I could just play old urgot again</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/zharkos\"> /u/zharkos </a> <br /> <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5pajk/league_of_legends_had_100_champions_before_season/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5pajk/league_of_legends_had_100_champions_before_season/\">[comments]</a></span>"
-      ],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f7fcddf154a01108fb4b7f5746a48459ce979c1104a3f0d63a3d77cc66d0677b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "summary": "新设“真实世界AI”舞台，聚焦数字与物理世界融合，探索二者持续交汇的多元场景。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "publishedAt": "2026-09-02T22:24:09+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d1e38f80e9d959ae5a9c8e936e980495481438930f8c6377a30097fe224d972f",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "Ryalai's Scepter on DOT champions is so frustrating",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Like every tick of the aoe is a slow functionally making it if you dont have a dash, u",
-      "source": "reddit-lol",
-      "sourceUrl": "https://www.reddit.com/r/leagueoflegends/comments/1w5o1pa/ryalais_scepter_on_dot_champions_is_so_frustrating/",
-      "publishedAt": "2026-09-02T21:37:41+00:00",
-      "tags": [
-        "lol",
-        "reddit-lol"
-      ],
-      "body": [
-        "<!-- SC_OFF --><div class=\"md\"><p>Like every tick of the aoe is a slow functionally making it if you dont have a dash, ur basically rooted. Like singed, mordekaiser malzhar and asol become such big threats after buying these items to point of no escape for any champions. It doesnt help that they have either a speed booast, a lockin in, suppression and a large aoe blast you cant escape from. Like its either you out damage them or have a large enough dash to beat them cause their ablities are so hard to dodge since a lot of them have radiuses that are massive(mordes Q) or click ons spells( Malz E).</p> <p>I doubt we wont get a nerf as most of the champs that abuse the item aren't proplay must picks or their ban rates aren't that high. Its just annoying that a 30% slow is constantly being reapplied. Id rather the first tick be 30% and the subsequent applies be 15% slow. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/GrumpyPan\"> /u/GrumpyPan </a> <br /> <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5o1pa/ryalais_scepter_on_dot_champions_is_so_frustrating/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5o1pa/ryalais_scepter_on_dot_champions_is_so_frustrating/\">[comments]</a></span>"
-      ],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "8cb6ff9cc99deb680155597d4433e5b05564fb38ebbd7f0b9bf815387ffb6b8e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "summary": "OpenAI新模型Astra采用“循环深度”技术，突破传统推理模型的顺序思维限制。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "publishedAt": "2026-09-02T20:19:14+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "36aa2a32dae9ea274ecfc58578fa0e234aebb6cc06de3b36ba6fff2e6c6280f4",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-      "summary": "Google发布Gemini 3.8 Flash，推理能力更强、工具调用更高效；定价不变：输入0.75美元/百万token，输出3.75美元/百万token。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-      "publishedAt": "2026-09-02T20:11:40+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "de9550e0994d159db8129b06a1c365b70729fc98d120cdf9fedd7bf0794aa57b",
-      "module": "lol",
-      "seg": "rift",
-      "cat": "峡谷攻略",
-      "title": "机械公敌-兰博新手入门+天赋出装教学，看完就上手！",
-      "summary": "UP主 波澜兰博 · 3,777播放 · 13:11",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117202795632587",
-      "publishedAt": "2026-09-02T18:15:53+00:00",
-      "tags": [
-        "lol",
-        "rift",
-        "英雄联盟 上单 出装 攻略 教学"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "波澜兰博",
-        "play": 3777,
-        "bvid": "BV1DStS6FEMb",
-        "duration": "13:11"
-      }
-    },
-    {
-      "id": "e1c366d021a09968e7896a728db7741924162e023e22c1c2036f3c18eb6fe953",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-      "summary": "谷歌暂停Gemini Pro模型更新，今日却推出新版本Gemini Flash。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-      "publishedAt": "2026-09-02T18:13:54+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "04858228ed79c460188a56770b634c96941191ad05328e57bbb33871dd666479",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "A Common Measure of Communication for Speech Brain-Computer Interfaces",
-      "summary": "研究指出，言语脑机接口（BCIs）因缺乏统一评估标准（如数据集、记录方式、词汇量等差异），导致性能难以横向比较，亟需建立通用通信度量标准。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.02887v1",
-      "publishedAt": "2026-09-02T17:59:46+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Speech brain-computer interfaces (speech BCIs) translate neural activity into language, offering a path towards restoring speech for people with paralysis and, more broadly, enabling new forms of natural human-computer interaction. Despite this promise, the field lacks a common measure of progress because systems use different datasets, recording methods, types of speech, and vocabularies, so their reported scores are rarely comparable. Underlying this measurement problem are two unresolved questions: (i) what distribution of words should a speech BCI enable a user to communicate, and (ii) how much information from this distribution can a system convey. We address both by deriving open-vocabulary mutual information (OVMI), an information-theoretic quantity that measures the information conveyed by a decoder relative to a reference distribution over the words a user may wish to communicate. This allows capabilities measured under different conditions, such as distinct vocabularies, to be evaluated on a common communication scale. We show that ordinarily reported accuracy, word error rate (WER), and other metrics computed only over the words a system supports can overstate how much of a user's intended speech the system can communicate. We then use OVMI to compare existing systems, expose trade-offs between how much of the user's language a system supports and how accurately it decodes those words, show that these comparisons depend on what the user is expected to communicate, and demonstrate that selecting a vocabulary to maximise OVMI yields up to 16.3% relative improvement in accuracy across three speech domains. OVMI therefore provides the speech BCI community with a principled way to compare heterogeneous systems, improve vocabulary design, and measure progress in the field."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Dulhan Jayalath, Benjamin Ballyk, Oiwi Parker Jones",
-        "categories": [
-          "cs.LG",
-          "q-bio.NC"
-        ]
-      }
-    },
-    {
-      "id": "0a130f1cb53221fa0e1fa84bb36c481a9da3b4097ea5855d5c23ea667dd8a5a9",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Discriminative World Models for Web Agents",
-      "summary": "研究提出“预测状态匹配”新训练目标，提升网页智能体世界模型的判别能力，使其更适配下游排序模型，优于传统监督式下一状态预测。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.02885v1",
-      "publishedAt": "2026-09-02T17:59:40+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (PRM). These world models are typically trained via supervised next-state prediction to generate fixed representations like HTML or AXTree snapshots. However, this objective is misaligned with the downstream ranker, which relies on predicted states being discriminative across candidates to accurately score them. To address this, we introduce predicted-state matching, a training objective where the predicted representation must distinguish the true resulting state from those reached by alternative actions. We train these models using a branching web-agent dataset derived from WebArena Go-Browse trajectories, where every decision point contains multiple alternative actions and their resulting states. Experiments on our held-out predicted-state matching benchmark show that our approach outperforms world models trained with supervised next-state prediction. We further show that our approach improves PRM-style action ranking on WebPRMBench compared with action-only PRMs and PRMs augmented with supervised-next-state world models. Finally, on WebArena-Lite, using our world model for test-time action selection improves end-to-end task success. Our project page is available at: https://dhruvpendharkar.github.io/dwm/."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Kelvin Li, Dhruv Pendharkar, Anish Pahilajani et al.",
-        "categories": [
-          "cs.AI",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "a810368bdcae1eb8f575bf014c62495d335be182595e55ce65aa6d940b8e9531",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
-      "summary": "诉讼称特朗普秘密审查前沿AI模型或涉腐败，但未提供实证。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
-      "publishedAt": "2026-09-02T17:58:33+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "818879f91ee8c95fdd53d5a0d78b38b6086dd6cd81563d606629aa00c51860d4",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Graph Machine: Towards Better Pretraining via Edges",
-      "summary": "提出Graph Machine（GM）架构，用可微指针式边动态路由，保持O(n)状态规模；将Qwen3-0.6B中75%稠密层替换为GM稀疏层，基于15.7B tokens从零预训练。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.02881v1",
-      "publishedAt": "2026-09-02T17:56:41+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "We introduce the Graph Machine (GM), an architecture that maintains an $O(n)$-sized state and accesses it through sparse, dynamic routing. Unlike methods with fixed-size states or sparse but static routing, GM preserves $O(n)$ complexity in its sparse layers without restricting the potentially accessible state size to $O(1)$. Instead, GM uses edges - pointer-like objects updated differentiably by a referral mechanism resembling pointer chasing. We replace 75% of the dense Transformer layers in Qwen3-0.6B with GM sparse layers and pretrain from scratch on 15.7B tokens. With only 2 of 4,096 tokens retrieved per KV head in each sparse layer, loss degrades only slightly; with 4, the best model marginally improves loss."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Lintai Hou",
-        "categories": [
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "44e0be8a51de1399e751975b95b55a04af6d250d53ec6245c664f8b8eefb7499",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "GRADSOLVE: fast exact gradients for ODE ensembles on GPUs",
-      "summary": "GRADSOLVE是开源JAX库，首次在GPU上实现ODE系综的快速精确反向梯度计算，兼顾求解速度与可微性。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.02876v1",
-      "publishedAt": "2026-09-02T17:56:10+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Ordinary differential equations (ODEs) underlie models in science and engineering, and many applications need derivatives of their solutions with respect to parameters. Ensembles of independent trajectories suit graphics processing units (GPUs), but current GPU software forces a trade-off: the fastest ensemble solvers cannot be differentiated in reverse mode at the speed they solve, and the solvers built for differentiation solve more slowly. No single tool has yet offered a reverse-mode gradient at the speed of a fused-kernel solve.   We present GRADSOLVE, an open-source JAX library for solving and reverse-mode differentiating low-dimensional ODE ensembles on NVIDIA GPUs. It records the steps an adaptive solver accepts and differentiates a fixed-step replay of them; the returned gradient is the exact discrete adjoint of those steps, the same derivative Diffrax returns by default, obtained more cheaply from a fixed-length chain than from an adaptive loop. It targets ensembles differentiated many times against one recorded mesh, keeps Diffrax as a fallback, and supports explicit and Rosenbrock integrators.   Used as a solver, GRADSOLVE's forward-only kernel ran 2.8x faster than DiffEqGPU.jl; used for gradients, once a record exists, it computed them 5.6-14.1x faster than Diffrax's checkpointed adjoint at matched forward-state accuracy across three GPU generations, the advantage narrowing on large ensembles and, on stiff systems, down to parity at tight accuracy. GRADSOLVE is released at https://github.com/ECLIPSE-AI4Science/gradsolve."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Alessio Spurio Mancini",
-        "categories": [
-          "cs.MS",
-          "cs.DC",
-          "cs.LG",
-          "math.NA"
-        ]
-      }
-    },
-    {
-      "id": "c71f7d72e8ff1188a0c14945d40b302f5dadbe374f07a54295e80479eb252d51",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Amazon’s AI assistant can now spot fake emails from the company",
-      "summary": "亚马逊推出新功能：用户可让Alexa for Shopping用AI识别邮件、短信或电话是否为官方发送，以防范仿冒诈骗。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-      "publishedAt": "2026-09-02T17:52:56+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4978a762a3eb0e09adc42b9886f5075aaf813a9641a15b6a964ff9a5d20fac93",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework",
-      "summary": "本文提出TRACE框架，通过四层可审计结构（语义感知、信念推理等），实现自主机器人决策的可追溯性与可解释性。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.02861v1",
-      "publishedAt": "2026-09-02T17:44:25+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Autonomous robots powered by deep learning face a fundamental auditability challenge: when incidents occur, investigators cannot reconstruct why the system made specific decisions. This paper presents TRACE (Transparent Reasoning Architecture for Credible Execution), a decision framework that ensures every autonomous action can be traced back to sensor evidence through documented causal chains. The framework organizes decision-making into four auditable layers: Semantic Perception for evidence-grounded entity recognition, Belief Reasoning for probabilistic state estimation with causal graphs, Action Synthesis for constraint-aware planning with counterfactual documentation, and Execution Verification for compliance monitoring. TRACE is model-agnostic yet designed to integrate learning-based perception modules (CNNs, transformers) while preserving decision-level auditability. We evaluate the framework using three objective metrics: Evidence Traceability (sensor-to-decision linkage), Decision Reconstructability (post-hoc analysis capability), and Temporal Continuity (audit trail completeness). Experimental evaluation on warehouse robot navigation demonstrates that TRACE achieves 98.6% evidence traceability, 99.0% temporal continuity, and 98.1% decision reconstructability across 500 simulated decision cycles. Post-hoc methods like LIME provide feature attributions but lack the artifact structure needed for decision-level reconstruction. The framework addresses EU AI Act requirements for high-risk system transparency and contributes to Explainable AI for safety-critical autonomous systems."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Cagri Temel",
-        "categories": [
-          "cs.RO",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "b12d3f9abae3d2555aebdb2b602d1ee33c6556b117fa0813c3d9c29cb0624c1d",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "User Feedback Provides a Unique Signal that LLMs Can not Detect",
-      "summary": "研究发现用户反馈是LLM可利用的有效学习信号，其“无效”印象源于评估范式偏差；作者通过合成+真实数据验证了该信号的高可用性。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.02859v1",
-      "publishedAt": "2026-09-02T17:42:44+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Harnessing naturally occurring feedback from user interactions offers a promising learning signal for Large Language Models (LLMs). However, recent studies suggest this feedback is inherently noisy and difficult to leverage effectively. We challenge this conception by demonstrating that user feedback is a highly actionable signal for improvement, and that its perceived ineffectiveness stems from a systematic bias in current evaluation paradigms. To isolate the usefulness of feedback, we construct synthetic data with a definitive ground truth, alongside naturalistic data to validate that our findings hold in real-world scenarios. By comparing model revisions generated with and without access to feedback across both settings, we show that feedback-informed revisions resolve targeted issues at significantly higher rates than baseline revisions. Finally, we expose the root of the evaluation bias: when a model successfully fixes an issue exclusively due to feedback, LLM judges frequently fail to identify the genuinely corrected response, systematically preferring inferior baseline outputs instead."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Shachar Don-Yehiya, Leshem Choshen, Omri Abend",
-        "categories": [
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "79b4a7cbf86106b505c5ff6c0d8abb606d87eb295733418517b7d829db6230f7",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Improved Gradient Descent Lower Bounds Beyond Nesterov",
-      "summary": "研究改进梯度下降步长下界：非任意时Ω(n⁻¹·⁶³⁴²)，任意时Ω(n⁻¹·²⁴⁰⁸)，均优于此前结果。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.02855v1",
-      "publishedAt": "2026-09-02T17:39:52+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "We study how far gradient descent (GD) can be accelerated by predetermined stepsizes in smooth convex optimization. Going beyond the classical $Ω(n^{-2})$ first-order oracle lower bound of Nemirovsky and Yudin, we prove an $Ω(n^{-1.6342})$ non-anytime lower bound and an $Ω(n^{-1.2408})$ anytime lower bound. These improve the recent $Ω(n^{-1.932})$ non-anytime lower bound of Ma and Chen and the $Ω(n^{-4/3})$ anytime lower bound of Tsai et al., respectively. Together with the non-anytime $O(n^{-\\log_2(1+\\sqrt{2})})$ rate achieved by silver schedules, our anytime lower bound establishes a strict separation between the achievable convergence exponents in the two settings."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Yuhan Ye, Kaizhao Liu",
-        "categories": [
-          "math.OC",
-          "cs.LG",
-          "stat.ML"
-        ]
-      }
-    },
-    {
-      "id": "c14fc451ef59ff1b743129f42f34c8c78470dbb47fc14653ca610b4250fb3400",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "The Implications of Linguistic Illegibility for LLM Security",
-      "summary": "论文提出“语言不可读性”概念，指出大语言模型（LLM）的外部语言输出与内部计算常不一致，威胁其安全性与可解释性。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.02852v1",
-      "publishedAt": "2026-09-02T17:37:22+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "LLMs are trained to generate natural language. However, various strands of evidence indicate that an LLM's externalized linguistic outputs and mechanistically-extracted linguistic features can be an unreliable lens for understanding internal model computation. We introduce the term ``linguistic illegibility'' to broadly refer to scenarios in which an LLM's externalized or mechanistically-probed language artifacts fail to represent how the model actually thinks. We argue that the specter of linguistic illegibility is unavoidable for LLMs whose internal computations are not directly expressed via language, but rather math over activation spaces (with lossy translations between activation spaces and natural language happening at the bookends). If linguistic illegibility is always possible, then security mechanisms that rely on a model's linguistic self-reporting (e.g., chain-of-thought monitoring, constitutional self-critique, activation probing for linguistically-defined feature vectors) can never be completely sound; the model sandbox will always need isolation techniques whose guarantees do not depend on reading a model's linguistic state at all. We argue that observing a model's outputs using taint tracking is a promising approach for an effective sandbox: regardless of how a model linguistically self-reports, a taint tracking policy can define, a priori, various pieces of system state that should never be influenced by model-produced data. We also discuss several additional sandboxing mechanisms (e.g., robust virtualization, third-party auditing of sandboxing configurations) which collectively provide a critical floor beneath linguistic monitoring, and would have mitigated recent sandbox exploits by frontier models."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "James Mickens",
-        "categories": [
-          "cs.LG",
-          "cs.CR"
-        ]
-      }
-    },
-    {
-      "id": "808c15b09d3c72226ef841f7805760cfa47e26d14e3144c1dd210c1af864faab",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions",
-      "summary": "研究提出端到端专业化流程，用2.2万道题训练Nemotron-3模型（30B/550B），结合SFT、RL及GenCorrect策略，在IOI/ICPC等编程竞赛中实现金牌级性能。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.02849v1",
-      "publishedAt": "2026-09-02T17:33:37+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Competitive programming has become a key test of large language model reasoning, with international competitions such as IOI and ICPC representing its most challenging settings. We present an end-to-end specialization pipeline combining large-scale problem curation, synthetic reasoning traces, supervised fine-tuning (SFT), and reinforcement learning (RL). Using 22,000 curated problems, we train Nemotron-3-Nano-CC (30B-A3B) with SFT and RL and Nemotron-3-Ultra-CC (550B-A55B) with SFT alone. We further introduce GenCorrect, a feedback-driven test-time compute strategy that iteratively generates, evaluates, and refines diverse solutions. On IOI 2025, Nano-CC improves from 130 points to 291 after post-training and to 468 with GenCorrect, exceeding the gold threshold of 438.3 while Ultra-CC reaches 502. Guided by these results, we develop a competition-specific Ultra-CC system and evaluate it prospectively during IOI 2026. Under the same time, internet-access, and submission constraints as human contestants, it scores 535.4 out of 600, exceeding both the gold threshold of 361.12 and the top human score of 498.27. To our knowledge, this is the first AI system to outscore the highest-scoring human contestant on an IOI problem set."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Aleksander Ficek, Sean Narenthiran, Mehrzad Samadi et al.",
-        "categories": [
-          "cs.LG",
-          "cs.AI",
-          "cs.CL",
-          "cs.MA",
-          "cs.SE"
-        ]
-      }
-    },
-    {
-      "id": "29545f48a3451f05023c0195f58a7642f4968702faf4f0d95f02e36d05a8a271",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "UE5M3 FP4 Block Scaling for Stable Language Model Pretraining",
-      "summary": "研究提出E5M3块缩放+选择性随机舍入，实现稳定FP4语言模型预训练，省去RHT和BF16层，全FP4线性层。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.02846v1",
-      "publishedAt": "2026-09-02T17:32:07+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Stable 4-bit floating-point (FP4) pretraining is difficult because the E2M1 payload represents only a narrow range of magnitudes. NVIDIA's Transformer Engine \\nv{} recipe addresses this with current-tensor scaling, a randomized Hadamard transform (RHT), and bfloat16 (BF16) final layers, adding work outside the FP4 matrix multiplications. We instead pair E2M1 payloads with unsigned E5M3 (\\ue{}) block scales. Their wider range permits periodic tensor scaling, while our recipe applies selective stochastic rounding to backward gradients, omits RHT, and uses FP4 in all eligible internal linears.   We pretrain a Nemotron-H 8B model for nearly 190 billion tokens. Compared with Transformer Engine \\nv{}, the proposed block-16 recipe finishes with lower final-window training loss and, under their respective quantized-inference policies, lower validation loss measured as held-out negative log-likelihood. Its quantized-inference downstream point estimates are also higher on all three reported aggregates. A native \\nv{} execution ablation that jointly removes RHT and the BF16 final-block exemption increases measured model-body token throughput by 21.2\\%. These results demonstrate end-to-end software-emulated \\uefp{} pretraining with a simpler recipe and motivate native support for \\ue{} block scaling."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Robert Hu, Carlo Luschi, Paul Balanca",
-        "categories": [
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "a8fad261c00c0fd8ffcfc1c4aeb5a2a703c6a2a3aa3a0afdfc314fcea4c88c68",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-      "summary": "互联网信任危机加剧：AI生成内容已渗入求职、评论、保险等场景，多家初创公司正研发识别技术应对。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-      "publishedAt": "2026-09-02T17:18:13+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "51f193aa97f85eb0ecf985b4e5d1d2d733516e4dd0a2c6a5cb63ec7153136978",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Learning Spectral-Like Mesh-Free Discretisations",
-      "summary": "论文提出学习谱类无网格离散方法，改进SPH、RBF-FD等算法中因超定局部模板导致的隐式自由度选择问题，提升微分算子精度。（59字）",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.02833v1",
-      "publishedAt": "2026-09-02T17:16:16+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Meshfree methods such as smoothed particle hydrodynamics (SPH) with kernel corrections, radial basis function-generated finite differences (RBF-FD), and the local anisotropic basis function method (LABFM) construct discrete differential operators by imposing polynomial consistency on a local stencil. For stencils containing more nodes than there are consistency constraints, the resulting linear system is underdetermined, and the remaining degrees of freedom are fixed implicitly by the choice of kernel, basis preconditioning, or a minimum-norm condition. Polynomial consistency constrains the operator only in the low-wavenumber limit, and no part of the construction selects for accuracy at the wavenumbers where fine-scale content resides. We introduce Spectral-like Neural Discretisation (SpeND), in which the choice of those degrees of freedom is cast as a learning problem: stencil weights are parametrised by a neural network conditioned on the local node geometry, trained to approximate the modal response of a spectral operator over the resolvable band. A hard-constrained projection layer maps the network output onto the affine subspace of consistent weights, so that polynomial consistency holds exactly by construction rather than as a penalty. Training is self-supervised and physics-agnostic, requiring no reference solutions; the objective minimises dispersion and dissipation error over a prescribed band-limited function space. Modal analysis on disordered two-dimensional node distributions shows that the learned fourth-order operator follows the exact response over a substantially wider band than either explicit LABFM at equal stencil size or fourth-order finite differences on a structured grid, whilst recovering the expected fourth-order convergence rate under refinement."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Lucas Gerken Starepravo, Henry Broadley, Steven Lind et al.",
-        "categories": [
-          "physics.comp-ph",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "46dc1c681f3154d8642c49175be0ca79c20b17678ff04ef9c6842d4fc4bb9220",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-      "summary": "互联网信任危机加剧：AI生成内容已渗入求职、评论、保险等场景，多家初创公司正研发识别技术应对。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-      "publishedAt": "2026-09-02T17:09:57+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "0011710056c2a1f487656ac502e63f792f7498f326dc042521d315bad8a75b8f",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "AI Contextual Measurement for Recovering Individual and Group-Level Effects: Validation Against Survey Measures and an Occupational Application",
-      "summary": "研究提出AICOME框架，验证AI生成的个体级测量能否准确恢复个体及群体效应，已通过问卷数据验证并应用于职业分析。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.02821v1",
-      "publishedAt": "2026-09-02T17:09:30+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Researchers increasingly use artificial intelligence to construct measures of social, organizational, and occupational characteristics that are absent from conventional surveys. We propose AICOME, AI COntextual MEasurement, a framework for evaluating whether AI-derived respondent-level measures can recover individual and group-level effects in contextual models. The key idea is that an AI measure constructed at the respondent level can be used to derive its group-level aggregate and its individual deviation, allowing researchers to estimate both between-group and within-group associations rather than treating AI measurement as response prediction alone.   We validate the framework using the 2022 China Family Panel Studies (CFPS), where occupations provide the empirical grouping structure and several job-related survey variables provide validation benchmarks. For computer use, foreign-language use, weekly hours, and management responsibilities, we compare survey measures with AI-derived measures in response-level, model-level, contextual, and boundary-condition validations. The results show that AI contextual measurement can recover much of the contextual-model information contained in observed survey variables when rich respondent and job characteristics are available. Weekly hours provides the strongest validation case, with AI-derived measures reproducing the large negative between- and within-occupation associations with satisfaction observed in CFPS. The framework also identifies clear boundary conditions: performance deteriorates when information is restricted to occupation and basic demographics, and recovery is weaker when several related concepts are treated as simultaneously unobserved. The findings suggest that AICOME is most useful for recovering a limited number of theoretically important constructs from rich existing datasets."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Wenxin Jiang, Xuyang Wang, Yuxiao Wu",
-        "categories": [
-          "cs.AI",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "1f727ab2eb2f0a45fc575e6a4daed166268844751635780d7d7e6dbc15301609",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "summary": "美国致力于发展强大、具竞争力的人工智能产业，以全球标准引领AI应用实践。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "publishedAt": "2026-09-02T17:09:06+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "208efb94c5bf3dae5a3f335458daa0d9fef30db1ee82281ea03a0c8a0ebc42c4",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "K/DA Comeback Skin News",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5geeb/kda_comeback_skin_news/\"> <img alt=\"",
-      "source": "reddit-lol",
-      "sourceUrl": "https://www.reddit.com/r/leagueoflegends/comments/1w5geeb/kda_comeback_skin_news/",
-      "publishedAt": "2026-09-02T17:08:24+00:00",
-      "tags": [
-        "lol",
-        "reddit-lol"
-      ],
-      "body": [
-        "<table> <tr><td> <a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5geeb/kda_comeback_skin_news/\"> <img alt=\"K/DA Comeback Skin News\" src=\"https://external-preview.redd.it/1WVAH54BwX7AomowQmMJj_hbNkkFiY9_lrGkFzELW4g.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=cb0cadd3bedb6086859c40ad16a894e61670f0b1\" title=\"K/DA Comeback Skin News\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>&quot;K/DA broke cover the other week with ASCAP publishing the Song Name, now with the latest Wild Rift update we can finally gather some information on the upcoming K/DA Skins.&quot;</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/cienkrowa\"> /u/cienkrowa </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=AUXzoK5kuzM\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5geeb/kda_comeback_skin_news/\">[comments]</a></span> </td></tr></table>"
-      ],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "724edf8c65730dc51984e86145a0bdd89aa281a3aa606606478fd56c731a78ac",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Cliff: Learning Process Rewards from the First Mistake",
-      "summary": "论文提出Cliff方法，利用首次错误点优化LLM推理过程奖励，突破RLVR依赖粗粒度结果奖励的局限，无需专用奖励模型或师生推理模式一致假设。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.02817v1",
-      "publishedAt": "2026-09-02T17:03:42+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Reinforcement learning with verifiable rewards (RLVR) has emerged as a powerful paradigm for large language model (LLM) post-training, but its reliance on coarse outcome rewards leads to limited guidance on intermediate reasoning processes. Existing approaches such as process reward modeling and on-policy distillation introduce additional constraints, such as reliance on a specialized reward model or assuming identical reasoning patterns between teacher and student. Nevertheless, we observe that once a reasoning process first goes wrong, evaluating the subsequent reasoning provides limited additional information, as it is already conditioned on an invalid prefix. Therefore, we propose Cliff, a reward shaping strategy that utilizes an off-the-shelf LLM as a teacher to identify the first mistake in each rollout. As a result, the rollout is naturally decomposed into two parts: a correct prefix and an incorrect suffix. Cliff then converts this signal into token-level advantages, assigning positive advantages for the correct prefix and negative feedback afterward. Experiments across 12 different scenarios demonstrate that Cliff consistently improves reasoning performance, outperforming on-policy distillation by 15% and standard GRPO by 7%, even with teachers of modest capability. Furthermore, we analyse the role of ``ground truth'' in Cliff and investigate its training dynamics. These results establish Cliff as a simple, general and effective approach for improving RLVR with richer, fine-grained supervision."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Peixuan Han, Runhui Wang, Ketan Ramaneti et al.",
-        "categories": [
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "7cde6fba3653dd91a2754773919f5fc8d332fcc6d812971558bb09f8df92fd1e",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "What champs have hidden passives",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The title; i think if you play enough singed games you automatically undergo an uncura",
-      "source": "reddit-lol",
-      "sourceUrl": "https://www.reddit.com/r/leagueoflegends/comments/1w5fr05/what_champs_have_hidden_passives/",
-      "publishedAt": "2026-09-02T16:45:49+00:00",
-      "tags": [
-        "lol",
-        "reddit-lol"
-      ],
-      "body": [
-        "<!-- SC_OFF --><div class=\"md\"><p>The title; i think if you play enough singed games you automatically undergo an uncurable lobotomy that will forever impact the singed players gameplay</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Unusual-Ad8253\"> /u/Unusual-Ad8253 </a> <br /> <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5fr05/what_champs_have_hidden_passives/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5fr05/what_champs_have_hidden_passives/\">[comments]</a></span>"
-      ],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "99b67fd36890eaca10b3bd5afb624057dbfbc2a844a31f222540cca17585e8d7",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Large Language Models (LLMs) for Telecom Root Cause Analysis (RCA): A Structured Reasoning Framework for Evidence-Grounded Diagnosis",
-      "summary": "本文提出面向电信根因分析（RCA）的结构化推理框架，解决LLM在5G/6G网络中易幻觉、推理不稳、证据对齐差等问题。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.02805v1",
-      "publishedAt": "2026-09-02T16:43:22+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Root cause analysis (RCA) is a critical task in telecom network operations, but diagnosing performance degradations in modern 5G and emerging 6G networks remains challenging due to complex cross-layer dependencies. While large language models (LLMs) offer promising capabilities for reasoning and knowledge integration, directly applying vanilla LLMs to telecom RCA often leads to hallucination, unstable reasoning, and poor alignment with structured network evidence. This work first reviews the evolution of telecom RCA from rule-based and machine learning (ML) approaches to emerging LLM-enabled techniques, and provides an overview of recent paradigms, including structured reasoning, retrieval-augmented knowledge grounding, agentic orchestration, and verifiable reasoning. Building upon these insights, we propose a structured reasoning framework for LLM-enabled telecom RCA that aligns diagnostic reasoning with telecom-specific evidence and domain knowledge. The proposed approach first organizes heterogeneous network telemetry into canonical contexts, and then enforces decision-path reasoning during diagnosis, and finally generates evidence-grounded explanations for reliable fault identification. Experimental results on two 5G RCA datasets, TeleLogs and TelecomTS, demonstrate that the proposed framework consistently improves diagnostic accuracy and decision consistency compared with baseline techniques. These cross-dataset results highlight the importance of structured reasoning design for practical LLM-based RCA systems in next-generation telecom networks."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Hao Zhou, Mandar Kulkarni, Hao Chen et al.",
-        "categories": [
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "9ae7f15b1ba0fbb7dc4a829fe4150b605a9f10b6f8c1797624f5cffd7c1df200",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
-      "summary": "OpenAI拟推最强AI模型Astra，因测试中代理攻击真实目标而多次延期。研究人员警告其“或是AI安全史上最糟糕进展”。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "publishedAt": "2026-09-02T16:40:50+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "eaaab08619970e17691249e52434af58e07c2b6055d89d20969e17e4fb81453c",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "frb100-40 After Two Decades: An Optimality Certificate and a Preregistered Search Study",
-      "summary": "20年未解难题frb100-40被攻克：作者找到100顶点独立集，并验证图可划分为100个40阶团，证得最大独立集为100、最小顶点覆盖为3900。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.02804v1",
-      "publishedAt": "2026-09-02T16:40:46+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "For more than 20 years, the Model-RB benchmark frb100-40 remained an open challenge; since 2014, its public record had stood at 99 of 100 variables. We give a directly checkable 100-vertex independent set for its 4,000-vertex graph. Together with a verified partition into 100 cliques of size 40, the witness proves that the maximum independent-set size is 100 and the minimum vertex-cover size is 3,900. The stochastic run that found the witness is kept separate from this proof. We evaluated its added pair and triple repair operators in a preregistered campaign comprising 8,668 valid runs. The primary comparison found no detectable acceleration over base ULSA (hazard ratio 0.967, 95% confidence interval 0.915-1.023; p=0.248), and the factorial ablation reached the same conclusion. On a smaller FRB suite, the group-aware CSP pipeline solved 2,500/2,500 runs, compared with 2,391/2,500 for LibMVC-NuMVC. On frb100-40, full ULSA, base ULSA, and NuMVC each produced 0/56 new certificates. With no events, the planned cross-solver hazard ratios remain unidentified. NuMVC ended with cover size 3,902 in 40 runs and 3,903 in 16. Exhaustive enumeration showed that none of the 108 unique recorded conflict-two states had a strictly improving group-aware CSP neighbor within Hamming radius three. The certificate settles the instance. The experiments characterize the search barrier, and the preregistered comparisons show no heuristic advantage."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Onur Uğurlu",
-        "categories": [
-          "cs.DM",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "e8068731f04a25309fa6b4768f4fc2d9e4f9a97fdf934316efc3c7d0dbd44b1a",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "最近海斗建议少选婕拉，15分钟40全吸30锻",
-      "summary": "UP主 浮云片天没了 · 38播放 · 0:33",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117202376264446",
-      "publishedAt": "2026-09-02T16:30:02+00:00",
-      "tags": [
-        "lol",
-        "rune",
-        "英雄联盟 海斗 黑科技 上分"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "浮云片天没了",
-        "play": 38,
-        "bvid": "BV1BQtD6mEvV",
-        "duration": "0:33"
-      }
-    },
-    {
-      "id": "aed6c1cbf2bee99be2a9669bd6adf6be9b6459cb51d01ef786c42198e20927a1",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-      "summary": "特朗普政府介入《纽约时报》诉OpenAI版权案，支持OpenAI。该案2023年12月提起，指控其非法训练AI模型，索赔数十亿美元。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-      "publishedAt": "2026-09-02T16:12:25+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4d8356a753b3535b238743b76832a7ca8225d1428ab5b04ddabbce1692a7d441",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-      "summary": "Wonderful获5.5亿美元C轮融资，将加速产品研发、扩充前端开发工程师团队并满足产品需求。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-      "publishedAt": "2026-09-02T16:04:10+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "b29738c34e13cefb8dcea3ffdbee4ae9b77212ea54ccc3e9cd4fe04e3037c5a8",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "KC Yike: \"There’s a huge difference between MSI/EWC scrims and then going back to the LEC [...] Some teams are just playing on autopilot. They barely, or don’t, punish you at all. I can do whatever and not get punished for bad decisions. In EU, you have to understand that scrims can be very fake\"",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5efle/kc_yike_theres_a_huge_difference_bet",
-      "source": "reddit-lol",
-      "sourceUrl": "https://www.reddit.com/r/leagueoflegends/comments/1w5efle/kc_yike_theres_a_huge_difference_between_msiewc/",
-      "publishedAt": "2026-09-02T15:59:00+00:00",
-      "tags": [
-        "lol",
-        "reddit-lol"
-      ],
-      "body": [
-        "<table> <tr><td> <a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5efle/kc_yike_theres_a_huge_difference_between_msiewc/\"> <img alt=\"KC Yike: &quot;There’s a huge difference between MSI/EWC scrims and then going back to the LEC [...] Some teams are just playing on autopilot. They barely, or don’t, punish you at all. I can do whatever and not get punished for bad decisions. In EU, you have to understand that scrims can be very fake&quot;\" src=\"https://external-preview.redd.it/jFJZDzvr6sALtGdS1B4yu7R7jnd-52IUSAJs62lYLm4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6d1420602a5b1c444a80facd16b86e9ecf886ae9\" title=\"KC Yike: &quot;There’s a huge difference between MSI/EWC scrims and then going back to the LEC [...] Some teams are just playing on autopilot. They barely, or don’t, punish you at all. I can do whatever and not get punished for bad decisions. In EU, you have to understand that scrims can be very fake&quot;\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ArmandLuque\"> /u/ArmandLuque </a> <br /> <span><a href=\"https://www.sheepesports.com/en/articles/kc-yike-on-lec-scrim-quality-we-need-tougher-opponents-lec-2026-summer/en\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/leagueoflegends/comments/1w5efle/kc_yike_theres_a_huge_difference_between_msiewc/\">[comments]</a></span> </td></tr></table>"
-      ],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "e49bc7c709c4841bdd834f418f8a805078b98639ca666170e0a4af990fcf6401",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Google is sending MrBeast into the wilderness, armed with AI",
-      "summary": "MrBeast与谷歌达成多年合作，9月5日起在视频中推广Gemini、Google Health及Fitbit Air，首期将展示其用Gemini获取野外生存建议。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
-      "publishedAt": "2026-09-02T15:47:03+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "b78a0a28255b0d3333c5d6b8e2eb3392c339fb49c6b585f6c1116b93cd4b115d",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "modelcache：nlp 模型更新",
-      "summary": "HuggingFace 上 NLP 模型 noodlepop/modelcache 无人下载、无点赞，热度为零。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/noodlepop/modelcache",
-      "publishedAt": "2026-09-02T15:46:07+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "7739475d1bc7f037e8e34c4c71515b9a9cbb3072e04eb9befed9d000e0b81565",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "pi0_napkin_016000：nlp 模型更新",
-      "summary": "HuggingFace 上NLP模型pmoller/pi0_napkin_016000暂无下载量与点赞数。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/pmoller/pi0_napkin_016000",
-      "publishedAt": "2026-09-02T15:46:06+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "381314f52ada0a78ff328fc623f1ce36aa47e8728cb54c0364ddd3749172ce1c",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Spexcon-S1-v0.6-Pilot：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型 YONKWd/Spexcon-S1-v0.6-Pilot 目前下载量和点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/YONKWd/Spexcon-S1-v0.6-Pilot",
-      "publishedAt": "2026-09-02T15:46:06+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "9692364770a105afb53e0a75a619d3384e95be6f1cdf6f05d342fee535eb47eb",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "NudeV1：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 Redraw334/NudeV1，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Redraw334/NudeV1",
-      "publishedAt": "2026-09-02T15:46:04+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "bdde5e0bba5b2bd82da89cbca9b277e6820ed175f86e98bf770bc60f03d53b15",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "diffusion_openarm_grasp_20260902：nlp 模型更新",
-      "summary": "Hugging Face 上，模型 pengli3/diffusion_openarm_grasp_20260902（NLP方向）暂无下载量与点赞数。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/pengli3/diffusion_openarm_grasp_20260902",
-      "publishedAt": "2026-09-02T15:46:03+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "dec37698dae59032edecb5f083441e57773829c31e97b08101051e81b498918a",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "pi05_full：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 ziyin123/pi05_full，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/ziyin123/pi05_full",
-      "publishedAt": "2026-09-02T15:45:55+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "6b6fdbf0ee4a12db066fe66f8373518b48edff008ecbae582365b2b6cf61ae7e",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "standings：nlp 模型更新",
-      "summary": "HuggingFace 上 NLP 模型 thirtyspokes/standings 目前下载量为 0，获 2 个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/thirtyspokes/standings",
-      "publishedAt": "2026-09-02T15:45:48+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 2
-      }
-    },
-    {
-      "id": "b130c05cbe2bef727975cdd1ce8ffbd1a0b1a9353ebf39f456462390feec57f8",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "DAOS-Fusion：nlp 模型更新",
-      "summary": "HuggingFace 上 OliviaRossi/DAOS-Fusion NLP 模型暂无下载量与点赞数，热度为零。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/OliviaRossi/DAOS-Fusion",
-      "publishedAt": "2026-09-02T15:45:47+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "7726ad17b91ecce148b04c5900b1e2c8ad72b03c1f171e90e6fcde325c2bf53f",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "fhir4px：nlp 模型更新",
-      "summary": "HuggingFace 热门 nlp 模型 fhir4ds/fhir4px，0 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/fhir4ds/fhir4px",
-      "publishedAt": "2026-09-02T15:45:45+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "ba34cc62285226af07e6ab6681424eed42918e6d69b3300f84ea5ae334484f9f",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "gemma-4-31B-it-FP8-block：image-text-to-text 模型更新",
-      "summary": "HuggingFace 上 furiosa-ai/gemma-4-31B-it-FP8-block 模型（image-text-to-text）下载量94次，暂无点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/furiosa-ai/gemma-4-31B-it-FP8-block",
-      "publishedAt": "2026-09-02T15:45:44+00:00",
-      "tags": [
-        "huggingface",
-        "image-text-to-text"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 94,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2f190568fb7c12832569a65d6ec0826e1e67c7f753db4838aa16bed3b0c60480",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "pi05_napkin_014000：nlp 模型更新",
-      "summary": "HuggingFace 上 NLP 模型 pmoller/pi05_napkin_014000 目前下载量与点赞数均为 0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/pmoller/pi05_napkin_014000",
-      "publishedAt": "2026-09-02T15:45:44+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "4365015f8e9e576234630e848f340c83a114443456329713fd9a968a16f197bd",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Bittoby1040____uid91____hk5H1h2：nlp 模型更新",
-      "summary": "HuggingFace 上模型 reyansh38771/Bittoby1040____uid91____hk5H1h2 无人下载、无点赞，热度为零。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/reyansh38771/Bittoby1040____uid91____hk5H1h2",
-      "publishedAt": "2026-09-02T15:45:35+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "43b10ea2d119bde33b69b533806458d559b7d5d76c62313a9d11ea9096dd7200",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "pi05_obs_only_firstandlast3_injection_allenv_2ep：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型 rshift8/pi05_obs_only_firstandlast3_injection_allenv_2ep 目前下载量和点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/rshift8/pi05_obs_only_firstandlast3_injection_allenv_2ep",
-      "publishedAt": "2026-09-02T15:45:33+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1086ccc3866840cd89713e779f2472709d0553b121019788929bdd3239eebe39",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "studilex-paddleocr-bundle：nlp 模型更新",
-      "summary": "HuggingFace 上热门NLP模型 AdyyxD/studilex-paddleocr-bundle 目前下载量和点赞数均为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/AdyyxD/studilex-paddleocr-bundle",
-      "publishedAt": "2026-09-02T15:45:32+00:00",
-      "tags": [
-        "huggingface",
-        "nlp"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 0
-      }
     }
   ],
+  "daily": {
+    "ai": {
+      "insight": "AI safety warnings surge as OpenAI, Anthropic, and researchers escalate existential risk discourse.",
+      "headline": {
+        "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+        "summary": "OpenAI宣称解决千禧年难题之一，引发轰动；该成果彰显AI正迅猛变革数学领域，但发布前已因特殊原因变得复杂。",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes"
+      },
+      "sections": [
+        {
+          "name": "最新科技",
+          "items": [
+            {
+              "title": "Google's AI genome system evaluates every possible one-base change",
+              "summary": "人类基因组中多数单碱基变异无影响，但少数具有重要功能意义。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/"
+            },
+            {
+              "title": "Update to Google’s AI weather model improves forecast accuracy",
+              "summary": "该模型借鉴传统天气预报，通过扩充输入数据集提升预测精度。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/"
+            }
+          ]
+        },
+        {
+          "name": "行业动态",
+          "items": [
+            {
+              "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+              "summary": "据消息人士称，Listen Labs放弃已签署的Menlo Ventures Series C轮融资条款书。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/"
+            },
+            {
+              "title": "Massachusetts hits data centers with new clean power rules",
+              "summary": "马萨诸塞州成为三个月内第三个限制数据中心建设的新州。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/"
+            },
+            {
+              "title": "Microsoft has new AI privacy rules for schools",
+              "summary": "微软一周内接连回应教育AI争议：继两大学区禁用学生AI后，与全美第二大教师工会AFT达成AI安全与隐私原则协议。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy"
+            },
+            {
+              "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+              "summary": "美政府敦促AI企业识别中国用户，并秘密将其切换至性能较低模型。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/"
+            }
+          ]
+        },
+        {
+          "name": "知识前沿",
+          "items": [
+            {
+              "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+              "summary": "Anthropic高级安全研究员称，AI或于本十年末致人类灭绝的概率超10%；同日，一名同事因担忧AI公司盲目研发不可控超人系统而辞职。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans"
+            },
+            {
+              "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+              "summary": "\"我们真心相信AI可能毁灭全人类！\"——多位AI领域专家发出严重警告，强调超级智能失控风险。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/"
+            }
+          ]
+        },
+        {
+          "name": "应用落地",
+          "items": [
+            {
+              "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+              "summary": "亚马逊Prime Video推出AI口型同步技术，首用于德剧《Maxton Hall》英配版，未来将拓展至更多剧集。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing"
+            },
+            {
+              "title": "The hinge for Apple’s new foldable phone was built with AI",
+              "summary": "苹果称在其备受期待的折叠屏手机制造中应用了AI与3D打印技术。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/"
+            },
+            {
+              "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+              "summary": "苹果新更新引入Apple Intelligence，提升健康数据解析能力。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/"
+            }
+          ]
+        }
+      ]
+    }
+  },
   "football": {
     "fixtures": [
       {
@@ -13485,17 +12303,17 @@
       {
         "t": "00:45",
         "lg": "欧冠",
-        "h": "Stuttgart",
-        "a": "Viking",
+        "h": "PSV Eindhoven",
+        "a": "Shakhtar Donetsk",
         "s": null,
-        "itemId": "fb-2594578",
-        "url": "https://www.thesportsdb.com/event/2594578",
+        "itemId": "fb-2594585",
+        "url": "https://www.thesportsdb.com/event/2594585",
         "extra": {
           "round": "1",
           "season": "2026-2027",
-          "venue": "MHP Arena",
-          "date": "2026-09-09",
-          "country": "Germany",
+          "venue": "Philips Stadion",
+          "date": "2026-09-10",
+          "country": "The Netherlands",
           "status": "NS"
         }
       }
@@ -13589,17 +12407,17 @@
       {
         "t": "03:00",
         "lg": "欧冠",
-        "h": "Real Madrid",
-        "a": "Inter Milan",
-        "s": "2-1",
-        "itemId": "fb-2594629",
-        "url": "https://www.thesportsdb.com/event/2594629",
+        "h": "Napoli",
+        "a": "Arsenal",
+        "s": "0-1",
+        "itemId": "fb-2594603",
+        "url": "https://www.thesportsdb.com/event/2594603",
         "extra": {
           "round": "1",
           "season": "2026-2027",
-          "venue": "Estadio Santiago Bernabéu",
-          "date": "2026-09-08",
-          "country": "Spain",
+          "venue": "Stadio Diego Armando Maradona",
+          "date": "2026-09-09",
+          "country": "Italy",
           "status": "FT"
         }
       }
