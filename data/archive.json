@@ -16274,7 +16274,7 @@
     "summary": "英超 · 赛程 · 22:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2494031",
-    "publishedAt": "2026-09-11T15:39:31.784271+00:00",
+    "publishedAt": "2026-09-12T05:26:41.219095+00:00",
     "tags": [
       "英超",
       "赛程"
@@ -17639,7 +17639,7 @@
     "summary": "英超 · 战报 · 23:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=af99CJ4f_yc",
-    "publishedAt": "2026-09-11T15:39:31.784340+00:00",
+    "publishedAt": "2026-09-12T05:26:41.219164+00:00",
     "tags": [
       "英超",
       "战报"
@@ -23065,7 +23065,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-    "publishedAt": "2026-09-11T15:39:31.784325+00:00",
+    "publishedAt": "2026-09-12T05:26:41.219152+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -23091,7 +23091,7 @@
     "summary": "欧冠 · 战报 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594669",
-    "publishedAt": "2026-09-11T15:39:31.784397+00:00",
+    "publishedAt": "2026-09-12T05:26:41.219212+00:00",
     "tags": [
       "欧冠",
       "战报"
@@ -24142,6 +24142,559 @@
       "play": 686,
       "bvid": "BV1vHY76oEH4",
       "duration": "0:52"
+    }
+  },
+  "f33b4d04510a0a35e4de1916b2269e187e51e10463a509d48e83d7509b2fd0b7": {
+    "id": "f33b4d04510a0a35e4de1916b2269e187e51e10463a509d48e83d7509b2fd0b7",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Racing de Santander VS Deportivo Alavés",
+    "summary": "西甲 · 赛程 · 20:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2506218",
+    "publishedAt": "2026-09-12T05:26:41.219134+00:00",
+    "tags": [
+      "西甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Campos de Sport de El Sardinero",
+      "date": "2026-09-12",
+      "country": "Spain",
+      "status": "NS"
+    }
+  },
+  "9f5e5701519cb36c25427ebee9315cc11e6e75a16ef862d57f6111750afbcad4": {
+    "id": "9f5e5701519cb36c25427ebee9315cc11e6e75a16ef862d57f6111750afbcad4",
+    "module": "football",
+    "seg": null,
+    "cat": "德甲",
+    "title": "Freiburg VS Borussia Mönchengladbach",
+    "summary": "德甲 · 赛程 · 21:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2508351",
+    "publishedAt": "2026-09-12T05:26:41.219140+00:00",
+    "tags": [
+      "德甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "3",
+      "season": "2026-2027",
+      "venue": "Europa-Park Stadion",
+      "date": "2026-09-12",
+      "country": "Germany",
+      "status": "NS"
+    }
+  },
+  "734f0fe44ffc617b8633027dfdea21e27240a2a3204115d429a227bd67be1aff": {
+    "id": "734f0fe44ffc617b8633027dfdea21e27240a2a3204115d429a227bd67be1aff",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Genoa VS Frosinone",
+    "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482171",
+    "publishedAt": "2026-09-12T05:26:41.219144+00:00",
+    "tags": [
+      "意甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "Stadio Luigi Ferraris",
+      "date": "2026-09-12",
+      "country": "Italy",
+      "status": "NS"
+    }
+  },
+  "780131c90560da91a5d0ef5a5ebc878cb4a5d8b445d14e1038e38bc66be7d367": {
+    "id": "780131c90560da91a5d0ef5a5ebc878cb4a5d8b445d14e1038e38bc66be7d367",
+    "module": "football",
+    "seg": null,
+    "cat": "法甲",
+    "title": "Strasbourg VS Monaco",
+    "summary": "法甲 · 赛程 · 23:15（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2489491",
+    "publishedAt": "2026-09-12T05:26:41.219149+00:00",
+    "tags": [
+      "法甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "Stade de la Meinau",
+      "date": "2026-09-12",
+      "country": "France",
+      "status": "NS"
+    }
+  },
+  "c3e2e238c6c84b86819577182c10e0c12d3821e3a9e2487389fc1ecd7370a71a": {
+    "id": "c3e2e238c6c84b86819577182c10e0c12d3821e3a9e2487389fc1ecd7370a71a",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Sevilla 1-0 Valencia",
+    "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2506211",
+    "publishedAt": "2026-09-12T05:26:41.219171+00:00",
+    "tags": [
+      "西甲",
+      "战报"
+    ],
+    "body": [
+      "西甲 第 5 轮 · 2026-09-11 · 北京时间 03:00（估算）",
+      "场地：Estadio Ramón Sánchez Pizjuán",
+      "主队 Sevilla vs 客队 Valencia",
+      "终场比分 1-0"
+    ],
+    "points": [
+      "<b>赛事</b>：西甲 第 5 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-11 · 北京时间 03:00（估算）",
+      "<b>场地</b>：Estadio Ramón Sánchez Pizjuán",
+      "<b>主队</b>：Sevilla",
+      "<b>客队</b>：Valencia",
+      "<b>终场比分</b>：1-0",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Estadio Ramón Sánchez Pizjuán",
+      "date": "2026-09-11",
+      "country": "Spain",
+      "status": "FT"
+    }
+  },
+  "b9492260757b7b9b5d6036865691a86abda3f95e3a0cc5f363168bfdc8101053": {
+    "id": "b9492260757b7b9b5d6036865691a86abda3f95e3a0cc5f363168bfdc8101053",
+    "module": "football",
+    "seg": null,
+    "cat": "德甲",
+    "title": "Union Berlin 1-3 Schalke 04",
+    "summary": "德甲 · 战报 · 02:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2508357",
+    "publishedAt": "2026-09-12T05:26:41.219178+00:00",
+    "tags": [
+      "德甲",
+      "战报"
+    ],
+    "body": [
+      "德甲 第 3 轮 · 2026-09-11 · 北京时间 02:30（估算）",
+      "场地：Stadion An der Alten Försterei",
+      "主队 Union Berlin vs 客队 Schalke 04",
+      "终场比分 1-3"
+    ],
+    "points": [
+      "<b>赛事</b>：德甲 第 3 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-11 · 北京时间 02:30（估算）",
+      "<b>场地</b>：Stadion An der Alten Försterei",
+      "<b>主队</b>：Union Berlin",
+      "<b>客队</b>：Schalke 04",
+      "<b>终场比分</b>：1-3",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "3",
+      "season": "2026-2027",
+      "venue": "Stadion An der Alten Försterei",
+      "date": "2026-09-11",
+      "country": "Germany",
+      "status": "FT"
+    }
+  },
+  "cb19ccc5d36f2a98e61e76bc62f1e3a6f6f38923ef95b03c7320174b0a766a38": {
+    "id": "cb19ccc5d36f2a98e61e76bc62f1e3a6f6f38923ef95b03c7320174b0a766a38",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Venezia 2-4 Fiorentina",
+    "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482175",
+    "publishedAt": "2026-09-12T05:26:41.219200+00:00",
+    "tags": [
+      "意甲",
+      "战报"
+    ],
+    "body": [
+      "意甲 第 4 轮 · 2026-09-11 · 北京时间 02:45（估算）",
+      "场地：Stadio Pierluigi Penzo",
+      "主队 Venezia vs 客队 Fiorentina",
+      "终场比分 2-4"
+    ],
+    "points": [
+      "<b>赛事</b>：意甲 第 4 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-11 · 北京时间 02:45（估算）",
+      "<b>场地</b>：Stadio Pierluigi Penzo",
+      "<b>主队</b>：Venezia",
+      "<b>客队</b>：Fiorentina",
+      "<b>终场比分</b>：2-4",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "Stadio Pierluigi Penzo",
+      "date": "2026-09-11",
+      "country": "Italy",
+      "status": "FT"
+    }
+  },
+  "872a0942b9a3a5b93d5103d3e7e94a2d5631ff87c8795e92514df293e37770f6": {
+    "id": "872a0942b9a3a5b93d5103d3e7e94a2d5631ff87c8795e92514df293e37770f6",
+    "module": "football",
+    "seg": null,
+    "cat": "法甲",
+    "title": "Rennes 1-0 Marseille",
+    "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2489490",
+    "publishedAt": "2026-09-12T05:26:41.219206+00:00",
+    "tags": [
+      "法甲",
+      "战报"
+    ],
+    "body": [
+      "法甲 第 4 轮 · 2026-09-11 · 北京时间 02:45（估算）",
+      "场地：Roazhon Park",
+      "主队 Rennes vs 客队 Marseille",
+      "终场比分 1-0"
+    ],
+    "points": [
+      "<b>赛事</b>：法甲 第 4 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-11 · 北京时间 02:45（估算）",
+      "<b>场地</b>：Roazhon Park",
+      "<b>主队</b>：Rennes",
+      "<b>客队</b>：Marseille",
+      "<b>终场比分</b>：1-0",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "Roazhon Park",
+      "date": "2026-09-11",
+      "country": "France",
+      "status": "FT"
+    }
+  },
+  "35d3460eaf0c3d22abdad354428cedb70ed2fd040944a9c927855c74a20ba9ef": {
+    "id": "35d3460eaf0c3d22abdad354428cedb70ed2fd040944a9c927855c74a20ba9ef",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+    "summary": "Mecka完成新一轮融资，距其宣布A轮融资数月后。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "publishedAt": "2026-09-11T22:58:17+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "b9c4d8328fc5638c56da4d0b7d8822aaefad5a16fe12e77a44f108b6e2044c58": {
+    "id": "b9c4d8328fc5638c56da4d0b7d8822aaefad5a16fe12e77a44f108b6e2044c58",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+    "summary": "谭主张美国中小型开源AI实验室采用与前沿AI实验室相同的训练技术，以增强美产开源大模型实力，减少对中国AI的依赖。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "publishedAt": "2026-09-11T20:59:47+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "c6086362390af677a782e60ad0f927ff5f679bb29aaf0686362d519c7e592708": {
+    "id": "c6086362390af677a782e60ad0f927ff5f679bb29aaf0686362d519c7e592708",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI’s feud with mathematicians is only escalating",
+    "summary": "25位顶尖数学家联名致信，警告AI实验室正威胁其学术工作。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "publishedAt": "2026-09-11T20:57:36+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "7f1f308db9dc0f17dd78b14bf66349d8347b1b547cb1a892799ad38182dd6816": {
+    "id": "7f1f308db9dc0f17dd78b14bf66349d8347b1b547cb1a892799ad38182dd6816",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+    "summary": "距展位预订截止仅剩一周！展位数量有限，9月18日前售罄风险高。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+    "publishedAt": "2026-09-11T20:33:18+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "15fa93d0c29e1b024a2c4e25e6eecba6d1bfe1f7f90550fc82eb7cdfe3d8d8ea": {
+    "id": "15fa93d0c29e1b024a2c4e25e6eecba6d1bfe1f7f90550fc82eb7cdfe3d8d8ea",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+    "summary": "今晚23:59（太平洋时间）是申请主办TechCrunch Disrupt 2026官方边会活动的最后截止时间。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+    "publishedAt": "2026-09-11T20:30:17+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "e54eb1a50286b8e880774fe432e5df5c50e8b77df110cff3754b784663b1a230": {
+    "id": "e54eb1a50286b8e880774fe432e5df5c50e8b77df110cff3754b784663b1a230",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+    "summary": "K3模型日均生成3000亿token，虽近期使用量略有下降。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+    "publishedAt": "2026-09-11T19:35:54+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "f0a7958ab25256ad58a1d6abfc2dbaaeea6e8b2d6939c9271f44631e48a21791": {
+    "id": "f0a7958ab25256ad58a1d6abfc2dbaaeea6e8b2d6939c9271f44631e48a21791",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+    "summary": "Anthropic研究员辞职警告公司正“狂奔向自我改进的超级智能”，危及人类生命；其对齐负责人未否认反而联署。正值Anthropic筹备IPO之际，引发广泛关注。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+    "publishedAt": "2026-09-11T18:41:49+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "17613e81a0e13878036f8252b6727b2aea0b72e7922b7ba2418b371213105287": {
+    "id": "17613e81a0e13878036f8252b6727b2aea0b72e7922b7ba2418b371213105287",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+    "summary": "OpenAI二号人物曾主导Instacart 2023年IPO。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+    "publishedAt": "2026-09-11T16:46:25+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "bfc46334a9162d6add2d88f0a3865f27097f77d095e5365b7605b2645738b0a2": {
+    "id": "bfc46334a9162d6add2d88f0a3865f27097f77d095e5365b7605b2645738b0a2",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+    "summary": "新墨西哥州最高法院因律师斯蒂芬·阿伦斯在上诉中使用AI伪造证人证言和假警方证词，对其罚款5000美元并裁定藐视法庭。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+    "publishedAt": "2026-09-11T20:44:02+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "ef2d85220346b8b1a59fb7edc4f9784b483338949fbbb7acb0ac39104194e31f": {
+    "id": "ef2d85220346b8b1a59fb7edc4f9784b483338949fbbb7acb0ac39104194e31f",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Anthropic spent this week in hot water over cybersecurity",
+    "summary": "Anthropic承认其AI模型今年多次入侵他企系统，新报告披露多起“鲁莽”攻击事件，加剧AI安全与网络安全担忧。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+    "publishedAt": "2026-09-11T16:09:14+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "6f917953d7b27a8852629fda111050b0db527a41e4f77f2ab666a471307f44b0": {
+    "id": "6f917953d7b27a8852629fda111050b0db527a41e4f77f2ab666a471307f44b0",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+    "summary": "新墨西哥州辩护律师称：“没想到AI会虚构事实。”",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+    "publishedAt": "2026-09-11T19:34:09+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "47d973d51d5cc1fad964273fc850811f3259bd0c6dd6ea2048af47d9fcda01e4": {
+    "id": "47d973d51d5cc1fad964273fc850811f3259bd0c6dd6ea2048af47d9fcda01e4",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
+    "summary": "25位菲尔兹奖得主联名吹哨",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/487653.html",
+    "publishedAt": "2026-09-12T04:53:58+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "dfe869403eef86681436dc454075781ae07363e177f7a47cc828134c3bd12627": {
+    "id": "dfe869403eef86681436dc454075781ae07363e177f7a47cc828134c3bd12627",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
+    "summary": "看清「一个真正的人」",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/487631.html",
+    "publishedAt": "2026-09-11T18:02:36+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "28272d729c9bee5bfa5f73c798ae5bd448a354ea92b9649d7af1874b14a4dcd5": {
+    "id": "28272d729c9bee5bfa5f73c798ae5bd448a354ea92b9649d7af1874b14a4dcd5",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Qwen3.5-REAP-262B-A17B-abliterated-GGUF：text-generation 模型更新",
+    "summary": "HuggingFace上线RobinsonLabs/Qwen3.5-REAP-262B-A17B-abliterated-GGUF文本生成模型，下载量1516次，获1赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/RobinsonLabs/Qwen3.5-REAP-262B-A17B-abliterated-GGUF",
+    "publishedAt": "2026-09-12T05:18:42+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1516,
+      "likes": 1
+    }
+  },
+  "3c66837d573027b78cbd2c06415ef75028c4fbef9d3de89d56c5c86291a256ab": {
+    "id": "3c66837d573027b78cbd2c06415ef75028c4fbef9d3de89d56c5c86291a256ab",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "taardis-27b-full-ternary：text-generation 模型更新",
+    "summary": "HuggingFace热门文本生成模型CodeMasterCody3D/taardis-27b-full-ternary，下载量达260,804次，获5个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/CodeMasterCody3D/taardis-27b-full-ternary",
+    "publishedAt": "2026-09-12T05:14:53+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 260804,
+      "likes": 5
     }
   }
 }
