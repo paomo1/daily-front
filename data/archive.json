@@ -23065,7 +23065,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-    "publishedAt": "2026-09-12T05:26:41.219152+00:00",
+    "publishedAt": "2026-09-12T14:45:54.008620+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -23091,7 +23091,7 @@
     "summary": "欧冠 · 战报 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594669",
-    "publishedAt": "2026-09-12T05:26:41.219212+00:00",
+    "publishedAt": "2026-09-12T14:45:54.008683+00:00",
     "tags": [
       "欧冠",
       "战报"
@@ -24231,7 +24231,7 @@
     "summary": "法甲 · 赛程 · 23:15（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2489491",
-    "publishedAt": "2026-09-12T05:26:41.219149+00:00",
+    "publishedAt": "2026-09-12T14:45:54.008616+00:00",
     "tags": [
       "法甲",
       "赛程"
@@ -24374,7 +24374,7 @@
     "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2489490",
-    "publishedAt": "2026-09-12T05:26:41.219206+00:00",
+    "publishedAt": "2026-09-12T14:45:54.008676+00:00",
     "tags": [
       "法甲",
       "战报"
@@ -24695,6 +24695,543 @@
     "extra": {
       "downloads": 260804,
       "likes": 5
+    }
+  },
+  "87055993eef4d1ac551b30378aacffca114b71fd686a409d2de98a67897173ae": {
+    "id": "87055993eef4d1ac551b30378aacffca114b71fd686a409d2de98a67897173ae",
+    "module": "football",
+    "seg": null,
+    "cat": "英超",
+    "title": "Tottenham Hotspur VS Everton",
+    "summary": "英超 · 赛程 · 00:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2494033",
+    "publishedAt": "2026-09-12T14:45:54.008570+00:00",
+    "tags": [
+      "英超",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "Tottenham Hotspur Stadium",
+      "date": "2026-09-12",
+      "country": "England",
+      "status": "NS"
+    }
+  },
+  "0174ef6b76a7e1b6dad257e226942469f10af438a7f92aa3a7c16d8530abcfe8": {
+    "id": "0174ef6b76a7e1b6dad257e226942469f10af438a7f92aa3a7c16d8530abcfe8",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Athletic Bilbao VS Elche",
+    "summary": "西甲 · 赛程 · 00:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2506209",
+    "publishedAt": "2026-09-12T14:45:54.008598+00:00",
+    "tags": [
+      "西甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "San Mamés Barria",
+      "date": "2026-09-12",
+      "country": "Spain",
+      "status": "NS"
+    }
+  },
+  "3d2043df349a7dd5bf899a92125f9785fcded80ef28144e9e346334e0dcdd753": {
+    "id": "3d2043df349a7dd5bf899a92125f9785fcded80ef28144e9e346334e0dcdd753",
+    "module": "football",
+    "seg": null,
+    "cat": "德甲",
+    "title": "Köln VS Werder Bremen",
+    "summary": "德甲 · 赛程 · 00:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2508358",
+    "publishedAt": "2026-09-12T14:45:54.008605+00:00",
+    "tags": [
+      "德甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "3",
+      "season": "2026-2027",
+      "venue": "RheinEnergieStadion",
+      "date": "2026-09-12",
+      "country": "Germany",
+      "status": "NS"
+    }
+  },
+  "f6c879fb45f82b37c269b15a4ce226337f98587dce9a7429a29e594bb00d55c3": {
+    "id": "f6c879fb45f82b37c269b15a4ce226337f98587dce9a7429a29e594bb00d55c3",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Lazio VS AC Milan",
+    "summary": "意甲 · 赛程 · 00:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482168",
+    "publishedAt": "2026-09-12T14:45:54.008610+00:00",
+    "tags": [
+      "意甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "Stadio Olimpico",
+      "date": "2026-09-12",
+      "country": "Italy",
+      "status": "NS"
+    }
+  },
+  "97dbea938549395ace27f43d3d7981de25721e068f242efe149c5a342415a8e4": {
+    "id": "97dbea938549395ace27f43d3d7981de25721e068f242efe149c5a342415a8e4",
+    "module": "football",
+    "seg": null,
+    "cat": "英超",
+    "title": "Aston Villa 0-0 Nottingham Forest",
+    "summary": "英超 · 战报 · 22:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2494037",
+    "publishedAt": "2026-09-12T14:45:54.008634+00:00",
+    "tags": [
+      "英超",
+      "战报"
+    ],
+    "body": [
+      "英超 第 4 轮 · 2026-09-12 · 北京时间 22:00（估算）",
+      "场地：Villa Park",
+      "主队 Aston Villa vs 客队 Nottingham Forest",
+      "终场比分 0-0"
+    ],
+    "points": [
+      "<b>赛事</b>：英超 第 4 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-12 · 北京时间 22:00（估算）",
+      "<b>场地</b>：Villa Park",
+      "<b>主队</b>：Aston Villa",
+      "<b>客队</b>：Nottingham Forest",
+      "<b>终场比分</b>：0-0",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "Villa Park",
+      "date": "2026-09-12",
+      "country": "England",
+      "status": "1H"
+    }
+  },
+  "a2ab9976e3e60c91f8c76917f172a5907d481a1ff50e19588686b374085ce1da": {
+    "id": "a2ab9976e3e60c91f8c76917f172a5907d481a1ff50e19588686b374085ce1da",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Osasuna 0-2 Espanyol",
+    "summary": "西甲 · 战报 · 22:15（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2506217",
+    "publishedAt": "2026-09-12T14:45:54.008643+00:00",
+    "tags": [
+      "西甲",
+      "战报"
+    ],
+    "body": [
+      "西甲 第 5 轮 · 2026-09-12 · 北京时间 22:15（估算）",
+      "场地：Estadio El Sadar",
+      "主队 Osasuna vs 客队 Espanyol",
+      "终场比分 0-2"
+    ],
+    "points": [
+      "<b>赛事</b>：西甲 第 5 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-12 · 北京时间 22:15（估算）",
+      "<b>场地</b>：Estadio El Sadar",
+      "<b>主队</b>：Osasuna",
+      "<b>客队</b>：Espanyol",
+      "<b>终场比分</b>：0-2",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Estadio El Sadar",
+      "date": "2026-09-12",
+      "country": "Spain",
+      "status": "1H"
+    }
+  },
+  "61a3ebab718e2355e93b6ffdc09cd30d6def02f6f55ac3f90643a6b4814f5b0d": {
+    "id": "61a3ebab718e2355e93b6ffdc09cd30d6def02f6f55ac3f90643a6b4814f5b0d",
+    "module": "football",
+    "seg": null,
+    "cat": "德甲",
+    "title": "Augsburg 2-1 Bayer Leverkusen",
+    "summary": "德甲 · 战报 · 21:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2508355",
+    "publishedAt": "2026-09-12T14:45:54.008661+00:00",
+    "tags": [
+      "德甲",
+      "战报"
+    ],
+    "body": [
+      "德甲 第 3 轮 · 2026-09-12 · 北京时间 21:30（估算）",
+      "场地：WWK Arena",
+      "主队 Augsburg vs 客队 Bayer Leverkusen",
+      "终场比分 2-1"
+    ],
+    "points": [
+      "<b>赛事</b>：德甲 第 3 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-12 · 北京时间 21:30（估算）",
+      "<b>场地</b>：WWK Arena",
+      "<b>主队</b>：Augsburg",
+      "<b>客队</b>：Bayer Leverkusen",
+      "<b>终场比分</b>：2-1",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "3",
+      "season": "2026-2027",
+      "venue": "WWK Arena",
+      "date": "2026-09-12",
+      "country": "Germany",
+      "status": "2H"
+    }
+  },
+  "cbc9058dbf66fa49d19dffd867f883f03047c24159c0e4b9c0857b2183f18da4": {
+    "id": "cbc9058dbf66fa49d19dffd867f883f03047c24159c0e4b9c0857b2183f18da4",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Genoa 1-1 Frosinone",
+    "summary": "意甲 · 战报 · 21:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482171",
+    "publishedAt": "2026-09-12T14:45:54.008669+00:00",
+    "tags": [
+      "意甲",
+      "战报"
+    ],
+    "body": [
+      "意甲 第 4 轮 · 2026-09-12 · 北京时间 21:00（估算）",
+      "场地：Stadio Luigi Ferraris",
+      "主队 Genoa vs 客队 Frosinone",
+      "终场比分 1-1"
+    ],
+    "points": [
+      "<b>赛事</b>：意甲 第 4 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-12 · 北京时间 21:00（估算）",
+      "<b>场地</b>：Stadio Luigi Ferraris",
+      "<b>主队</b>：Genoa",
+      "<b>客队</b>：Frosinone",
+      "<b>终场比分</b>：1-1",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "Stadio Luigi Ferraris",
+      "date": "2026-09-12",
+      "country": "Italy",
+      "status": "2H"
+    }
+  },
+  "c9b9242660eed68d249a1a8661cc0e3dacde0f1a224f98c64ec7d49770f013d5": {
+    "id": "c9b9242660eed68d249a1a8661cc0e3dacde0f1a224f98c64ec7d49770f013d5",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI just wants to win",
+    "summary": "OpenAI宣称解决千年难题之一，引发数学界关注与疑虑。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+    "publishedAt": "2026-09-12T11:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "3d51a2f91d02385e20c09f5db7689ed401524187e45dcc94d93c329ebeaaa728": {
+    "id": "3d51a2f91d02385e20c09f5db7689ed401524187e45dcc94d93c329ebeaaa728",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "I spent $4,000 on a robot dog from China",
+    "summary": "宇树科技（Unitree）或成全球最重要机器人公司，专注四足机器人研发，产品已量产并应用于安防、巡检等领域。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+    "publishedAt": "2026-09-12T11:00:53+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "ee5456a4ff334f865e3c73cfb328f1f21acfd88fad21811eda5c06803f8854cf": {
+    "id": "ee5456a4ff334f865e3c73cfb328f1f21acfd88fad21811eda5c06803f8854cf",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
+    "summary": "太初（杭州）集成电路公司“元碁Hypertintellix”超智融合计算系统入选“算力中国·年度卓越成就”。",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/487860.html",
+    "publishedAt": "2026-09-12T11:38:16+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "c8fdd5883bde18f8f5a85b2380fa3d18cfcfd01a7a4cb20c0fe3d1440015dc32": {
+    "id": "c8fdd5883bde18f8f5a85b2380fa3d18cfcfd01a7a4cb20c0fe3d1440015dc32",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+    "summary": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/487796.html",
+    "publishedAt": "2026-09-12T08:49:02+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "29a0103cb591b52b3d78db3d034d11ecd19cc32bfd8bf8ad05f82565f0ddec6b": {
+    "id": "29a0103cb591b52b3d78db3d034d11ecd19cc32bfd8bf8ad05f82565f0ddec6b",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+    "summary": "触觉、记忆、Ego数据、自进化……这个世界模型全都有",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/487752.html",
+    "publishedAt": "2026-09-12T08:15:31+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "3c3e00ca88ae21ab1c18068ee801ee5eec11a0fc8ec4709cdd54101385830d8e": {
+    "id": "3c3e00ca88ae21ab1c18068ee801ee5eec11a0fc8ec4709cdd54101385830d8e",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+    "summary": "FrontierMath Tier 4，饱和了",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/487701.html",
+    "publishedAt": "2026-09-12T07:33:54+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "063b17442e28b7580a02d57c263b8cb26ead6a76aa5ed8288a3dc517e556024b": {
+    "id": "063b17442e28b7580a02d57c263b8cb26ead6a76aa5ed8288a3dc517e556024b",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
+    "summary": "冲刺港股IPO",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/487688.html",
+    "publishedAt": "2026-09-12T05:58:41+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "92e5502504ec04174a5a6e58f8a8fb82187089393dda7b15a7840f42cdca3715": {
+    "id": "92e5502504ec04174a5a6e58f8a8fb82187089393dda7b15a7840f42cdca3715",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "llava-medical-8B-clip-vit-stage2：model 模型更新",
+    "summary": "HuggingFace 上 MohamedAhmedAE/llava-medical-8B-clip-vit-stage2 医疗多模态模型下载量达1142次，获4赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/MohamedAhmedAE/llava-medical-8B-clip-vit-stage2",
+    "publishedAt": "2026-09-12T14:35:33+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1142,
+      "likes": 4
+    }
+  },
+  "0a42008d3d92a93a1fd927a92886191f7776293171ee4b14a09056c68ab7a285": {
+    "id": "0a42008d3d92a93a1fd927a92886191f7776293171ee4b14a09056c68ab7a285",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "NOESIS-Qwopus3.5-9B-Translate-v3.5-BF16：model 模型更新",
+    "summary": "HuggingFace 上 AMAImedia/NOESIS-Qwopus3.5-9B-Translate-v3.5-BF16 模型下载量1556次，获0点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/AMAImedia/NOESIS-Qwopus3.5-9B-Translate-v3.5-BF16",
+    "publishedAt": "2026-09-12T14:26:51+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1556,
+      "likes": 0
+    }
+  },
+  "05a20f69e085068ce6645fad1e6dd1640ae9dfe170a3d4406dc31ce6e2906709": {
+    "id": "05a20f69e085068ce6645fad1e6dd1640ae9dfe170a3d4406dc31ce6e2906709",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Consciousness：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型“upgraedd/Consciousness”获11赞，暂无下载量。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/upgraedd/Consciousness",
+    "publishedAt": "2026-09-12T14:24:46+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 11
+    }
+  },
+  "3db92d018acd421c3af045b4b1e5cea20576fb553cb74d43198bbef893a06a74": {
+    "id": "3db92d018acd421c3af045b4b1e5cea20576fb553cb74d43198bbef893a06a74",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "35杀卢锡安，池子已经两眼一黑了，只能拿通用数值海克斯，还好英雄本身够用（35杀+五杀）",
+    "summary": "UP主 海斗K头滴神 · 92播放 · 13:50",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117253278339362",
+    "publishedAt": "2026-09-12T09:00:00+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 黑科技 上分"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "海斗K头滴神",
+      "play": 92,
+      "bvid": "BV1HpY26SE3T",
+      "duration": "13:50"
+    }
+  },
+  "356121dcc2da3324ee9479c5bd1837403770dc0295bdca1fb7f43946cf49bcf2": {
+    "id": "356121dcc2da3324ee9479c5bd1837403770dc0295bdca1fb7f43946cf49bcf2",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "海斗骚套路（十）论海斗最肉为什么是小炮？",
+    "summary": "UP主 老蒋真聪明 · 1,677播放 · 5:18",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117258026227383",
+    "publishedAt": "2026-09-12T12:21:30+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 强化 套路"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "老蒋真聪明",
+      "play": 1677,
+      "bvid": "BV1yGYd67Ezb",
+      "duration": "5:18"
+    }
+  },
+  "8e1cabb8e9318585a2cc9c5c77811a3e65c2c9fc98f9a0e941ac8cb400cc0851": {
+    "id": "8e1cabb8e9318585a2cc9c5c77811a3e65c2c9fc98f9a0e941ac8cb400cc0851",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "海斗16.18套路总结：面具战刺蝎，莲华种草烬，穿甲宝批龙以及通用三件出装解析",
+    "summary": "UP主 化学催化剂i · 29,563播放 · 8:37",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117257472581078",
+    "publishedAt": "2026-09-12T10:02:19+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 强化 套路"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "化学催化剂i",
+      "play": 29563,
+      "bvid": "BV1R2YX64EgH",
+      "duration": "8:37"
     }
   }
 }
