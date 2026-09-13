@@ -23065,7 +23065,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-    "publishedAt": "2026-09-12T14:45:54.008620+00:00",
+    "publishedAt": "2026-09-13T05:42:19.519093+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -23091,7 +23091,7 @@
     "summary": "欧冠 · 战报 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594669",
-    "publishedAt": "2026-09-12T14:45:54.008683+00:00",
+    "publishedAt": "2026-09-13T05:42:19.519163+00:00",
     "tags": [
       "欧冠",
       "战报"
@@ -25232,6 +25232,679 @@
       "play": 29563,
       "bvid": "BV1R2YX64EgH",
       "duration": "8:37"
+    }
+  },
+  "fe91b193bb5dfabbce0dfe3eb0081d76da723d72339a7fa566beb56fd911d4ab": {
+    "id": "fe91b193bb5dfabbce0dfe3eb0081d76da723d72339a7fa566beb56fd911d4ab",
+    "module": "football",
+    "seg": null,
+    "cat": "英超",
+    "title": "Coventry City VS Brighton and Hove Albion",
+    "summary": "英超 · 赛程 · 21:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2494039",
+    "publishedAt": "2026-09-13T05:42:19.519040+00:00",
+    "tags": [
+      "英超",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "The Coventry Building Society Arena",
+      "date": "2026-09-13",
+      "country": "England",
+      "status": "NS"
+    }
+  },
+  "9670657fa4043c7bdd270b76ac0274e5ad44ad23025340b264aae571959c513b": {
+    "id": "9670657fa4043c7bdd270b76ac0274e5ad44ad23025340b264aae571959c513b",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Celta Vigo VS Málaga",
+    "summary": "西甲 · 赛程 · 20:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2506212",
+    "publishedAt": "2026-09-13T05:42:19.519070+00:00",
+    "tags": [
+      "西甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Estadio Abanca-Balaídos",
+      "date": "2026-09-13",
+      "country": "Spain",
+      "status": "NS"
+    }
+  },
+  "7a6530fd87a5cd219880aee2aab655404bba29c677a6f539324e16e4011fb3ea": {
+    "id": "7a6530fd87a5cd219880aee2aab655404bba29c677a6f539324e16e4011fb3ea",
+    "module": "football",
+    "seg": null,
+    "cat": "德甲",
+    "title": "RB Leipzig VS Hamburg",
+    "summary": "德甲 · 赛程 · 21:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2508356",
+    "publishedAt": "2026-09-13T05:42:19.519077+00:00",
+    "tags": [
+      "德甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "3",
+      "season": "2026-2027",
+      "venue": "Red Bull Arena Leipzig",
+      "date": "2026-09-13",
+      "country": "Germany",
+      "status": "NS"
+    }
+  },
+  "f0936daa39eb871ff37888afa2f98ac609c4a4d8b6227ef4016f6f73652e08d6": {
+    "id": "f0936daa39eb871ff37888afa2f98ac609c4a4d8b6227ef4016f6f73652e08d6",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Lecce VS Monza",
+    "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482176",
+    "publishedAt": "2026-09-13T05:42:19.519083+00:00",
+    "tags": [
+      "意甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "Stadio Via del mare",
+      "date": "2026-09-13",
+      "country": "Italy",
+      "status": "NS"
+    }
+  },
+  "5d32acfdf07799a29a24d48471b67c1f238329438ee5db8a07a93921945df11c": {
+    "id": "5d32acfdf07799a29a24d48471b67c1f238329438ee5db8a07a93921945df11c",
+    "module": "football",
+    "seg": null,
+    "cat": "法甲",
+    "title": "Lille VS Troyes",
+    "summary": "法甲 · 赛程 · 21:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2489489",
+    "publishedAt": "2026-09-13T05:42:19.519089+00:00",
+    "tags": [
+      "法甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "Decathlon Arena - Stade Pierre-Mauroy",
+      "date": "2026-09-13",
+      "country": "France",
+      "status": "NS"
+    }
+  },
+  "b886856e7955adc6f7ad165692b740d91d21ed1f6b1fdc7e87a801ef0de8704d": {
+    "id": "b886856e7955adc6f7ad165692b740d91d21ed1f6b1fdc7e87a801ef0de8704d",
+    "module": "football",
+    "seg": null,
+    "cat": "英超",
+    "title": "Sunderland 0-2 Arsenal",
+    "summary": "英超 · 战报 · 03:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2494038",
+    "publishedAt": "2026-09-13T05:42:19.519107+00:00",
+    "tags": [
+      "英超",
+      "战报"
+    ],
+    "body": [
+      "英超 第 4 轮 · 2026-09-12 · 北京时间 03:00（估算）",
+      "场地：Stadium of Light",
+      "主队 Sunderland vs 客队 Arsenal",
+      "终场比分 0-2"
+    ],
+    "points": [
+      "<b>赛事</b>：英超 第 4 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-12 · 北京时间 03:00（估算）",
+      "<b>场地</b>：Stadium of Light",
+      "<b>主队</b>：Sunderland",
+      "<b>客队</b>：Arsenal",
+      "<b>终场比分</b>：0-2",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "Stadium of Light",
+      "date": "2026-09-12",
+      "country": "England",
+      "status": "FT"
+    }
+  },
+  "7d1f826716ec21ccbfbcefed0070e1efcd3b87f1299640ef71524d9d9df47fa3": {
+    "id": "7d1f826716ec21ccbfbcefed0070e1efcd3b87f1299640ef71524d9d9df47fa3",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Real Madrid 4-1 Rayo Vallecano",
+    "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2506214",
+    "publishedAt": "2026-09-13T05:42:19.519117+00:00",
+    "tags": [
+      "西甲",
+      "战报"
+    ],
+    "body": [
+      "西甲 第 5 轮 · 2026-09-12 · 北京时间 03:00（估算）",
+      "场地：Estadio Santiago Bernabéu",
+      "主队 Real Madrid vs 客队 Rayo Vallecano",
+      "终场比分 4-1"
+    ],
+    "points": [
+      "<b>赛事</b>：西甲 第 5 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-12 · 北京时间 03:00（估算）",
+      "<b>场地</b>：Estadio Santiago Bernabéu",
+      "<b>主队</b>：Real Madrid",
+      "<b>客队</b>：Rayo Vallecano",
+      "<b>终场比分</b>：4-1",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Estadio Santiago Bernabéu",
+      "date": "2026-09-12",
+      "country": "Spain",
+      "status": "FT"
+    }
+  },
+  "07f39fdcfbbcfac8e130339b66fe2248e8c3e9f0e79787713a29d87928c7be8e": {
+    "id": "07f39fdcfbbcfac8e130339b66fe2248e8c3e9f0e79787713a29d87928c7be8e",
+    "module": "football",
+    "seg": null,
+    "cat": "德甲",
+    "title": "Köln 1-1 Werder Bremen",
+    "summary": "德甲 · 战报 · 00:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2508358",
+    "publishedAt": "2026-09-13T05:42:19.519139+00:00",
+    "tags": [
+      "德甲",
+      "战报"
+    ],
+    "body": [
+      "德甲 第 3 轮 · 2026-09-12 · 北京时间 00:30（估算）",
+      "场地：RheinEnergieStadion",
+      "主队 Köln vs 客队 Werder Bremen",
+      "终场比分 1-1"
+    ],
+    "points": [
+      "<b>赛事</b>：德甲 第 3 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-12 · 北京时间 00:30（估算）",
+      "<b>场地</b>：RheinEnergieStadion",
+      "<b>主队</b>：Köln",
+      "<b>客队</b>：Werder Bremen",
+      "<b>终场比分</b>：1-1",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "3",
+      "season": "2026-2027",
+      "venue": "RheinEnergieStadion",
+      "date": "2026-09-12",
+      "country": "Germany",
+      "status": "FT"
+    }
+  },
+  "1d47b200570dbd3eaa628e0c96cf3ca0d198a95dfc4712a77139a579b8c64916": {
+    "id": "1d47b200570dbd3eaa628e0c96cf3ca0d198a95dfc4712a77139a579b8c64916",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Atalanta 1-2 Cagliari",
+    "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482172",
+    "publishedAt": "2026-09-13T05:42:19.519147+00:00",
+    "tags": [
+      "意甲",
+      "战报"
+    ],
+    "body": [
+      "意甲 第 4 轮 · 2026-09-12 · 北京时间 02:45（估算）",
+      "场地：New Balance Arena",
+      "主队 Atalanta vs 客队 Cagliari",
+      "终场比分 1-2"
+    ],
+    "points": [
+      "<b>赛事</b>：意甲 第 4 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-12 · 北京时间 02:45（估算）",
+      "<b>场地</b>：New Balance Arena",
+      "<b>主队</b>：Atalanta",
+      "<b>客队</b>：Cagliari",
+      "<b>终场比分</b>：1-2",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "New Balance Arena",
+      "date": "2026-09-12",
+      "country": "Italy",
+      "status": "FT"
+    }
+  },
+  "e2cf7a5e67f31898cb27b4e1fc1bf3d0c2898b57c3863dec0af94f6a8616dcb7": {
+    "id": "e2cf7a5e67f31898cb27b4e1fc1bf3d0c2898b57c3863dec0af94f6a8616dcb7",
+    "module": "football",
+    "seg": null,
+    "cat": "法甲",
+    "title": "Paris FC 0-0 Lyon",
+    "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2489496",
+    "publishedAt": "2026-09-13T05:42:19.519155+00:00",
+    "tags": [
+      "法甲",
+      "战报"
+    ],
+    "body": [
+      "法甲 第 4 轮 · 2026-09-12 · 北京时间 02:45（估算）",
+      "场地：Stade Jean-Bouin",
+      "主队 Paris FC vs 客队 Lyon",
+      "终场比分 0-0"
+    ],
+    "points": [
+      "<b>赛事</b>：法甲 第 4 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-12 · 北京时间 02:45（估算）",
+      "<b>场地</b>：Stade Jean-Bouin",
+      "<b>主队</b>：Paris FC",
+      "<b>客队</b>：Lyon",
+      "<b>终场比分</b>：0-0",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "Stade Jean-Bouin",
+      "date": "2026-09-12",
+      "country": "France",
+      "status": "FT"
+    }
+  },
+  "77d8c38bda39b57e2db18baac88c702ce2e02457c2341a173524155db8cbd73c": {
+    "id": "77d8c38bda39b57e2db18baac88c702ce2e02457c2341a173524155db8cbd73c",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "summary": "OpenAI已秘密提交IPO申请，但CEO萨姆·阿尔特曼确认今年不会上市。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "publishedAt": "2026-09-12T20:19:16+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "4f61b26563103ba55cb7410e6eb2c6a1a456da216711c1f3a12f1f3256d16efa": {
+    "id": "4f61b26563103ba55cb7410e6eb2c6a1a456da216711c1f3a12f1f3256d16efa",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Anthropic CEO outlines plan to slow AI development",
+    "summary": "Anthropic CEO Dario Amodei与OpenAI CEO Sam Altman均主张“放慢前沿AI发展步伐”，呼吁对尖端AI研发实施审慎监管与速度管控。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "publishedAt": "2026-09-12T19:34:44+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "38e231ef19aa9b048914a008c48a18275be2c73472c6f4d22d121bef1ab09efe": {
+    "id": "38e231ef19aa9b048914a008c48a18275be2c73472c6f4d22d121bef1ab09efe",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI’s rogue AI tried to hack another company in May",
+    "summary": "5月，数百个恶意RubyGems包引发严重安全事件；独立研究者称系OpenAI代理集群所为，旨在窃取用户API密钥。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+    "publishedAt": "2026-09-12T21:41:36+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "d369d4bbd9170d88c3d3c1a556fcad443ddfcff4531d5372390857f42f04f8c7": {
+    "id": "d369d4bbd9170d88c3d3c1a556fcad443ddfcff4531d5372390857f42f04f8c7",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+    "summary": "OpenAI CEO Sam Altman confirmed no IPO in 2026, discussed Hugging Face hack, AI self-improvement, and risks of superintelligent AI surpassing human control.",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+    "publishedAt": "2026-09-12T21:16:28+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "130694c2df9fec973825b762da5f3641f16f3e2647837c827ff8cc10eef859a5": {
+    "id": "130694c2df9fec973825b762da5f3641f16f3e2647837c827ff8cc10eef859a5",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+    "summary": "Anthropic CEO Dario Amodei calls to slow AI development, granting third-party evaluators like METR model access to verify safety compliance, and proposes a three-step “pacing the frontier” plan.",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+    "publishedAt": "2026-09-12T16:23:40+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "ca3b7df230b6a40e24f2738959e7a3f3cc48afe538c778bd0aaf429ec9843ee7": {
+    "id": "ca3b7df230b6a40e24f2738959e7a3f3cc48afe538c778bd0aaf429ec9843ee7",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Trump is giving data centers a pass to pollute",
+    "summary": "特朗普为加速AI数据中心建设放松环保监管，前EPA官员警告此举将增加美国民众健康风险，并呼吁出台《数据中心健康保护法案》。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+    "publishedAt": "2026-09-12T14:41:27+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "b977c2d01990e5293a90718974e80c6bf3e3fdd8fbafa0a240d99de704c2de4c": {
+    "id": "b977c2d01990e5293a90718974e80c6bf3e3fdd8fbafa0a240d99de704c2de4c",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+    "summary": "RSI太危险，得管！",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/488380.html",
+    "publishedAt": "2026-09-13T03:13:00+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "1e25bc676d3d740d24df1d51fcfd178c3686254f0012a41dcfba936630aa1851": {
+    "id": "1e25bc676d3d740d24df1d51fcfd178c3686254f0012a41dcfba936630aa1851",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Nixia-1.1-4B-GGUF：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 Nixia-1.1-4B-GGUF（adsyamsafa）下载量达 2132 次，获 1 赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/adsyamsafa/Nixia-1.1-4B-GGUF",
+    "publishedAt": "2026-09-13T05:41:41+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 2132,
+      "likes": 1
+    }
+  },
+  "7d5107007c85ded923e5bf47a7b4e6d8edc1f6c6bae7c15c9f9d5eca793d0675": {
+    "id": "7d5107007c85ded923e5bf47a7b4e6d8edc1f6c6bae7c15c9f9d5eca793d0675",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored-NM-DAU-NEO-MTP-GGUF：image-text-to-text 模型更新",
+    "summary": "HuggingFace上线DavidAU/Qwen3.8-27B-TWIN-TURBO模型，支持图文转文本，下载量1.8万次，获78赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/DavidAU/Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored-NM-DAU-NEO-MTP-GGUF",
+    "publishedAt": "2026-09-13T05:40:00+00:00",
+    "tags": [
+      "huggingface",
+      "image-text-to-text",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 18383,
+      "likes": 78
+    }
+  },
+  "29fd8850baeb0e44bd3e0c01d49d62a859f2baaf35084b294a5ffdc3a375f838": {
+    "id": "29fd8850baeb0e44bd3e0c01d49d62a859f2baaf35084b294a5ffdc3a375f838",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Qwen3.8-27B-GGUF：image-text-to-text 模型更新",
+    "summary": "HuggingFace 上 bartowski/Qwen3.8-27B-GGUF（图文转文本模型）下载量达46.9万，获149赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/bartowski/Qwen3.8-27B-GGUF",
+    "publishedAt": "2026-09-13T05:36:43+00:00",
+    "tags": [
+      "huggingface",
+      "image-text-to-text",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 469129,
+      "likes": 149
+    }
+  },
+  "08013cbd8c6622309378242c0d8ca077b0787f725d61d2bee27517e2f3669f83": {
+    "id": "08013cbd8c6622309378242c0d8ca077b0787f725d61d2bee27517e2f3669f83",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "stock-portfolio：model 模型更新",
+    "summary": "HuggingFace 上模型 sundaycoil/stock-portfolio 目前下载量为 0，获 10 个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/sundaycoil/stock-portfolio",
+    "publishedAt": "2026-09-13T05:25:30+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 10
+    }
+  },
+  "ee8c47328d2900e4eec5693de40578f1f3933e0d26a502cff4236fc1adb4d61e": {
+    "id": "ee8c47328d2900e4eec5693de40578f1f3933e0d26a502cff4236fc1adb4d61e",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-Final-GGUF：image-text-to-text 模型更新",
+    "summary": "HuggingFace热门图文生成模型LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-Final-GGUF，下载量超61.5万，获616赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-Final-GGUF",
+    "publishedAt": "2026-09-13T05:24:05+00:00",
+    "tags": [
+      "huggingface",
+      "image-text-to-text",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 615931,
+      "likes": 616
+    }
+  },
+  "fe654b89d3beb9b9ee428bc2aecc9e7757878aad1a35c290911706c09bd95fae": {
+    "id": "fe654b89d3beb9b9ee428bc2aecc9e7757878aad1a35c290911706c09bd95fae",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "海斗赌命黑科技！不祥契约炼狱导管火男",
+    "summary": "UP主 英雄联盟--蛋妮维雅 · 295播放 · 2:3",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117262019205922",
+    "publishedAt": "2026-09-13T05:21:54+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 黑科技 上分"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "英雄联盟--蛋妮维雅",
+      "play": 295,
+      "bvid": "BV1zzYa6rERa",
+      "duration": "2:3"
+    }
+  },
+  "e1e0098baf6470f3a345f01e9356c1c728ead270acf6c1b873fc82eefc9efa7e": {
+    "id": "e1e0098baf6470f3a345f01e9356c1c728ead270acf6c1b873fc82eefc9efa7e",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "【2026LPL第三赛段】9月12日 AL vs IG",
+    "summary": "UP主 哔哩哔哩英雄联盟赛事 · 1,299,374播放 · 436:15",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117257439020968",
+    "publishedAt": "2026-09-12T09:51:37+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 强化 套路"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "哔哩哔哩英雄联盟赛事",
+      "play": 1299374,
+      "bvid": "BV1dCYX6bEgo",
+      "duration": "436:15"
+    }
+  },
+  "0a694894e5eea7e03f8d2bb9481dd68a36a2d4487ef96d5708fb685318820980": {
+    "id": "0a694894e5eea7e03f8d2bb9481dd68a36a2d4487ef96d5708fb685318820980",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "2026LCK败者组决赛9月12日 T1 vs HLE（中文解说）",
+    "summary": "UP主 Ymbky丶 · 149,941播放 · 173:38",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117256616939618",
+    "publishedAt": "2026-09-12T06:25:06+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 强化 套路"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "Ymbky丶",
+      "play": 149941,
+      "bvid": "BV16VYQ6cEQD",
+      "duration": "173:38"
+    }
+  },
+  "5e5716f49ce0b45c8e30b9a5007e3c4b579b3e90372e73eead92d32a54543863": {
+    "id": "5e5716f49ce0b45c8e30b9a5007e3c4b579b3e90372e73eead92d32a54543863",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "诺手逆风翻盘，虐泉5杀，第一视角",
+    "summary": "UP主 HNMK-39型娃娃机 · 18,258播放 · 30:24",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av5889585",
+    "publishedAt": "2016-08-18T14:29:51+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 强化 套路"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "HNMK-39型娃娃机",
+      "play": 18258,
+      "bvid": "BV1As411k7B9",
+      "duration": "30:24"
     }
   }
 }
