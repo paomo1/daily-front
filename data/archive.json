@@ -23065,7 +23065,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-    "publishedAt": "2026-09-13T05:42:19.519093+00:00",
+    "publishedAt": "2026-09-13T15:25:16.497114+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -23091,7 +23091,7 @@
     "summary": "欧冠 · 战报 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594669",
-    "publishedAt": "2026-09-13T05:42:19.519163+00:00",
+    "publishedAt": "2026-09-13T15:25:16.497184+00:00",
     "tags": [
       "欧冠",
       "战报"
@@ -25905,6 +25905,482 @@
       "play": 18258,
       "bvid": "BV1As411k7B9",
       "duration": "30:24"
+    }
+  },
+  "2c79def7cbdfb561f391051d218684c94719c9e814964a013a651b312ab39d1e": {
+    "id": "2c79def7cbdfb561f391051d218684c94719c9e814964a013a651b312ab39d1e",
+    "module": "football",
+    "seg": null,
+    "cat": "英超",
+    "title": "Manchester United VS Manchester City",
+    "summary": "英超 · 赛程 · 23:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2494030",
+    "publishedAt": "2026-09-13T15:25:16.497023+00:00",
+    "tags": [
+      "英超",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "Old Trafford",
+      "date": "2026-09-13",
+      "country": "England",
+      "status": "NS"
+    }
+  },
+  "5eacdd9e6d5408084aa5d12da12e39f4787acde36db5a3839f124a76a9e628c3": {
+    "id": "5eacdd9e6d5408084aa5d12da12e39f4787acde36db5a3839f124a76a9e628c3",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Getafe VS Deportivo de A Coruña",
+    "summary": "西甲 · 赛程 · 00:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2506215",
+    "publishedAt": "2026-09-13T15:25:16.497054+00:00",
+    "tags": [
+      "西甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Estadio Coliseum",
+      "date": "2026-09-13",
+      "country": "Spain",
+      "status": "NS"
+    }
+  },
+  "9471e1d274f94d7e1322b63e67208e644da08a3a4241fc1bb02ff22c2716149a": {
+    "id": "9471e1d274f94d7e1322b63e67208e644da08a3a4241fc1bb02ff22c2716149a",
+    "module": "football",
+    "seg": null,
+    "cat": "德甲",
+    "title": "Elversberg VS Bayern Munich",
+    "summary": "德甲 · 赛程 · 23:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2508359",
+    "publishedAt": "2026-09-13T15:25:16.497061+00:00",
+    "tags": [
+      "德甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "3",
+      "season": "2026-2027",
+      "venue": "Waldstadion Kaiserlinde",
+      "date": "2026-09-13",
+      "country": "Germany",
+      "status": "NS"
+    }
+  },
+  "887baa9ece7cf684e9b94e804a5f6bfbb3d4d1a1e5fa08aab0a798b7a7044ed2": {
+    "id": "887baa9ece7cf684e9b94e804a5f6bfbb3d4d1a1e5fa08aab0a798b7a7044ed2",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Napoli VS Bologna",
+    "summary": "意甲 · 赛程 · 00:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482170",
+    "publishedAt": "2026-09-13T15:25:16.497067+00:00",
+    "tags": [
+      "意甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "Stadio Diego Armando Maradona",
+      "date": "2026-09-13",
+      "country": "Italy",
+      "status": "NS"
+    }
+  },
+  "4acd05081f3b6cb00558b60a13fad77c6509455ad94dba46571b7f9ddedea6c2": {
+    "id": "4acd05081f3b6cb00558b60a13fad77c6509455ad94dba46571b7f9ddedea6c2",
+    "module": "football",
+    "seg": null,
+    "cat": "法甲",
+    "title": "Brest VS Paris Saint-Germain",
+    "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2489493",
+    "publishedAt": "2026-09-13T15:25:16.497109+00:00",
+    "tags": [
+      "法甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "Stade Francis-Le Blé",
+      "date": "2026-09-13",
+      "country": "France",
+      "status": "NS"
+    }
+  },
+  "aa5c4592672bfbd80a8375dfdd900b72299fe8c45a8b82864cedcc820bf3c698": {
+    "id": "aa5c4592672bfbd80a8375dfdd900b72299fe8c45a8b82864cedcc820bf3c698",
+    "module": "football",
+    "seg": null,
+    "cat": "英超",
+    "title": "Coventry City 0-5 Brighton and Hove Albion",
+    "summary": "英超 · 战报 · 21:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2494039",
+    "publishedAt": "2026-09-13T15:25:16.497129+00:00",
+    "tags": [
+      "英超",
+      "战报"
+    ],
+    "body": [
+      "英超 第 4 轮 · 2026-09-13 · 北京时间 21:00（估算）",
+      "场地：The Coventry Building Society Arena",
+      "主队 Coventry City vs 客队 Brighton and Hove Albion",
+      "终场比分 0-5"
+    ],
+    "points": [
+      "<b>赛事</b>：英超 第 4 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-13 · 北京时间 21:00（估算）",
+      "<b>场地</b>：The Coventry Building Society Arena",
+      "<b>主队</b>：Coventry City",
+      "<b>客队</b>：Brighton and Hove Albion",
+      "<b>终场比分</b>：0-5",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "The Coventry Building Society Arena",
+      "date": "2026-09-13",
+      "country": "England",
+      "status": "FT"
+    }
+  },
+  "a9b7f4c3cc7ded7f86a5256db14179d7175efc2ab863f97cc05ab96824b0ce9d": {
+    "id": "a9b7f4c3cc7ded7f86a5256db14179d7175efc2ab863f97cc05ab96824b0ce9d",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Levante 0-2 Barcelona",
+    "summary": "西甲 · 战报 · 22:15（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2506213",
+    "publishedAt": "2026-09-13T15:25:16.497139+00:00",
+    "tags": [
+      "西甲",
+      "战报"
+    ],
+    "body": [
+      "西甲 第 5 轮 · 2026-09-13 · 北京时间 22:15（估算）",
+      "场地：Estadio Ciudad de Valencia",
+      "主队 Levante vs 客队 Barcelona",
+      "终场比分 0-2"
+    ],
+    "points": [
+      "<b>赛事</b>：西甲 第 5 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-13 · 北京时间 22:15（估算）",
+      "<b>场地</b>：Estadio Ciudad de Valencia",
+      "<b>主队</b>：Levante",
+      "<b>客队</b>：Barcelona",
+      "<b>终场比分</b>：0-2",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Estadio Ciudad de Valencia",
+      "date": "2026-09-13",
+      "country": "Spain",
+      "status": "HT"
+    }
+  },
+  "aa797be16ee9bfc073725d7695f9e3a10d42e830ce528d87187b6f94d7f85af3": {
+    "id": "aa797be16ee9bfc073725d7695f9e3a10d42e830ce528d87187b6f94d7f85af3",
+    "module": "football",
+    "seg": null,
+    "cat": "德甲",
+    "title": "RB Leipzig 5-0 Hamburg",
+    "summary": "德甲 · 战报 · 21:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2508356",
+    "publishedAt": "2026-09-13T15:25:16.497148+00:00",
+    "tags": [
+      "德甲",
+      "战报"
+    ],
+    "body": [
+      "德甲 第 3 轮 · 2026-09-13 · 北京时间 21:30（估算）",
+      "场地：Red Bull Arena Leipzig",
+      "主队 RB Leipzig vs 客队 Hamburg",
+      "终场比分 5-0"
+    ],
+    "points": [
+      "<b>赛事</b>：德甲 第 3 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-13 · 北京时间 21:30（估算）",
+      "<b>场地</b>：Red Bull Arena Leipzig",
+      "<b>主队</b>：RB Leipzig",
+      "<b>客队</b>：Hamburg",
+      "<b>终场比分</b>：5-0",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "3",
+      "season": "2026-2027",
+      "venue": "Red Bull Arena Leipzig",
+      "date": "2026-09-13",
+      "country": "Germany",
+      "status": "2H"
+    }
+  },
+  "e68494f6e1cdd93425e861e83095e10cec3f6cdc565941ee5139c38f024f70a0": {
+    "id": "e68494f6e1cdd93425e861e83095e10cec3f6cdc565941ee5139c38f024f70a0",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Lecce 3-2 Monza",
+    "summary": "意甲 · 战报 · 21:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482176",
+    "publishedAt": "2026-09-13T15:25:16.497168+00:00",
+    "tags": [
+      "意甲",
+      "战报"
+    ],
+    "body": [
+      "意甲 第 4 轮 · 2026-09-13 · 北京时间 21:00（估算）",
+      "场地：Stadio Via del mare",
+      "主队 Lecce vs 客队 Monza",
+      "终场比分 3-2"
+    ],
+    "points": [
+      "<b>赛事</b>：意甲 第 4 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-13 · 北京时间 21:00（估算）",
+      "<b>场地</b>：Stadio Via del mare",
+      "<b>主队</b>：Lecce",
+      "<b>客队</b>：Monza",
+      "<b>终场比分</b>：3-2",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "Stadio Via del mare",
+      "date": "2026-09-13",
+      "country": "Italy",
+      "status": "FT"
+    }
+  },
+  "95a044c52b5a195003a789d90443ba42ae3a309882729fbff6f3271caf8031c3": {
+    "id": "95a044c52b5a195003a789d90443ba42ae3a309882729fbff6f3271caf8031c3",
+    "module": "football",
+    "seg": null,
+    "cat": "法甲",
+    "title": "Le Mans 0-0 Lens",
+    "summary": "法甲 · 战报 · 23:15（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2489497",
+    "publishedAt": "2026-09-13T15:25:16.497177+00:00",
+    "tags": [
+      "法甲",
+      "战报"
+    ],
+    "body": [
+      "法甲 第 4 轮 · 2026-09-13 · 北京时间 23:15（估算）",
+      "场地：Stade Marie-Marvingt",
+      "主队 Le Mans vs 客队 Lens",
+      "终场比分 0-0"
+    ],
+    "points": [
+      "<b>赛事</b>：法甲 第 4 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-13 · 北京时间 23:15（估算）",
+      "<b>场地</b>：Stade Marie-Marvingt",
+      "<b>主队</b>：Le Mans",
+      "<b>客队</b>：Lens",
+      "<b>终场比分</b>：0-0",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "Stade Marie-Marvingt",
+      "date": "2026-09-13",
+      "country": "France",
+      "status": "1H"
+    }
+  },
+  "5b4b671ef8f2a76fa7ede9b687bd20b88621f2e69ba3e3c04919d57c12a388ec": {
+    "id": "5b4b671ef8f2a76fa7ede9b687bd20b88621f2e69ba3e3c04919d57c12a388ec",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+    "summary": "亮源新创的Physical Al路线清晰了",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/488672.html",
+    "publishedAt": "2026-09-13T07:38:20+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "13e9d2eff50e138e9e39bf87c76ee034fc40c3b66b8c1e9d757c18cc3b5d8b9a": {
+    "id": "13e9d2eff50e138e9e39bf87c76ee034fc40c3b66b8c1e9d757c18cc3b5d8b9a",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "GitHub三榜第一背后，一个“专升本”工程师的十年",
+    "summary": "出身寒微不是耻辱，放弃自己才是。",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/488519.html",
+    "publishedAt": "2026-09-13T07:20:19+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "d6d51efd2af1b9bb1b1d32a21a771a86c160106cefe3e354b5b92765bb562eff": {
+    "id": "d6d51efd2af1b9bb1b1d32a21a771a86c160106cefe3e354b5b92765bb562eff",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
+    "summary": "Agent的下一步是关系型生产力",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/488447.html",
+    "publishedAt": "2026-09-13T06:40:25+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "cbbf76eec0306abf864a5e82d8d8fb4812fbdbc2c3763aefb5b7196f8a7287a2": {
+    "id": "cbbf76eec0306abf864a5e82d8d8fb4812fbdbc2c3763aefb5b7196f8a7287a2",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Crowd-v1：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 Vxtzq/Crowd-v1 下载量达 10,017 次，获 4 个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Vxtzq/Crowd-v1",
+    "publishedAt": "2026-09-13T15:25:40+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 10017,
+      "likes": 4
+    }
+  },
+  "58ea4367c4536a50b3f7cb1a95df062ffbb40f474e19eb0b7748e73f1f4ea983": {
+    "id": "58ea4367c4536a50b3f7cb1a95df062ffbb40f474e19eb0b7748e73f1f4ea983",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "wav2vec2-basque-200h：model 模型更新",
+    "summary": "HuggingFace 上 alexdimmock/wav2vec2-basque-200h 模型下载量 2197，获赞数为 0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/alexdimmock/wav2vec2-basque-200h",
+    "publishedAt": "2026-09-13T15:24:26+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 2197,
+      "likes": 0
+    }
+  },
+  "ade823dcc2a91481f97ed59a56da4e98762b86c636a9ad9b5f6636fcbe4d0bdf": {
+    "id": "ade823dcc2a91481f97ed59a56da4e98762b86c636a9ad9b5f6636fcbe4d0bdf",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "hparam-92m-block-mtp-truncated-peak_lr-3e-5-wu-0p01-s42：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 violetxi/hparam-92m-block-mtp-truncated-peak_lr-3e-5-wu-0p01-s42 下载量2869，获0赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/violetxi/hparam-92m-block-mtp-truncated-peak_lr-3e-5-wu-0p01-s42",
+    "publishedAt": "2026-09-13T15:02:46+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 2869,
+      "likes": 0
+    }
+  },
+  "4e139a5401719940c0937ce437a029620b2a15fa3663d69ab69e306230813631": {
+    "id": "4e139a5401719940c0937ce437a029620b2a15fa3663d69ab69e306230813631",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "海斗黑科技：大法师风女！无限Q技能全程无限击飞！",
+    "summary": "UP主 可乐乱斗 · 2,392播放 · 3:4",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117263596326555",
+    "publishedAt": "2026-09-13T11:59:46+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 黑科技 上分"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "可乐乱斗",
+      "play": 2392,
+      "bvid": "BV1CEYq6hEwn",
+      "duration": "3:4"
     }
   }
 }
