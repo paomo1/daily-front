@@ -1,9 +1,74 @@
 {
-  "generated_at": "2026-09-15T05:55:56.266695+00:00",
+  "generated_at": "2026-09-15T16:02:17.577188+00:00",
   "date": "2026-09-15",
   "keep_days": 7,
-  "count": 405,
+  "count": 408,
   "items": [
+    {
+      "id": "00cc0a469f8c21913ef6b78c43cc850e0965b94dfa06452f92bda62f3fb60240",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "publishedAt": "2026-09-15T16:00:44+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "630bc1c24e1902e8fd3818ec719797af88d5e2ebb74e2da1c1512cf419225ce8",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "convert_modelopt_nvfp4-e2e：text-generation 模型更新",
+      "summary": "HuggingFace上text-generation模型nm-testing/convert_modelopt_nvfp4-e2e下载量2271次，获0点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/nm-testing/convert_modelopt_nvfp4-e2e",
+      "publishedAt": "2026-09-15T16:00:31+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 2271,
+        "likes": 0
+      }
+    },
+    {
+      "id": "76427b0f595b3ba22d5a3d2078e889576694c7810dba8a55069824b16cce6f12",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "zegrate-ai：model 模型更新",
+      "summary": "Hugging Face 上主流模型 yimn-Aghosh/zegrate-ai，下载量986次，获13个赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/yimn-Aghosh/zegrate-ai",
+      "publishedAt": "2026-09-15T16:00:28+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 986,
+        "likes": 13
+      }
+    },
     {
       "id": "b53fad4b0edfe277e914c403d88c4c86292c592501ebd901c12f75167ed272ff",
       "module": "football",
@@ -13,7 +78,7 @@
       "summary": "欧冠 · 战报 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2594669",
-      "publishedAt": "2026-09-15T05:53:57.291465+00:00",
+      "publishedAt": "2026-09-15T16:00:27.694928+00:00",
       "tags": [
         "欧冠",
         "战报"
@@ -52,7 +117,7 @@
       "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=taBlamKslbE",
-      "publishedAt": "2026-09-15T05:53:57.291457+00:00",
+      "publishedAt": "2026-09-15T16:00:27.694920+00:00",
       "tags": [
         "法甲",
         "战报"
@@ -91,7 +156,7 @@
       "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=lUJb1MDUsjE",
-      "publishedAt": "2026-09-15T05:53:57.291450+00:00",
+      "publishedAt": "2026-09-15T16:00:27.694912+00:00",
       "tags": [
         "意甲",
         "战报"
@@ -130,7 +195,7 @@
       "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=h-BXJf4NXos",
-      "publishedAt": "2026-09-15T05:53:57.291443+00:00",
+      "publishedAt": "2026-09-15T16:00:27.694903+00:00",
       "tags": [
         "德甲",
         "战报"
@@ -169,7 +234,7 @@
       "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=gpE_AVbAie4",
-      "publishedAt": "2026-09-15T05:53:57.291423+00:00",
+      "publishedAt": "2026-09-15T16:00:27.694882+00:00",
       "tags": [
         "西甲",
         "战报"
@@ -208,7 +273,7 @@
       "summary": "英超 · 战报 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=T6SVDM4MMK4",
-      "publishedAt": "2026-09-15T05:53:57.291414+00:00",
+      "publishedAt": "2026-09-15T16:00:27.694872+00:00",
       "tags": [
         "英超",
         "战报"
@@ -247,7 +312,7 @@
       "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-      "publishedAt": "2026-09-15T05:53:57.291402+00:00",
+      "publishedAt": "2026-09-15T16:00:27.694858+00:00",
       "tags": [
         "欧冠",
         "赛程"
@@ -273,7 +338,7 @@
       "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489501",
-      "publishedAt": "2026-09-15T05:53:57.291398+00:00",
+      "publishedAt": "2026-09-15T16:00:27.694853+00:00",
       "tags": [
         "法甲",
         "赛程"
@@ -299,7 +364,7 @@
       "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2482187",
-      "publishedAt": "2026-09-15T05:53:57.291393+00:00",
+      "publishedAt": "2026-09-15T16:00:27.694848+00:00",
       "tags": [
         "意甲",
         "赛程"
@@ -325,7 +390,7 @@
       "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508360",
-      "publishedAt": "2026-09-15T05:53:57.291388+00:00",
+      "publishedAt": "2026-09-15T16:00:27.694842+00:00",
       "tags": [
         "德甲",
         "赛程"
@@ -351,7 +416,7 @@
       "summary": "西甲 · 赛程 · 01:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2506227",
-      "publishedAt": "2026-09-15T05:53:57.291382+00:00",
+      "publishedAt": "2026-09-15T16:00:27.694834+00:00",
       "tags": [
         "西甲",
         "赛程"
@@ -377,7 +442,7 @@
       "summary": "英超 · 赛程 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2494047",
-      "publishedAt": "2026-09-15T05:53:57.291344+00:00",
+      "publishedAt": "2026-09-15T16:00:27.694802+00:00",
       "tags": [
         "英超",
         "赛程"
@@ -393,6 +458,488 @@
         "country": "England",
         "status": "NS"
       }
+    },
+    {
+      "id": "3572e6117c6b0adeaa1d2605529e1af1424eab4a089307088499a818ca9bd1d5",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "llamafile_0.10：model 模型更新",
+      "summary": "HuggingFace 上 mozilla-ai/llamafile_0.10 模型获 7171 次下载、19 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mozilla-ai/llamafile_0.10",
+      "publishedAt": "2026-09-15T15:59:18+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 7171,
+        "likes": 19
+      }
+    },
+    {
+      "id": "161cea76064f088c567bdb86e0109c04d4375b0da6c0876e06da70e2381975ea",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3.8-27B-OrcaRouter-GSQ-RCO-IQ3_XXS-Uncensored：image-text-to-text 模型更新",
+      "summary": "HuggingFace上线Qwen3.8-27B多模态模型，支持图文到文本生成，下载量6566次，获6赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/RentedNoodle/Qwen3.8-27B-OrcaRouter-GSQ-RCO-IQ3_XXS-Uncensored",
+      "publishedAt": "2026-09-15T15:58:38+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 6566,
+        "likes": 6
+      }
+    },
+    {
+      "id": "0149231509dd9a39829fd820361ff0db99045544658b4ffa86f13d56e7a3d82c",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3.8-27B-NInfer：image-text-to-text 模型更新",
+      "summary": "HuggingFace 上主流图文生成模型 neroued/Qwen3.8-27B-NInfer，下载量44,630次，获54赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/neroued/Qwen3.8-27B-NInfer",
+      "publishedAt": "2026-09-15T15:58:24+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 44630,
+        "likes": 54
+      }
+    },
+    {
+      "id": "9cbc34794f5df26763af49886006d6b36aa8c0978848ce63ed3a8f0f56467ab5",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "AX-Qwen3.8-27B-MLX-AXQ-6bit-MTP：text-generation 模型更新",
+      "summary": "HuggingFace 上 AutomatosX/AX-Qwen3.8-27B-MLX-AXQ-6bit-MTP 文本生成模型获 4596 次下载、9 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/AutomatosX/AX-Qwen3.8-27B-MLX-AXQ-6bit-MTP",
+      "publishedAt": "2026-09-15T15:56:09+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 4596,
+        "likes": 9
+      }
+    },
+    {
+      "id": "38078533e2abc1a6335e96661bf8880ef496f6c2fdcf15cd31561fd3aca7175e",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "AX-Qwen3.8-27B-MLX-AXQ-4bit-MTP：text-generation 模型更新",
+      "summary": "HuggingFace上线AutomatosX/AX-Qwen3.8-27B-MLX-AXQ-4bit-MTP文本生成模型，下载量2058次，获4赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/AutomatosX/AX-Qwen3.8-27B-MLX-AXQ-4bit-MTP",
+      "publishedAt": "2026-09-15T15:55:57+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 2058,
+        "likes": 4
+      }
+    },
+    {
+      "id": "4c4435f305a1dd57e00310902b3ea8e2edb1ae8793971449175e98bbe55e5c0c",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "summary": "OpenAI、Anthropic与DeepMind正开展数周AI安全对话；特朗普团队却淡化安全风险，强调对华AI竞争。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "publishedAt": "2026-09-15T15:47:03+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "32f2899da7e4bb30690dedaf2794487560bc40d982f5d7ac0ddb0d41429acbd1",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "summary": "Profound公司7个月内连获两轮融资：C轮9600万美元，D轮1.8亿美元，估值达18亿美元。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "publishedAt": "2026-09-15T15:22:48+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "9a3263e3faeba2337fe5cdb311d844e2e98703a38fc63877e40886dd4b235373",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+      "summary": "Meta推出AI助手Muse订阅套餐，含多档分级（个人/创作者/企业），今日全球上线，整合App订阅与额外AI用量。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+      "publishedAt": "2026-09-15T15:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "4b8d6e0c86f391a1242098b15876d05d13e12bb497dd268a4df90ee4a68f3c29",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "summary": "Superpose是一款AI相机App，可分析自拍或照片，自动生成4种备选姿势。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "publishedAt": "2026-09-15T14:42:37+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "05e5e09440b4b091660e94b598da10417de8c72f83ffb73101a388dcf31dc04e",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "summary": "TechCrunch Disrupt 2026聚焦初创企业规模化，Adrian Macneil等三位行业领袖将分享从原型到量产经验。9月25日前注册立省200美元。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-15T14:30:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "46cf741d536d10fb5956f5571e1a092c3a38ad71b8a4890648924cd9eefcfe89",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+      "summary": "Disrupt展会报名截止9月18日，仅剩4天！10月13–15日举办，面向超1万名创始人、投资人及科技领袖。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-15T14:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "a16c71ae9436945aeeda66a54e8d6e3dd857090d447fa4a97990227fc3701d82",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "梁文锋CFO到位！投过智谱MiniMax",
+      "summary": "严文韬，1991年生，高瓴创投合伙人",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/489707.html",
+      "publishedAt": "2026-09-15T13:53:39+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "a8c53d870f40f86c19cad7470846a63221d2489ae56c4621cd78759276e3277c",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "This doorbell camera lets a human security guard watch your front door",
+      "summary": "SimpliSafe推出AI视频门铃Series 2（199.99美元），联动Active Guard户外防护服务（49.99美元/月），实现AI识别+人工响应的主动安防。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+      "publishedAt": "2026-09-15T13:36:45+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "bddaa40a57772a74d2c3a27c5ef45f64e2b7a8b6786a4a1f93cf6e9c23f0d416",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出",
+      "summary": "首发全场景倒车能力，体验再进一步",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/489698.html",
+      "publishedAt": "2026-09-15T13:32:54+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "c2b8b005d7cdabd4a8feba079bd0a7b6a63100eb63a0bee615deda9fd1c17dae",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "summary": "AI初创公司AIUC完成4000万美元A轮融资，Ribbit Capital领投，First Harmonic跟投。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "publishedAt": "2026-09-15T13:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "ed82a44d0cc570ee14cad89c319cd10ed40d5af96d3806f7ed8db4d00081d99a",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "手机替我跑了一整套流程！我就说了一句话，AI执行了100步",
+      "summary": "一句话，YOYO全面接管我的生活",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/489466.html",
+      "publishedAt": "2026-09-15T12:47:16+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "8f86152cb7dda6b2a4f6f4a97298ddf094b7c673975f6091316eea0ef2f1f38c",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+      "summary": "Ars报道Mozilla报告：廉价开源大模型能力已追平闭源模型。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+      "publishedAt": "2026-09-15T12:00:41+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "6fc06ca52cdbfecb87a5164d415ee6e808ae33ce7823694f7c384cb0c3f8f60f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+      "summary": "Salesforce推出Koa大模型，基于英伟达开源Nemotron模型，专为销售、营销及客服任务优化。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "publishedAt": "2026-09-15T12:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "85a1ecf23071f067973fb3ff662c648e12e40fb6142596c41914ab234ff70415",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA",
+      "summary": "卡位具身智能规模化落地“最后一公里”！",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/489460.html",
+      "publishedAt": "2026-09-15T10:43:28+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "4fb959dbc16745e28cfdcc4f647f06c682718cbef0dd996f7ba8622f6370cdca",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
+      "summary": "智象未来（HiDream.ai）发布首个原生全模态视频生成模型HiDream-O1-Video-1.0。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/489389.html",
+      "publishedAt": "2026-09-15T10:41:06+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "d0b3b957af5e06ceae283ea7357bf697d43959cb760f966b84c964876b141af2",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影",
+      "summary": "打破分子模拟“不可能三角”",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/489381.html",
+      "publishedAt": "2026-09-15T09:58:00+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "9c04256058492790257850cf9027a91091bad5e4f9a3a1f0ff83afada1fc789b",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "首个AIGC长片大赛！RunningHub单项大奖100万，科幻IP免费改编",
+      "summary": "刘慈欣督战",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/489260.html",
+      "publishedAt": "2026-09-15T07:48:48+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "c6c5458724104a54d5a4667e13e4cbf0cc0c0b308b7d6e95839b357a9a385dc7",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "【神超s18】【新阵容推荐】最近比赛和排位的一些新阵容玩法",
+      "summary": "UP主 GoDlike_神超 · 28,868播放 · 1:32",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117273763256317",
+      "publishedAt": "2026-09-15T07:06:15+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "GoDlike_神超",
+        "play": 28868,
+        "bvid": "BV1cneE63E1E",
+        "duration": "1:32"
+      }
+    },
+    {
+      "id": "2d2edfbf574181f8a00b5b5e52a2dcd2594d029a4686141d3d2705ebcd62845f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Meta新研究：字节模型蒸馏后，天花板破了",
+      "summary": "",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/489337.html",
+      "publishedAt": "2026-09-15T06:37:16+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "31120cf1508ea9445b3e839d041abc7a5df63ec594ca46b02c8c651285e12f4c",
@@ -9214,567 +9761,16 @@
       "points": [],
       "live": false,
       "extra": {}
-    },
-    {
-      "id": "ed1996843ec8247d81c8a78cfbec23c6968e018cc3e919af1ae28286e4dff0af",
-      "module": "lol",
-      "seg": "match",
-      "cat": "比赛",
-      "title": "刘青松称LCK的队和LGD打完训练赛就会被淘汰:他们上单卡莎就拿我们练的！",
-      "summary": "UP主 峡谷记者小波比 · 14,985播放 · 0:36",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117236215842662",
-      "publishedAt": "2026-09-08T15:53:22+00:00",
-      "tags": [
-        "lol",
-        "match",
-        "英雄联盟 LPL LCK 比赛 集锦 复盘"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "峡谷记者小波比",
-        "play": 14985,
-        "bvid": "BV1kMYJ65E9e",
-        "duration": "0:36"
-      }
-    },
-    {
-      "id": "f5133eb8df812a90c0beadbb6ab0c6fbd53e03660b967541afd112bbe86e4b91",
-      "module": "football",
-      "seg": null,
-      "cat": "欧冠",
-      "title": "Club Brugge VS Aston Villa",
-      "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2594644",
-      "publishedAt": "2026-09-08T15:47:08.777496+00:00",
-      "tags": [
-        "欧冠",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "1",
-        "season": "2026-2027",
-        "venue": "Jan Breydel Stadium",
-        "date": "2026-09-08",
-        "country": "Belgium",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "aae356b30604513422133382af34f5d027cb1a39a0456f4be03688097e8bdc4c",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "simi-weights：text-generation 模型更新",
-      "summary": "HuggingFace 上 text-generation 模型 YNSScarSaiyan/simi-weights 下载量达 2972 次，暂无点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/YNSScarSaiyan/simi-weights",
-      "publishedAt": "2026-09-08T15:45:45+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 2972,
-        "likes": 0
-      }
-    },
-    {
-      "id": "fc76bdf1c826ecea40eb14624dd325444f14e836d98fb6512d9c73808bd738f9",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "lewm-base：model 模型更新",
-      "summary": "HuggingFace 上 flamma77/lewm-base 模型下载量1940次，获0点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/flamma77/lewm-base",
-      "publishedAt": "2026-09-08T15:45:22+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1940,
-        "likes": 0
-      }
-    },
-    {
-      "id": "08a1767a9871ac41f2084a1befd51ff44f90fab6c3534306a542d14095f1ac69",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Vexion-gpt-medium：text-generation 模型更新",
-      "summary": "HuggingFace 上 DZER-Studios/Vexion-gpt-medium 文本生成模型下载量1204次，获赞数为0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/DZER-Studios/Vexion-gpt-medium",
-      "publishedAt": "2026-09-08T15:43:58+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1204,
-        "likes": 0
-      }
-    },
-    {
-      "id": "258039ffb85ebdd0c5cbc2b24fe6ac2566a354ed8998d8f30c2fc92bed9481e1",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "North-Micro-Vision-Instruct：image-text-to-text 模型更新",
-      "summary": "HuggingFace热门图文多模态模型CohereLabs/North-Micro-Vision-Instruct，下载量62,727次，获137赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/CohereLabs/North-Micro-Vision-Instruct",
-      "publishedAt": "2026-09-08T15:37:44+00:00",
-      "tags": [
-        "huggingface",
-        "image-text-to-text",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 62727,
-        "likes": 137
-      }
-    },
-    {
-      "id": "a72515a7749d694770036b9be87e2421898ddf3ec7a8e00f6f4ed27a10623e6b",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "LOW_VRAM_Workflows：text-to-image 模型更新",
-      "summary": "HuggingFace 上 text-to-image 模型 realrebelai/LOW_VRAM_Workflows 目前下载量为 0，获 36 个赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/realrebelai/LOW_VRAM_Workflows",
-      "publishedAt": "2026-09-08T15:32:55+00:00",
-      "tags": [
-        "huggingface",
-        "text-to-image",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 36
-      }
-    },
-    {
-      "id": "5fb6aef3ced5b74a0939f07aa761667e5443e9b0979dccc6fee1cd418db13ad5",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "MiniMax-H3-Longvideos：text-to-video 模型更新",
-      "summary": "HuggingFace上线Smite79/MiniMax-H3-Longvideos文本生成视频模型，支持长视频生成，下载量169次，获99赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Smite79/MiniMax-H3-Longvideos",
-      "publishedAt": "2026-09-08T15:32:40+00:00",
-      "tags": [
-        "huggingface",
-        "text-to-video",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 169,
-        "likes": 99
-      }
-    },
-    {
-      "id": "c01f54c1417217eaae9edcbf9c98fb99543b353b32701a5dd23918eb59c5fe17",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "shamrock-0-e4b：text-generation 模型更新",
-      "summary": "HuggingFace 上 text-generation 模型 oxalis-ink/shamrock-0-e4b 下载量1149次，获赞0次。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/oxalis-ink/shamrock-0-e4b",
-      "publishedAt": "2026-09-08T15:29:40+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1149,
-        "likes": 0
-      }
-    },
-    {
-      "id": "12010e6de24a29f62d3286d5be613239dfc508c23f2e6b89462a8256c879679c",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-      "summary": "谷歌加快Chrome发布节奏，以更快推送安全补丁和新功能。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-      "publishedAt": "2026-09-08T15:04:09+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "6aa038ef0ecebe213119909a2d4e6b5df50760f59a85ce61c28a9e5c8457867b",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "音乐主题+新强化符文！【海斗新赛季】内容曝光！",
-      "summary": "UP主 联盟埃里克 · 14,189播放 · 0:25",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117236014519927",
-      "publishedAt": "2026-09-08T15:02:28+00:00",
-      "tags": [
-        "lol",
-        "rune",
-        "英雄联盟 海斗 强化 套路"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "联盟埃里克",
-        "play": 14189,
-        "bvid": "BV12wYJ6EERK",
-        "duration": "0:25"
-      }
-    },
-    {
-      "id": "4de43f9d40b0f1fd799808ad8ace57f595e4c7822695f60e11e3b36c72d94708",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "publishedAt": "2026-09-08T14:23:07+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "075df893488424f7d710753c59c0bcf3191413a62330f8e9f55458bccdda03c1",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Mistral raises €3B as sovereign AI becomes big business",
-      "summary": "法国AI实验室完成3亿欧元D轮融资，估值21亿欧元，由三星、Scaleup Europe和PSG Equity领投。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "publishedAt": "2026-09-08T14:17:48+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "e8963967be4148a3ae6046f2064ecc4a433ca7aa705861322ad51ee9f2c3a575",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "海斗骚套路（九）死亡之环AP蛮子逆天特性！伤害爆炸",
-      "summary": "UP主 老蒋真聪明 · 1,050播放 · 1:32",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117235796414931",
-      "publishedAt": "2026-09-08T14:08:52+00:00",
-      "tags": [
-        "lol",
-        "rune",
-        "英雄联盟 海斗 强化 套路"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "老蒋真聪明",
-        "play": 1050,
-        "bvid": "BV1qHYJ6vE1F",
-        "duration": "1:32"
-      }
-    },
-    {
-      "id": "db259dbe3069dbe5f39c8df569ed11a9e7bc774b01c9084a92d6188a489eae90",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
-      "summary": "DeepMind推出AlphaGenome Atlas，首张全基因组DNA变异预测图谱，覆盖所有可能的碱基变化，有望加速生物学研究与疾病新疗法开发。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
-      "publishedAt": "2026-09-08T14:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "bc832a196b8ff015692be94dc10ef90444d302ae4b5474996bfab939bdf8212b",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "铲更新前，阵容从夯到拉排行，拿这些去玩打巅峰赛和排位没毛",
-      "summary": "UP主 手刃猫咪 · 15,245播放 · 3:47",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117235645487677",
-      "publishedAt": "2026-09-08T13:29:18+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "手刃猫咪",
-        "play": 15245,
-        "bvid": "BV1r9YJ6CErK",
-        "duration": "3:47"
-      }
-    },
-    {
-      "id": "6ef3f9e0163a0f952ea5030f0aab43d5b8a486e61471ef5bd634aa5c9bf6b32f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
-      "summary": "Adobe升级Premiere，推出“生成式媒体”工具，支持在时间轴内直接生成视频、音效、音乐等，大幅提升AI创作效率。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
-      "publishedAt": "2026-09-08T13:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "8c85e38f952b92b186d479ed5ad909d0fae9bf3c11ff51b1860967d359067f4a",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "揭秘海斗真相第一篇！【赢还是爽】",
-      "summary": "UP主 yep乱斗 · 1,634播放 · 3:23",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117234991107025",
-      "publishedAt": "2026-09-08T10:43:46+00:00",
-      "tags": [
-        "lol",
-        "rune",
-        "英雄联盟 海斗 强化 套路"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "yep乱斗",
-        "play": 1634,
-        "bvid": "BV1kybV6DEWs",
-        "duration": "3:23"
-      }
-    },
-    {
-      "id": "94ab0f735ea2c4f8b3b960a394a423cf6cc81d8cf706d3cf0dcf8bafbef9dd23",
-      "module": "lol",
-      "seg": "match",
-      "cat": "比赛",
-      "title": "【2026LPL第三赛段】9月8日 LGD vs IG-季后赛",
-      "summary": "UP主 老峰丶联盟搬运工 · 13,541播放 · 108:11",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117234907285450",
-      "publishedAt": "2026-09-08T10:24:24+00:00",
-      "tags": [
-        "lol",
-        "match",
-        "英雄联盟 LPL LCK 比赛 集锦 复盘"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "老峰丶联盟搬运工",
-        "play": 13541,
-        "bvid": "BV1w2bV6nEtt",
-        "duration": "108:11"
-      }
-    },
-    {
-      "id": "c7e0549bd5eb7c2ef1d546f9adb85188ffe4197b2bb5a4666ae264b98a3dc62e",
-      "module": "lol",
-      "seg": "match",
-      "cat": "比赛",
-      "title": "【2026LPL第三赛段】9月8日 LGD vs IG",
-      "summary": "UP主 哔哩哔哩英雄联盟赛事 · 2,794,466播放 · 169:22",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117234856888085",
-      "publishedAt": "2026-09-08T10:06:48+00:00",
-      "tags": [
-        "lol",
-        "match",
-        "英雄联盟 LPL LCK 比赛 集锦 复盘"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "哔哩哔哩英雄联盟赛事",
-        "play": 2794466,
-        "bvid": "BV1sHb56xEhC",
-        "duration": "169:22"
-      }
-    },
-    {
-      "id": "e57d3e2f28cbc1d1ba7b66af6fa837bde1a39b188a0872e64414a57322b530e3",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "【金铲铲S18】阵容评级由夯到拉",
-      "summary": "UP主 CB清风_信仰刀妹 · 1,951播放 · 5:14",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117234471143244",
-      "publishedAt": "2026-09-08T08:32:53+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "CB清风_信仰刀妹",
-        "play": 1951,
-        "bvid": "BV1Fab56SE4A",
-        "duration": "5:14"
-      }
-    },
-    {
-      "id": "bec263e66d4c5fed29dbc8a35c1dc2e6d0470551d367cce3b097d634cb568c34",
-      "module": "lol",
-      "seg": "match",
-      "cat": "比赛",
-      "title": "Kanavi谈LPL和LCK的区别: LPL联赛里，可以看到队伍经常会在后期做大量打野位的战术布局。LCK战队更多是安稳发育，转而围绕中立资源来展开比赛。",
-      "summary": "UP主 LOL那点事 · 5,335播放 · 0:50",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117234336800004",
-      "publishedAt": "2026-09-08T07:53:53+00:00",
-      "tags": [
-        "lol",
-        "match",
-        "英雄联盟 LPL LCK 比赛 集锦 复盘"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "LOL那点事",
-        "play": 5335,
-        "bvid": "BV1qXb36qEzA",
-        "duration": "0:50"
-      }
-    },
-    {
-      "id": "0d726a5240e4d03db6e2b3820dd469682406e66d354c831f8ddb3565401c4af7",
-      "module": "lol",
-      "seg": "match",
-      "cat": "比赛",
-      "title": "Kanavi决赛发布会再谈LCK和LPL的差别:LPL果断爽快，LCK沉稳思考",
-      "summary": "UP主 峡谷记者小波比 · 2,335播放 · 0:44",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117233984474778",
-      "publishedAt": "2026-09-08T06:26:50+00:00",
-      "tags": [
-        "lol",
-        "match",
-        "英雄联盟 LPL LCK 比赛 集锦 复盘"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "峡谷记者小波比",
-        "play": 2335,
-        "bvid": "BV1nsbG61EpH",
-        "duration": "0:44"
-      }
-    },
-    {
-      "id": "2df9ac1beb9cf291bb0ef74bbef993551a0d92ba873117414a066505df245594",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
-      "summary": "Blender也不用学了",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/485854.html",
-      "publishedAt": "2026-09-08T06:05:30+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI slowdown debate intensifies as industry leaders split on safety vs. speed",
+      "insight": "AI安全共识浮现，巨头联合呼吁放缓前沿开发",
       "headline": {
-        "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-        "summary": "英伟达CEO黄仁勋在All-In峰会演讲时，接特朗普来电并开启免提。非首次工作期间通话，但此次当众播放引发关注。",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit"
+        "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks｜OpenAI、Anthropic与DeepMind正开展数周AI安全对话；特朗普团队却淡化安全风险，强调对华AI竞争。",
+        "summary": "OpenAI、Anthropic与DeepMind正开展数周AI安全对话；特朗普团队却淡化安全风险，强调对华AI竞争。",
+        "source": "TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/"
       },
       "sections": [
         {
@@ -9785,28 +9781,28 @@
           "name": "行业动态",
           "items": [
             {
-              "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-              "summary": "黄仁勋与马斯克、奥特曼立场相左，不支持达里奥·阿莫迪放缓AI发展步伐。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/"
-            },
-            {
-              "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+              "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?｜OpenAI、Anthropic、Google DeepMind及SpaceX高管周末“松散同意”放缓AI发展，称要“控制前沿步伐”，但遭质疑实为巨头垄断策略。",
               "summary": "OpenAI、Anthropic、Google DeepMind及SpaceX高管周末“松散同意”放缓AI发展，称要“控制前沿步伐”，但遭质疑实为巨头垄断策略。",
               "source": "The Verge",
               "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel"
             },
             {
-              "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-              "summary": "Anthropic CEO Dario Amodei calls to slow AI development, granting third-party ev",
+              "title": "What execs and politicians are saying about slowing down AI development｜Dario Amodei发文《我们必须放慢前沿AI发展步伐》，呼吁放缓AI研发，引发业界广泛讨论，多位AI领袖和政界人士表态支持或反对。",
+              "summary": "Dario Amodei发文《我们必须放慢前沿AI发展步伐》，呼吁放缓AI研发，引发业界广泛讨论，多位AI领袖和政界人士表态支持或反对。",
               "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development"
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei"
             },
             {
-              "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-              "summary": "微软AI行为准则强调“以人为本”，禁止替代人类，旨在促进人类福祉，并设具体安全约束落实原则。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/"
+              "title": "Microsoft says ‘people matter more than AI’ following safety concerns｜微软发布37页“人文主义AI行为准则”；Anthropic CEO呼吁协同放缓AI开发，因模型进展或超安全部署与验证能力。",
+              "summary": "微软发布37页“人文主义AI行为准则”；Anthropic CEO呼吁协同放缓AI开发，因模型进展或超安全部署与验证能力。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct"
+            },
+            {
+              "title": "AI leaders want to hit the brakes after years of reckless speed｜安全是首要准则，但行业或可从中获得额外收益。",
+              "summary": "安全是首要准则，但行业或可从中获得额外收益。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/"
             }
           ]
         },
@@ -9818,22 +9814,22 @@
           "name": "应用落地",
           "items": [
             {
-              "title": "With iOS 27, I’m actually using Siri again",
-              "summary": "苹果iOS 27正式推出延迟已久的Siri重大升级，显著提升日常实用性。",
+              "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo｜Superpose是一款AI相机App，可分析自拍或照片，自动生成4种备选姿势。",
+              "summary": "Superpose是一款AI相机App，可分析自拍或照片，自动生成4种备选姿势。",
               "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/"
+              "sourceUrl": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/"
             },
             {
-              "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-              "summary": "iOS 27上线后，Daydream应用新增功能：可将保存的穿搭照片转为可购商品，并支持通过Siri免开App搜索产品。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/"
+              "title": "This doorbell camera lets a human security guard watch your front door｜SimpliSafe推出AI视频门铃Series 2（199.99美元），联动Active Guard户外防护服务（49.99美元/月），实现AI识别+人工响应",
+              "summary": "SimpliSafe推出AI视频门铃Series 2（199.99美元），联动Active Guard户外防护服务（49.99美元/月），实现AI识别+人工响应",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs"
             },
             {
-              "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
-              "summary": "macOS 最后一版支持 Rosetta 运行 Intel 应用。",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/"
+              "title": "Meta&#8217;s new One subscriptions put a price on social media and AI｜Meta推出AI助手Muse订阅套餐，含多档分级（个人/创作者/企业），今日全球上线，整合App订阅与额外AI用量。",
+              "summary": "Meta推出AI助手Muse订阅套餐，含多档分级（个人/创作者/企业），今日全球上线，整合App订阅与额外AI用量。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai"
             }
           ]
         }
