@@ -23065,7 +23065,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-    "publishedAt": "2026-09-16T05:40:14.920826+00:00",
+    "publishedAt": "2026-09-16T15:54:02.653996+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -23091,7 +23091,7 @@
     "summary": "欧冠 · 战报 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594669",
-    "publishedAt": "2026-09-16T05:40:14.920874+00:00",
+    "publishedAt": "2026-09-16T15:54:02.654053+00:00",
     "tags": [
       "欧冠",
       "战报"
@@ -26444,7 +26444,7 @@
     "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2508360",
-    "publishedAt": "2026-09-16T05:40:14.920814+00:00",
+    "publishedAt": "2026-09-16T15:54:02.653929+00:00",
     "tags": [
       "德甲",
       "赛程"
@@ -26496,7 +26496,7 @@
     "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2489501",
-    "publishedAt": "2026-09-16T05:40:14.920823+00:00",
+    "publishedAt": "2026-09-16T15:54:02.653990+00:00",
     "tags": [
       "法甲",
       "赛程"
@@ -26678,7 +26678,7 @@
     "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=taBlamKslbE",
-    "publishedAt": "2026-09-16T05:40:14.920867+00:00",
+    "publishedAt": "2026-09-16T15:54:02.654046+00:00",
     "tags": [
       "法甲",
       "战报"
@@ -27458,7 +27458,7 @@
     "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=h-BXJf4NXos",
-    "publishedAt": "2026-09-16T05:40:14.920853+00:00",
+    "publishedAt": "2026-09-16T15:54:02.654030+00:00",
     "tags": [
       "德甲",
       "战报"
@@ -28022,7 +28022,7 @@
     "summary": "英超 · 赛程 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2494047",
-    "publishedAt": "2026-09-16T05:40:14.920774+00:00",
+    "publishedAt": "2026-09-16T15:54:02.653889+00:00",
     "tags": [
       "英超",
       "赛程"
@@ -28074,7 +28074,7 @@
     "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2482187",
-    "publishedAt": "2026-09-16T05:40:14.920818+00:00",
+    "publishedAt": "2026-09-16T15:54:02.653982+00:00",
     "tags": [
       "意甲",
       "赛程"
@@ -28100,7 +28100,7 @@
     "summary": "英超 · 战报 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=T6SVDM4MMK4",
-    "publishedAt": "2026-09-16T05:40:14.920838+00:00",
+    "publishedAt": "2026-09-16T15:54:02.654010+00:00",
     "tags": [
       "英超",
       "战报"
@@ -28178,7 +28178,7 @@
     "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=lUJb1MDUsjE",
-    "publishedAt": "2026-09-16T05:40:14.920860+00:00",
+    "publishedAt": "2026-09-16T15:54:02.654038+00:00",
     "tags": [
       "意甲",
       "战报"
@@ -29607,7 +29607,7 @@
     "summary": "西甲 · 赛程 · 01:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2506220",
-    "publishedAt": "2026-09-16T05:40:14.920808+00:00",
+    "publishedAt": "2026-09-16T15:54:02.653921+00:00",
     "tags": [
       "西甲",
       "赛程"
@@ -30450,6 +30450,512 @@
         "math.ST",
         "stat.ML"
       ]
+    }
+  },
+  "a583f34eba7d32d766ff0bd242993a2fc8c2db8764ae3520c35b0e68bfeda688": {
+    "id": "a583f34eba7d32d766ff0bd242993a2fc8c2db8764ae3520c35b0e68bfeda688",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Elche 2-3 Real Madrid",
+    "summary": "西甲 · 战报 · 03:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.youtube.com/watch?v=s7gWTLWzW_k",
+    "publishedAt": "2026-09-16T15:54:02.654021+00:00",
+    "tags": [
+      "西甲",
+      "战报"
+    ],
+    "body": [
+      "西甲 第 6 轮 · 2026-09-15 · 北京时间 03:30（估算）",
+      "场地：Estadio Martínez Valero",
+      "主队 Elche vs 客队 Real Madrid",
+      "终场比分 2-3"
+    ],
+    "points": [
+      "<b>赛事</b>：西甲 第 6 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-15 · 北京时间 03:30（估算）",
+      "<b>场地</b>：Estadio Martínez Valero",
+      "<b>主队</b>：Elche",
+      "<b>客队</b>：Real Madrid",
+      "<b>终场比分</b>：2-3",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "6",
+      "season": "2026-2027",
+      "venue": "Estadio Martínez Valero",
+      "date": "2026-09-15",
+      "country": "Spain",
+      "status": "FT"
+    }
+  },
+  "e583654842ab5fd2fdce6cfa5474b7957953c06c9186be0408480a0a6effad76": {
+    "id": "e583654842ab5fd2fdce6cfa5474b7957953c06c9186be0408480a0a6effad76",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+    "summary": "英伟达Les Karpas在TechCrunch Disrupt 2026揭示机器人难入日常原因；9月25日前注册立省200美元。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+    "publishedAt": "2026-09-16T15:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "01e7fb49977b8a193599b7fef93a1763e9162c6a930ecf2d4e8f03b289f94483": {
+    "id": "01e7fb49977b8a193599b7fef93a1763e9162c6a930ecf2d4e8f03b289f94483",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Threads’ new features let podcasters promote shows and reach listeners",
+    "summary": "Threads推 podcast 新工具：profile卡、集数链接、转录、嘉宾标签、提醒及受众洞察，强化其作为X竞品的播客推广平台定位。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+    "publishedAt": "2026-09-16T14:24:58+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "1b253f8c480e7e8914e3fb91172f221db226fdf67b87873ffc3837fa3f36f444": {
+    "id": "1b253f8c480e7e8914e3fb91172f221db226fdf67b87873ffc3837fa3f36f444",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+    "summary": "TechCrunch Disrupt 2026 Startup Battlefield将由5位顶级投资人现场评审200家初创企业，9月25日前注册可享最高200美元优惠。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+    "publishedAt": "2026-09-16T14:15:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "b97d528b02bf1bd64263bff79bc3395051f6078437e791eede321ceb551ed598": {
+    "id": "b97d528b02bf1bd64263bff79bc3395051f6078437e791eede321ceb551ed598",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+    "summary": "Disrupt展会展位预订截止9月18日，仅剩3天！10月13–15日，面向超10,000名创始人、投资人及科技领袖。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+    "publishedAt": "2026-09-16T14:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "065157a41dcca4013a7610dc61c05c8ed861579aa24bb424fc87953cf948af25": {
+    "id": "065157a41dcca4013a7610dc61c05c8ed861579aa24bb424fc87953cf948af25",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+    "summary": "SK海力士向TechCrunch表示，尚未敲定任何具体计划或安排。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+    "publishedAt": "2026-09-16T13:23:02+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "dfd289bfb5a2b0322b975aced1fb224cc740e272e89e091c3a905e83c8f166d9": {
+    "id": "dfd289bfb5a2b0322b975aced1fb224cc740e272e89e091c3a905e83c8f166d9",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Former Infosys chief’s AI startup nabs another $53M",
+    "summary": "帕洛阿尔托初创公司成立数月内已斩获多个百万美元级企业合同。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+    "publishedAt": "2026-09-16T13:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "e8b904b9566b2283b2ee3b48847ffa136eddbedda984bff6443c405a32ee80cb": {
+    "id": "e8b904b9566b2283b2ee3b48847ffa136eddbedda984bff6443c405a32ee80cb",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Amazon launches Alexa+ in India with Hindi support",
+    "summary": "亚马逊向所有用户开放Alexa+助手早期访问权限。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+    "publishedAt": "2026-09-16T10:34:47+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "0f56fd3e71e20d1a086ad62bd21c4b3d0d08af0948ae6aeb702eed5662955ea5": {
+    "id": "0f56fd3e71e20d1a086ad62bd21c4b3d0d08af0948ae6aeb702eed5662955ea5",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "The sexy AI-powered dating app scams are here",
+    "summary": "安全研究员Zigula分析虚假交友App“Dora”时，接到自称41岁红发蓝眼天蝎座“Jennifer”的来电，对话中暴露该App存在实时语音诈骗风险。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+    "publishedAt": "2026-09-16T14:45:00+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "f5343e63e15e894464f64109d514e5b02be26076e9eda02b7393b271fe51a26b": {
+    "id": "f5343e63e15e894464f64109d514e5b02be26076e9eda02b7393b271fe51a26b",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "A brief history of AI executives calling for regulation",
+    "summary": "多位AI巨头CEO（Altman、Amodei、Hassabis、Nadella等）近日联名呼吁放缓AI发展，以防失控。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+    "publishedAt": "2026-09-16T12:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "7635499f254eccf806a7bb86533704445fe808352e972048b0b5fd46d2a65ec6": {
+    "id": "7635499f254eccf806a7bb86533704445fe808352e972048b0b5fd46d2a65ec6",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
+    "summary": "九大空间测试10B规模通用模型中8项第一",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/490839.html",
+    "publishedAt": "2026-09-16T13:08:20+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "dbd4ed97c7cebaa54943560ee13267b3a1ad1b5b3b262cb73ab0b6233c47b751": {
+    "id": "dbd4ed97c7cebaa54943560ee13267b3a1ad1b5b3b262cb73ab0b6233c47b751",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
+    "summary": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/490760.html",
+    "publishedAt": "2026-09-16T08:51:02+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "03729584012a228bd70edeb9b5a6a99ca32e500c736b043816eab35d9279a05c": {
+    "id": "03729584012a228bd70edeb9b5a6a99ca32e500c736b043816eab35d9279a05c",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
+    "summary": "第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/490756.html",
+    "publishedAt": "2026-09-16T08:18:44+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "2a1fd4b002e8b07625f22b5ce5723ce4bcb19a94e3348543f65938070a0fb6a3": {
+    "id": "2a1fd4b002e8b07625f22b5ce5723ce4bcb19a94e3348543f65938070a0fb6a3",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用",
+    "summary": "2026年9月15日，AI基建公司基元律动与无问芯穹签署战略合作协议。",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/490750.html",
+    "publishedAt": "2026-09-16T08:09:53+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "0287f62691b4b7b787ad363eba5954c26ae9acb3c2d0dc48e551ceff39eb71c4": {
+    "id": "0287f62691b4b7b787ad363eba5954c26ae9acb3c2d0dc48e551ceff39eb71c4",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "协同办公进入Agent时代，飞书+豆包工作跑在了最前面",
+    "summary": "AI协同办公的新官配，我先磕了",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/490686.html",
+    "publishedAt": "2026-09-16T07:46:38+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "a2338399e1a0e739117138b145404fb1fda7542836c4f1d77d76272f5642f803": {
+    "id": "a2338399e1a0e739117138b145404fb1fda7542836c4f1d77d76272f5642f803",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "西门子不造机器人，为什么机器人进厂的故事里总有它？",
+    "summary": "帮助成熟赛道复制方案，帮助新赛道长出场景。",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/490416.html",
+    "publishedAt": "2026-09-16T07:38:18+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "d7cbe62a06bda942b9a3f5dfbeb0fe84e3b3746bceb2f9c01a7f7366ef7a3b85": {
+    "id": "d7cbe62a06bda942b9a3f5dfbeb0fe84e3b3746bceb2f9c01a7f7366ef7a3b85",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单",
+    "summary": "9月16日，稳准智能联合清华大学发布新一代数据大模型 LimiX-2，模型参数规模提升至400M。",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/490400.html",
+    "publishedAt": "2026-09-16T06:32:31+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "80aa16e293e5bb09026917aa41e3fec8e4b523311f011783fac0e2ac73b98ffa": {
+    "id": "80aa16e293e5bb09026917aa41e3fec8e4b523311f011783fac0e2ac73b98ffa",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首",
+    "summary": "9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/490396.html",
+    "publishedAt": "2026-09-16T06:23:05+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "4f166ad62313165a5eec1e69bb29fc77348218a15ecc6affd39ea9e8c9d22c9d": {
+    "id": "4f166ad62313165a5eec1e69bb29fc77348218a15ecc6affd39ea9e8c9d22c9d",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Unlimited-OCR-Community-FP8-Dynamic：image-text-to-text 模型更新",
+    "summary": "HuggingFace 上 image-text-to-text 模型 shadowrock-io/Unlimited-OCR-Community-FP8-Dynamic 下载量达 7901，获 1 赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/shadowrock-io/Unlimited-OCR-Community-FP8-Dynamic",
+    "publishedAt": "2026-09-16T15:50:01+00:00",
+    "tags": [
+      "huggingface",
+      "image-text-to-text",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 7901,
+      "likes": 1
+    }
+  },
+  "b893ae626d7c4db7ce46dbc8962cf69dcb3875f359f9c4d7b938685b945c039f": {
+    "id": "b893ae626d7c4db7ce46dbc8962cf69dcb3875f359f9c4d7b938685b945c039f",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "DFM-Mimir：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 noctrex/DFM-Mimir 获 1284 次下载、2 个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/noctrex/DFM-Mimir",
+    "publishedAt": "2026-09-16T15:49:32+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1284,
+      "likes": 2
+    }
+  },
+  "7d81f980b1dda26e6ccd3196b1d4c152604b10a29cd6bc9a38af79874e9929fd": {
+    "id": "7d81f980b1dda26e6ccd3196b1d4c152604b10a29cd6bc9a38af79874e9929fd",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "MechVL-4B-RL：visual-question-answering 模型更新",
+    "summary": "HuggingFace 上视觉问答模型 XiaofengAlg/MechVL-4B-RL 下载量1029次，获2个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/XiaofengAlg/MechVL-4B-RL",
+    "publishedAt": "2026-09-16T15:42:11+00:00",
+    "tags": [
+      "huggingface",
+      "visual-question-answering",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1029,
+      "likes": 2
+    }
+  },
+  "615620a861b4643e13d06876c939a9bf278784eff74c8852ff6e8273b7e11832": {
+    "id": "615620a861b4643e13d06876c939a9bf278784eff74c8852ff6e8273b7e11832",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "海斗战士出黑切还是大穿/绿穿",
+    "summary": "UP主 芝士草莓丶 · 85播放 · 0:27",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117280088331264",
+    "publishedAt": "2026-09-16T09:49:08+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 黑科技 上分"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "芝士草莓丶",
+      "play": 85,
+      "bvid": "BV1nDec6oE7k",
+      "duration": "0:27"
+    }
+  },
+  "56e51f5a9a197e659fdb77e327717863532959e14b9acfb5858f924d012e69ad": {
+    "id": "56e51f5a9a197e659fdb77e327717863532959e14b9acfb5858f924d012e69ad",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "国服钻石局剑魔对线猴子，整局出装对线思路教学，结局竟让我认可这四个人了！厉害“认可”",
+    "summary": "UP主 野犬剑魔 · 3,627播放 · 8:26",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117281262671236",
+    "publishedAt": "2026-09-16T14:52:52+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "野犬剑魔",
+      "play": 3627,
+      "bvid": "BV1MBeA6CEv3",
+      "duration": "8:26"
+    }
+  },
+  "1fbd732877960cb1a03e81f1d34373cb02415f88b7a507393448a3ef3735254a": {
+    "id": "1fbd732877960cb1a03e81f1d34373cb02415f88b7a507393448a3ef3735254a",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "S18现版本冷门偷分阵容-永森小法",
+    "summary": "UP主 云顶鸭鸭 · 181播放 · 0:12",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117280205903313",
+    "publishedAt": "2026-09-16T10:22:29+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "云顶鸭鸭",
+      "play": 181,
+      "bvid": "BV1ofec6HErK",
+      "duration": "0:12"
     }
   }
 }
