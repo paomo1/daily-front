@@ -23065,7 +23065,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-    "publishedAt": "2026-09-19T05:31:20.039798+00:00",
+    "publishedAt": "2026-09-19T15:09:30.994070+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -33789,7 +33789,7 @@
     "summary": "法甲 · 赛程 · 23:15（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2489504",
-    "publishedAt": "2026-09-19T05:31:20.039793+00:00",
+    "publishedAt": "2026-09-19T15:09:30.994065+00:00",
     "tags": [
       "法甲",
       "赛程"
@@ -33971,7 +33971,7 @@
     "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2489501",
-    "publishedAt": "2026-09-19T05:31:20.039850+00:00",
+    "publishedAt": "2026-09-19T15:09:30.994118+00:00",
     "tags": [
       "法甲",
       "战报"
@@ -34568,6 +34568,703 @@
       "play": 780,
       "bvid": "BV1FseX6iExn",
       "duration": "3:35"
+    }
+  },
+  "04d5a127308fd388f8cccbc4e1b4cbedcf943f51496e6af3a96cf1105cd9351c": {
+    "id": "04d5a127308fd388f8cccbc4e1b4cbedcf943f51496e6af3a96cf1105cd9351c",
+    "module": "football",
+    "seg": null,
+    "cat": "英超",
+    "title": "Nottingham Forest VS Coventry City",
+    "summary": "英超 · 赛程 · 00:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2494049",
+    "publishedAt": "2026-09-19T15:09:30.994015+00:00",
+    "tags": [
+      "英超",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "City Ground",
+      "date": "2026-09-19",
+      "country": "England",
+      "status": "NS"
+    }
+  },
+  "b67d09ef29e765eb7a897563de98348976999c6108006079259554726ec972fe": {
+    "id": "b67d09ef29e765eb7a897563de98348976999c6108006079259554726ec972fe",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Celta Vigo VS Racing de Santander",
+    "summary": "西甲 · 赛程 · 00:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2506234",
+    "publishedAt": "2026-09-19T15:09:30.994047+00:00",
+    "tags": [
+      "西甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "7",
+      "season": "2026-2027",
+      "venue": "Estadio Abanca-Balaídos",
+      "date": "2026-09-19",
+      "country": "Spain",
+      "status": "NS"
+    }
+  },
+  "c08ad6d67ea6aa0c9afa9d02245d332e665cb12dcf0142c4ca5d7d3d2a012364": {
+    "id": "c08ad6d67ea6aa0c9afa9d02245d332e665cb12dcf0142c4ca5d7d3d2a012364",
+    "module": "football",
+    "seg": null,
+    "cat": "德甲",
+    "title": "Stuttgart VS Borussia Dortmund",
+    "summary": "德甲 · 赛程 · 00:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2508365",
+    "publishedAt": "2026-09-19T15:09:30.994054+00:00",
+    "tags": [
+      "德甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "MHP Arena",
+      "date": "2026-09-19",
+      "country": "Germany",
+      "status": "NS"
+    }
+  },
+  "feb7d4fe4205bd07b33801b5a783aa8b5c30d03189a6ce0012b69e851398fb32": {
+    "id": "feb7d4fe4205bd07b33801b5a783aa8b5c30d03189a6ce0012b69e851398fb32",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Roma VS Inter Milan",
+    "summary": "意甲 · 赛程 · 00:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482181",
+    "publishedAt": "2026-09-19T15:09:30.994060+00:00",
+    "tags": [
+      "意甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Stadio Olimpico",
+      "date": "2026-09-19",
+      "country": "Italy",
+      "status": "NS"
+    }
+  },
+  "dfdd93f7b274d9b264c66cedf605a3449c13b0a56bec7b546b4674ddf0a59978": {
+    "id": "dfdd93f7b274d9b264c66cedf605a3449c13b0a56bec7b546b4674ddf0a59978",
+    "module": "football",
+    "seg": null,
+    "cat": "英超",
+    "title": "Brighton and Hove Albion 2-0 Arsenal",
+    "summary": "英超 · 战报 · 22:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2494046",
+    "publishedAt": "2026-09-19T15:09:30.994084+00:00",
+    "tags": [
+      "英超",
+      "战报"
+    ],
+    "body": [
+      "英超 第 5 轮 · 2026-09-19 · 北京时间 22:00（估算）",
+      "场地：American Express Stadium",
+      "主队 Brighton and Hove Albion vs 客队 Arsenal",
+      "终场比分 2-0"
+    ],
+    "points": [
+      "<b>赛事</b>：英超 第 5 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-19 · 北京时间 22:00（估算）",
+      "<b>场地</b>：American Express Stadium",
+      "<b>主队</b>：Brighton and Hove Albion",
+      "<b>客队</b>：Arsenal",
+      "<b>终场比分</b>：2-0",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "American Express Stadium",
+      "date": "2026-09-19",
+      "country": "England",
+      "status": "HT"
+    }
+  },
+  "c9c250ae113379b64093c6a0e68e2ef37a6a1be1c9bec11befe3b58ce5a94bf9": {
+    "id": "c9c250ae113379b64093c6a0e68e2ef37a6a1be1c9bec11befe3b58ce5a94bf9",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Athletic Bilbao 0-0 Deportivo Alavés",
+    "summary": "西甲 · 战报 · 22:15（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2506230",
+    "publishedAt": "2026-09-19T15:09:30.994094+00:00",
+    "tags": [
+      "西甲",
+      "战报"
+    ],
+    "body": [
+      "西甲 第 7 轮 · 2026-09-19 · 北京时间 22:15（估算）",
+      "场地：San Mamés Barria",
+      "主队 Athletic Bilbao vs 客队 Deportivo Alavés",
+      "终场比分 0-0"
+    ],
+    "points": [
+      "<b>赛事</b>：西甲 第 7 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-19 · 北京时间 22:15（估算）",
+      "<b>场地</b>：San Mamés Barria",
+      "<b>主队</b>：Athletic Bilbao",
+      "<b>客队</b>：Deportivo Alavés",
+      "<b>终场比分</b>：0-0",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "7",
+      "season": "2026-2027",
+      "venue": "San Mamés Barria",
+      "date": "2026-09-19",
+      "country": "Spain",
+      "status": "HT"
+    }
+  },
+  "c5df5258a8775cce24e68205243dc8fe4fa25741885627408d3a9e3afef5e01e": {
+    "id": "c5df5258a8775cce24e68205243dc8fe4fa25741885627408d3a9e3afef5e01e",
+    "module": "football",
+    "seg": null,
+    "cat": "德甲",
+    "title": "Hamburg 2-0 Köln",
+    "summary": "德甲 · 战报 · 21:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2508367",
+    "publishedAt": "2026-09-19T15:09:30.994102+00:00",
+    "tags": [
+      "德甲",
+      "战报"
+    ],
+    "body": [
+      "德甲 第 4 轮 · 2026-09-19 · 北京时间 21:30（估算）",
+      "场地：Volksparkstadion",
+      "主队 Hamburg vs 客队 Köln",
+      "终场比分 2-0"
+    ],
+    "points": [
+      "<b>赛事</b>：德甲 第 4 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-19 · 北京时间 21:30（估算）",
+      "<b>场地</b>：Volksparkstadion",
+      "<b>主队</b>：Hamburg",
+      "<b>客队</b>：Köln",
+      "<b>终场比分</b>：2-0",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "Volksparkstadion",
+      "date": "2026-09-19",
+      "country": "Germany",
+      "status": "2H"
+    }
+  },
+  "378a6f0c67da25d333eb130b9009418036d4a35833ac03f743b7b44a130bc461": {
+    "id": "378a6f0c67da25d333eb130b9009418036d4a35833ac03f743b7b44a130bc461",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Bologna 1-1 Torino",
+    "summary": "意甲 · 战报 · 21:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482182",
+    "publishedAt": "2026-09-19T15:09:30.994111+00:00",
+    "tags": [
+      "意甲",
+      "战报"
+    ],
+    "body": [
+      "意甲 第 5 轮 · 2026-09-19 · 北京时间 21:00（估算）",
+      "场地：Stadio Renato Dall'Ara",
+      "主队 Bologna vs 客队 Torino",
+      "终场比分 1-1"
+    ],
+    "points": [
+      "<b>赛事</b>：意甲 第 5 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-19 · 北京时间 21:00（估算）",
+      "<b>场地</b>：Stadio Renato Dall'Ara",
+      "<b>主队</b>：Bologna",
+      "<b>客队</b>：Torino",
+      "<b>终场比分</b>：1-1",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Stadio Renato Dall'Ara",
+      "date": "2026-09-19",
+      "country": "Italy",
+      "status": "FT"
+    }
+  },
+  "e90910ca036545b061df589b94e54313ea9ddf945fc22f27d74d868615e4518a": {
+    "id": "e90910ca036545b061df589b94e54313ea9ddf945fc22f27d74d868615e4518a",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "AI safety conversations have gotten unbelievable",
+    "summary": "本周两场AI安全讨论走红，凸显辨别AI事实与虚构之难。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "publishedAt": "2026-09-19T15:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "95d145cf51c9576f73e70956ced6940d051ffef7e4661bae0f485c56daa77025": {
+    "id": "95d145cf51c9576f73e70956ced6940d051ffef7e4661bae0f485c56daa77025",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+    "summary": "Vals AI致力于打造中立可信的AI基准测试平台，应对AI模型激增带来的评估挑战。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+    "publishedAt": "2026-09-19T13:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "b68ba21fc3f596d32aabbb37516085310173a83a46384d68c4782e625763f5c9": {
+    "id": "b68ba21fc3f596d32aabbb37516085310173a83a46384d68c4782e625763f5c9",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+    "summary": "Decoder首期聚焦商业未来，专访拜登政府前司法部反垄断负责人、现任华盛顿大学与卡内基梅隆大学双聘教授Jonathan Kanter。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+    "publishedAt": "2026-09-19T14:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "9a1fc50ca8faae1c0ab3ae4db2567f094ddc5455c050e380e5f4796f3844bf0f": {
+    "id": "9a1fc50ca8faae1c0ab3ae4db2567f094ddc5455c050e380e5f4796f3844bf0f",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "The AI regulation smackdown isn’t over",
+    "summary": "Anthropic CEO Dario Amodei proposed a 3-step AI regulation plan: third-party lab audits, domestic industry coordination，and international agreements.",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+    "publishedAt": "2026-09-19T13:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "c820a228fda4b81a5667b5eb309786907180390495f29c6021ca6e0649c4ba77": {
+    "id": "c820a228fda4b81a5667b5eb309786907180390495f29c6021ca6e0649c4ba77",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "“留给人类阻止AI的时间不多了”",
+    "summary": "AI有可能终结我们所有人",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/492755.html",
+    "publishedAt": "2026-09-19T11:53:12+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "a6b39e1523c75ec514bb227884aab3658755f7988a17188033c84844b7649a84": {
+    "id": "a6b39e1523c75ec514bb227884aab3658755f7988a17188033c84844b7649a84",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "马斯克批量收购破产公司ing…世界首富脑子是不一样",
+    "summary": "老马想买倒闭公司数据为哪般",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/492661.html",
+    "publishedAt": "2026-09-19T11:48:06+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "883c506e3609d30af54fddf3d49616c29c9d735b556a1af076933acaf347a75b": {
+    "id": "883c506e3609d30af54fddf3d49616c29c9d735b556a1af076933acaf347a75b",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
+    "summary": "设计、前端一口气全干了，结果后端没来上班",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/492573.html",
+    "publishedAt": "2026-09-19T11:43:12+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "a7283c6be6bbf9fca49917fe2b6a81e0187c132af872d0ba5ce0c442eb35b19e": {
+    "id": "a7283c6be6bbf9fca49917fe2b6a81e0187c132af872d0ba5ce0c442eb35b19e",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
+    "summary": "AI能否提出相对论？",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/492550.html",
+    "publishedAt": "2026-09-19T11:36:11+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "40845665fe5f750a6fbbb7a5cbba33f4a9c5f01980cd29771b075d4868f4655a": {
+    "id": "40845665fe5f750a6fbbb7a5cbba33f4a9c5f01980cd29771b075d4868f4655a",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你",
+    "summary": "1000万，把才华送上真正的大舞台",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/492501.html",
+    "publishedAt": "2026-09-19T08:34:35+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "8cd7abd3d96c7f59755fc9f165e9953404c1361bce88365f277f614242426509": {
+    "id": "8cd7abd3d96c7f59755fc9f165e9953404c1361bce88365f277f614242426509",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
+    "summary": "CANN跨过拐点，华为补上软件生态",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/492476.html",
+    "publishedAt": "2026-09-19T08:28:51+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "2f8f4ee12af1f680fcf574ef63198d9d8462cfa36189229c438e32e7c29dc894": {
+    "id": "2f8f4ee12af1f680fcf574ef63198d9d8462cfa36189229c438e32e7c29dc894",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
+    "summary": "让开放模型与可负担的算力成为数学研究的共享基石",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/492467.html",
+    "publishedAt": "2026-09-19T06:44:02+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "c1c9b164254fc13ca88edd3f170c292548f13a725e7bc70e57c97e6b9e8f05fe": {
+    "id": "c1c9b164254fc13ca88edd3f170c292548f13a725e7bc70e57c97e6b9e8f05fe",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
+    "summary": "同一预测核心，跨七类系统验证",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/492429.html",
+    "publishedAt": "2026-09-19T06:39:32+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "417d2da9af26679421f46a0b7862ec9fb75872705a11c8591475b1747d1bb370": {
+    "id": "417d2da9af26679421f46a0b7862ec9fb75872705a11c8591475b1747d1bb370",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Therapy-3.8：text-generation 模型更新",
+    "summary": "HuggingFace 上Verdugie/Therapy-3.8文本生成模型下载量1250次，获0点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Verdugie/Therapy-3.8",
+    "publishedAt": "2026-09-19T15:02:26+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1250,
+      "likes": 0
+    }
+  },
+  "437dc26ea48b896c538abe61e0ddf0756d0bfc6529ce767809ddaeaeb80f30b4": {
+    "id": "437dc26ea48b896c538abe61e0ddf0756d0bfc6529ce767809ddaeaeb80f30b4",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "dgpl-linux-assistant-0.8b-i1-GGUF：model 模型更新",
+    "summary": "HuggingFace 上模型 mradermacher/dgpl-linux-assistant-0.8b-i1-GGUF 下载量4469次，获0赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/mradermacher/dgpl-linux-assistant-0.8b-i1-GGUF",
+    "publishedAt": "2026-09-19T15:01:56+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 4469,
+      "likes": 0
+    }
+  },
+  "fb7ce539f13226723cc8a571e2d5ac9e1cc0e08294cbdbbd31c02f52966540ef": {
+    "id": "fb7ce539f13226723cc8a571e2d5ac9e1cc0e08294cbdbbd31c02f52966540ef",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "JiRackDeltaNet_27b：text-generation 模型更新",
+    "summary": "HuggingFace 上 CMSManhattan/JiRackDeltaNet_27b 文本生成模型下载量4154次，获0点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/CMSManhattan/JiRackDeltaNet_27b",
+    "publishedAt": "2026-09-19T15:01:55+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 4154,
+      "likes": 0
+    }
+  },
+  "cd799afee65caf6e202935cea698d9f00032f5c501161020e4d5b4049bbd9319": {
+    "id": "cd799afee65caf6e202935cea698d9f00032f5c501161020e4d5b4049bbd9319",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "JiRackUltra_32b：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 CMSManhattan/JiRackUltra_32b 下载量达 12,922 次，获 0 赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/CMSManhattan/JiRackUltra_32b",
+    "publishedAt": "2026-09-19T15:00:54+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 12922,
+      "likes": 0
+    }
+  },
+  "bb111f7a89904f08207afa861b000c5633ec23408897414d2594c549f44ce8f1": {
+    "id": "bb111f7a89904f08207afa861b000c5633ec23408897414d2594c549f44ce8f1",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "JiRackUltra_1b：text-generation 模型更新",
+    "summary": "HuggingFace 上 CMSManhattan/JiRackUltra_1b 文本生成模型下载量达 6922 次，暂无点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/CMSManhattan/JiRackUltra_1b",
+    "publishedAt": "2026-09-19T15:00:16+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 6922,
+      "likes": 0
+    }
+  },
+  "e0727c85493470e3f864c34a431eafc4e93a017a621b0652b2d1bd14c996ceed": {
+    "id": "e0727c85493470e3f864c34a431eafc4e93a017a621b0652b2d1bd14c996ceed",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "JiRackUltra_7b：text-generation 模型更新",
+    "summary": "HuggingFace 上 CMSManhattan/JiRackUltra_7b 文本生成模型下载量达 9881 次，获 2 个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/CMSManhattan/JiRackUltra_7b",
+    "publishedAt": "2026-09-19T14:59:42+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 9881,
+      "likes": 2
+    }
+  },
+  "8b27a76d4d5dc1355a44f633929cbb0fb72b8f09f271b283524c31a102138960": {
+    "id": "8b27a76d4d5dc1355a44f633929cbb0fb72b8f09f271b283524c31a102138960",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "JiRackUltra_14b：text-generation 模型更新",
+    "summary": "HuggingFace 上 CMSManhattan/JiRackUltra_14b 文本生成模型下载量达991,317次，获2个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/CMSManhattan/JiRackUltra_14b",
+    "publishedAt": "2026-09-19T14:59:07+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 991317,
+      "likes": 2
+    }
+  },
+  "c97137a067b3b24d433464961ae1e9105bf92b8e68c16d7abcce7b8dce7746a7": {
+    "id": "c97137a067b3b24d433464961ae1e9105bf92b8e68c16d7abcce7b8dce7746a7",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "MageTrail：text-to-image 模型更新",
+    "summary": "HuggingFace 上 text-to-image 模型 RicemanT/MageTrail 目前下载量为 0，获 17 个赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/RicemanT/MageTrail",
+    "publishedAt": "2026-09-19T14:55:35+00:00",
+    "tags": [
+      "huggingface",
+      "text-to-image",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 17
+    }
+  },
+  "a9a89937a1d33c2e60c132ade52185589bab8be0b858e9968f6ee3a625e3e9d6": {
+    "id": "a9a89937a1d33c2e60c132ade52185589bab8be0b858e9968f6ee3a625e3e9d6",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "一区大师剑魔对线鳄鱼，对线出装教学思路！",
+    "summary": "UP主 野犬剑魔 · 3,682播放 · 3:45",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117297956067244",
+    "publishedAt": "2026-09-19T13:38:51+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "野犬剑魔",
+      "play": 3682,
+      "bvid": "BV1Wzeh62END",
+      "duration": "3:45"
     }
   }
 }
