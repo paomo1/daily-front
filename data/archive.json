@@ -23065,7 +23065,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-    "publishedAt": "2026-09-18T15:34:50.141766+00:00",
+    "publishedAt": "2026-09-19T05:31:20.039798+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -33674,6 +33674,900 @@
       "play": 30974,
       "bvid": "BV1qnex6WEm5",
       "duration": "4:49"
+    }
+  },
+  "1123f9e486bde1908682868cab3fe3dfa8970a013bc30e293ecbadc912adb041": {
+    "id": "1123f9e486bde1908682868cab3fe3dfa8970a013bc30e293ecbadc912adb041",
+    "module": "football",
+    "seg": null,
+    "cat": "英超",
+    "title": "Tottenham Hotspur VS Aston Villa",
+    "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2494044",
+    "publishedAt": "2026-09-19T05:31:20.039739+00:00",
+    "tags": [
+      "英超",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Tottenham Hotspur Stadium",
+      "date": "2026-09-19",
+      "country": "England",
+      "status": "NS"
+    }
+  },
+  "339443539c693a2c52e01fddbd909667967f8755888d1a5dbd23101aa19d6ed4": {
+    "id": "339443539c693a2c52e01fddbd909667967f8755888d1a5dbd23101aa19d6ed4",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Osasuna VS Rayo Vallecano",
+    "summary": "西甲 · 赛程 · 20:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2506238",
+    "publishedAt": "2026-09-19T05:31:20.039774+00:00",
+    "tags": [
+      "西甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "7",
+      "season": "2026-2027",
+      "venue": "Estadio El Sadar",
+      "date": "2026-09-19",
+      "country": "Spain",
+      "status": "NS"
+    }
+  },
+  "19fb77379acbdccbc49425a1ff84e5cb172f7265cb7aa0e5edc3fd2aaa5deab7": {
+    "id": "19fb77379acbdccbc49425a1ff84e5cb172f7265cb7aa0e5edc3fd2aaa5deab7",
+    "module": "football",
+    "seg": null,
+    "cat": "德甲",
+    "title": "Werder Bremen VS Augsburg",
+    "summary": "德甲 · 赛程 · 21:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2508361",
+    "publishedAt": "2026-09-19T05:31:20.039781+00:00",
+    "tags": [
+      "德甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "wohninvest WESERSTADION",
+      "date": "2026-09-19",
+      "country": "Germany",
+      "status": "NS"
+    }
+  },
+  "e8179709dcccc9d288ab47e6786a2eeb9670bfc9943946d936c67f9711422d46": {
+    "id": "e8179709dcccc9d288ab47e6786a2eeb9670bfc9943946d936c67f9711422d46",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Udinese VS Cagliari",
+    "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482179",
+    "publishedAt": "2026-09-19T05:31:20.039787+00:00",
+    "tags": [
+      "意甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Bluenergy Stadium",
+      "date": "2026-09-19",
+      "country": "Italy",
+      "status": "NS"
+    }
+  },
+  "ccfa768806e0d33b9d0600aa0ecff96853494e8a3b569ca95cf52bbd225bfdea": {
+    "id": "ccfa768806e0d33b9d0600aa0ecff96853494e8a3b569ca95cf52bbd225bfdea",
+    "module": "football",
+    "seg": null,
+    "cat": "法甲",
+    "title": "Paris FC VS Strasbourg",
+    "summary": "法甲 · 赛程 · 23:15（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2489504",
+    "publishedAt": "2026-09-19T05:31:20.039793+00:00",
+    "tags": [
+      "法甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Stade Jean-Bouin",
+      "date": "2026-09-19",
+      "country": "France",
+      "status": "NS"
+    }
+  },
+  "bfd818b44954c8ccf98c0fb3cf649214366156331abc6e665734e757b3c55cfd": {
+    "id": "bfd818b44954c8ccf98c0fb3cf649214366156331abc6e665734e757b3c55cfd",
+    "module": "football",
+    "seg": null,
+    "cat": "英超",
+    "title": "Brentford 3-0 Chelsea",
+    "summary": "英超 · 战报 · 03:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2494047",
+    "publishedAt": "2026-09-19T05:31:20.039814+00:00",
+    "tags": [
+      "英超",
+      "战报"
+    ],
+    "body": [
+      "英超 第 5 轮 · 2026-09-18 · 北京时间 03:00（估算）",
+      "场地：Brentford Community Stadium",
+      "主队 Brentford vs 客队 Chelsea",
+      "终场比分 3-0"
+    ],
+    "points": [
+      "<b>赛事</b>：英超 第 5 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-18 · 北京时间 03:00（估算）",
+      "<b>场地</b>：Brentford Community Stadium",
+      "<b>主队</b>：Brentford",
+      "<b>客队</b>：Chelsea",
+      "<b>终场比分</b>：3-0",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Brentford Community Stadium",
+      "date": "2026-09-18",
+      "country": "England",
+      "status": "FT"
+    }
+  },
+  "a8174089e64a963687fa4e1156894fe67eb6d636d83cb70a4713ed78e0f4630c": {
+    "id": "a8174089e64a963687fa4e1156894fe67eb6d636d83cb70a4713ed78e0f4630c",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Espanyol 1-3 Elche",
+    "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2506235",
+    "publishedAt": "2026-09-19T05:31:20.039824+00:00",
+    "tags": [
+      "西甲",
+      "战报"
+    ],
+    "body": [
+      "西甲 第 7 轮 · 2026-09-18 · 北京时间 03:00（估算）",
+      "场地：RCDE Stadium",
+      "主队 Espanyol vs 客队 Elche",
+      "终场比分 1-3"
+    ],
+    "points": [
+      "<b>赛事</b>：西甲 第 7 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-18 · 北京时间 03:00（估算）",
+      "<b>场地</b>：RCDE Stadium",
+      "<b>主队</b>：Espanyol",
+      "<b>客队</b>：Elche",
+      "<b>终场比分</b>：1-3",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "7",
+      "season": "2026-2027",
+      "venue": "RCDE Stadium",
+      "date": "2026-09-18",
+      "country": "Spain",
+      "status": "FT"
+    }
+  },
+  "902a4c7c1e0e216fe2f188166e3e6a3c6fd06b14892012ee302cd0624693ba57": {
+    "id": "902a4c7c1e0e216fe2f188166e3e6a3c6fd06b14892012ee302cd0624693ba57",
+    "module": "football",
+    "seg": null,
+    "cat": "德甲",
+    "title": "Bayern Munich 7-0 Union Berlin",
+    "summary": "德甲 · 战报 · 02:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2508360",
+    "publishedAt": "2026-09-19T05:31:20.039833+00:00",
+    "tags": [
+      "德甲",
+      "战报"
+    ],
+    "body": [
+      "德甲 第 4 轮 · 2026-09-18 · 北京时间 02:30（估算）",
+      "场地：Allianz Arena",
+      "主队 Bayern Munich vs 客队 Union Berlin",
+      "终场比分 7-0"
+    ],
+    "points": [
+      "<b>赛事</b>：德甲 第 4 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-18 · 北京时间 02:30（估算）",
+      "<b>场地</b>：Allianz Arena",
+      "<b>主队</b>：Bayern Munich",
+      "<b>客队</b>：Union Berlin",
+      "<b>终场比分</b>：7-0",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "Allianz Arena",
+      "date": "2026-09-18",
+      "country": "Germany",
+      "status": "FT"
+    }
+  },
+  "b9537dd9d594003a2f3ec2a7fb74162553b8a4986d4406af36fd719649afa209": {
+    "id": "b9537dd9d594003a2f3ec2a7fb74162553b8a4986d4406af36fd719649afa209",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Monza 2-1 Sassuolo",
+    "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482187",
+    "publishedAt": "2026-09-19T05:31:20.039842+00:00",
+    "tags": [
+      "意甲",
+      "战报"
+    ],
+    "body": [
+      "意甲 第 5 轮 · 2026-09-18 · 北京时间 02:45（估算）",
+      "场地：U-Power Stadium",
+      "主队 Monza vs 客队 Sassuolo",
+      "终场比分 2-1"
+    ],
+    "points": [
+      "<b>赛事</b>：意甲 第 5 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-18 · 北京时间 02:45（估算）",
+      "<b>场地</b>：U-Power Stadium",
+      "<b>主队</b>：Monza",
+      "<b>客队</b>：Sassuolo",
+      "<b>终场比分</b>：2-1",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "U-Power Stadium",
+      "date": "2026-09-18",
+      "country": "Italy",
+      "status": "FT"
+    }
+  },
+  "deb5d5daf29d166a2f65c2566db155e1ca6627f87f694b4f7b5d58b56c5c68c5": {
+    "id": "deb5d5daf29d166a2f65c2566db155e1ca6627f87f694b4f7b5d58b56c5c68c5",
+    "module": "football",
+    "seg": null,
+    "cat": "法甲",
+    "title": "Monaco 2-1 Lens",
+    "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2489501",
+    "publishedAt": "2026-09-19T05:31:20.039850+00:00",
+    "tags": [
+      "法甲",
+      "战报"
+    ],
+    "body": [
+      "法甲 第 5 轮 · 2026-09-18 · 北京时间 02:45（估算）",
+      "场地：Stade Louis II",
+      "主队 Monaco vs 客队 Lens",
+      "终场比分 2-1"
+    ],
+    "points": [
+      "<b>赛事</b>：法甲 第 5 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-18 · 北京时间 02:45（估算）",
+      "<b>场地</b>：Stade Louis II",
+      "<b>主队</b>：Monaco",
+      "<b>客队</b>：Lens",
+      "<b>终场比分</b>：2-1",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Stade Louis II",
+      "date": "2026-09-18",
+      "country": "Monaco",
+      "status": "FT"
+    }
+  },
+  "ac601d412805e330ae7ec69900f586b191da3441a7b698dd51b87bbdeff2938c": {
+    "id": "ac601d412805e330ae7ec69900f586b191da3441a7b698dd51b87bbdeff2938c",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "India forces caller-ID apps to feed spam reports to telcos",
+    "summary": "Truecaller反对单向共享要求，称此举将把具商业价值的专有资产无偿交给电信运营商。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+    "publishedAt": "2026-09-19T01:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "fa71bccc6cca37f985bfa8293ae716159535d70b3d7779510df03f8c9f330ddb": {
+    "id": "fa71bccc6cca37f985bfa8293ae716159535d70b3d7779510df03f8c9f330ddb",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+    "summary": "诺伍德在一次离奇采访中突然“故障”，开始说中文。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+    "publishedAt": "2026-09-19T00:12:07+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "2eaf4f200a4548a5d060b24645d1db9dfce618b8554d0bb46475be0bc66b830e": {
+    "id": "2eaf4f200a4548a5d060b24645d1db9dfce618b8554d0bb46475be0bc66b830e",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+    "summary": "UP.Labs更名Vantora，专注为工业企业孵化初创公司。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+    "publishedAt": "2026-09-18T23:25:01+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "1cd526816268e41318728b8ff761ca72adfd01f03276a9a9446c3ccda6c4bc8a": {
+    "id": "1cd526816268e41318728b8ff761ca72adfd01f03276a9a9446c3ccda6c4bc8a",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Anthropic is operating a lab that conducts biology experiments",
+    "summary": "AI专家既宣称其能攻克人类疾病，又警告或致人类灭绝，凸显技术双刃剑特性。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+    "publishedAt": "2026-09-18T23:13:31+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "4c2355c2dbd33cbeba422a0e8a2d56f2cdad8c92553c00102aa8468ed3bd1876": {
+    "id": "4c2355c2dbd33cbeba422a0e8a2d56f2cdad8c92553c00102aa8468ed3bd1876",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "AI hallucination nearly triggers US military operation",
+    "summary": "GovAI学者警告：军人需认清大语言模型（LLM）固有的不确定性。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+    "publishedAt": "2026-09-18T23:12:32+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "d8b32d34e7d396aab37614dc433babf41ae618c271fe499b533fe78d32e17e8a": {
+    "id": "d8b32d34e7d396aab37614dc433babf41ae618c271fe499b533fe78d32e17e8a",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Anthropic’s first embedded evaluator is … Accenture?",
+    "summary": "埃森哲即将承接其史上风险最高的咨询项目。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+    "publishedAt": "2026-09-18T21:44:33+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "95f8880d88f7d8ef36e2249cd13b91bc88b8da07627996722c3ce968c7197020": {
+    "id": "95f8880d88f7d8ef36e2249cd13b91bc88b8da07627996722c3ce968c7197020",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "World model companies are keeping a lot of secrets",
+    "summary": "全球世界模型领域融资火热、备受关注，但创始人及数据供应商均对具体研发内容讳莫如深。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "publishedAt": "2026-09-18T20:18:14+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "0404411740c1ca8658b1ecb3f74f8db657e4fde03259899c4aace778e32fe6bb": {
+    "id": "0404411740c1ca8658b1ecb3f74f8db657e4fde03259899c4aace778e32fe6bb",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+    "summary": "新型AI模型Jev为开发者提供更廉价、快速的软件智能化路径。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+    "publishedAt": "2026-09-18T18:49:30+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "92b477fe02a448df603cae49455e2856e4456a81eb9217175735a095cce8c88b": {
+    "id": "92b477fe02a448df603cae49455e2856e4456a81eb9217175735a095cce8c88b",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+    "summary": "《纽约时报》诉OpenAI与微软案新解封文件显示，两公司内部曾警告数据抓取将引发“末日循环”，并称其行为是“人类史上最大规模的劳动盗窃”。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+    "publishedAt": "2026-09-18T21:07:24+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "8c38408a9b8551e9a2bc1dafc303a196c33421f0813a2a7de6c6d19e6e4d928a": {
+    "id": "8c38408a9b8551e9a2bc1dafc303a196c33421f0813a2a7de6c6d19e6e4d928a",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+    "summary": "弗吉尼亚州州长阿比盖尔·斯潘伯格签署行政命令22，限制政府官员签NDA，并赋予地方社区更大权限监管数据中心建设，以减缓审批速度。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+    "publishedAt": "2026-09-18T18:29:17+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "54fb47170a8bf3cd54c8dce8f139ed6e787349e94250ebf79f9962d189184942": {
+    "id": "54fb47170a8bf3cd54c8dce8f139ed6e787349e94250ebf79f9962d189184942",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Gavin Newsom is pushing for an AI kill switch",
+    "summary": "加州州长纽森发布行政令，拟为前沿AI模型设“终止开关”，并成立专家小组两月内提交监管建议。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+    "publishedAt": "2026-09-18T17:04:51+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "6134d54be7f706d4483e7c920e335e5981266791c2cf17fb07e9f5f4b012266b": {
+    "id": "6134d54be7f706d4483e7c920e335e5981266791c2cf17fb07e9f5f4b012266b",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "What Hollywood thinks about existential AI warnings",
+    "summary": "科技界担忧AI毁灭人类，娱乐业工会则呼吁关注AI已实际应用于影视制作。迪士尼、Netflix等主流公司及AI影视初创企业正加速落地生成式AI。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+    "publishedAt": "2026-09-18T16:35:19+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "c49461401ab99e0c9137ecbff117367add30e307512d382a5b391a5382f31080": {
+    "id": "c49461401ab99e0c9137ecbff117367add30e307512d382a5b391a5382f31080",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+    "summary": "美军整体AI应用正加速推进。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+    "publishedAt": "2026-09-18T20:26:33+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "420927a8299f602a2c1e286285df916e5a0bd17146233f97ebbefd59baa7215e": {
+    "id": "420927a8299f602a2c1e286285df916e5a0bd17146233f97ebbefd59baa7215e",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+    "summary": "美国联邦航空局（FAA）计划在华盛顿特区空域试点AI交通管理工具，成功后将全国推广。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+    "publishedAt": "2026-09-18T19:20:50+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "062f6004117d16cdae7d93e28e1de7971baadd2656fd2be41d23f16be6361fb0": {
+    "id": "062f6004117d16cdae7d93e28e1de7971baadd2656fd2be41d23f16be6361fb0",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "US government website used Chinese model the FBI called \"malicious\"",
+    "summary": "美国联邦公报网站曾短暂试用开源中文AI搜索工具，后迅速撤下。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+    "publishedAt": "2026-09-18T17:28:50+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "67270dd8b95446f571018ffd46dd71c061dc76b94d9fae029b438a028149990c": {
+    "id": "67270dd8b95446f571018ffd46dd71c061dc76b94d9fae029b438a028149990c",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
+    "summary": "协同布局AI基础设施",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/492426.html",
+    "publishedAt": "2026-09-18T15:58:21+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "0691491fde75b1069b522264858cc6195ef61a21e233d0b0d5cc33c949774a59": {
+    "id": "0691491fde75b1069b522264858cc6195ef61a21e233d0b0d5cc33c949774a59",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
+    "summary": "成果中唯一聚焦算电协同全链路运营的AI技术产品",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/492421.html",
+    "publishedAt": "2026-09-18T15:50:20+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "3ac16fc6f98b31e86fbd1c71704c545584852751d560cb3898d1a25942961edf": {
+    "id": "3ac16fc6f98b31e86fbd1c71704c545584852751d560cb3898d1a25942961edf",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "TestKrea：model 模型更新",
+    "summary": "HuggingFace 上模型 LupusNyx/TestKrea 下载量达8540次，但获赞数为0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/LupusNyx/TestKrea",
+    "publishedAt": "2026-09-19T05:27:25+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 8540,
+      "likes": 0
+    }
+  },
+  "58f8059ce590c1b3474b5c4f23dda4c3d3a4502e604cc821314830eb886a5eef": {
+    "id": "58f8059ce590c1b3474b5c4f23dda4c3d3a4502e604cc821314830eb886a5eef",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "MiniMax-H3-Turbo-Lora-ComfyUI：text-to-video 模型更新",
+    "summary": "HuggingFace 上 text-to-video 模型 MiniMax-H3-Turbo-Lora-ComfyUI 下载量达19.7万，获445赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
+    "publishedAt": "2026-09-19T05:11:01+00:00",
+    "tags": [
+      "huggingface",
+      "text-to-video",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 196582,
+      "likes": 445
+    }
+  },
+  "13097141df588d2f4a463db4021855d66ecbcf4d09f083df6fd40799b313bce5": {
+    "id": "13097141df588d2f4a463db4021855d66ecbcf4d09f083df6fd40799b313bce5",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "海斗胜率黑榜！这10个英雄不要选",
+    "summary": "UP主 联盟快达 · 57,077播放 · 3:18",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117292805460426",
+    "publishedAt": "2026-09-18T15:46:33+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 黑科技 上分"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "联盟快达",
+      "play": 57077,
+      "bvid": "BV1XVeS6jEUU",
+      "duration": "3:18"
+    }
+  },
+  "ee13a07c58a5455b495ed4bd6f7418c4f23802ee6b2fa1b9eace6d5e2046f77e": {
+    "id": "ee13a07c58a5455b495ed4bd6f7418c4f23802ee6b2fa1b9eace6d5e2046f77e",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "【2026LPL第三赛段】9月18日 WE vs JDG",
+    "summary": "UP主 哔哩哔哩英雄联盟赛事 · 430,171播放 · 221:44",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117291463215074",
+    "publishedAt": "2026-09-18T10:06:01+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "哔哩哔哩英雄联盟赛事",
+      "play": 430171,
+      "bvid": "BV1TFeU6TE4e",
+      "duration": "221:44"
+    }
+  },
+  "9fe1d9b66f84cbb05af99698b2215418af9d3a85e3900dbf701f5077d7d9841b": {
+    "id": "9fe1d9b66f84cbb05af99698b2215418af9d3a85e3900dbf701f5077d7d9841b",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "【S16赛事复盘】华语乐坛又有救了！TES是怎么3:1复仇IG蠕进世界赛的？抵抗韩门3/4集结！",
+    "summary": "UP主 圆某人和四某人 · 233,028播放 · 22:18",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117292033772139",
+    "publishedAt": "2026-09-18T12:36:38+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "圆某人和四某人",
+      "play": 233028,
+      "bvid": "BV1uVem6zEqP",
+      "duration": "22:18"
+    }
+  },
+  "1e086057fafc514a3e96282e781d5a2ada76d0f79a92d0a274d9cdf37ea83783": {
+    "id": "1e086057fafc514a3e96282e781d5a2ada76d0f79a92d0a274d9cdf37ea83783",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "忍界大战终章！救救IG！什么决赛！没这好看！年度最精彩最刺激一集！全华班滔搏！华语最强乐队！美国俺来了！各路解说直呼好看：AI短剧都编不出的剧情！",
+    "summary": "UP主 联盟抗压王 · 171,008播放 · 20:45",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117289114405818",
+    "publishedAt": "2026-09-18T00:14:04+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "联盟抗压王",
+      "play": 171008,
+      "bvid": "BV1yqey6sEZN",
+      "duration": "20:45"
+    }
+  },
+  "1bd30c60caae6f18456b818e4d7e18ef2c231eb8bfe74660a2b462df272d4e16": {
+    "id": "1bd30c60caae6f18456b818e4d7e18ef2c231eb8bfe74660a2b462df272d4e16",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "三年之期已到，恭迎世一上归位！【第9集】",
+    "summary": "UP主 九夜听风 · 1,844,747播放 · 6:31",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117280356764256",
+    "publishedAt": "2026-09-16T11:00:47+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "九夜听风",
+      "play": 1844747,
+      "bvid": "BV1h4ec6VEs3",
+      "duration": "6:31"
+    }
+  },
+  "9227acdd577c6c0095a0273cf8273c5426061040386fb93cdc4870f303ca9e33": {
+    "id": "9227acdd577c6c0095a0273cf8273c5426061040386fb93cdc4870f303ca9e33",
+    "module": "lol",
+    "seg": "match",
+    "cat": "比赛",
+    "title": "【LPLS15资格赛】9月27日 IG vs JDG",
+    "summary": "UP主 哔哩哔哩英雄联盟赛事 · 5,260,502播放 · 249:46",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av115275663934693",
+    "publishedAt": "2025-09-27T10:02:30+00:00",
+    "tags": [
+      "lol",
+      "match",
+      "英雄联盟 LPL LCK 比赛 集锦 复盘"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "哔哩哔哩英雄联盟赛事",
+      "play": 5260502,
+      "bvid": "BV1fMnEzHE2F",
+      "duration": "249:46"
+    }
+  },
+  "5eb9846adffd53abdddf97531eea9e014bcb3b6b95fea2bdd86f6d68c816fe8a": {
+    "id": "5eb9846adffd53abdddf97531eea9e014bcb3b6b95fea2bdd86f6d68c816fe8a",
+    "module": "lol",
+    "seg": "match",
+    "cat": "比赛",
+    "title": "【2026LPL第三赛段】9月13日 BLG vs AL-总决赛",
+    "summary": "UP主 老峰丶联盟搬运工 · 12,287播放 · 186:55",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117263277492143",
+    "publishedAt": "2026-09-13T10:39:46+00:00",
+    "tags": [
+      "lol",
+      "match",
+      "英雄联盟 LPL LCK 比赛 集锦 复盘"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "老峰丶联盟搬运工",
+      "play": 12287,
+      "bvid": "BV1msYe6fEsP",
+      "duration": "186:55"
+    }
+  },
+  "1de36d6638120b24d5ab71953c7a2bba0065665cb7fac8a466caac35e667423f": {
+    "id": "1de36d6638120b24d5ab71953c7a2bba0065665cb7fac8a466caac35e667423f",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "自然之力18.2版本三纹章开局定阵思路，6套最强转职阵容。地狱火艾希，主宰flex，裁决婕拉，迅射月男，神谕阿狸，花仙狮子。",
+    "summary": "UP主 弈术指南 · 780播放 · 3:35",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117294801885069",
+    "publishedAt": "2026-09-19T00:13:16+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "弈术指南",
+      "play": 780,
+      "bvid": "BV1FseX6iExn",
+      "duration": "3:35"
     }
   }
 }
