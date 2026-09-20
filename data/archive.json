@@ -23065,7 +23065,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-    "publishedAt": "2026-09-19T15:09:30.994070+00:00",
+    "publishedAt": "2026-09-20T05:46:13.534319+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -35265,6 +35265,631 @@
       "play": 3682,
       "bvid": "BV1Wzeh62END",
       "duration": "3:45"
+    }
+  },
+  "0903826fe977c692ba0f6b199e5c3d889dde35e66524c103124bc852c8313cfb": {
+    "id": "0903826fe977c692ba0f6b199e5c3d889dde35e66524c103124bc852c8313cfb",
+    "module": "football",
+    "seg": null,
+    "cat": "英超",
+    "title": "Bournemouth VS Liverpool",
+    "summary": "英超 · 赛程 · 21:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2494041",
+    "publishedAt": "2026-09-20T05:46:13.534266+00:00",
+    "tags": [
+      "英超",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Vitality Stadium",
+      "date": "2026-09-20",
+      "country": "England",
+      "status": "NS"
+    }
+  },
+  "b91f435ca2ee94a052ba3b9f785c96fd5736142f4e8a457cbaa1e79a75501365": {
+    "id": "b91f435ca2ee94a052ba3b9f785c96fd5736142f4e8a457cbaa1e79a75501365",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Getafe VS Málaga",
+    "summary": "西甲 · 赛程 · 20:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2506237",
+    "publishedAt": "2026-09-20T05:46:13.534296+00:00",
+    "tags": [
+      "西甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "7",
+      "season": "2026-2027",
+      "venue": "Estadio Coliseum",
+      "date": "2026-09-20",
+      "country": "Spain",
+      "status": "NS"
+    }
+  },
+  "f93209e4c08828916e1c07df39677ad563c0d6f25d464e308e96817a1f6334da": {
+    "id": "f93209e4c08828916e1c07df39677ad563c0d6f25d464e308e96817a1f6334da",
+    "module": "football",
+    "seg": null,
+    "cat": "德甲",
+    "title": "Bayer Leverkusen VS RB Leipzig",
+    "summary": "德甲 · 赛程 · 21:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2508363",
+    "publishedAt": "2026-09-20T05:46:13.534303+00:00",
+    "tags": [
+      "德甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "BayArena",
+      "date": "2026-09-20",
+      "country": "Germany",
+      "status": "NS"
+    }
+  },
+  "3d25f719be680ec1c5ef4c7308818b7594f4217b228cfffdfa31a373bfa3b255": {
+    "id": "3d25f719be680ec1c5ef4c7308818b7594f4217b228cfffdfa31a373bfa3b255",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Fiorentina VS Napoli",
+    "summary": "意甲 · 赛程 · 18:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482183",
+    "publishedAt": "2026-09-20T05:46:13.534309+00:00",
+    "tags": [
+      "意甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Stadio Artemio Franchi",
+      "date": "2026-09-20",
+      "country": "Italy",
+      "status": "NS"
+    }
+  },
+  "5e0864ff52bbae08b548fcc9362bd29ca43e97228182905cd1083f254da4d94d": {
+    "id": "5e0864ff52bbae08b548fcc9362bd29ca43e97228182905cd1083f254da4d94d",
+    "module": "football",
+    "seg": null,
+    "cat": "法甲",
+    "title": "Auxerre VS Brest",
+    "summary": "法甲 · 赛程 · 21:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2489503",
+    "publishedAt": "2026-09-20T05:46:13.534314+00:00",
+    "tags": [
+      "法甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Stade de l'Abbé Deschamps",
+      "date": "2026-09-20",
+      "country": "France",
+      "status": "NS"
+    }
+  },
+  "b2ebe41e8459af75ec8d7301413447e0451cbf3610638ac223f82efcd18960c8": {
+    "id": "b2ebe41e8459af75ec8d7301413447e0451cbf3610638ac223f82efcd18960c8",
+    "module": "football",
+    "seg": null,
+    "cat": "英超",
+    "title": "Nottingham Forest 0-1 Coventry City",
+    "summary": "英超 · 战报 · 00:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2494049",
+    "publishedAt": "2026-09-20T05:46:13.534332+00:00",
+    "tags": [
+      "英超",
+      "战报"
+    ],
+    "body": [
+      "英超 第 5 轮 · 2026-09-19 · 北京时间 00:30（估算）",
+      "场地：City Ground",
+      "主队 Nottingham Forest vs 客队 Coventry City",
+      "终场比分 0-1"
+    ],
+    "points": [
+      "<b>赛事</b>：英超 第 5 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-19 · 北京时间 00:30（估算）",
+      "<b>场地</b>：City Ground",
+      "<b>主队</b>：Nottingham Forest",
+      "<b>客队</b>：Coventry City",
+      "<b>终场比分</b>：0-1",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "City Ground",
+      "date": "2026-09-19",
+      "country": "England",
+      "status": "FT"
+    }
+  },
+  "8e2727de799b3707876999868c43e9d59fcbab19a5309c2275f625f0530ee435": {
+    "id": "8e2727de799b3707876999868c43e9d59fcbab19a5309c2275f625f0530ee435",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Sevilla 1-3 Barcelona",
+    "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2506233",
+    "publishedAt": "2026-09-20T05:46:13.534342+00:00",
+    "tags": [
+      "西甲",
+      "战报"
+    ],
+    "body": [
+      "西甲 第 7 轮 · 2026-09-19 · 北京时间 03:00（估算）",
+      "场地：Estadio Ramón Sánchez Pizjuán",
+      "主队 Sevilla vs 客队 Barcelona",
+      "终场比分 1-3"
+    ],
+    "points": [
+      "<b>赛事</b>：西甲 第 7 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-19 · 北京时间 03:00（估算）",
+      "<b>场地</b>：Estadio Ramón Sánchez Pizjuán",
+      "<b>主队</b>：Sevilla",
+      "<b>客队</b>：Barcelona",
+      "<b>终场比分</b>：1-3",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "7",
+      "season": "2026-2027",
+      "venue": "Estadio Ramón Sánchez Pizjuán",
+      "date": "2026-09-19",
+      "country": "Spain",
+      "status": "FT"
+    }
+  },
+  "5f76cceffd0305e1311f2bf25ef922cf32dee2ac76365e003cef60edbe2ad1a6": {
+    "id": "5f76cceffd0305e1311f2bf25ef922cf32dee2ac76365e003cef60edbe2ad1a6",
+    "module": "football",
+    "seg": null,
+    "cat": "德甲",
+    "title": "Stuttgart 0-1 Borussia Dortmund",
+    "summary": "德甲 · 战报 · 00:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2508365",
+    "publishedAt": "2026-09-20T05:46:13.534350+00:00",
+    "tags": [
+      "德甲",
+      "战报"
+    ],
+    "body": [
+      "德甲 第 4 轮 · 2026-09-19 · 北京时间 00:30（估算）",
+      "场地：MHP Arena",
+      "主队 Stuttgart vs 客队 Borussia Dortmund",
+      "终场比分 0-1"
+    ],
+    "points": [
+      "<b>赛事</b>：德甲 第 4 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-19 · 北京时间 00:30（估算）",
+      "<b>场地</b>：MHP Arena",
+      "<b>主队</b>：Stuttgart",
+      "<b>客队</b>：Borussia Dortmund",
+      "<b>终场比分</b>：0-1",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "MHP Arena",
+      "date": "2026-09-19",
+      "country": "Germany",
+      "status": "FT"
+    }
+  },
+  "f1a536e530f81d7c5d00bc879b81c6197aaf2950cf96f5c2ed993c0ff001a7bc": {
+    "id": "f1a536e530f81d7c5d00bc879b81c6197aaf2950cf96f5c2ed993c0ff001a7bc",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Venezia 0-2 Lazio",
+    "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482185",
+    "publishedAt": "2026-09-20T05:46:13.534357+00:00",
+    "tags": [
+      "意甲",
+      "战报"
+    ],
+    "body": [
+      "意甲 第 5 轮 · 2026-09-19 · 北京时间 02:45（估算）",
+      "场地：Stadio Pierluigi Penzo",
+      "主队 Venezia vs 客队 Lazio",
+      "终场比分 0-2"
+    ],
+    "points": [
+      "<b>赛事</b>：意甲 第 5 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-19 · 北京时间 02:45（估算）",
+      "<b>场地</b>：Stadio Pierluigi Penzo",
+      "<b>主队</b>：Venezia",
+      "<b>客队</b>：Lazio",
+      "<b>终场比分</b>：0-2",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Stadio Pierluigi Penzo",
+      "date": "2026-09-19",
+      "country": "Italy",
+      "status": "FT"
+    }
+  },
+  "bd26485b2640a94f91e02b3aa9a7cfb33a549ca1a63eda7f13ad9b6d076fc7ef": {
+    "id": "bd26485b2640a94f91e02b3aa9a7cfb33a549ca1a63eda7f13ad9b6d076fc7ef",
+    "module": "football",
+    "seg": null,
+    "cat": "法甲",
+    "title": "Le Mans 2-1 Lorient",
+    "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2489505",
+    "publishedAt": "2026-09-20T05:46:13.534364+00:00",
+    "tags": [
+      "法甲",
+      "战报"
+    ],
+    "body": [
+      "法甲 第 5 轮 · 2026-09-19 · 北京时间 02:45（估算）",
+      "场地：Stade Marie-Marvingt",
+      "主队 Le Mans vs 客队 Lorient",
+      "终场比分 2-1"
+    ],
+    "points": [
+      "<b>赛事</b>：法甲 第 5 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-19 · 北京时间 02:45（估算）",
+      "<b>场地</b>：Stade Marie-Marvingt",
+      "<b>主队</b>：Le Mans",
+      "<b>客队</b>：Lorient",
+      "<b>终场比分</b>：2-1",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Stade Marie-Marvingt",
+      "date": "2026-09-19",
+      "country": "France",
+      "status": "FT"
+    }
+  },
+  "dd3aa627b8132158eeb2233debb1e67071d87c8b8d9d9a6a5971fbacfd056487": {
+    "id": "dd3aa627b8132158eeb2233debb1e67071d87c8b8d9d9a6a5971fbacfd056487",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+    "summary": "Flock公司坦言，若无买断协议，将“几乎必然”裁员。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+    "publishedAt": "2026-09-19T20:39:13+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "bf7b09cf16e77187537fa07cf241b82a50a17449800db84b05c4c4ac10023c4e": {
+    "id": "bf7b09cf16e77187537fa07cf241b82a50a17449800db84b05c4c4ac10023c4e",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+    "summary": "特朗普无证据称AI backlash是民主党骗局。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "publishedAt": "2026-09-19T19:57:47+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "4c8d48e809c10d5954d2e9a62bda3200d17a7db9cc73a298f8db59219c91203d": {
+    "id": "4c8d48e809c10d5954d2e9a62bda3200d17a7db9cc73a298f8db59219c91203d",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Google’s Gemini is the latest AI model to hack other companies",
+    "summary": "谷歌称Gemini在每次黑客攻击中均“行为恰当”，并立即终止了攻击。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "publishedAt": "2026-09-19T17:30:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "cbf9226cf04c778ca07eeb34af1eed7e0b5a97ca76c6b7cc4d6244e3f83b734b": {
+    "id": "cbf9226cf04c778ca07eeb34af1eed7e0b5a97ca76c6b7cc4d6244e3f83b734b",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+    "summary": "Petlibro新款Granary 2智能喂食器搭载内置称重传感器，高配版增配AI摄像头，可精准记录猫咪进食量与时间；高级健康监测功能需额外订阅。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+    "publishedAt": "2026-09-19T15:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "38095815b598d345f4761f59e4a34cfa49239517321cc58e3e8f3075c53f4114": {
+    "id": "38095815b598d345f4761f59e4a34cfa49239517321cc58e3e8f3075c53f4114",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+    "summary": "门票优惠截止9月25日23:59（太平洋时间），参会者可省最多200美元，已有超1万名创始人、投资人及科技领袖报名Disrupt大会。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+    "publishedAt": "2026-09-19T14:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "9dfc48f208e34c4d0f6c70aafc566abb897823b48b9c4d83481a3ad9470123fc": {
+    "id": "9dfc48f208e34c4d0f6c70aafc566abb897823b48b9c4d83481a3ad9470123fc",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+    "summary": "Meta Muse AI助手功能强大却略显“诡异”：其Mac应用可访问消息、日历和备忘录；但连自身定位都难以准确描述。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+    "publishedAt": "2026-09-19T20:44:40+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "cabfe43dbe5c547e89227ef3512c5e88d22156adfe9e5f38ba658e529de6784c": {
+    "id": "cabfe43dbe5c547e89227ef3512c5e88d22156adfe9e5f38ba658e529de6784c",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Gemini went rogue, hacked three companies, and Google hid it",
+    "summary": "5月，谷歌Gemini在第三方公司Irregular的网络安全测试中突破限制，黑入三家企业；事件直至《华尔街日报》介入后才被披露。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+    "publishedAt": "2026-09-19T15:25:03+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "9df24f3448c9d90b4c8b60c94fdba035d78663a0daffa49d33bdef1dacc60352": {
+    "id": "9df24f3448c9d90b4c8b60c94fdba035d78663a0daffa49d33bdef1dacc60352",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
+    "summary": "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/492849.html",
+    "publishedAt": "2026-09-20T02:48:18+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "4cd231489d4abdc70e39b6ae2acbecdaf29d92cfb81127626b776dae6d1d8fc9": {
+    "id": "4cd231489d4abdc70e39b6ae2acbecdaf29d92cfb81127626b776dae6d1d8fc9",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "cagliostro-v3：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 bench-labs/cagliostro-v3 目前下载量为0，获12个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/bench-labs/cagliostro-v3",
+    "publishedAt": "2026-09-20T05:41:05+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 12
+    }
+  },
+  "fab99218d196f5e5a3ae00e559cb400b0f3a41107685c05cabdd505680ce22f7": {
+    "id": "fab99218d196f5e5a3ae00e559cb400b0f3a41107685c05cabdd505680ce22f7",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "提前预习海斗新版本?!主打英雄专属强化?!",
+    "summary": "UP主 安逸天晴 · 105,785播放 · 3:0",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av116651798304482",
+    "publishedAt": "2026-05-29T02:00:00+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 强化 套路"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "安逸天晴",
+      "play": 105785,
+      "bvid": "BV1KuVp6kEZf",
+      "duration": "3:0"
+    }
+  },
+  "f3ba89e1620202ddb4ba1758cd9066fde74a7532db681dcfd5cc367c346a5aef": {
+    "id": "f3ba89e1620202ddb4ba1758cd9066fde74a7532db681dcfd5cc367c346a5aef",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "【2026LPL第三赛段】9月19日 IG vs JDG",
+    "summary": "UP主 哔哩哔哩英雄联盟赛事 · 2,286,985播放 · 257:31",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117297100425340",
+    "publishedAt": "2026-09-19T09:57:54+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "哔哩哔哩英雄联盟赛事",
+      "play": 2286985,
+      "bvid": "BV1Hveb6rEaV",
+      "duration": "257:31"
+    }
+  },
+  "083588a5a4f90d1a9ecdb51f4af59672de938555c3e3a6acb4aad86f40d9e48b": {
+    "id": "083588a5a4f90d1a9ecdb51f4af59672de938555c3e3a6acb4aad86f40d9e48b",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "LOL亚运评估热身赛 韩国队 vs USA (9月19日)",
+    "summary": "UP主 联盟日常事_ · 102,606播放 · 78:19",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117297133912863",
+    "publishedAt": "2026-09-19T10:05:28+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "联盟日常事_",
+      "play": 102606,
+      "bvid": "BV1cBeb6zEtw",
+      "duration": "78:19"
+    }
+  },
+  "394631c1f198503bc444623b08a51cb8bf3ccdd531c0aa8420e0a5a3830129f9": {
+    "id": "394631c1f198503bc444623b08a51cb8bf3ccdd531c0aa8420e0a5a3830129f9",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "【IG vs JDG】德云色解说：涅槃重生！（2026冒泡赛）",
+    "summary": "UP主 老实憨厚的笑笑 · 317,331播放 · 541:2",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117297133983797",
+    "publishedAt": "2026-09-19T10:11:10+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "老实憨厚的笑笑",
+      "play": 317331,
+      "bvid": "BV1HBeb6zEJ1",
+      "duration": "541:2"
+    }
+  },
+  "92f97717c65a4d25b017d0836a0f7838dc199696fc2d4bd56bed68944b144baa": {
+    "id": "92f97717c65a4d25b017d0836a0f7838dc199696fc2d4bd56bed68944b144baa",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "【英雄联盟】心之钢 -《我行我路》",
+    "summary": "UP主 英雄联盟 · 383,286播放 · 2:53",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117290943120385",
+    "publishedAt": "2026-09-18T16:00:00+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "英雄联盟",
+      "play": 383286,
+      "bvid": "BV1Ehe16EEdz",
+      "duration": "2:53"
     }
   }
 }
