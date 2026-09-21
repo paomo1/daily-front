@@ -23065,7 +23065,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-    "publishedAt": "2026-09-20T15:12:59.660263+00:00",
+    "publishedAt": "2026-09-21T05:56:57.271113+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -36489,6 +36489,1092 @@
       "downloads": 183,
       "likes": 316,
       "vendor": "阿里通义千问"
+    }
+  },
+  "30378f2ccbe3554f1c95072101304f2c2a95c4bc9525c8ffa915b8d992c5daa9": {
+    "id": "30378f2ccbe3554f1c95072101304f2c2a95c4bc9525c8ffa915b8d992c5daa9",
+    "module": "football",
+    "seg": null,
+    "cat": "英超",
+    "title": "Arsenal VS Leeds United",
+    "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2494052",
+    "publishedAt": "2026-09-21T05:56:57.271056+00:00",
+    "tags": [
+      "英超",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "6",
+      "season": "2026-2027",
+      "venue": "Emirates Stadium",
+      "date": "2026-10-10",
+      "country": "England",
+      "status": "NS"
+    }
+  },
+  "6c5eeda0a2df63b9df06aef9c513cdd2e6f537df6fca22b4ad405bb662cd4dd9": {
+    "id": "6c5eeda0a2df63b9df06aef9c513cdd2e6f537df6fca22b4ad405bb662cd4dd9",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Málaga VS Espanyol",
+    "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2506240",
+    "publishedAt": "2026-09-21T05:56:57.271088+00:00",
+    "tags": [
+      "西甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "8",
+      "season": "2026-2027",
+      "venue": "Estadio La Rosaleda",
+      "date": "2026-10-09",
+      "country": "Spain",
+      "status": "NS"
+    }
+  },
+  "68b65047b5c8f4d9e88bbd83c1a975ae65146ef2addc1c74fe967d466f90a103": {
+    "id": "68b65047b5c8f4d9e88bbd83c1a975ae65146ef2addc1c74fe967d466f90a103",
+    "module": "football",
+    "seg": null,
+    "cat": "德甲",
+    "title": "Borussia Dortmund VS Werder Bremen",
+    "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2508371",
+    "publishedAt": "2026-09-21T05:56:57.271096+00:00",
+    "tags": [
+      "德甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Signal Iduna Park",
+      "date": "2026-10-09",
+      "country": "Germany",
+      "status": "NS"
+    }
+  },
+  "714ed56cc69c36149614bf4d3d1179ec1cb975af9b02e0ae185bf4f64f7a7120": {
+    "id": "714ed56cc69c36149614bf4d3d1179ec1cb975af9b02e0ae185bf4f64f7a7120",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Genoa VS Fiorentina",
+    "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482192",
+    "publishedAt": "2026-09-21T05:56:57.271102+00:00",
+    "tags": [
+      "意甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "6",
+      "season": "2026-2027",
+      "venue": "Stadio Luigi Ferraris",
+      "date": "2026-10-10",
+      "country": "Italy",
+      "status": "NS"
+    }
+  },
+  "fb310b858aa2cf4c0c2a9a25ded087d29ce3cab78820b76358898cb296809d91": {
+    "id": "fb310b858aa2cf4c0c2a9a25ded087d29ce3cab78820b76358898cb296809d91",
+    "module": "football",
+    "seg": null,
+    "cat": "法甲",
+    "title": "Lens VS Lyon",
+    "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2489515",
+    "publishedAt": "2026-09-21T05:56:57.271108+00:00",
+    "tags": [
+      "法甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "6",
+      "season": "2026-2027",
+      "venue": "Stade Bollaert-Delelis",
+      "date": "2026-10-09",
+      "country": "France",
+      "status": "NS"
+    }
+  },
+  "779a51c4222be7cf83cc7a6e26db730d041abae0cb8c951702e5304f07d6dc68": {
+    "id": "779a51c4222be7cf83cc7a6e26db730d041abae0cb8c951702e5304f07d6dc68",
+    "module": "football",
+    "seg": null,
+    "cat": "英超",
+    "title": "Fulham 1-1 Manchester United",
+    "summary": "英超 · 战报 · 23:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2494042",
+    "publishedAt": "2026-09-21T05:56:57.271127+00:00",
+    "tags": [
+      "英超",
+      "战报"
+    ],
+    "body": [
+      "英超 第 5 轮 · 2026-09-20 · 北京时间 23:30（估算）",
+      "场地：Craven Cottage",
+      "主队 Fulham vs 客队 Manchester United",
+      "终场比分 1-1"
+    ],
+    "points": [
+      "<b>赛事</b>：英超 第 5 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-20 · 北京时间 23:30（估算）",
+      "<b>场地</b>：Craven Cottage",
+      "<b>主队</b>：Fulham",
+      "<b>客队</b>：Manchester United",
+      "<b>终场比分</b>：1-1",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Craven Cottage",
+      "date": "2026-09-20",
+      "country": "England",
+      "status": "FT"
+    }
+  },
+  "307862e3d5d4529fd0857dfb337b3cfc036508e59515f344ec9a4411f0953bf4": {
+    "id": "307862e3d5d4529fd0857dfb337b3cfc036508e59515f344ec9a4411f0953bf4",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Valencia 2-3 Real Sociedad",
+    "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.youtube.com/watch?v=PX_Z58lDe84",
+    "publishedAt": "2026-09-21T05:56:57.271137+00:00",
+    "tags": [
+      "西甲",
+      "战报"
+    ],
+    "body": [
+      "西甲 第 7 轮 · 2026-09-20 · 北京时间 03:00（估算）",
+      "场地：Estadio de Mestalla",
+      "主队 Valencia vs 客队 Real Sociedad",
+      "终场比分 2-3"
+    ],
+    "points": [
+      "<b>赛事</b>：西甲 第 7 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-20 · 北京时间 03:00（估算）",
+      "<b>场地</b>：Estadio de Mestalla",
+      "<b>主队</b>：Valencia",
+      "<b>客队</b>：Real Sociedad",
+      "<b>终场比分</b>：2-3",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "7",
+      "season": "2026-2027",
+      "venue": "Estadio de Mestalla",
+      "date": "2026-09-20",
+      "country": "Spain",
+      "status": "FT"
+    }
+  },
+  "467a7dde98f923af5a56017401635f034fe78b441e46ff147930e866b4ae6f91": {
+    "id": "467a7dde98f923af5a56017401635f034fe78b441e46ff147930e866b4ae6f91",
+    "module": "football",
+    "seg": null,
+    "cat": "德甲",
+    "title": "Paderborn 3-1 Hoffenheim",
+    "summary": "德甲 · 战报 · 01:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.youtube.com/watch?v=geNPXDBioSI",
+    "publishedAt": "2026-09-21T05:56:57.271146+00:00",
+    "tags": [
+      "德甲",
+      "战报"
+    ],
+    "body": [
+      "德甲 第 4 轮 · 2026-09-20 · 北京时间 01:30（估算）",
+      "场地：Home Deluxe Arena",
+      "主队 Paderborn vs 客队 Hoffenheim",
+      "终场比分 3-1"
+    ],
+    "points": [
+      "<b>赛事</b>：德甲 第 4 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-20 · 北京时间 01:30（估算）",
+      "<b>场地</b>：Home Deluxe Arena",
+      "<b>主队</b>：Paderborn",
+      "<b>客队</b>：Hoffenheim",
+      "<b>终场比分</b>：3-1",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "4",
+      "season": "2026-2027",
+      "venue": "Home Deluxe Arena",
+      "date": "2026-09-20",
+      "country": "Germany",
+      "status": "FT"
+    }
+  },
+  "8e03220733f873edf5bcf380d587f2b55a9706f1c7a2d2bdd2d85b380a866b9d": {
+    "id": "8e03220733f873edf5bcf380d587f2b55a9706f1c7a2d2bdd2d85b380a866b9d",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "AC Milan 3-0 Lecce",
+    "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.youtube.com/watch?v=dVzz_vYqjPc",
+    "publishedAt": "2026-09-21T05:56:57.271154+00:00",
+    "tags": [
+      "意甲",
+      "战报"
+    ],
+    "body": [
+      "意甲 第 5 轮 · 2026-09-20 · 北京时间 02:45（估算）",
+      "场地：Stadio Giuseppe Meazza",
+      "主队 AC Milan vs 客队 Lecce",
+      "终场比分 3-0"
+    ],
+    "points": [
+      "<b>赛事</b>：意甲 第 5 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-20 · 北京时间 02:45（估算）",
+      "<b>场地</b>：Stadio Giuseppe Meazza",
+      "<b>主队</b>：AC Milan",
+      "<b>客队</b>：Lecce",
+      "<b>终场比分</b>：3-0",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Stadio Giuseppe Meazza",
+      "date": "2026-09-20",
+      "country": "Italy",
+      "status": "FT"
+    }
+  },
+  "5072457b6dbaab2eb8ed75583178dc21b8834f40f75387005e6d4baba7d8f397": {
+    "id": "5072457b6dbaab2eb8ed75583178dc21b8834f40f75387005e6d4baba7d8f397",
+    "module": "football",
+    "seg": null,
+    "cat": "法甲",
+    "title": "Marseille 1-2 Paris Saint-Germain",
+    "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.youtube.com/watch?v=G_cQy-bcaRg",
+    "publishedAt": "2026-09-21T05:56:57.271162+00:00",
+    "tags": [
+      "法甲",
+      "战报"
+    ],
+    "body": [
+      "法甲 第 5 轮 · 2026-09-20 · 北京时间 02:45（估算）",
+      "场地：Orange Vélodrome",
+      "主队 Marseille vs 客队 Paris Saint-Germain",
+      "终场比分 1-2"
+    ],
+    "points": [
+      "<b>赛事</b>：法甲 第 5 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-09-20 · 北京时间 02:45（估算）",
+      "<b>场地</b>：Orange Vélodrome",
+      "<b>主队</b>：Marseille",
+      "<b>客队</b>：Paris Saint-Germain",
+      "<b>终场比分</b>：1-2",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Orange Vélodrome",
+      "date": "2026-09-20",
+      "country": "France",
+      "status": "FT"
+    }
+  },
+  "63354dd65cbc85ca8a7282f93625c033fa6a145676a768487753e41964b27b23": {
+    "id": "63354dd65cbc85ca8a7282f93625c033fa6a145676a768487753e41964b27b23",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+    "summary": "9月25日23:59（太平洋时间）前购票，立省200美元！已有超1万名创始人、投资人及科技领袖报名参加Disrupt大会。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+    "publishedAt": "2026-09-20T21:41:08+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "762507694172b30139c8a77509736a402a1e4100470fc651117818d3622167d3": {
+    "id": "762507694172b30139c8a77509736a402a1e4100470fc651117818d3622167d3",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "World model companies are keeping a lot of secrets",
+    "summary": "全球世界模型领域融资火热、备受关注，但创始人及数据供应商均对具体研发内容讳莫如深。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "publishedAt": "2026-09-20T20:29:07+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "0bb32cfcf4d92ad01b0a54cbe66c24b417a4ba02f434735d6c84c7836b4ddb54": {
+    "id": "0bb32cfcf4d92ad01b0a54cbe66c24b417a4ba02f434735d6c84c7836b4ddb54",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Is the AI industry really ready to slow down?",
+    "summary": "关于AI治理，业界正就AI高管是否真心支持放缓发展展开辩论。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+    "publishedAt": "2026-09-20T18:56:04+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "45cc273fbcaf4a26c2b41719f5a69194007ca0d235189aa207d5c2283b34d947": {
+    "id": "45cc273fbcaf4a26c2b41719f5a69194007ca0d235189aa207d5c2283b34d947",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+    "summary": "Vocci轻量级智能戒指售价249美元，引发隐私担忧。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+    "publishedAt": "2026-09-20T18:32:52+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "d4907c99166fc8d06d5187a42260236247d174a54a88aa1739cd34880b14a422": {
+    "id": "d4907c99166fc8d06d5187a42260236247d174a54a88aa1739cd34880b14a422",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "ScrollEd wants to turn textbooks into TikTok",
+    "summary": "帕洛阿尔托初创公司ScrollEd将教科书转为可滚动的Instagram式信息流，集成视频、音频与测验；由学生夫妇Utsav Gupta和Rebecca Neff创立，亮相TechCrunch Disrupt。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+    "publishedAt": "2026-09-20T18:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "28ba8a9634cb1a741fe6d326cc0357a3590cab333937b52f5cec51e3cbb139d4": {
+    "id": "28ba8a9634cb1a741fe6d326cc0357a3590cab333937b52f5cec51e3cbb139d4",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+    "summary": "某AI富豪称AI“0%可能终结人类”，引发争议，被指无视数十年AI研究者的专业见解。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+    "publishedAt": "2026-09-20T18:50:18+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "c3a3db7618d1a44f89abbb374293392075fddb181fe70a2734168bf4fb4aa943": {
+    "id": "c3a3db7618d1a44f89abbb374293392075fddb181fe70a2734168bf4fb4aa943",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Trump now says he wants to form an ‘AI Force’",
+    "summary": "特朗普在Truth Social发文称将任命“AI沙皇”领导新“AI部队”，强调不会阻碍AI发展，此举引发跨党派及业界对AI监管的广泛呼吁。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+    "publishedAt": "2026-09-20T15:39:22+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "c35a9a23b675feeb8f4e9a0600c48f9591e9a449a300876c47574a237117d9b1": {
+    "id": "c35a9a23b675feeb8f4e9a0600c48f9591e9a449a300876c47574a237117d9b1",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+    "summary": "近期高调网络攻击凸显AI风险，但能源系统早已面临严峻网络威胁，安全专家称“我们一直只是勉强幸存”。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+    "publishedAt": "2026-09-20T12:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "f206fe3d7a9660b49b75aef26d9d1af8a26c3fa6662b1f76b1da122aaf28b30c": {
+    "id": "f206fe3d7a9660b49b75aef26d9d1af8a26c3fa6662b1f76b1da122aaf28b30c",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
+    "summary": "激活参数仅27B",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/493179.html",
+    "publishedAt": "2026-09-21T03:46:43+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "068c207c1f69415b0ee403ee0fd192ccb1f899f4146e176e2384cd6d4d0c2d93": {
+    "id": "068c207c1f69415b0ee403ee0fd192ccb1f899f4146e176e2384cd6d4d0c2d93",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "中国Neocloud市场第一！商汤大装置全面领跑",
+    "summary": "沙利文报告",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/493175.html",
+    "publishedAt": "2026-09-21T03:32:03+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "2a1322aea10be761b60e10fabbf4d7e911fc2b00908bb58d8d916dd0948a66f9": {
+    "id": "2a1322aea10be761b60e10fabbf4d7e911fc2b00908bb58d8d916dd0948a66f9",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
+    "summary": "《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》发布，定义AI时代生命科学新型基础设施。",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/493114.html",
+    "publishedAt": "2026-09-21T02:28:46+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "5f153c28d3e47b876d40f6fc4eca44d49d421927308c847f5df25769b5e3d3a9": {
+    "id": "5f153c28d3e47b876d40f6fc4eca44d49d421927308c847f5df25769b5e3d3a9",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "IDC评估中国AI算力管理平台：范式综合评分位列第一，四项关键维度获满分",
+    "summary": "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/493109.html",
+    "publishedAt": "2026-09-21T02:17:33+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "855b21cef8aa0d4d8988308a83e707a30b6d2d8c05e5afc95de323e854b5c728": {
+    "id": "855b21cef8aa0d4d8988308a83e707a30b6d2d8c05e5afc95de323e854b5c728",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA",
+    "summary": "近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/493091.html",
+    "publishedAt": "2026-09-21T01:48:50+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "d60d829110868c727852ce297c852bf831b499403923b5afce451f54d4c7db3b": {
+    "id": "d60d829110868c727852ce297c852bf831b499403923b5afce451f54d4c7db3b",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "sherpa-onnx-libs：model 模型更新",
+    "summary": "HuggingFace 上模型 csukuangfj2/sherpa-onnx-libs 目前下载量为 0，获 10 个赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/csukuangfj2/sherpa-onnx-libs",
+    "publishedAt": "2026-09-21T05:57:18+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 10
+    }
+  },
+  "ae145ecedf160def3e0f25f1a487b0a99be69bbcf478d7405086791c7201c4dd": {
+    "id": "ae145ecedf160def3e0f25f1a487b0a99be69bbcf478d7405086791c7201c4dd",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "KaLM-Reranker-V1-Nano：text-ranking 模型更新",
+    "summary": "HuggingFace 上主流文本排序模型 KaLM-Reranker-V1-Nano 下载量879，获11赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/KaLM-Embedding/KaLM-Reranker-V1-Nano",
+    "publishedAt": "2026-09-21T05:49:44+00:00",
+    "tags": [
+      "huggingface",
+      "text-ranking",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 879,
+      "likes": 11
+    }
+  },
+  "8062b8645b5cf31b79ea4e3019e9dd4ace84effd6547c4c7d18d01d47e302914": {
+    "id": "8062b8645b5cf31b79ea4e3019e9dd4ace84effd6547c4c7d18d01d47e302914",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "MaleCNS-SpikeWhale-Anatomy-LM：text-generation 模型更新",
+    "summary": "HuggingFace 上文本生成模型 Quazim0t0/MaleCNS-SpikeWhale-Anatomy-LM 获1735次下载、1个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Quazim0t0/MaleCNS-SpikeWhale-Anatomy-LM",
+    "publishedAt": "2026-09-21T05:47:05+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1735,
+      "likes": 1
+    }
+  },
+  "cbfb4da5171a60eec20635e90fd93e98e03f2d314afe14ed29f0be5bea2a034e": {
+    "id": "cbfb4da5171a60eec20635e90fd93e98e03f2d314afe14ed29f0be5bea2a034e",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "CID-v1-0.4B：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 fwerkor/CID-v1-0.4B 下载量达1302次，获1个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/fwerkor/CID-v1-0.4B",
+    "publishedAt": "2026-09-21T05:45:54+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1302,
+      "likes": 1
+    }
+  },
+  "125fdc46d4410bd451a407b20c0751e0c1b0efeb2771d7a7d1c1c345cd9cef97": {
+    "id": "125fdc46d4410bd451a407b20c0751e0c1b0efeb2771d7a7d1c1c345cd9cef97",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Solomon：text-classification 模型更新",
+    "summary": "HuggingFace 上 DoccyHealth/Solomon 文本分类模型暂无下载量，获14个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/DoccyHealth/Solomon",
+    "publishedAt": "2026-09-21T05:40:03+00:00",
+    "tags": [
+      "huggingface",
+      "text-classification",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 14
+    }
+  },
+  "3c09685e1ee0f2617417ddf078365ff751afe9139559ae2b9d238955bbefa3f0": {
+    "id": "3c09685e1ee0f2617417ddf078365ff751afe9139559ae2b9d238955bbefa3f0",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
+    "summary": "研究提出Designer-RSI框架，让冻结大模型通过230+工具操作设计软件，以外部自然语言程序化记忆持续学习优化设计流程。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.22086v1",
+    "publishedAt": "2026-09-18T17:59:56+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We introduce a continual adaptation framework in which a frozen frontier model operates professional design software through more than 230 tools, while an external procedural memory of natural-language skills accumulates and refines reusable design procedures from experience. The memory widens by acquiring procedures for recurring uncovered subtasks and deepens by revising existing procedures against their own successful and failed executions, while a matched replay gate admits only changes that repair failures without regressing observed successes. Five rounds over 1,406 real user briefs and 1,869 automatically graded trajectories, with no weight updates and no human labels, grow the bank from 76 documentation-derived skills to 139 and raise GenEval2 execution success on Claude-Sonnet-4 from 72.7% to 99.3% (+11.99 points in generation quality), with 61.8% and 67.6% win rates against the no-skill agent across four specialized design benchmarks on Claude-Sonnet-4 and Claude-Opus-4.6. We further show the two mechanisms are effective in combination: on 200 held-out briefs from user-traffic benchmark, widening or deepening alone reaches a 49.4% / 48.6% win rate over the no-skill agent, while their combination reaches 58.5% (p = 0.025). Procedural memory offers a practical route to continual adaptation of agents under noisy, unverifiable feedback."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Hongyang Du, Lan Yan, Christian Flores et al.",
+      "categories": [
+        "cs.AI",
+        "cs.CV"
+      ]
+    }
+  },
+  "1e8c97b52ae1d45a968545c7963270e9d33bc442b23421f0dca93aca0c7d76ec": {
+    "id": "1e8c97b52ae1d45a968545c7963270e9d33bc442b23421f0dca93aca0c7d76ec",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Cross-sector generalization of accident-process role classification in occupational accident narratives",
+    "summary": "研究评估事故过程角色分类模型在不同行业间的泛化能力，发现术语与写作风格差异显著影响自动化编码系统的跨领域适用性。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.22081v1",
+    "publishedAt": "2026-09-18T17:59:10+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Occupational accident narratives contain valuable information about work situations, unfavourable conditions, accident events, and their consequences. Automatically structuring these narratives can facilitate large-scale accident analysis and support occupational risk prevention. However, the terminology and writing styles used to describe accidents vary considerably across sectors and organisations, raising questions about the ability of automated coding systems to generalize beyond their training domain. In this paper, we evaluate the cross-sector generalization of accident-process role classification in French occupational accident narratives. We construct an expert-annotated corpus in which factual units are classified into four roles: work situation (A0), explicitly reported unfavourable condition (A1), accident event or deviation (B), and reported consequence (C). The role classifiers are developed and selected exclusively on 42,244 factual units extracted from 6,040 construction-sector narratives and are then evaluated on unseen corpora from the metallurgy and chemistry--plastics sectors, as well as on an independently collected company corpus, without retraining or target-domain tuning of the role classifier. We compare frozen pretrained representations with task-specific fine-tuning and supervised representation-learning strategies. The results show that task-specific adaptation consistently improves cross-domain transfer over frozen representations. Across repeated training runs, the three leading task-adapted strategies achieved average balanced accuracies between 85.6% and 85.8% across the three target corpora. These findings support the development of transferable assisted-coding systems capable of consistently structuring heterogeneous occupational accident narratives for expert review and cross-sector prevention analysis."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Aho Yapi, Pierre Latouche, Arnaud Guillin et al.",
+      "categories": [
+        "cs.CL"
+      ]
+    }
+  },
+  "dff6d84858cdbfb9936fd2a41600586b6bb24a2c149ce6388d08661977e9d317": {
+    "id": "dff6d84858cdbfb9936fd2a41600586b6bb24a2c149ce6388d08661977e9d317",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
+    "summary": "CodeMidas：新RL框架，仅用源代码自动生成可执行编码任务环境，突破依赖issue/commit的局限，提升编码智能体训练规模与多样性。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.22068v1",
+    "publishedAt": "2026-09-18T17:55:17+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically rely on development artifacts such as issues and commits, limiting the range of tasks that can be extracted. To better scale RL environments, we present CodeMidas, an agentic pipeline that turns implemented functionality in existing codebases into executable RL environments using source code as its only task-specific input. CodeMidas allocates agentic compute to every stage of environment construction: agents explore implemented functionality to formulate behavioral specifications, construct tests grounded in execution of the original code, and validate and filter candidate tasks through execution checks and repeated solution rollouts. The resulting dataset has 5,545 training tasks from 3,185 open-source codebases spanning 23 programming languages and 15 technical domains. Training MiMo-V2.5 on these tasks with GRPO improves performance on all five diverse benchmarks, covering issue repair (DeepSWE + 11.7%), whole-program construction (ProgramBench +17%), and terminal work (Terminal-Bench v2.1 +8.5%). Ablations show that increasing the number of high-quality training tasks improves performance. Trajectory analysis shows the RL-trained agent demonstrates better behaviors like increasing codebase exploration and more diverse self-verification. These results establish source code as a scalable foundation for constructing RL environments that improve coding agents across diverse software tasks."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Bowen Ye, Lei Li, Shicheng Li et al.",
+      "categories": [
+        "cs.AI"
+      ]
+    }
+  },
+  "df485ff87f4c107d0cfe0b1f6296c6f90f5fe0d5bd186545b03eb9b7ecb7eba6": {
+    "id": "df485ff87f4c107d0cfe0b1f6296c6f90f5fe0d5bd186545b03eb9b7ecb7eba6",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw",
+    "summary": "研究分析7.3万条Reddit帖，用价值敏感设计识别AI代理使用中的21种人类价值，聚类于操作自主性、可审查性等六大维度，而非代理输出。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.22067v1",
+    "publishedAt": "2026-09-18T17:55:09+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Users increasingly delegate work to autonomous AI agents, yet evaluations typically measure task completion rather than the values users prioritize. Using Value Sensitive Design, we analyzed, with LLM assistance, 73,093 first-person Reddit posts about using OpenClaw, each for its human value, agent aspect, value fulfillment, and user outcome. The 21 values form six value groups, including Autonomous, Dependable, and Affordable Operation, Bounded Reach, Reviewability, and Equitable Access. Relative to each aspect's corpus share, values clustered not at the agent's outputs but at the operating conditions users set around a run. Values were usually met where users described what the agent delivered, in five of six groups, and mostly unmet where users described supervising it, in all six groups. We conceptualize this pattern as value-sensitive delegation. Supporting human values requires attention not only to what an agent accomplishes, but to the conditions users set around delegation, including cost, access, and oversight."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Renkai Ma, Ruyuan Wan, Xuan Lu et al.",
+      "categories": [
+        "cs.HC",
+        "cs.AI"
+      ]
+    }
+  },
+  "3741115020eae29640acceadec1955388e9920ce0f86c9e939caaf521aa273e2": {
+    "id": "3741115020eae29640acceadec1955388e9920ce0f86c9e939caaf521aa273e2",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings",
+    "summary": "BrainWideBench是首个面向跨动物迁移的多脑区神经记录基准，基于IBL Brainwide Map数据集，推动通用神经表征研究。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.22064v1",
+    "publishedAt": "2026-09-18T17:54:32+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Advances in large-scale neural recording have made it possible to collect data across many animals and distributed brain regions, raising the question of whether this scale can be exploited to learn general-purpose neural representations transferable across diverse downstream tasks. Yet, progress toward this goal has been limited by fragmented evaluation protocols and a narrow focus on individual task domains. Here, we present BrainWideBench, a benchmark for evaluating across-animal transfer on multi-region neural recordings, built on the International Brain Laboratory Brainwide Map dataset of neural and behavioral recordings spanning 276 brain regions from 139 mice performing a sensory-guided decision-making task. The benchmark is organized around three complementary task suites that evaluate whether learned representations support downstream decoding of behavior, can predict masked or future neural activity, and can recover biologically meaningful anatomical organization. With this benchmark, we systematically evaluate pretraining methods across transfer settings, including finetuning on downstream objectives and zero-shot generalization to unseen animals. Our results confirm pretraining improves performance over matched single-session baselines, but we show current methods exhibit heterogeneity in transfer capabilities: gains depend strongly on the alignment between pretraining objectives and downstream tasks. No single approach performs uniformly well across all three suites, and most methods are designed to only address a subset of them. Together, these findings suggest that learning representations that jointly generalize across behavior, dynamics, and anatomy remains an open challenge. By providing a unified and reproducible evaluation suite, BrainWideBench establishes a framework for measuring progress toward general-purpose models of the mouse brain."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Alexandre Andre, Shivashriganesh P. Mahato, Vinam Arora et al.",
+      "categories": [
+        "cs.LG",
+        "q-bio.NC"
+      ]
+    }
+  },
+  "eb3c9e847a574627ecc3da93690361b9fc239a89d99e73bc4388aa586dd8a432": {
+    "id": "eb3c9e847a574627ecc3da93690361b9fc239a89d99e73bc4388aa586dd8a432",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Predictable Failure in Multi-Hop Retrieval: Score-Distributional Confidence Scoring and Abstention",
+    "summary": "研究发现多跳检索失败呈结构性聚集，提出基于分数分布的置信度评分与拒答机制；证明了“自信失败可约性”与“特征范式互补性”两大理论结果。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.22056v1",
+    "publishedAt": "2026-09-18T17:48:15+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Multi-hop retrieval failures are not uniformly distributed across queries: they cluster in structurally predictable subpopulations. We prove two results formalizing this structure. First (CWAR Reducibility): confident-failure reduction is achievable if and only if retrieval features carry mutual information about success, a condition satisfied by LLM-judge pipelines but substantially weaker in dense-only settings, explaining the AUC-AC gap between regimes. Second (Feature Regime Complementarity): no single ANN score feature achieves best predictive performance across all failure regimes; the dominant feature differs between datasets (query length on MuSiQue, hop-1 concentration on HoVer), and a constructive witness pair shows each is necessary in one regime and non-contributory in the other. We instantiate these principles in RegimeAbstain, which computes a Retrieval Confidence Score (RCS), a logistic function of up to nine query-ANN structural features, all available without any additional LLM call, and uses it to implement a calibrated abstention policy. We define the Confident-Wrong-Answer Rate (CWAR) metric and evaluate across three multi-hop benchmarks (MuSiQue, 2WikiMultiHopQA, HoVer) and two retrieval architectures (LLM-judge and dense-only), covering five failure regimes with CWAR from 14.5% to 62.1%. RCS achieves best or co-best AUC-AC in all five conditions against eight confidence baselines. On MuSiQue (LLM-judge), RCS reduces CWAR from 39.5% to 20.6% at 50% coverage (47.8% relative reduction), with ECE=0.035. A model trained on MuSiQue transfers to 2WikiMultiHopQA with only -0.5pp AUC loss, confirming the domain-agnostic structure of regime features."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Andre Bacellar",
+      "categories": [
+        "cs.IR",
+        "cs.CL",
+        "cs.LG"
+      ]
+    }
+  },
+  "f4e33a97c17af356ee90af9d1fbf444bbca6f91af2f5bee7b6bd0def05952952": {
+    "id": "f4e33a97c17af356ee90af9d1fbf444bbca6f91af2f5bee7b6bd0def05952952",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Benchmarking World Models for Continual Learning on Compositional Tasks",
+    "summary": "该论文提出新基准，评估世界模型在组合任务中的持续学习能力，强调知识复用与快速适应新任务的双重指标。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.22055v1",
+    "publishedAt": "2026-09-18T17:46:28+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "A desirable property of a world model is the ability to learn continually across tasks, adapting to new environments without forgetting what the agent has already learnt. In particular, the ability to retain and reuse knowledge obtained from prior experiences underpins an agent's ability to efficiently adapt to novel environments, as the dynamics of the physical world can often be described in recurring mechanisms. However, the world model's measure of adaptation entangles two abilities: the speed and capacity to learn unseen tasks, and the reuse of knowledge already acquired, since incoming tasks carry novel content alongside what recurs. In order to isolate knowledge reuse from prior experiences, we propose a compositional continual learning benchmark for world models in robot manipulation. Specifically, we design each task curriculum with compositional tasks that combine aspects of the tasks seen in the sequence. We further factorise this composition along the axes of action and perception to better understand how different input modalities bottleneck knowledge reuse. We evaluate state-of-the-art world models under canonical continual learning methods, alongside a modular world model whose dynamics backbone contains explicitly reusable components. Results show that modularity balances reuse against forgetting better than conventional methods, but none solve the problem fully, leaving clear room for continual world models built to reuse without forgetting. More details are available on our project website: https://object814.github.io/Compositional-Continual-Learning/."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Haoyu Zhou, Joe Watson, Anson Lei et al.",
+      "categories": [
+        "cs.LG",
+        "cs.RO"
+      ]
+    }
+  },
+  "84618719c8c722944b7a1f81e7959341b389531b12210157ec85ffaf6759c622": {
+    "id": "84618719c8c722944b7a1f81e7959341b389531b12210157ec85ffaf6759c622",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise",
+    "summary": "提出PCC+GCN框架，利用粒子竞争合作（PCC）在GCN训练前进行图标签净化，识别并修正可疑标签，提升噪声下鲁棒性。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.22053v1",
+    "publishedAt": "2026-09-18T17:46:08+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Graph Convolutional Networks (GCNs) are highly sensitive to label noise, since corrupted supervision can propagate through the graph and degrade learned node representations. This work proposes PCC+GCN, a hybrid framework that uses Particle Competition and Cooperation (PCC) as a graph-based label-refinement stage before GCN training. PCC identifies suspicious labeled nodes through particle domination dynamics and determines whether their labels should be preserved, removed, or reassigned before GCN training. The framework also allows the graph used by PCC to be augmented with feature-based $k$-nearest-neighbor edges, while the GCN itself is trained on the original graph structure and node features. The proposed method was evaluated on ten graph datasets from the NoisyGL benchmark under conventional Uniform, Pair, and Random label noise, as well as under instance-dependent label noise. A detailed hyperparameter analysis was also conducted on Cora, CiteSeer, and PubMed. Under conventional noise, PCC+GCN achieved the highest overall average accuracy and the best average rank among the evaluated methods, with an average gain of $1.67$ percentage points over the baseline GCN across the clean setting and all noisy scenarios. Under instance-dependent noise, PCC+GCN remained competitive with the best-performing robust methods while requiring substantially lower execution time, being the fastest robust method on eight of the ten datasets. The results indicate that PCC-based label refinement provides an effective and computationally efficient preprocessing strategy for improving GCN robustness under noisy supervision."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Fabricio Breve",
+      "categories": [
+        "cs.LG"
+      ]
+    }
+  },
+  "d6bbdea6777263fa9c982c9ec51ca3cd951a1be38b4269a24cd913d2b9c830d7": {
+    "id": "d6bbdea6777263fa9c982c9ec51ca3cd951a1be38b4269a24cd913d2b9c830d7",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Available Guardrails: Certifying Selective Prediction across ML Systems",
+    "summary": "论文提出“可用护栏”方法，量化ML系统中选择性预测的可认证性，解决因数据有限导致某些子群无法满足目标精度认证的难题。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.22048v1",
+    "publishedAt": "2026-09-18T17:36:52+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "A selective predictor acts as a safety gate: it returns an output only when the prediction appears sufficiently trustworthy. Deployments increasingly require this reliability to be certified at a target precision for every reporting unit of interest, such as a tool, policy label, or patient subgroup. The main difficulty is often not whether a granted certificate is valid, but whether finite calibration data can produce one at all. As the gate becomes safer or more fine-grained, some units may receive too little evidence to certify. We make this notion of availability computable through classical exact-binomial inversion and formulate reporting-partition selection, under a fixed group order, as a dynamic program that exposes the trade-off among safety, granularity, and served traffic. The resulting frontier reveals a large population opportunity that finite-sample estimation nearly erases: a truth-informed planner gains $0.157$ mean coverage over support balancing, whereas a naive estimator recovers only $0.005$, making recovery from finite data the central challenge. Constructing candidate partitions on one planning split and selecting among them on another recovers part of this gap, improving mean coverage over support balancing by $0.060$, with the direction reproduced in $59$ of $60$ model effects across three intent-routing datasets and two architectures. A complementary validity-preserving lever, reallocating the familywise error budget across reporting units, recovers additional coverage both with population quantities and noisy estimates. The same frontier recurs, with predictor-specific ceilings, across LLM tool-calling, content moderation, lesion classification, and recommendation. Certified availability is therefore a plannable deployment resource that determines when a safety gate can be certified, at what granularity, and over how much traffic."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Parivesh Priye, Yufeng Wang, Haibin Ling et al.",
+      "categories": [
+        "cs.LG"
+      ]
+    }
+  },
+  "61faaa3f57cbb35927d3c7f1c335e9f6b0ef8647876bf70b4db170d57359577e": {
+    "id": "61faaa3f57cbb35927d3c7f1c335e9f6b0ef8647876bf70b4db170d57359577e",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "An Interpretable Memory Decision Controller for LLM Agents Based on Three-Signal Complementarity: Decoupling Confidence and Consistency",
+    "summary": "提出基于三信号互补的可解释记忆决策控制器，解耦置信度与一致性，显著降低RAG在冲突记忆下的幻觉率。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.22043v1",
+    "publishedAt": "2026-09-18T17:34:13+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Memory systems for large language models have focused predominantly on efficient retrieval, whereas the decision of whether retrieved memories should be trusted has received comparatively little attention. When the memory store contains conflicting positions, standard retrieval-augmented generation (RAG) blindly injects memories and amplifies hallucinations: in models susceptible to memory injection, the RAG hallucination rate under conflicting memories is markedly higher than that of a memory-free baseline. Inspired by memory signaling mechanisms in the prefrontal cortex, we propose the Memory Decision Layer (MDL), a zero-parameter memory decision controller situated between the retrieval and generation stages. Its core is a three-signal complementary encoder that fuses relevance, reliability, and task risk through QR-based orthogonal subspace projection and a meta-working-memory signal into an interpretable decision representation that quantifies the trustworthiness of retrieved memories. Building on this encoder, MDL explicitly decouples confidence from consistency and introduces risk inversion and explicit abstention. Evaluations on mainstream large language models and multiple open-source datasets show that MDL reduces the hallucination rate under conflicting memories by about 56.04% in general scenarios and approaches zero hallucination in high-risk scenarios. The controller is fully white-box: it relies purely on geometric operations, requires no trained parameters, and adds only about 0.14 ms per decision -- roughly 50x faster than the embedding-retrieval step that precedes it and four to five orders of magnitude faster than an LLM self-evaluation call."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Yiming Zhang, Jinghong Zhang, Haoran Zhao et al.",
+      "categories": [
+        "cs.CL"
+      ]
+    }
+  },
+  "bc61758c19a459130b05242d9cc1c5ee8764b78e05f2ff662ecde9d1e11cd65c": {
+    "id": "bc61758c19a459130b05242d9cc1c5ee8764b78e05f2ff662ecde9d1e11cd65c",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "$λ$-Controlled GRPO: Turning Flow-Matching Ratio Instability into a Budgeted Resource",
+    "summary": "论文提出λ-Controlled GRPO方法，解决Flow-GRPO在多步去噪中重要性比率不稳定、分散及裁剪不一致等问题，提升流匹配模型的奖励对齐训练稳定性。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.22041v1",
+    "publishedAt": "2026-09-18T17:33:38+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Reinforcement learning is increasingly used to align image generators with reward signals, and Flow-GRPO recently extended this paradigm to flow-matching models by treating the denoising sampler as a stochastic policy that can be optimized from reward feedback. Training in this setting is unstable in a way specific to multi-step denoising: the policy update changes systematically across denoising steps, with importance ratios drifting below one, becoming increasingly dispersed, clipping at different rates, and leaving fewer usable samples late in training. Prior work treats these effects as separate failure modes and addresses each with a hand-tuned stabilizer. We show instead that they arise from a single per-step quantity, which we call path variance. This quantity is determined exactly by the sampler's Gaussian transition kernel and can be estimated cheaply during training. This reframes instability as a resource that can be measured and budgeted rather than a collection of symptoms to repair. Our method, $λ$-Controlled GRPO, calibrates importance-ratio behavior from this predicted law rather than from noisy empirical statistics, and allocates gradient effort across denoising steps according to their predicted cost. The two scales governing the update are fixed by standard policy choices rather than introduced as free tuning parameters. On a text-to-image model under two reward settings, rendering difficult target text scored by optical character recognition and matching human preferences scored by a preference model, $λ$-Controlled GRPO improves both text accuracy and preference reward over the strongest empirical stabilizer. It also keeps late-step path variance within its intended budget, precisely where the baseline systematically overshoots. The result is a Flow-GRPO update calibrated by its own transition law rather than stabilized after instability appears."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Yufeng Wang, Parivesh Priye, Meeshawn Marathe et al.",
+      "categories": [
+        "cs.LG"
+      ]
+    }
+  },
+  "88fcd4cd00d0a9c7b5c64b916909590918ceb5d84025f7cca8b3b8d9d63cdb61": {
+    "id": "88fcd4cd00d0a9c7b5c64b916909590918ceb5d84025f7cca8b3b8d9d63cdb61",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Gricea: An Open Science Platform for Conversational AI Research",
+    "summary": "Gricea是面向对话AI研究的开源科学平台，将研究转化为可配置、可部署、可复用的实验构件，支持可复现与知识积累。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.22039v1",
+    "publishedAt": "2026-09-18T17:31:05+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "We need studies on conversational AI (CAI) at scale to understand human behavior and shape CAI design. However, fragmented reporting of systems and study configurations hinders replication, extension, and knowledge accumulation. We present Gricea, an open-science platform representing studies as configurable, deployable research artifacts that researchers can run, inspect, share, and reuse. Informed by a formative analysis of prior CAI research, Gricea couples study procedures, participant-facing systems, and conversational task behavior in. In a replication study using Gricea, we replicated configurations 93% of eligible CUI 2026 papers; while also flagging missing information in 96% of papers that hinder faithful replication --- further motivating Gricea's need. In a user study, researchers and practitioners from diverse backgrounds successfully constructed runnable studies addressing various open-ended research questions. Together, these findings demonstrate Gricea's support for constructing, reproducing, and extending CAI studies through shared research artifacts, enabling cumulative knowledge building through open science."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Nikhil Sharma, Yunlin Gong, Xinyang Cheng et al.",
+      "categories": [
+        "cs.HC",
+        "cs.AI"
+      ]
+    }
+  },
+  "81dcb672c2c78aba5e2682d00ce25b8b74131e398e5dda6000aa1e0068eb2c48": {
+    "id": "81dcb672c2c78aba5e2682d00ce25b8b74131e398e5dda6000aa1e0068eb2c48",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "QuranicMMLU: A Cognitively-Aware Benchmark for Evaluating Generative AI Solutions on Quranic Linguistic Knowledge",
+    "summary": "QuranicMMLU：新基准，涵盖语音、形态、句法等5大语言维度、31个细项，评估AI对古兰经阿拉伯语的理解能力。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.22038v1",
+    "publishedAt": "2026-09-18T17:30:27+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "We introduce QuranicMMLU, a benchmark for evaluating generative AI on Quranic Arabic across multiple dimensions of linguistic complexity. Existing Quranic benchmarks center on general question answering and semantic retrieval, without probing specific linguistic competencies or stratifying by cognitive demand and verse difficulty. We construct a five-pillar Quranic taxonomy spanning Phonology, Morphology, Syntax, Semantics, and Pragmatics, with 31 leaves covering phenomena from tajwīd and root-and-pattern morphology to occasions of revelation and inter-surah coherence. For each leaf we generate questions stratified by Bloom's cognitive level and verse perplexity, then have LLM as a judge to independently answer and score every item and route the annotations to manual review. The resulting dataset comprises 980 human-reviewed questions, each issued in both open-ended and multiple-choice form. We benchmark 12 systems on these items and find that the Islamic-specialized model leads, yet every system scores higher on multiple-choice accuracy (average 84%) than open-ended answer quality (average 60%): the two rankings agree closely (Kendall's τ=0.73), but multiple-choice scoring hides failures that surface only once answer choices are removed. QuranicMMLU thus offers a rigorous, linguistically grounded framework for evaluating Arabic NLP in the Quranic domain."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Rawan El Ghali, Umm Kulsoom, Anas Madkoor et al.",
+      "categories": [
+        "cs.CL"
+      ]
+    }
+  },
+  "c65c9b169d02929c9cc3ecff725f8817fc3ef42a16f8a5142df4c498dc2a7bbb": {
+    "id": "c65c9b169d02929c9cc3ecff725f8817fc3ef42a16f8a5142df4c498dc2a7bbb",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "COMPLEX: A Closed-Form Certified Embedding of Multiparameter Persistence Modules",
+    "summary": "COMPLEX提出首个带双向Lipschitz保证的多参数持久同调嵌入方法，闭式可计算、无需训练，在Orbit5k数据集100%验证对满足见证切片一致性条件。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.22012v1",
+    "publishedAt": "2026-09-18T17:08:41+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Every multiparameter persistence vectorization we know of carries a one-sided Lipschitz upper bound and nothing below it: without a lower gauge there is no sense in which the features are faithful, and no per-prediction guarantee can be built on them. This paper supplies the missing side. COMPLEX is a closed-form, training-free embedding of multiparameter modules -- slice the module along a fixed near-diagonal net, embed each slice barcode by the certified PLACE/PALACE landmark map, concatenate. Under a checkable witnessing-slice coherence condition, holding on 100% of audited pairs on Orbit5k, a single slice carries a closed-form lower gauge: separated modules stay separated in the embedding. With the standard upper bound this gives, to our knowledge, the first two-sided distortion bound for a multiparameter feature map, making faithfulness measurable. Measuring it, we find the floor tight within a small factor of realized distances yet operationally local: an RBF-SVM reaches 91% where 1-NN reaches 78% on the same features. Local per-prediction certification therefore fails for a structural reason common to every landmark embedding whose lower gauge is witnessed by one coordinate. With no learned embedding and no held-out calibration -- only a cross-validated SVM head -- COMPLEX sets the state of the art on both Orbit benchmarks (91.95% on Orbit5k, 92.98% on Orbit100k), level with or above Euler-characteristic surfaces and above transformers and graphcode. On graphs it exceeds GRIL on all four shared molecular benchmarks with one fixed configuration, including the only multiparameter method to clear COX2's majority baseline by more than three points. Closed-form selection -- of the landmark radius, the kernel (certificate-preserving), and the bifiltration set -- buys further accuracy; gradient-shaped adaptation buys none."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Sushovan Majhi, Atish Mitra, Žiga Virk et al.",
+      "categories": [
+        "cs.LG",
+        "math.AT"
+      ]
+    }
+  },
+  "e4f087ed46bb3f3fc731f51b833b32632c64ad94d621f00418ae0779277d3b01": {
+    "id": "e4f087ed46bb3f3fc731f51b833b32632c64ad94d621f00418ae0779277d3b01",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "DiaVLo: Diagnosing Behaviours of Vision-Language Models",
+    "summary": "DiaVLo是新型视觉-语言模型（VLM）诊断框架，结合人工标注与模型生成能力，构建行为规范并识别偏差，还提供因果分析定位关键影响概念。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.22008v1",
+    "publishedAt": "2026-09-18T17:06:44+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Vision-language models (VLMs) rely on storing and transferring appropriate information across their sub-components. Verifying that the VLMs exhibit desired behaviours, while avoiding harmful ones, is central to their reliable deployment. Yet, methods that identify VLM behaviours remain scarce. We present DiaVLo, a diagnostic framework that leverages human curation and VLMs' generation capabilities to construct specifications of desired and observed VLM behaviours, surfacing potential misalignments. Beyond this, DiaVLo also provides causal estimates to identify the most influential concepts steering VLM behaviours. We evaluate DiaVLo on several open-source VLMs under both classification and generation conditions. Our experiments show that DiaVLo produces behaviour labels that correlate with model performance and provide context for measured performance. DiaVLo surfaced behaviours that are clearly aligned and misaligned, alongside patterns in how VLMs perceive, organise, and prioritise concepts."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Lorenzo Corti, Jie Yang",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ]
     }
   }
 }
