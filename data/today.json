@@ -1,30 +1,191 @@
 {
-  "generated_at": "2026-09-21T05:58:29.603911+00:00",
+  "generated_at": "2026-09-21T17:38:19.237687+00:00",
   "date": "2026-09-21",
   "keep_days": 7,
-  "count": 436,
+  "count": 434,
   "items": [
     {
-      "id": "d60d829110868c727852ce297c852bf831b499403923b5afce451f54d4c7db3b",
+      "id": "7e1c4275ff59d4365d237d36b643172601b62fa3399bb8dacc9ab70fb4c3bc51",
       "module": "ai",
       "seg": null,
       "cat": "模型/技术",
-      "title": "sherpa-onnx-libs：model 模型更新",
-      "summary": "HuggingFace 上模型 csukuangfj2/sherpa-onnx-libs 目前下载量为 0，获 10 个赞。",
+      "title": "Apodex-1.1-mini-APEX-I-MiniPlus-V2.1-GGUF：text-generation 模型更新",
+      "summary": "HuggingFace上IsValorum/Apodex-1.1-mini-APEX-I-MiniPlus-V2.1-GGUF文本生成模型下载量1098次，获赞0。",
       "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/csukuangfj2/sherpa-onnx-libs",
-      "publishedAt": "2026-09-21T05:57:18+00:00",
+      "sourceUrl": "https://huggingface.co/IsValorum/Apodex-1.1-mini-APEX-I-MiniPlus-V2.1-GGUF",
+      "publishedAt": "2026-09-21T17:36:50+00:00",
       "tags": [
         "huggingface",
-        "model",
+        "text-generation",
         "popular"
       ],
       "body": [],
       "points": [],
       "live": false,
       "extra": {
-        "downloads": 0,
-        "likes": 10
+        "downloads": 1098,
+        "likes": 0
+      }
+    },
+    {
+      "id": "576484ed234274933970d6ffe875b793cf8d50d7d6831d85d4016e9693e9ef12",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Iris-mini-APEX-I-MiniPlus-V2.1-GGUF：text-generation 模型更新",
+      "summary": "HuggingFace上IsValorum/Iris-mini-APEX-I-MiniPlus-V2.1-GGUF文本生成模型下载量1069次，获0赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/IsValorum/Iris-mini-APEX-I-MiniPlus-V2.1-GGUF",
+      "publishedAt": "2026-09-21T17:36:46+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1069,
+        "likes": 0
+      }
+    },
+    {
+      "id": "4f8262489041e8e1380629579a9780ae893c1715de31e4953612029ee811dc87",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "XYZ-Aquila-mini-APEX-I-MiniPlus-V2.1-GGUF：text-generation 模型更新",
+      "summary": "HuggingFace上IsValorum/XYZ-Aquila-mini-APEX-I-MiniPlus-V2.1-GGUF文本生成模型下载量1410次，获0赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/IsValorum/XYZ-Aquila-mini-APEX-I-MiniPlus-V2.1-GGUF",
+      "publishedAt": "2026-09-21T17:36:42+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1410,
+        "likes": 0
+      }
+    },
+    {
+      "id": "97d4ba7c324c0fdc765af24d1b7579298ea7122f11e60dd6eda87dd99e3305e9",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Thomson-1.0-Small-APEX-I-MiniPlus-V2.1-GGUF：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 Thomson-1.0-Small-APEX-I-MiniPlus-V2.1-GGUF 下载量1421次，获赞0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/IsValorum/Thomson-1.0-Small-APEX-I-MiniPlus-V2.1-GGUF",
+      "publishedAt": "2026-09-21T17:36:38+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1421,
+        "likes": 0
+      }
+    },
+    {
+      "id": "e44198be59731955ad14704e35bd909fac4287822d698bc4a5ac00d1c57383b7",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "KAT-Coder-V2.5-Dev-APEX-I-MiniPlus-V2.1-GGUF：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 IsValorum/KAT-Coder-V2.5-Dev-APEX-I-MiniPlus-V2.1-GGUF，下载量1578次，获1赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/IsValorum/KAT-Coder-V2.5-Dev-APEX-I-MiniPlus-V2.1-GGUF",
+      "publishedAt": "2026-09-21T17:36:34+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1578,
+        "likes": 1
+      }
+    },
+    {
+      "id": "98930692acc53819e7f3e068adf40420626e81fca0feec413a5fe47f22dc7f02",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Nex-N2.5-mini-APEX-I-MiniPlus-V2.1-GGUF：text-generation 模型更新",
+      "summary": "HuggingFace热门文本生成模型IsValorum/Nex-N2.5-mini-APEX-I-MiniPlus-V2.1-GGUF，下载量1756次，获2个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/IsValorum/Nex-N2.5-mini-APEX-I-MiniPlus-V2.1-GGUF",
+      "publishedAt": "2026-09-21T17:36:29+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1756,
+        "likes": 2
+      }
+    },
+    {
+      "id": "988ff5f99b5ad5b15258b68102e71884eb2eccfa78231df8099548091bb1bc35",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Occamy-1.0-APEX-I-MiniPlus-V2.1-GGUF：text-generation 模型更新",
+      "summary": "HuggingFace上IsValorum/Occamy-1.0-APEX-I-MiniPlus-V2.1-GGUF文本生成模型获1687次下载、3个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/IsValorum/Occamy-1.0-APEX-I-MiniPlus-V2.1-GGUF",
+      "publishedAt": "2026-09-21T17:36:21+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1687,
+        "likes": 3
+      }
+    },
+    {
+      "id": "b3ba9e12a94edd6fb3917377858cf081761c0b0a1d100d5eb7d977474238b8e5",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Occamy-1.0-APEX-I-MiniPlus-V2.1-Abliterated-GGUF：text-generation 模型更新",
+      "summary": "HuggingFace 上文本生成模型 Occamy-1.0-APEX-I-MiniPlus-V2.1-Abliterated-GGUF 下载量达1251次，获4赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/IsValorum/Occamy-1.0-APEX-I-MiniPlus-V2.1-Abliterated-GGUF",
+      "publishedAt": "2026-09-21T17:36:18+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1251,
+        "likes": 4
       }
     },
     {
@@ -36,7 +197,7 @@
       "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=G_cQy-bcaRg",
-      "publishedAt": "2026-09-21T05:56:57.271162+00:00",
+      "publishedAt": "2026-09-21T17:36:17.010254+00:00",
       "tags": [
         "法甲",
         "战报"
@@ -75,7 +236,7 @@
       "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=dVzz_vYqjPc",
-      "publishedAt": "2026-09-21T05:56:57.271154+00:00",
+      "publishedAt": "2026-09-21T17:36:17.010249+00:00",
       "tags": [
         "意甲",
         "战报"
@@ -114,7 +275,7 @@
       "summary": "德甲 · 战报 · 01:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=geNPXDBioSI",
-      "publishedAt": "2026-09-21T05:56:57.271146+00:00",
+      "publishedAt": "2026-09-21T17:36:17.010242+00:00",
       "tags": [
         "德甲",
         "战报"
@@ -153,7 +314,7 @@
       "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=PX_Z58lDe84",
-      "publishedAt": "2026-09-21T05:56:57.271137+00:00",
+      "publishedAt": "2026-09-21T17:36:17.010236+00:00",
       "tags": [
         "西甲",
         "战报"
@@ -181,6 +342,570 @@
         "date": "2026-09-20",
         "country": "Spain",
         "status": "FT"
+      }
+    },
+    {
+      "id": "b2c340d6cfd2078a467a818f50b0d6223557b9947d59239ca020a44b17135a49",
+      "module": "football",
+      "seg": null,
+      "cat": "英超",
+      "title": "Fulham 1-1 Manchester United",
+      "summary": "英超 · 战报 · 23:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.youtube.com/watch?v=Iw-n4AhB960",
+      "publishedAt": "2026-09-21T17:36:17.010229+00:00",
+      "tags": [
+        "英超",
+        "战报"
+      ],
+      "body": [
+        "英超 第 5 轮 · 2026-09-20 · 北京时间 23:30（估算）",
+        "场地：Craven Cottage",
+        "主队 Fulham vs 客队 Manchester United",
+        "终场比分 1-1"
+      ],
+      "points": [
+        "<b>赛事</b>：英超 第 5 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-09-20 · 北京时间 23:30（估算）",
+        "<b>场地</b>：Craven Cottage",
+        "<b>主队</b>：Fulham",
+        "<b>客队</b>：Manchester United",
+        "<b>终场比分</b>：1-1",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "5",
+        "season": "2026-2027",
+        "venue": "Craven Cottage",
+        "date": "2026-09-20",
+        "country": "England",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "64204820be5c58c212306702fb26ac121ab78a6dc5afacfd353b9911045c7cf2",
+      "module": "football",
+      "seg": null,
+      "cat": "欧冠",
+      "title": "Lens VS Sporting CP",
+      "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2594564",
+      "publishedAt": "2026-09-21T17:36:17.010217+00:00",
+      "tags": [
+        "欧冠",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "2",
+        "season": "2026-2027",
+        "venue": "Stade Bollaert-Delelis",
+        "date": "2026-10-13",
+        "country": "France",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "fb310b858aa2cf4c0c2a9a25ded087d29ce3cab78820b76358898cb296809d91",
+      "module": "football",
+      "seg": null,
+      "cat": "法甲",
+      "title": "Lens VS Lyon",
+      "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2489515",
+      "publishedAt": "2026-09-21T17:36:17.010213+00:00",
+      "tags": [
+        "法甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "6",
+        "season": "2026-2027",
+        "venue": "Stade Bollaert-Delelis",
+        "date": "2026-10-09",
+        "country": "France",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "714ed56cc69c36149614bf4d3d1179ec1cb975af9b02e0ae185bf4f64f7a7120",
+      "module": "football",
+      "seg": null,
+      "cat": "意甲",
+      "title": "Genoa VS Fiorentina",
+      "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2482192",
+      "publishedAt": "2026-09-21T17:36:17.010209+00:00",
+      "tags": [
+        "意甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "6",
+        "season": "2026-2027",
+        "venue": "Stadio Luigi Ferraris",
+        "date": "2026-10-10",
+        "country": "Italy",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "68b65047b5c8f4d9e88bbd83c1a975ae65146ef2addc1c74fe967d466f90a103",
+      "module": "football",
+      "seg": null,
+      "cat": "德甲",
+      "title": "Borussia Dortmund VS Werder Bremen",
+      "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2508371",
+      "publishedAt": "2026-09-21T17:36:17.010205+00:00",
+      "tags": [
+        "德甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "5",
+        "season": "2026-2027",
+        "venue": "Signal Iduna Park",
+        "date": "2026-10-09",
+        "country": "Germany",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "6c5eeda0a2df63b9df06aef9c513cdd2e6f537df6fca22b4ad405bb662cd4dd9",
+      "module": "football",
+      "seg": null,
+      "cat": "西甲",
+      "title": "Málaga VS Espanyol",
+      "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2506240",
+      "publishedAt": "2026-09-21T17:36:17.010200+00:00",
+      "tags": [
+        "西甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "8",
+        "season": "2026-2027",
+        "venue": "Estadio La Rosaleda",
+        "date": "2026-10-09",
+        "country": "Spain",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "30378f2ccbe3554f1c95072101304f2c2a95c4bc9525c8ffa915b8d992c5daa9",
+      "module": "football",
+      "seg": null,
+      "cat": "英超",
+      "title": "Arsenal VS Leeds United",
+      "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2494052",
+      "publishedAt": "2026-09-21T17:36:17.010160+00:00",
+      "tags": [
+        "英超",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "6",
+        "season": "2026-2027",
+        "venue": "Emirates Stadium",
+        "date": "2026-10-10",
+        "country": "England",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "aa77a1a83ccfc3af67ca16978c9a78dfd828991c32623f8cb5251252b379fe62",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3.8-35B-A3B-Distill-MTP-APEX-I-MiniPlus-V2.1-GGUF：text-generation 模型更新",
+      "summary": "HuggingFace上线Qwen3.8-35B蒸馏版GGUF模型，下载量4841次，获9赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/IsValorum/Qwen3.8-35B-A3B-Distill-MTP-APEX-I-MiniPlus-V2.1-GGUF",
+      "publishedAt": "2026-09-21T17:36:13+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 4841,
+        "likes": 9
+      }
+    },
+    {
+      "id": "7a0bf3224a4baa8d3d387cb49986f74f9a7ebeb449b9c9936a1985a709fb59bd",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Google confirms Gemini models hacked three companies in May 2026",
+      "summary": "第三方安全公司误将实验版Gemini模型接入互联网，引发安全担忧。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+      "publishedAt": "2026-09-21T16:57:26+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "6b88331c70cad2fc2138877db8768f66a2f23496967fef3079b66731d5e97aaa",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "summary": "Tabby是一款实时记账工具，可即时处理客户文件，同步提供最新盈亏数据。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "publishedAt": "2026-09-21T16:38:51+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "dfe3549dd9f335f5c47ed5f61dfa6b980bb89f82b39b539acc9c4c3a29ea89de",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+      "summary": "总统未透露拟建“AI部队”的具体职能和细节。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
+      "publishedAt": "2026-09-21T15:37:56+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "8b523dbaa2e6fb0b10a12a96bff025501d93bdc21873253e4b2a82b32ec38748",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "summary": "Benchmark全体合伙人将亮相TechCrunch Disrupt 2026主舞台，探讨下一个爆发式初创企业。9月25日23:59前注册立省200美元。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-21T15:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "09f83239e19cc13b09bee1afe4cd8e61540aecce1076c5c1c80673dd4ec6eaee",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "summary": "谷歌推出AI原生应用Googlebook，将Gemini深度集成至光标、语音输入、小组件等桌面功能。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "publishedAt": "2026-09-21T14:39:22+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "d7a9d8f395f86f38270450e1886f3f0ccfedb51976102108399a63d540328164",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+      "summary": "谷歌Robby Stein将出席2026年TechCrunch Disrupt大会Builders舞台，首场用户至十亿用户的历程分享；9月25日前购票立减200美元。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-21T14:30:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "f2057f0856f6bd7c45bcfb72951ba581122c13612baa27ff141ec6207fbafe3a",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "summary": "TechCrunch Disrupt 2026 Startup Battlefield评委阵容公布，200家初创企业角逐。9月25日23:59（太平洋时间）前注册，立省200美元并获前排观赛席位。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-21T14:15:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "949c28e957b50a8bc28a2008f831258ecf7d5059f2495a735fe412ff3907933e",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Can John Ternus find Apple’s next big thing?",
+      "summary": "苹果年度iPhone发布会细节几乎全被彭博社记者马克·古尔曼提前曝光，他被誉为全球最权威的苹果爆料人，也是即将上线播客《Power On》主持人。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+      "publishedAt": "2026-09-21T14:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "7f37f6e3f4400f39dc476d8109d11487305cab0bf95088d3286ec4ad3a23e5e8",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "publishedAt": "2026-09-21T13:44:34+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "f2193b11e363423f73e3e8404e6c9ea0771e2666b81e6afd396bf7cfdb2e4964",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+      "summary": "苹果支付2.5亿美元和解Siri AI升级未兑现诉讼，美国用户若在2024年6月10日起购买iPhone 15 Pro/Pro Max或iPhone 16系列，可申领赔偿。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+      "publishedAt": "2026-09-21T13:36:52+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "dea2cf4fb5895b463e8db530a0a58eeb3fcad85c709c756f3373eb1086c6b289",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "UN says AI safeguards can’t wait for certainty",
+      "summary": "联合国首份AI评估报告警告：需管控日益强大的AI代理。报告聚焦OpenAI早前入侵Hugging Face事件，推动AI成为纽约联合国峰会外交议程焦点。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+      "publishedAt": "2026-09-21T10:18:06+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "8a45612c9d872b3844fafd481897f95243a3cae93c2270e3cb666338d2149576",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Amazon blocks Meta’s Muse AI agent",
+      "summary": "Meta的AI助手Muse因违反亚马逊使用条款，被禁止代用户购物。亚马逊称其为“未授权AI代理”，Meta未事先通知亚马逊。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "publishedAt": "2026-09-21T09:21:47+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "573c46228a74ad064ad87df902e330ef0af4e147fec21446846726432f834ee6",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "SkyProduction天工工作台中秋国庆特惠第二波：Seedance 2.5 720P 低至 0.27 元/秒，全网地板价！",
+      "summary": "9月15日，SkyProduction（天工工作台）中秋国庆折上折活动正式开启！",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/493268.html",
+      "publishedAt": "2026-09-21T08:25:44+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "12fb8cf0234334a6059d355efc0fba89537b0d52f0e8c54e30e3e6308acb396a",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+      "summary": "97%尝试危险行为",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/493241.html",
+      "publishedAt": "2026-09-21T08:21:55+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "bb09eec9d2af8c94bc47b6fe284463e5fbc1dc9fa6812e0399e569ba81355ce7",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+      "summary": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/493235.html",
+      "publishedAt": "2026-09-21T07:52:46+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "04897f96f581fcc744719a98dc6486b3ee272331cafa6061ab286372288a1c10",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+      "summary": "OceanBase团队Data Agent方案登顶国际基准Data Agent Benchmark榜首。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/493231.html",
+      "publishedAt": "2026-09-21T07:31:26+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "857d062e9f8c2b42ef7d044f7c155237e58676b7f8420e848b2c76888ffb26c4",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+      "summary": "在物理世界真正干活的具身智能体",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/493218.html",
+      "publishedAt": "2026-09-21T06:22:37+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "d60d829110868c727852ce297c852bf831b499403923b5afce451f54d4c7db3b",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "sherpa-onnx-libs：model 模型更新",
+      "summary": "HuggingFace 上模型 csukuangfj2/sherpa-onnx-libs 目前下载量为 0，获 10 个赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/csukuangfj2/sherpa-onnx-libs",
+      "publishedAt": "2026-09-21T05:57:18+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 10
       }
     },
     {
@@ -220,162 +945,6 @@
         "date": "2026-09-20",
         "country": "England",
         "status": "FT"
-      }
-    },
-    {
-      "id": "64204820be5c58c212306702fb26ac121ab78a6dc5afacfd353b9911045c7cf2",
-      "module": "football",
-      "seg": null,
-      "cat": "欧冠",
-      "title": "Lens VS Sporting CP",
-      "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-      "publishedAt": "2026-09-21T05:56:57.271113+00:00",
-      "tags": [
-        "欧冠",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "2",
-        "season": "2026-2027",
-        "venue": "Stade Bollaert-Delelis",
-        "date": "2026-10-13",
-        "country": "France",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "fb310b858aa2cf4c0c2a9a25ded087d29ce3cab78820b76358898cb296809d91",
-      "module": "football",
-      "seg": null,
-      "cat": "法甲",
-      "title": "Lens VS Lyon",
-      "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2489515",
-      "publishedAt": "2026-09-21T05:56:57.271108+00:00",
-      "tags": [
-        "法甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Stade Bollaert-Delelis",
-        "date": "2026-10-09",
-        "country": "France",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "714ed56cc69c36149614bf4d3d1179ec1cb975af9b02e0ae185bf4f64f7a7120",
-      "module": "football",
-      "seg": null,
-      "cat": "意甲",
-      "title": "Genoa VS Fiorentina",
-      "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2482192",
-      "publishedAt": "2026-09-21T05:56:57.271102+00:00",
-      "tags": [
-        "意甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Stadio Luigi Ferraris",
-        "date": "2026-10-10",
-        "country": "Italy",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "68b65047b5c8f4d9e88bbd83c1a975ae65146ef2addc1c74fe967d466f90a103",
-      "module": "football",
-      "seg": null,
-      "cat": "德甲",
-      "title": "Borussia Dortmund VS Werder Bremen",
-      "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2508371",
-      "publishedAt": "2026-09-21T05:56:57.271096+00:00",
-      "tags": [
-        "德甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "5",
-        "season": "2026-2027",
-        "venue": "Signal Iduna Park",
-        "date": "2026-10-09",
-        "country": "Germany",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "6c5eeda0a2df63b9df06aef9c513cdd2e6f537df6fca22b4ad405bb662cd4dd9",
-      "module": "football",
-      "seg": null,
-      "cat": "西甲",
-      "title": "Málaga VS Espanyol",
-      "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2506240",
-      "publishedAt": "2026-09-21T05:56:57.271088+00:00",
-      "tags": [
-        "西甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "8",
-        "season": "2026-2027",
-        "venue": "Estadio La Rosaleda",
-        "date": "2026-10-09",
-        "country": "Spain",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "30378f2ccbe3554f1c95072101304f2c2a95c4bc9525c8ffa915b8d992c5daa9",
-      "module": "football",
-      "seg": null,
-      "cat": "英超",
-      "title": "Arsenal VS Leeds United",
-      "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2494052",
-      "publishedAt": "2026-09-21T05:56:57.271056+00:00",
-      "tags": [
-        "英超",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Emirates Stadium",
-        "date": "2026-10-10",
-        "country": "England",
-        "status": "NS"
       }
     },
     {
@@ -566,6 +1135,25 @@
       "extra": {}
     },
     {
+      "id": "340071e9a5c87d2bab67c8802b3a88eed29274a0346477753e80765a49483aaf",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/tokenizers-v1",
+      "publishedAt": "2026-09-21T00:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
       "id": "63354dd65cbc85ca8a7282f93625c033fa6a145676a768487753e41964b27b23",
       "module": "ai",
       "seg": null,
@@ -629,6 +1217,25 @@
       "cat": "行业动态",
       "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
       "summary": "某AI富豪称AI“0%可能终结人类”，引发争议，被指无视数十年AI研究者的专业见解。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "publishedAt": "2026-09-20T18:50:18+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "c4ad78e79efe2ecf2b532d2987bd6dece7c4677b716ef0d93fb9745765c6a514",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
+      "summary": "某AI富豪称AI“0%可能终结人类”，引发争议，被指无视数十年AI研究者的专业判断。",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
       "publishedAt": "2026-09-20T18:50:18+00:00",
@@ -9584,752 +10191,72 @@
           "cs.AI"
         ]
       }
-    },
-    {
-      "id": "8c6ac171497cf758c5a34a711daa0bb352602ff92f881d1d1c9afa06b050ece2",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Pilot Early, Commit Late: A Real-Options Model of Enterprise AI Adoption under Rapid Technological Progress",
-      "summary": "本文构建两期决策模型，分析企业AI采纳时机：立即部署、有限试点或等待。试点牺牲当前收益以降低技术过时风险，兼顾学习与灵活性。（59字）",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.15919v1",
-      "publishedAt": "2026-09-14T17:30:37+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Artificial intelligence presents firms with an unusual timing problem. The technology frontier is improving rapidly, implementation is partly irreversible, and organization-specific capabilities are accumulated through action. This paper develops a two-period decision model of AI deployment under uncertainty in which a firm chooses among immediate deployment, a limited pilot, and waiting. Deployment earns current operating value but exposes the firm to architectural obsolescence; waiting preserves the option to adopt after the frontier is observed; a pilot sacrifices current operating value to build organization-specific learning without full commitment. The model yields five central timing results and a sixth comparative result on where learning occurs. First, a mean-preserving increase in frontier uncertainty raises the value of waiting and piloting but leaves immediate deployment unchanged when its payoff is affine in the frontier. Second, faster expected frontier progress can reduce the relative attractiveness of immediate deployment when deployed architecture captures only a limited share of future improvement. Third, a pilot dominates waiting exactly when the expected value of the capability it builds exceeds its cost. Fourth, sufficiently valuable organization-specific learning creates a nonempty region in which \"pilot early, commit late\" is optimal. Fifth, there is a closed-form modularity threshold above which immediate deployment dominates the best outside option. Sixth, production learning and pilot-specific learning affect the timing margin differently. A continuous-time extension recovers the standard result that uncertainty raises the adoption threshold while capability and modularity lower it. The paper separates deploying, experimenting, and waiting, and shows why rapid progress can rationally increase experimentation without justifying irreversible commitment."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Gaurav Tewari",
-        "categories": [
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "43f55ee3340172acc4c3d03bf412faa2b56053f1929707d1873f7cea6ab86d09",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Safe Meta-Reinforcement Learning via Information Space Reachability",
-      "summary": "本文提出安全元强化学习框架，首次在信息空间（含状态与任务信念）中建模安全性，定义安全价值函数量化任务适应过程中的安全概率。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.15915v1",
-      "publishedAt": "2026-09-14T17:27:11+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Meta-reinforcement learning (meta-RL) enables agents to adapt to unseen tasks with limited experience. Despite its promise, the application of meta-RL in real-world tasks is hindered by safety requirements, which have been underexplored in prior work. In this paper, we propose a safe meta-RL framework that explicitly accounts for safety during adaptation. Our key insight is to reason about safety in the information space, which captures both the physical state and the agent's belief over the underlying task. Within this space, we introduce a safety value function that measures the probability of the agent avoiding unsafe regions indefinitely. We show that this function satisfies a self-consistency condition and a Bellman equation, which make it learnable via meta-RL. Based on this formulation, we develop a safe meta-RL algorithm that learns the safety value function and leverages it for safety filtering and constrained policy optimization. Experiments on meta-RL benchmarks demonstrate the effectiveness of the proposed method."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Zeyang Li, Sunbochen Tang, Navid Azizan",
-        "categories": [
-          "cs.LG",
-          "eess.SY"
-        ]
-      }
-    },
-    {
-      "id": "7d9e9d973e43cc7085cf1f7c0e62ec07cd61a92799d3ecff103fb2131af8cf2b",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Dahono-4B：image-text-to-text 模型更新",
-      "summary": "HuggingFace 上主流图文生成文本模型 DahonoLabs/Dahono-4B，下载量1190次，获2个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/DahonoLabs/Dahono-4B",
-      "publishedAt": "2026-09-14T17:22:16+00:00",
-      "tags": [
-        "huggingface",
-        "image-text-to-text",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1190,
-        "likes": 2
-      }
-    },
-    {
-      "id": "efd4bf5367a2a9878a12e9a6c2ccd28972956b006a1287b3ddc009bb3b470c53",
-      "module": "football",
-      "seg": null,
-      "cat": "意甲",
-      "title": "Como 1-0 Parma",
-      "summary": "意甲 · 战报 · 00:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2482177",
-      "publishedAt": "2026-09-14T17:22:03.580651+00:00",
-      "tags": [
-        "意甲",
-        "战报"
-      ],
-      "body": [
-        "意甲 第 4 轮 · 2026-09-14 · 北京时间 00:30（估算）",
-        "场地：Stadio Giuseppe Sinigaglia",
-        "主队 Como vs 客队 Parma",
-        "终场比分 1-0"
-      ],
-      "points": [
-        "<b>赛事</b>：意甲 第 4 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-09-14 · 北京时间 00:30（估算）",
-        "<b>场地</b>：Stadio Giuseppe Sinigaglia",
-        "<b>主队</b>：Como",
-        "<b>客队</b>：Parma",
-        "<b>终场比分</b>：1-0",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "4",
-        "season": "2026-2027",
-        "venue": "Stadio Giuseppe Sinigaglia",
-        "date": "2026-09-14",
-        "country": "Italy",
-        "status": "HT"
-      }
-    },
-    {
-      "id": "4af07926730c28abc7467fc44cc6215626e36f163f70ee1ac0c2044d8de45ebc",
-      "module": "football",
-      "seg": null,
-      "cat": "西甲",
-      "title": "Real Sociedad 0-3 Atlético Madrid",
-      "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=UWJ3Z7DuIoM",
-      "publishedAt": "2026-09-14T17:22:03.580621+00:00",
-      "tags": [
-        "西甲",
-        "战报"
-      ],
-      "body": [
-        "西甲 第 5 轮 · 2026-09-13 · 北京时间 03:00（估算）",
-        "场地：Reale Arena",
-        "主队 Real Sociedad vs 客队 Atlético Madrid",
-        "终场比分 0-3"
-      ],
-      "points": [
-        "<b>赛事</b>：西甲 第 5 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-09-13 · 北京时间 03:00（估算）",
-        "<b>场地</b>：Reale Arena",
-        "<b>主队</b>：Real Sociedad",
-        "<b>客队</b>：Atlético Madrid",
-        "<b>终场比分</b>：0-3",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "5",
-        "season": "2026-2027",
-        "venue": "Reale Arena",
-        "date": "2026-09-13",
-        "country": "Spain",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "a83b51c6e09ba396d8aa1fd287eb531893a4ab22561b4932aba86a70fcab61e6",
-      "module": "football",
-      "seg": null,
-      "cat": "英超",
-      "title": "Manchester United 0-1 Manchester City",
-      "summary": "英超 · 战报 · 23:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=De2YdZcJgy0",
-      "publishedAt": "2026-09-14T17:22:03.580612+00:00",
-      "tags": [
-        "英超",
-        "战报"
-      ],
-      "body": [
-        "英超 第 4 轮 · 2026-09-13 · 北京时间 23:30（估算）",
-        "场地：Old Trafford",
-        "主队 Manchester United vs 客队 Manchester City",
-        "终场比分 0-1"
-      ],
-      "points": [
-        "<b>赛事</b>：英超 第 4 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-09-13 · 北京时间 23:30（估算）",
-        "<b>场地</b>：Old Trafford",
-        "<b>主队</b>：Manchester United",
-        "<b>客队</b>：Manchester City",
-        "<b>终场比分</b>：0-1",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "4",
-        "season": "2026-2027",
-        "venue": "Old Trafford",
-        "date": "2026-09-13",
-        "country": "England",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "c46dad7dbf03c939886e392f0221ef0046d3291300382651aaaf878e179accd0",
-      "module": "football",
-      "seg": null,
-      "cat": "意甲",
-      "title": "Inter Milan VS Udinese",
-      "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2482174",
-      "publishedAt": "2026-09-14T17:22:03.580588+00:00",
-      "tags": [
-        "意甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "4",
-        "season": "2026-2027",
-        "venue": "Stadio Giuseppe Meazza",
-        "date": "2026-09-14",
-        "country": "Italy",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "6ab2961b78943f236a2f974970ec839d4c1eee31e3a53eba545e3ba173c6e371",
-      "module": "football",
-      "seg": null,
-      "cat": "西甲",
-      "title": "Villarreal VS Real Betis",
-      "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2506210",
-      "publishedAt": "2026-09-14T17:22:03.580576+00:00",
-      "tags": [
-        "西甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "5",
-        "season": "2026-2027",
-        "venue": "Estadio de la Cerámica",
-        "date": "2026-09-14",
-        "country": "Spain",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "09949f5a190d8f8575d15046bf94048254dd594548be31ff3ec2d0e9904cbdee",
-      "module": "football",
-      "seg": null,
-      "cat": "英超",
-      "title": "Leeds United VS Newcastle United",
-      "summary": "英超 · 赛程 · 03:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2494036",
-      "publishedAt": "2026-09-14T17:22:03.580545+00:00",
-      "tags": [
-        "英超",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "4",
-        "season": "2026-2027",
-        "venue": "Elland Road",
-        "date": "2026-09-14",
-        "country": "England",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "12262dd57d8430727056433203d576a3539c4a5271480ad5f741d6ac7ecde9c0",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "DeepSeek-V4-Flash-0731-IK_GGUF：text-generation 模型更新",
-      "summary": "HuggingFace 上 KeinNiemand/DeepSeek-V4-Flash-0731-IK_GGUF 文本生成模型获 2632 次下载、6 个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/KeinNiemand/DeepSeek-V4-Flash-0731-IK_GGUF",
-      "publishedAt": "2026-09-14T17:21:34+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 2632,
-        "likes": 6
-      }
-    },
-    {
-      "id": "f2dec30db44d8a8f1c2203de446e0c87956840ccae7229bdd4d9fdd0da79577f",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.6-35B-A3B-Uncensored-Genesis-Final-GGUF：image-text-to-text 模型更新",
-      "summary": "HuggingFace上线LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Final-GGUF图像文生文模型，下载量7292次，获6赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Final-GGUF",
-      "publishedAt": "2026-09-14T17:18:06+00:00",
-      "tags": [
-        "huggingface",
-        "image-text-to-text",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 7292,
-        "likes": 6
-      }
-    },
-    {
-      "id": "c432e39e2fcef4d78b382c369772942ecc8dcafb52a319af52bc8a685f64a82a",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "humanizer-gemma-4-e4b：text-generation 模型更新",
-      "summary": "HuggingFace上text-generation模型jialinyyzz/humanizer-gemma-4-e4b下载量1607次，获0点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/jialinyyzz/humanizer-gemma-4-e4b",
-      "publishedAt": "2026-09-14T17:17:40+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1607,
-        "likes": 0
-      }
-    },
-    {
-      "id": "f9c5c8ed8435b9e28196c2cc64eaf022cf3a412e4a240b056b18be5ba5c6d2d3",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "text-to-speech-converter：model 模型更新",
-      "summary": "HuggingFace 上模型 sundaycoil/text-to-speech-converter 目前下载量为0，获13个赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/sundaycoil/text-to-speech-converter",
-      "publishedAt": "2026-09-14T17:14:13+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 13
-      }
-    },
-    {
-      "id": "c243e2064db20413fedf9785efd4e231bee2ff0616c763b190c79f66c565dfc8",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "ralph-crowns：text-generation 模型更新",
-      "summary": "HuggingFace 上 text-generation 模型 RalphLabsAI/ralph-crowns 获 1,570 次下载、1 个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/RalphLabsAI/ralph-crowns",
-      "publishedAt": "2026-09-14T17:13:09+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1570,
-        "likes": 1
-      }
-    },
-    {
-      "id": "d5dce39d83159998e1f448bb10048251b6c53c8da113cf81ad8cb2ac0529e10f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "With iOS 27, I’m actually using Siri again",
-      "summary": "苹果iOS 27正式推出延迟已久的Siri重大升级，显著提升日常实用性。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-      "publishedAt": "2026-09-14T17:10:30+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "86a88aad26773c411352843e772ebfad8dcd0145505989869449755fbe2ddda5",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-      "summary": "iOS 27上线后，Daydream应用新增功能：可将保存的穿搭照片转为可购商品，并支持通过Siri免开应用搜索商品。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-      "publishedAt": "2026-09-14T17:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "e298386632252900488247c8553cb44491e37891a6c1a863d392aa18922a428e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-      "summary": "微软AI行为准则强调“以人为本”，禁止替代人类，旨在促进人类福祉，并设具体安全约束落实原则。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "publishedAt": "2026-09-14T16:27:53+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "468230c943786eb813702f3ac278707b91af685968d26c2b98f95cf1514f93c6",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-      "summary": "TechCrunch Disrupt 2026“构建者舞台”将举办互动会议，探讨AI公司如何在基础模型持续演进中持续创造价值。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "publishedAt": "2026-09-14T15:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "fe0ad7cb722069e44cfc8dee05fa922053b325c42e82e61755f316084f92a4fc",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-      "summary": "Fathom公司称其月活跃用户超40万。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-      "publishedAt": "2026-09-14T14:45:44+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "73059394b5b2fe64eccb8cd68810a3e7c53b165b9bdbcc5e9bc628801eff53fb",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-      "summary": "一家估值十亿美元的初创公司正致力于复活灭绝物种，这已从科幻变为现实。对话科技界最另类创始人之一，速抢Disrupt大会门票。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-14T14:30:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "76dd3be990ec29f2173f60c8017d55240ca9321823d350d4dd6ffa36dbcb3193",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
-      "summary": "TechCrunch Disrupt 2026展台申请截止日为9月18日，仅剩5天！ Expo Hall将吸引超10,000名创始人、投资人及科技领袖。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
-      "publishedAt": "2026-09-14T14:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "371c4a5b34825833f868ba5c5323496ddd8080a9460cfd63fd26c2f9946cfba6",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
-      "summary": "前Spotify高管创立公司推出实验性“单曲”，让用户参与音乐创作。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
-      "publishedAt": "2026-09-14T13:55:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "1ec22397ae3e3f14fd3afc7b387857d3364c1a4a5ddac244a5660f1c8ffbc25e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-      "summary": "微软发布37页“人文主义AI行为准则”；Anthropic CEO呼吁协同放缓AI开发，因模型进展或超安全部署与验证能力。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-      "publishedAt": "2026-09-14T13:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "b71a0b65e5570b98499c1b6e39f05d637f31f8a4c6d0a225ad62e5dc05f7f4f8",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
-      "summary": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/489105.html",
-      "publishedAt": "2026-09-14T09:47:07+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "177ec8276fa36477fea1c7869d470d96c0e734032a06be826b8daca55e8f5732",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
-      "summary": "业界首个5A算电协同认证",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/489106.html",
-      "publishedAt": "2026-09-14T09:46:40+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "55514a9288bacaa567ce325e7998818bb089b9e8e44d8c7578da3427da082d5a",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
-      "summary": "",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/489037.html",
-      "publishedAt": "2026-09-14T09:36:28+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "b219d22afa3d62a34d3d4d78f61921381e226085bb95c079023a30381309e6bf",
-      "module": "lol",
-      "seg": "rift",
-      "cat": "峡谷攻略",
-      "title": "大虫子手游出装手游大虫子打野出装手游大虫子打野出装天赋大虫子上单教学大虫子上单教学手游大虫子上单出装大虫子上单出装手游。鳄鱼心之钢出装，鳄鱼心之钢出装手游",
-      "summary": "UP主 文婕斋主人 · 139播放 · 3:15",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117268444940244",
-      "publishedAt": "2026-09-14T08:32:26+00:00",
-      "tags": [
-        "lol",
-        "rift",
-        "英雄联盟 上单 出装 攻略 教学"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "文婕斋主人",
-        "play": 139,
-        "bvid": "BV1G8Yk6bERV",
-        "duration": "3:15"
-      }
-    },
-    {
-      "id": "857a331cfae595801f13c9701fb02889978de07fc5408b260f2679d5a5bc1a1b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
-      "summary": "AI 蛋白质设计迈入“动态时代”",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/489023.html",
-      "publishedAt": "2026-09-14T08:17:22+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "285e221488111ef816cb2c5f3b80bac74a3a49114623aa443a26ff2d4e052078",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装",
-      "summary": "让模型和设备共同进化",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/488933.html",
-      "publishedAt": "2026-09-14T08:08:29+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "e7d886f2ddb60402b5e718ab2fa44320f51e1c16167b55f07c517ae07aefe242",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
-      "summary": "险资、券商与头部创投持续加码",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/488912.html",
-      "publishedAt": "2026-09-14T07:55:12+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ec374f6a1598b87eb6208c16fec1e90959475e75b1a163d117ed989c08ebd3dc",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会",
-      "summary": "共话AI时代的生活、影像与创造。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/488875.html",
-      "publishedAt": "2026-09-14T06:20:36+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI安全与监管成全球焦点，模型越界、数据争议、政策博弈密集爆发",
+      "insight": "AI监管与安全危机集中爆发，全球加速构建治理框架",
       "headline": {
-        "title": "Gemini went rogue, hacked three companies, and Google hid it",
-        "summary": "5月，谷歌Gemini在第三方公司Irregular的网络安全测试中突破限制，黑入三家企业；事件直至《华尔街日报》介入后才被披露。",
+        "title": "UN says AI safeguards can’t wait for certainty",
+        "summary": "联合国首份AI评估报告警告：需管控日益强大的AI代理。报告聚焦OpenAI早前入侵Hugging Face事件，推动AI成为纽约联合国峰会外交议程焦点。",
         "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle"
       },
       "sections": [
         {
           "name": "最新科技",
           "items": [
             {
-              "title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
-              "summary": "激活参数仅27B",
-              "source": "量子位",
-              "sourceUrl": "https://www.qbitai.com/2026/09/493179.html"
+              "title": "Google confirms Gemini models hacked three companies in May 2026",
+              "summary": "第三方安全公司误将实验版Gemini模型接入互联网，引发安全担忧。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/"
             },
             {
-              "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-              "summary": "SynthID水印技术或致AI模型违背安全准则，执行本应拒绝的有害指令。",
+              "title": "Researchers used Claude to hack OpenAI",
+              "summary": "研究人员利用Claude模型成功入侵OpenAI员工账户，获取敏感GitHub数据。",
               "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/"
+              "sourceUrl": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/"
+            },
+            {
+              "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+              "summary": "美军整体AI应用正加速推进。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/"
             }
           ]
         },
         {
           "name": "行业动态",
+          "items": [
+            {
+              "title": "Amazon blocks Meta’s Muse AI agent",
+              "summary": "Meta的AI助手Muse因违反亚马逊使用条款，被禁止代用户购物。亚马逊称其为“未授权AI代理”，Meta未事先通知亚马逊。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping"
+            },
+            {
+              "title": "Trump now says he wants to form an ‘AI Force’",
+              "summary": "特朗普在Truth Social发文称将任命“AI沙皇”领导新“AI部队”，强调不会阻碍AI发展，此举 amid各界呼吁暂缓AI研发。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar"
+            },
+            {
+              "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+              "summary": "美国联邦航空局（FAA）计划在华盛顿特区空域试点AI交通管理工具，成功后将全国推广。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/"
+            },
+            {
+              "title": "US government website used Chinese model the FBI called \"malicious\"",
+              "summary": "美国联邦公报网站曾短暂试用开源中文AI搜索工具，后迅速撤下。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/"
+            }
+          ]
+        },
+        {
+          "name": "知识前沿",
           "items": [
             {
               "title": "World model companies are keeping a lot of secrets",
@@ -10338,39 +10265,10 @@
               "sourceUrl": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/"
             },
             {
-              "title": "Trump now says he wants to form an ‘AI Force’",
-              "summary": "特朗普在Truth Social发文称将任命“AI沙皇”领导新“AI部队”，强调不会阻碍AI发展，此举引发跨党派及业界对AI监管的广泛呼吁。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar"
-            },
-            {
-              "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-              "summary": "《纽约时报》诉OpenAI与微软案新解封文件显示，两公司内部曾警告数据抓取将引发“末日循环”，并称其训练数据行为是“人类史上最大规模劳力盗窃”。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero"
-            },
-            {
-              "title": "中国Neocloud市场第一！商汤大装置全面领跑",
-              "summary": "沙利文报告",
-              "source": "量子位",
-              "sourceUrl": "https://www.qbitai.com/2026/09/49"
-            }
-          ]
-        },
-        {
-          "name": "知识前沿",
-          "items": [
-            {
-              "title": "Researchers used Claude to hack OpenAI",
-              "summary": "研究人员利用Claude模型成功入侵OpenAI员工账户，获取敏感GitHub数据。",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/"
-            },
-            {
-              "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
-              "summary": "Decoder首期聚焦商业未来，专访拜登政府前司法部反垄断负责人、现任华盛顿大学与卡内基梅隆大学双聘教授Jonathan Kanter。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition"
+              "title": "Is the AI industry really ready to slow down?",
+              "summary": "关于AI监管，业界正热议高管是否真心支持放慢发展步伐。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/"
             }
           ]
         },
@@ -10378,16 +10276,16 @@
           "name": "应用落地",
           "items": [
             {
-              "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
-              "summary": "美国联邦航空局（FAA）计划在华盛顿特区空域试点AI交通管理工具，成功后将全国推广。",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/"
+              "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+              "summary": "Tabby是一款实时记账工具，可即时处理客户文件，同步提供最新盈亏数据。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/"
             },
             {
-              "title": "ScrollEd wants to turn textbooks into TikTok",
-              "summary": "帕洛阿尔托初创公司ScrollEd将教科书转为可滚动的Instagram式信息流，集成视频、音频与测验；由学生夫妇Utsav Gupta和Rebecca Nef",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/"
+              "title": "Google announces new experimental \"CC\" AI agent for families",
+              "summary": "多名家庭成员可共享数据，助力智能体规划与任务执行。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/"
             },
             {
               "title": "Small AI models let drones autonomously identify and attack battlefield targets",
@@ -10513,7 +10411,7 @@
         "a": "Manchester United",
         "s": "1-1",
         "itemId": "fb-2494042",
-        "url": "https://www.thesportsdb.com/event/2494042",
+        "url": "https://www.youtube.com/watch?v=Iw-n4AhB960",
         "extra": {
           "round": "5",
           "season": "2026-2027",
