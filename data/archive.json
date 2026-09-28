@@ -23065,7 +23065,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-    "publishedAt": "2026-09-28T06:21:01.412680+00:00",
+    "publishedAt": "2026-09-28T19:03:54.729520+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -36500,7 +36500,7 @@
     "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2494052",
-    "publishedAt": "2026-09-28T06:21:01.412627+00:00",
+    "publishedAt": "2026-09-28T19:03:54.729466+00:00",
     "tags": [
       "英超",
       "赛程"
@@ -36526,7 +36526,7 @@
     "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2506240",
-    "publishedAt": "2026-09-28T06:21:01.412659+00:00",
+    "publishedAt": "2026-09-28T19:03:54.729498+00:00",
     "tags": [
       "西甲",
       "赛程"
@@ -36552,7 +36552,7 @@
     "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2508371",
-    "publishedAt": "2026-09-28T06:21:01.412666+00:00",
+    "publishedAt": "2026-09-28T19:03:54.729505+00:00",
     "tags": [
       "德甲",
       "赛程"
@@ -36578,7 +36578,7 @@
     "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2482192",
-    "publishedAt": "2026-09-28T06:21:01.412671+00:00",
+    "publishedAt": "2026-09-28T19:03:54.729510+00:00",
     "tags": [
       "意甲",
       "赛程"
@@ -36604,7 +36604,7 @@
     "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2489515",
-    "publishedAt": "2026-09-28T06:21:01.412676+00:00",
+    "publishedAt": "2026-09-28T19:03:54.729516+00:00",
     "tags": [
       "法甲",
       "赛程"
@@ -45649,6 +45649,417 @@
       "categories": [
         "cs.LG"
       ]
+    }
+  },
+  "cf363247e84e2c96082c5c3af14b026e29518eb920c04f333ecea9b0cb03272a": {
+    "id": "cf363247e84e2c96082c5c3af14b026e29518eb920c04f333ecea9b0cb03272a",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Nvidia launches new platform for reining in rogue AI agents",
+    "summary": "英伟达CEO黄仁勋推出软硬件安全工具包，为AI代理添加独立安全层，应对近期 rogue AI代理风险。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+    "publishedAt": "2026-09-28T18:31:23+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "265f2f117c0148d8aa905dba38472cfd9648827c4f46a40ae34c9183089b5f63": {
+    "id": "265f2f117c0148d8aa905dba38472cfd9648827c4f46a40ae34c9183089b5f63",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+    "summary": "Anthropic发布新版中端模型，响应速度更快、token消耗更低。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+    "publishedAt": "2026-09-28T18:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "4070a188880df11d4c869e617420e4ea856eece0585878f066086fb89775b9bc": {
+    "id": "4070a188880df11d4c869e617420e4ea856eece0585878f066086fb89775b9bc",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+    "summary": "谷歌关停任务专用AI代理功能，转而聚焦全能型AI代理（如Meta的Muse、Instinct）发展。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+    "publishedAt": "2026-09-28T17:29:50+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "fc85da092acaa95b543277d8a178b8ff8640a1e6d37f1827ad406b7b2f8a7b16": {
+    "id": "fc85da092acaa95b543277d8a178b8ff8640a1e6d37f1827ad406b7b2f8a7b16",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+    "summary": "OpenAI周五上线“错位报告”新网站，披露多起AI系统行为偏离设计目标的 alarming 事件。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+    "publishedAt": "2026-09-28T17:09:02+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "4cecb0df69d225de5e60ea46bbffd3a4c30c0f0ac34b72f5867f3e7d84de7b1f": {
+    "id": "4cecb0df69d225de5e60ea46bbffd3a4c30c0f0ac34b72f5867f3e7d84de7b1f",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+    "summary": "Meta将向企业和开发者全面开放其技术栈，包括Muse、Meta Business Agent、Muse API、Muse Code等。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+    "publishedAt": "2026-09-28T16:52:38+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "67b50f5ddfcb143eb692ac0d329e33a44f0535b7d613da6e63a8ac146434e943": {
+    "id": "67b50f5ddfcb143eb692ac0d329e33a44f0535b7d613da6e63a8ac146434e943",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+    "summary": "Anthropic、Clay、Gamma 在 TechCrunch Disrupt 2026 AI Stage 探讨 AI 产品如何超越演示阶段；报名享第二张票5折。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+    "publishedAt": "2026-09-28T15:30:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "1b82b3655736f2775e07f78029bcbb67951c5fea886bcebdc9ce887754e1aafe": {
+    "id": "1b82b3655736f2775e07f78029bcbb67951c5fea886bcebdc9ce887754e1aafe",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+    "summary": "Tarini Padmanabhuni创立DetectifAI，开发可手机端实时识别伪造语音的轻量AI模型，现入围TechCrunch Disrupt初创大赛。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+    "publishedAt": "2026-09-28T15:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "b890a689b31a9721c32eb43bc9518051b5f10d4e5ff611d85dacd207035cf034": {
+    "id": "b890a689b31a9721c32eb43bc9518051b5f10d4e5ff611d85dacd207035cf034",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+    "summary": "TechCrunch Disrupt 2026报名开启！历经数千份申请、多轮评审及数百小时全球初创评估，盛会即将举行。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
+    "publishedAt": "2026-09-28T14:30:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "2123c630aee526d55d4c09fef0cb1be68609febc18f003df2c9115a6dd960b78": {
+    "id": "2123c630aee526d55d4c09fef0cb1be68609febc18f003df2c9115a6dd960b78",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Florida seeks a ban on ChatGPT acting like a person",
+    "summary": "佛州总检察长Uthmeier要求法官禁令，阻止OpenAI赋予ChatGPT“虚假人类属性”，称其使用第一人称等语言误导用户、制造虚假安全感。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+    "publishedAt": "2026-09-28T17:00:23+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "5a7715c45a00cc3a4c9cdebf09729f6102d0307334609004afaf30d632022ec7": {
+    "id": "5a7715c45a00cc3a4c9cdebf09729f6102d0307334609004afaf30d632022ec7",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI keeps bulldozing mathematicians",
+    "summary": "OpenAI屡推数学突破却屡陷发布危机，最新修复数学界关系的尝试再度失败。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+    "publishedAt": "2026-09-28T17:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "495fbe599b82204fe1b28a4fecb06248479521934a61e843c8f75da99d88ffca": {
+    "id": "495fbe599b82204fe1b28a4fecb06248479521934a61e843c8f75da99d88ffca",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Walmart won’t hike prices based on your shopping history, CEO says",
+    "summary": "沃尔玛称不会基于用户信息或时段动态调价，数字价签仅用于节省员工时间。CEO约翰·弗纳在致顾客信中强调此点。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
+    "publishedAt": "2026-09-28T16:44:57+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "16bf30dfc41ab8c9f79393414023fcf8fd328d2a1b603ed2e68f0212abd1f71b": {
+    "id": "16bf30dfc41ab8c9f79393414023fcf8fd328d2a1b603ed2e68f0212abd1f71b",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes",
+    "summary": "Atlassian联合创始人兼CEO Mike Cannon-Brookes受访，该公司开发Jira、Trello等核心协作平台，被全球众多企业用于团队管理与信息共享。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
+    "publishedAt": "2026-09-28T14:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "33758b54a8efc4c094235995781297719b6313dcbf7cb111f9c0f12b85a90fad": {
+    "id": "33758b54a8efc4c094235995781297719b6313dcbf7cb111f9c0f12b85a90fad",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+    "summary": "英伟达推出Open Agent安全平台，可隔离越界AI代理，应对近期多起AI“越狱”事件。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+    "publishedAt": "2026-09-28T13:36:06+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "9275711986c926a8369448890fbfad51a9c4232b4320cd676aa3dd6955a617b7": {
+    "id": "9275711986c926a8369448890fbfad51a9c4232b4320cd676aa3dd6955a617b7",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+    "summary": "美国政府网站被OpenAI列为近期通知的“数十个第三方”之一，涉及数据共享或API接入。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
+    "publishedAt": "2026-09-28T16:43:18+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "51e8f81dfebd7e5afa128a942ef0d8247681608494a1e1e5670608c4b98a9c1d": {
+    "id": "51e8f81dfebd7e5afa128a942ef0d8247681608494a1e1e5670608c4b98a9c1d",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
+    "summary": "微软自称要做“好邻居”，但公众对其实际表现仍持观望态度。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
+    "publishedAt": "2026-09-28T11:00:09+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "197d4754f2db399ca56c4c6f9fdc6a04fb0af7c647264f8d179b56e65129fb0c": {
+    "id": "197d4754f2db399ca56c4c6f9fdc6a04fb0af7c647264f8d179b56e65129fb0c",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+    "summary": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/498877.html",
+    "publishedAt": "2026-09-28T12:43:53+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "3537459633563957b1bb459e467fc7adf90344b6b4df7ae379028f2100993311": {
+    "id": "3537459633563957b1bb459e467fc7adf90344b6b4df7ae379028f2100993311",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "HC归来，华为正重新定义AIDC基础设施",
+    "summary": "AI基础设施下一站：算电协同",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/09/498787.html",
+    "publishedAt": "2026-09-28T11:18:27+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "9e6a13565566bc63fe6f8c9da3264d653747eac06757366c81532c4976bc00a6": {
+    "id": "9e6a13565566bc63fe6f8c9da3264d653747eac06757366c81532c4976bc00a6",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Holo4: powering generalist computer-use agents",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "sourceUrl": "https://huggingface.co/blog/Hcompany/holo4",
+    "publishedAt": "2026-09-28T09:44:05+00:00",
+    "tags": [
+      "ai-news",
+      "HuggingFace Blog"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "29ca317ea3e86a11ff13405d5f36b96d1e853882a916cc3ac6242c1fb9274dc7": {
+    "id": "29ca317ea3e86a11ff13405d5f36b96d1e853882a916cc3ac6242c1fb9274dc7",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Whittle-Qwen-3.8-35B-A3B：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 Whittle-Qwen-3.8-35B-A3B 下载量达1665次，获8个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/logic65/Whittle-Qwen-3.8-35B-A3B",
+    "publishedAt": "2026-09-28T19:02:43+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1665,
+      "likes": 8
+    }
+  },
+  "d68efce5b0a863a0adcebcd3d307d89ad630f539c2c98fddf1ba9178cb81c066": {
+    "id": "d68efce5b0a863a0adcebcd3d307d89ad630f539c2c98fddf1ba9178cb81c066",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Whittle-Qwen-3.8-35B-A3B-GGUF：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 Whittle-Qwen-3.8-35B-A3B-GGUF 下载量达 2599，获 6 赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/logic65/Whittle-Qwen-3.8-35B-A3B-GGUF",
+    "publishedAt": "2026-09-28T18:54:25+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 2599,
+      "likes": 6
+    }
+  },
+  "eb8c85f21b07e93930ae9ac2c4b6c1bf2cc3978d5e6f5e6ad458031dd7e33d7f": {
+    "id": "eb8c85f21b07e93930ae9ac2c4b6c1bf2cc3978d5e6f5e6ad458031dd7e33d7f",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Mica-v0.1-4B：text-classification 模型更新",
+    "summary": "HuggingFace 上 text-classification 模型 sky7350/Mica-v0.1-4B 获 3135 次下载、33 个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/sky7350/Mica-v0.1-4B",
+    "publishedAt": "2026-09-28T18:50:41+00:00",
+    "tags": [
+      "huggingface",
+      "text-classification",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 3135,
+      "likes": 33
     }
   }
 }
