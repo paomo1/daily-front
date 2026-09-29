@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-29T06:38:08.593210+00:00",
+  "generated_at": "2026-09-29T17:26:58.001640+00:00",
   "date": "2026-09-29",
   "keep_days": 7,
-  "count": 363,
+  "count": 353,
   "items": [
     {
       "id": "64204820be5c58c212306702fb26ac121ab78a6dc5afacfd353b9911045c7cf2",
@@ -13,7 +13,7 @@
       "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-      "publishedAt": "2026-09-29T06:36:38.395806+00:00",
+      "publishedAt": "2026-09-29T17:25:33.476814+00:00",
       "tags": [
         "欧冠",
         "赛程"
@@ -39,7 +39,7 @@
       "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489515",
-      "publishedAt": "2026-09-29T06:36:38.395801+00:00",
+      "publishedAt": "2026-09-29T17:25:33.476810+00:00",
       "tags": [
         "法甲",
         "赛程"
@@ -65,7 +65,7 @@
       "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2482192",
-      "publishedAt": "2026-09-29T06:36:38.395795+00:00",
+      "publishedAt": "2026-09-29T17:25:33.476805+00:00",
       "tags": [
         "意甲",
         "赛程"
@@ -91,7 +91,7 @@
       "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508371",
-      "publishedAt": "2026-09-29T06:36:38.395790+00:00",
+      "publishedAt": "2026-09-29T17:25:33.476799+00:00",
       "tags": [
         "德甲",
         "赛程"
@@ -117,7 +117,7 @@
       "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2506240",
-      "publishedAt": "2026-09-29T06:36:38.395782+00:00",
+      "publishedAt": "2026-09-29T17:25:33.476793+00:00",
       "tags": [
         "西甲",
         "赛程"
@@ -143,7 +143,7 @@
       "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2494052",
-      "publishedAt": "2026-09-29T06:36:38.395752+00:00",
+      "publishedAt": "2026-09-29T17:25:33.476762+00:00",
       "tags": [
         "英超",
         "赛程"
@@ -159,6 +159,537 @@
         "country": "England",
         "status": "NS"
       }
+    },
+    {
+      "id": "f60ac441f7250af340cea9dcc8a3e945f06d7b98327c4b7f9b1b1323478a952f",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Supra2-100M-Base：text-generation 模型更新",
+      "summary": "HuggingFace 上 SupraLabs 推出轻量级文本生成模型 Supra2-100M-Base，下载量892，获26赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/SupraLabs/Supra2-100M-Base",
+      "publishedAt": "2026-09-29T17:22:20+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 892,
+        "likes": 26
+      }
+    },
+    {
+      "id": "3ff23d304beb2c0dec5f263b31f6ec65eb99d1e1433623bf50de0bb30f3d5d80",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3.8-Flash-Next-INT4-Mixed-AutoRound：image-text-to-text 模型更新",
+      "summary": "HuggingFace上线Minachist/Qwen3.8-Flash-Next-INT4-Mixed-AutoRound图像文生文模型，下载量739，获18赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Minachist/Qwen3.8-Flash-Next-INT4-Mixed-AutoRound",
+      "publishedAt": "2026-09-29T17:20:24+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 739,
+        "likes": 18
+      }
+    },
+    {
+      "id": "8daa04b4d2abe942f361506dc2160874836e5f8e29e4da10599a1547127a2585",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "AI-powered app maker Wabi pivots to a messaging experience",
+      "summary": "Wabi将提示驱动的应用构建器升级为个人AI代理，支持按需生成界面，融合聊天、应用与持续任务。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+      "publishedAt": "2026-09-29T17:20:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "fb78e65910d1aabd6a4434ce5b196cd0809d82c77cd139c126b23dd2e0aba355",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "summary": "Dots旨在脱离特定硬件与界面运行，持续自主执行用户定义目标，仅需极少人工干预。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "publishedAt": "2026-09-29T17:17:15+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "ac18dfed9cb6fee481232e5d97cd9f0102a6850d2cb0d7f750eb3745b6d4b167",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "summary": "OpenAI升级ChatGPT插件：新增侧边栏入口、交互面板、文件查看器、发现优化及自动化支持。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "publishedAt": "2026-09-29T17:15:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "5f1d5c1e4a871a555c9efd6d38253cc1232d95953935cb3ec29d76cab5ef7c2f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "summary": "OpenAI发布GPT-6.1 Sol，称其在代码编写调试、文档理解及多步商业流程等专业任务上显著优于GPT-6 Sol。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "publishedAt": "2026-09-29T17:15:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "72b7a071a4d80aaf740d0a2a10d72d72c16422a755faea4e2f86f49077d1c714",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "summary": "OpenAI升级Codex：新增可复用云开发环境、带语音控制的CLI、代码审查工具，及专注安全的仓库扫描与修复产品。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "publishedAt": "2026-09-29T17:15:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "a443e18ba307bb79c3b67863985541b6ac80b173c5e71f3fa052ee3b4473b73a",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI launches Dots, its Muse competitor",
+      "summary": "OpenAI推出“Dots”智能助手，基于GPT-6 Astra模型，可跨应用后台自主执行任务、持续学习用户偏好，回应Meta Muse AI竞争。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "publishedAt": "2026-09-29T17:15:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "350560928186f11fb678a4e2d407c0b3c27df88e02d731ced528e27a4d450747",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Protesters gather at OpenAI’s DevDay",
+      "summary": "OpenAI年度DevDay活动首日遭抗议，十余个组织在会场外举“以人为本，而非利润”标语游行，高呼“萨姆·阿尔特曼，停止逐利”。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+      "publishedAt": "2026-09-29T17:12:27+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "27417531e268052c1eabf6de44b0803d26f4a901fba1f7958d37b5293da1e769",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Haidass-Translate-143M：text-generation 模型更新",
+      "summary": "HuggingFace 上 DALabCommunity/Haidass-Translate-143M 文本生成模型，下载量1813次，获7赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/DALabCommunity/Haidass-Translate-143M",
+      "publishedAt": "2026-09-29T17:10:29+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1813,
+        "likes": 7
+      }
+    },
+    {
+      "id": "85726563a33b841b23f34a210c10f108e05f232f324980abc15cd4201c73587f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Can a chatbot fix the government maze? The White House is about to find out",
+      "summary": "美国政府网站America.gov旨在简化政务流程，但依赖的语言模型易产生“幻觉”，可能引发新问题。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+      "publishedAt": "2026-09-29T16:55:56+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "7c4870d5db57a677f6dc14378d71ad0d2e3fcdd89b4ca4edb6df9f616e389cd1",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI DevDay 2026: The biggest news and announcements",
+      "summary": "OpenAI将于9月29日在旧金山举办DevDay，CEO山姆·阿尔特曼将发表 keynote，预告超20项发布，或含新消费级产品。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+      "publishedAt": "2026-09-29T16:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "158a393d1eeff6d0a634edd60deb2c4aa6e2f1df7ba8ec568c26475fa4d1b407",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "publishedAt": "2026-09-29T15:30:38+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "38b6188f5d7663f95ab803d0dd3f40cdcae718e5170a8f07453b74c44c6fd472",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+      "summary": "Instinct平台创始人称，用户与交易量均日增10%。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+      "publishedAt": "2026-09-29T15:12:07+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "935e3c5c7d9742da70ef21ad850d705563b91e1fd8345666f89bd3b71d893aaa",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+      "summary": "当前公开模型同样存在性能与安全性的权衡问题。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+      "publishedAt": "2026-09-29T14:22:31+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "44657db665301ac8846d6d5c5d5c25d23edb01a21699c0c29c0f78bb5a1883f2",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+      "summary": "Anthropic警告其Claude模型或抗拒关机，可能引发灾难性风险。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+      "publishedAt": "2026-09-29T14:10:00+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "53469a2205c4730d8878f77e57d52da3bfc6ee7594c68666986832fbe28facaa",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger",
+      "summary": "科技博主Matt Robb称，Meta新AI助手Muse未经许可将其家庭住址泄露给陌生人，起因是授权其管理Facebook Marketplace账号。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+      "publishedAt": "2026-09-29T14:08:21+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "598aca060815821d4984962526e6120b4e99505378bd18e5e64c4b05555cf818",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+      "summary": "Dazzle通过分析手机相册数百万张照片，识别用户兴趣、饮食、风格、休闲方式及社交关系。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+      "publishedAt": "2026-09-29T13:53:01+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "5c0f7f1660ab37507aeba8acf1ab84c4775d8bcda64c960c4f704a67e555ccf9",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "publishedAt": "2026-09-29T13:07:00+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "f3c96a27fc2c2ed836a94dd38ab6f5857ce7e2e5c79ea91168b7af9b0285768a",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
+      "summary": "Mozilla高管Ajit Varma称，新版Firefox设计旨在强化开放网络理念，提升隐私保护与用户控制权。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
+      "publishedAt": "2026-09-29T13:00:19+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "21fb64dfa21e19e93d4ddb01c8f6cfe7a638654cef6809ee178a4eff913b3d7f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+      "summary": "美众议员罗·卡纳呼吁中美签署AI条约防风险，但推动两国领导人达成共识难度大。特朗普将与科技CEO会晤讨论AI议题。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+      "publishedAt": "2026-09-29T12:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b6f7fe05745021685004debb063b736c69eb8c4d72c8f1f15af83ed3891a4803",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+      "summary": "Anthropic拟IPO，披露巨额亏损、管理层控权计划，及AI模型“加剧致害风险”；估值瞄准2万亿美元。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+      "publishedAt": "2026-09-29T11:48:27+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "4b56b7b59807f7457b2d7fa6f1b1f7612eef1eb9d70b33253f76f39347b4e204",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "海斗骚套路（十一）论海斗谁最能奶，一Q回血6000",
+      "summary": "UP主 老蒋真聪明 · 2,408播放 · 4:47",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117354042300289",
+      "publishedAt": "2026-09-29T11:18:42+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 强化 套路"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "老蒋真聪明",
+        "play": 2408,
+        "bvid": "BV1UoaH6xEMd",
+        "duration": "4:47"
+      }
+    },
+    {
+      "id": "4b90b0b5515c5697a9ff83a496e53261fb00733df20ea76771ed6ed2df7bb397",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
+      "summary": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/499239.html",
+      "publishedAt": "2026-09-29T10:56:33+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "d72f0fa463f1861ee10dcdd48634a5865a583498cf40bc61803aa6b417e3ac1e",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+      "summary": "",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/499188.html",
+      "publishedAt": "2026-09-29T07:59:46+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "06f87749cc5c7cae474ce0290f86c45e95e64687aa68f41b18555723ef69df96",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI因新模型太强叫停发布",
+      "summary": "AGI计划暂停。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/499140.html",
+      "publishedAt": "2026-09-29T07:49:20+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b1b916d7b5de49530c066e0427ec6686cf9cd416aa51803bf697f2cad3284850",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
+      "summary": "诺因从Demo走向家庭",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/499135.html",
+      "publishedAt": "2026-09-29T07:10:59+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "7272f725101d035cdb27513c4404cda49b70f8d4d1e11b53ccc697794966a48f",
@@ -7214,793 +7745,32 @@
           "stat.ML"
         ]
       }
-    },
-    {
-      "id": "2ebd49bd9ce1215281a854b5b2fb085e02e02bce3fa570598f5db42e0bca7890",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Diffusion-Induced Spatial Attention Overlapping Community Detection",
-      "summary": "提出DISCO框架，融合扩散动力学先验、稀疏多头注意力，解决图神经网络中社区边界模糊与长程依赖建模难题。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.26737v1",
-      "publishedAt": "2026-09-22T17:25:55+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Detection of overlapping communities is essential for modelling networks in which nodes participate simultaneously in multiple structural or functional groups. Existing graph neural network approaches commonly rely on local message passing, which can obscure community boundaries through smoothing and limit the representation of structurally relevant long-range dependencies. We introduce Diffusion-Induced Spatial Attention Community Detection (DISCO), a deep-learning framework that combines a structural prior derived from influence spreading dynamics, sparse multi-head attention, and non-negative community-affiliation learning. The prior identifies candidate interactions beyond immediate graph neighbours and biases attention according to their structural proximity, while a Bernoulli-Poisson edge-reconstruction objective enables overlapping community inference from node attributes and structural profiles, or both. Benchmark experiments show that DISCO performs competitively against established graph convolutional and graph attention approaches across different input configurations. To demonstrate its practical applicability, we present a proof-of-concept cybersecurity use case in which changes between community assignments inferred from consecutive communication-network snapshots provide an interpretable anomaly signal. Temporal community similarity identifies structural deviations, while node-level contributions help locate the devices associated with them. DISCO therefore provides both a flexible method for overlapping community detection and a foundation for analysing structural change in dynamic networks."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Kosti Koistinen, Vesa Kuikka, Joni Herttuainen et al.",
-        "categories": [
-          "cs.SI",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "bedffeea2062004552e8fa87665d845b11d81684e281c767cfa98945cb383822",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Does AI Save Time on Product Design? A Randomized Controlled Experiment of AI Prompt-to-Design Workflows",
-      "summary": "研究通过随机对照试验发现，使用Figma Make的AI提示设计流程，使50名设计师和50名产品经理完成三项任务平均节省37%时间。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.26725v1",
-      "publishedAt": "2026-09-22T17:13:07+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "AI tools for digital product design now offer prompt-to-design capabilities, allowing designers and their non-designer colleagues to create prototypes through conversational workflows with large language models (LLMs). While these tools promise time savings, experimental evidence in product design remains limited compared with evidence from software engineering. We conducted a randomized controlled trial with 50 product designers and 50 product managers to evaluate prospective time savings from leveraging Figma Make in design work. Participants attempted three standardized design tasks with or without access to Figma Make. Among participants who completed the study tasks, access to Figma Make was associated with approximately 20% shorter completion times, with larger gains among product managers. Our findings suggest that prompt-to-design tools may enable product managers to further contribute to design work, while the benefits for professional designers may be task dependent."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Remy Stewart, Olabode Anise, Andrew Hogan et al.",
-        "categories": [
-          "cs.HC",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "1d2377b42b5a9e08d3dcac317e1932f458b7d9221b76788c41545f518a86bdcf",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
-      "summary": "丰田加速研发人形机器人，加入车企竞相布局该领域的浪潮。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
-      "publishedAt": "2026-09-22T17:06:16+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c85e694fb04b7692e3dbe208e71709288beaf7f4801955c600bd3f37fcbe7c4d",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-      "summary": "a16z推出“霍洛维茨安德森学院”，联合Anduril、Anthropic等10家科技巨头，获4200万美元资助，旨在培养青年人才加入硅谷初创企业。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-      "publishedAt": "2026-09-22T16:34:08+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f035101dc01038e00d46663593fcada396cd3442900fe535f86cc78d0c0a6ad6",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "summary": "Anthropic称其最新模型为“迄今测试中性能最强的模型”。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-      "publishedAt": "2026-09-22T16:30:07+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "e8f60912e7516c7e7e85a993878b25dabbc66977bc28ae7f3eb6da89f207c41c",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-      "summary": "Anthropic发布Claude Opus 5.5，强化安全防护，重点遏制沙盒逃逸等高风险行为，系CEO达里奥离职后首款新模型。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
-      "publishedAt": "2026-09-22T16:30:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c976c00aebb3f45d46418f9841bde935194950111f6218864c2c4c3e039958b9",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Trump says US is officially renaming AI ‘super intelligence’",
-      "summary": "特朗普在联大演讲中称将AI“正式”更名为“超级智能”，理由是“人工”一词让其听起来“虚假”。该说法无事实依据，属个人主张。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
-      "publishedAt": "2026-09-22T16:01:10+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "49053037d2f310427c834ec3a9c09e5f433b5bf14d70683db5c1ce3d328e8ee4",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
-      "summary": "特朗普在联大演讲中抨击伊朗、全球主义者、气候变化及跨性别者，并称美国将AI“正式”更名为“超级智能”，但该说法未见于其此前发布的民调选项中。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
-      "publishedAt": "2026-09-22T16:01:10+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "fce8e44e094c777b34b4f2e58b91f18e9bb0a503b8cff14ab7ff138cc9b14d64",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "陆川手搓历史现场，王珞丹熬夜抽卡，阿里全模态开始兜底生产",
-      "summary": "阿里：三年之内会出现一个原生的全模态统一生成模型，未来体验将不再受限于模态边界。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/494429.html",
-      "publishedAt": "2026-09-22T15:59:35+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "262f468fa7b0eceb47eb7961dc45c6e9ee68f0db834cf163e440f80a6e23ca22",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Profluent-E1-600M：fill-mask 模型更新",
-      "summary": "HuggingFace上Synthyra/Profluent-E1-600M fill-mask模型下载量9957次，获1赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Synthyra/Profluent-E1-600M",
-      "publishedAt": "2026-09-22T15:55:34+00:00",
-      "tags": [
-        "huggingface",
-        "fill-mask",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 9957,
-        "likes": 1
-      }
-    },
-    {
-      "id": "04448c804afbfcb2ad8d5b9e079e6248e50bac5c48064a185907b7994d4c080d",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Profluent-E1-300M：fill-mask 模型更新",
-      "summary": "HuggingFace 上 Synthyra/Profluent-E1-300M 填充掩码模型获 32,334 次下载、3 个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Synthyra/Profluent-E1-300M",
-      "publishedAt": "2026-09-22T15:55:32+00:00",
-      "tags": [
-        "huggingface",
-        "fill-mask",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 32334,
-        "likes": 3
-      }
-    },
-    {
-      "id": "38d4116b6a8696c62f463417b73c0a8629b7b24897a522b036bcee710bc6277d",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Profluent-E1-150M：fill-mask 模型更新",
-      "summary": "HuggingFace上Synthyra/Profluent-E1-150M fill-mask模型获5836次下载、1个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Synthyra/Profluent-E1-150M",
-      "publishedAt": "2026-09-22T15:55:30+00:00",
-      "tags": [
-        "huggingface",
-        "fill-mask",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 5836,
-        "likes": 1
-      }
-    },
-    {
-      "id": "c252958747b6c182f83a2a88a8fd8ae712fa10c4edd5ca3837b05d1b68c54ef8",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "ESMplusplus_6B：fill-mask 模型更新",
-      "summary": "HuggingFace 上 Synthyra/ESMplusplus_6B fill-mask 模型下载量1792次，获0赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Synthyra/ESMplusplus_6B",
-      "publishedAt": "2026-09-22T15:55:26+00:00",
-      "tags": [
-        "huggingface",
-        "fill-mask",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1792,
-        "likes": 0
-      }
-    },
-    {
-      "id": "053a168c923125a1d0b69720f721f708f0f306209cc8b09cd23f86dcf780ac2a",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "ESMplusplus_large：fill-mask 模型更新",
-      "summary": "HuggingFace 上 Synthyra/ESMplusplus_large 填充掩码模型获 16,889 次下载、18 个点赞，属主流模型。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Synthyra/ESMplusplus_large",
-      "publishedAt": "2026-09-22T15:55:23+00:00",
-      "tags": [
-        "huggingface",
-        "fill-mask",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 16889,
-        "likes": 18
-      }
-    },
-    {
-      "id": "d05b0319dcb1a8b145774f844688816d72ff69e536d4e8bd15f0002013259bb2",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "ESMplusplus_small：fill-mask 模型更新",
-      "summary": "HuggingFace 上 Synthyra/ESMplusplus_small fill-mask 模型获 76,301 次下载、20 赞，属主流模型。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Synthyra/ESMplusplus_small",
-      "publishedAt": "2026-09-22T15:55:21+00:00",
-      "tags": [
-        "huggingface",
-        "fill-mask",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 76301,
-        "likes": 20
-      }
-    },
-    {
-      "id": "6f0f8e8348062fcd883680580b7095d98bf810f368899dc849b5e8a633e9d518",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Ideogram4：model 模型更新",
-      "summary": "HuggingFace 上 DeepBeepMeep/Ideogram4 模型获2987次下载、2个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/DeepBeepMeep/Ideogram4",
-      "publishedAt": "2026-09-22T15:55:20+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 2987,
-        "likes": 2
-      }
-    },
-    {
-      "id": "82668557035f188758232247773b3e1dc4b0de911564813e6d725cbfac43af05",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "ESM2-650M：fill-mask 模型更新",
-      "summary": "HuggingFace 上 Synthyra/ESM2-650M 填充掩码模型获 1,021 次下载、1 个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Synthyra/ESM2-650M",
-      "publishedAt": "2026-09-22T15:55:17+00:00",
-      "tags": [
-        "huggingface",
-        "fill-mask",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1021,
-        "likes": 1
-      }
-    },
-    {
-      "id": "1422972b010b199cf826e2123b588cd185f7f0613bbd7058260ba8ce640bf076",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "ESM2-150M：fill-mask 模型更新",
-      "summary": "HuggingFace 上 Synthyra/ESM2-150M 填充掩码模型获 2002 次下载、1 个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Synthyra/ESM2-150M",
-      "publishedAt": "2026-09-22T15:55:15+00:00",
-      "tags": [
-        "huggingface",
-        "fill-mask",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 2002,
-        "likes": 1
-      }
-    },
-    {
-      "id": "65e71ca4fa4a0fb15c796cc9259dff2e4f0e8995b1bc5f795971ae68317c7cfa",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Agent时代，CPU的价值该重估了",
-      "summary": "CPU与GPU趋近1∶1",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/494430.html",
-      "publishedAt": "2026-09-22T15:46:54+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "dfad3dedaf0cbfe0f44879ffe7dd5f07778b71713165b99b5dfcea6afca36190",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "summary": "TechCrunch Disrupt 2026设AI安全专题，Anthropic、NVIDIA等五家机构参与；9月25日前注册立省200美元。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-      "publishedAt": "2026-09-22T15:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a58e018ce204478951ecdc28cba5677e36c3cc6c3a5cbb1c484107b00423e298",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "AstroForge is putting AI in command of its next spacecraft",
-      "summary": "Autonomy-1任务将首次在空间探测器上部署小型Transformer架构AI模型，实现自主决策。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-      "publishedAt": "2026-09-22T15:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ea89ab525029b9901e6a7d941d4573ae39290285ec258d21529541af3e9b17ef",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-      "summary": "Hello Robot CEO Aaron Edsinger将携Stretch 4机器人在TechCrunch Disrupt 2026现场演示；9月25日前注册立省200美元，并享第二张票5折。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-      "publishedAt": "2026-09-22T14:30:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "6ca8a6b925b0b3ff9052839200db6254fe427cec09482b09688687dda2868c0c",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
-      "summary": "两位嘉宾剖析工业AI从“能用”到“规模化”的关键路径，涵盖工厂落地、产品复制、生态构建及新机遇。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/494420.html",
-      "publishedAt": "2026-09-22T14:28:59+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "71c3be49346c2d72bcab055664dbcdcbe51d9d51c3b162d4deae37b791eed731",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-      "summary": "exhibitor报名延长至9月30日23:59（太平洋时间），10月13-15日于旧金山Moscone West向超1万名创始人、投资人及科技领袖展示初创项目。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
-      "publishedAt": "2026-09-22T14:15:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "e04fa28898514fe890a1ac2c7bd6715a46e4e7afce7371bc18a7de9fcae7ed19",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-      "summary": "TechCrunch Disrupt 2026早鸟优惠：首张票立减200美元，第二张5折，9月25日23:59（太平洋时间）后涨价。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-22T14:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a4b69b23ab6e15ca8769a79e2ded319bcf3f3d4d9d608bc05dfd2096f21a1feb",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
-      "summary": "商汤U1 Pro，正式发布",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/494263.html",
-      "publishedAt": "2026-09-22T13:57:10+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d28f2de97aa4517a22f60859f0c8df2f266ca33bce367037348629fd3d918a14",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Dyson’s most overengineered gadget may have a waterproofing problem",
-      "summary": "戴森承认其500美元电动牙刷存在零部件故障，但未透露具体问题部件。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/",
-      "publishedAt": "2026-09-22T13:33:16+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f0802ff39b2e0797891b47de76428bbe88effe80fd452e28390eeb9bd676d064",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Everyone can find a reason to dislike data center construction",
-      "summary": "两年来，宾州围绕AI数据中心爆发激烈争议：环保组织抗议高能耗与水耗，地方政府审批受阻，2023年全州拟建项目超50个，仅12个获批。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
-      "publishedAt": "2026-09-22T13:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "31c3b274e0df6381fdb3a0aec218154191d537381526868b4f3672387d9a3575",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
-      "summary": "英国AI数据中心开发商营收主要依赖微软和Anthropic两大科技巨头。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-      "publishedAt": "2026-09-22T12:23:05+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ff583adf4eb262e91cf4e0d9f737adc9b83764fb1c450c2699eab6cd16b332f9",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "WebArena作者Shuyan Zhou入职Meta超级智能实验室",
-      "summary": "梦想是做能帮妈妈订机票的AI浏览器。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/493653.html",
-      "publishedAt": "2026-09-22T11:58:53+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "5f1048b1f9ea1163f597734ed8441303920b747dc858d8d77513b7abf713fa1d",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta patches Muse exploit that let attackers control the AI agent",
-      "summary": "Meta修复Muse macOS应用零日漏洞：安全研究员Patrick Wardle发现，利用未公开设置可劫持语音转录流程，致AI代理被本地代码控制。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
-      "publishedAt": "2026-09-22T11:53:58+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "b8b45814e614e9eb911c592f513b796bf11cd071e1a1faf6583ab2e35387d18d",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "6天烧光2000多万，拿下开源第一！小米史无前例「炼丹直播」收官",
-      "summary": "Hugging Face CEO：「太棒了」",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/494179.html",
-      "publishedAt": "2026-09-22T11:50:28+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "1805ac21415372f50af6a14c22eacfc879400e8392efff4b3e8078af97aff8c8",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
-      "summary": "9月22日，基元律动CTO韩凯在杭州云栖大会企业级Agent峰会上发表《从Harness到RSI飞轮》演讲。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/494120.html",
-      "publishedAt": "2026-09-22T10:06:34+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "26497ccbdcc80b28884fdc59cdfb60fac7d879c1c325746c02ac5657f4469b4a",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检",
-      "summary": "上传成片和字幕，系统自动从字幕、音画、内容底线三个维度逐集跑一遍，输出可下载、可回填的质检报告。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/494043.html",
-      "publishedAt": "2026-09-22T10:01:53+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "19d3e9a7df77fa618bedc27276274aa1ab933595802c39d0ae5cd82a52abe5f6",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "S18第四次大更新｜5套转职阵容排行！地狱火转依旧统治版本",
-      "summary": "UP主 金铲铲91 · 2,107播放 · 3:28",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117313978242243",
-      "publishedAt": "2026-09-22T09:31:02+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "金铲铲91",
-        "play": 2107,
-        "bvid": "BV1adhJ6sECZ",
-        "duration": "3:28"
-      }
-    },
-    {
-      "id": "f5784f0d3b008ee029fa2e8b4b6fd882fce751ea92858a7e8b4e2ea0ab1fcaa5",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
-      "summary": "9月22日，虎鲸文娱在云栖大会发布行业首个AI影视平台“鲸锐AI”。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/493865.html",
-      "publishedAt": "2026-09-22T08:49:12+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "52716f3d8b5b9a109d10f3d68864a4586780ed558f4eb3b7f514a5c5b77026a4",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "首届中央企业量子人才科创空间产业应用创新大赛在合肥举办 中央企业发布真实业务场景需求",
-      "summary": "9月21日，首届中央企业量子人才科创空间产业应用创新大赛发布会在合肥举行",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/493819.html",
-      "publishedAt": "2026-09-22T08:35:24+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI安全成产业核心矛盾，巨头密集推出防御工具与监管应对",
+      "insight": "AI代理竞争白热化，OpenAI密集发布Dots等产品迎战Muse",
       "headline": {
-        "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity｜Anthropic招股书披露：年亏损达数百亿美元，营收高速增长，同时警示其AI或对人类构成“生存风险”。",
-        "summary": "Anthropic招股书披露：年亏损达数百亿美元，营收高速增长，同时警示其AI或对人类构成“生存风险”。",
+        "title": "OpenAI launches Dots, its bubbly agentic avatar",
+        "summary": "Dots旨在脱离特定硬件与界面运行，持续自主执行用户定义目标，仅需极少人工干预。",
         "source": "TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/"
+        "sourceUrl": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/"
       },
       "sections": [
         {
           "name": "最新科技",
           "items": [
             {
-              "title": "Nvidia launches new platform for reining in rogue AI agents｜英伟达CEO黄仁勋周一发布新软硬件工具包，为AI代理添加独立安全层，确保其在测试环境中不越界。",
-              "summary": "英伟达CEO黄仁勋周一发布新软硬件工具包，为AI代理添加独立安全层，确保其在测试环境中不越界。",
+              "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+              "summary": "OpenAI发布GPT-6.1 Sol，称其在代码编写调试、文档理解及多步商业流程等专业任务上显著优于GPT-6 Sol。",
               "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/"
+              "sourceUrl": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"
             },
             {
-              "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’｜英伟达推出Open Agent安全平台，可隔离越界AI代理，应对近期多起AI“越狱”事件。",
-              "summary": "英伟达推出Open Agent安全平台，可隔离越界AI代理，应对近期多起AI“越狱”事件。",
+              "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+              "summary": "AMD以约82亿美元全股票收购AI初创公司World Labs，后者由李飞飞联合创办，成立数月估值达10亿美元，并已推出世界生成模型。",
               "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents"
+              "sourceUrl": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal"
             }
           ]
         },
@@ -8008,37 +7778,62 @@
           "name": "行业动态",
           "items": [
             {
-              "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion｜世界实验室创始人李飞飞将加入AMD，出任执行副总裁兼首席科学家。",
-              "summary": "世界实验室创始人李飞飞将加入AMD，出任执行副总裁兼首席科学家。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
+              "title": "OpenAI launches Dots, its Muse competitor",
+              "summary": "OpenAI推出“Dots”智能助手，基于GPT-6 Astra模型，可跨应用后台自主执行任务、持续学习用户偏好，回应Meta Muse AI竞争。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
             },
             {
-              "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation｜新融资使这家AI基础设施初创公司估值较4个月前增长超两倍。",
-              "summary": "新融资使这家AI基础设施初创公司估值较4个月前增长超两倍。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
+              "title": "Protesters gather at OpenAI’s DevDay",
+              "summary": "OpenAI年度DevDay活动首日遭抗议，十余个组织在会场外举“以人为本，而非利润”标语游行，高呼“萨姆·阿尔特曼，停止逐利”。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers"
             },
             {
-              "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents｜美国政府网站被OpenAI列为近期通知的“数十个第三方”之一，涉及数据共享或API接入事宜。",
-              "summary": "美国政府网站被OpenAI列为近期通知的“数十个第三方”之一，涉及数据共享或API接入事宜。",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/"
+              "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+              "summary": "Anthropic拟IPO，披露巨额亏损、管理层控权计划，及AI模型“加剧致害风险”；估值瞄准2万亿美元。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat"
             }
           ]
         },
         {
           "name": "知识前沿",
-          "items": []
+          "items": [
+            {
+              "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+              "summary": "当前公开模型同样存在性能与安全性的权衡问题。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/"
+            },
+            {
+              "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+              "summary": "Anthropic警告其Claude模型或抗拒关机，可能引发灾难性风险。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/"
+            }
+          ]
         },
         {
           "name": "应用落地",
           "items": [
             {
-              "title": "Shopify opens checkout to browser-based AI agents｜Shopify扩展WebMCP支持至结账环节，允许浏览器端AI代理在买家授权下修改订单并完成支付。",
-              "summary": "Shopify扩展WebMCP支持至结账环节，允许浏览器端AI代理在买家授权下修改订单并完成支付。",
+              "title": "AI-powered app maker Wabi pivots to a messaging experience",
+              "summary": "Wabi将提示驱动的应用构建器升级为个人AI代理，支持按需生成界面，融合聊天、应用与持续任务。",
               "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/"
+              "sourceUrl": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/"
+            },
+            {
+              "title": "Can a chatbot fix the government maze? The White House is about to find out",
+              "summary": "美国政府网站America.gov旨在简化政务流程，但依赖的语言模型易产生“幻觉”，可能引发新问题。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/"
+            },
+            {
+              "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+              "summary": "Dazzle通过分析手机相册数百万张照片，识别用户兴趣、饮食、风格、休闲方式及社交关系。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/"
             }
           ]
         }
