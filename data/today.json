@@ -1,9 +1,32 @@
 {
-  "generated_at": "2026-09-30T17:24:37.936197+00:00",
-  "date": "2026-09-30",
+  "generated_at": "2026-10-01T06:55:37.650805+00:00",
+  "date": "2026-10-01",
   "keep_days": 7,
-  "count": 350,
+  "count": 342,
   "items": [
+    {
+      "id": "43e7e313258005da6f8d049bca621301c4d6a5b8e416d52bcb95e2920bace551",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "LTX-2.5-CQ-Video-and-Image-Enhancer-LoRAs：model 模型更新",
+      "summary": "HuggingFace 上模型 CQdesign/LTX-2.5-CQ-Video-and-Image-Enhancer-LoRAs 目前下载量为0，获162个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/CQdesign/LTX-2.5-CQ-Video-and-Image-Enhancer-LoRAs",
+      "publishedAt": "2026-10-01T06:54:31+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 162
+      }
+    },
     {
       "id": "64204820be5c58c212306702fb26ac121ab78a6dc5afacfd353b9911045c7cf2",
       "module": "football",
@@ -13,7 +36,7 @@
       "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-      "publishedAt": "2026-09-30T17:22:54.170906+00:00",
+      "publishedAt": "2026-10-01T06:54:13.095816+00:00",
       "tags": [
         "欧冠",
         "赛程"
@@ -39,7 +62,7 @@
       "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489515",
-      "publishedAt": "2026-09-30T17:22:54.170902+00:00",
+      "publishedAt": "2026-10-01T06:54:13.095813+00:00",
       "tags": [
         "法甲",
         "赛程"
@@ -65,7 +88,7 @@
       "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2482192",
-      "publishedAt": "2026-09-30T17:22:54.170896+00:00",
+      "publishedAt": "2026-10-01T06:54:13.095808+00:00",
       "tags": [
         "意甲",
         "赛程"
@@ -91,7 +114,7 @@
       "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508371",
-      "publishedAt": "2026-09-30T17:22:54.170891+00:00",
+      "publishedAt": "2026-10-01T06:54:13.095803+00:00",
       "tags": [
         "德甲",
         "赛程"
@@ -117,7 +140,7 @@
       "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2506240",
-      "publishedAt": "2026-09-30T17:22:54.170884+00:00",
+      "publishedAt": "2026-10-01T06:54:13.095798+00:00",
       "tags": [
         "西甲",
         "赛程"
@@ -143,7 +166,7 @@
       "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2494052",
-      "publishedAt": "2026-09-30T17:22:54.170853+00:00",
+      "publishedAt": "2026-10-01T06:54:13.095767+00:00",
       "tags": [
         "英超",
         "赛程"
@@ -159,6 +182,753 @@
         "country": "England",
         "status": "NS"
       }
+    },
+    {
+      "id": "a74290bc98734bd1c0bd059f411dd04dd784992893c9540eacc392fbf4880347",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "VNCCS_v3.0：model 模型更新",
+      "summary": "HuggingFace 上 MIUProject/VNCCS_v3.0 模型暂无下载量，获13个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/MIUProject/VNCCS_v3.0",
+      "publishedAt": "2026-10-01T06:48:56+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 13
+      }
+    },
+    {
+      "id": "6c8ed27dce05c4542f73e4009fa17a4cc794db243faf11fd39920d096c1ee293",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "reasoning-summarizer-qwen3.5-0.8b-preview-gguf：text-generation 模型更新",
+      "summary": "HuggingFace上线QyrouNnet-AI/reasoning-summarizer-qwen3.5-0.8b-preview-gguf文本生成模型，下载量352，获24赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/QyrouNnet-AI/reasoning-summarizer-qwen3.5-0.8b-preview-gguf",
+      "publishedAt": "2026-10-01T06:42:14+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 352,
+        "likes": 24
+      }
+    },
+    {
+      "id": "b609f687fdabbdc024f1febfac125f43a61440d37e3b4662da002468e26c92d8",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "reasoning-summarizer-qwen3.5-0.8b-preview：text-generation 模型更新",
+      "summary": "HuggingFace 上 QyrouNnet-AI/reasoning-summarizer-qwen3.5-0.8b-preview 模型获 238 次下载、11 个点赞，属主流 text-generation 模型。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/QyrouNnet-AI/reasoning-summarizer-qwen3.5-0.8b-preview",
+      "publishedAt": "2026-10-01T06:38:28+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 238,
+        "likes": 11
+      }
+    },
+    {
+      "id": "42cb432c21e8eb0b3d16a076d50c70fd765e4c7c5a86edaef21894b8a4688042",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "【神超s18】【18.3b阵容排行】结合虎将杯最新上分阵容推荐",
+      "summary": "UP主 GoDlike_神超 · 12,936播放 · 1:37",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117360988131498",
+      "publishedAt": "2026-10-01T03:00:00+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "GoDlike_神超",
+        "play": 12936,
+        "bvid": "BV1TPaf6tERt",
+        "duration": "1:37"
+      }
+    },
+    {
+      "id": "8ede9a35e3eaa155c9a3fb53a14609a03eb39c5c034f6e49509153b81efc9f17",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+      "summary": "SpaceXAI旗下AI百科Grokipedia重启编辑功能，v0.3更新上线：启用新Logo，优化首页及实时编辑页设计。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "publishedAt": "2026-10-01T00:23:45+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "9fe149dba1f029a8bcbb04bf41d234c671bb4a5ac5f9fead4bfb95b0945ff6cf",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "summary": "谷歌发布最新Gemini模型，主打编程与网络安全任务。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "publishedAt": "2026-09-30T23:43:07+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "169d8573aee99751a2130fd74858fe0274f8f14d770e3eebecb1b0b2f9732bbf",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "summary": "Flow Engineering将AI智能体引入硬件设计，获红点创投创始人Roelof Botha天使投资并加入董事会。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "publishedAt": "2026-09-30T21:07:40+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "2906593c3ff117786fcd333d9105bdef1c03d3f765d72bb3cfb199bd98ab154d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+      "summary": "Google发布新一代AI模型Gemini 4 Argon，称其在软件工程、法律金融及网络安全等领域达前沿水平，但目前限制访问。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "publishedAt": "2026-09-30T20:41:41+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "1227065291f1c04dc2f716c7f4eea0578358f79f027526141f598ae177ce194d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+      "summary": "So much for Gemini 3.5 Pro.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+      "publishedAt": "2026-09-30T20:11:08+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "0aab300125e34a8db517bdd9470f51b87516edd8a6d23aba410f62e4d2000793",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+      "summary": "AI虽不完美，但“幻觉”率低于肯尼迪。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+      "publishedAt": "2026-09-30T19:31:25+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b04f054d5c452a8c1dab6cac4529a704c3a9ff508d8464f0210d235c9e7dffe5",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "summary": "OpenAI推出“决策API”，被指为Jev克隆版，凸显低成本、高时效智能的重要性。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "publishedAt": "2026-09-30T19:00:57+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "0f8920f0fb7c48578b2c5fec668407a8c0e9b01fde47daed0b685ec30b4b9682",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+      "summary": "特朗普推动数十家AI企业签署自愿安全测试协议，强化人工智能风险管控。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
+      "publishedAt": "2026-09-30T18:47:01+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "254dd3883bd0b120664c045d6a9a337be13b855c1fbef5ff5b888e3d8ac5624b",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+      "summary": "非营利组织指控OpenAI因不安全决策给他人造成实际伤害。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+      "publishedAt": "2026-09-30T18:25:04+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "42aa093f9bb1c10681acc0cb9f25c5f9a1bd620d495a58e2257b5c3e72a946e3",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "summary": "3亿美元员工要约收购由威灵顿和T.罗威·普莱斯联合牵头。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "publishedAt": "2026-09-30T18:23:57+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "7f83616d373cd6d77a9857ce3ce23c7e6470c94da983d064255c8c5c9993fc05",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "The AI Tamagotchis are coming",
+      "summary": "Meta与OpenAI将在未来一年推出实体AI硬件，均以“可爱”软件代理为切入点，试图突破AI专用设备市场困局。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "publishedAt": "2026-09-30T18:07:38+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "8a7e54097a5b16132cd4eb58bcba8e0e6dd3abb63d6b604dddbdb506a9f7cd27",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
+      "summary": "研究针对临床诊断中类别不平衡问题，提出基于AUROC（非阈值、类平衡不变）的多模态大模型提示优化方法，超越传统准确率导向范式。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.40361v1",
+      "publishedAt": "2026-09-30T17:59:56+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanced: a constant-majority predictor can score above 90% accuracy while being clinically useless. We therefore evaluate and optimize for AUROC, a threshold-free score that ranks positives above negatives and is invariant to class balance. We focus on prompt optimization in MLLMs. Reflective methods such as GEPA use a binary scores matrix with one row per evaluation instance and one column per candidate prompt; cells record per-instance correctness, so the column average is accuracy and drives candidate selection. We introduce pair-level Pareto prompt evolution (Ranking-PE), which replaces each correctness row with a pairwise-ordering row over (positive, negative) instance pairs: the cell is 1 if the candidate scores the positive higher than the paired negative. The column average then equals empirical AUROC (by the Wilcoxon-Mann-Whitney identity). We apply this swap at all three layers the prompt evolution search reads from - the scores matrix that decides Pareto dominance, the per-example feedback to the reflection LM, and final candidate selection - at no extra model calls and with no surrogate loss. Across three diseases on MIMIC, accuracy-based prompt evolution can degrade ranking; Ranking-PE reverses this, beating the accuracy-based recipe by +5.8 AUROC pp on fine-tuned Qwen3-VL-8B and +16.2 pp on MedGemma-4B. Ablations examine each design component and show that a medical-grade visual backbone - via vision-encoder-tuned SFT or medical pretraining - is a prerequisite that prompt search cannot replace - our recipe extends reflective prompt evolution from text-only data to multimodal clinical decision-making."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Tian Xia, Minghao Liu, Yiqing Liang et al.",
+        "categories": [
+          "cs.LG",
+          "cs.CL",
+          "cs.CV"
+        ]
+      }
+    },
+    {
+      "id": "41ff542067694b62b49e87190da841968bfae297358ab7c25ab3eb860dc29892",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Semifactual Credit-Augmented Policy Optimization",
+      "summary": "研究发现RLVR中LLM对无关提示敏感，提出半事实干预法，抑制高偏移token可提升推理准确率，无需权重更新。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.40360v1",
+      "publishedAt": "2026-09-30T17:59:56+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features. We investigate this sensitivity through semifactual prompt interventions that preserve the underlying problem and its answer. Our analysis reveals substantial variation in token-level sensitivity and shows that suppressing high-drift token candidates during decoding improves reasoning accuracy without updating model weights. These findings highlight a limitation of Group Relative Policy Optimization (GRPO), which assigns the same outcome-derived advantage to every response token and may reinforce potential spurious dependence alongside useful reasoning. Motivated by this observation, we introduce Semifactual Credit-Augmented Policy Optimization (SCAPO), a causally inspired variant of GRPO that incorporates semifactual stability into token-level credit assignment. SCAPO measures token probability drift for fixed responses under semifactual interventions and uses normalized stability scores to reduce advantages for relatively unstable tokens during early training, while granting no additional credit for stability alone. On Qwen3-4B-Base and Qwen3-1.7B-Base, SCAPO improves AIME 2024-2026 accuracy over GRPO by 5.63 and 4.17 percentage points, respectively. At both model scales, SCAPO achieves the best results on most evaluated mathematics benchmarks and all evaluated out-of-distribution benchmarks among the compared methods. These results suggest that semifactual stability provides an effective training signal for improving reasoning and generalization through finer-grained credit assignment in RLVR. The code is available at https://github.com/DtYXs/SCAPO."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Junshu Pan, Zhizhang Fu, Shulin Huang et al.",
+        "categories": [
+          "cs.LG",
+          "cs.AI",
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "e984976e1ead32770e1806ac06f877826f137da9370553a356dab6c1c878ed45",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
+      "summary": "研究发现，非侵入式脑机接口的“脑-文本”解码性能提升，主要源于时间窗口重叠引入的语音时长线索，而非真实脑信号；剔除该捷径后性能显著下降。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.40359v1",
+      "publishedAt": "2026-09-30T17:59:52+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "We find that major reported improvements in decoding words from non-invasive brain recordings are largely reproducible without any brain data. In the influential work of d'Ascoli et al. (2025), time series of brain activity from subjects perceiving continuous speech are segmented into fixed-length windows starting at each word. A neural network then generates predictions for all of the words in a sentence together. Neighbouring windows partially overlap, implicitly revealing the interval between words. Since these intervals indicate the duration of the words spoken, and different words tend to have different durations - for example, \"the\" is much shorter than \"supercalifragilisticexpialidocious\" - the neural network can improve its predictions of words without relying on the underlying brain activity. Consistent with this, the method reaches 22.0% balanced accuracy on synthetic signals containing no brain information, compared with 22.3% on real brain recordings. To prevent the network from learning this shortcut, we make a single, simple change. Instead of jointly encoding all windows in a sentence, we process each independently. As a result, the neural network achieves better performance by learning underlying word-specific information from brain recordings. This makes two existing strategies become much more effective than before. Both aggregating predictions from distinct neural responses to the same word and using a pretrained LLM as a linguistic prior now substantially improve results. On our perceived speech benchmark, this simple recipe (SimpleB2T) achieves a word error rate of 36.6% with five observations per word, approaching past invasive speech decoding performance, albeit under different conditions. The results in this work expose an important shortcut in brain-to-text decoding and show that removing it leads to a simple and considerably more effective strategy."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Dulhan Jayalath, Oiwi Parker Jones",
+        "categories": [
+          "cs.LG",
+          "q-bio.NC"
+        ]
+      }
+    },
+    {
+      "id": "1e375e1d1ddad8f8c3cd2020889688bf75764a94f8579beb60cf4b54f7ae71cc",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
+      "summary": "ViTeX-Bench发布：首个高保真视频场景文本编辑基准，聚焦文字局部替换、视觉质量、时序一致性与编辑精准性。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.40356v1",
+      "publishedAt": "2026-09-30T17:59:33+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Recent video generation is increasingly realistic and controllable, yet video editing remains less developed, particularly for precise local edits that must preserve the original scene dynamics. Video scene text editing replaces text on scene surfaces, such as storefront signs, whiteboards, and product labels, while preserving the surrounding content, motion, and camera dynamics. Although scene text editing is well studied for images, video scene text editing that achieves high visual quality, temporal consistency, and edit locality remains underexplored. Existing resources offer limited paired real-video data, and general video-editing metrics do not directly measure whether the requested text remains correct over time. We introduce ViTeX-Bench, a benchmark suite comprising ViTeX-Dataset and a three-axis evaluation protocol. The dataset contains 387 real-world 720p videos with text-region masks and editing instructions: 230 provide reviewed, pipeline-generated paired edits for training, and 157 form a frozen evaluation split. The protocol evaluates text correctness, visual and temporal quality, and edit locality through 13 metrics, with one primary metric per axis and a Pareto comparison of their trade-offs. OCR calibration, human evaluation, and annotation-sensitivity analyses support the interpretation of these scores. Across eight baselines from four editing families, accurate text, temporal stability, and scene preservation remain difficult to achieve together. We also release ViTeX-Edit-14B, an open-source reference editor fine-tuned on the paired training split with motion-aligned glyph-video conditioning. It achieves CharAcc 0.688, the highest mean among the evaluated video-native editors, and the lowest comparable text-crop Warp among raw editor outputs. ViTeX-Bench provides a reproducible foundation for studying these trade-offs in video scene text editing."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Xinghao Chen, Xiangbo Gao, Jiongze Yu et al.",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "1fe7b0420efc22c609021a77d1fecfbc3144bad8fdfef5bba42b32249c2bd22a",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Image Classifiers are Efficient Self-Supervised Video Representation Learners",
+      "summary": "研究提出VideoMSN框架，用图像ViT高效学习视频自监督表征：将视频转为“超图像”，通过空间掩码与时间掩码双视图训练，避免帧间信息泄露。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.40347v1",
+      "publishedAt": "2026-09-30T17:59:03+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "We introduce VideoMSN, a Masked Siamese Network framework for efficient self-supervised spatio-temporal representation learning in videos. Instead of relying on heavy 3D architectures or reconstruction-based autoencoders for learning with unlabeled data, we repurpose standard image Vision Transformers by representing videos as super images which are grids composed of frames sampled from videos. From each super image, we construct two views: one with spatial patch masking and the other with temporal frame masking, ensuring no information leakage across frames. A shared Vision Transformer (ViT) encoder aligns their embeddings using a masked Siamese loss, capturing both motion and appearance cues without reconstruction. Our decoder-free formulation leverages an image foundation model towards efficient video representation learning. Starting from pretrained DINO-v3 and DeiT-v3 image encoders, VideoMSN achieves state-of-the-art performance on Kinetics-400, UCF101, and HMDB51 while requiring up to $32\\times$ fewer and $160\\times$ fewer video pretraining epochs compared to prior video self-supervised learning methods. Our proposed approach also shows strong performance in low-shot classification, confirming the transferability of the learned representations in a label-scarce scenario. Project Page: https://cvir.github.io/projects/videomsn."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Owais Iqbal, Sudipta Sarkar, Shyam Marjit et al.",
+        "categories": [
+          "cs.CV",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "ff3adde59b4c0f19283053aa94d9df0c8e4c15df134e41cbe090d5a79967748b",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery",
+      "summary": "EvoDuet提出双层协同进化框架，让LLM在科学发现中同步优化解与搜索查询，通过检索门动态决定是否检索、复用或跳过文档，提升知识获取效率。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.40340v1",
+      "publishedAt": "2026-09-30T17:58:28+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Evolutionary search with large language models (LLMs) can stall when progress requires external knowledge the model lacks. Supplying relevant documents helps, but simply adding web search tool can keep returning the same pages as solutions change. We introduce EvoDuet, a bi-level optimization method that co-evolves solutions and search queries with fixed model parameters. At each iteration, a retrieval gate lets the LLM assess its knowledge gap and choose to retrieve new documents, reuse stored ones, or proceed without them. An inner loop refines queries and ranks documents by the solution scores they are predicted to yield; an outer loop generates candidates in parallel from these documents and records the evaluated outcomes for later searches. Across 21 optimization tasks with one candidate per iteration, EvoDuet raises OpenEvolve's normalized discovery gain from 74.1% to 78.0% with GPT-5.6-Luna and from 61.3% to 82.3% with Gemini-3.8-Flash, whereas Qwen3.5-9B does not benefit. Our best runs surpass the previously reported best scores on eight tasks, including Swap Reduction on Q20 and Rosetta, and match them on three more. EvoDuet also improves with other scaffolds (e.g., Top-K, EvoX) on Sums/Diffs and Denoising, demonstrating its applicability across evolutionary search scaffolds."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Young-Jun Lee, Jinheon Baek, Soyeong Jeong et al.",
+        "categories": [
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "af41cf20a485a30ca0c8884d87891782ab5bbaecba8a3a1a6daa70ac127f3750",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?",
+      "summary": "研究探究差分隐私SGD下解码器LLM中权重绑定的影响，以GPT-2和DistilGPT-2为实验对象，揭示其在隐私训练中的有效性与权衡。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.40335v1",
+      "publishedAt": "2026-09-30T17:57:43+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Differentially Private Stochastic Gradient Descent (DP-SGD) is a leading approach for privacy-preserving fine-tuning of large language models (LLMs). Many decoder-only LLMs employ weight tying between input and output embeddings, a design choice originally introduced for parameter efficiency and improved language modeling performance in the non-private setting. However, the impact of weight tying under differentially private training remains largely unexplored. In this work, we investigate the role of weight tying in the DP setting using GPT2 and DistilGPT2 as representative decoder-only architectures. Interestingly, we find that untied embeddings consistently outperform weight-tied models under DP-SGD, achieving gains of up to 4.74% points in accuracy on SST-2, QNLI, and QQP. Beyond improved utility, untying embeddings enables the use of memory-efficient ghost clipping for DP-SGD. By contrast, weight tying introduces shared-parameter interactions that complicate standard ghost norm computation and largely negate its computational advantages. As a result, untied models achieve over 60% lower memory usage while preserving the benefits of ghost clipping. Our results indicate that untied embeddings provide a more effective and scalable design for differentially private training of decoder-only LLMs and highlight the need to revisit standard LLM architectural choices in the privacy-preserving setting."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Razan El Mais, Ali Chehab, Ibrahim Issa et al.",
+        "categories": [
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "03c76c5991540d35cf3dfb5066423a7866d824af74c3f75beb94b93350c27413",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Turbo Harness: Instance-Adaptive Harness Optimization",
+      "summary": "Turbo Harness提出实例自适应优化框架，复用全局优化过程中的中间产物，为每个任务实例动态调整harness，提升个体性能。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.40330v1",
+      "publishedAt": "2026-09-30T17:56:09+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Automating the search for effective harnesses is an important step toward enabling agents to recursively self-improve. Existing harness optimizations typically produce a single global harness that is applied uniformly across task instances. However, a harness that works well on average may not be optimal for every instance. We introduce Turbo Harness, a framework that can adapt a globally optimized harness to each instance by reusing information generated during the original optimization process. Specifically, Turbo Harness recycles artifacts produced during a completed global harness optimization run, and summarizes them into a structured playbook. We train a harness editor to leverage this prior optimization experience to generate instance-specific patches to the global harness. At inference time, the editor uses the instance and the playbook to construct a tailored harness in which the execution model operates. Through numerical experiments, we show that Turbo Harness consistently outperforms existing harness optimization baselines across seven benchmarks spanning interactive agent tasks, software engineering, and long-horizon terminal tasks."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Tunyu Zhang, Hao Wang, Kai Xu et al.",
+        "categories": [
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "c9e875fd974d936e029ca3aaa8c90f9851233910e819580e75d1a52bc25802c9",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents",
+      "summary": "WorldAuditBench提出多模态智能体协同的3D世界审计框架，支持自动检测浮动物体、可穿越墙等异常，提升仿真环境质量评估效率。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.40325v1",
+      "publishedAt": "2026-09-30T17:55:29+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "As interactive 3D worlds are increasingly used to study intelligent behavior, it becomes important to develop efficient pipelines for identifying anomalies in these simulated environments, such as floating objects, traversable walls, or objects inconsistent with the surrounding scene. Multimodal AI systems, including vision-language models (VLMs) and vision-language-action models (VLAs), have shown potential for automating this task. However, 3D world auditing is complex, requiring the close coupling of two distinct capabilities: action, to navigate the 3D world and search for anomalies systematically and efficiently; and visual reasoning, to understand the environment and identify anomalies from multimodal observations. It remains largely unexplored whether multimodal agents can effectively couple these two capabilities, using visual reasoning to identify potential anomalies while taking actions to validate them. In this paper, we introduce WorldAuditBench, a benchmark for 3D world auditing comprising 213 anomaly tasks across 13 environments built with Unreal Engine 5 and Three.js, spanning five anomaly families. We evaluate five frontier models under a fixed exploration budget using two auditing paradigms: VLA-based exploration followed by VLM-based anomaly identification, and an end-to-end VLM agent in which visual reasoning directly guides action selection. Across the evaluated models and two paradigms, success rates range from 6.6% to 42.3%, substantially below human performance (83.4%). Through the task of world auditing, WorldAuditBench provides a testbed for studying how multimodal agents couple action and visual reasoning in interactive 3D environments, while highlighting current limitations in their ability to gather and interpret evidence during exploration."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Ziyan Jiang, Jingbo Yang, Jiabao Ji et al.",
+        "categories": [
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "72ff7c5729281b7618217ad1d669b9174e89fb0ef958e644db2a87d505b12024",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Cogentic: Multi-Agent Orchestration for Automated Proof Discovery",
+      "summary": "Cogentic是多智能体系统，通过“证明—验证”循环协同探索数学开放问题，提升自动定理发现能力。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.40324v1",
+      "publishedAt": "2026-09-30T17:55:22+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "We present Cogentic, a multi-agent harness for automated proof discovery on open research problems. While frontier language models can generate strong mathematical ideas in a single shot, single-shot generation is often insufficient for open problems that require exploring multiple competing conjectures, overcoming subtle technical obstructions, and retaining intermediate progress over a long horizon. Cogentic addresses these challenges through an iterative prove--verify loop in which an orchestrator allocates a population of independent provers across distinct proof directions, subjects their output to adversarial verification by several specialized components, and promotes confirmed intermediate results into a persistent verified ledger that later rounds build on. The harness is designed to be able to solve research-level math and theoretical computer science problems. Using Gemini as the base model, Cogentic produced novel results on five open problems across online learning, auction theory, and mechanism design. Each result was independently verified by domain experts and is developed in full in companion papers. We list these results, and new ones as they are verified, at https://sites.google.com/view/cogentic ."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Yang Cai, Vineet Gupta, Yanchen Jiang et al.",
+        "categories": [
+          "cs.AI",
+          "cs.GT"
+        ]
+      }
+    },
+    {
+      "id": "d4ee93f77dd95168268231e6fa2ab1745efe0120cfaeb5c2c7dc38a8e0cce0ee",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "MatLoom: Layered Text-to-Material Generation in a Compact Program Space",
+      "summary": "MatLoom是一种紧凑的层式编程语言，利用预训练语言模型实现文本到材质生成，支持Alpha遮罩层、空间表达与PBR通道，可生成材质贴图并保留可编辑参数。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.40322v1",
+      "publishedAt": "2026-09-30T17:55:06+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Material generation should produce not only an appearance, but also the rules that construct it. We introduce MatLoom, a compact, layer-oriented language for text-to-material generation with pretrained language models. Each program composes alpha-masked layers whose shared spatial expressions define coverage and physically based rendering (PBR) channels, making dependencies between patterns, color, and relief explicit. A standalone interpreter evaluates the program into material maps, while the source retains named fields and layer parameters for subsequent authoring. Without task-specific fine-tuning, our pipeline uses parser-guided repair and preview-based critique to revise material designs, then searches noise seeds while keeping each candidate's remaining source fixed. On a curated benchmark of 141 prompts evaluated with six backbones, our best-performing configuration achieves higher mean scores than three diffusion baselines on all four flat-layout prompt-alignment metrics. Its initial programs already exceed all three baselines on mean BLIPScore, before critique or seed search. Retained programs have a median length of 21 lines when pooled across backbones. In a blind four-way comparison involving 30 participants and 20 prompts, our renders receive 59.2% of choices, compared with 19.3% for the most-preferred baseline. Compact executable programs thus offer a way to generate prompt-aligned materials while retaining their construction as part of the asset."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Anson Y. Lam, Shuqing Li, Michael R. Lyu",
+        "categories": [
+          "cs.CV",
+          "cs.AI",
+          "cs.CL",
+          "cs.MM"
+        ]
+      }
+    },
+    {
+      "id": "0a0b4d3a0915254fa0dd6e30e95e32afc216d312f2e074392b04f83df11fc02f",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Scaling Laws for Looped Mixture of Experts",
+      "summary": "研究提出“循环缩放定律”，首次联合建模循环结构与MoE稀疏性，揭示二者协同提升有效参数的机制。（59字）",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.40316v1",
+      "publishedAt": "2026-09-30T17:53:47+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Looped transformers and Mixture-of-Experts (MoE) offer complementary routes to efficient scaling: recurrence increases computational depth at fixed parameters, while MoE sparsity expands total capacity at fixed active compute. Yet existing scaling laws model recurrence or sparsity in isolation. In this work, we introduce Loop Scaling Laws, the first scaling law to jointly model recurrence and sparsity alongside model size and data. At its core is a bounded, sparsity-conditional recurrence mapping that characterizes the effective-parameter gain from looping and how sparsity raises this gain. The laws predict the held-out loss of looped models more accurately than prior alternatives, and recover the standard dense and MoE scaling laws as special cases. Beyond prediction, the fitted laws provide a principled foundation for designing looped MoE models under compute and memory constraints. Downstream evaluations further demonstrate the complementary benefits of the two axes: sparsity delivers ~3x active-parameter efficiency, recurrence yields ~2x total-parameter efficiency on reasoning, and joint scaling further advances the performance frontier. As a practical extension, we show these gains hold at trillion-token scale: at matched training compute, a looped MoE with law-derived recurrence matches a ~2x larger non-looped MoE on the reasoning benchmarks, while enabling test-time scaling through recurrence."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Yanbei Chen, Anirudh Goyal, Raghuraman Krishnamoorthi",
+        "categories": [
+          "cs.LG",
+          "cs.AI",
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "3c0c54164a323114ed5656b2129164b116fabfbbf17a418235f60d1c0ec01009",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Compression Footprints as Security Signals for Model-Poisoning Defense in Federated Learning",
+      "summary": "本文提出“压缩足迹”概念，利用联邦学习中损失压缩的输入依赖失真特性，提取重建、方向、稀疏性等统计特征，作为检测模型投毒攻击的新安全信号。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.40312v1",
+      "publishedAt": "2026-09-30T17:53:14+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Lossy compression is widely used in Federated Learning (FL) but is generally treated as an error source, while conventional poisoning defenses inspect update geometry. In this work, we instead treat the compressor's response as a security signal: the input-dependent distortion and payload behavior induced by lossy compression can expose differences between honest and attack-generated updates. We introduce the concept of a \\emph{compression footprint}: the low-dimensional collection of reconstruction, directional, sparsity, and payload statistics induced by a lossy compressor. We characterize sufficient conditions under which compression footprints separate honest and malicious updates, and operationalize our findings in the CRAFT (\\emph{Compression-guided Robust Aggregation via Footprint Trust}) server-side robust aggregation method. Crucially, under a strict honest-majority assumption, CRAFT uses server-verifiable footprints, requires no client-side metadata nor knowledge of the number of malicious clients, and adds no communication beyond the compressed FL pipeline. Moreover, while CRAFT assumes a strict honest majority, it does not require the number of malicious clients to be known in advance. We observe that error-bounded lossy compressor (EBLC) footprints provide stronger separation than Top-K footprints and that footprint trust suppresses malicious influence. We evaluate CRAFT under IID client data with 36\\% malicious participation across six standard model-poisoning attacks, three datasets, and six robust aggregation baselines, finding that CRAFT consistently achieves the best accuracy in 7 out of 18 settings and within 1.7 percentage points of the best in the others. Our results show that lossy compression can serve as both a communication mechanism and a security signal for robust aggregation in FL."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Sachi Shome, William Eiers",
+        "categories": [
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "40dbd277c234c9cd0bd20997c27467ac30fd541f53101faf8ce828d13c80cbe7",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents",
+      "summary": "DynaHarness是一种动态物理约束框架，通过“执行契约”耦合语义推理与物理控制，将失败证据转化为经验证的能力修正，提升长时程机器人操作可靠性。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.40306v1",
+      "publishedAt": "2026-09-30T17:52:09+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Pretrained robot policies provide useful action priors, but long-horizon manipulation still requires coordination between semantic reasoning and physical execution. Semantic reasoning operates at a coarser timescale than physical interaction, while episode-level failures provide limited guidance on which system component should be revised. We propose DynaHarness, a dynamic physical harness that couples semantic reasoning with physical governance through a shared execution contract and turns failure evidence into validated capability revisions. To be more specific, the slow brain proposes capabilities and symbolic arguments, while the fast brain grounds and monitors commands, refuses unresolved actions, substitutes capabilities, and requests replans when needed. The physical execution contract bounds each accepted command and records execution evidence across analytic skills, recovery skills, and the frozen VLA. Failure attribution localizes faults in these records and directs targeted revisions of reusable capabilities or execution mechanisms. Paired regression checks govern admission or rejection, closing the self-evolution loop. On LIBERO-Pro, DynaHarness achieves 75.2% on 800 newly sampled initial states, compared with 17.5% for the frozen policy. With the same capability library, full dynamic execution reaches 74.0% versus 63.9% under nominal one-step replanning. This demonstrates the value of DynaHarness as a dynamic physical harness that governs how existing capabilities are grounded, monitored, and coordinated during execution. Our project page is at https://denghaoyuan123.github.io/Dynaharness_page/."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Haoyuan Deng, Jiebin Liu, Tengxiao Zhang et al.",
+        "categories": [
+          "cs.RO",
+          "cs.AI",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "0acab66325b3d2543f0d36609fb129c8ddbde5359168dbb831f9924427337b15",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Looped Diffusion Transformer",
+      "summary": "提出Looped Diffusion Transformer：在每步去噪中循环复用共享Transformer模块，固定参数量下提升计算深度，实现表征迭代优化。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2609.40305v1",
+      "publishedAt": "2026-09-30T17:52:08+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Improving text-to-image models has traditionally relied on increasing model size or the number of denoising steps. In this work, we explore an alternative way to scale computation by repeatedly running shared Transformer blocks within each denoising step, effectively increasing computational depth while keeping the parameter count fixed. This looped computation enables iterative refinement of internal representations without explicit reasoning tokens. However, naive looping fails to consistently improve image quality. We trace this problem to weak supervision across intermediate loops and unregulated attention updates that progressively erode local information. To overcome these challenges, we propose Looped Diffusion Transformer (Looped-DiT), which combines deep supervision across intermediate loops with self-modulating attention to stabilize looped feature updates. Under matched-parameter and matched-compute settings, Looped-DiT consistently outperforms non-looped baselines. Notably, a 260M-parameter looped model can surpass a model 6.5x larger across multiple text-to-image benchmarks while requiring 4.9x lower inference compute. Beyond this performance gain, we find that looped computation can offer a more effective form of iterative computation for diffusion models, with increasing loop depth yielding larger gains than adding more denoising steps under a fixed inference budget. Furthermore, deeper loops can progressively correct mistakes made in earlier loops, exhibiting behaviors suggestive of latent reasoning. Together, these results show that looped computation offers a promising way to scale visual generation models."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Yong Xien Chng, Tianyi Chen, Wenwen Tong et al.",
+        "categories": [
+          "cs.CV",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "5c65f33be53048781b1cfdadf25e1344acc48d8d2c6f38ca7c375aeff0b3c8f7",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "summary": "Reddit将终止RSS订阅支持，进一步收紧用户生成内容的访问权限。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "publishedAt": "2026-09-30T17:45:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "27c4fa50c42d69078cf13d41573d1fb2e0ef8b8275dd9b49c87054d3d81d726d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "The ugly economics of consumer AI",
+      "summary": "前沿实验室对消费级AI趋于谨慎，并非因技术不成熟，而是出于其他关键考量。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "publishedAt": "2026-09-30T17:24:45+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "36215ba58a7fcc5e6462447963668ee791a713ba46040b0d023fab7ed8d60ddc",
@@ -189,6 +959,25 @@
       "seg": null,
       "cat": "行业动态",
       "title": "Here&#8217;s what AI leaders are saying about Trump&#8217;s new safety plan",
+      "summary": "特朗普称此前称AI安全担忧是“骗局”的说法已过时，因他将AI更名为“超级智能”。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+      "publishedAt": "2026-09-30T17:15:49+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "0559e67abe21f48b8f032b078a9762680400ad09cc09042e13225336f5a387e2",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
       "summary": "特朗普称此前称AI安全担忧是“骗局”的说法已过时，因他将AI更名为“超级智能”。",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
@@ -6734,955 +7523,43 @@
       "points": [],
       "live": false,
       "extra": {}
-    },
-    {
-      "id": "c4b0af5a8ea2a2d9ddb48d63796becb6405c4fec511ba2885a527978dabaef37",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Nemotron-3-Diarization：voice-activity-detection 模型更新",
-      "summary": "Hugging Face 上主流语音活动检测模型 NVIDIA/Nemotron-3-Diarization，下载量27次，获166赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/nvidia/Nemotron-3-Diarization",
-      "publishedAt": "2026-09-24T05:52:51+00:00",
-      "tags": [
-        "huggingface",
-        "voice-activity-detection",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 27,
-        "likes": 166
-      }
-    },
-    {
-      "id": "e8c7deeba628a67701eb09ae87ccf82840e847a3b01681e964106be8800a5832",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
-      "summary": "Stripe Managed Payments (SMP) 现已全面上线",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/496779.html",
-      "publishedAt": "2026-09-24T05:46:10+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "e76e56926659d6252c9a4ead460af58beb5deeca43a767b02da3947223a7598a",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
-      "summary": "专治人机动作对不齐",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/496778.html",
-      "publishedAt": "2026-09-24T05:45:20+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "e052a91c7e6222f6fb6df32e136afc503a9d1f42e434acffec074b6172a60295",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen-Image-2.1-viggle-turbo：text-to-image 模型更新",
-      "summary": "HuggingFace上主流文生图模型Viggle/Qwen-Image-2.1-viggle-turbo获1507次下载、140个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
-      "publishedAt": "2026-09-24T05:39:55+00:00",
-      "tags": [
-        "huggingface",
-        "text-to-image",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1507,
-        "likes": 140
-      }
-    },
-    {
-      "id": "d8da8afe323fc4a5e480f66280d484edf80a9c77444309ac691b8a7c94d7ea58",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "laya-multilingual：text-classification 模型更新",
-      "summary": "HuggingFace 上 text-classification 模型 convaiinnovations/laya-multilingual 目前下载量为 0，获 224 个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/convaiinnovations/laya-multilingual",
-      "publishedAt": "2026-09-24T05:39:24+00:00",
-      "tags": [
-        "huggingface",
-        "text-classification",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 224
-      }
-    },
-    {
-      "id": "e5bc93036e790e421d50b7541ae327006b7c0f8cdcbc9903be9377827130d768",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "laya：text-classification 模型更新",
-      "summary": "HuggingFace 上 text-classification 模型 convaiinnovations/laya 目前下载量为 0，获 3173 点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/convaiinnovations/laya",
-      "publishedAt": "2026-09-24T05:39:22+00:00",
-      "tags": [
-        "huggingface",
-        "text-classification",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 3173
-      }
-    },
-    {
-      "id": "e4e41a27dcf4eacd9fa1dac31019eaf3aa8535f5d88e5589a62de969693817cb",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
-      "summary": "开源一座具身智能的新“塔台”",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/496767.html",
-      "publishedAt": "2026-09-24T05:19:55+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "7faf0bd5e54a342cf488482268e9224f2921203747222d40d0ea7424cfaff86b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
-      "summary": "懂出海，能记忆，自进化",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/496740.html",
-      "publishedAt": "2026-09-24T04:11:51+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "de9434c27c64f3ca400ed19cb0b677951997065cc483dbb3bcc404a27f2c7789",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
-      "summary": "9月23日，海信发布2026秋季新品E7S Pro+电视，定位“原生真彩，性能旗舰”，采用RGB-Mini LED技术。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/496658.html",
-      "publishedAt": "2026-09-24T02:51:18+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c8e3502c1244f4939075a78ca5839e5764a6906beee2d4d7df8fc3b1b539d170",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
-      "summary": "美国也开启了全民养虾狂潮",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/496647.html",
-      "publishedAt": "2026-09-24T02:23:12+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "feee5db796fc40f6e7c12904df811d9cea3f522319ca29b8cac27ae30933e205",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Everything new coming to Meta’s AI agent Muse",
-      "summary": "Meta CEO扎克伯格在Connect大会宣布全力押注AI助手Muse，将登陆Meta AI眼镜。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-      "publishedAt": "2026-09-24T01:13:32+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "71b770761ce6986274ed91f9f903e1b71c5efcb478714ccca58624d7df96d883",
-      "module": "lol",
-      "seg": "rift",
-      "cat": "峡谷攻略",
-      "title": "国服第一大虫子狮心玉    新赛季坦克出装教学大虫子",
-      "summary": "UP主 谁听我吟唱 · 119播放 · 203:8",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117323306373149",
-      "publishedAt": "2026-09-24T01:03:36+00:00",
-      "tags": [
-        "lol",
-        "rift",
-        "英雄联盟 上单 出装 攻略 教学"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "谁听我吟唱",
-        "play": 119,
-        "bvid": "BV1jzhf6zEwv",
-        "duration": "203:8"
-      }
-    },
-    {
-      "id": "40d818cea166d204980fe476c4e75fa90ea816bc30b3d9780dd2f8d35342d45c",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "成立九年，中科类脑把积累装进Token工厂",
-      "summary": "",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/496615.html",
-      "publishedAt": "2026-09-24T00:48:02+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "6bac15577125b4f0e0d9bebf33be644209981ae0da1803c9cbf8391b33c9ae33",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "summary": "微型硬件设备为AI代理Muse打造了另一个移动“家”。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-      "publishedAt": "2026-09-24T00:46:17+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "28622f65458e8ce1d8f3a7e3bc5a22bc46aa808f18dd1891e3c633de247834d2",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta is making a standalone Muse AI gadget",
-      "summary": "Meta正研发专用于Muse AI代理的硬件设备“Muse Charm”，外形似无表带厚款智能手表，配小挂绳，Zuckerberg在Meta Connect发布会尾声短暂展示。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-      "publishedAt": "2026-09-24T00:15:20+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "7fa70725ecce0c8c197dc7221b9b7a4f58cab0137270f3d0aa04c1a624c13b14",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Muse is coming to Meta smart glasses",
-      "summary": "Meta宣布正将AI助手Muse接入新款智能眼镜，用户可通过语音唤醒，执行健身指导、记录等任务。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
-      "publishedAt": "2026-09-23T23:40:56+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "393152d228d2a07d226b0702ebea0b8aa1031845de369bf36aeaaa190f83d704",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta introduces camera-free AI glasses",
-      "summary": "Meta推出无摄像头智能眼镜，更轻便，续航长达12小时。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-      "publishedAt": "2026-09-23T23:39:44+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "8ce39c26e6c2a1a1ed4342f288c2f6bc1b9391e8aa3d039e249768266a498bad",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta ditches the camera on its newest smart glasses",
-      "summary": "Meta Connect 2026展会上，各色智能眼镜遍地开花；而公众对可穿戴监控设备（如智能眼镜、手表）的抵制仍在持续。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-      "publishedAt": "2026-09-23T23:37:17+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "16f935ab6eb74ee5a28ed509c0f93abf7b77dd7cc3677a56b99e665d5fd1cba8",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-      "summary": "Meta升级AI代理Muse：新增专属邮箱、多模态交互及任务执行能力，提升实用性与沟通方式。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-      "publishedAt": "2026-09-23T23:19:42+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "997fe625d236990d46b3c214bd45610626f80eca3e8336f1d8144263b6a9e7f6",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta Connect 2026: The biggest news and announcements",
-      "summary": "Meta即将举办年度Connect大会，聚焦AI与智能眼镜等可穿戴设备，CEO扎克伯格将公布相关更新。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
-      "publishedAt": "2026-09-23T22:45:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "dcbf1c87b4cda6a3360eb6d5e621301bd674c6119786f1c3f8f2b237b89ae6dd",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
-      "summary": "Meta举办年度9月新品发布会，扎克伯格将发表主旨演讲，主题为“构建人人共享的未来”。The Verge现场直播报道。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
-      "publishedAt": "2026-09-23T22:30:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f38b9bbe71ad22572d081da3c1c2bb7a04a94cc2920fdfaf57ca9388d5a5ca30",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic says its biology lab has already found something big",
-      "summary": "Anthropic未让Claude自主运行生物学实验，人类仍全程参与把控。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-      "publishedAt": "2026-09-23T22:17:39+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "8d63a9794e334f7f09d2d0923ac21dab60d695fc82d7a4ab7ba21edcbcf2f96e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
-      "summary": "特朗普强调赢得“AI竞赛”，或致中国不愿共享AI安全情报。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
-      "publishedAt": "2026-09-23T20:52:28+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "022ccdbb774acef8d5a4261d90f3d0f3f386198e34a05d74618bea33be456178",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
-      "summary": "1100万美元竞赛表明：野火探测技术已较成熟，但扑灭野火仍远未解决。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
-      "publishedAt": "2026-09-23T20:28:42+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f658353a2486542c9173bb71139d417e01d63351f008e125d44dcea2bd80708e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "YouTube promises custom feeds and a lot more AI later this year",
-      "summary": "YouTube明年将重点推进AI与直播，重塑内容推荐与呈现方式。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
-      "publishedAt": "2026-09-23T19:35:53+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "906217d70d96c2a843609498f786c1d711a1664e1e32e5f887ba83393a6861cc",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-      "summary": "该AI生物技术公司最新融资估值达20亿美元，正研发治疗皮肤病及维持GLP-1停药后减重效果的药物。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-      "publishedAt": "2026-09-23T19:31:28+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "6931f0316a0b0e25e0d8a762339dc9408c0f3670044432d57bad697b7c9bc0d7",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
-      "summary": "现代生活充斥着自动更新的待办事项：哪怕无所事事，突发状况（如后院树枝坠落）也会瞬间催生新任务。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
-      "publishedAt": "2026-09-23T19:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d9bffd5d76146d4810e1d358dc7131660a8a6771e514ecd8918669c2575fb47d",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "publishedAt": "2026-09-23T18:41:40+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "99be1384da58c9dd0f7edf783fc8ed5b8a10a0f2675a609291e9120e9f3a7678",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Data centers are black boxes, but California wants to change that",
-      "summary": "加州州长纽森签署多项法案，要求数据中心公开用电用水数据，并赋予社区更大话语权，以应对AI基建扩张引发的抗议。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
-      "publishedAt": "2026-09-23T18:22:57+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c018595a6db27691205c70a54e125ba78e5566a51bd4dfd77c14780041b7042a",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "On the Diffusibility of High-Dimensional Latents",
-      "summary": "研究发现：微调视觉编码器提升重建质量，却意外降低表征维度，改变几何结构，进而影响扩散模型生成效果。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.28473v1",
-      "publishedAt": "2026-09-23T17:59:56+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Representation Autoencoders (RAEs) enable diffusion models to operate in the feature spaces of pretrained visual encoders. However, many off-the-shelf encoders are not optimized for faithful reconstruction, discarding fine-grained visual details. As expected, finetuning these encoders for image reconstruction recovers such details. However, perhaps counterintuitively, this procedure reduces the effective dimensionality of the resulting representation, and the altered geometry has downstream effects on generation. Specifically, we show that using the standard velocity prediction in flow matching in this high-dimensional space requires the model to fit orthogonal noise directions outside the low-dimensional signal manifold, making optimization inefficient. This motivates using the clean data parameterization ($\\boldsymbol{x}_{0}$-prediction) instead, which focuses learning on the underlying signal manifold. Across experiments with multiple strong-reconstruction encoders, we show that $\\boldsymbol{x}_{0}$-prediction consistently improves text-to-image generation performance."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Chao Feng, Zhiyang Xu, Bowei Chen et al.",
-        "categories": [
-          "cs.CV",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "bb9ea2b16542715ece13b04861bbb65b76beaeedbad0ba9a3769619af52528df",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Contrastive Learning for Authorship Verification",
-      "summary": "Peter Kirby提出ModernBERT双编码器模型，采用对比学习，在PAN21任务中达98.4%准确率，优于分类法。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.28471v1",
-      "publishedAt": "2026-09-23T17:59:08+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Our results show that contrastive learning outperforms a classification-based approach to authorship verification under the tested settings. We identify loss function, batch size, training duration, pre-trained model, input context length, and random text span data augmentation as important factors of model performance. Based on these considerations, we develop a ModernBERT Bi-Encoder model that achieves 98.4% accuracy on the PAN21 authorship verification task."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Peter Kirby",
-        "categories": [
-          "cs.CL",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "24e1560dc5937ecc7f951603d58d8d45e08a005257a73118d44e2c88a9c9b08f",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "StudentBench: AI and human tutoring yield equivalent GRE learning gains",
-      "summary": "研究显示，AI辅导与人类辅导在GRE考试中学习效果相当，基于StudentBench平台超17.5万条学生-AI交互数据及2383名参与者实证。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.28470v1",
-      "publishedAt": "2026-09-23T17:57:45+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Artificial intelligence offers an unprecedented opportunity to augment human capabilities, yet progress at the frontier has focused primarily on advancing model capabilities. We introduce StudentBench, a suite of AI teaching evaluations and a public platform that enables large-scale data collection with over 175,000 student-AI messages to study whether large language models (LLMs) produce learning gains equivalent to human tutoring. Using StudentBench, we measured learning gains on Quantitative and Verbal GRE questions across 2,383 human participants receiving AI tutoring, human tutoring, or no tutoring. We establish that AI tutoring is statistically equivalent to expert human tutoring for GRE learning gains (p = .015), and in five of the seven GRE domains, the best performing AI tutor surpassed the human tutor, on average. In a second study, expert human tutors compared LLM-generated lesson plans and practice problems through 2,028 pairwise rubric evaluations. Together, the two studies clearly separate AI tutors across: (1) lesson planning, (2) practice-problem creation, (3) conversational pedagogy, (4) cost, and (5) engagement. Surprisingly, one AI tutor achieved learning gains equivalent to human tutoring (p = .044) at 918 times lower cost (USD 0.0052 for AI versus USD 4.81 for human, per percentage point gained). For Quantitative GRE sessions, faster AI replies correlated with more student messages, more messages with more correct practice, and more correct practice with larger learning gains (all p < .002). The StudentBench platform is freely available at https://studentbench.org."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Curtis Northcutt, Inaara Hasmani, Kevin Feng et al.",
-        "categories": [
-          "cs.AI",
-          "cs.CY"
-        ]
-      }
-    },
-    {
-      "id": "e6932d7938c85d6bf2ec14cdd5331382ec9ac201cb91b7fd598008e737f9c958",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Where Should I Join? Robot Group Joining via Language-Guided Goal Prediction",
-      "summary": "论文提出语言引导的机器人组队加入方法，基于视觉与自然语言理解，预测符合社交规范的加入位置，适用于导盲机器人等场景。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.28467v1",
-      "publishedAt": "2026-09-23T17:55:48+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Social navigation typically assumes a specified goal and focuses on reaching it while respecting social conventions, whereas robot group joining requires predicting where to join based on the group's real-time activity and formation. This is a highly semantic task, yet an important capability for applications such as robotic guide dogs and autonomous mobility scooters. We formulate language-grounded robot group joining: given an observation and a natural-language description of a target group, the robot identifies the relevant group members and predicts socially compliant joining poses. For grounding, we generate structured candidate subsets through recursive spectral partitioning and rank them with a language-conditioned image--geometry model. Given the grounded group, a goal predictor leverages human-formation priors to produce a multimodal energy--orientation map over feasible robot poses. Experiments on conversations, queues, and audiences across varying group sizes, crowd densities, and visual ambiguities show that our method achieves competitive grounding accuracy with sub-second inference and outperforms all baselines in joining-pose prediction. Real-robot experiments further demonstrate group joining in both static and dynamically changing interactions."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Zilin Fang, Zishuo Wang, Gim Hee Lee et al.",
-        "categories": [
-          "cs.RO",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "5c8d97d7c90fec7a2fb48f4a9ad76730ba190dff43e7bb490e9b49680928fc5a",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Even Sharper Bounds for Transductive Learning and Its Applications",
-      "summary": "提出STLC方法，基于Bernstein型不等式与交换行走的修正对数Sobolev不等式，为无放回均匀抽样下的转导学习提供更紧致的过风险界。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.28459v1",
-      "publishedAt": "2026-09-23T17:52:50+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "We introduce Sharper Transductive Local Complexity (STLC), a localized complexity method for transductive learning under uniform sampling without replacement. The construction starts from a Bernstein-type concentration inequality for the supremum of the test--train empirical process. Its proof uses the modified log-Sobolev inequality for the swap walk and a two-parameter entropy closure. A peeling argument with a surrogate localization functional then gives excess-risk bounds with the same fixed-point and confidence terms as the classical inductive local Rademacher-complexity bounds, without the additional logarithmic confidence factor in earlier transductive results. For realizable learning over a binary class of VC dimension $\\dVC$, with training size $m$, test size $u$, and $u\\ge m\\ge\\dVC$, STLC yields $\\cO\\{\\dVC\\log(me/\\dVC)/m\\}$. This matches the standard inductive rate and, when $m\\ge9$, is within a logarithmic factor of the transductive minimax lower bound of order $\\dVC/m$. For transductive kernel learning, STLC gives a spectrum-adaptive excess-risk bound without the multiplicative imbalance factors appearing in the earlier local-complexity bound."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Yingzhen Yang",
-        "categories": [
-          "cs.LG",
-          "cs.IT",
-          "math.ST"
-        ]
-      }
-    },
-    {
-      "id": "9b0aec1ddcc2c21ddc4fb36a037787964497b11382b119fa6e1badb8f44eeb63",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Can LLMs Reason About Runtime Behavior? A Repository-Level Dynamic Benchmark",
-      "summary": "研究提出SWE-Flux仓库级动态推理基准，含480个基于12个真实Python仓库执行的实例，答案源自插桩测试，填补LLM运行时推理评估空白。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.28449v1",
-      "publishedAt": "2026-09-23T17:46:50+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Large language models (LLMs) are increasingly used in coding tasks, but their ability to reason about code execution remains unclear. Existing repository-level QA benchmarks mainly evaluate static code understanding and often rely on LLM-based evaluation, while execution-reasoning benchmarks are mostly limited to snippets or functions. We introduce SWE-Flux, a repository-level benchmark for dynamic execution reasoning containing 480 execution-grounded instances across 12 real Python repositories, with gold answers automatically harvested from instrumented test executions rather than written manually or judged by LLMs. The benchmark covers singletest and multi-test questions over control flow, loops, program state, dataflow, exceptions, and program invariants. Evaluating five LLMs shows that this task remains challenging. The best model achieves only 37% accuracy. Models perform better on localized behavior such as invariants, intra-procedural control flow, exceptions, and simple loops, but struggle with dataflow, inter-procedural execution, precise state reasoning, and suite-level aggregation. Finally, we show that the oracle-harvesting pipeline can generate fresh benchmark variants using input perturbation. It successfully harvests valid variants for almost 90% of the selected instances, and the resulting variants are substantially more challenging for the evaluated models."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Hamed Taherkhani, Mohammad Abdollahi, Melika Sepidband et al.",
-        "categories": [
-          "cs.SE",
-          "cs.AI",
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "95fb99eedb451a46df15af32d07ba0bba26152e62f5d3ba7c597910ea2fc4fa2",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Nonequilibrium Phases of Repulsive Self-Attention: Chaos, Attention Condensation, and Emergent Locality",
-      "summary": "研究发现，当注意力反馈强度γ增大时，二维token环状排列的正多边形固定点经翻转分岔进入周期二振荡，揭示排斥性自注意力中的混沌与局域性涌现。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.28448v1",
-      "publishedAt": "2026-09-23T17:46:38+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "We study the nonequilibrium dynamics of a minimal recurrent transformer with $N$ normalized tokens, $Q=K=I$, and a negative value map $V=-I$. Similarity-based attention selects nearby representations, while the negative value map drives tokens away from the selected field. This feedback can continually reorganize both the representation geometry and the attention network. For $d=2$, the tokens lie on a circle, where the regular polygon is an exact fixed point. As the attention feedback strength $γ$ is increased, the polygon loses stability through a flip bifurcation, giving rise to period-two motion, chaos, and cluster-exchange or cluster-flip states. Despite this temporal complexity, attention remains diffuse as $N\\to\\infty$ at finite fixed softmax sharpness $β$. Attention condensation instead emerges in the scaling regime $β\\sim N^2$. In the hard-routing limit, repulsive updates amplify local perturbations and routing-partner switches transmit them ballistically, producing an emergent butterfly cone in representation space. High-dimensional geometry provides a distinct route to localization. For $d=N\\to\\infty$, simulations from Gaussian initial conditions provide evidence for a condensation transition at $β=O(1)$, driven by dynamically generated finite overlap gaps. Depending on $γ$, the resulting phases include diffuse simplex-like states, consensus flips, condensed active routing with signatures of chaos, and fragmented cluster flips. These results establish temporal activity, attention condensation, and geometric clustering as distinct collective phenomena, and show that sparse attention can sustain persistent dynamics rather than freeze it."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Qucheng Gao, Zuyi Yang, Xiao Chen",
-        "categories": [
-          "cond-mat.dis-nn",
-          "cond-mat.stat-mech",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "b6b07d7b6bab86531aae803cec8a0c342e942370aeead9c2f4c78a20dcec104e",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Order-Invariant Answers, Order-Sensitive Representations in Mathematical Reasoning",
-      "summary": "研究发现：16个1B–8B参数语言模型在数学推理中答案顺序不变，但内部表征随规则顺序变化；模型越强，顺序敏感性越低，表征更鲁棒。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.28442v1",
-      "publishedAt": "2026-09-23T17:40:57+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Reordering a set of mathematical rules without changing its meaning should preserve the correct answer, but must a model's internal representations stay invariant too? We investigate this question using synthetic multi-step function-composition problems, each presented under multiple rule orderings with the same correct answer. We measure accuracy and permutation signal-to-noise ratio (SNR), which quantifies how distinctly ordering patterns are represented relative to variation across problem instances. Across 16 language models ranging from 1B to 8B parameters, we find a pattern: models that solve reordered problems more accurately represent different rule orderings more distinctly. Layer-averaged permutation SNR is positively rank-correlated with accuracy in every synthetic setting we evaluate, with Spearman correlations reaching 0.86. These findings highlight a distinction between answer invariance and representation invariance: successful mathematical rule composition can accompany distinct internal representations between equivalent rule orderings. This motivates distinguishing answer invariance from representation invariance, and offers a representational perspective on mathematical reasoning beyond answer accuracy alone."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Zhixu Silvia Tao",
-        "categories": [
-          "cs.LG",
-          "cs.AI",
-          "cs.CL",
-          "cs.SC"
-        ]
-      }
-    },
-    {
-      "id": "1014e541ab9b86ff0367005adbbce07a9f1f1e44fc9e3faa0d9078d27c13faae",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
-      "summary": "\"So absurd and embarrassing ...\"",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
-      "publishedAt": "2026-09-23T17:39:39+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "8a824bd2baa97c9a309b1fdb4e9fcab83d1595a2e2681ed4c22832d099a711e9",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Minimal-Norm Univariate Two-Layer ReLU Classification: Exact Solutions and Global Optimality with Skip Connections",
-      "summary": "研究单变量两层ReLU网络的最小范数分类，给出含/不含偏置惩罚时最优解的几何刻画：前者为贴合标签切换的分段仿射函数，后者在函数空间唯一。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.28438v1",
-      "publishedAt": "2026-09-23T17:37:26+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "We study minimal-norm interpolation and $\\ell_2$-regularized logistic-loss minimization for binary classification by univariate two-layer ReLU networks. We give complete geometric characterizations of the optimal classifiers in function space, resolving how the solutions depend on whether hidden-layer biases are included in the parameter norm. When biases are unpenalized, the minimal-norm interpolators are exactly the continuous piecewise-affine functions that hug every label switch and have kinks of the appropriate convexity. When biases are penalized, the minimizer is unique in function space, has exactly one kink in each intermediate same-label segment, and is therefore a sparsest positive-margin classifier. We further show that adding a free affine skip connection leaves these function-space solutions unchanged but fundamentally improves the parameter-space landscape: every KKT point of the constrained problem becomes globally optimal, whereas suboptimal KKT points can occur without the skip connection. We establish analogous global-optimality and geometric results for sufficiently weak $\\ell_2$-regularization of the logistic loss. In the unpenalized-bias case, we identify an additional sparsity-like restriction, implying that most minimal-norm interpolators cannot arise as small-regularization limits of margin-normalized logistic-loss minimizers. Numerical experiments across varying dataset complexity and network width support the predicted landscape and sparsity phenomena."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Karolina Drabik, Ben Lewis, Antoni Puch et al.",
-        "categories": [
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "97d4cc799f70519913801f88bca7a4c857ffd7b8d9436d35623b58fd09f62b0a",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Cross-Scale Transfer Learning for Depression Severity Prediction: From PHQ-8 to HAMD-17 Across Languages and Clinical Paradigms",
-      "summary": "研究提出跨尺度迁移学习方法，用Qwen3模型先在英文DAIC-WOZ数据集（189例，PHQ-8）微调，再迁移到中文PDCH数据集（100例，HAMD-17）预测抑郁严重度。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.28430v1",
-      "publishedAt": "2026-09-23T17:30:07+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "This work addresses continuous depression-severity score prediction from clinical interview transcripts under data scarcity. We propose a sequential low-rank adaptation (LoRA) protocol for cross-scale transfer: a Qwen3 backbone with a bounded regression head is first fine-tuned on the English DAIC-WOZ dataset (189 avatar-mediated sessions, PHQ-8), and the adapter then initializes fine-tuning on the Chinese PDCH dataset (100 real clinical consultations, HAMD-17), where a reinitialised, scale-specific head predicts the clinician-assigned score. All configurations use patient-level stratified 5-fold, 2-repeat cross-validation. On the data-scarce HAMD-17 target, the sequential protocol attains the best point-estimate MAE , RMSE, and macro-$F_1$ on both 0.6B and 1.7B backbones, outperforming target-only training and non-LLM baselines---4.96/6.59/0.36 with Qwen3-0.6B and 4.38/5.62/0.46 with Qwen3-1.7B. Ablations suggest that correctly aligned source supervision gives the best point estimates (unsupervised exposure and shuffled-label controls also show partial gains), that native-Chinese target input outperforms machine-translated English input, and that the reversed order yields no clear gain within run-to-run variance. The study is an exploratory, single-site internal evaluation: it does not establish screening or diagnostic utility, nor separately identify the contribution of the scale, language, or paradigm shifts. To our knowledge, no prior study evaluates this specific DAIC-WOZ-to-PDCH sequential transfer setting."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Wenjie Feng, Sahba Zojaji, Satoshi Nakamura",
-        "categories": [
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "6294c6224a1875ed614f692eaacca3afa06a9f5a5ca0c9beac5d43719569e32f",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Context-Continuous Preference Learning for Exoskeleton Personalization",
-      "summary": "研究提出上下文连续偏好学习（CCPL）模型，利用高斯过程实现外骨骼个性化辅助，通过有限反馈提升跨工况适应性。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.28427v1",
-      "publishedAt": "2026-09-23T17:28:08+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Personalizing exoskeleton assistance across operating conditions is constrained by the time and physical effort required to collect user feedback. We examined whether a user's preference landscape varies smoothly across operating conditions and when this continuity supports learning from limited feedback. We propose Context-Continuous Preference Learning (CCPL), a Gaussian-process preference model that shares observations across nearby contexts while retaining context-specific utility estimates. We evaluated CCPL through simulations and retrospective analyses of ankle and elbow exoskeleton preference data from nine healthy adults. In simulations, CCPL improved reconstruction and preference-based Bayesian optimization relative to independent learning when preferences varied smoothly, but showed negative transfer when continuity was weak. In both human studies, full-data reference landscapes estimated separately for each participant and context tended to be more similar between nearby operating conditions. With five exposures per context, CCPL increased mean reconstruction correlation with these references from 0.644 to 0.720 for ankle assistance and from 0.476 to 0.526 for elbow assistance relative to independent learning. The five-exposure budget was approximately 37% lower for ankle and 17% lower for elbow than the estimated independent-learning budgets needed to match these correlations. CCPL also improved held-out response prediction relative to independent learning, while benefits over pooled learning varied. These findings support context continuity as a basis for sharing preference observations under limited feedback, although benefits for online personalization in humans remain to be established."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Sunin Baek, Sungwoo Park, Daekyum Kim",
-        "categories": [
-          "cs.LG",
-          "cs.RO"
-        ]
-      }
-    },
-    {
-      "id": "c31ecb6e2638a4706767eb1e1459bede5ed4c1a460e14d05e48e325079bcf477",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Repairability of Inexact Solvers in Recursive State Estimation with Machine Learning",
-      "summary": "研究递归状态估计中不精确求解器的可修复性，分析误差对协方差响应的影响，提出基于子空间校正与残差-漂移恒等式的修复机制。（59字）",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.28425v1",
-      "publishedAt": "2026-09-23T17:27:07+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Recursive state estimation often executes approximate numerical solutions inside a feedback loop, where highly accurate local steps do not guarantee better overall results. For a fixed linear Kalman model, we characterize when a correction within a prescribed subspace and norm budget can meet a local admissibility tolerance, and how the defects actually executed affect the finite-horizon covariance response. Centering each defect on the exact gain for the implemented covariance separates current solve error from inherited gain drift. Expanding the exact residual-drift identity reveals opposing quartic contributions beyond the quadratic response: innovation-covariance inflation enters positively, while local-gain reoptimization enters subtractively. Under matched initialization, an absolute sixth-order remainder bound, uniform over bounded defect sequences at fixed horizon, gives sufficient conditions for quadratic under- or overprediction. Machine learning proposes bounded corrections, while a learner-independent residual certificate and verified fallback govern execution of classical and quantum candidates without changing the reference estimator. In a power-grid tolerance study, learned correction lowers the minimum conjugate-gradient iteration count for deployment without fallback relative to uncorrected solves under the same residual certificate. Gains reconstructed from a variational quantum linear solver and from an annealing-based binary encoding, with small-scale terminal measurements on superconducting hardware and sampling on a quantum annealer, are executed through the same interface. By linking local repairability to nonlinear error propagation, the framework evaluates approximate solvers and learned corrections through independent certification and finite-horizon response, providing a practical basis for studying hybrid quantum--classical computation."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Yanjun Ji, Dennis Willsch, Orkun Şensebat et al.",
-        "categories": [
-          "quant-ph",
-          "cs.LG"
-        ]
-      }
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI安全与监管成焦点，巨头集体推迟IPO并签署自监管协议",
+      "insight": "AI安全与商业化矛盾加剧，巨头转向自监管与硬件落地",
       "headline": {
-        "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-        "summary": "特朗普宣布“道德约束性”AI安全协议，题为《前沿责任联合承诺》，由大卫·萨克斯公布，多家科技巨头高管签署，承诺自主监管AI技术。",
+        "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+        "summary": "Google发布新一代AI模型Gemini 4 Argon，称其在软件工程、法律金融及网络安全等领域达前沿水平，但目前限制访问。",
         "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs"
+        "sourceUrl": "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
       },
       "sections": [
         {
           "name": "最新科技",
-          "items": []
+          "items": [
+            {
+              "title": "Google figures out how to watermark AI-designed proteins",
+              "summary": "该工具旨在提升生物安全，可与主流AI蛋白质设计工具协同工作。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/"
+            }
+          ]
         },
         {
           "name": "行业动态",
           "items": [
             {
-              "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-              "summary": "Meta称Muse AI需用户明确授权才能访问消息，否认记者“未开Mac权限即读私信”说法。",
+              "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+              "summary": "Flow Engineering将AI智能体引入硬件设计，获红点创投创始人Roelof Botha天使投资并加入董事会。",
               "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/"
+              "sourceUrl": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
             },
             {
-              "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-              "summary": "OpenAI暂不上市，CEO奥特曼称需先提升模型安全性，尚无明确时间表。",
+              "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+              "summary": "特朗普宣布“道德约束性”AI安全协议，题为《前沿责任联合承诺》，由大卫·萨克斯公布，多家科技巨头高管签署，承诺自主监管AI技术。",
               "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety"
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs"
             },
             {
               "title": "OpenAI delays IPO over AI safety concerns",
@@ -7691,10 +7568,10 @@
               "sourceUrl": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/"
             },
             {
-              "title": "Anthropic’s IPO pitch includes a warning about human extinction",
-              "summary": "Anthropic警告其Claude模型或抗拒关机，可能引发灾难性风险。",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/"
+              "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+              "summary": "Reddit将终止RSS订阅支持，进一步收紧用户生成内容的访问权限。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"
             }
           ]
         },
@@ -7725,10 +7602,10 @@
               "sourceUrl": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube"
             },
             {
-              "title": "Airbnb adds AI search, more social features",
-              "summary": "Airbnb在部分城市推出餐食配送和洗衣等新服务。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/"
+              "title": "The AI Tamagotchis are coming",
+              "summary": "Meta与OpenAI将在未来一年推出实体AI硬件，均以“可爱”软件代理为切入点，试图突破AI专用设备市场困局。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices"
             }
           ]
         }

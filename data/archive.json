@@ -23065,7 +23065,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-    "publishedAt": "2026-09-30T17:22:54.170906+00:00",
+    "publishedAt": "2026-10-01T06:54:13.095816+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -36500,7 +36500,7 @@
     "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2494052",
-    "publishedAt": "2026-09-30T17:22:54.170853+00:00",
+    "publishedAt": "2026-10-01T06:54:13.095767+00:00",
     "tags": [
       "英超",
       "赛程"
@@ -36526,7 +36526,7 @@
     "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2506240",
-    "publishedAt": "2026-09-30T17:22:54.170884+00:00",
+    "publishedAt": "2026-10-01T06:54:13.095798+00:00",
     "tags": [
       "西甲",
       "赛程"
@@ -36552,7 +36552,7 @@
     "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2508371",
-    "publishedAt": "2026-09-30T17:22:54.170891+00:00",
+    "publishedAt": "2026-10-01T06:54:13.095803+00:00",
     "tags": [
       "德甲",
       "赛程"
@@ -36578,7 +36578,7 @@
     "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2482192",
-    "publishedAt": "2026-09-30T17:22:54.170896+00:00",
+    "publishedAt": "2026-10-01T06:54:13.095808+00:00",
     "tags": [
       "意甲",
       "赛程"
@@ -36604,7 +36604,7 @@
     "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2489515",
-    "publishedAt": "2026-09-30T17:22:54.170902+00:00",
+    "publishedAt": "2026-10-01T06:54:13.095813+00:00",
     "tags": [
       "法甲",
       "赛程"
@@ -48582,6 +48582,795 @@
       "play": 2112,
       "bvid": "BV1QVaZ6hEkU",
       "duration": "2:24"
+    }
+  },
+  "9fe149dba1f029a8bcbb04bf41d234c671bb4a5ac5f9fead4bfb95b0945ff6cf": {
+    "id": "9fe149dba1f029a8bcbb04bf41d234c671bb4a5ac5f9fead4bfb95b0945ff6cf",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "summary": "谷歌发布最新Gemini模型，主打编程与网络安全任务。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "publishedAt": "2026-09-30T23:43:07+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "169d8573aee99751a2130fd74858fe0274f8f14d770e3eebecb1b0b2f9732bbf": {
+    "id": "169d8573aee99751a2130fd74858fe0274f8f14d770e3eebecb1b0b2f9732bbf",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "summary": "Flow Engineering将AI智能体引入硬件设计，获红点创投创始人Roelof Botha天使投资并加入董事会。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "publishedAt": "2026-09-30T21:07:40+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "b04f054d5c452a8c1dab6cac4529a704c3a9ff508d8464f0210d235c9e7dffe5": {
+    "id": "b04f054d5c452a8c1dab6cac4529a704c3a9ff508d8464f0210d235c9e7dffe5",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+    "summary": "OpenAI推出“决策API”，被指为Jev克隆版，凸显低成本、高时效智能的重要性。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+    "publishedAt": "2026-09-30T19:00:57+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "42aa093f9bb1c10681acc0cb9f25c5f9a1bd620d495a58e2257b5c3e72a946e3": {
+    "id": "42aa093f9bb1c10681acc0cb9f25c5f9a1bd620d495a58e2257b5c3e72a946e3",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "summary": "3亿美元员工要约收购由威灵顿和T.罗威·普莱斯联合牵头。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+    "publishedAt": "2026-09-30T18:23:57+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "5c65f33be53048781b1cfdadf25e1344acc48d8d2c6f38ca7c375aeff0b3c8f7": {
+    "id": "5c65f33be53048781b1cfdadf25e1344acc48d8d2c6f38ca7c375aeff0b3c8f7",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+    "summary": "Reddit将终止RSS订阅支持，进一步收紧用户生成内容的访问权限。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+    "publishedAt": "2026-09-30T17:45:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "27c4fa50c42d69078cf13d41573d1fb2e0ef8b8275dd9b49c87054d3d81d726d": {
+    "id": "27c4fa50c42d69078cf13d41573d1fb2e0ef8b8275dd9b49c87054d3d81d726d",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "The ugly economics of consumer AI",
+    "summary": "前沿实验室对消费级AI趋于谨慎，并非因技术不成熟，而是出于其他关键考量。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+    "publishedAt": "2026-09-30T17:24:45+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "8ede9a35e3eaa155c9a3fb53a14609a03eb39c5c034f6e49509153b81efc9f17": {
+    "id": "8ede9a35e3eaa155c9a3fb53a14609a03eb39c5c034f6e49509153b81efc9f17",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+    "summary": "SpaceXAI旗下AI百科Grokipedia重启编辑功能，v0.3更新上线：启用新Logo，优化首页及实时编辑页设计。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+    "publishedAt": "2026-10-01T00:23:45+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "2906593c3ff117786fcd333d9105bdef1c03d3f765d72bb3cfb199bd98ab154d": {
+    "id": "2906593c3ff117786fcd333d9105bdef1c03d3f765d72bb3cfb199bd98ab154d",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+    "summary": "Google发布新一代AI模型Gemini 4 Argon，称其在软件工程、法律金融及网络安全等领域达前沿水平，但目前限制访问。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+    "publishedAt": "2026-09-30T20:41:41+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "7f83616d373cd6d77a9857ce3ce23c7e6470c94da983d064255c8c5c9993fc05": {
+    "id": "7f83616d373cd6d77a9857ce3ce23c7e6470c94da983d064255c8c5c9993fc05",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "The AI Tamagotchis are coming",
+    "summary": "Meta与OpenAI将在未来一年推出实体AI硬件，均以“可爱”软件代理为切入点，试图突破AI专用设备市场困局。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+    "publishedAt": "2026-09-30T18:07:38+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "0559e67abe21f48b8f032b078a9762680400ad09cc09042e13225336f5a387e2": {
+    "id": "0559e67abe21f48b8f032b078a9762680400ad09cc09042e13225336f5a387e2",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
+    "summary": "特朗普称此前称AI安全担忧是“骗局”的说法已过时，因他将AI更名为“超级智能”。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+    "publishedAt": "2026-09-30T17:15:49+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "1227065291f1c04dc2f716c7f4eea0578358f79f027526141f598ae177ce194d": {
+    "id": "1227065291f1c04dc2f716c7f4eea0578358f79f027526141f598ae177ce194d",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+    "summary": "So much for Gemini 3.5 Pro.",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+    "publishedAt": "2026-09-30T20:11:08+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "0aab300125e34a8db517bdd9470f51b87516edd8a6d23aba410f62e4d2000793": {
+    "id": "0aab300125e34a8db517bdd9470f51b87516edd8a6d23aba410f62e4d2000793",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+    "summary": "AI虽不完美，但“幻觉”率低于肯尼迪。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+    "publishedAt": "2026-09-30T19:31:25+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "0f8920f0fb7c48578b2c5fec668407a8c0e9b01fde47daed0b685ec30b4b9682": {
+    "id": "0f8920f0fb7c48578b2c5fec668407a8c0e9b01fde47daed0b685ec30b4b9682",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+    "summary": "特朗普推动数十家AI企业签署自愿安全测试协议，强化人工智能风险管控。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
+    "publishedAt": "2026-09-30T18:47:01+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "254dd3883bd0b120664c045d6a9a337be13b855c1fbef5ff5b888e3d8ac5624b": {
+    "id": "254dd3883bd0b120664c045d6a9a337be13b855c1fbef5ff5b888e3d8ac5624b",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+    "summary": "非营利组织指控OpenAI因不安全决策给他人造成实际伤害。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+    "publishedAt": "2026-09-30T18:25:04+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "43e7e313258005da6f8d049bca621301c4d6a5b8e416d52bcb95e2920bace551": {
+    "id": "43e7e313258005da6f8d049bca621301c4d6a5b8e416d52bcb95e2920bace551",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "LTX-2.5-CQ-Video-and-Image-Enhancer-LoRAs：model 模型更新",
+    "summary": "HuggingFace 上模型 CQdesign/LTX-2.5-CQ-Video-and-Image-Enhancer-LoRAs 目前下载量为0，获162个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/CQdesign/LTX-2.5-CQ-Video-and-Image-Enhancer-LoRAs",
+    "publishedAt": "2026-10-01T06:54:31+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 162
+    }
+  },
+  "a74290bc98734bd1c0bd059f411dd04dd784992893c9540eacc392fbf4880347": {
+    "id": "a74290bc98734bd1c0bd059f411dd04dd784992893c9540eacc392fbf4880347",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "VNCCS_v3.0：model 模型更新",
+    "summary": "HuggingFace 上 MIUProject/VNCCS_v3.0 模型暂无下载量，获13个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/MIUProject/VNCCS_v3.0",
+    "publishedAt": "2026-10-01T06:48:56+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 13
+    }
+  },
+  "6c8ed27dce05c4542f73e4009fa17a4cc794db243faf11fd39920d096c1ee293": {
+    "id": "6c8ed27dce05c4542f73e4009fa17a4cc794db243faf11fd39920d096c1ee293",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "reasoning-summarizer-qwen3.5-0.8b-preview-gguf：text-generation 模型更新",
+    "summary": "HuggingFace上线QyrouNnet-AI/reasoning-summarizer-qwen3.5-0.8b-preview-gguf文本生成模型，下载量352，获24赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/QyrouNnet-AI/reasoning-summarizer-qwen3.5-0.8b-preview-gguf",
+    "publishedAt": "2026-10-01T06:42:14+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 352,
+      "likes": 24
+    }
+  },
+  "b609f687fdabbdc024f1febfac125f43a61440d37e3b4662da002468e26c92d8": {
+    "id": "b609f687fdabbdc024f1febfac125f43a61440d37e3b4662da002468e26c92d8",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "reasoning-summarizer-qwen3.5-0.8b-preview：text-generation 模型更新",
+    "summary": "HuggingFace 上 QyrouNnet-AI/reasoning-summarizer-qwen3.5-0.8b-preview 模型获 238 次下载、11 个点赞，属主流 text-generation 模型。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/QyrouNnet-AI/reasoning-summarizer-qwen3.5-0.8b-preview",
+    "publishedAt": "2026-10-01T06:38:28+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 238,
+      "likes": 11
+    }
+  },
+  "8a7e54097a5b16132cd4eb58bcba8e0e6dd3abb63d6b604dddbdb506a9f7cd27": {
+    "id": "8a7e54097a5b16132cd4eb58bcba8e0e6dd3abb63d6b604dddbdb506a9f7cd27",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
+    "summary": "研究针对临床诊断中类别不平衡问题，提出基于AUROC（非阈值、类平衡不变）的多模态大模型提示优化方法，超越传统准确率导向范式。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.40361v1",
+    "publishedAt": "2026-09-30T17:59:56+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanced: a constant-majority predictor can score above 90% accuracy while being clinically useless. We therefore evaluate and optimize for AUROC, a threshold-free score that ranks positives above negatives and is invariant to class balance. We focus on prompt optimization in MLLMs. Reflective methods such as GEPA use a binary scores matrix with one row per evaluation instance and one column per candidate prompt; cells record per-instance correctness, so the column average is accuracy and drives candidate selection. We introduce pair-level Pareto prompt evolution (Ranking-PE), which replaces each correctness row with a pairwise-ordering row over (positive, negative) instance pairs: the cell is 1 if the candidate scores the positive higher than the paired negative. The column average then equals empirical AUROC (by the Wilcoxon-Mann-Whitney identity). We apply this swap at all three layers the prompt evolution search reads from - the scores matrix that decides Pareto dominance, the per-example feedback to the reflection LM, and final candidate selection - at no extra model calls and with no surrogate loss. Across three diseases on MIMIC, accuracy-based prompt evolution can degrade ranking; Ranking-PE reverses this, beating the accuracy-based recipe by +5.8 AUROC pp on fine-tuned Qwen3-VL-8B and +16.2 pp on MedGemma-4B. Ablations examine each design component and show that a medical-grade visual backbone - via vision-encoder-tuned SFT or medical pretraining - is a prerequisite that prompt search cannot replace - our recipe extends reflective prompt evolution from text-only data to multimodal clinical decision-making."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Tian Xia, Minghao Liu, Yiqing Liang et al.",
+      "categories": [
+        "cs.LG",
+        "cs.CL",
+        "cs.CV"
+      ]
+    }
+  },
+  "41ff542067694b62b49e87190da841968bfae297358ab7c25ab3eb860dc29892": {
+    "id": "41ff542067694b62b49e87190da841968bfae297358ab7c25ab3eb860dc29892",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Semifactual Credit-Augmented Policy Optimization",
+    "summary": "研究发现RLVR中LLM对无关提示敏感，提出半事实干预法，抑制高偏移token可提升推理准确率，无需权重更新。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.40360v1",
+    "publishedAt": "2026-09-30T17:59:56+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features. We investigate this sensitivity through semifactual prompt interventions that preserve the underlying problem and its answer. Our analysis reveals substantial variation in token-level sensitivity and shows that suppressing high-drift token candidates during decoding improves reasoning accuracy without updating model weights. These findings highlight a limitation of Group Relative Policy Optimization (GRPO), which assigns the same outcome-derived advantage to every response token and may reinforce potential spurious dependence alongside useful reasoning. Motivated by this observation, we introduce Semifactual Credit-Augmented Policy Optimization (SCAPO), a causally inspired variant of GRPO that incorporates semifactual stability into token-level credit assignment. SCAPO measures token probability drift for fixed responses under semifactual interventions and uses normalized stability scores to reduce advantages for relatively unstable tokens during early training, while granting no additional credit for stability alone. On Qwen3-4B-Base and Qwen3-1.7B-Base, SCAPO improves AIME 2024-2026 accuracy over GRPO by 5.63 and 4.17 percentage points, respectively. At both model scales, SCAPO achieves the best results on most evaluated mathematics benchmarks and all evaluated out-of-distribution benchmarks among the compared methods. These results suggest that semifactual stability provides an effective training signal for improving reasoning and generalization through finer-grained credit assignment in RLVR. The code is available at https://github.com/DtYXs/SCAPO."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Junshu Pan, Zhizhang Fu, Shulin Huang et al.",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ]
+    }
+  },
+  "e984976e1ead32770e1806ac06f877826f137da9370553a356dab6c1c878ed45": {
+    "id": "e984976e1ead32770e1806ac06f877826f137da9370553a356dab6c1c878ed45",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
+    "summary": "研究发现，非侵入式脑机接口的“脑-文本”解码性能提升，主要源于时间窗口重叠引入的语音时长线索，而非真实脑信号；剔除该捷径后性能显著下降。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.40359v1",
+    "publishedAt": "2026-09-30T17:59:52+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "We find that major reported improvements in decoding words from non-invasive brain recordings are largely reproducible without any brain data. In the influential work of d'Ascoli et al. (2025), time series of brain activity from subjects perceiving continuous speech are segmented into fixed-length windows starting at each word. A neural network then generates predictions for all of the words in a sentence together. Neighbouring windows partially overlap, implicitly revealing the interval between words. Since these intervals indicate the duration of the words spoken, and different words tend to have different durations - for example, \"the\" is much shorter than \"supercalifragilisticexpialidocious\" - the neural network can improve its predictions of words without relying on the underlying brain activity. Consistent with this, the method reaches 22.0% balanced accuracy on synthetic signals containing no brain information, compared with 22.3% on real brain recordings. To prevent the network from learning this shortcut, we make a single, simple change. Instead of jointly encoding all windows in a sentence, we process each independently. As a result, the neural network achieves better performance by learning underlying word-specific information from brain recordings. This makes two existing strategies become much more effective than before. Both aggregating predictions from distinct neural responses to the same word and using a pretrained LLM as a linguistic prior now substantially improve results. On our perceived speech benchmark, this simple recipe (SimpleB2T) achieves a word error rate of 36.6% with five observations per word, approaching past invasive speech decoding performance, albeit under different conditions. The results in this work expose an important shortcut in brain-to-text decoding and show that removing it leads to a simple and considerably more effective strategy."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Dulhan Jayalath, Oiwi Parker Jones",
+      "categories": [
+        "cs.LG",
+        "q-bio.NC"
+      ]
+    }
+  },
+  "1e375e1d1ddad8f8c3cd2020889688bf75764a94f8579beb60cf4b54f7ae71cc": {
+    "id": "1e375e1d1ddad8f8c3cd2020889688bf75764a94f8579beb60cf4b54f7ae71cc",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
+    "summary": "ViTeX-Bench发布：首个高保真视频场景文本编辑基准，聚焦文字局部替换、视觉质量、时序一致性与编辑精准性。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.40356v1",
+    "publishedAt": "2026-09-30T17:59:33+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Recent video generation is increasingly realistic and controllable, yet video editing remains less developed, particularly for precise local edits that must preserve the original scene dynamics. Video scene text editing replaces text on scene surfaces, such as storefront signs, whiteboards, and product labels, while preserving the surrounding content, motion, and camera dynamics. Although scene text editing is well studied for images, video scene text editing that achieves high visual quality, temporal consistency, and edit locality remains underexplored. Existing resources offer limited paired real-video data, and general video-editing metrics do not directly measure whether the requested text remains correct over time. We introduce ViTeX-Bench, a benchmark suite comprising ViTeX-Dataset and a three-axis evaluation protocol. The dataset contains 387 real-world 720p videos with text-region masks and editing instructions: 230 provide reviewed, pipeline-generated paired edits for training, and 157 form a frozen evaluation split. The protocol evaluates text correctness, visual and temporal quality, and edit locality through 13 metrics, with one primary metric per axis and a Pareto comparison of their trade-offs. OCR calibration, human evaluation, and annotation-sensitivity analyses support the interpretation of these scores. Across eight baselines from four editing families, accurate text, temporal stability, and scene preservation remain difficult to achieve together. We also release ViTeX-Edit-14B, an open-source reference editor fine-tuned on the paired training split with motion-aligned glyph-video conditioning. It achieves CharAcc 0.688, the highest mean among the evaluated video-native editors, and the lowest comparable text-crop Warp among raw editor outputs. ViTeX-Bench provides a reproducible foundation for studying these trade-offs in video scene text editing."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Xinghao Chen, Xiangbo Gao, Jiongze Yu et al.",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ]
+    }
+  },
+  "1fe7b0420efc22c609021a77d1fecfbc3144bad8fdfef5bba42b32249c2bd22a": {
+    "id": "1fe7b0420efc22c609021a77d1fecfbc3144bad8fdfef5bba42b32249c2bd22a",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Image Classifiers are Efficient Self-Supervised Video Representation Learners",
+    "summary": "研究提出VideoMSN框架，用图像ViT高效学习视频自监督表征：将视频转为“超图像”，通过空间掩码与时间掩码双视图训练，避免帧间信息泄露。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.40347v1",
+    "publishedAt": "2026-09-30T17:59:03+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "We introduce VideoMSN, a Masked Siamese Network framework for efficient self-supervised spatio-temporal representation learning in videos. Instead of relying on heavy 3D architectures or reconstruction-based autoencoders for learning with unlabeled data, we repurpose standard image Vision Transformers by representing videos as super images which are grids composed of frames sampled from videos. From each super image, we construct two views: one with spatial patch masking and the other with temporal frame masking, ensuring no information leakage across frames. A shared Vision Transformer (ViT) encoder aligns their embeddings using a masked Siamese loss, capturing both motion and appearance cues without reconstruction. Our decoder-free formulation leverages an image foundation model towards efficient video representation learning. Starting from pretrained DINO-v3 and DeiT-v3 image encoders, VideoMSN achieves state-of-the-art performance on Kinetics-400, UCF101, and HMDB51 while requiring up to $32\\times$ fewer and $160\\times$ fewer video pretraining epochs compared to prior video self-supervised learning methods. Our proposed approach also shows strong performance in low-shot classification, confirming the transferability of the learned representations in a label-scarce scenario. Project Page: https://cvir.github.io/projects/videomsn."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Owais Iqbal, Sudipta Sarkar, Shyam Marjit et al.",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ]
+    }
+  },
+  "ff3adde59b4c0f19283053aa94d9df0c8e4c15df134e41cbe090d5a79967748b": {
+    "id": "ff3adde59b4c0f19283053aa94d9df0c8e4c15df134e41cbe090d5a79967748b",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery",
+    "summary": "EvoDuet提出双层协同进化框架，让LLM在科学发现中同步优化解与搜索查询，通过检索门动态决定是否检索、复用或跳过文档，提升知识获取效率。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.40340v1",
+    "publishedAt": "2026-09-30T17:58:28+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Evolutionary search with large language models (LLMs) can stall when progress requires external knowledge the model lacks. Supplying relevant documents helps, but simply adding web search tool can keep returning the same pages as solutions change. We introduce EvoDuet, a bi-level optimization method that co-evolves solutions and search queries with fixed model parameters. At each iteration, a retrieval gate lets the LLM assess its knowledge gap and choose to retrieve new documents, reuse stored ones, or proceed without them. An inner loop refines queries and ranks documents by the solution scores they are predicted to yield; an outer loop generates candidates in parallel from these documents and records the evaluated outcomes for later searches. Across 21 optimization tasks with one candidate per iteration, EvoDuet raises OpenEvolve's normalized discovery gain from 74.1% to 78.0% with GPT-5.6-Luna and from 61.3% to 82.3% with Gemini-3.8-Flash, whereas Qwen3.5-9B does not benefit. Our best runs surpass the previously reported best scores on eight tasks, including Swap Reduction on Q20 and Rosetta, and match them on three more. EvoDuet also improves with other scaffolds (e.g., Top-K, EvoX) on Sums/Diffs and Denoising, demonstrating its applicability across evolutionary search scaffolds."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Young-Jun Lee, Jinheon Baek, Soyeong Jeong et al.",
+      "categories": [
+        "cs.CL"
+      ]
+    }
+  },
+  "af41cf20a485a30ca0c8884d87891782ab5bbaecba8a3a1a6daa70ac127f3750": {
+    "id": "af41cf20a485a30ca0c8884d87891782ab5bbaecba8a3a1a6daa70ac127f3750",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?",
+    "summary": "研究探究差分隐私SGD下解码器LLM中权重绑定的影响，以GPT-2和DistilGPT-2为实验对象，揭示其在隐私训练中的有效性与权衡。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.40335v1",
+    "publishedAt": "2026-09-30T17:57:43+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Differentially Private Stochastic Gradient Descent (DP-SGD) is a leading approach for privacy-preserving fine-tuning of large language models (LLMs). Many decoder-only LLMs employ weight tying between input and output embeddings, a design choice originally introduced for parameter efficiency and improved language modeling performance in the non-private setting. However, the impact of weight tying under differentially private training remains largely unexplored. In this work, we investigate the role of weight tying in the DP setting using GPT2 and DistilGPT2 as representative decoder-only architectures. Interestingly, we find that untied embeddings consistently outperform weight-tied models under DP-SGD, achieving gains of up to 4.74% points in accuracy on SST-2, QNLI, and QQP. Beyond improved utility, untying embeddings enables the use of memory-efficient ghost clipping for DP-SGD. By contrast, weight tying introduces shared-parameter interactions that complicate standard ghost norm computation and largely negate its computational advantages. As a result, untied models achieve over 60% lower memory usage while preserving the benefits of ghost clipping. Our results indicate that untied embeddings provide a more effective and scalable design for differentially private training of decoder-only LLMs and highlight the need to revisit standard LLM architectural choices in the privacy-preserving setting."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Razan El Mais, Ali Chehab, Ibrahim Issa et al.",
+      "categories": [
+        "cs.LG"
+      ]
+    }
+  },
+  "03c76c5991540d35cf3dfb5066423a7866d824af74c3f75beb94b93350c27413": {
+    "id": "03c76c5991540d35cf3dfb5066423a7866d824af74c3f75beb94b93350c27413",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Turbo Harness: Instance-Adaptive Harness Optimization",
+    "summary": "Turbo Harness提出实例自适应优化框架，复用全局优化过程中的中间产物，为每个任务实例动态调整harness，提升个体性能。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.40330v1",
+    "publishedAt": "2026-09-30T17:56:09+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Automating the search for effective harnesses is an important step toward enabling agents to recursively self-improve. Existing harness optimizations typically produce a single global harness that is applied uniformly across task instances. However, a harness that works well on average may not be optimal for every instance. We introduce Turbo Harness, a framework that can adapt a globally optimized harness to each instance by reusing information generated during the original optimization process. Specifically, Turbo Harness recycles artifacts produced during a completed global harness optimization run, and summarizes them into a structured playbook. We train a harness editor to leverage this prior optimization experience to generate instance-specific patches to the global harness. At inference time, the editor uses the instance and the playbook to construct a tailored harness in which the execution model operates. Through numerical experiments, we show that Turbo Harness consistently outperforms existing harness optimization baselines across seven benchmarks spanning interactive agent tasks, software engineering, and long-horizon terminal tasks."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Tunyu Zhang, Hao Wang, Kai Xu et al.",
+      "categories": [
+        "cs.AI"
+      ]
+    }
+  },
+  "c9e875fd974d936e029ca3aaa8c90f9851233910e819580e75d1a52bc25802c9": {
+    "id": "c9e875fd974d936e029ca3aaa8c90f9851233910e819580e75d1a52bc25802c9",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents",
+    "summary": "WorldAuditBench提出多模态智能体协同的3D世界审计框架，支持自动检测浮动物体、可穿越墙等异常，提升仿真环境质量评估效率。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.40325v1",
+    "publishedAt": "2026-09-30T17:55:29+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "As interactive 3D worlds are increasingly used to study intelligent behavior, it becomes important to develop efficient pipelines for identifying anomalies in these simulated environments, such as floating objects, traversable walls, or objects inconsistent with the surrounding scene. Multimodal AI systems, including vision-language models (VLMs) and vision-language-action models (VLAs), have shown potential for automating this task. However, 3D world auditing is complex, requiring the close coupling of two distinct capabilities: action, to navigate the 3D world and search for anomalies systematically and efficiently; and visual reasoning, to understand the environment and identify anomalies from multimodal observations. It remains largely unexplored whether multimodal agents can effectively couple these two capabilities, using visual reasoning to identify potential anomalies while taking actions to validate them. In this paper, we introduce WorldAuditBench, a benchmark for 3D world auditing comprising 213 anomaly tasks across 13 environments built with Unreal Engine 5 and Three.js, spanning five anomaly families. We evaluate five frontier models under a fixed exploration budget using two auditing paradigms: VLA-based exploration followed by VLM-based anomaly identification, and an end-to-end VLM agent in which visual reasoning directly guides action selection. Across the evaluated models and two paradigms, success rates range from 6.6% to 42.3%, substantially below human performance (83.4%). Through the task of world auditing, WorldAuditBench provides a testbed for studying how multimodal agents couple action and visual reasoning in interactive 3D environments, while highlighting current limitations in their ability to gather and interpret evidence during exploration."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Ziyan Jiang, Jingbo Yang, Jiabao Ji et al.",
+      "categories": [
+        "cs.AI"
+      ]
+    }
+  },
+  "72ff7c5729281b7618217ad1d669b9174e89fb0ef958e644db2a87d505b12024": {
+    "id": "72ff7c5729281b7618217ad1d669b9174e89fb0ef958e644db2a87d505b12024",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Cogentic: Multi-Agent Orchestration for Automated Proof Discovery",
+    "summary": "Cogentic是多智能体系统，通过“证明—验证”循环协同探索数学开放问题，提升自动定理发现能力。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.40324v1",
+    "publishedAt": "2026-09-30T17:55:22+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "We present Cogentic, a multi-agent harness for automated proof discovery on open research problems. While frontier language models can generate strong mathematical ideas in a single shot, single-shot generation is often insufficient for open problems that require exploring multiple competing conjectures, overcoming subtle technical obstructions, and retaining intermediate progress over a long horizon. Cogentic addresses these challenges through an iterative prove--verify loop in which an orchestrator allocates a population of independent provers across distinct proof directions, subjects their output to adversarial verification by several specialized components, and promotes confirmed intermediate results into a persistent verified ledger that later rounds build on. The harness is designed to be able to solve research-level math and theoretical computer science problems. Using Gemini as the base model, Cogentic produced novel results on five open problems across online learning, auction theory, and mechanism design. Each result was independently verified by domain experts and is developed in full in companion papers. We list these results, and new ones as they are verified, at https://sites.google.com/view/cogentic ."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Yang Cai, Vineet Gupta, Yanchen Jiang et al.",
+      "categories": [
+        "cs.AI",
+        "cs.GT"
+      ]
+    }
+  },
+  "d4ee93f77dd95168268231e6fa2ab1745efe0120cfaeb5c2c7dc38a8e0cce0ee": {
+    "id": "d4ee93f77dd95168268231e6fa2ab1745efe0120cfaeb5c2c7dc38a8e0cce0ee",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "MatLoom: Layered Text-to-Material Generation in a Compact Program Space",
+    "summary": "MatLoom是一种紧凑的层式编程语言，利用预训练语言模型实现文本到材质生成，支持Alpha遮罩层、空间表达与PBR通道，可生成材质贴图并保留可编辑参数。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.40322v1",
+    "publishedAt": "2026-09-30T17:55:06+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Material generation should produce not only an appearance, but also the rules that construct it. We introduce MatLoom, a compact, layer-oriented language for text-to-material generation with pretrained language models. Each program composes alpha-masked layers whose shared spatial expressions define coverage and physically based rendering (PBR) channels, making dependencies between patterns, color, and relief explicit. A standalone interpreter evaluates the program into material maps, while the source retains named fields and layer parameters for subsequent authoring. Without task-specific fine-tuning, our pipeline uses parser-guided repair and preview-based critique to revise material designs, then searches noise seeds while keeping each candidate's remaining source fixed. On a curated benchmark of 141 prompts evaluated with six backbones, our best-performing configuration achieves higher mean scores than three diffusion baselines on all four flat-layout prompt-alignment metrics. Its initial programs already exceed all three baselines on mean BLIPScore, before critique or seed search. Retained programs have a median length of 21 lines when pooled across backbones. In a blind four-way comparison involving 30 participants and 20 prompts, our renders receive 59.2% of choices, compared with 19.3% for the most-preferred baseline. Compact executable programs thus offer a way to generate prompt-aligned materials while retaining their construction as part of the asset."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Anson Y. Lam, Shuqing Li, Michael R. Lyu",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.CL",
+        "cs.MM"
+      ]
+    }
+  },
+  "0a0b4d3a0915254fa0dd6e30e95e32afc216d312f2e074392b04f83df11fc02f": {
+    "id": "0a0b4d3a0915254fa0dd6e30e95e32afc216d312f2e074392b04f83df11fc02f",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Scaling Laws for Looped Mixture of Experts",
+    "summary": "研究提出“循环缩放定律”，首次联合建模循环结构与MoE稀疏性，揭示二者协同提升有效参数的机制。（59字）",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.40316v1",
+    "publishedAt": "2026-09-30T17:53:47+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Looped transformers and Mixture-of-Experts (MoE) offer complementary routes to efficient scaling: recurrence increases computational depth at fixed parameters, while MoE sparsity expands total capacity at fixed active compute. Yet existing scaling laws model recurrence or sparsity in isolation. In this work, we introduce Loop Scaling Laws, the first scaling law to jointly model recurrence and sparsity alongside model size and data. At its core is a bounded, sparsity-conditional recurrence mapping that characterizes the effective-parameter gain from looping and how sparsity raises this gain. The laws predict the held-out loss of looped models more accurately than prior alternatives, and recover the standard dense and MoE scaling laws as special cases. Beyond prediction, the fitted laws provide a principled foundation for designing looped MoE models under compute and memory constraints. Downstream evaluations further demonstrate the complementary benefits of the two axes: sparsity delivers ~3x active-parameter efficiency, recurrence yields ~2x total-parameter efficiency on reasoning, and joint scaling further advances the performance frontier. As a practical extension, we show these gains hold at trillion-token scale: at matched training compute, a looped MoE with law-derived recurrence matches a ~2x larger non-looped MoE on the reasoning benchmarks, while enabling test-time scaling through recurrence."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Yanbei Chen, Anirudh Goyal, Raghuraman Krishnamoorthi",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ]
+    }
+  },
+  "3c0c54164a323114ed5656b2129164b116fabfbbf17a418235f60d1c0ec01009": {
+    "id": "3c0c54164a323114ed5656b2129164b116fabfbbf17a418235f60d1c0ec01009",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Compression Footprints as Security Signals for Model-Poisoning Defense in Federated Learning",
+    "summary": "本文提出“压缩足迹”概念，利用联邦学习中损失压缩的输入依赖失真特性，提取重建、方向、稀疏性等统计特征，作为检测模型投毒攻击的新安全信号。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.40312v1",
+    "publishedAt": "2026-09-30T17:53:14+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Lossy compression is widely used in Federated Learning (FL) but is generally treated as an error source, while conventional poisoning defenses inspect update geometry. In this work, we instead treat the compressor's response as a security signal: the input-dependent distortion and payload behavior induced by lossy compression can expose differences between honest and attack-generated updates. We introduce the concept of a \\emph{compression footprint}: the low-dimensional collection of reconstruction, directional, sparsity, and payload statistics induced by a lossy compressor. We characterize sufficient conditions under which compression footprints separate honest and malicious updates, and operationalize our findings in the CRAFT (\\emph{Compression-guided Robust Aggregation via Footprint Trust}) server-side robust aggregation method. Crucially, under a strict honest-majority assumption, CRAFT uses server-verifiable footprints, requires no client-side metadata nor knowledge of the number of malicious clients, and adds no communication beyond the compressed FL pipeline. Moreover, while CRAFT assumes a strict honest majority, it does not require the number of malicious clients to be known in advance. We observe that error-bounded lossy compressor (EBLC) footprints provide stronger separation than Top-K footprints and that footprint trust suppresses malicious influence. We evaluate CRAFT under IID client data with 36\\% malicious participation across six standard model-poisoning attacks, three datasets, and six robust aggregation baselines, finding that CRAFT consistently achieves the best accuracy in 7 out of 18 settings and within 1.7 percentage points of the best in the others. Our results show that lossy compression can serve as both a communication mechanism and a security signal for robust aggregation in FL."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Sachi Shome, William Eiers",
+      "categories": [
+        "cs.LG"
+      ]
+    }
+  },
+  "40dbd277c234c9cd0bd20997c27467ac30fd541f53101faf8ce828d13c80cbe7": {
+    "id": "40dbd277c234c9cd0bd20997c27467ac30fd541f53101faf8ce828d13c80cbe7",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents",
+    "summary": "DynaHarness是一种动态物理约束框架，通过“执行契约”耦合语义推理与物理控制，将失败证据转化为经验证的能力修正，提升长时程机器人操作可靠性。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.40306v1",
+    "publishedAt": "2026-09-30T17:52:09+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Pretrained robot policies provide useful action priors, but long-horizon manipulation still requires coordination between semantic reasoning and physical execution. Semantic reasoning operates at a coarser timescale than physical interaction, while episode-level failures provide limited guidance on which system component should be revised. We propose DynaHarness, a dynamic physical harness that couples semantic reasoning with physical governance through a shared execution contract and turns failure evidence into validated capability revisions. To be more specific, the slow brain proposes capabilities and symbolic arguments, while the fast brain grounds and monitors commands, refuses unresolved actions, substitutes capabilities, and requests replans when needed. The physical execution contract bounds each accepted command and records execution evidence across analytic skills, recovery skills, and the frozen VLA. Failure attribution localizes faults in these records and directs targeted revisions of reusable capabilities or execution mechanisms. Paired regression checks govern admission or rejection, closing the self-evolution loop. On LIBERO-Pro, DynaHarness achieves 75.2% on 800 newly sampled initial states, compared with 17.5% for the frozen policy. With the same capability library, full dynamic execution reaches 74.0% versus 63.9% under nominal one-step replanning. This demonstrates the value of DynaHarness as a dynamic physical harness that governs how existing capabilities are grounded, monitored, and coordinated during execution. Our project page is at https://denghaoyuan123.github.io/Dynaharness_page/."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Haoyuan Deng, Jiebin Liu, Tengxiao Zhang et al.",
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "cs.LG"
+      ]
+    }
+  },
+  "0acab66325b3d2543f0d36609fb129c8ddbde5359168dbb831f9924427337b15": {
+    "id": "0acab66325b3d2543f0d36609fb129c8ddbde5359168dbb831f9924427337b15",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Looped Diffusion Transformer",
+    "summary": "提出Looped Diffusion Transformer：在每步去噪中循环复用共享Transformer模块，固定参数量下提升计算深度，实现表征迭代优化。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2609.40305v1",
+    "publishedAt": "2026-09-30T17:52:08+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Improving text-to-image models has traditionally relied on increasing model size or the number of denoising steps. In this work, we explore an alternative way to scale computation by repeatedly running shared Transformer blocks within each denoising step, effectively increasing computational depth while keeping the parameter count fixed. This looped computation enables iterative refinement of internal representations without explicit reasoning tokens. However, naive looping fails to consistently improve image quality. We trace this problem to weak supervision across intermediate loops and unregulated attention updates that progressively erode local information. To overcome these challenges, we propose Looped Diffusion Transformer (Looped-DiT), which combines deep supervision across intermediate loops with self-modulating attention to stabilize looped feature updates. Under matched-parameter and matched-compute settings, Looped-DiT consistently outperforms non-looped baselines. Notably, a 260M-parameter looped model can surpass a model 6.5x larger across multiple text-to-image benchmarks while requiring 4.9x lower inference compute. Beyond this performance gain, we find that looped computation can offer a more effective form of iterative computation for diffusion models, with increasing loop depth yielding larger gains than adding more denoising steps under a fixed inference budget. Furthermore, deeper loops can progressively correct mistakes made in earlier loops, exhibiting behaviors suggestive of latent reasoning. Together, these results show that looped computation offers a promising way to scale visual generation models."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Yong Xien Chng, Tianyi Chen, Wenwen Tong et al.",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ]
+    }
+  },
+  "42cb432c21e8eb0b3d16a076d50c70fd765e4c7c5a86edaef21894b8a4688042": {
+    "id": "42cb432c21e8eb0b3d16a076d50c70fd765e4c7c5a86edaef21894b8a4688042",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "【神超s18】【18.3b阵容排行】结合虎将杯最新上分阵容推荐",
+    "summary": "UP主 GoDlike_神超 · 12,936播放 · 1:37",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117360988131498",
+    "publishedAt": "2026-10-01T03:00:00+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "GoDlike_神超",
+      "play": 12936,
+      "bvid": "BV1TPaf6tERt",
+      "duration": "1:37"
     }
   }
 }
