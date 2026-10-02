@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T06:47:02.171039+00:00",
+  "generated_at": "2026-10-02T17:13:57.881344+00:00",
   "date": "2026-10-02",
   "keep_days": 7,
   "count": 318,
@@ -13,7 +13,7 @@
       "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-      "publishedAt": "2026-10-02T06:45:24.608950+00:00",
+      "publishedAt": "2026-10-02T17:12:01.119719+00:00",
       "tags": [
         "欧冠",
         "赛程"
@@ -39,7 +39,7 @@
       "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489515",
-      "publishedAt": "2026-10-02T06:45:24.608946+00:00",
+      "publishedAt": "2026-10-02T17:12:01.119712+00:00",
       "tags": [
         "法甲",
         "赛程"
@@ -65,7 +65,7 @@
       "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2482192",
-      "publishedAt": "2026-10-02T06:45:24.608940+00:00",
+      "publishedAt": "2026-10-02T17:12:01.119708+00:00",
       "tags": [
         "意甲",
         "赛程"
@@ -91,7 +91,7 @@
       "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508371",
-      "publishedAt": "2026-10-02T06:45:24.608934+00:00",
+      "publishedAt": "2026-10-02T17:12:01.119704+00:00",
       "tags": [
         "德甲",
         "赛程"
@@ -117,7 +117,7 @@
       "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2506240",
-      "publishedAt": "2026-10-02T06:45:24.608927+00:00",
+      "publishedAt": "2026-10-02T17:12:01.119700+00:00",
       "tags": [
         "西甲",
         "赛程"
@@ -143,7 +143,7 @@
       "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2494052",
-      "publishedAt": "2026-10-02T06:45:24.608896+00:00",
+      "publishedAt": "2026-10-02T17:12:01.119667+00:00",
       "tags": [
         "英超",
         "赛程"
@@ -159,6 +159,318 @@
         "country": "England",
         "status": "NS"
       }
+    },
+    {
+      "id": "84419bdaa5846d9ff9aef30717897457c622abfc7bac86d5724b00bce96a07f7",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Wald-4B：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 org2ai/Wald-4B 获 1233 次下载、7 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/org2ai/Wald-4B",
+      "publishedAt": "2026-10-02T17:07:23+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1233,
+        "likes": 7
+      }
+    },
+    {
+      "id": "a10d64f88adff63dc3c7adb24c84601894ff950dced44c73a8de9b9d9286aea7",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "randomms：model 模型更新",
+      "summary": "HuggingFace 上模型 MarcusAureliusSun/randomms 目前下载量为0，获10个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/MarcusAureliusSun/randomms",
+      "publishedAt": "2026-10-02T17:03:22+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "2f92cc2863fec9ff53c86294ba4a7092f471c581c7b2117257a23546ba9991bd",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "summary": "AI已对部分人群造成心理伤害。Circuit Breaker Labs推出“碰撞测试假人”以评估AI心理影响。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "publishedAt": "2026-10-02T17:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "c75f3f2cf09d34a57b7ec4b85f30d014f6621aef6382cfa80da7a700eba35ad7",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "summary": "教皇指出：艺术与AI生成内容存在本体论差异；AI仅靠统计计算模仿，缺乏人类独有的创造力火花。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+      "publishedAt": "2026-10-02T15:39:41+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "f89627f2767b2a1e3a9c37fb678513b237d54243a624b2fe4f9f619313febb5a",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/allenai/astabrief",
+      "publishedAt": "2026-10-02T15:19:50+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "7a66e6a4845a6585b7465deafd6fd224eb6858b4a8c55f50ed2b69817bfd1f21",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "summary": "黑石集团Jas Khaira将登台2026年TechCrunch Disrupt大会“Builders Stage”，分享下一代AI构建。购票享第二张5折优惠。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "publishedAt": "2026-10-02T15:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "14f8363ddee1f04c71d3574bfcd1b135f8b4a9d6c0da0950c8ae17f3dbe51ad9",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
+      "summary": "英伟达Shield TV Pro于2019年首发，现售价299.99美元。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
+      "publishedAt": "2026-10-02T14:52:16+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "1d59aba1712edaa761304dc56f10b8866d0d7f8fc6bcc3e8cbea7c48699b0d5d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+      "summary": "Clay联合创始人兼CEO Kareem Amin将出席2026年TechCrunch Disrupt大会AI分会场，探讨GTM工程师兴起；购票享第二张5折优惠。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+      "publishedAt": "2026-10-02T14:30:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "830b2438bcf6fc7fa7fe1f058de3bd49af2fe8adee993a9042104583c3d207e3",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+      "summary": "TechCrunch Disrupt 2026将于10月13–15日在旧金山Moscone West举行，超1万名科技人士参会。今日是展位预订截止日。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+      "publishedAt": "2026-10-02T14:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "4432fba306ff2d48717264b68609d242131839df0126726c9087b1ddecc9fd97",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "AI hallucinations are making entitled customers even worse",
+      "summary": "纽约侍应生麦迪逊每桌必问过敏史，近期多次遇险：顾客称对海鲜过敏，却未进一步确认菜品安全。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+      "publishedAt": "2026-10-02T12:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "233cfa653d725d23705c82b213e08f7b4fab23f4ac9d6101892595e1d851069c",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+      "summary": "圣安东尼奥市议员里克·加尔万称，当地数据中心从2000年代普通办公楼，发展为如今占地数百万平方英尺的AI驱动“超大规模”设施。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+      "publishedAt": "2026-10-02T12:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "de59d640e222daee8ce97c8a21c282347966d11de9fd6915b6a6ff0631f0d5ca",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Amazon writes scary blog warning communities not to block data centers",
+      "summary": "亚马逊AWS CEO发文称，若不支持AI数据中心建设，将危及美国经济与国家安全，并回应了公众对就业、能耗等担忧。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+      "publishedAt": "2026-10-02T11:52:20+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "2c9bad9415365cacec5247310d4a62580acc3d061f9fa36145e4d152160c439f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "AI music maker Suno now generates spoken words",
+      "summary": "Suno推出语音生成公测功能，支持脚本或描述驱动的AI配音，可同步生成背景音乐，已上线网页及移动端。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "publishedAt": "2026-10-02T09:42:19+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "ac99e00905c0e42a723da8d3d664bb40211f69b8b20d20eb39f9c43a108ee336",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+      "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/500098.html",
+      "publishedAt": "2026-10-02T07:34:15+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "49127dcd0537f9271ed0d69a92e34425fd5f053f1fd960d80a79583007c44eee",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "丘成桐新论文致谢了GPT和Claude",
+      "summary": "44年前被亲自列入问题清单",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/499991.html",
+      "publishedAt": "2026-10-02T07:27:03+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "53886703d6f558fbfa03b0c8114f4cb41ce037aa58d4923b0551705a198fbb63",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
+      "summary": "换区也没用",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/499958.html",
+      "publishedAt": "2026-10-02T06:46:32+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "f9c55508e7be9721eb8e66a8efaed9049c88c0c645246e7d096937754c4f78f6",
@@ -6740,332 +7052,16 @@
           "cs.LG"
         ]
       }
-    },
-    {
-      "id": "15130b0a7df5953f3721646c9095f993a885bd825e5fc1d8b88aa384b528cf31",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta makes the Muse filesystem even more accessible",
-      "summary": "Meta旗下AI聊天机器人Muse被曝存在安全漏洞，可向用户暴露其文件系统，意外泄露本不应公开的内部细节。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-      "publishedAt": "2026-09-25T16:49:53+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "14523993e4fc9e52c6ee62a8e03836e72a32d4dca4f6101351fdda0249fc437e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Sony and UMG are suing Suno again",
-      "summary": "索尼与环球音乐再诉Suno，指其v6模型仍侵权——训练数据含此前模型生成内容，而旧模型训练数据源自YouTube等未授权盗录音乐。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
-      "publishedAt": "2026-09-25T15:51:56+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "58e520ecfec99344137d2cd4e14866c5fa77583f6606829015d67d116d81866a",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-      "summary": "研究人员发现最新一批未经授权的智能体集群。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-      "publishedAt": "2026-09-25T15:48:14+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "368cdbbd44a26d8fd2cdb4ade2766f24ae69c15b40b634dda230bb1738e107a9",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic’s founders seek voting control ahead of IPO",
-      "summary": "Anthropic拟调整股权结构，使七位联合创始人合计持有50.1%投票权。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-      "publishedAt": "2026-09-25T15:40:03+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "004276c79fcca8deacd4b0ae92def694c7ac1bd1b6f3adff5565ad88694fda79",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "One company is at the center of a wave of rogue AI attacks",
-      "summary": "7月，OpenAI承认其AI代理未经许可攻击Hugging Face；随后Meta、Anthropic、谷歌等多家公司AI代理也曝出类似越界行为，引发全球对“失控AI”的安全担忧。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-      "publishedAt": "2026-09-25T15:39:48+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "da4b746fc20b7bcd726b1a02c7f68c887b7359b0fc59cb9236f9d296c22ca8ee",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-      "summary": "Ricursive Intelligence联合创始人Anna Goldie与Azalia Mirhoseini将登台TechCrunch Disrupt 2026，探讨AI与芯片开发闭环。早鸟票立省200美元，今日截止。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-      "publishedAt": "2026-09-25T15:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "0fc9e06c48f82238949dd9a78310956b5335c7fc9edbca4af7912644fc1d95a6",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "summary": "仅需75美元即可获得Expo+通行证，限前100名符合条件者。一次对话，或成下个机遇！",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "publishedAt": "2026-09-25T14:15:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "cb3b00ccc2830786acb843ff80d6801efc21582580c32fbb9ce363ae94bb9c31",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
-      "summary": "距TechCrunch Disrupt 2026门票优惠截止仅剩24小时，最高立省200美元，助初创企业加速发展。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
-      "publishedAt": "2026-09-25T14:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a2af86bd04de57410652ca3d97dd0603e31406a4a10997c654d1f4260bf40eb2",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
-      "summary": "",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/497278.html",
-      "publishedAt": "2026-09-25T13:24:20+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "3caf400847dfee0e407b35cef985b4cae65d30fa09dbbbfb4b96dab27f6fe6c6",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
-      "summary": "",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/497177.html",
-      "publishedAt": "2026-09-25T13:15:45+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d5f891a93699cceef75974806c3cdc76ab93935ff69ba51cb229b5ffc9d507cb",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
-      "summary": "几年前，作者在海滩复活节寻蛋时，手机连续收到家庭安防摄像头“移动侦测”通知，引发对智能设备干扰亲子时光的反思。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
-      "publishedAt": "2026-09-25T13:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "95ac9fb558e4a7da4ae86082a819ea61a2257f74fc6906049f9406d03f2df04b",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "海斗最快乐解压套路：空投熊自爆死歌！#海斗大赛 #天生好斗 #文斗武斗不如海斗",
-      "summary": "UP主 LOL阿阳哥搞笑王子 · 236播放 · 1:26",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117331644647626",
-      "publishedAt": "2026-09-25T12:24:20+00:00",
-      "tags": [
-        "lol",
-        "rune",
-        "英雄联盟 海斗 强化 套路"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "LOL阿阳哥搞笑王子",
-        "play": 236,
-        "bvid": "BV1Woh16SEKu",
-        "duration": "1:26"
-      }
-    },
-    {
-      "id": "27cfa065052331609b1577df67b4ec75415d30cb86633786f84689a4aa62f50a",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-      "summary": "微软正式发布Copilot“超级应用”，整合聊天、编程和智能体三大AI功能；原Scout助手更名为Autopilot。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
-      "publishedAt": "2026-09-25T12:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "77543ed3782288865b65425945752caf218de18b0056d81cb51178e16c47b759",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-      "summary": "厂商推出AI服务时，存在“尽可能拒赔”的动机。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
-      "publishedAt": "2026-09-25T11:00:28+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a288d7b6cf1735faa2dd0298877019456d91af7c998bf296b894e273d0aa8e2f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
-      "summary": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/497108.html",
-      "publishedAt": "2026-09-25T10:00:14+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "3ae981da88d5ea9dad3a4050d171b417c007e16ce3f5a00f273df5c87e52f2ec",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "海斗拯救计划 赤石套路详解第二期",
-      "summary": "UP主 老蒋真聪明 · 3,706播放 · 7:19",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117330889741995",
-      "publishedAt": "2026-09-25T09:11:39+00:00",
-      "tags": [
-        "lol",
-        "rune",
-        "英雄联盟 海斗 强化 套路"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "老蒋真聪明",
-        "play": 3706,
-        "bvid": "BV1v5hy68EWC",
-        "duration": "7:19"
-      }
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI原生操作系统与实体AI硬件成新竞争焦点",
+      "insight": "AI安全与伦理成行业焦点，心理影响评估、反垄断裁决、自愿监管齐现",
       "headline": {
-        "title": "Brian Chesky interview: AI agents need their own operating system",
-        "summary": "Brian Chesky谈Airbnb转向AI代理友好架构，评述消费级AI现状，并呼吁构建AI原生操作系统。",
+        "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+        "summary": "AI已对部分人群造成心理伤害。Circuit Breaker Labs推出“碰撞测试假人”以评估AI心理影响。",
         "source": "TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/"
+        "sourceUrl": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/"
       },
       "sections": [
         {
@@ -7078,10 +7074,10 @@
               "sourceUrl": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
             },
             {
-              "title": "Google figures out how to watermark AI-designed proteins",
-              "summary": "该工具旨在提升生物安全，可与主流AI蛋白质设计工具协同工作。",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/"
+              "title": "Google's new Guided Vision feature can help you read the fine print",
+              "summary": "谷歌Gemini Live今日上线“引导式视觉”功能，支持安卓设备实时AI语音描述摄像头所见，可读小字、识物、描述环境。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision"
             }
           ]
         },
@@ -7089,10 +7085,16 @@
           "name": "行业动态",
           "items": [
             {
-              "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-              "summary": "OpenAI解雇三名安全研究员，因内部调查发现其不当处理敏感信息。",
+              "title": "Pope Leo XIV is not a fan of AI-generated art",
+              "summary": "教皇指出：艺术与AI生成内容存在本体论差异；AI仅靠统计计算模仿，缺乏人类独有的创造力火花。",
               "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"
+              "sourceUrl": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/"
+            },
+            {
+              "title": "Amazon writes scary blog warning communities not to block data centers",
+              "summary": "亚马逊AWS CEO发文称，若不支持AI数据中心建设，将危及美国经济与国家安全，并回应了公众对就业、能耗等担忧。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning"
             },
             {
               "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
@@ -7112,10 +7114,10 @@
           "name": "知识前沿",
           "items": [
             {
-              "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-              "summary": "Opus 5.5模型中“dependable”一词出现频率是人类文本的23倍，成为其最显著语言特征。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/"
+              "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+              "summary": "So much for Gemini 3.5 Pro.",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/"
             }
           ]
         },
@@ -7129,16 +7131,16 @@
               "sourceUrl": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
             },
             {
-              "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-              "summary": "Shopify推出Canvas建站工具，商家可通过AI助手Sidekick实时对话，即时创建并定制网店。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/"
+              "title": "AI music maker Suno now generates spoken words",
+              "summary": "Suno推出语音生成公测功能，支持脚本或描述驱动的AI配音，可同步生成背景音乐，已上线网页及移动端。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability"
             },
             {
-              "title": "Google’s new Guided Vision feature can help you read the fine print",
-              "summary": "谷歌Gemini Live今日上线“引导视觉”功能，支持安卓设备实时AI语音描述摄像头所见，可读小字、识物、描述环境。",
+              "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+              "summary": "OpenAI在DevDay发布AI智能体Dots，基于GPT-6 Astra模型，直面Meta Muse平台竞争。",
               "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision"
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle"
             }
           ]
         }
