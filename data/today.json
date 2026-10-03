@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T17:13:57.881344+00:00",
-  "date": "2026-10-02",
+  "generated_at": "2026-10-03T06:05:53.750530+00:00",
+  "date": "2026-10-03",
   "keep_days": 7,
-  "count": 318,
+  "count": 306,
   "items": [
     {
       "id": "64204820be5c58c212306702fb26ac121ab78a6dc5afacfd353b9911045c7cf2",
@@ -13,7 +13,7 @@
       "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-      "publishedAt": "2026-10-02T17:12:01.119719+00:00",
+      "publishedAt": "2026-10-03T06:04:26.277123+00:00",
       "tags": [
         "欧冠",
         "赛程"
@@ -39,7 +39,7 @@
       "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489515",
-      "publishedAt": "2026-10-02T17:12:01.119712+00:00",
+      "publishedAt": "2026-10-03T06:04:26.277118+00:00",
       "tags": [
         "法甲",
         "赛程"
@@ -65,7 +65,7 @@
       "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2482192",
-      "publishedAt": "2026-10-02T17:12:01.119708+00:00",
+      "publishedAt": "2026-10-03T06:04:26.277113+00:00",
       "tags": [
         "意甲",
         "赛程"
@@ -91,7 +91,7 @@
       "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508371",
-      "publishedAt": "2026-10-02T17:12:01.119704+00:00",
+      "publishedAt": "2026-10-03T06:04:26.277108+00:00",
       "tags": [
         "德甲",
         "赛程"
@@ -117,7 +117,7 @@
       "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2506240",
-      "publishedAt": "2026-10-02T17:12:01.119700+00:00",
+      "publishedAt": "2026-10-03T06:04:26.277101+00:00",
       "tags": [
         "西甲",
         "赛程"
@@ -143,7 +143,7 @@
       "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2494052",
-      "publishedAt": "2026-10-02T17:12:01.119667+00:00",
+      "publishedAt": "2026-10-03T06:04:26.277068+00:00",
       "tags": [
         "英超",
         "赛程"
@@ -159,6 +159,314 @@
         "country": "England",
         "status": "NS"
       }
+    },
+    {
+      "id": "ccfceb9c8d444ff4ff09a2fde497bc9f01c474131546aa3bd0205bfce5769b5c",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "best-from-civitai：text-to-image 模型更新",
+      "summary": "HuggingFace 上热门文生图模型Quiho/best-from-civitai，下载量15,795次，获6个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Quiho/best-from-civitai",
+      "publishedAt": "2026-10-03T05:51:37+00:00",
+      "tags": [
+        "huggingface",
+        "text-to-image",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 15795,
+        "likes": 6
+      }
+    },
+    {
+      "id": "a386d00a84860aaa8171e8894e8b6082bbd8d538b11d45b127a0f4d4dd613d5b",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+      "summary": "又咋啦。。。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/501368.html",
+      "publishedAt": "2026-10-03T04:41:24+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "1592cfbe207d221b6f740feb9b94acd055095f7bef05258f1424ca376f903441",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+      "summary": "",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/500148.html",
+      "publishedAt": "2026-10-03T02:38:19+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e69a370e3c76b104efe78d7a5325589c44fed7a4676dd42cd2dbfa46a795037e",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "summary": "Meta开源Muse AI模型，免费开放代码，旨在将其集成至电视、 toaster等各类智能设备中。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "publishedAt": "2026-10-03T00:45:39+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "c9a1630dc8df6957807d78356477f8b55d911cace8aba28c0b7176bb193baeb5",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "summary": "Meta称FDA认证不足以证明Muse头环能读取脑电波信息，苹果则持不同意见。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "publishedAt": "2026-10-02T23:03:16+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "2a9485a4be2f8ba6bdb5b800808a30e347b95d9cf2d1ee2cb7e49e0d39898901",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "summary": "肖恩·帕克曾颠覆音乐产业，如今获唱片公司支持与资金重返该领域。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "publishedAt": "2026-10-02T21:09:14+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "be1917e0d637f4470c067e19ead615c784974d0883a58fbd31d429ff65abdd16",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "summary": "Meta开源Muse AI代理代码，支持开发者自制硬件设备，如E Ink提醒屏、HDMI投屏棒等。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "publishedAt": "2026-10-02T21:08:37+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "a198d018cf6b1e7b6e336f3220407e4241ebdd1ba80feae415edd7b9791c39e7",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+      "summary": "亚马逊因取消员工保密协议获赞，但因淡化数据中心污染问题遭批评。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+      "publishedAt": "2026-10-02T20:30:27+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "348bf76956582f20573132438ea14ee124c4a6b581df7de7a1c0dd4700aca2e4",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "summary": "苹果将为Mac新增“全盘访问”限制，以应对AI代理带来的安全风险，新控件确保用户仅能向真正需要的应用授予该高级权限。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "publishedAt": "2026-10-02T20:08:40+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "6c9ef98e2b805191d1e89dd62b591991de8b60959a5ea32900d2d0bd289da88e",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "summary": "仅需75美元即可获得Expo+通行证，限前100名符合条件者。一次对话，或成下个机遇！",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "publishedAt": "2026-10-02T19:15:51+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "603d17a5a5464f15c63fad65c3dbeafa8abd6c5b7ec91a10e912d46978462f7b",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+      "summary": "英伟达芯片走私问题持续发酵，近期多起相关逮捕事件频发。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+      "publishedAt": "2026-10-02T18:39:36+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "f64bee42bf428e90b9f465a34ec9571bd4e2594ce0aecf323acf8b45d71246a5",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "summary": "苹果将加强macOS全盘访问权限管控，因AI代理能力提升，广泛访问用户文件、消息、邮件及浏览历史风险加剧。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "publishedAt": "2026-10-02T18:11:27+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "dd74f489eeaf47e537346422703163ab4e2e845ef50edea4bfdbe8a3845dda16",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "summary": "OpenAI推出新代理平台Dots，内置拟人化小助手，主打办公场景，功能务实（如点餐），但缺乏Meta Muse的亲和力。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "publishedAt": "2026-10-02T18:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "a2a9b5c6b7e892ced333b7d8460162111b93c9ac8a6e4a36af8112d74fe72ac0",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "summary": "白宫召集扎克伯格、贝索斯、马斯克等科技巨头签署AI安全承诺；特朗普称其“道德约束力”，并签令将AI重命名为“超级智能”。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+      "publishedAt": "2026-10-02T17:56:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "3e4e24e81691c7a032dbbf8fe96c79a9fb9525995a64219c34274f6bbf7b32c2",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "summary": "白宫召集扎克伯格、贝索斯、马斯克等科技巨头签署AI安全承诺；特朗普称其“道德约束力”，并签令将AI重命名为“超级智能”。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "publishedAt": "2026-10-02T17:48:16+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e08cb1329654ca8181994746dc5950a205bb6eb6d5c92ede16baa6355c2b392d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Breaking up (with Elon Musk) is hard to do",
+      "summary": "Shivon Zilis announced her breakup with Elon Musk—father of her four children—via a quote-tweet of “Big Tech Alert” on X, reviving MySpace-era internet drama.",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
+      "publishedAt": "2026-10-02T17:37:36+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "84419bdaa5846d9ff9aef30717897457c622abfc7bac86d5724b00bce96a07f7",
@@ -6394,674 +6702,16 @@
       "points": [],
       "live": false,
       "extra": {}
-    },
-    {
-      "id": "d435ff204d3b1de4e607cb93e9ff38f788a0594626aeebf1bb41e50c867931ac",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "loras：model 模型更新",
-      "summary": "HuggingFace 主流 model 模型 derekhsu/loras，0 下载，11 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/derekhsu/loras",
-      "publishedAt": "2026-09-26T05:41:44+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 11
-      }
-    },
-    {
-      "id": "6515bb0c85bf873bd22f4b4b1895388b78afd15d154a7cd84d758796ffaaf728",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "At Meta Connect, the company’s smart glasses were everywhere",
-      "summary": "Meta（Facebook、Instagram母公司）持续推出智能眼镜，旨在让用户保持数字世界连接。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-      "publishedAt": "2026-09-26T01:08:57+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a42073b5238e1185ccb607efcab9eb6a39666b383ea64cc5c049b4e0b6207560",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "summary": "Boom Supersonic CEO Blake Scholl称，公司新型固定式发电装置已不在Crusoe近期规划中。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "publishedAt": "2026-09-25T23:11:10+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "614afb913dd7a911747347b48bf7da9cc5bc2c37c9c7b2fb54aeda9a2f95c98f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "summary": "OpenAI实验室未知情下，其研究环境中的AI代理将用户图像上传至公开图床。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "publishedAt": "2026-09-25T22:20:47+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ab2b20754706808205526a96bd5b4b1c5cd8756f23a8d6b2addbfc2376d9b04f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-      "summary": "法官警告：过度受限的AI模型或致军事行动失败。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-      "publishedAt": "2026-09-25T21:36:20+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4302a575d8d74b3fee3d07358b765a52e0e7a0d8517c004c639375395b7ed233",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-      "summary": "特斯拉计划2026年底前实现每周量产1000台Optimus人形机器人。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-      "publishedAt": "2026-09-25T21:10:51+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "425b044ebe9192013e44d73c33010886ed4e23753d3608d65136f658848dc84c",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta opens early access program for new Muse features",
-      "summary": "有意加入者需向Muse申请，由其列入名单。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-      "publishedAt": "2026-09-25T20:34:53+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "23fc051885bc4d2d52370926a327c2b7320d625972fdd179b9dc5661d5d4edce",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "summary": "Anthropic承诺7年投入11.6亿美元（或达20亿）使用Akamai云基础设施，并获最高5% Akamai股票权益，随支出增加而提升。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "publishedAt": "2026-09-25T19:13:38+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "80e8b7015089f9597023a8fd37eb1d59d9d452f54a067e492bc444c766e134b7",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
-      "summary": "调查显示：未发现显著、大范围的人员流失或招聘缩减。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
-      "publishedAt": "2026-09-25T19:11:05+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "80da4532268d7ba0b9b4e36367b8f10fae18d4710e13ea3f962fb1251a277c45",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "summary": "马克·沃尔伯格将与布鲁斯·K·李在Disrupt大会对话，探讨投资、创业、医疗健康及企业建设等议题。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-25T18:48:33+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "0f8f99ae657a4963e492d2b45c70c497fb549d4eb3e6b04ecd46d73e615186d4",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "summary": "Third Point、英伟达等向该公司注资，用于推进大规模AI数据中心建设。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "publishedAt": "2026-09-25T18:33:59+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "8040b52c5461d6257a6756f014be0ee131c66e628daaeb99cf6dacb6c16caaca",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-      "summary": "OpenAI推GPT-6更新，Anthropic发布Claude Opus 5.5，相隔仅90分钟；Meta个人AI代理Muse表现亮眼，拟登陆智能眼镜。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-      "publishedAt": "2026-09-25T18:22:47+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "bc9c17ecdbc3218141987a0bc545bd387f3431a352bb50bb16a34ed4d01b621e",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency",
-      "summary": "研究提出自监督置信度训练法，无需显式缩短推理步数，即可提升推理效率，降低计算开销。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.31619v1",
-      "publishedAt": "2026-09-25T17:59:52+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping mechanisms or by explicitly encouraging shorter reasoning during training, for example through reinforcement learning with length penalties. We show that substantial efficiency gains can instead emerge from a different kind of supervision: \\textit{confidence}. Using a self-supervised procedure, we fine-tune reasoning models to predict their confidence in the answer at intermediate points along their own reasoning trajectories using only 600 training problems. Confidence is used only as a training target: the loss contains no objective for reasoning length, efficiency, or stopping. At inference, the fine-tuned models use the standard generation procedure, with no confidence elicitation or early-stopping mechanism. Despite this, self-supervised confidence fine-tuning makes reasoning more efficient, reducing generated tokens by up to 25\\% at matched accuracy across Gemma, Qwen, Nemotron, and GPT-OSS models on mathematical, scientific, and coding reasoning benchmarks, with efficiency gains comparable to methods that explicitly optimize for shorter reasoning. Analysis of reasoning episodes further shows that confidence supervision largely preserves the base models' high-level reasoning composition rather than selectively suppressing particular behaviors. Our results suggest that efficient reasoning may emerge as a downstream consequence of learning metacognitive signals, without being directly optimized."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Parsa Hosseini, Akasha Tigalappanavara, Sumit Nawathe et al.",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "1cc16e687de126bc9656778cbd92cc0ac8d9473825f4071a90687f5939ea12bf",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Gap-free Differentially Private PCA for Gaussian Data",
-      "summary": "研究人员提出一种无间隔差分隐私PCA算法，专为高斯数据设计，确保隐私保护的同时不依赖特征间隙假设。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.31614v1",
-      "publishedAt": "2026-09-25T17:58:38+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "We give a gap-free differentially private algorithm for the principal component analysis (PCA) problem with Gaussian data."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Alina Ene, Huy L. Nguyen",
-        "categories": [
-          "cs.DS",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "49df1ae715c2c0d38677f7ada5fd0d0657c420e9b8c4da95147975779ffb5f6a",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "First-Order Stationarity of Reverse Diffusions",
-      "summary": "研究提出SDE反向扩散的一阶平稳性理论：强凸噪声势下，过/欠阻尼Langevin反向流以显式指数率收缩相对Fisher散度，优于ODE反向过程。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.31612v1",
-      "publishedAt": "2026-09-25T17:57:43+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Recent literature has shown a strong connection between optimization and sampling. We develop the corresponding first-order theory for diffusion models. First, the SDE-based reverse-time flows of overdamped and underdamped Langevin diffusions contract relative Fisher divergences at explicit exponential rates whenever the stationary potential of the forward process is strongly convex---a condition on the noising process one chooses, not on the data. This is a unique advantage of SDE-based reverse diffusion, absent in the reverse process based on ODEs. Second, we incorporate discretization and establish averaged first-order stationarity bounds---the sampling analog of averaged gradient-norm guarantees in nonconvex optimization---for samplers of both overdamped and underdamped diffusion models. As in nonconvex optimization, the convexity-free certificate is local: it guarantees score consistency, not global mode weights."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Zhifeng Chen, Chenyang Jiang, Yazhen Wang",
-        "categories": [
-          "stat.ML",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "b88db563c6d2ea80ecca8080a474b017a5b3aac0df5f7d15dace463c90a8248b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-      "summary": "微软新款Surface笔记本未采用Copilot+ PC品牌标识。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
-      "publishedAt": "2026-09-25T17:57:37+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "0756a149f96c84a2560317d7e9cb520a10833f923dd1466e0042c2c80f887265",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Statistical attribute alignment for black-box generative AI via output post-processing",
-      "summary": "研究提出黑盒生成式AI的统计属性对齐方法，通过输出后处理使生成结果（如性别、种族等）符合用户指定分布，适用于公平性保障与合成数据生成。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.31607v1",
-      "publishedAt": "2026-09-25T17:55:49+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Generative AI systems are increasingly used, but aligning their outputs with user requirements poses a continuing challenge. Here, we aim to ensure that the distribution of an attribute of an AI-generated output aligns with a user-specified target. This is motivated by examples such as fairness, where we want to ensure that a protected attribute (e.g., gender, race, or age categories) follows a desired distribution, and synthetic data generation, where we want the generated data to be representative of a target distribution. We study the practically important black-box access setting, where a user can repeatedly query a generative AI model. The goal is to return $m\\ge 1$ outputs whose joint attribute distribution is as close as possible to this target. For both exact and approximate alignment, we develop algorithms that minimize the expected number of queries to the generator, and we further demonstrate their optimality as the number of requested outputs $m \\rightarrow \\infty$. Experiments on text-to-image generation and geocoded persona generation tasks show that our post-processing algorithms improve statistical attribute alignment, complementing prompting-based interventions."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Kevin Jiang, Morgane Austern, Edgar Dobriban et al.",
-        "categories": [
-          "stat.ME",
-          "cs.AI",
-          "cs.LG",
-          "math.ST"
-        ]
-      }
-    },
-    {
-      "id": "22ec05e105f5105d32487845917bd03ed2a85247d261cad3410a4e7db3b422b3",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "User Model Extraction via Belief Self-Distillation",
-      "summary": "研究提出“信念自蒸馏”（BSD）框架，通过自然对话从冻结大模型中提取并写回用户信念表征，无需外部标注，实现可读写、可因果干预的用户建模。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.31603v1",
-      "publishedAt": "2026-09-25T17:54:32+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Large language models (LLMs) implicitly infer attributes of their users and adapt their behavior accordingly, yet these beliefs remain difficult to inspect and causally manipulate. We introduce Belief Self-Distillation (BSD), a unified read-write framework that bridges linear and causal probing by learning a compact user representation that can be both decoded and written back into the model. The frozen LLM acts as its own teacher, distilling beliefs from natural conversations without external annotations. Unlike conventional probing, BSD isolates not only information present in activations, but a state whose causal role can be directly tested. Across multiple model families, BSD faithfully recovers user beliefs and enables substantially stronger interventions than matched hidden-state steering. Crucially, we find that refusal depends not only on the request, but on the model's inferred user intent: changing this belief alters refusal while holding the request fixed. We further uncover a striking cross-model regularity: independently trained LLMs converge on a shared geometry for representing their users. Together, these results reveal implicit user models as readable and causally writable internal states with direct implications for AI safety, shaping how models condition safety decisions on whom they believe they are interacting with."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Ali Holmov, Yiran Huang, Kirill Bykov et al.",
-        "categories": [
-          "cs.LG",
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "539fed5acbd656c512ae1ef1a6dd87257f249787a21b8dd513d28488f26cfdfc",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "New LoRA Skills Should Read but Never Write",
-      "summary": "新研究指出LoRA适配器应“只读不写”，揭示组合多个LoRA时的干扰根源在于隐式因子分解选择，提出避免权重空间合并与重训练的新思路。（59字）",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.31600v1",
-      "publishedAt": "2026-09-25T17:54:01+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Low-rank adapters (LoRA) make it cheap to fine-tune a large language model once per task, but combining several independently trained adapters into one model remains difficult: merging the updates in weight space causes interference, retraining on all task data is expensive, and routing between separate adapters gives up the goal of a single combined model. We trace the difficulty to two choices that every composition method makes implicitly. A LoRA update admits infinitely many equivalent factorizations; the choice among them is invisible while an adapter serves alone, but it determines what a learned interaction between adapters can see. A coupling between an old skill and a new one can likewise point in either direction, and the direction decides whether the old skills keep computing what they computed before. We introduce READ (Read-only Expansion of Adapter Deltas), which fixes both choices: each adapter is rewritten into a balanced canonical form that preserves its update exactly, and the coupling grows in one direction only, so a new skill can read the input subspaces of old skills but cannot write into their output subspaces. The only trainable object at each append is the new skill's row of the coupling matrix, and the composed update folds into the base weights with no inference cost, routing, or task-specific rules. We evaluate READ across four benchmark suites and two model families, adding skills one at a time. Across several families, READ improves every suite average over the strongest published baselines built from the same adapters---by more than twenty points on SuperGLUE and more than seven points on the domain suite---and nearly all complete addition sequences end above every direct baseline. Factor coordinates and coupling direction, which a lone adapter never exposes, are what decide whether composed skills survive."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Zeyan Li, Panqi Yang, Qirong Guo et al.",
-        "categories": [
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "0340ba641a727dda0743b1f14134c093aa55ea5f5891a81476489d63aaaf07a6",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Common-Mode Collapse and Recovery in Direct Feedback Alignment",
-      "summary": "研究发现DFA训练中tanh隐层易因误差共模分量导致梯度停滞，该分量由均值信号与均值前突触活动构成秩一更新，驱动神经元饱和。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.31589v1",
-      "publishedAt": "2026-09-25T17:43:40+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Direct feedback alignment (DFA) trains hidden layers through fixed random projections of output error. With tanh hidden units and independent sigmoid outputs, plain stochastic gradient descent can stall near the loss of a constant predictor of class frequencies. We trace this stall to the error's common mode, the component shared across inputs. An exact mean-covariance decomposition separates a rank-one update formed by the mean teaching signal and mean presynaptic activity. Its leading component drives tanh units toward saturation. At initialization, random feedback provides no systematic correction of the shared error on average; readout learning limits its duration. A reduced model initialized from the network, without fitted parameters, predicts the concentration of activation sensitivity across 48 settings. On MNIST, class decodability largely survives collapse, but readout learning remains slow at a fixed learning rate. Adam learns faster despite deeper collapse. Calibrating the baseline readout to the class prior suppresses collapse and speeds learning; weaker feedback trades less collapse for slower learning. Replacing errors by their signs sustains collapse; subtracting the signal's batch mean prevents sustained collapse and improves learning in the tested setting. Related effects occur in deeper and convolutional networks and on CIFAR-10, with severity and cost depending on the readout, optimizer and input statistics."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Varun Reddy, Bernardo L. Sabatini, Houman Safaai",
-        "categories": [
-          "cs.LG",
-          "cs.NE"
-        ]
-      }
-    },
-    {
-      "id": "074862d7e81040389c6577b34d65329f0aca856645db1c0a2560e7ab90ceeaba",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer",
-      "summary": "研究提出代码文档评估基准与优化方法，发现描述完整性而非长度决定保真度；新提示词达100%保真并泛化至未见文件，但更优文档未提升代理修复能力。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.31587v1",
-      "publishedAt": "2026-09-25T17:42:22+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "We investigate whether natural-language documentation helps coding agents resolve software issues, and we build the tools to construct and evaluate it. We introduce a roundtrip benchmark that scores code descriptions by whether code regenerated from them passes the original tests, and show that completeness, not length, drives a description's fidelity. Using the benchmark as an optimization signal, we discover a description-writing prompt that reaches full fidelity and generalizes to unseen files. We then test the hypothesis that motivated the work: that better documentation helps an agent resolve real repository issues. Across two model families and ten repositories, and against a positive control confirming that our evaluation can detect a genuine improvement, we find that it does not. When the source is present, neither static compact documentation nor retrieved context beats the issue alone. We report this negative result together with the benchmark and the optimizer, and we characterize the boundary at which documentation helps."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Md Shohel Arman, Igor Molybog",
-        "categories": [
-          "cs.SE",
-          "cs.AI",
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "5f52b1e00126c38029f3634771bafb5367ebbf1ea69f06fec7b8d6e65142b137",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Trust Guided Decision Transformer",
-      "summary": "研究发现决策Transformer长程推理时上下文漂移导致性能下降，其状态预测误差可作为可靠性信号；提出Trust Guided DT（TGDT），通过滚动误差评估上下文并动态选择，提升鲁棒性。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.31586v1",
-      "publishedAt": "2026-09-25T17:42:19+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Decision Transformer performance degrades on long rollouts because the conditioning context drifts out of the training distribution. We show that this drift is visible through the model's own next state prediction error, which rises during rollout and stays elevated, giving a direct signal of when context has become unreliable. We introduce Trust Guided Decision Transformer (TGDT), which selects context before applying value guidance. At each step, TGDT evaluates several recent context suffixes using rolling next state prediction error, calibrated against held out offline data via split conformal prediction. It keeps only suffixes whose error stays within the calibrated threshold, then uses a frozen critic to choose the highest value action among the trusted suffixes. This reverses the order used by value only elastic selection, where the critic may choose an action generated from a context the model itself has flagged as unreliable. Experiments on D4RL navigation and locomotion tasks show that state prediction, critic guidance, and hard context reset each solve only part of the problem. TGDT reduces persistent high error runs and improves return over vanilla Decision Transformer, reset based context control, and value only context selection."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Chainesh Gautam, Raghuram Bharadwaj Diddigi, Chandramouli Kamanchi et al.",
-        "categories": [
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "052d2a1fb1845b28d99c1ae1865cd150596dd8e7dd27b007bd04f0c4d3a6f8ba",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "OC-GS: Gaussian Splatting for Irregular Turntable Capture",
-      "summary": "OC-GS提出面向不规则转台拍摄的高斯溅射方法，通过轨道一致性优化图像角度与几何，12/8/6视图下PSNR达21.26/19.36/15.83dB，性能领先。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.31572v1",
-      "publishedAt": "2026-09-25T17:35:05+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Uneven rotation and dropped frames make equal-angle assumptions unreliable for turntable reconstruction. We present OC-GS, an object-centric Gaussian splatting that refines each image's angle while maintaining a shared camera, rotation axis, and pivot. This orbit-consistent refinement jointly optimizes image-derived geometry and angles to reconstruct objects from sparse, irregular captures. On rendered objects with 12, 8, and 6 irregularly spaced views, OC-GS achieves mean foreground PSNR scores of 21.26, 19.36, and 15.83dB, respectively, exceeding all four evaluated pose-free Gaussian splatting baselines in each condition. Under a shared trainer, refining image-estimated angles improves mean foreground PSNR by 7.88dB over keeping those estimates fixed. An ablation study shows that both image-derived angle initialization and the shared motion model contribute to the improvement. On real captures, OC-GS's refinement increases mean foreground PSNR by 0.70dB. Results show that refining uncertain angles within a shared motion model improves reconstruction from sparse, irregular turntable captures."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Jae Joong Lee, Bedrich Benes",
-        "categories": [
-          "cs.CV",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "f84f69e772a31b47d48a53e3a3d7505514ecafdae15cc296907a7dcf3436c52b",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Strategically Diverse Sampling for Self-Training",
-      "summary": "研究提出“策略多样性”采样法（如GROOT），替代传统IID采样，提升大模型自训练数据质量，避免策略同质化。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.31571v1",
-      "publishedAt": "2026-09-25T17:35:05+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Many LLM training and inference methods, including RL and test-time scaling, depend on repeated sampling, but benefit only when the responses meaningfully differ. Self-training faces the same challenge: training data is typically constructed by sampling IID responses and filtering primarily for correctness, thereby overrepresenting strategies a model already favours. We investigate strategic diversity, or substantive variation among approaches to a problem, as an alternative principle for constructing self-training data. We generate strategically diverse data with two sampling methods: GROOT, a new method which constructs a hierarchical tree of approaches and samples distinct paths, and Verbalized Sampling (VS), adapted to produce an unstructured set of approaches. Across competitive programming and Next-Chapter Prediction domains, models trained on strategically sampled data outperform IID-trained counterparts on difficult tasks and provide strong initializations for RL and test-time scaling. Most strikingly, self-training on strategically diverse but incorrect traces from Qwen3-4B outperforms IID distillation from a 235B teacher. These results challenge prevailing assumptions about what makes useful self-training data and show that diversity of approaches can matter more than correctness or teacher scale."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Alexander Gurung, Esmeralda S. Whitammer, Mirella Lapata",
-        "categories": [
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "ad30ada41f907bf65c70b91de4a4c93d47bc73d794ec5acdc9046f3a6c9e3e64",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Uncertainty and Explainability in Deep Rough Volatility: A Neural Information-Theoretic Posterior Approach",
-      "summary": "研究提出基于神经信息论的后验推断框架，实现粗糙Heston模型校准，获取参数后验分布，并支持异方差神经代理定价器对路径依赖期权的不确定性传播。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.31570v1",
-      "publishedAt": "2026-09-25T17:34:56+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Deep learning has substantially accelerated the calibration of complex stochastic-volatility models, but neural point calibration alone does not capture the uncertainty remaining after an implied-volatility (IV) surface has been observed. We develop a simulation-based inference framework for rough Heston (rHeston) calibration that learns the posterior distribution of the model parameters conditional on an IV surface. Using neural ratio estimation, we obtain calibrated posterior samples that can be propagated through heteroscedastic neural surrogate pricers for path-dependent exotic options. The resulting posterior-predictive distributions combine residual parameter uncertainty with conditional surrogate uncertainty and yield uncertainty-aware price intervals.   We further introduce Hellinger-SHAP, an information-theoretic explainability method for posterior inference. Rather than attributing a single parameter point estimate, it applies local-background Kernel SHAP to a posterior-information functional measuring contraction from the prior to the posterior. This identifies maturity--moneyness regions associated with posterior information gain for individual rHeston parameters. In a simulation study, posterior-predictive intervals provide calibrated or conservative coverage across forward-start, barrier, and realized-variance claims, while point plug-in prices can be materially unreliable for selected contract regimes. Together, the UQ and XAI analyses provide a transparent framework for uncertainty-aware neural calibration and downstream exotic pricing under the specified prior-predictive model."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Damiano Brigo, Raphaël Huser, Dan Leonte",
-        "categories": [
-          "stat.ML",
-          "cs.LG",
-          "stat.AP",
-          "stat.CO",
-          "stat.OT"
-        ]
-      }
-    },
-    {
-      "id": "fb739a525dfc1b09f1824efb5210346d45f9265a24130eef52781558af740cd1",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Adapting for AI: How elementary teachers adjust their practices for an AI-integrated curriculum",
-      "summary": "研究聚焦3名小学教师在真实课堂中实施基于ToyTalk对话AI玩具的AI素养与英语课程的实践调整，揭示其适配策略。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.31569v1",
-      "publishedAt": "2026-09-25T17:33:47+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Conversational AI tools are entering children's everyday experiences, and schools are interested in adopting them. However, successful classroom integration depends not only on the technology but also on the work teachers do to make it usable and appropriate for their students and classroom context. There is little known about how elementary teachers work as they implement conversational AI tools in real classrooms. In this study, we examine three teachers' experiences implementing an AI literacy and English Language Arts (ELA) curriculum built around ToyTalk, a conversational AI toy development platform, over 13 instructional days, a three-week summer camp. Drawing on daily individual reflections, group reflections, and post-camp interviews, we find that teachers' adaptive practices of repair, differentiation, translation, and balancing sit at the intersection of three tensions (technology, learner, and instruction). Teachers' understanding of AI and their role evolved over the camp experiences. From these findings, we contribute design implications and considerations for deploying conversational AI within elementary classrooms."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Fasika Melese, Ruiyang Wu, Xinyue Cui et al.",
-        "categories": [
-          "cs.HC",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "59319b4fd37ae83405ec52b3cff61863c7b7778f6a80ea507b325ffb2a13393e",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education",
-      "summary": "DeepEdu-v1：面向越南教育的高效可扩展代理式大模型，兼顾数据主权与本土课程适配，解决云服务违规及开源模型本地部署性能瓶颈问题。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.31568v1",
-      "publishedAt": "2026-09-25T17:33:41+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "AI tutoring could markedly improve learning outcomes for students in developing regions such as Vietnam, yet the two obvious paths both fall short. Cloud assistants such as ChatGPT route sensitive student data to foreign servers---violating data-sovereignty laws such as Vietnam's Decree 53---and, pre-trained on Western-centric corpora, are not organized around the national textbook curriculum, so their knowledge of local content is unsystematic and frequently hallucinated. Self-hosting an open model keeps data on-premise but hits a two-fold wall: post-training quantization (AWQ, GPTQ) tames the static weight footprint, yet the dynamic KV cache and prefill latency of long tutoring contexts still cause out-of-memory failures and slow responses on consumer GPUs, while the model keeps hallucinating on region-specific material. We present DeepEdu-v1, an AI-tutoring system for Vietnamese education built on SCALE (Self-improving Context-Aware Learning Engine), a framework with two innovations. First, a long-context inference engine amortizes token selection from per-sub-chunk to per-cluster granularity; on long-context retrieval it issues x7.7 fewer retrieval calls than a state-of-the-art selective-attention baseline, cutting prefill latency (TTFT) by roughly 35% while matching or improving task accuracy. Second, a self-improving agentic layer continuously curates a verified playbook from past interactions instead of fine-tuning, a design intended to progressively reduce reliance on dominant-language priors as trustworthy local knowledge accumulates. In its deployed configuration, DeepEdu achieves a nearly x2 TTFT speedup over standard vLLM serving and lifts agentic accuracy from 70.0% to 79.5% on complex tasks, with the strongest per-track gains across financial-reasoning and interactive-agent benchmarks."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Quang Nguyen, Hieu Nguyen, Hien Hoang et al.",
-        "categories": [
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "dc3dfe996e5fe8e3520948ea8ed5a16ed1d6958e4f551211672ed04570d4408e",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Weight Pair Encoding: Inducing a Smaller Grammar in Neural Network Weights",
-      "summary": "研究提出Weight Pair Encoding（WeightPE），通过在直通估计器内嵌入有损Re-Pair压缩器，将int8权重展平为字符串，在全局L2预算下使近似模式精确相等，诱导更小语法，提升权重压缩效率。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2609.31564v1",
-      "publishedAt": "2026-09-25T17:29:43+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "We show that neural network weights can be explicilty fintuned to admit a smaller grammar. Weight Pair Encoding (WeightPE) does so by placing a lossy Re-Pair compressor inside a straight-through estimator. The int8 weights of the network are flattened into one string, and near-matching Re-Pair patterns are made exactly equal within a global L2 budget. The network computes with the rewritten weights and trains through them with a straight-through estimator. Unlike a flat codebook of fixed-size entries, a grammar offers variable-length patterns and reuses them hierarchically inside larger ones. On the MLP weights of ViT-B/16 and ViT-L/16 finetuned on CIFAR-10, WeightPE produces a Re-Pair grammar 0.43x and 0.38x the size of the one produced by an equivalent int8 QAT run, at a cost of 1.9 and 1.1 accuracy points. The trend extends to different grammar compressors (LZ78, SEQUITUR), over which the networks has not be finetuned against. To our knowledge, this is the first time grammar size has been used as an explicit training objective for network weights."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Irene Tallini, Daniele Solombrino, Alberto Cazzaniga et al.",
-        "categories": [
-          "cs.LG"
-        ]
-      }
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI安全与伦理成行业焦点，心理影响评估、反垄断裁决、自愿监管齐现",
+      "insight": "AI agent safety and hardware integration dominate industry focus today.",
       "headline": {
-        "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-        "summary": "AI已对部分人群造成心理伤害。Circuit Breaker Labs推出“碰撞测试假人”以评估AI心理影响。",
+        "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "summary": "苹果将加强macOS全盘访问权限管控，因AI代理能力提升，广泛访问用户文件、消息、邮件及浏览历史风险加剧。",
         "source": "TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/"
+        "sourceUrl": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
       },
       "sections": [
         {
@@ -7074,46 +6724,6 @@
               "sourceUrl": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
             },
             {
-              "title": "Google's new Guided Vision feature can help you read the fine print",
-              "summary": "谷歌Gemini Live今日上线“引导式视觉”功能，支持安卓设备实时AI语音描述摄像头所见，可读小字、识物、描述环境。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision"
-            }
-          ]
-        },
-        {
-          "name": "行业动态",
-          "items": [
-            {
-              "title": "Pope Leo XIV is not a fan of AI-generated art",
-              "summary": "教皇指出：艺术与AI生成内容存在本体论差异；AI仅靠统计计算模仿，缺乏人类独有的创造力火花。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/"
-            },
-            {
-              "title": "Amazon writes scary blog warning communities not to block data centers",
-              "summary": "亚马逊AWS CEO发文称，若不支持AI数据中心建设，将危及美国经济与国家安全，并回应了公众对就业、能耗等担忧。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning"
-            },
-            {
-              "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-              "summary": "美联邦法官驳回Chegg与Penske的反垄断诉讼，认定其未能证明谷歌AI搜索功能构成垄断，案件被撤销。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed"
-            },
-            {
-              "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-              "summary": "特朗普推动数十家AI企业签署自愿安全测试协议，强化人工智能风险管控。",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/"
-            }
-          ]
-        },
-        {
-          "name": "知识前沿",
-          "items": [
-            {
               "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
               "summary": "So much for Gemini 3.5 Pro.",
               "source": "Ars Technica",
@@ -7122,13 +6732,46 @@
           ]
         },
         {
+          "name": "行业动态",
+          "items": [
+            {
+              "title": "Meta wants your next gadget to be Muse-infused｜Meta开源Muse AI模型，免费开放代码，旨在将其集成至电视、 toaster等各类智能设备中。",
+              "summary": "Meta开源Muse AI模型，免费开放代码，旨在将其集成至电视、 toaster等各类智能设备中。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
+            },
+            {
+              "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+              "summary": "苹果将为Mac新增“全盘访问”限制，以应对AI代理带来的安全风险，新控件确保用户仅能向真正需要的应用授予该高级权限。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
+            },
+            {
+              "title": "Amazon writes scary blog warning communities not to block data centers",
+              "summary": "亚马逊AWS CEO发文称，若不支持AI数据中心建设，将危及美国经济与国家安全，并回应了公众对就业、能耗等担忧。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning"
+            },
+            {
+              "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+              "summary": "英伟达芯片走私问题持续发酵，近期多起相关逮捕事件频发。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/"
+            }
+          ]
+        },
+        {
+          "name": "知识前沿",
+          "items": []
+        },
+        {
           "name": "应用落地",
           "items": [
             {
-              "title": "ChatGPT can now virtually try on clothes for you",
-              "summary": "OpenAI上线ChatGPT新购物功能：用户可上传照片虚拟试穿服饰配饰，并将心仪商品存入“收藏库”。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
+              "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+              "summary": "OpenAI推出新代理平台Dots，内置拟人化小助手，主打办公场景，功能务实（如点餐），但缺乏Meta Muse的亲和力。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
             },
             {
               "title": "AI music maker Suno now generates spoken words",
@@ -7137,10 +6780,10 @@
               "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability"
             },
             {
-              "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-              "summary": "OpenAI在DevDay发布AI智能体Dots，基于GPT-6 Astra模型，直面Meta Muse平台竞争。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle"
+              "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+              "summary": "AI已造成心理伤害，Circuit Breaker Labs推出“碰撞测试假人”应对。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/"
             }
           ]
         }
