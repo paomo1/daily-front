@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T06:05:53.750530+00:00",
+  "generated_at": "2026-10-03T15:33:19.270629+00:00",
   "date": "2026-10-03",
   "keep_days": 7,
-  "count": 306,
+  "count": 295,
   "items": [
     {
       "id": "64204820be5c58c212306702fb26ac121ab78a6dc5afacfd353b9911045c7cf2",
@@ -13,7 +13,7 @@
       "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-      "publishedAt": "2026-10-03T06:04:26.277123+00:00",
+      "publishedAt": "2026-10-03T15:31:47.897034+00:00",
       "tags": [
         "欧冠",
         "赛程"
@@ -39,7 +39,7 @@
       "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489515",
-      "publishedAt": "2026-10-03T06:04:26.277118+00:00",
+      "publishedAt": "2026-10-03T15:31:47.897029+00:00",
       "tags": [
         "法甲",
         "赛程"
@@ -65,7 +65,7 @@
       "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2482192",
-      "publishedAt": "2026-10-03T06:04:26.277113+00:00",
+      "publishedAt": "2026-10-03T15:31:47.897023+00:00",
       "tags": [
         "意甲",
         "赛程"
@@ -91,7 +91,7 @@
       "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508371",
-      "publishedAt": "2026-10-03T06:04:26.277108+00:00",
+      "publishedAt": "2026-10-03T15:31:47.897017+00:00",
       "tags": [
         "德甲",
         "赛程"
@@ -117,7 +117,7 @@
       "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2506240",
-      "publishedAt": "2026-10-03T06:04:26.277101+00:00",
+      "publishedAt": "2026-10-03T15:31:47.897010+00:00",
       "tags": [
         "西甲",
         "赛程"
@@ -143,7 +143,7 @@
       "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2494052",
-      "publishedAt": "2026-10-03T06:04:26.277068+00:00",
+      "publishedAt": "2026-10-03T15:31:47.896977+00:00",
       "tags": [
         "英超",
         "赛程"
@@ -159,6 +159,151 @@
         "country": "England",
         "status": "NS"
       }
+    },
+    {
+      "id": "383606cf9779070ea5d802d5570ad855116ff2d6877aa6771b1db9234b591c34",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3-0.6B-abliterated-GGUF：model 模型更新",
+      "summary": "HuggingFace 上模型 mradermacher/Qwen3-0.6B-abliterated-GGUF 下载量1556次，获2赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mradermacher/Qwen3-0.6B-abliterated-GGUF",
+      "publishedAt": "2026-10-03T15:21:48+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1556,
+        "likes": 2
+      }
+    },
+    {
+      "id": "734699ae08be86702be13021aa26295e02d7a0b2a609699192d2335e564c3c23",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3.5-27B-uncensored-heretic-v1：image-text-to-text 模型更新",
+      "summary": "HuggingFace上线Qwen3.5-27B无审查异端版图像文生文模型，下载量81，获赞13。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/llmfan46/Qwen3.5-27B-uncensored-heretic-v1",
+      "publishedAt": "2026-10-03T15:21:13+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 81,
+        "likes": 13
+      }
+    },
+    {
+      "id": "6260f2d1688ecdbba826ffacdca7aae565c72458915943f25f40def93464d30e",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3.5-9B-The-Bradbury-F451-Pro-Writer-Uncensored-Heretic-i1-GGUF：model 模型更新",
+      "summary": "HuggingFace 上 Qwen3.5-9B 改版模型“Bradbury-F451”下载量达1768次，获1赞，标称“无审查、异端向”。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mradermacher/Qwen3.5-9B-The-Bradbury-F451-Pro-Writer-Uncensored-Heretic-i1-GGUF",
+      "publishedAt": "2026-10-03T15:19:39+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1768,
+        "likes": 1
+      }
+    },
+    {
+      "id": "76b2b02361f804877286b60d6797fb52039f5fb96541eec2ba42684ce37099c2",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "summary": "Splice CEO Kakul Srivastava leads the sample platform used in hits like Lisa’s “Money” and Sabrina Carpenter’s “Espresso”.",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "publishedAt": "2026-10-03T15:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "241e95e60a233547174e2de2df60ca1aaca9e93ed0d072d40aa0643768aab706",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "summary": "OpenAI前安全报告负责人David Robinson本周辞职，并在《大西洋月刊》发文警示AI风险。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "publishedAt": "2026-10-03T14:31:56+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e6502634fc2beb344be56767bcab58fa625340927d703da6dc7856ddd0a7c0ed",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "All the AI agents that can live in your text messages",
+      "summary": "我们整理了最值得关注的AI短信助手清单，涵盖通用、家庭、旅行、办公等场景。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "publishedAt": "2026-10-03T14:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "5933700f34493d78342360450de5efeaf6914462b3c5348fa6e2ac473242eb83",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+      "summary": "岗位JD甩了篇技术报告",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/501381.html",
+      "publishedAt": "2026-10-03T07:54:43+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "ccfceb9c8d444ff4ff09a2fde497bc9f01c474131546aa3bd0205bfce5769b5c",
@@ -6318,395 +6463,11 @@
       "points": [],
       "live": false,
       "extra": {}
-    },
-    {
-      "id": "8f7039c5cbafce17aa9e9e2217df9069edcf898d6baeaa614715bb2670238f65",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "BFS-Best-Face-Swap：image-to-image 模型更新",
-      "summary": "HuggingFace热门图像换脸模型Alissonerdx/BFS-Best-Face-Swap，下载量13.6万，获906赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap",
-      "publishedAt": "2026-09-26T15:21:14+00:00",
-      "tags": [
-        "huggingface",
-        "image-to-image",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 135567,
-        "likes": 906
-      }
-    },
-    {
-      "id": "60f739a1fb080fe15ec4dd195906e4cfa320a623a2ec6bde1da4d880958fd10f",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "PAW-27B-X3-GGUF：model 模型更新",
-      "summary": "HuggingFace 上模型 lackonendes/PAW-27B-X3-GGUF 下载量3156次，获0点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/lackonendes/PAW-27B-X3-GGUF",
-      "publishedAt": "2026-09-26T15:19:57+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 3156,
-        "likes": 0
-      }
-    },
-    {
-      "id": "211c545eeeb0d2a4627619b60ba4d504e6fbe6fd9a91f9e537f918d3db35079e",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "MiMo-V2.6-Flash-RL-exl3：text-generation 模型更新",
-      "summary": "HuggingFace 上 text-generation 模型 MiMo-V2.6-Flash-RL-exl3（作者 benthecarman）获 1117 次下载、7 个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/benthecarman/MiMo-V2.6-Flash-RL-exl3",
-      "publishedAt": "2026-09-26T15:17:51+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1117,
-        "likes": 7
-      }
-    },
-    {
-      "id": "88a9ab27bc0a4181f32659af557d78632c8ff2bddd5f929d3a7f836ee7af2063",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.5-REAP-212B-A17B-abliterated-GGUF：model 模型更新",
-      "summary": "HuggingFace上线RobinsonLabs/Qwen3.5-REAP-212B-A17B-abliterated-GGUF模型，下载量2723次，获1赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/RobinsonLabs/Qwen3.5-REAP-212B-A17B-abliterated-GGUF",
-      "publishedAt": "2026-09-26T15:17:25+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 2723,
-        "likes": 1
-      }
-    },
-    {
-      "id": "97841995e9f6daa6e3826d19d410d9550fd9d6dc3e663ea346080112b4d24efb",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.8-27B-abliterated-GGUF：model 模型更新",
-      "summary": "HuggingFace 上 RobinsonLabs/Qwen3.8-27B-abliterated-GGUF 模型下载量达 1,387，获 1 赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/RobinsonLabs/Qwen3.8-27B-abliterated-GGUF",
-      "publishedAt": "2026-09-26T15:17:24+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1387,
-        "likes": 1
-      }
-    },
-    {
-      "id": "bf95b37de820b998881d423efdd66c0a391f36869bd160f2f79e541d1df983e0",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.5-122B-A10B-REAP-20-abliterated-GGUF：model 模型更新",
-      "summary": "HuggingFace 上 RobinsonLabs/Qwen3.5-122B-A10B-REAP-20-abliterated-GGUF 模型下载量达 1088，获 2 赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/RobinsonLabs/Qwen3.5-122B-A10B-REAP-20-abliterated-GGUF",
-      "publishedAt": "2026-09-26T15:17:23+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1088,
-        "likes": 2
-      }
-    },
-    {
-      "id": "67cdd6a5930887f6f39ba778d66722b720c3aa34f8b730aa99c70eaabe1cafa3",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.5-122B-A10B-abliterated-GGUF：model 模型更新",
-      "summary": "HuggingFace 上 RobinsonLabs/Qwen3.5-122B-A10B-abliterated-GGUF 模型下载量达 9942 次，获 1 赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/RobinsonLabs/Qwen3.5-122B-A10B-abliterated-GGUF",
-      "publishedAt": "2026-09-26T15:17:21+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 9942,
-        "likes": 1
-      }
-    },
-    {
-      "id": "4446430ddc733d1daf2abb12fe1227e9460ebe40e11c85a4624c94265d7acc29",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.6-35B-A3B-abliterated-GGUF：model 模型更新",
-      "summary": "HuggingFace 上 RobinsonLabs/Qwen3.6-35B-A3B-abliterated-GGUF 模型下载量达 8132，获 1 赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/RobinsonLabs/Qwen3.6-35B-A3B-abliterated-GGUF",
-      "publishedAt": "2026-09-26T15:17:19+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 8132,
-        "likes": 1
-      }
-    },
-    {
-      "id": "d1387e6c5469d38466d82fa9f0b8770879113d3e295d48bc091a33c895297502",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.5-122B-A10B-REAP-30-abliterated-GGUF：model 模型更新",
-      "summary": "HuggingFace 上 RobinsonLabs/Qwen3.5-122B-A10B-REAP-30-abliterated-GGUF 模型下载量达 8635，获 1 赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/RobinsonLabs/Qwen3.5-122B-A10B-REAP-30-abliterated-GGUF",
-      "publishedAt": "2026-09-26T15:17:18+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 8635,
-        "likes": 1
-      }
-    },
-    {
-      "id": "d54e0903d94a472032b94acc87377cde7c9d9cbeb7649eb32072377cb90f45ff",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "summary": "作者训练AI克隆体讨论风投欺诈后，对创建个人AI分身持矛盾态度。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "publishedAt": "2026-09-26T14:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "bf25132acf87857d9f69bfc7ca9e697f113032df25dde8d7cb309a9dd36660fd",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-      "summary": "Cloudflare CEO Matthew Prince discusses the future of business in a two-part series, returning ~2.5 years after his last appearance amid major internet shifts.",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-      "publishedAt": "2026-09-26T14:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "438d8181f0025536b1691fd21d903e37c581857a69815e19d8e51df20d4ed47b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-      "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/498478.html",
-      "publishedAt": "2026-09-26T11:49:43+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a5e7fb340db84dc1d6cc4bedb0168842218303c96d172c1c4a10e1ecdf2f9257",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
-      "summary": "Simate自研Infra打通训推评全流程，通过高效任务编排与资源调度，支持数十条独立研究路线并行推进。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/498271.html",
-      "publishedAt": "2026-09-26T09:07:41+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "fb1ae9e049d038ec8452541451a78a254a58d428cb3684a563d7a26aadd1b87f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
-      "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/497624.html",
-      "publishedAt": "2026-09-26T09:01:00+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "eadaa6ae03146f5cb24b578824fe3757771920de1ef0de078a3ab8c53e158785",
-      "module": "lol",
-      "seg": "rift",
-      "cat": "峡谷攻略",
-      "title": "德玛西亚万分局，剑魔对线84胜率1200分宗师。对线出装教学思路",
-      "summary": "UP主 野犬剑魔 · 10,368播放 · 3:40",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117336325494806",
-      "publishedAt": "2026-09-26T08:13:16+00:00",
-      "tags": [
-        "lol",
-        "rift",
-        "英雄联盟 上单 出装 攻略 教学"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "野犬剑魔",
-        "play": 10368,
-        "bvid": "BV1JEhX6fEaX",
-        "duration": "3:40"
-      }
-    },
-    {
-      "id": "531b459cfcfd45568c86b1ff7d5257b11bc4723ca90533897d0dfe9d54c5048a",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
-      "summary": "大伟哥：如果做不到，一年两年之后过来打我脸",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/497613.html",
-      "publishedAt": "2026-09-26T07:18:05+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "bfc5f5be6ee76c2b643ebbcb9298eb1e2bd2cb7eae3deae2846b0220cfcfd005",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
-      "summary": "vLLM人马创业公司团队出品",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/497425.html",
-      "publishedAt": "2026-09-26T07:12:05+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ef71bc9180658bc38b47eff2686a71d6766779eeb6ba16970a5e028679b0174f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
-      "summary": "还把「密钥」叫战利品",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/497382.html",
-      "publishedAt": "2026-09-26T07:04:15+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI agent safety and hardware integration dominate industry focus today.",
+      "insight": "AI代理安全风险引爆OS权限改革与监管升级",
       "headline": {
         "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
         "summary": "苹果将加强macOS全盘访问权限管控，因AI代理能力提升，广泛访问用户文件、消息、邮件及浏览历史风险加剧。",
@@ -6735,22 +6496,16 @@
           "name": "行业动态",
           "items": [
             {
-              "title": "Meta wants your next gadget to be Muse-infused｜Meta开源Muse AI模型，免费开放代码，旨在将其集成至电视、 toaster等各类智能设备中。",
+              "title": "Meta wants your next gadget to be Muse-infused",
               "summary": "Meta开源Muse AI模型，免费开放代码，旨在将其集成至电视、 toaster等各类智能设备中。",
               "source": "TechCrunch",
               "sourceUrl": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
             },
             {
-              "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-              "summary": "苹果将为Mac新增“全盘访问”限制，以应对AI代理带来的安全风险，新控件确保用户仅能向真正需要的应用授予该高级权限。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
-            },
-            {
-              "title": "Amazon writes scary blog warning communities not to block data centers",
-              "summary": "亚马逊AWS CEO发文称，若不支持AI数据中心建设，将危及美国经济与国家安全，并回应了公众对就业、能耗等担忧。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning"
+              "title": "Sean Parker is rebuilding Stability AI around music",
+              "summary": "肖恩·帕克曾颠覆音乐产业，如今获唱片公司支持与资金重返该领域。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
             },
             {
               "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
@@ -6762,28 +6517,35 @@
         },
         {
           "name": "知识前沿",
-          "items": []
+          "items": [
+            {
+              "title": "An OpenAI safety employee has quit and is sounding the alarm",
+              "summary": "OpenAI前安全报告负责人David Robinson本周辞职，并在《大西洋月刊》发文警示AI风险。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm"
+            },
+            {
+              "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+              "summary": "AI虽不完美，但“幻觉”率低于肯尼迪。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/"
+            }
+          ]
         },
         {
           "name": "应用落地",
           "items": [
             {
+              "title": "All the AI agents that can live in your text messages",
+              "summary": "我们整理了最值得关注的AI短信助手清单，涵盖通用、家庭、旅行、办公等场景。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
+            },
+            {
               "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
               "summary": "OpenAI推出新代理平台Dots，内置拟人化小助手，主打办公场景，功能务实（如点餐），但缺乏Meta Muse的亲和力。",
               "source": "The Verge",
               "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
-            },
-            {
-              "title": "AI music maker Suno now generates spoken words",
-              "summary": "Suno推出语音生成公测功能，支持脚本或描述驱动的AI配音，可同步生成背景音乐，已上线网页及移动端。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability"
-            },
-            {
-              "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-              "summary": "AI已造成心理伤害，Circuit Breaker Labs推出“碰撞测试假人”应对。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/"
             }
           ]
         }
