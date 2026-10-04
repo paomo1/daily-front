@@ -23065,7 +23065,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-    "publishedAt": "2026-10-03T15:31:47.897034+00:00",
+    "publishedAt": "2026-10-04T06:38:26.761061+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -36500,7 +36500,7 @@
     "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2494052",
-    "publishedAt": "2026-10-03T15:31:47.896977+00:00",
+    "publishedAt": "2026-10-04T06:38:26.761000+00:00",
     "tags": [
       "英超",
       "赛程"
@@ -36526,7 +36526,7 @@
     "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2506240",
-    "publishedAt": "2026-10-03T15:31:47.897010+00:00",
+    "publishedAt": "2026-10-04T06:38:26.761042+00:00",
     "tags": [
       "西甲",
       "赛程"
@@ -36552,7 +36552,7 @@
     "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2508371",
-    "publishedAt": "2026-10-03T15:31:47.897017+00:00",
+    "publishedAt": "2026-10-04T06:38:26.761048+00:00",
     "tags": [
       "德甲",
       "赛程"
@@ -36578,7 +36578,7 @@
     "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2482192",
-    "publishedAt": "2026-10-03T15:31:47.897023+00:00",
+    "publishedAt": "2026-10-04T06:38:26.761053+00:00",
     "tags": [
       "意甲",
       "赛程"
@@ -36604,7 +36604,7 @@
     "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2489515",
-    "publishedAt": "2026-10-03T15:31:47.897029+00:00",
+    "publishedAt": "2026-10-04T06:38:26.761057+00:00",
     "tags": [
       "法甲",
       "赛程"
@@ -51155,6 +51155,124 @@
     "extra": {
       "downloads": 1768,
       "likes": 1
+    }
+  },
+  "bcc3132d6770989c05f8776ee496a362700cb6c07939448ca80dc4f2683ec398": {
+    "id": "bcc3132d6770989c05f8776ee496a362700cb6c07939448ca80dc4f2683ec398",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "summary": "AWS CEO回应外界对数据中心的疑虑，强调其安全性和可持续性。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "publishedAt": "2026-10-03T18:43:57+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "c75d86766756ddae0c35252cfc4dac3d3a87b379bf3f7e8df5f0525074a11eac": {
+    "id": "c75d86766756ddae0c35252cfc4dac3d3a87b379bf3f7e8df5f0525074a11eac",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "summary": "大卫·罗宾逊自称“某种陈词滥调”：身为顶尖AI公司员工，辞职时发出严峻警告。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "publishedAt": "2026-10-03T16:30:01+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "13d357e812885f5e3adc5a8d3a6000cb8ef9478015520ef3e481465a1b255f71": {
+    "id": "13d357e812885f5e3adc5a8d3a6000cb8ef9478015520ef3e481465a1b255f71",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+    "summary": "卡普空在RE 2026大会上透露，RE引擎正通过“REX项目”持续升级，强化AI辅助开发能力，展现其对AI技术的积极应用态度。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+    "publishedAt": "2026-10-03T16:49:10+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "1b4505cbd9a940af27814ae49671f72dab7d3d12957a912288614edf23d4fe7b": {
+    "id": "1b4505cbd9a940af27814ae49671f72dab7d3d12957a912288614edf23d4fe7b",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+    "summary": "专业3D模型反而更稀缺了",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501451.html",
+    "publishedAt": "2026-10-04T00:53:29+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "38f1400ef8d70d00745cdca287d8aebed35d16e276e72095d434d2b308cf6696": {
+    "id": "38f1400ef8d70d00745cdca287d8aebed35d16e276e72095d434d2b308cf6696",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "sourceUrl": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "publishedAt": "2026-10-03T22:56:48+00:00",
+    "tags": [
+      "ai-news",
+      "HuggingFace Blog"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "d95d3db5e87bf68dcfe193577efb0b8cf17a4ee8efeb87ad7cfc005da7e338e1": {
+    "id": "d95d3db5e87bf68dcfe193577efb0b8cf17a4ee8efeb87ad7cfc005da7e338e1",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "offline-ai-models：model 模型更新",
+    "summary": "HuggingFace 上 Zrald/offline-ai-models 模型下载量达1380次，暂无点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Zrald/offline-ai-models",
+    "publishedAt": "2026-10-04T06:19:56+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1380,
+      "likes": 0
     }
   }
 }

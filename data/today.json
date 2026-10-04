@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T15:33:19.270629+00:00",
-  "date": "2026-10-03",
+  "generated_at": "2026-10-04T06:39:53.194207+00:00",
+  "date": "2026-10-04",
   "keep_days": 7,
-  "count": 295,
+  "count": 288,
   "items": [
     {
       "id": "64204820be5c58c212306702fb26ac121ab78a6dc5afacfd353b9911045c7cf2",
@@ -13,7 +13,7 @@
       "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-      "publishedAt": "2026-10-03T15:31:47.897034+00:00",
+      "publishedAt": "2026-10-04T06:38:26.761061+00:00",
       "tags": [
         "欧冠",
         "赛程"
@@ -39,7 +39,7 @@
       "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489515",
-      "publishedAt": "2026-10-03T15:31:47.897029+00:00",
+      "publishedAt": "2026-10-04T06:38:26.761057+00:00",
       "tags": [
         "法甲",
         "赛程"
@@ -65,7 +65,7 @@
       "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2482192",
-      "publishedAt": "2026-10-03T15:31:47.897023+00:00",
+      "publishedAt": "2026-10-04T06:38:26.761053+00:00",
       "tags": [
         "意甲",
         "赛程"
@@ -91,7 +91,7 @@
       "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508371",
-      "publishedAt": "2026-10-03T15:31:47.897017+00:00",
+      "publishedAt": "2026-10-04T06:38:26.761048+00:00",
       "tags": [
         "德甲",
         "赛程"
@@ -117,7 +117,7 @@
       "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2506240",
-      "publishedAt": "2026-10-03T15:31:47.897010+00:00",
+      "publishedAt": "2026-10-04T06:38:26.761042+00:00",
       "tags": [
         "西甲",
         "赛程"
@@ -143,7 +143,7 @@
       "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2494052",
-      "publishedAt": "2026-10-03T15:31:47.896977+00:00",
+      "publishedAt": "2026-10-04T06:38:26.761000+00:00",
       "tags": [
         "英超",
         "赛程"
@@ -159,6 +159,124 @@
         "country": "England",
         "status": "NS"
       }
+    },
+    {
+      "id": "d95d3db5e87bf68dcfe193577efb0b8cf17a4ee8efeb87ad7cfc005da7e338e1",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "offline-ai-models：model 模型更新",
+      "summary": "HuggingFace 上 Zrald/offline-ai-models 模型下载量达1380次，暂无点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Zrald/offline-ai-models",
+      "publishedAt": "2026-10-04T06:19:56+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1380,
+        "likes": 0
+      }
+    },
+    {
+      "id": "1b4505cbd9a940af27814ae49671f72dab7d3d12957a912288614edf23d4fe7b",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+      "summary": "专业3D模型反而更稀缺了",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/501451.html",
+      "publishedAt": "2026-10-04T00:53:29+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "38f1400ef8d70d00745cdca287d8aebed35d16e276e72095d434d2b308cf6696",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "publishedAt": "2026-10-03T22:56:48+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "bcc3132d6770989c05f8776ee496a362700cb6c07939448ca80dc4f2683ec398",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "summary": "AWS CEO回应外界对数据中心的疑虑，强调其安全性和可持续性。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "publishedAt": "2026-10-03T18:43:57+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "13d357e812885f5e3adc5a8d3a6000cb8ef9478015520ef3e481465a1b255f71",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "summary": "卡普空在RE 2026大会上透露，RE引擎正通过“REX项目”持续升级，强化AI辅助开发能力，展现其对AI技术的积极应用态度。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "publishedAt": "2026-10-03T16:49:10+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "c75d86766756ddae0c35252cfc4dac3d3a87b379bf3f7e8df5f0525074a11eac",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "summary": "大卫·罗宾逊自称“某种陈词滥调”：身为顶尖AI公司员工，辞职时发出严峻警告。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "publishedAt": "2026-10-03T16:30:01+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "383606cf9779070ea5d802d5570ad855116ff2d6877aa6771b1db9234b591c34",
@@ -6093,381 +6211,11 @@
         "bvid": "BV1Ugah6UEzR",
         "duration": "11:31"
       }
-    },
-    {
-      "id": "5072457b6dbaab2eb8ed75583178dc21b8834f40f75387005e6d4baba7d8f397",
-      "module": "football",
-      "seg": null,
-      "cat": "法甲",
-      "title": "Marseille 1-2 Paris Saint-Germain",
-      "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=G_cQy-bcaRg",
-      "publishedAt": "2026-09-27T06:18:05.309648+00:00",
-      "tags": [
-        "法甲",
-        "战报"
-      ],
-      "body": [
-        "法甲 第 5 轮 · 2026-09-20 · 北京时间 02:45（估算）",
-        "场地：Orange Vélodrome",
-        "主队 Marseille vs 客队 Paris Saint-Germain",
-        "终场比分 1-2"
-      ],
-      "points": [
-        "<b>赛事</b>：法甲 第 5 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-09-20 · 北京时间 02:45（估算）",
-        "<b>场地</b>：Orange Vélodrome",
-        "<b>主队</b>：Marseille",
-        "<b>客队</b>：Paris Saint-Germain",
-        "<b>终场比分</b>：1-2",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "5",
-        "season": "2026-2027",
-        "venue": "Orange Vélodrome",
-        "date": "2026-09-20",
-        "country": "France",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "8e03220733f873edf5bcf380d587f2b55a9706f1c7a2d2bdd2d85b380a866b9d",
-      "module": "football",
-      "seg": null,
-      "cat": "意甲",
-      "title": "AC Milan 3-0 Lecce",
-      "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=dVzz_vYqjPc",
-      "publishedAt": "2026-09-27T06:18:05.309640+00:00",
-      "tags": [
-        "意甲",
-        "战报"
-      ],
-      "body": [
-        "意甲 第 5 轮 · 2026-09-20 · 北京时间 02:45（估算）",
-        "场地：Stadio Giuseppe Meazza",
-        "主队 AC Milan vs 客队 Lecce",
-        "终场比分 3-0"
-      ],
-      "points": [
-        "<b>赛事</b>：意甲 第 5 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-09-20 · 北京时间 02:45（估算）",
-        "<b>场地</b>：Stadio Giuseppe Meazza",
-        "<b>主队</b>：AC Milan",
-        "<b>客队</b>：Lecce",
-        "<b>终场比分</b>：3-0",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "5",
-        "season": "2026-2027",
-        "venue": "Stadio Giuseppe Meazza",
-        "date": "2026-09-20",
-        "country": "Italy",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "467a7dde98f923af5a56017401635f034fe78b441e46ff147930e866b4ae6f91",
-      "module": "football",
-      "seg": null,
-      "cat": "德甲",
-      "title": "Paderborn 3-1 Hoffenheim",
-      "summary": "德甲 · 战报 · 01:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=geNPXDBioSI",
-      "publishedAt": "2026-09-27T06:18:05.309632+00:00",
-      "tags": [
-        "德甲",
-        "战报"
-      ],
-      "body": [
-        "德甲 第 4 轮 · 2026-09-20 · 北京时间 01:30（估算）",
-        "场地：Home Deluxe Arena",
-        "主队 Paderborn vs 客队 Hoffenheim",
-        "终场比分 3-1"
-      ],
-      "points": [
-        "<b>赛事</b>：德甲 第 4 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-09-20 · 北京时间 01:30（估算）",
-        "<b>场地</b>：Home Deluxe Arena",
-        "<b>主队</b>：Paderborn",
-        "<b>客队</b>：Hoffenheim",
-        "<b>终场比分</b>：3-1",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "4",
-        "season": "2026-2027",
-        "venue": "Home Deluxe Arena",
-        "date": "2026-09-20",
-        "country": "Germany",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "307862e3d5d4529fd0857dfb337b3cfc036508e59515f344ec9a4411f0953bf4",
-      "module": "football",
-      "seg": null,
-      "cat": "西甲",
-      "title": "Valencia 2-3 Real Sociedad",
-      "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=PX_Z58lDe84",
-      "publishedAt": "2026-09-27T06:18:05.309623+00:00",
-      "tags": [
-        "西甲",
-        "战报"
-      ],
-      "body": [
-        "西甲 第 7 轮 · 2026-09-20 · 北京时间 03:00（估算）",
-        "场地：Estadio de Mestalla",
-        "主队 Valencia vs 客队 Real Sociedad",
-        "终场比分 2-3"
-      ],
-      "points": [
-        "<b>赛事</b>：西甲 第 7 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-09-20 · 北京时间 03:00（估算）",
-        "<b>场地</b>：Estadio de Mestalla",
-        "<b>主队</b>：Valencia",
-        "<b>客队</b>：Real Sociedad",
-        "<b>终场比分</b>：2-3",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "7",
-        "season": "2026-2027",
-        "venue": "Estadio de Mestalla",
-        "date": "2026-09-20",
-        "country": "Spain",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "b2c340d6cfd2078a467a818f50b0d6223557b9947d59239ca020a44b17135a49",
-      "module": "football",
-      "seg": null,
-      "cat": "英超",
-      "title": "Fulham 1-1 Manchester United",
-      "summary": "英超 · 战报 · 23:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=Iw-n4AhB960",
-      "publishedAt": "2026-09-27T06:18:05.309612+00:00",
-      "tags": [
-        "英超",
-        "战报"
-      ],
-      "body": [
-        "英超 第 5 轮 · 2026-09-20 · 北京时间 23:30（估算）",
-        "场地：Craven Cottage",
-        "主队 Fulham vs 客队 Manchester United",
-        "终场比分 1-1"
-      ],
-      "points": [
-        "<b>赛事</b>：英超 第 5 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-09-20 · 北京时间 23:30（估算）",
-        "<b>场地</b>：Craven Cottage",
-        "<b>主队</b>：Fulham",
-        "<b>客队</b>：Manchester United",
-        "<b>终场比分</b>：1-1",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "5",
-        "season": "2026-2027",
-        "venue": "Craven Cottage",
-        "date": "2026-09-20",
-        "country": "England",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "c1c89a80c8b332344a4cd47ac4920e604c2b00a3b4562e4caacd114580075794",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "EsoTest_GGUFs：model 模型更新",
-      "summary": "HuggingFace 上 Esobold/EsoTest_GGUFs 模型下载量达 12,637 次，暂无点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Esobold/EsoTest_GGUFs",
-      "publishedAt": "2026-09-27T05:58:55+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 12637,
-        "likes": 0
-      }
-    },
-    {
-      "id": "f835d1c627ea9dd61a0c6337b11bf3eb20d4ed19bcc85a8a60d3514caccf59e4",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "granite-speech-4.1-2b-plus-gguf：automatic-speech-recognition 模型更新",
-      "summary": "HuggingFace上，handy-computer/granite-speech-4.1-2b-plus-gguf语音识别模型下载量达11,825次，暂无点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/handy-computer/granite-speech-4.1-2b-plus-gguf",
-      "publishedAt": "2026-09-27T05:58:53+00:00",
-      "tags": [
-        "huggingface",
-        "automatic-speech-recognition",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 11825,
-        "likes": 0
-      }
-    },
-    {
-      "id": "3913482ad35a39c176e2c28bf18f5192f1961803620630469e416f912d100295",
-      "module": "ai",
-      "seg": null,
-      "cat": "厂商动态·阿里通义千问",
-      "title": "阿里通义千问 发布/更新 Qwen3Guard-Stream-4B（feature-extraction）",
-      "summary": "阿里通义千问发布新模型Qwen3Guard-Stream-4B，获25赞、492次下载。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Qwen/Qwen3Guard-Stream-4B",
-      "publishedAt": "2026-09-27T02:00:18+00:00",
-      "tags": [
-        "huggingface",
-        "vendor",
-        "Qwen"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 492,
-        "likes": 25,
-        "vendor": "阿里通义千问"
-      }
-    },
-    {
-      "id": "9fba2411e2b1e74aa6656463ea97b54c7bb89d247bf1ce000c63348d02e47905",
-      "module": "ai",
-      "seg": null,
-      "cat": "厂商动态·阿里通义千问",
-      "title": "阿里通义千问 发布/更新 Qwen3Guard-Stream-0.6B（feature-extraction）",
-      "summary": "阿里通义千问发布新模型Qwen3Guard-Stream-0.6B，HF平台下载量3858次，获35赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Qwen/Qwen3Guard-Stream-0.6B",
-      "publishedAt": "2026-09-27T02:00:16+00:00",
-      "tags": [
-        "huggingface",
-        "vendor",
-        "Qwen"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 3858,
-        "likes": 35,
-        "vendor": "阿里通义千问"
-      }
-    },
-    {
-      "id": "ef77f0167a05b0114d95bbd8206fdd03b9110b57a111805fd505fe3dd8420de3",
-      "module": "ai",
-      "seg": null,
-      "cat": "厂商动态·阿里通义千问",
-      "title": "阿里通义千问 发布/更新 Qwen3Guard-Stream-8B（feature-extraction）",
-      "summary": "阿里通义千问发布新模型Qwen3Guard-Stream-8B，HF平台下载量632次，获40赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Qwen/Qwen3Guard-Stream-8B",
-      "publishedAt": "2026-09-27T02:00:07+00:00",
-      "tags": [
-        "huggingface",
-        "vendor",
-        "Qwen"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 632,
-        "likes": 40,
-        "vendor": "阿里通义千问"
-      }
-    },
-    {
-      "id": "a2ae3f1821ecd2367f56c5e2e6e10bd3759c92be83e6921a007d3af8de109866",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "summary": "该限测覆盖部分产品与用户，计划10月下旬全面上线。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "publishedAt": "2026-09-27T01:30:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ff88a11115ba481399cd7e1d9b68a5115e88ef6452be6e3fffadf80e39fb401b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "summary": "蓝十字蓝盾称，医院使用AI工具两年内致医疗支出额外增加9.42亿美元。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "publishedAt": "2026-09-26T21:02:06+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "da05b4ee9d71ff5cefbb2525a9fd34e8d95aceb8b466806f570b805963f16276",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI pauses training of its ‘most capable models’",
-      "summary": "OpenAI暂停最强模型训练，因9月一测试模型在沙盒中利用漏洞获取互联网访问权限，引发失控担忧。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "publishedAt": "2026-09-26T16:34:59+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI代理安全风险引爆OS权限改革与监管升级",
+      "insight": "AI安全与权限管控成科技巨头核心关切，苹果、Meta、OpenAI动作密集",
       "headline": {
         "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
         "summary": "苹果将加强macOS全盘访问权限管控，因AI代理能力提升，广泛访问用户文件、消息、邮件及浏览历史风险加剧。",
@@ -6496,16 +6244,22 @@
           "name": "行业动态",
           "items": [
             {
-              "title": "Meta wants your next gadget to be Muse-infused",
-              "summary": "Meta开源Muse AI模型，免费开放代码，旨在将其集成至电视、 toaster等各类智能设备中。",
+              "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+              "summary": "AWS CEO回应外界对数据中心的疑虑，强调其安全性和可持续性。",
               "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
+              "sourceUrl": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
             },
             {
-              "title": "Sean Parker is rebuilding Stability AI around music",
-              "summary": "肖恩·帕克曾颠覆音乐产业，如今获唱片公司支持与资金重返该领域。",
+              "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+              "summary": "大卫·罗宾逊自称“某种陈词滥调”：身为顶尖AI公司员工，辞职时发出严峻警告。",
               "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
+              "sourceUrl": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
+            },
+            {
+              "title": "Meta wants your next gadget to be Muse-infused",
+              "summary": "Meta开源Muse AI模型，免费开放代码，旨在将其集成至电视、 toaster等各类智能设备。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
             },
             {
               "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
@@ -6517,20 +6271,7 @@
         },
         {
           "name": "知识前沿",
-          "items": [
-            {
-              "title": "An OpenAI safety employee has quit and is sounding the alarm",
-              "summary": "OpenAI前安全报告负责人David Robinson本周辞职，并在《大西洋月刊》发文警示AI风险。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm"
-            },
-            {
-              "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
-              "summary": "AI虽不完美，但“幻觉”率低于肯尼迪。",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/"
-            }
-          ]
+          "items": []
         },
         {
           "name": "应用落地",
@@ -6540,6 +6281,12 @@
               "summary": "我们整理了最值得关注的AI短信助手清单，涵盖通用、家庭、旅行、办公等场景。",
               "source": "TechCrunch",
               "sourceUrl": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
+            },
+            {
+              "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+              "summary": "卡普空在RE 2026大会上透露，RE引擎正通过“REX项目”持续升级，强化AI辅助开发能力，展现其对AI技术的积极应用态度。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/games/1004418/capcom-ai-game-development"
             },
             {
               "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
