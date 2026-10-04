@@ -23065,7 +23065,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-    "publishedAt": "2026-10-04T06:38:26.761061+00:00",
+    "publishedAt": "2026-10-04T16:15:49.758556+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -36500,7 +36500,7 @@
     "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2494052",
-    "publishedAt": "2026-10-04T06:38:26.761000+00:00",
+    "publishedAt": "2026-10-04T16:15:49.758506+00:00",
     "tags": [
       "英超",
       "赛程"
@@ -36526,7 +36526,7 @@
     "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2506240",
-    "publishedAt": "2026-10-04T06:38:26.761042+00:00",
+    "publishedAt": "2026-10-04T16:15:49.758538+00:00",
     "tags": [
       "西甲",
       "赛程"
@@ -36552,7 +36552,7 @@
     "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2508371",
-    "publishedAt": "2026-10-04T06:38:26.761048+00:00",
+    "publishedAt": "2026-10-04T16:15:49.758544+00:00",
     "tags": [
       "德甲",
       "赛程"
@@ -36578,7 +36578,7 @@
     "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2482192",
-    "publishedAt": "2026-10-04T06:38:26.761053+00:00",
+    "publishedAt": "2026-10-04T16:15:49.758548+00:00",
     "tags": [
       "意甲",
       "赛程"
@@ -36604,7 +36604,7 @@
     "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2489515",
-    "publishedAt": "2026-10-04T06:38:26.761057+00:00",
+    "publishedAt": "2026-10-04T16:15:49.758552+00:00",
     "tags": [
       "法甲",
       "赛程"
@@ -51272,6 +51272,109 @@
     "live": false,
     "extra": {
       "downloads": 1380,
+      "likes": 0
+    }
+  },
+  "d9d4020cf6db64233059ab800883e8716c9a19b00962a857622743940105c7ed": {
+    "id": "d9d4020cf6db64233059ab800883e8716c9a19b00962a857622743940105c7ed",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Trump unveils his new Super Intelligence Force",
+    "summary": "特朗普组建新特别工作组，应对AI安全争议。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+    "publishedAt": "2026-10-04T15:15:10+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "472099b92dbfda6e45d762f0775912c7856266699487703e3aa1e043e746d557": {
+    "id": "472099b92dbfda6e45d762f0775912c7856266699487703e3aa1e043e746d557",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "AI算力硬合作，马斯克还是更相信中国制造",
+    "summary": "英特尔拟前端用14A工艺，后端交台积电代工，补足运营、良率及封装能力。",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501605.html",
+    "publishedAt": "2026-10-04T06:12:22+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "b8bf0f8e915470660ebe9d1d8d5e082cad76904715f24a52bc13b446b5db427e": {
+    "id": "b8bf0f8e915470660ebe9d1d8d5e082cad76904715f24a52bc13b446b5db427e",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "最火AI岗位FDE：月薪5万，都干这些…",
+    "summary": "什么是FDE？它会一直存在吗？",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501506.html",
+    "publishedAt": "2026-10-04T06:05:35+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "19bdcbd87e70ad5c7e60ffa45a75552fefe0d45489e4d7a846218a1ab911786f": {
+    "id": "19bdcbd87e70ad5c7e60ffa45a75552fefe0d45489e4d7a846218a1ab911786f",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "parakeet-cpp-gguf：automatic-speech-recognition 模型更新",
+    "summary": "HuggingFace 上 mudler/parakeet-cpp-gguf 语音识别模型下载量达 24,095，获 70 赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/mudler/parakeet-cpp-gguf",
+    "publishedAt": "2026-10-04T16:13:10+00:00",
+    "tags": [
+      "huggingface",
+      "automatic-speech-recognition",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 24095,
+      "likes": 70
+    }
+  },
+  "8d23d56931e2e33c421eeddd9bc2e5d959cdc859f021f69a849fd26cc9bd6c12": {
+    "id": "8d23d56931e2e33c421eeddd9bc2e5d959cdc859f021f69a849fd26cc9bd6c12",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "StandardOne-8B-GGUF：text-generation 模型更新",
+    "summary": "HuggingFace上StandardThinking/StandardOne-8B-GGUF文本生成模型下载量3218次，获0点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/StandardThinking/StandardOne-8B-GGUF",
+    "publishedAt": "2026-10-04T16:10:39+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 3218,
       "likes": 0
     }
   }

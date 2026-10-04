@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T06:39:53.194207+00:00",
+  "generated_at": "2026-10-04T16:22:34.693653+00:00",
   "date": "2026-10-04",
   "keep_days": 7,
-  "count": 288,
+  "count": 281,
   "items": [
     {
       "id": "64204820be5c58c212306702fb26ac121ab78a6dc5afacfd353b9911045c7cf2",
@@ -13,7 +13,7 @@
       "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-      "publishedAt": "2026-10-04T06:38:26.761061+00:00",
+      "publishedAt": "2026-10-04T16:15:49.758556+00:00",
       "tags": [
         "欧冠",
         "赛程"
@@ -39,7 +39,7 @@
       "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489515",
-      "publishedAt": "2026-10-04T06:38:26.761057+00:00",
+      "publishedAt": "2026-10-04T16:15:49.758552+00:00",
       "tags": [
         "法甲",
         "赛程"
@@ -65,7 +65,7 @@
       "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2482192",
-      "publishedAt": "2026-10-04T06:38:26.761053+00:00",
+      "publishedAt": "2026-10-04T16:15:49.758548+00:00",
       "tags": [
         "意甲",
         "赛程"
@@ -91,7 +91,7 @@
       "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508371",
-      "publishedAt": "2026-10-04T06:38:26.761048+00:00",
+      "publishedAt": "2026-10-04T16:15:49.758544+00:00",
       "tags": [
         "德甲",
         "赛程"
@@ -117,7 +117,7 @@
       "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2506240",
-      "publishedAt": "2026-10-04T06:38:26.761042+00:00",
+      "publishedAt": "2026-10-04T16:15:49.758538+00:00",
       "tags": [
         "西甲",
         "赛程"
@@ -143,7 +143,7 @@
       "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2494052",
-      "publishedAt": "2026-10-04T06:38:26.761000+00:00",
+      "publishedAt": "2026-10-04T16:15:49.758506+00:00",
       "tags": [
         "英超",
         "赛程"
@@ -159,6 +159,71 @@
         "country": "England",
         "status": "NS"
       }
+    },
+    {
+      "id": "19bdcbd87e70ad5c7e60ffa45a75552fefe0d45489e4d7a846218a1ab911786f",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "parakeet-cpp-gguf：automatic-speech-recognition 模型更新",
+      "summary": "HuggingFace 上 mudler/parakeet-cpp-gguf 语音识别模型下载量达 24,095，获 70 赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mudler/parakeet-cpp-gguf",
+      "publishedAt": "2026-10-04T16:13:10+00:00",
+      "tags": [
+        "huggingface",
+        "automatic-speech-recognition",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 24095,
+        "likes": 70
+      }
+    },
+    {
+      "id": "8d23d56931e2e33c421eeddd9bc2e5d959cdc859f021f69a849fd26cc9bd6c12",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "StandardOne-8B-GGUF：text-generation 模型更新",
+      "summary": "HuggingFace上StandardThinking/StandardOne-8B-GGUF文本生成模型下载量3218次，获0点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/StandardThinking/StandardOne-8B-GGUF",
+      "publishedAt": "2026-10-04T16:10:39+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 3218,
+        "likes": 0
+      }
+    },
+    {
+      "id": "d9d4020cf6db64233059ab800883e8716c9a19b00962a857622743940105c7ed",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Trump unveils his new Super Intelligence Force",
+      "summary": "特朗普组建新特别工作组，应对AI安全争议。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "publishedAt": "2026-10-04T15:15:10+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "d95d3db5e87bf68dcfe193577efb0b8cf17a4ee8efeb87ad7cfc005da7e338e1",
@@ -182,6 +247,44 @@
         "downloads": 1380,
         "likes": 0
       }
+    },
+    {
+      "id": "472099b92dbfda6e45d762f0775912c7856266699487703e3aa1e043e746d557",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "AI算力硬合作，马斯克还是更相信中国制造",
+      "summary": "英特尔拟前端用14A工艺，后端交台积电代工，补足运营、良率及封装能力。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/501605.html",
+      "publishedAt": "2026-10-04T06:12:22+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b8bf0f8e915470660ebe9d1d8d5e082cad76904715f24a52bc13b446b5db427e",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "最火AI岗位FDE：月薪5万，都干这些…",
+      "summary": "什么是FDE？它会一直存在吗？",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/501506.html",
+      "publishedAt": "2026-10-04T06:05:35+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "1b4505cbd9a940af27814ae49671f72dab7d3d12957a912288614edf23d4fe7b",
@@ -5947,358 +6050,8 @@
       "points": [],
       "live": false,
       "extra": {}
-    },
-    {
-      "id": "c050c9227770db85b8f6b1199a3837a2722b7e5567cc0a095ca138f51e2e236a",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "L-CED-15B：model 模型更新",
-      "summary": "HuggingFace 上 Gugu8/L-CED-15B 模型下载量达1235次，暂无点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Gugu8/L-CED-15B",
-      "publishedAt": "2026-09-27T16:10:12+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1235,
-        "likes": 0
-      }
-    },
-    {
-      "id": "6ba9d16b1ff4e1d9162171add80fafdbccb114440ee24c8489883333e91fb8e5",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.5-35B-A3B-GGUF：model 模型更新",
-      "summary": "HuggingFace 上 DrMoriarty0/Qwen3.5-35B-A3B-GGUF 模型下载量达 7076 次，暂无点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/DrMoriarty0/Qwen3.5-35B-A3B-GGUF",
-      "publishedAt": "2026-09-27T16:09:12+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 7076,
-        "likes": 0
-      }
-    },
-    {
-      "id": "953304d0590d8b88842482a25d16f262eb34a0b17811dea57d8417c22d54813f",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "LTX-2-5-ComfyUI-Workflows：text-to-video 模型更新",
-      "summary": "HuggingFace 上 text-to-video 模型 SOLRICKS/LTX-2-5-ComfyUI-Workflows 目前下载量为 0，获 10 赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/SOLRICKS/LTX-2-5-ComfyUI-Workflows",
-      "publishedAt": "2026-09-27T16:05:42+00:00",
-      "tags": [
-        "huggingface",
-        "text-to-video",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 10
-      }
-    },
-    {
-      "id": "ce58e425d941656d50d9a247a16c8d25eeb70733baf0854aa230a65cf18d6f42",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "hypa-tiny-keys：text-generation 模型更新",
-      "summary": "HuggingFace 上 text-generation 模型 hypaai/hypa-tiny-keys 下载量6474次，获0点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/hypaai/hypa-tiny-keys",
-      "publishedAt": "2026-09-27T15:57:55+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 6474,
-        "likes": 0
-      }
-    },
-    {
-      "id": "e3f8c3f32bbf2ff8ae145d1b47853fb9254e7056e0f7c0de9e5b4c06e1953c6f",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "LLM_is_LinearRegression：model 模型更新",
-      "summary": "HuggingFace 上模型 Kratim-Budhimata/LLM_is_LinearRegression 获1412次下载、1个点赞，引发对大模型本质的调侃式讨论。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Kratim-Budhimata/LLM_is_LinearRegression",
-      "publishedAt": "2026-09-27T15:53:51+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1412,
-        "likes": 1
-      }
-    },
-    {
-      "id": "afbe42f234f641f22638f1b9ae0b6bb92383c3af79c0fb1856b615602bda1b99",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Mini-K3-1H-llama-gqa-block4-v1：text-generation 模型更新",
-      "summary": "HuggingFace 上 text-generation 模型 nkkbr/Mini-K3-1H-llama-gqa-block4-v1 下载量2166，获0赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/nkkbr/Mini-K3-1H-llama-gqa-block4-v1",
-      "publishedAt": "2026-09-27T15:52:36+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 2166,
-        "likes": 0
-      }
-    },
-    {
-      "id": "f1da9b2c6daeaec7f5e0b1de58a32414e718de369479386ed6dea04359149d69",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
-      "summary": "",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/498633.html",
-      "publishedAt": "2026-09-27T14:20:35+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a8367ac7ecd9096f19083fa40f5fd115be992daae21ac5f4d654f7a1abf734bf",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
-      "summary": "想让开发者“说句话就能跑量子计算”",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/498605.html",
-      "publishedAt": "2026-09-27T13:57:57+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "8d6e9fa75c4bb37b09b4d1c3c7a4e030b39bd081762a252034d7905e27926d36",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
-      "summary": "中秋假期文具OpenRouter调用日榜榜首",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/498584.html",
-      "publishedAt": "2026-09-27T13:40:02+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "b5ba5fe02ed40fa37af1a264dca6890d123ed531bd42b0aa7a907f8932c30449",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "海斗必玩套路分享：居家寒冰无限大招爽歪歪！新手一分钟学会#海克斯大乱斗",
-      "summary": "UP主 LOL阿阳哥搞笑王子 · 565播放 · 1:26",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117342851828325",
-      "publishedAt": "2026-09-27T11:53:54+00:00",
-      "tags": [
-        "lol",
-        "rune",
-        "英雄联盟 海斗 强化 套路"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "LOL阿阳哥搞笑王子",
-        "play": 565,
-        "bvid": "BV1YAaY6wEs5",
-        "duration": "1:26"
-      }
-    },
-    {
-      "id": "f9ca5bdbffec5850a3509e02c7d0545f127d38782318c0aeac345f09c255d909",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "啥题啊能干崩OpenAI最强模型训练…",
-      "summary": "",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/498546.html",
-      "publishedAt": "2026-09-27T09:44:16+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ba16c7c4b79bff230397294f5df1b7534a0c0b439124a70121786c80f0cb9a6e",
-      "module": "lol",
-      "seg": "match",
-      "cat": "比赛",
-      "title": "《阅读比赛》“根本就没有这场比赛”24年T1 vs BLG复盘",
-      "summary": "UP主 Tracy崔西教练 · 8,235播放 · 11:31",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117342130476222",
-      "publishedAt": "2026-09-27T09:00:00+00:00",
-      "tags": [
-        "lol",
-        "match",
-        "英雄联盟 LPL LCK 比赛 集锦 复盘"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "Tracy崔西教练",
-        "play": 8235,
-        "bvid": "BV1Ugah6UEzR",
-        "duration": "11:31"
-      }
     }
   ],
-  "daily": {
-    "ai": {
-      "insight": "AI安全与权限管控成科技巨头核心关切，苹果、Meta、OpenAI动作密集",
-      "headline": {
-        "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-        "summary": "苹果将加强macOS全盘访问权限管控，因AI代理能力提升，广泛访问用户文件、消息、邮件及浏览历史风险加剧。",
-        "source": "TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
-      },
-      "sections": [
-        {
-          "name": "最新科技",
-          "items": [
-            {
-              "title": "With most information hidden, the game Stratego had stumped AI—until now",
-              "summary": "引入第二个神经网络来推测隐藏棋子身份是关键突破。",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
-            },
-            {
-              "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
-              "summary": "So much for Gemini 3.5 Pro.",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/"
-            }
-          ]
-        },
-        {
-          "name": "行业动态",
-          "items": [
-            {
-              "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-              "summary": "AWS CEO回应外界对数据中心的疑虑，强调其安全性和可持续性。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
-            },
-            {
-              "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-              "summary": "大卫·罗宾逊自称“某种陈词滥调”：身为顶尖AI公司员工，辞职时发出严峻警告。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
-            },
-            {
-              "title": "Meta wants your next gadget to be Muse-infused",
-              "summary": "Meta开源Muse AI模型，免费开放代码，旨在将其集成至电视、 toaster等各类智能设备。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
-            },
-            {
-              "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-              "summary": "英伟达芯片走私问题持续发酵，近期多起相关逮捕事件频发。",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/"
-            }
-          ]
-        },
-        {
-          "name": "知识前沿",
-          "items": []
-        },
-        {
-          "name": "应用落地",
-          "items": [
-            {
-              "title": "All the AI agents that can live in your text messages",
-              "summary": "我们整理了最值得关注的AI短信助手清单，涵盖通用、家庭、旅行、办公等场景。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
-            },
-            {
-              "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-              "summary": "卡普空在RE 2026大会上透露，RE引擎正通过“REX项目”持续升级，强化AI辅助开发能力，展现其对AI技术的积极应用态度。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/games/1004418/capcom-ai-game-development"
-            },
-            {
-              "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-              "summary": "OpenAI推出新代理平台Dots，内置拟人化小助手，主打办公场景，功能务实（如点餐），但缺乏Meta Muse的亲和力。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
-            }
-          ]
-        }
-      ]
-    }
-  },
   "football": {
     "fixtures": [
       {
