@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T16:22:34.693653+00:00",
-  "date": "2026-10-04",
+  "generated_at": "2026-10-05T06:36:27.568057+00:00",
+  "date": "2026-10-05",
   "keep_days": 7,
-  "count": 281,
+  "count": 295,
   "items": [
     {
       "id": "64204820be5c58c212306702fb26ac121ab78a6dc5afacfd353b9911045c7cf2",
@@ -13,7 +13,7 @@
       "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-      "publishedAt": "2026-10-04T16:15:49.758556+00:00",
+      "publishedAt": "2026-10-05T06:35:08.104989+00:00",
       "tags": [
         "欧冠",
         "赛程"
@@ -39,7 +39,7 @@
       "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489515",
-      "publishedAt": "2026-10-04T16:15:49.758552+00:00",
+      "publishedAt": "2026-10-05T06:35:08.104985+00:00",
       "tags": [
         "法甲",
         "赛程"
@@ -65,7 +65,7 @@
       "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2482192",
-      "publishedAt": "2026-10-04T16:15:49.758548+00:00",
+      "publishedAt": "2026-10-05T06:35:08.104980+00:00",
       "tags": [
         "意甲",
         "赛程"
@@ -91,7 +91,7 @@
       "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508371",
-      "publishedAt": "2026-10-04T16:15:49.758544+00:00",
+      "publishedAt": "2026-10-05T06:35:08.104976+00:00",
       "tags": [
         "德甲",
         "赛程"
@@ -117,7 +117,7 @@
       "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2506240",
-      "publishedAt": "2026-10-04T16:15:49.758538+00:00",
+      "publishedAt": "2026-10-05T06:35:08.104970+00:00",
       "tags": [
         "西甲",
         "赛程"
@@ -143,7 +143,7 @@
       "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2494052",
-      "publishedAt": "2026-10-04T16:15:49.758506+00:00",
+      "publishedAt": "2026-10-05T06:35:08.104938+00:00",
       "tags": [
         "英超",
         "赛程"
@@ -159,6 +159,124 @@
         "country": "England",
         "status": "NS"
       }
+    },
+    {
+      "id": "ce8db7a257e3ff440f5f69d16a6f119e016225f7337f8c4c2cc987a4be627961",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Software-FX：model 模型更新",
+      "summary": "HuggingFace 上 colaibu/Software-FX 模型暂无下载量，获 14 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/colaibu/Software-FX",
+      "publishedAt": "2026-10-05T06:34:43+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 14
+      }
+    },
+    {
+      "id": "3b9a84bbad888775f495bba43d2ec88713bd86132c21f7ecff0ec69746943826",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "刚刚，Hinton发了首篇RSI论文",
+      "summary": "AI已经开始真正进入「造下一代AI」的流水线",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/501705.html",
+      "publishedAt": "2026-10-05T04:42:52+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "55f4fe63b5c9835b5d6a5e1796a4baca1f4bbfc86ffbafe5be403ce9512a2bab",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+      "summary": "有改进就体验，没改进就重置，横竖不亏。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/501700.html",
+      "publishedAt": "2026-10-05T02:50:46+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "dde8f39077af7361c27bda62c25e6b312bbe627add1e94e1278e056d704e0186",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "summary": "AI生成内容泛滥，正严重冲击漏洞赏金计划，大量低质、重复或虚假漏洞报告拖慢审核效率。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "publishedAt": "2026-10-04T20:31:07+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "734d7a1e594349834c8e4cfc3cb65837af931f9da0011fa7122dc8067c6c9f41",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "summary": "特朗普政府试图为AI重新命名，以淡化其与中国的关联。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "publishedAt": "2026-10-04T20:08:34+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e4c1a949b4915b17af2371e2001ffc45502aeef3ff626a72138589f149ef36c8",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+      "summary": "新泽西州副州长戴尔·考德威尔因性骚扰下属及屡次违反道德规范，于9月25日被迫辞职。他近日频繁接受媒体采访试图洗白，但某次采访中采取了异常策略。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "publishedAt": "2026-10-04T16:16:04+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "19bdcbd87e70ad5c7e60ffa45a75552fefe0d45489e4d7a846218a1ab911786f",
@@ -205,6 +323,25 @@
         "downloads": 3218,
         "likes": 0
       }
+    },
+    {
+      "id": "674fe2114e58b7c1c49effcb4014d289165accb35fdb547b8fe1fa106fc975c8",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "summary": "StarSkirmish赛事中，GPT-6 Astra与Claude Opus 5.5并列AI bot第一，但均不敌人类开发的顶级Bot Stardust；GPT-6随后对阵Claude及人类Bot Pluto。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "publishedAt": "2026-10-04T15:21:59+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "d9d4020cf6db64233059ab800883e8716c9a19b00962a857622743940105c7ed",
@@ -778,6 +915,174 @@
       "extra": {}
     },
     {
+      "id": "5c0231c0088ccad4f8bb62e087d4a363929ad2bf9b3db39869fd4c77ee56baae",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
+      "summary": "论文指出：现有基于编码器的NVSS方法因解码器空间表达过强、目标为低级像素而表征差；提出SNAP框架，提升几何表征学习。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.03717v1",
+      "publishedAt": "2026-10-02T17:59:14+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geometric representations. Yet, existing encoder-based NVS methods yield poor representations. This is not because of a lack of supervisory signal, but rather due to inconspicuous architectural choices: \\textit{spatially expressive decoders} that dilute representational capabilities of the scene encoder, and \\textit{low-level pixel-space targets} that hinder feature learning. We present SNAP, a self-supervised encoder-decoder transformer that addresses both through a pose-conditioned local decoder and a latent-space reconstruction objective. SNAP is task agnostic, and we show that it is competitive with special-purpose geometry-supervised methods. SNAP also performs competitively against self-supervised representations across five tasks: visual localization, pose estimation, point correspondence, depth estimation, and robot manipulation. Remarkably, SNAP's patch features exhibit emergent viewpoint invariance that approaches heavily supervised models despite lower compute and data budgets. Under camera shifts where standard 2D representations collapse, SNAP degrades more gracefully, revealing that restricting decoder expressivity actively prevents the suppression of transferable geometric structure. https://snap-nvs.github.io"
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Keerthi Kaashyap, Dennis Anthony, Akshay Krishnan et al.",
+        "categories": [
+          "cs.CV",
+          "cs.AI",
+          "cs.RO"
+        ]
+      }
+    },
+    {
+      "id": "474e4d3bc1b41173b7185a2a22b54ce492788c2880886361b9cd7101ced1e573",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
+      "summary": "4DCodeBench是首个面向动态场景逆向图形学的代码生成基准，涵盖形变、流体、断裂等真实与合成视频，评估智能体将视频还原为可执行图形程序的能力。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.03715v1",
+      "publishedAt": "2026-10-02T17:58:49+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate visual observations into compact representations of scene structure and dynamics, by implementing abstractions such as physical simulations to reproduce complex behavior. To evaluate this capability, we curate a set of real-world videos and construct synthetic scenes spanning diverse physical phenomena, including deformation, fluid flow, and fracture. We perform extensive benchmarking of frontier models, finding that strong static reconstruction capabilities do not yet translate into reliable reconstruction of complex dynamics. 4DCodeBench provides a testbed for tracking progress toward agents that can interpret the dynamics of the world through code. Our benchmark is available at https://github.com/4DCodeBench/4DCodeBench"
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Ruihong Shen, Žiga Kovačič, Peter Kulits et al.",
+        "categories": [
+          "cs.CV",
+          "cs.AI",
+          "cs.GR"
+        ]
+      }
+    },
+    {
+      "id": "ca99275b824be54187800eb36346330db0534a5b44f39a855aff3d352ecfa9d7",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
+      "summary": "本文指出世界模型需主动遗忘过时知识，因环境动态变化导致旧知识失效，遗忘是必要能力而非缺陷。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.03713v1",
+      "publishedAt": "2026-10-02T17:58:14+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct indefinitely. World models do not satisfy this condition. Their prediction target is the environment, which changes, so knowledge that was accurate when acquired may later become false, and discarding it is required behavior rather than a defect. Non-stationary ground truth is well studied in the concept drift literature and in the temporal factuality of language models, but has not been formulated for world models, which are distinctive in that they also encode knowledge that must never be revised. We argue that continual world models require retention stratified by invariance timescale, separating invariants such as physics and object permanence, which must never be revised, from instance-level facts that should be revised as soon as the environment changes. Standard forgetting metrics cannot distinguish a world model that has correctly revised outdated knowledge from one that has suffered catastrophic forgetting, and consequently rank a frozen model highest, while existing physical-reasoning benchmarks evaluate only frozen checkpoints. We propose differential retention, which reports invariant regression testing across the adaptation stream jointly with revision latency, without aggregation."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Nishit Anand, Ramani Duraiswami, Dinesh Manocha",
+        "categories": [
+          "cs.LG",
+          "cs.AI",
+          "cs.CV",
+          "eess.IV",
+          "eess.SP"
+        ]
+      }
+    },
+    {
+      "id": "0a3b398863a2d407ac339ac1eb32b1e33c3a9705b829b011f4afa0060226e4c2",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "RNADyn: A Benchmark for Generating and Understanding RNA Dynamics",
+      "summary": "RNADynBench发布：含2585条100纳秒RNA分子动力学轨迹的基准数据集；基于此提出统一模型RNADynNet，兼顾轨迹生成与动态理解。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.03712v1",
+      "publishedAt": "2026-10-02T17:58:08+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Ribonucleic acid (RNA) functions through conformational changes that are not fully captured by static structures. However, large-scale standardized RNA dynamics data remain limited, and existing approaches typically treat trajectory generation and dynamics understanding as separate objectives. Here, we introduce RNADynBench, a standardized RNA molecular dynamics (MD) benchmark with 2585 quality-controlled 100-ns all-atom trajectories and leakage-controlled splits. Building on RNADynBench, we develop RNADynNet, a unified model for RNA dynamics learning that uses a shared backbone for both trajectory generation and dynamics fingerprint extraction from a single conformer. It combines coordinate denoising, single-frame-to-trajectory alignment, and physical grounding to connect all-atom trajectory generation with dynamics representation learning. Physical grounding improves both generated dynamics and the physical information recoverable from these fingerprints. Across both test sets, including the high-flexibility challenge set, the generated trajectories achieve RMSF correlations of 0.875 and 0.766, while single-conformer predictions show comparable agreement with MD-derived dynamics. RNADynBench and RNADynNet together establish a benchmark and unified modeling framework for generating and understanding RNA dynamics."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Yiming Huang, Lennart Bastian, Hanqun Cao et al.",
+        "categories": [
+          "cs.LG",
+          "physics.bio-ph",
+          "q-bio.BM"
+        ]
+      }
+    },
+    {
+      "id": "6037e82852e6cb4656c20b4bc4948618e77c8f14c940f69bee94994e776aaef8",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
+      "summary": "EyeRobot 2.0用单个双目相机实现主动凝视（AVF），通过双视角旋转聚焦3D目标点，结合中心优先的视觉token分配，提升双臂精细操作精度。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.03710v1",
+      "publishedAt": "2026-10-02T17:57:51+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. EyeRobot 2.0 physically attends to a 3D fixation point in the scene by swiveling two eye viewpoints to center their gaze on it. The resulting images are processed foveally by allocating more visual tokens to the image centers, focusing computation on task-relevant features. Such Active Visual Fixation (AVF) requires carefully coordinated gaze during task execution, which we accomplish hierarchically by first training a low-level gaze servoing policy conditioned on a goal object, then training a target selector which emits fixation goals based on task progress. Both modules are trained with RL on real-world data: the first is trained with a dense geometric reward and the second co-trains with the BC gripper policy which allows it to discover fixation sequences that can resemble a human's fixation sequence while performing the task. EyeRobot 2.0 further takes advantage of fixation by canonicalizing gripper information into a fixation-relative SE(3) frame, which compacts the size of the action distribution to learn. We collect teleoperation data for 7 real-world and 6 simulated tasks, and conduct over 1000 physical and 1800 simulated robot trials comparing EyeRobot 2.0 against passive stereo and ego + wrist camera policies trained on the same data. Removing wrist cameras is costly for standard policies: with only passive stereo, real-world success drops from 52% to 27%. EyeRobot 2.0 closes this gap with only stereo, outperforming passive stereo by 40% in real and 20% in sim. It matches ego + wrist policies when their wrist views are clear (69% vs. 64%), and more than doubles their success when grasped objects occlude the wrist cameras (48% vs. 22%)"
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Kush Hari, Justin Kerr, Nidhya Shivakumar et al.",
+        "categories": [
+          "cs.RO",
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "dba9935a28ec5cc6ee4881e855795566ea61a20af32c7f8eaa7f742a2de86f5e",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing",
+      "summary": "本文提出基于图分解的消息传递框架，联合设计优化子问题与协同计算通信，提升去中心化优化效率。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.03709v1",
+      "publishedAt": "2026-10-02T17:57:50+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "We study the minimization of sums of smooth strongly convex functions over undirected graphs, with each function held by one agent and communication restricted to neighbors in the graph. Existing decentralized methods, whether based on gossip or on routing over spanning trees, typically   use the network to mix or aggregate information to enable   {\\it prescribed} local optimization   updates. What this communication-centered viewpoint lacks is a general   framework that uses graph structure to {\\it jointly} design the   optimization subproblems and the cooperative computation and communication through which agents solve them   cooperatively.   We develop such a framework from first principles,   jointly designing the linear representation of agreement constraints, the blocks of   the resulting dual variables (jointly optimized), and connected cluster of agents that   cooperatively solve each block subproblem over the assigned subgraph. GATE (Graph-Tearing message passing) is a first instance of this framework: one variable per edge and tree blocks. At each iteration, agents update their assigned edge variables by   minimizing the sum of the two endpoint cost-to-go messages and   relaxing the result. The messages are updated through local minimizations following the tree recursion. To reduce per-iteration computational and communication costs, we develop GATE-S, a surrogate variant using tractable local models and lightweight message parametrizations. We establish linear convergence with a rate explicit in the interplay among function regularity, network topology, and the chosen partition, revealing the effects of graph decomposition. Numerical experiments are conducted to validate the theoretical results and evaluate the efficiency of our algorithms."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Kuangyu Ding, Gesualdo Scutari",
+        "categories": [
+          "math.OC",
+          "cs.LG"
+        ]
+      }
+    },
+    {
       "id": "a2a9b5c6b7e892ced333b7d8460162111b93c9ac8a6e4a36af8112d74fe72ac0",
       "module": "ai",
       "seg": null,
@@ -795,6 +1100,84 @@
       "points": [],
       "live": false,
       "extra": {}
+    },
+    {
+      "id": "2a9e5039b0d68e9ce7c8bfcfa1b9962c3972c00ab9c653299c3994705eb7ff78",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "LESSER: Post-Training Data Selection with Output-Layer Gradients",
+      "summary": "新方法LESSER仅用输出层梯度进行后训练数据筛选，大幅降低计算成本，效果媲美全参数梯度法。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.03702v1",
+      "publishedAt": "2026-10-02T17:55:42+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "The choice of post-training data for large language models substantially affects downstream performance. Gradient-based data selection is a popular approach that ranks training data by how well their gradients align with those of a small validation set. However, ranking with full-parameter gradients requires an expensive backward pass on every sample, making computation intractable for large candidate pools. This raises a natural question: can we approximate full-gradient features at a fraction of the cost? Conveniently, we find that output-layer gradients suffice for effective data selection, yet require only the cheaper forward pass. We implement this as LESSER, a drop-in wrapper for selection methods that reduces the feature-extraction FLOP cost by $9.7\\times$ for SFT and $3.0\\times$ for RL benchmarks, while tracking full-gradient performance on downstream tasks. Empirically, we find that even when output-layer and full gradients rank individual samples differently, they select batches with aligned gradients."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Lyuxin David Zhang, Eric Wong, Surbhi Goel et al.",
+        "categories": [
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "d689312cbb7213741db3172a4687d0ee3b1080f8a4e90fdd1b271db8d456d58b",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Language Models that Play Chess and Explain Their Moves",
+      "summary": "研究提出4B参数棋类语言模型Queen，兼具特级大师水平棋力与自然语言解释能力，采用编码器-解码器架构及迭代蒸馏算法。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.03695v1",
+      "publishedAt": "2026-10-02T17:54:22+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Modern chess engines are silent experts: they play at a superhuman level, but do not offer explanations for their play. On the other hand, language models (LMs) can generate plausible-sounding explanations, but their weak playing strength limits the utility of their explanations. We introduce Queen, a 4B-parameter chess-language model that can explain its moves and plans while playing at the level of a typical Grandmaster. Our novel framework enables domain-specific reasoning through complementary components: an encoder-decoder architecture and an iterative distillation algorithm. This architecture integrates a silent expert chess encoder with an instruction-tuned LM through cross-attention, which we train via a question-answering curriculum to extract chess concepts from the encoder's representations. Building on this domain-adapted model, we iteratively improve its explanations with a natural-language analog of the Bellman update: the model analyzes the positions after its top candidate moves and consolidates them into an explanation of the current position, which is then distilled back into the model. Over seven iterations, our model gains over 900 Elo points (1782 to 2697), substantially surpassing all frontier models on both playing strength and puzzle accuracy, despite containing three orders of magnitude fewer parameters. Furthermore, LM-based evaluations show that our explanations are fluent and approach GPT-5.6-Sol (high) in coherence. The generality of our architecture and training procedure suggests a recipe for applying language models to domains where silent expert encoders are available, like games, robotics, and computer use."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Adithya Bhaskar, Jeffrey Cheng, Danqi Chen",
+        "categories": [
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "202c806f9f2f36e298f015f53d1ae42f7126c745533e36e2dca6fb6d29b37ca3",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Transcriptome-informed multi-modal AI for predicting neoadjuvant therapy response from breast cancer biopsies",
+      "summary": "研究提出两阶段AI模型，基于8742例多癌种数据学习组织病理与转录组关联，再用1080例训练、1412例验证，预测乳腺癌新辅助治疗病理完全缓解（pCR）。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.03693v1",
+      "publishedAt": "2026-10-02T17:52:57+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Scarcity of labeled data limits development of deep learning biomarkers in oncology. We develop a two-stage AI model predicting pathological complete response (pCR) to neoadjuvant therapy in breast cancer. The first stage learns the transcriptome from histopathology using 8,742 patients across 32 cancer types, corroborated by pathologist review and spatial agreement with measured expression. This simplifies the second stage to predicting pCR from inferred expression and clinical variables. Developed using 1,080 patients (five cohorts) and evaluated in 1,412 patients (nine cohorts), the model achieves a pooled AUROC of 0.79 (95% CI, 0.73-0.85), discriminating responders within molecular subtypes. It outperforms histopathological biomarkers, remaining stable across intratumoral sampling and with minimal biopsy tissue. Ablations show transcriptome-wide inference improves discrimination over clinical variables alone or one-stage pathology models, and robustness by avoiding genomic assays' gene selection constraints. These results indicate that biologically informed compression may generalize to data-sparse applications in precision oncology."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Jungkyu Park, Dhruva Biswas, Joseph Cappadona et al.",
+        "categories": [
+          "cs.AI"
+        ]
+      }
     },
     {
       "id": "3e4e24e81691c7a032dbbf8fe96c79a9fb9525995a64219c34274f6bbf7b32c2",
@@ -816,6 +1199,117 @@
       "extra": {}
     },
     {
+      "id": "d7f564c03860760d962c6aea76d0b9a61f44cd6168c506b60a57f3771039e5d9",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Simulation-Free Learning of Population Dynamics with Wasserstein Lagrangian Residuals",
+      "summary": "研究提出Double-Stitch方法，首次实现无需仿真的Wasserstein空间Lagrangian动力学学习，显著降低训练成本。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.03679v1",
+      "publishedAt": "2026-10-02T17:46:52+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "The dynamics of cells, organisms, and fluids are often modeled as probability distributions evolving over time. Reconstructing and extrapolating this evolution from unpaired snapshots requires assumptions about the underlying process. Wasserstein gradient flows are a common choice, but they cannot describe conservative or periodic dynamics. Lagrangian mechanics in Wasserstein space covers both, but existing methods for learning it are simulation-based: they run a numerical solver at every training step, which makes training expensive. We propose Double-Stitch, a simulation-free method that learns these mechanics by penalizing the residual of the equation of motion along a learned population path. We derive this equation from a Clebsch variational principle that does not require gradient velocities, and show that the residual vanishes exactly when the equation holds. We test Double-Stitch on synthetic, single-cell and ocean vortex datasets and find that it matches or outperforms gradient-flow methods and simulation-based WLM on most tasks, while training $4$-$14$ times faster than WLM. We provide a JAX implementation of Double-Stitch at https://github.com/BasisResearch/stitching."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Fedor Sergeev, Markus Heinonen, Daniel Waxman et al.",
+        "categories": [
+          "cs.LG",
+          "stat.ME",
+          "stat.ML"
+        ]
+      }
+    },
+    {
+      "id": "d37f08a2c5dc466365a223797a28a5ef17e32e58a61a0d67a2de89aee3d5a519",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution",
+      "summary": "提出FrugalEvo：一种成本感知的LLM引导程序进化框架，用高价LLM探索策略、低价LLM执行优化，并设计缓存高效进化流程。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.03675v1",
+      "publishedAt": "2026-10-02T17:44:05+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "LLM-guided evolutionary methods, such as AlphaEvolve, have emerged as powerful approaches for challenging computational optimization problems, such as circle packing. However, prior work typically optimizes performance gain over a fixed number of iterations. We argue that practical optimization should maximize gain per unit cost. To this end, we propose FrugalEvo, a cost-aware evolutionary framework where a stronger, higher-cost LLM explores solution strategies, and a cheaper LLM implements them and iteratively refines the resulting code. We also design a cache-efficient evolution process, where our harness and prompts maximize the sharing of prefixes across different evolution steps, to improve cache reuse. To measure solution quality throughout a fixed cost budget, we introduce Budget-Aware Area Under the Curve (BA-AUC), defined as the area under the best-so-far evaluation score curve over cumulative LLM cost, up to the budget. Across 10 mathematical and systems optimization tasks, FrugalEvo matches or surpasses state-of-the-art baselines, including OpenEvolve, ShinkaEvolve, AdaEvolve, and EvoX, in final solution quality and achieves higher BA-AUC on 9 tasks. It also achieves higher average performance than these baselines on 10 algorithmic optimization tasks from ALE-Bench-Lite. Notably, on circle packing, FrugalEvo achieves new state-of-the-art performance with GPT-5.6 Terra and Luna for only 1.68 USD and with GLM-5.3 and its Flash variant for only 0.55 USD, matching or surpassing all baselines, including multi-agent methods such as CORAL and SwarmResearch, which cost approximately 50 USD on average."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Hui Chen, Xuan Qi, James Xu Zhao et al.",
+        "categories": [
+          "cs.NE",
+          "cs.AI",
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "5b86dd586dda7b369bae90092cd3ffef42a01cee5f587a4a2d454b1d7c94de5d",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Planning to Learn",
+      "summary": "Ian Osband指出：策略梯度法在LLM后训练中关键，但分类任务中即使梯度精确平滑，其期望准确率仍低于交叉熵——因策略梯度短视，只关注即时收益。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.03667v1",
+      "publishedAt": "2026-10-02T17:38:28+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Policy-gradient methods are central to modern reinforcement learning, including LLM post-training. When they struggle, the usual suspects are exploration, credit assignment and action-sampling noise. Classification has none of them. A classifier is a policy whose expected reward, its \\emph{expected accuracy}, is the probability it assigns to the correct label, and because that label is known, the policy gradient is exact and smooth. Yet exact policy gradient loses to cross-entropy, even on expected accuracy. The exact gradient is myopic: it values an update only by what it buys now, but each update also sets where the next one starts, so an update's value depends on how much learning remains. Viewed this way, cross-entropy is patient accuracy, the total error an example would pay if its log-odds rose at unit speed forever, while exact policy gradient is the zero-horizon limit. Truncating this total at the learning that remains yields the horizon loss, a one-line change that moves from cross-entropy toward exact policy gradient as training runs out. In a simple allocation model, it provably escapes the trap that catches each endpoint. On MNIST and on ImageNet with ResNet-50, ResNet-101 and ViT-S/16, the horizon loss improves top-1 accuracy over cross-entropy at a flat learning rate, and the gain grows with label noise."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Ian Osband",
+        "categories": [
+          "cs.LG",
+          "math.OC",
+          "stat.ML"
+        ]
+      }
+    },
+    {
+      "id": "ecdc74337dcdeb01beed94cd244e998fa2cc8fd1123e5ea498742adce99e48bd",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models",
+      "summary": "提出Pivot-SD方法，针对掩码扩散语言模型（dLMs）的信用分配难题，通过自蒸馏优化关键token级承诺训练，提升推理效率。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.03665v1",
+      "publishedAt": "2026-10-02T17:37:51+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Masked diffusion language models (dLMs) offer a promising parallel alternative to autoregressive models for complex reasoning. However, they face a distinct credit-assignment challenge, since a few commitments during denoising sharply reduce the uncertainty over the remaining masked positions and shape much of the response. Most post-training recipes for dLMs do not use this signal to decide which tokens to train on: they typically train on the final text or assign rewards to whole denoising steps, rather than selecting the individual commitments that shape the response. We introduce Pivot-SD, an efficient offline self-distillation framework that supervises only these high-impact commitments (pivots). Pivot-SD selects pivots using an information-gain metric measuring uncertainty reduction over the remaining masked positions. Pivots from successful trajectories are trained with cross-entropy, and pivots from failed trajectories with targeted unlikelihood, leaving the rest of the failed trajectory untouched. Using only 200 questions and four rollouts each, Pivot-SD improves LLaDA-8B-Instruct over full-sequence SFT and budget-matched diffusion RL baselines across math and code benchmarks."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Seo Hyun Kim, Sunwoo Hong, Younwoo Choi et al.",
+        "categories": [
+          "cs.LG",
+          "cs.CL"
+        ]
+      }
+    },
+    {
       "id": "e08cb1329654ca8181994746dc5950a205bb6eb6d5c92ede16baa6355c2b392d",
       "module": "ai",
       "seg": null,
@@ -833,6 +1327,59 @@
       "points": [],
       "live": false,
       "extra": {}
+    },
+    {
+      "id": "d77f51af59132aa873840e6eaec0eb57a278e77e6ea6964b883811230d66e406",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Forecasting from Counterfactual Simulator Rollouts: A Sim2Real Evaluation",
+      "summary": "该论文提出用反事实模拟器进行策略 rollout，解决新决策策略部署时的冷启动预测问题，并通过Sim2Real评估验证模型效果。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.03662v1",
+      "publishedAt": "2026-10-02T17:37:14+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Deploying a new decision policy creates a cold-start problem for prediction models whose targets depend on the policy's actions: historical observations reflect earlier policies, while real observations under the new policy are not yet available. Simulation offers a way to address this gap by rolling out the target policy across counterfactual scenarios and using the resulting trajectories to learn how the system responds to those controls. The simulation-to-reality (Sim2Real) transfer of this simulator-trained model can then be backtested by evaluating it against real observations from past deployments. Using two real-world inventory-control deployments, we evaluate this process from three angles: simulator fidelity, zero-shot transfer to real behavior, and adaptation as real target-policy observations accumulate. The simulator-trained forecaster achieves lower point-estimate mean absolute percentage error (MAPE) than the same architecture trained on historical real data, reducing MAPE by 1.2-3.1 percentage points in Study 1 and 12.5-18.7 points in Study 2. After deployment, lightweight calibration using early real observations further reduces error by up to 2.5 percentage points. These results provide empirical evidence that simulator-generated counterfactual data can support cold-start forecasting under a new policy, and the resulting model can be further refined as real deployment data become available."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Angel Wang, Dominique Perrault-Joncas, Alvaro Maggiar et al.",
+        "categories": [
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "237305884bfab275b7b9fe6e7cef503b61188bff8d51c1ff1bb719462e67b992",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Revisiting Input Time-frequency Representations in Multi-pitch Estimation for Vocal Ensembles",
+      "summary": "研究对比HCQT与线性STFT在人声合奏多音高估计中的性能，指出STFT可降低实时训练开销，同时保持精度。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.03656v1",
+      "publishedAt": "2026-10-02T17:35:06+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Multi-pitch estimation in vocal ensembles is challenging because singers occupy overlapping pitch ranges and often sing at closely spaced fundamental frequencies, causing their harmonics to overlap in time-frequency representations. Existing models commonly use harmonic constant-Q transform (HCQT)-based representations to provide frequency-adaptive resolution, at the cost of expensive feature extraction when training mixtures are generated on the fly. We revisit this design and compare HCQT with a linear short-time Fourier transform (STFT), whose frequency bins are directly provided as model inputs. Despite its fixed frequency resolution and the absence of a pitch-aligned input grid, the linear STFT outperforms HCQT while substantially reducing feature-extraction cost. Further analysis shows that a longer analysis window or broader spectral coverage provides no additional improvement, while restricting the input to the predicted pitch range reduces the advantage of the linear STFT. These results suggest that finer frequency resolution does not necessarily improve vocal-ensemble MPE, and that shorter analysis windows can be more effective for time-varying vocal pitches."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Junyoung Koh, Hao-Wen Dong",
+        "categories": [
+          "cs.SD",
+          "cs.AI"
+        ]
+      }
     },
     {
       "id": "84419bdaa5846d9ff9aef30717897457c622abfc7bac86d5724b00bce96a07f7",
@@ -5886,172 +6433,88 @@
       "points": [],
       "live": false,
       "extra": {}
-    },
-    {
-      "id": "9e6ea8e0c8dc4d87ce0e473d2c99c7572deedcbad9cdf9d83ec68697b6afbde3",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "albedo-k127-8xh200-state：model 模型更新",
-      "summary": "HuggingFace 上 ChristopherJS/albedo-k127-8xh200-state 模型下载量达1020次，获0点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/ChristopherJS/albedo-k127-8xh200-state",
-      "publishedAt": "2026-09-28T06:17:10+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1020,
-        "likes": 0
-      }
-    },
-    {
-      "id": "b4c5678d55da7aa8a4ed7c6cd6e7970fd6078472c973fcfa5e7e92b15748ac15",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "PAW-27B-X3.1-GGUF：model 模型更新",
-      "summary": "HuggingFace 上模型 lackonendes/PAW-27B-X3.1-GGUF 下载量1579次，获0点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/lackonendes/PAW-27B-X3.1-GGUF",
-      "publishedAt": "2026-09-28T06:13:08+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1579,
-        "likes": 0
-      }
-    },
-    {
-      "id": "12d13bb75e8b3f988105aeca6baca4071025d7f8aa12a0420daf29c476ea5407",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Darwin-180B-RSI：image-text-to-text 模型更新",
-      "summary": "HuggingFace 上主流图文生成文本模型 Darwin-180B-RSI（属 FINAL-Bench）暂未开放下载，获37赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/FINAL-Bench/Darwin-180B-RSI",
-      "publishedAt": "2026-09-28T06:10:16+00:00",
-      "tags": [
-        "huggingface",
-        "image-text-to-text",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 37
-      }
-    },
-    {
-      "id": "d40006b6b4c89db066945d57faa59e00129f14d7c9f3a69bc866e07567c30772",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Engram is a sampler that turns broken AI hallucinations into music",
-      "summary": "音乐初创公司Thoughtful Things推出AI采样器/节奏工作站Engram，支持音频变形与声音生成，非一键成歌型设备。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-      "publishedAt": "2026-09-27T20:46:36+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ef6a04a7ff69612a46e4f9ee0961ba7204035388048be0abcab207860501bb49",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "summary": "达里奥·阿莫迪与特朗普将首次举行一对一会谈。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "publishedAt": "2026-09-27T20:34:28+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "cd187800b3ab0cfbd660f8f4f6b599ba069e1ccb5604b1db2a5c2f316e9ccae9",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Can Muse overcome Meta’s trust issues?",
-      "summary": "Meta的AI新公告抢走OpenAI与Anthropic风头。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "publishedAt": "2026-09-27T19:57:30+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a38abd6c568e645fc36f63adfe7a729021fd02930f0974e4ad1c150d299a5148",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-      "summary": "安全研究员称，OpenAI智能体4–6月扫描联合国贸发会议（UNCTAD）统计网站超1.6万次，引发AI滥用担忧。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-      "publishedAt": "2026-09-27T17:21:07+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "07e80cf4d04c377d698a08229a3b98ff019f30b65ac74d09828e1d09b1542b9e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-      "summary": "\"AI is the devil and I its maker.\"",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-      "publishedAt": "2026-09-27T16:30:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
   ],
+  "daily": {
+    "ai": {
+      "insight": "AI安全治理与代理权限管控成全球科技巨头核心关切",
+      "headline": {
+        "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+        "summary": "苹果将为Mac新增“全盘访问”限制，以应对AI代理带来的安全风险，新控件确保用户仅能向真正需要的应用授予该高级权限。",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
+      },
+      "sections": [
+        {
+          "name": "最新科技",
+          "items": [
+            {
+              "title": "With most information hidden, the game Stratego had stumped AI—until now",
+              "summary": "引入第二个神经网络来推测隐藏棋子身份是关键突破。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
+            },
+            {
+              "title": "刚刚，Hinton发了首篇RSI论文",
+              "summary": "AI已经开始真正进入「造下一代AI」的流水线",
+              "source": "量子位",
+              "sourceUrl": "https://www.qbitai.com/2026/10/501705.html"
+            }
+          ]
+        },
+        {
+          "name": "行业动态",
+          "items": [
+            {
+              "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+              "summary": "AI生成内容泛滥，正严重冲击漏洞赏金计划，大量低质、重复或虚假漏洞报告拖慢审核效率。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
+            },
+            {
+              "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+              "summary": "英伟达芯片走私问题持续发酵，近期又有相关人员被捕。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/"
+            },
+            {
+              "title": "Trump unveils his new Super Intelligence Force",
+              "summary": "特朗普组建新特别工作组，应对AI安全争议。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
+            }
+          ]
+        },
+        {
+          "name": "知识前沿",
+          "items": []
+        },
+        {
+          "name": "应用落地",
+          "items": [
+            {
+              "title": "All the AI agents that can live in your text messages",
+              "summary": "我们整理了最值得关注的AI短信助手清单，涵盖通用、家庭、旅行、办公等场景。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
+            },
+            {
+              "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+              "summary": "OpenAI推出新代理平台Dots，内置拟人化小助手，主打办公场景，功能务实（如点餐），但缺乏Meta Muse的亲和力。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
+            },
+            {
+              "title": "Meta open sources code to let you make Muse AI gadgets",
+              "summary": "Meta开源Muse AI代理代码，支持开发者自制硬件设备，如E Ink提醒屏、HDMI投屏棒等。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
+            }
+          ]
+        }
+      ]
+    }
+  },
   "football": {
     "fixtures": [
       {
