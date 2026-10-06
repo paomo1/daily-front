@@ -23065,7 +23065,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-    "publishedAt": "2026-10-05T06:35:08.104989+00:00",
+    "publishedAt": "2026-10-06T07:13:53.267505+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -36500,7 +36500,7 @@
     "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2494052",
-    "publishedAt": "2026-10-05T06:35:08.104938+00:00",
+    "publishedAt": "2026-10-06T07:13:53.267464+00:00",
     "tags": [
       "英超",
       "赛程"
@@ -36526,7 +36526,7 @@
     "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2506240",
-    "publishedAt": "2026-10-05T06:35:08.104970+00:00",
+    "publishedAt": "2026-10-06T07:13:53.267490+00:00",
     "tags": [
       "西甲",
       "赛程"
@@ -36552,7 +36552,7 @@
     "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2508371",
-    "publishedAt": "2026-10-05T06:35:08.104976+00:00",
+    "publishedAt": "2026-10-06T07:13:53.267495+00:00",
     "tags": [
       "德甲",
       "赛程"
@@ -36578,7 +36578,7 @@
     "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2482192",
-    "publishedAt": "2026-10-05T06:35:08.104980+00:00",
+    "publishedAt": "2026-10-06T07:13:53.267498+00:00",
     "tags": [
       "意甲",
       "赛程"
@@ -36604,7 +36604,7 @@
     "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2489515",
-    "publishedAt": "2026-10-05T06:35:08.104985+00:00",
+    "publishedAt": "2026-10-06T07:13:53.267503+00:00",
     "tags": [
       "法甲",
       "赛程"
@@ -51923,6 +51923,1084 @@
         "cs.SD",
         "cs.AI"
       ]
+    }
+  },
+  "405eb6d98e8e2e6fab533484aebe5a23851e701392390468c9a6082fab45b847": {
+    "id": "405eb6d98e8e2e6fab533484aebe5a23851e701392390468c9a6082fab45b847",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+    "summary": "OpenAI将在欧盟为ChatGPT和Codex生成文本添加隐形水印，以符合《人工智能法案》；但编辑可能削弱水印检测效果。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "publishedAt": "2026-10-05T20:36:48+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "7030342bd371d11de76e916cb8ed20d5883ee3c55191fff6c20fbdc6e97d94f3": {
+    "id": "7030342bd371d11de76e916cb8ed20d5883ee3c55191fff6c20fbdc6e97d94f3",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "summary": "Reflection公司面向企业和主权国家推出“AI工厂”产品，支持客户基于自有数据本地化训练其Beam等AI模型。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "publishedAt": "2026-10-05T19:33:53+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "8b61b89e215c0020b2939e19cc6313c047747cf23100ae0a70f5fcd40b76bb62": {
+    "id": "8b61b89e215c0020b2939e19cc6313c047747cf23100ae0a70f5fcd40b76bb62",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "summary": "Instinct推群聊功能，支持好友协同使用AI代理规划旅行、拼车等；个人账号隔离，信息共享与操作需明确授权。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+    "publishedAt": "2026-10-05T18:54:30+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "4aa5d338ec9b80c805f1bbc9d539bc7e34d4cd4c26be714a083a6089cdb88a0c": {
+    "id": "4aa5d338ec9b80c805f1bbc9d539bc7e34d4cd4c26be714a083a6089cdb88a0c",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+    "summary": "TikTok推出购物助手，是一款对话式AI工具，旨在帮用户发现并购买商品。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+    "publishedAt": "2026-10-05T18:29:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "2954289cf0656dddb2570a77a2246c7e56df649410ccd394c6ebb8dfc46b6593": {
+    "id": "2954289cf0656dddb2570a77a2246c7e56df649410ccd394c6ebb8dfc46b6593",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+    "summary": "姐妹创立AI平台Hot Girl Hotline，为年轻女性提供个性化恋爱建议，聚焦安全与防情感依赖。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+    "publishedAt": "2026-10-05T17:29:22+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "02f50d13dac813a19d784b56e39fa77816fddae7298eaf8bd6029ebadb2ed662": {
+    "id": "02f50d13dac813a19d784b56e39fa77816fddae7298eaf8bd6029ebadb2ed662",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+    "summary": "HackerRank AI面试官已完成超50万场面试，早期用户包括Snowflake、Snorkel和Capgemini。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+    "publishedAt": "2026-10-05T16:43:35+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "f9e5fc07d577a4444f15f424365564e2a95549913060ad18a7b3d30d18dfd32c": {
+    "id": "f9e5fc07d577a4444f15f424365564e2a95549913060ad18a7b3d30d18dfd32c",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI launches visual ads that appear alongside image generation results",
+    "summary": "新广告本月下旬起仅在美国上线，首批测试广告商将投放产品与服务。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+    "publishedAt": "2026-10-05T15:14:24+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "d2cd6543cfbd2bc9719e4eb447e72de1fb68c312eab5d5e3059f4a23428e6891": {
+    "id": "d2cd6543cfbd2bc9719e4eb447e72de1fb68c312eab5d5e3059f4a23428e6891",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+    "summary": "TechCrunch Disrupt 2026探讨创始人如何选择开源或闭源AI路径；早鸟注册立省100美元，另享5折第二张门票。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+    "publishedAt": "2026-10-05T15:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "28c009a5ae22dbcfdadb9e7cf50974c450ed7bc7af25ba7819321f05ca2bd63e": {
+    "id": "28c009a5ae22dbcfdadb9e7cf50974c450ed7bc7af25ba7819321f05ca2bd63e",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+    "summary": "谷歌拟将AI“Call for Me”功能扩展至个人场景，支持向亲友发语音消息，如“告诉妈妈我晚到15分钟”。Android Authority在APK中发现“Gemini Calling”新界面。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+    "publishedAt": "2026-10-05T23:09:55+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "575200fdee0e7ffee031b4ce66c2845bd32b953e5b8b1258062fbfe1a9591786": {
+    "id": "575200fdee0e7ffee031b4ce66c2845bd32b953e5b8b1258062fbfe1a9591786",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "This startup is issuing AI-generated acne prescriptions",
+    "summary": "犹他州居民现可用Nolla Health应用AI面部分析痤疮并自动开处方，该服务已上线。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+    "publishedAt": "2026-10-05T20:14:57+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "11a515bccd996ce824eb9999f351fc1b17b5b1ed386858463d5ada6476a7cfec": {
+    "id": "11a515bccd996ce824eb9999f351fc1b17b5b1ed386858463d5ada6476a7cfec",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "All the drama around AI&#8217;s takeover of mathematics",
+    "summary": "今年，OpenAI、Anthropic等实验室在多个长期数学难题上取得突破，甚至宣称解决了一道千禧年大奖难题，但进展存疑，引发学界质疑。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+    "publishedAt": "2026-10-05T19:28:59+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "5c2f4ea32f783af571e9c32fece82d2b22112892b5d06b664db3cb22a3cac1ef": {
+    "id": "5c2f4ea32f783af571e9c32fece82d2b22112892b5d06b664db3cb22a3cac1ef",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+    "summary": "维基媒体基金会证实，发现“ rogue”OpenAI AI代理在维基平台活动，包括编辑维基页面及未遂的Etherpad工具利用尝试。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+    "publishedAt": "2026-10-05T19:05:19+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "5b36dd7f1a2bbfe9213f669e391396f448e938ce8d106a13cbd14d939cbe2356": {
+    "id": "5b36dd7f1a2bbfe9213f669e391396f448e938ce8d106a13cbd14d939cbe2356",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+    "summary": "OpenAI在欧盟率先为ChatGPT和Codex推出文本水印技术textGrain，称其性能媲美或超越Google SynthID及Anthropic水印方案。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+    "publishedAt": "2026-10-05T18:08:39+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "dcdeb513169f33d70b6630474e6554881675a3f58f04e5781b29aacb810a3b7d": {
+    "id": "dcdeb513169f33d70b6630474e6554881675a3f58f04e5781b29aacb810a3b7d",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+    "summary": "OpenAI公关在《名利场》采访中打断主编提问，回避ChatGPT用户自杀事件，催促CEO奥特曼转向其他话题。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+    "publishedAt": "2026-10-05T16:55:42+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "c535a2a6efef79b670d7038cf598891965c2698c724522d411d2521e402e4d5a": {
+    "id": "c535a2a6efef79b670d7038cf598891965c2698c724522d411d2521e402e4d5a",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
+    "summary": "OpenAI CEO Sam Altman称AI益处巨大，社会应容忍黑客攻击、诈骗等“坏事情”，因人类将用AI创造“数量级更大的善举”。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+    "publishedAt": "2026-10-05T16:44:21+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "b86c4f3fc0dcc8044d2c0daf568476a453b3434ed4932774cd15d7739db472d0": {
+    "id": "b86c4f3fc0dcc8044d2c0daf568476a453b3434ed4932774cd15d7739db472d0",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+    "summary": "美参议员亚当·希夫（加州民主党）身兼知识产权、反垄断、隐私与科技等多个关键委员会职务，正参与AI及科技监管立法讨论。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+    "publishedAt": "2026-10-05T14:30:00+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "8c390e4dc4d504b14dfb115a704beddc219d51c56d060cd65992e42da3742d50": {
+    "id": "8c390e4dc4d504b14dfb115a704beddc219d51c56d060cd65992e42da3742d50",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+    "summary": "新协议存在信任漏洞，导致恶意提示在智能体间传播。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+    "publishedAt": "2026-10-05T22:26:35+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "db8cc7a2d09dd3dc1a84d4526d31e7ba33648c17d81484349ee83524e36fa54e": {
+    "id": "db8cc7a2d09dd3dc1a84d4526d31e7ba33648c17d81484349ee83524e36fa54e",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+    "summary": "The tool can free up over 12GB of storage.",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+    "publishedAt": "2026-10-05T19:14:44+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "cc9bc8b15bdc9918f8d0fc68e6843c13fd587bcaec47e00ab5f28c1efec36953": {
+    "id": "cc9bc8b15bdc9918f8d0fc68e6843c13fd587bcaec47e00ab5f28c1efec36953",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "AI glasses face their first major government crackdown",
+    "summary": "挪威拟暂缓批准可录影智能眼镜，需先制定针对旁观者隐私的永久性监管规则。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+    "publishedAt": "2026-10-05T13:39:30+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "a202145259051115c42926ad7282054b75fa156dd2972cf305060a193336cf86": {
+    "id": "a202145259051115c42926ad7282054b75fa156dd2972cf305060a193336cf86",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "刚刚，诺贝尔奖颁给光遗传学！",
+    "summary": "从绿藻里的光开关，到控制神经元",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501720.html",
+    "publishedAt": "2026-10-05T10:37:01+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "d420b3d0e7b2f826303d59e9523a51ff7e6a03b89eaa33a7c7305b1cac6794c8": {
+    "id": "d420b3d0e7b2f826303d59e9523a51ff7e6a03b89eaa33a7c7305b1cac6794c8",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "sourceUrl": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "publishedAt": "2026-10-06T06:44:39+00:00",
+    "tags": [
+      "ai-news",
+      "HuggingFace Blog"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "b00860ba962c34ed2cfbd7819def48a42d799c6c1462e2fb27b7c52c6f46788a": {
+    "id": "b00860ba962c34ed2cfbd7819def48a42d799c6c1462e2fb27b7c52c6f46788a",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "GLM-5.3-Vision-NestQuant-2-4bit：image-text-to-text 模型更新",
+    "summary": "HuggingFace 上 jarrelscy/GLM-5.3-Vision-NestQuant-2-4bit 图文转文本模型，仅1028次下载、0点赞，热度极低。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/jarrelscy/GLM-5.3-Vision-NestQuant-2-4bit",
+    "publishedAt": "2026-10-06T07:12:41+00:00",
+    "tags": [
+      "huggingface",
+      "image-text-to-text",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1028,
+      "likes": 0
+    }
+  },
+  "6f6d16a5defff3165fc581b8dd24dc93fef9ed2bbf8df8a66a733d9173eee679": {
+    "id": "6f6d16a5defff3165fc581b8dd24dc93fef9ed2bbf8df8a66a733d9173eee679",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "SheetSage2：feature-extraction 模型更新",
+    "summary": "HuggingFace 上主流特征提取模型 m-a-p/SheetSage2 下载量达 23,827 次，获 144 赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/m-a-p/SheetSage2",
+    "publishedAt": "2026-10-06T07:09:15+00:00",
+    "tags": [
+      "huggingface",
+      "feature-extraction",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 23827,
+      "likes": 144
+    }
+  },
+  "07258829e24caba59bcea2cd681c68a8d98ce901f127e93a3383f26ff755e91e": {
+    "id": "07258829e24caba59bcea2cd681c68a8d98ce901f127e93a3383f26ff755e91e",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "wav2vec2-basque-200h：automatic-speech-recognition 模型更新",
+    "summary": "HuggingFace上ASR模型alexdimmock/wav2vec2-basque-200h下载量2227次，获0点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/alexdimmock/wav2vec2-basque-200h",
+    "publishedAt": "2026-10-06T07:07:25+00:00",
+    "tags": [
+      "huggingface",
+      "automatic-speech-recognition",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 2227,
+      "likes": 0
+    }
+  },
+  "fccd0aa4603d65367708a5dbb6ffe636b8f63cf5c040efe10beb680b28e21405": {
+    "id": "fccd0aa4603d65367708a5dbb6ffe636b8f63cf5c040efe10beb680b28e21405",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "sabiyarn-32k：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 BeardedMonster/sabiyarn-32k 下载量1220次，获0点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/BeardedMonster/sabiyarn-32k",
+    "publishedAt": "2026-10-06T07:03:20+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1220,
+      "likes": 0
+    }
+  },
+  "1488f4da8ebee6b6d88061b5b3ede25c6cd25aa7ae8166fc32c4badf476e527a": {
+    "id": "1488f4da8ebee6b6d88061b5b3ede25c6cd25aa7ae8166fc32c4badf476e527a",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Krea2_Loras：model 模型更新",
+    "summary": "HuggingFace 上 NorbyQWEN/Krea2_Loras 模型暂无下载量，获 16 点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/NorbyQWEN/Krea2_Loras",
+    "publishedAt": "2026-10-06T07:03:03+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 16
+    }
+  },
+  "885c3bfd7df134e8693a5a4a061d9dfb5d92eeed326d393be1b4dda11665a479": {
+    "id": "885c3bfd7df134e8693a5a4a061d9dfb5d92eeed326d393be1b4dda11665a479",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
+    "summary": "论文提出可编辑流程图自适应重排方法，支持多种画布比例（如16:9、1:1、9:16等），确保结构准确、无幻觉、可编辑。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.06852v1",
+    "publishedAt": "2026-10-05T17:59:54+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different aspect ratio on the same computational graph, where any silently broken connection misrepresents the method. We formulate aspect-ratio-adaptive flowchart relayout as a distinct task: given a raster flowchart and a target ratio, produce a structurally faithful, hallucination-free, editable layout. Existing methods fail characteristically: image-to-image models stretch blocks and reject extreme ratios, text-to-image agentic systems hallucinate content, and parse-then-render systems mis-route edges. We propose an agentic pipeline factored into Parse, Style, and Layout stages, each pairing a main agent with a critic that combines deterministic constraint checks with VLM visual feedback so connectivity is explicitly checked and prevented from being silently broken. Outputs are draw.io-editable mxGraph XML. On a curated benchmark of 100 flowcharts at five aspect ratios, evaluated by Gemini 3.1 Pro and validated against human judgments, our method reaches 68.6% Content Fidelity versus 11.2-41.4% for prior work. Project page: https://onefigureeverycanvas.vercel.app/"
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Shih-Chen Tseng, Chih-Hsuan Chen, Ryan Yang et al.",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ]
+    }
+  },
+  "797758da93e76380f70ada8b6907bfc97f700f883e93a457aa9904042619d883": {
+    "id": "797758da93e76380f70ada8b6907bfc97f700f883e93a457aa9904042619d883",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Base Models Can Reason By Taking a Cue From Training Data",
+    "summary": "研究发现，固定特定起始词（如“.\\\\n\\\\nOkay”）可大幅提升基座模型数学与编程能力：Olmo-3-7B准确率从42%升至78%，Qwen3-14B从72%升至87%。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.06851v1",
+    "publishedAt": "2026-10-05T17:59:52+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing particular starting token cues makes a base model's performance competitive with that of its reinforcement learning (RL)-trained counterparts on math and coding. For instance, the cue \".\\n\\nOkay\" raises Olmo-3-7B's MATH-500 pass@1 accuracy from 42% to 78%, while \"Alright,\" raises Qwen3-14B's from 72% to 87%. Second, RL makes these cues more likely, while fixing them recovers much of its performance gain over the base model. Third, we trace the reasoning effects of token cues to the training data. We perform causal data interventions to turn an arbitrary word, such as \"chicken\", into an effective reasoning cue, or remove an existing cue's effect. A similar edit makes the prompt instruction \"Think duck duck goose\" as effective as \"Think step by step\" at eliciting reasoning. We also find that the hidden state representations induced by different cues correlate with different document types from the training set. Finally, we extend our study of token cues with a case study in language model safety, finding that different cues elicit distinct refusal and compliance behaviors that correspond to different types of training data."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Sophie L. Wang, Amil Dravid, Rulin Shao et al.",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ]
+    }
+  },
+  "fba7e06ca20538dfcfe3ea64c5f9ca1cabb209ea14c09998bf9d785cd14570dd": {
+    "id": "fba7e06ca20538dfcfe3ea64c5f9ca1cabb209ea14c09998bf9d785cd14570dd",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
+    "summary": "BiasFlow是新诊断工具，监测类-属性对齐（IBMI）、类内分离（W-IBMI）及特征敏感性，并配以可组合的类条件正则化（BFR），提升鲁棒性。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.06846v1",
+    "publishedAt": "2026-10-05T17:59:28+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We introduce BiasFlow, a hook-based toolkit for monitoring class-attribute centroid alignment (IBMI), within-class centroid separation (W-IBMI), and feature-projection sensitivity. IBMI is confounded by class-attribute correlation and is not a measure of causal feature reliance. We pair these diagnostics with BiasFlow Regularization (BFR), a supervised, composable class-conditional centroid-alignment penalty. W-IBMI verifies the quantity BFR optimizes; it is scale dependent and does not independently establish attribute removal. Across the reported small-scale benchmarks, adding BFR improves or preserves mean WGA, with gains up to +26.0 pp on UrbanCars. The principal independent stress test freezes CelebA-Std backbones and trains fresh heads on biased data: BFR+GroupDRO improves WGA from 40.7% to 64.1%, while Male probe accuracy decreases from 92.5% to 72.2%. Attribute information remains recoverable, and cross-task results are mixed. A controlled synthetic-watermark ImageNet experiment additionally improves watermark-shift accuracy by +23.0 pp under matched training. These results support evaluating centroid geometry and resistance to biased head retraining alongside WGA, within the tested protocols."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Haojin Deng, Zhiping Lin, Yimin Yang",
+      "categories": [
+        "cs.AI"
+      ]
+    }
+  },
+  "ac4bf807f509b0bd94a144e2cccea958d28bd53f08a044d360252d08f3a0299d": {
+    "id": "ac4bf807f509b0bd94a144e2cccea958d28bd53f08a044d360252d08f3a0299d",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
+    "summary": "研究提出新框架，用轻量瓶颈网络将多模态扩散Transformer中的动态文本token映射至冻结大语言模型输入空间，实现对生成图像的自然语言问答。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.06844v1",
+    "publishedAt": "2026-10-05T17:59:17+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, forming dynamic contextual tokens whose function is not well understood. In this work, we introduce a framework for reading this contextual space through natural-language interrogation. We train a lightweight bottleneck network that maps intermediate contextual tokens into the input space of a frozen Large Language Model (LLM), allowing the LLM to answer questions about the emerging image directly from these hidden representations. Our reader reveals that contextual tokens encode a rich, global representation of the emerging scene: generation-specific semantics, including attributes left underspecified by the prompt, are accessible surprisingly early in denoising, while increasingly fine-grained details become readable over time. Remarkably, this information remains decodable even when the MM-DiT receives an empty prompt, showing that contextual tokens accumulate substantial image-specific information from the evolving visual representation itself. We further find that generations with more readable contextual representations tend to receive higher human-preference scores. Building on these observations, we introduce Contextual Alignment, a training technique that explicitly reinforces the visual-semantic information encoded in the contextual tokens, improving generation quality and distributional coverage. Together, our results establish contextual tokens as both an interpretable view into the internal dynamics of MM-DiTs and an effective target for improving generative models."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Omer Dahary, Etai Sella, Hadar Averbuch-Elor et al.",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.GR",
+        "cs.LG"
+      ]
+    }
+  },
+  "67392a2eb600ca2aef9fa498b8fd0e0ff5cb619d6d155d7588386a7a26d901a8": {
+    "id": "67392a2eb600ca2aef9fa498b8fd0e0ff5cb619d6d155d7588386a7a26d901a8",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Recursive Video In-Context Learning for Agentic Robot",
+    "summary": "提出RV-ICL方法，无需训练，将演示视频递归分解为任务结构与关键接触帧层级，提升具身机器人动作规划精度。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.06843v1",
+    "publishedAt": "2026-10-05T17:59:11+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "LLM agents that orchestrate frozen vision-language-action (VLA) policies improve across episodes through text memory, which records what the agent did but not how the task is done. A demonstration video shows it, but fits poorly into an agent's context. The full video slows every turn, fixed keyframes lose the contact detail that decides whether a grasp holds, and what the agent needs shifts from the task's structure while planning to the frames around each contact. We introduce Recursive Video In-Context Learning (RV-ICL), a training-free method that turns a demonstration into a hierarchy the agent navigates rather than a prompt it receives. The hierarchy is built from the sub-events of the demonstration, such as grasps and releases. Its levels grow finer, from keyframes of the whole task to phases, moments and short clips, and are exposed through read-only tools. The agent reads the coarse levels before planning. During execution it re-enters the hierarchy whenever a step needs more detail and loads only the clip of its current sub-goal. One demonstration per task is enough. Built on RPent, RV-ICL raises success from 92.6% to 96.5% on LIBERO-PRO and from 86.7% to 95.8% on LIBERO-Plus."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Wenrui Bao, Xinxin Liu, Bingxin Xu et al.",
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "cs.CL",
+        "cs.MA"
+      ]
+    }
+  },
+  "f73982686b72734c9d8a02d11a0249575fef52015d88eec6f8d792ac0ee909c4": {
+    "id": "f73982686b72734c9d8a02d11a0249575fef52015d88eec6f8d792ac0ee909c4",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Direct Intermediate Initialization for Tilted Diffusion Samplers",
+    "summary": "论文提出倾斜扩散采样器的直接中间初始化法，将高斯倾斜中间分布拉回干净空间，使MCGDiff有效观测方差达扩散噪声方差的2倍。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.06834v1",
+    "publishedAt": "2026-10-05T17:58:18+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Some diffusion posterior samplers construct Gaussian-tilted intermediate distributions along the reverse process. We observe that these targets can be pulled back to clean-space posteriors with weaker conditioning, with samples transported analytically to the corresponding noisy-space target through a Gaussian bridge. For the sequential Monte Carlo (SMC) sampler MCGDiff, the effective observation variance of this pulled-back problem is up to twice the diffusion-noise variance. We exploit this structure to initialize MCGDiff directly at an intermediate time: an approximate solver samples the softened clean-space posterior, the Gaussian bridge maps these samples to the tilted target, and only the remaining SMC suffix is run. This trades asymptotic consistency for finite-particle performance. With moment-matching posterior sampling (MMPS) as the solver, the hybrid improves sliced Wasserstein distance by roughly $2\\times$ at matched particle count on a structured Gaussian-mixture inverse problem, and by more than an order of magnitude when the posterior-relevant mode is rare under the prior. A prior-initialization control, which retains the bridge but drops the clean-space conditioning, shows that on MCGDiff's standard Gaussian-mixture benchmark most of the improvement is insensitive to the conditioning. Conditioning the initialization gives a further consistent gain on the structured problem, and becomes decisive on a rare-mode problem, where resampling cannot repopulate a mode absent from the initial population."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Gregory D. Bellchambers",
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ]
+    }
+  },
+  "631d71a2aaa6503ae453d6cd73eea5af6955b86dbad1529e8ff338a793487546": {
+    "id": "631d71a2aaa6503ae453d6cd73eea5af6955b86dbad1529e8ff338a793487546",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Towards Looped Models Done Right, Part II: Rethinking at Fixed Points",
+    "summary": "论文提出“固定点优化”方法，使循环语言模型训练、解码、预填充和强化学习提速：训练用截断反传，解码KV共享几乎无损，预填充快1.79倍，RL梯度计算快2倍。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.06833v1",
+    "publishedAt": "2026-10-05T17:58:15+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Every recurrence of a looped language model adds cost in training, decoding, prefill, and reinforcement learning (RL). The closer recurrent states get to fixed points, the less the path to them matters. This enables truncated backpropagation in training; terminal key-value (KV) sharing for decoding with almost no loss in accuracy; a distilled student that prefills up to 1.79x faster; and RL updates that compute gradients from saved rollout states, 2x faster than backpropagating through the replayed trajectory. We therefore improve the two components of training that shape these fixed points: the depth prior and input injection. Fixed-depth training breaks KV sharing, and Huginn's broad depth prior supports sharing but dilutes supervision at the target depth more than sharing requires; we learn the prior from prediction feedback, with an entropy term that keeps it broad. Existing injection schemes let the state's component along the input amplify or cancel the injection; we remove this component with orthogonal injection. From 100M to 1.6B parameters, the learned prior and orthogonal injection lower perplexity at every scale relative to Huginn's prior and existing injection schemes, respectively. At 1.6B, the learned prior with a 3x smaller KV cache matches the downstream average of fixed-depth training with the full cache."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Benhao Huang, Chufan Shi, Junlin Chen et al.",
+      "categories": [
+        "cs.LG"
+      ]
+    }
+  },
+  "ee68288ebf546cd985eb17b7cf936efa39b3b97a7cdb6f6e0ac4509d7b9f7005": {
+    "id": "ee68288ebf546cd985eb17b7cf936efa39b3b97a7cdb6f6e0ac4509d7b9f7005",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "UniSlider: Perceptually Uniform Sliders for Continuous Image Editing",
+    "summary": "UniSlider提出感知均匀滑块，解决现有图像编辑滑块中强度参数与感知变化不匹配问题，确保滑动过程视觉变化平滑可控。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.06831v1",
+    "publishedAt": "2026-10-05T17:58:11+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Sliders provide an intuitive interface for continuous image editing. In current generative approaches, however, the slider is simply a rescaling of the method's strength parameter, such as an adapter coefficient, a prompt weight, or an interpolation factor. This strength relates poorly to perceptual change. The image can partially revert as the slider moves, long stretches of the range produce no visible difference, and short intervals transform the image abruptly. Remapping the strength could fix this uneven pace, but only if the trajectory is monotone, which current methods do not enforce. We therefore distinguish the slider from the strength, and require perceptual distance from the input to grow linearly with the slider value. We introduce UniSlider, a lightweight LoRA trained on a few-step editing backbone so that its strength approximates this ideal slider. Few-step sampling lets us impose this objective in pixel space without intermediate ground truth, and the backbone's output is preserved at full strength. However, a low-rank adapter cannot make the strength fully uniform. Our slider is thus an inference-time remapping of the strength, obtained by adaptive sampling. Since training optmizes to make the trajectory monotone, this remapping closes the remaining gap without extra training or parameters. On a new benchmark of 300 continuous edits evaluating uniformity, monotonicity, edit fidelity, and identity preservation, UniSlider outperforms all prior methods and is preferred in a user study."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "David Serrano-Lozano, Duygu Ceylan, Yannick Hold-Geoffroy et al.",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.GR"
+      ]
+    }
+  },
+  "c782cb368658eb4ec09e6b2c4dc5c4283fae5cce184bbad9be913ea0d4c64fee": {
+    "id": "c782cb368658eb4ec09e6b2c4dc5c4283fae5cce184bbad9be913ea0d4c64fee",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
+    "summary": "MemPilot提出按需多模态记忆编排，支持LLM智能体运行时自适应记忆管理，兼顾性能、成本与延迟。（59字）",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.06830v1",
+    "publishedAt": "2026-10-05T17:58:06+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Memory has become integral to the LLM agent ecosystem, supporting information retention and reuse across interactions. However, most existing agent memory systems construct memory in a query-agnostic manner, which can incur unnecessary preprocessing cost and discard details that later prove essential. Recent studies have begun shifting memory processing toward runtime adaptation, but typically specialize in particular operations or fixed processing schemes, leaving flexible control over performance, cost, and latency largely underexplored. To address this challenge, we present \\textbf{MemPilot}, a flexible framework that orchestrates on-demand memory curation under different performance--cost--latency preferences. Specifically, we optimize a multi-step LLM policy via reinforcement learning to iteratively choose between retrieving from query-agnostic memory and delegating query-specific curation of raw multimodal history to heterogeneous LLMs and VLMs. The policy jointly controls evidence amount, curation instructions, model selection, and visual access, enabling fine-grained allocation of runtime computation. To optimize this policy under competing objectives, we adapt objective-wise advantage decoupling by separately estimating each objective's advantage before aggregation. Moreover, we introduce prefix-based marginal utility estimation for fine-grained credit assignment across multi-step rollouts. Experiments on five multimodal agent-memory benchmarks demonstrate favorable performance--cost--latency trade-offs across optimization preferences, with preference sweeps yielding broader frontiers than existing trade-off-aware baselines."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Haozhen Zhang, Haodong Yue, Quanyu Long et al.",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.LG"
+      ]
+    }
+  },
+  "2eafa0d0fdb409eca9bad53a422da18a245baa4bd2950f6fc9b127a2fed896fe": {
+    "id": "2eafa0d0fdb409eca9bad53a422da18a245baa4bd2950f6fc9b127a2fed896fe",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling",
+    "summary": "CLIFT提出基于共形自验证的Web智能体训练与推理扩展方法，通过自然语言验证问题和组合共形校准器提升信用分配效果，降低对昂贵语言模型评判的依赖。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.06829v1",
+    "publishedAt": "2026-10-05T17:57:51+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Open-source web agents are now strong enough to execute realistic browser tasks, but training them with reinforcement learning still depends on weak supervision: binary task success is too sparse for credit assignment, while frontier-language-model judges are too expensive to call at every step and cannot be assumed available at deployment. We introduce CLIFT, a training and test-time scaling method built around conformal self-verification. During training, the agent answers natural-language verification questions about its own rollouts; a Compositional Conformal Certifier keeps only question signals whose URL-conditional evidence agrees with a training-time judge, assigns signed trust weights through polarity-aware lift, and blends the resulting verifier score into per-step rewards in a way that never subtracts from the judge baseline. At test time, the same certified bank is frozen and reused as structured evidence for Conformal Trajectory Selection (CTS): the agent samples a greedy rollout and one or more diverse retries, the self-verifier summarises each URL trace, and a conservative majority-vote rule chooses whether to swap away from the current incumbent without calling any external judge. This single mechanism supports three settings. On WebArena Infinity, CLIFT achieves state-of-the-art performance among open-source web agents. On VisualWebArena, a bank trained with the open model transfers to GPT-5.5 at test time and reaches state-of-the-art performance under the canonical harness. On Online Mind2Web, without training an agent on the benchmark, translating the certified question bank improves a live-web agent in zero-shot evaluation. Together these results position conformal self-verification as a way to turn costly judge feedback into a reusable training signal and a judge-free test-time scaling signal."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Yifan Zhang, Yutong Dai, Viraj Prabhu et al.",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.LG"
+      ]
+    }
+  },
+  "085308c0d4f17b746d3122ca0e8db4764ef67eb72de6e13a523c72756fb1b401": {
+    "id": "085308c0d4f17b746d3122ca0e8db4764ef67eb72de6e13a523c72756fb1b401",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "PlotGround: Grounding Plot Digitization in Real Scientific Figures and Their Source Data",
+    "summary": "PlotGround是首个基于真实科学图表及作者源数据构建的自动标注基准，填补了现有合成数据 benchmark 的空白，提升图表数字化精度评估。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.06825v1",
+    "publishedAt": "2026-10-05T17:57:19+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Scientific figures often encode quantitative results that are not readily available in machine-readable form, making accurate plot digitization important for verifying and reusing published findings. Yet it remains unclear how accurately current models recover plotted values from real scientific figures, as existing benchmarks rely largely on synthetic charts or cover only a limited range of chart types. We introduce PlotGround, an automated pipeline for building plot digitization benchmarks from real scientific figures and their author-released source data. PlotGround maps figures to source tables, identifies reconstructable panels, and generates quantitative questions with source-grounded reference values. We use PlotGround to construct PlotGround-1k, a human-verified benchmark of 1,119 questions from 1,066 bioRxiv preprints. Across sixteen multimodal models, the best reaches 87.5% accuracy at a $\\pm 5\\%$ relative-error tolerance. Tightening the tolerance to $\\pm 2\\%$ lowers every model's accuracy by 11-24 percentage points, revealing a gap between approximate visual reading and precise quantitative recovery. PlotGround's paired figure-source structure lets us compare how accurately the same values are recovered from figures and from source tables. Providing source tables instead of figures raises a coding agent's accuracy from 90.0% to 97.4% while cutting cost by 72%."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Yaohui Zhang, Binxu Li, Haoyi Duan et al.",
+      "categories": [
+        "cs.CL",
+        "cs.CV"
+      ]
+    }
+  },
+  "9fd430093d929aef069da502b6fc3781031a2a2acefde003b782a23e7a721e8d": {
+    "id": "9fd430093d929aef069da502b6fc3781031a2a2acefde003b782a23e7a721e8d",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "TasteVal: Measuring the Experimental Research Taste of AI Systems Against Human Experts",
+    "summary": "TasteVal是新基准，评估AI模型在实验研究“品味”上的能力，即设计实验、解读结果的效率，以达同等人类专家效果所需的计算量为指标。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.06824v1",
+    "publishedAt": "2026-10-05T17:57:15+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "We introduce TasteVal, a benchmark to evaluate the experimental research taste of frontier models. We define research taste as the ability to pick interesting problems to solve, design experiments, and interpret experimental results. TasteVal measures the experimental component of research taste; given a fixed research problem, we measure how well a model iteratively designs experiments and draws conclusions from their outcomes. We operationalize experimental research taste as compute efficiency; a Researcher who reaches the same score as an expert human using half the serial experimental compute has twice the experimental taste. Experimental taste thus acts as a multiplier on experimental compute, making it a key input to forecasts of AI progress. TasteVal consists of 8 novel, challenging, open-ended tasks representative of frontier AI R&D. To isolate taste from coding ability, the model under evaluation acts as a Researcher that iteratively designs experiments while a fixed Coder agent implements them and reports their results. The Researcher executes until either the 40 H100 hour or 120 wall-clock hour budgets are exhausted. We recruit 24 human experts, at least 2 per task, and take the best expert attempt per task as the expert baseline. We evaluate 20 models released between 2023 and 2026. The best-performing model, Opus 5.5, exceeds our expert baseline, with a compute multiplier of 2.3x (95% CI 1.15-4.37), at roughly 1/30 of our baseliners' average per-run cost. On TasteVal, the compute multiplier of frontier models has doubled approximately every 3.0 months since December 2025 (95% CI 1.7-5.0), up from every 14 months between 2023 and December 2025. Measured by final normalized performance, frontier models show no trend break, doubling every 14.6 months. To keep TasteVal uncontaminated, we do not release the tasks."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Oliver Jaffe, Dane Sherburn",
+      "categories": [
+        "cs.AI"
+      ]
+    }
+  },
+  "2030632cb1ec20beb92f21b822c22d86f271ebce81dc0063dfcb46f1724f4767": {
+    "id": "2030632cb1ec20beb92f21b822c22d86f271ebce81dc0063dfcb46f1724f4767",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Deep Learning for Sleep Heart Rate Estimation from Accelerometers: Toward Population-Scale Cardiac Insight Without Optical Sensors",
+    "summary": "研究提出SeqSmoother模型，基于腕部加速度计数据（无需光学传感器），利用Transformer和物理启发特征，实现睡眠心率高精度估计。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.06823v1",
+    "publishedAt": "2026-10-05T17:56:57+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Large longitudinal cohorts often contain wrist accelerometry without optical heart-rate sensing, motivating recovery of cardiac information from motion signals already collected during sleep. We present SeqSmoother, a transformer-based temporal corrector for sleep heart rate (HR) estimation from wrist accelerometry. SeqSmoother combines spectral descriptors with an intermediate Nightbeat-derived frequency anchor and a physics-motivated sub-harmonic feature designed to identify harmonic frequency lock-on. All inference-time features are derived from wrist accelerometry, while ECG is used only to construct reference HR labels and training-label quality weights. We evaluate SeqSmoother using 13 participant-disjoint held-out folds and compare it with the official Nightbeat implementation under a matched 60-s window and 15-s step protocol. Across all out-of-fold predictions, SeqSmoother achieved a participant-macro MAE of 1.60 bpm. On Nightbeat-retained matched intervals, Nightbeat achieved lower absolute error than SeqSmoother (0.615 versus 1.091 bpm), while SeqSmoother provided estimates over a larger portion of the eligible recording; Nightbeat produced final estimates for 72.85% of the SeqSmoother-eligible out-of-fold grid. Separately, the proposed sub-harmonic ratio achieved an AUROC of 0.972 for identifying reference-defined harmonic lock-on candidates. These findings reveal an accuracy-availability trade-off between learned temporal modeling and quality-gated signal processing while providing empirical support for a physics-informed approach to identifying frequency-tracking failures in accelerometer-based sleep HR estimation."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Tanbin Islam Rohan, Pranjol Sen Gupta, Tanusree Debi et al.",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    }
+  },
+  "7c0d7f6732280ab82edb7e3a407f3c30761e531ee0cf7819ab4529719b94b5ba": {
+    "id": "7c0d7f6732280ab82edb7e3a407f3c30761e531ee0cf7819ab4529719b94b5ba",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Private online learning and prediction for Littlestone classes",
+    "summary": "研究差分隐私下在线学习与预测的错误界，发现二者样本复杂度存在时间依赖性分离，差距随时间增长，适用于有限Littlestone维数d的类别。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.06822v1",
+    "publishedAt": "2026-10-05T17:56:47+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "We study mistake bounds for differentially private online learning and online prediction under oblivious realisable adversaries. Online learning requires the learner to release a hypothesis at each time step whereas in online prediction, the learner only needs to make predictions without releasing a hypothesis. Using a novel lower bound for private online learning and an upper bound for private prediction, we show that the sample complexity of these two problems are separated by a factor that grows with the time horizon for every class of finite Littlestone dimension $d$. First, we prove that every $\\br{ε,δ}$-private online learner has a deterministic realisable stream of length $T$ on which the mistake bound is at least $\\bE\\bs{M_T}=\\Om{\\frac dε\\log\\br{ T}^{2/3}}$. In particular, this is the first non-trivial lower in the range $1/T<δ<1/\\log T)$ left open in earlier works[SR22,DSS24,LWY24]. Second, we prove that for every class of of Littlestone dimension $d$, there exists an $(ε,δ)$-jointly private predictor with at most $2^{2^{cd^2}}ε^{-2}\\log^2\\br{2/\\br{εδ}}$ expected mistakes, independently of $T$, for some absolute constant $c>0$. Thus, for every fixed class of finite Littlestone dimension when $δ=Θ\\br{1/\\log T}$, private learning requires $\\Om{\\br{\\log T}^{2/3}}$ expected mistakes, whereas private prediction admits $\\bigO{\\br{\\log\\log T}^2}$."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Amartya Sanyal",
+      "categories": [
+        "cs.LG",
+        "cs.CR",
+        "stat.ML"
+      ]
+    }
+  },
+  "29e16772bf87218c6317acec198c7b54a46ec4c4a313d7ee10836768c2cbd226": {
+    "id": "29e16772bf87218c6317acec198c7b54a46ec4c4a313d7ee10836768c2cbd226",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Paradee: Distilling Kokoro-82M into an 8M-Parameter Single-Voice Text-to-Speech Model",
+    "summary": "研究者将54音色的Kokoro-82M TTS模型蒸馏为单音色Paradee（8.07M参数），参数减少10倍、算力需求降15倍。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.06817v1",
+    "publishedAt": "2026-10-05T17:56:07+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "We distill Kokoro-82M, a widely used open text-to-speech model with 54 voices, into Paradee, an 8.07M-parameter model that speaks one of them. Paradee keeps Kokoro's architecture with much narrower layers, and each of its two halves is trained separately against the frozen teacher. It has 10x fewer parameters and needs 15x less compute. We first synthesize a corpus with the teacher and keep its durations, pitch, energy and phoneme features. We then train a small text side to predict these values, and a small decoder to turn the teacher's saved values into the teacher's audio, first with spectral losses and then adversarially. Finally, we connect the two halves and quantize the weights to int8. It needs no alignment learning and no joint training, and it runs on one laptop. Stored in int8, Paradee is 8.5 MB, runs 25x faster than real time on one CPU thread, and scores 4.41 on UTMOS against the teacher's 4.52. The student initially kept a slight buzz, which we trace to the phase of voiced speech between 2 and 8 kHz. A phase-locking filter applied after synthesis removes most of it, with no training and no extra parameters. Code, model files and audio samples are at https://github.com/sahilmahendrakar/paradee"
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Sahil Mahendrakar",
+      "categories": [
+        "cs.SD",
+        "cs.AI",
+        "cs.CL",
+        "cs.LG",
+        "eess.AS"
+      ]
+    }
+  },
+  "296229320ed392b99f96459719273b8a254df064e03fb1cfd5995d4a2c4b997b": {
+    "id": "296229320ed392b99f96459719273b8a254df064e03fb1cfd5995d4a2c4b997b",
+    "module": "lol",
+    "seg": "match",
+    "cat": "比赛",
+    "title": "同一天，两种命运——德玛西亚杯DAY2 LPL队伍比赛复盘",
+    "summary": "UP主 超稳的楠西 · 6,242播放 · 14:23",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117388100110660",
+    "publishedAt": "2026-10-05T11:40:39+00:00",
+    "tags": [
+      "lol",
+      "match",
+      "英雄联盟 LPL LCK 比赛 集锦 复盘"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "超稳的楠西",
+      "play": 6242,
+      "bvid": "BV19tH46sEH8",
+      "duration": "14:23"
+    }
+  },
+  "6665440c23b530bbd18b0475deab8e880124693a1891059501819d12990518f8": {
+    "id": "6665440c23b530bbd18b0475deab8e880124693a1891059501819d12990518f8",
+    "module": "lol",
+    "seg": "match",
+    "cat": "比赛",
+    "title": "【德杯复盘&amp;S赛前瞻】万字解析：杰斯！LPL杰斯11连败而LCK连战连捷原因究竟是什么？【熊月只看团战】",
+    "summary": "UP主 熊月丿 · 204播放 · 26:21",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117387529623077",
+    "publishedAt": "2026-10-05T09:15:53+00:00",
+    "tags": [
+      "lol",
+      "match",
+      "英雄联盟 LPL LCK 比赛 集锦 复盘"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "熊月丿",
+      "play": 204,
+      "bvid": "BV1kuHs6fEMQ",
+      "duration": "26:21"
+    }
+  },
+  "65f9c6923919db9ca59367853dca0bc2fcc48431ddf67e16bd7b4ec0c18a00b6": {
+    "id": "65f9c6923919db9ca59367853dca0bc2fcc48431ddf67e16bd7b4ec0c18a00b6",
+    "module": "lol",
+    "seg": "match",
+    "cat": "比赛",
+    "title": "【最新赛果及赛程预告】2026赛季英雄联盟德玛西亚杯国际邀请赛第2个比赛日全部赛果及第3个比赛日（瑞士轮阶段0-1对决，3场BO3）赛程预告",
+    "summary": "UP主 会吃花椒的克格汪 · 143播放 · 0:32",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117386522925600",
+    "publishedAt": "2026-10-05T04:57:30+00:00",
+    "tags": [
+      "lol",
+      "match",
+      "英雄联盟 LPL 赛果 战报 BO"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "会吃花椒的克格汪",
+      "play": 143,
+      "bvid": "BV1GxHp6gE32",
+      "duration": "0:32"
+    }
+  },
+  "154836b7eb3ce56f6122c5df4fe08cbffe90e62f44a98fcab9378b65ac13f47a": {
+    "id": "154836b7eb3ce56f6122c5df4fe08cbffe90e62f44a98fcab9378b65ac13f47a",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "T0级毒瘤阵容！超频猫平推一切超模，不削必卷！详细教学",
+    "summary": "UP主 小妖剧吧 · 0播放 · 1:21",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117392713717127",
+    "publishedAt": "2026-10-06T07:14:41+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "小妖剧吧",
+      "play": 0,
+      "bvid": "BV1vmpF6SEpZ",
+      "duration": "1:21"
+    }
+  },
+  "a76cbf748f85b39957e9c4bcd13348eaae254f58f2afb872d0f6754d277f6161": {
+    "id": "a76cbf748f85b39957e9c4bcd13348eaae254f58f2afb872d0f6754d277f6161",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "王者段本周6大强势阵容保姆级拆解教学！实战+冷知识+独家理解",
+    "summary": "UP主 彤心追剧1 · 152播放 · 3:20",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117389207341326",
+    "publishedAt": "2026-10-05T16:27:20+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "彤心追剧1",
+      "play": 152,
+      "bvid": "BV1yuHb6LE8L",
+      "duration": "3:20"
+    }
+  },
+  "88e8189ac39ba00b73f0141682026aac534c9be7a24e356c0566430a7ac3a8ce": {
+    "id": "88e8189ac39ba00b73f0141682026aac534c9be7a24e356c0566430a7ac3a8ce",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "王者段6大强势阵容保姆级拆解教学！实战+冷知识+独家理解",
+    "summary": "UP主 彤心追剧1 · 82播放 · 2:42",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117389140166462",
+    "publishedAt": "2026-10-05T16:08:12+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "彤心追剧1",
+      "play": 82,
+      "bvid": "BV1HLHb63Eit",
+      "duration": "2:42"
     }
   }
 }
