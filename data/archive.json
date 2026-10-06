@@ -23065,7 +23065,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-    "publishedAt": "2026-10-06T07:13:53.267505+00:00",
+    "publishedAt": "2026-10-06T17:42:41.543136+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -36500,7 +36500,7 @@
     "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2494052",
-    "publishedAt": "2026-10-06T07:13:53.267464+00:00",
+    "publishedAt": "2026-10-06T17:42:41.543077+00:00",
     "tags": [
       "英超",
       "赛程"
@@ -36526,7 +36526,7 @@
     "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2506240",
-    "publishedAt": "2026-10-06T07:13:53.267490+00:00",
+    "publishedAt": "2026-10-06T17:42:41.543112+00:00",
     "tags": [
       "西甲",
       "赛程"
@@ -36552,7 +36552,7 @@
     "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2508371",
-    "publishedAt": "2026-10-06T07:13:53.267495+00:00",
+    "publishedAt": "2026-10-06T17:42:41.543119+00:00",
     "tags": [
       "德甲",
       "赛程"
@@ -36578,7 +36578,7 @@
     "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2482192",
-    "publishedAt": "2026-10-06T07:13:53.267498+00:00",
+    "publishedAt": "2026-10-06T17:42:41.543125+00:00",
     "tags": [
       "意甲",
       "赛程"
@@ -36604,7 +36604,7 @@
     "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2489515",
-    "publishedAt": "2026-10-06T07:13:53.267503+00:00",
+    "publishedAt": "2026-10-06T17:42:41.543131+00:00",
     "tags": [
       "法甲",
       "赛程"
@@ -53001,6 +53001,370 @@
       "play": 82,
       "bvid": "BV1HLHb63Eit",
       "duration": "2:42"
+    }
+  },
+  "2b302193b4e6de823a352cbd4a5952b595a32b26cbaae7423ea455179c3449e0": {
+    "id": "2b302193b4e6de823a352cbd4a5952b595a32b26cbaae7423ea455179c3449e0",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Mirror Particle is building a ‘world model’ of human behavior",
+    "summary": "Mirror Particle将在TechCrunch Disrupt 200强初创赛发布自研世界模型，专注预测人类行为，称LLM角色扮演难以满足市场研究与品牌策略需求。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+    "publishedAt": "2026-10-06T16:35:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "e5524245bf55e938c266333c8a1d39555d65f974864153348e4fc03861a128aa": {
+    "id": "e5524245bf55e938c266333c8a1d39555d65f974864153348e4fc03861a128aa",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+    "summary": "该计划旨在推动AI普惠化，强调企业基于大模型构建应用，才能让AI红利惠及大多数人。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+    "publishedAt": "2026-10-06T16:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "e5973bdba7c467a710a7a600d8d8cebf48c87d48ecb07ab36aadd76c3d23f513": {
+    "id": "e5973bdba7c467a710a7a600d8d8cebf48c87d48ecb07ab36aadd76c3d23f513",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "LibreOffice says ‘no AI’ is now a software feature",
+    "summary": "开源文档编辑器开发商称，出于用户隐私考虑，暂无计划在默认配置中加入AI功能。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+    "publishedAt": "2026-10-06T15:25:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "33a441dd0e552504a5692fa780a226653af536339a3e82560c5ca61286560217": {
+    "id": "33a441dd0e552504a5692fa780a226653af536339a3e82560c5ca61286560217",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+    "summary": "法国Mistral AI发布多模态大模型Mistral Large 4，旨在超越中美竞品。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+    "publishedAt": "2026-10-06T14:33:16+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "c4d14637d412702b79184f6fa4af1e81e5d688198271fcc4838d2e46e733533c": {
+    "id": "c4d14637d412702b79184f6fa4af1e81e5d688198271fcc4838d2e46e733533c",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Pinterest’s AI now turns beauty Pins into action plans",
+    "summary": "Pinterest推AI美业指南：将发型、美甲图转为沙龙术语，含预估费用、预约时长及保养建议。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+    "publishedAt": "2026-10-06T14:00:49+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "193a9a23fdd4c26be9d9350172c9c2cb895f6f50daae3ee5dd2cf054fe5cd1f6": {
+    "id": "193a9a23fdd4c26be9d9350172c9c2cb895f6f50daae3ee5dd2cf054fe5cd1f6",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+    "summary": "TechCrunch Disrupt 2026将于10月13–15日在旧金山举行，聚焦规模化与技术议题。早鸟注册立省100美元，并享第二张票5折优惠。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+    "publishedAt": "2026-10-06T14:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "13d616478125d10191ba114e79aecb68d991f54ed846d57dd81323209f9eb424": {
+    "id": "13d616478125d10191ba114e79aecb68d991f54ed846d57dd81323209f9eb424",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "We can’t just change the definition of ‘recording’",
+    "summary": "AI硬件模糊录音边界：传统设备“录/不录”非黑即白，而AI设备常实时处理音视频，引发隐私新争议。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+    "publishedAt": "2026-10-06T16:29:44+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "7c8a6224be28b4e65b8b4429231a9a9640e63d1bb8bf255371e764d8f827dbee": {
+    "id": "7c8a6224be28b4e65b8b4429231a9a9640e63d1bb8bf255371e764d8f827dbee",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Google is about to remove free access to Gemini Flash and Pro",
+    "summary": "10月9日起，Google Gemini免费用户仅能使用Flash Lite模型；访问标准Flash模型需订阅AI Plus（4.99美元/月）。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+    "publishedAt": "2026-10-06T13:19:01+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "0f5e8a983c7de52938529226d141ea74c62ae134a99ed49cf02abde39de83f84": {
+    "id": "0f5e8a983c7de52938529226d141ea74c62ae134a99ed49cf02abde39de83f84",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+    "summary": "亚马逊Alexa Plus现严重Bug：部分Echo设备突陷“lalala”循环模式，持续数分钟，且无法自知或回应用户询问。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+    "publishedAt": "2026-10-06T10:53:11+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "8eb84bb2d87073dfd8c0bb234bbb7a198d043f672838ad66f1e898656213c909": {
+    "id": "8eb84bb2d87073dfd8c0bb234bbb7a198d043f672838ad66f1e898656213c909",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+    "summary": "OpenAI代理持续被曝损害第三方网站，引发安全与责任担忧。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+    "publishedAt": "2026-10-06T12:21:53+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "d902c54a6e4a0d8698c98e8887af2f160f6dd126513dde1cd1951d7c3a1f7d81": {
+    "id": "d902c54a6e4a0d8698c98e8887af2f160f6dd126513dde1cd1951d7c3a1f7d81",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "刚刚，诺贝尔物理奖一人独揽！",
+    "summary": "南极洲甚至有一座高地以他名字命名",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501746.html",
+    "publishedAt": "2026-10-06T10:44:58+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "80b0c5641dc8a48ab2f023135aebb01d58faa41d67b9f4afffb23d932abb0be7": {
+    "id": "80b0c5641dc8a48ab2f023135aebb01d58faa41d67b9f4afffb23d932abb0be7",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "不er，咋陶哲轩也成AI减速派了？？",
+    "summary": "",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501736.html",
+    "publishedAt": "2026-10-06T07:59:17+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "3efad1fd11795ae876aa46ef50fcbb2809c94db77758e4e1cb927910dc4e6a3c": {
+    "id": "3efad1fd11795ae876aa46ef50fcbb2809c94db77758e4e1cb927910dc4e6a3c",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+    "summary": "",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501726.html",
+    "publishedAt": "2026-10-06T06:45:40+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "20963d9f791992b4a364b548f3ab223209c0e734dbd0ff30d8ee7c0daded25ad": {
+    "id": "20963d9f791992b4a364b548f3ab223209c0e734dbd0ff30d8ee7c0daded25ad",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "arc-agi2-joint-loopvit-epochs-trainium-v3：model 模型更新",
+    "summary": "HuggingFace 上模型 ritwika96/arc-agi2-joint-loopvit-epochs-trainium-v3 下载量达1049次，获1个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/ritwika96/arc-agi2-joint-loopvit-epochs-trainium-v3",
+    "publishedAt": "2026-10-06T17:41:59+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1049,
+      "likes": 1
+    }
+  },
+  "c20fef8115361a2251bb7c955a51e4e7971659eaaed87e9643249439ea525d05": {
+    "id": "c20fef8115361a2251bb7c955a51e4e7971659eaaed87e9643249439ea525d05",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "OpenSakura-MODEL-260906-LN-ja-zh-SFT-qwen36-35b-a3b-sft-GGUF：translation 模型更新",
+    "summary": "HuggingFace上日译中模型OpenSakura（Qwen36-35B量化版）下载量1668次，暂无点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/mradermacher/OpenSakura-MODEL-260906-LN-ja-zh-SFT-qwen36-35b-a3b-sft-GGUF",
+    "publishedAt": "2026-10-06T17:40:45+00:00",
+    "tags": [
+      "huggingface",
+      "translation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1668,
+      "likes": 0
+    }
+  },
+  "982bac08152a240fd8d13e7fa6b9cf63137f11ea52c2b2505977c0a0f93c3b4b": {
+    "id": "982bac08152a240fd8d13e7fa6b9cf63137f11ea52c2b2505977c0a0f93c3b4b",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "kamsa-k1-v3：model 模型更新",
+    "summary": "HuggingFace 上 Haijun-AI/kamsa-k1-v3 模型获 1,165 次下载、1 个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Haijun-AI/kamsa-k1-v3",
+    "publishedAt": "2026-10-06T17:37:35+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1165,
+      "likes": 1
+    }
+  },
+  "01a77b2efff6b382bbfc272240517eb6185e67e1615fa18a667bd7370efd5436": {
+    "id": "01a77b2efff6b382bbfc272240517eb6185e67e1615fa18a667bd7370efd5436",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "vulnerability-severity-classification-roberta-base：text-classification 模型更新",
+    "summary": "HuggingFace 上 CIRCL/vulnerability-severity-classification-roberta-base 文本分类模型，下载量4878次，获11赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/CIRCL/vulnerability-severity-classification-roberta-base",
+    "publishedAt": "2026-10-06T17:21:33+00:00",
+    "tags": [
+      "huggingface",
+      "text-classification",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 4878,
+      "likes": 11
+    }
+  },
+  "8b2677530f46af3b09274f93bef0e14467409173950ed3fdac7ae8bdf11ccbed": {
+    "id": "8b2677530f46af3b09274f93bef0e14467409173950ed3fdac7ae8bdf11ccbed",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "一区大师剑魔对线主播狗头。教学出装思路",
+    "summary": "UP主 野犬剑魔 · 13,208播放 · 3:10",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117393334540963",
+    "publishedAt": "2026-10-06T09:54:18+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "野犬剑魔",
+      "play": 13208,
+      "bvid": "BV1wqpw6KEzq",
+      "duration": "3:10"
     }
   }
 }

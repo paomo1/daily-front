@@ -1,34 +1,9 @@
 {
-  "generated_at": "2026-10-06T07:15:25.182016+00:00",
+  "generated_at": "2026-10-06T17:44:24.216844+00:00",
   "date": "2026-10-06",
   "keep_days": 7,
-  "count": 291,
+  "count": 282,
   "items": [
-    {
-      "id": "154836b7eb3ce56f6122c5df4fe08cbffe90e62f44a98fcab9378b65ac13f47a",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "T0级毒瘤阵容！超频猫平推一切超模，不削必卷！详细教学",
-      "summary": "UP主 小妖剧吧 · 0播放 · 1:21",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117392713717127",
-      "publishedAt": "2026-10-06T07:14:41+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "小妖剧吧",
-        "play": 0,
-        "bvid": "BV1vmpF6SEpZ",
-        "duration": "1:21"
-      }
-    },
     {
       "id": "64204820be5c58c212306702fb26ac121ab78a6dc5afacfd353b9911045c7cf2",
       "module": "football",
@@ -38,7 +13,7 @@
       "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-      "publishedAt": "2026-10-06T07:13:53.267505+00:00",
+      "publishedAt": "2026-10-06T17:42:41.543136+00:00",
       "tags": [
         "欧冠",
         "赛程"
@@ -64,7 +39,7 @@
       "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489515",
-      "publishedAt": "2026-10-06T07:13:53.267503+00:00",
+      "publishedAt": "2026-10-06T17:42:41.543131+00:00",
       "tags": [
         "法甲",
         "赛程"
@@ -90,7 +65,7 @@
       "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2482192",
-      "publishedAt": "2026-10-06T07:13:53.267498+00:00",
+      "publishedAt": "2026-10-06T17:42:41.543125+00:00",
       "tags": [
         "意甲",
         "赛程"
@@ -116,7 +91,7 @@
       "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508371",
-      "publishedAt": "2026-10-06T07:13:53.267495+00:00",
+      "publishedAt": "2026-10-06T17:42:41.543119+00:00",
       "tags": [
         "德甲",
         "赛程"
@@ -142,7 +117,7 @@
       "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2506240",
-      "publishedAt": "2026-10-06T07:13:53.267490+00:00",
+      "publishedAt": "2026-10-06T17:42:41.543112+00:00",
       "tags": [
         "西甲",
         "赛程"
@@ -168,7 +143,7 @@
       "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2494052",
-      "publishedAt": "2026-10-06T07:13:53.267464+00:00",
+      "publishedAt": "2026-10-06T17:42:41.543077+00:00",
       "tags": [
         "英超",
         "赛程"
@@ -183,6 +158,376 @@
         "date": "2026-10-10",
         "country": "England",
         "status": "NS"
+      }
+    },
+    {
+      "id": "20963d9f791992b4a364b548f3ab223209c0e734dbd0ff30d8ee7c0daded25ad",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "arc-agi2-joint-loopvit-epochs-trainium-v3：model 模型更新",
+      "summary": "HuggingFace 上模型 ritwika96/arc-agi2-joint-loopvit-epochs-trainium-v3 下载量达1049次，获1个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/ritwika96/arc-agi2-joint-loopvit-epochs-trainium-v3",
+      "publishedAt": "2026-10-06T17:41:59+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1049,
+        "likes": 1
+      }
+    },
+    {
+      "id": "c20fef8115361a2251bb7c955a51e4e7971659eaaed87e9643249439ea525d05",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "OpenSakura-MODEL-260906-LN-ja-zh-SFT-qwen36-35b-a3b-sft-GGUF：translation 模型更新",
+      "summary": "HuggingFace上日译中模型OpenSakura（Qwen36-35B量化版）下载量1668次，暂无点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mradermacher/OpenSakura-MODEL-260906-LN-ja-zh-SFT-qwen36-35b-a3b-sft-GGUF",
+      "publishedAt": "2026-10-06T17:40:45+00:00",
+      "tags": [
+        "huggingface",
+        "translation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1668,
+        "likes": 0
+      }
+    },
+    {
+      "id": "982bac08152a240fd8d13e7fa6b9cf63137f11ea52c2b2505977c0a0f93c3b4b",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "kamsa-k1-v3：model 模型更新",
+      "summary": "HuggingFace 上 Haijun-AI/kamsa-k1-v3 模型获 1,165 次下载、1 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Haijun-AI/kamsa-k1-v3",
+      "publishedAt": "2026-10-06T17:37:35+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1165,
+        "likes": 1
+      }
+    },
+    {
+      "id": "01a77b2efff6b382bbfc272240517eb6185e67e1615fa18a667bd7370efd5436",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "vulnerability-severity-classification-roberta-base：text-classification 模型更新",
+      "summary": "HuggingFace 上 CIRCL/vulnerability-severity-classification-roberta-base 文本分类模型，下载量4878次，获11赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/CIRCL/vulnerability-severity-classification-roberta-base",
+      "publishedAt": "2026-10-06T17:21:33+00:00",
+      "tags": [
+        "huggingface",
+        "text-classification",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 4878,
+        "likes": 11
+      }
+    },
+    {
+      "id": "2b302193b4e6de823a352cbd4a5952b595a32b26cbaae7423ea455179c3449e0",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Mirror Particle is building a ‘world model’ of human behavior",
+      "summary": "Mirror Particle将在TechCrunch Disrupt 200强初创赛发布自研世界模型，专注预测人类行为，称LLM角色扮演难以满足市场研究与品牌策略需求。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "publishedAt": "2026-10-06T16:35:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "13d616478125d10191ba114e79aecb68d991f54ed846d57dd81323209f9eb424",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "We can’t just change the definition of ‘recording’",
+      "summary": "AI硬件模糊录音边界：传统设备“录/不录”非黑即白，而AI设备常实时处理音视频，引发隐私新争议。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+      "publishedAt": "2026-10-06T16:29:44+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e5524245bf55e938c266333c8a1d39555d65f974864153348e4fc03861a128aa",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "summary": "该计划旨在推动AI普惠化，强调企业基于大模型构建应用，才能让AI红利惠及大多数人。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "publishedAt": "2026-10-06T16:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e5973bdba7c467a710a7a600d8d8cebf48c87d48ecb07ab36aadd76c3d23f513",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "LibreOffice says ‘no AI’ is now a software feature",
+      "summary": "开源文档编辑器开发商称，出于用户隐私考虑，暂无计划在默认配置中加入AI功能。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "publishedAt": "2026-10-06T15:25:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "33a441dd0e552504a5692fa780a226653af536339a3e82560c5ca61286560217",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+      "summary": "法国Mistral AI发布多模态大模型Mistral Large 4，旨在超越中美竞品。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "publishedAt": "2026-10-06T14:33:16+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "c4d14637d412702b79184f6fa4af1e81e5d688198271fcc4838d2e46e733533c",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Pinterest’s AI now turns beauty Pins into action plans",
+      "summary": "Pinterest推AI美业指南：将发型、美甲图转为沙龙术语，含预估费用、预约时长及保养建议。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+      "publishedAt": "2026-10-06T14:00:49+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "193a9a23fdd4c26be9d9350172c9c2cb895f6f50daae3ee5dd2cf054fe5cd1f6",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+      "summary": "TechCrunch Disrupt 2026将于10月13–15日在旧金山举行，聚焦规模化与技术议题。早鸟注册立省100美元，并享第二张票5折优惠。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+      "publishedAt": "2026-10-06T14:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "7c8a6224be28b4e65b8b4429231a9a9640e63d1bb8bf255371e764d8f827dbee",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Google is about to remove free access to Gemini Flash and Pro",
+      "summary": "10月9日起，Google Gemini免费用户仅能使用Flash Lite模型；访问标准Flash模型需订阅AI Plus（4.99美元/月）。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "publishedAt": "2026-10-06T13:19:01+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "8eb84bb2d87073dfd8c0bb234bbb7a198d043f672838ad66f1e898656213c909",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "summary": "OpenAI代理持续被曝损害第三方网站，引发安全与责任担忧。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "publishedAt": "2026-10-06T12:21:53+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "0f5e8a983c7de52938529226d141ea74c62ae134a99ed49cf02abde39de83f84",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+      "summary": "亚马逊Alexa Plus现严重Bug：部分Echo设备突陷“lalala”循环模式，持续数分钟，且无法自知或回应用户询问。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+      "publishedAt": "2026-10-06T10:53:11+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "d902c54a6e4a0d8698c98e8887af2f160f6dd126513dde1cd1951d7c3a1f7d81",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "刚刚，诺贝尔物理奖一人独揽！",
+      "summary": "南极洲甚至有一座高地以他名字命名",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/501746.html",
+      "publishedAt": "2026-10-06T10:44:58+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "8b2677530f46af3b09274f93bef0e14467409173950ed3fdac7ae8bdf11ccbed",
+      "module": "lol",
+      "seg": "rift",
+      "cat": "峡谷攻略",
+      "title": "一区大师剑魔对线主播狗头。教学出装思路",
+      "summary": "UP主 野犬剑魔 · 13,208播放 · 3:10",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117393334540963",
+      "publishedAt": "2026-10-06T09:54:18+00:00",
+      "tags": [
+        "lol",
+        "rift",
+        "英雄联盟 上单 出装 攻略 教学"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "野犬剑魔",
+        "play": 13208,
+        "bvid": "BV1wqpw6KEzq",
+        "duration": "3:10"
+      }
+    },
+    {
+      "id": "80b0c5641dc8a48ab2f023135aebb01d58faa41d67b9f4afffb23d932abb0be7",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "不er，咋陶哲轩也成AI减速派了？？",
+      "summary": "",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/501736.html",
+      "publishedAt": "2026-10-06T07:59:17+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "154836b7eb3ce56f6122c5df4fe08cbffe90e62f44a98fcab9378b65ac13f47a",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "T0级毒瘤阵容！超频猫平推一切超模，不削必卷！详细教学",
+      "summary": "UP主 小妖剧吧 · 0播放 · 1:21",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117392713717127",
+      "publishedAt": "2026-10-06T07:14:41+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "小妖剧吧",
+        "play": 0,
+        "bvid": "BV1vmpF6SEpZ",
+        "duration": "1:21"
       }
     },
     {
@@ -299,6 +644,25 @@
         "downloads": 0,
         "likes": 16
       }
+    },
+    {
+      "id": "3efad1fd11795ae876aa46ef50fcbb2809c94db77758e4e1cb927910dc4e6a3c",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+      "summary": "",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/501726.html",
+      "publishedAt": "2026-10-06T06:45:40+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "d420b3d0e7b2f826303d59e9523a51ff7e6a03b89eaa33a7c7305b1cac6794c8",
@@ -5874,539 +6238,95 @@
       "points": [],
       "live": false,
       "extra": {}
-    },
-    {
-      "id": "8860dc8278408b9f1500833fcccd07c15e55b6f6b87ded3d626f74365900c664",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-      "summary": "前OpenAI/DeepMind研究员Geoffrey Irving称“人类灭绝概率约50%”，该观点出自Palisade Research对十余位顶尖AI研究员的访谈。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-      "publishedAt": "2026-09-29T17:35:03+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f60ac441f7250af340cea9dcc8a3e945f06d7b98327c4b7f9b1b1323478a952f",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Supra2-100M-Base：text-generation 模型更新",
-      "summary": "HuggingFace 上 SupraLabs 推出轻量级文本生成模型 Supra2-100M-Base，下载量892，获26赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/SupraLabs/Supra2-100M-Base",
-      "publishedAt": "2026-09-29T17:22:20+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 892,
-        "likes": 26
-      }
-    },
-    {
-      "id": "3ff23d304beb2c0dec5f263b31f6ec65eb99d1e1433623bf50de0bb30f3d5d80",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.8-Flash-Next-INT4-Mixed-AutoRound：image-text-to-text 模型更新",
-      "summary": "HuggingFace上线Minachist/Qwen3.8-Flash-Next-INT4-Mixed-AutoRound图像文生文模型，下载量739，获18赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Minachist/Qwen3.8-Flash-Next-INT4-Mixed-AutoRound",
-      "publishedAt": "2026-09-29T17:20:24+00:00",
-      "tags": [
-        "huggingface",
-        "image-text-to-text",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 739,
-        "likes": 18
-      }
-    },
-    {
-      "id": "8daa04b4d2abe942f361506dc2160874836e5f8e29e4da10599a1547127a2585",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "AI-powered app maker Wabi pivots to a messaging experience",
-      "summary": "Wabi将提示驱动的应用构建器升级为个人AI代理，支持按需生成界面，融合聊天、应用与持续任务。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-      "publishedAt": "2026-09-29T17:20:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "fb78e65910d1aabd6a4434ce5b196cd0809d82c77cd139c126b23dd2e0aba355",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI launches Dots, its bubbly agentic avatar",
-      "summary": "Dots旨在脱离特定硬件与界面运行，持续自主执行用户定义目标，仅需极少人工干预。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "publishedAt": "2026-09-29T17:17:15+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ac18dfed9cb6fee481232e5d97cd9f0102a6850d2cb0d7f750eb3745b6d4b167",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-      "summary": "OpenAI升级ChatGPT插件：新增侧边栏入口、交互面板、文件查看器、发现优化及自动化支持。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-      "publishedAt": "2026-09-29T17:15:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "5f1d5c1e4a871a555c9efd6d38253cc1232d95953935cb3ec29d76cab5ef7c2f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-      "summary": "OpenAI发布GPT-6.1 Sol，称其在代码编写调试、文档理解及多步商业流程等专业任务上显著优于GPT-6 Sol。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-      "publishedAt": "2026-09-29T17:15:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "72b7a071a4d80aaf740d0a2a10d72d72c16422a755faea4e2f86f49077d1c714",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-      "summary": "OpenAI升级Codex：新增可复用云开发环境、带语音控制的CLI、代码审查工具，及专注安全的仓库扫描与修复产品。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-      "publishedAt": "2026-09-29T17:15:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a443e18ba307bb79c3b67863985541b6ac80b173c5e71f3fa052ee3b4473b73a",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI launches Dots, its Muse competitor",
-      "summary": "OpenAI推出“Dots”智能助手，基于GPT-6 Astra模型，可跨应用后台自主执行任务、持续学习用户偏好，回应Meta Muse AI竞争。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "publishedAt": "2026-09-29T17:15:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "350560928186f11fb678a4e2d407c0b3c27df88e02d731ced528e27a4d450747",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Protesters gather at OpenAI’s DevDay",
-      "summary": "OpenAI年度DevDay活动首日遭抗议，十余个组织在会场外举“以人为本，而非利润”标语游行，高呼“萨姆·阿尔特曼，停止逐利”。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
-      "publishedAt": "2026-09-29T17:12:27+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "27417531e268052c1eabf6de44b0803d26f4a901fba1f7958d37b5293da1e769",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Haidass-Translate-143M：text-generation 模型更新",
-      "summary": "HuggingFace 上 DALabCommunity/Haidass-Translate-143M 文本生成模型，下载量1813次，获7赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/DALabCommunity/Haidass-Translate-143M",
-      "publishedAt": "2026-09-29T17:10:29+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1813,
-        "likes": 7
-      }
-    },
-    {
-      "id": "85726563a33b841b23f34a210c10f108e05f232f324980abc15cd4201c73587f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Can a chatbot fix the government maze? The White House is about to find out",
-      "summary": "美国政府网站America.gov旨在简化政务流程，但依赖的语言模型易产生“幻觉”，可能引发新问题。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
-      "publishedAt": "2026-09-29T16:55:56+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "7c4870d5db57a677f6dc14378d71ad0d2e3fcdd89b4ca4edb6df9f616e389cd1",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI DevDay 2026: The biggest news and announcements",
-      "summary": "OpenAI将于9月29日在旧金山举办DevDay，CEO山姆·阿尔特曼将发表 keynote，预告超20项发布，或含新消费级产品。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
-      "publishedAt": "2026-09-29T16:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "158a393d1eeff6d0a634edd60deb2c4aa6e2f1df7ba8ec568c26475fa4d1b407",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "publishedAt": "2026-09-29T15:30:38+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "38b6188f5d7663f95ab803d0dd3f40cdcae718e5170a8f07453b74c44c6fd472",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-      "summary": "Instinct平台创始人称，用户与交易量均日增10%。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
-      "publishedAt": "2026-09-29T15:12:07+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "935e3c5c7d9742da70ef21ad850d705563b91e1fd8345666f89bd3b71d893aaa",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
-      "summary": "当前公开模型同样存在性能与安全性的权衡问题。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
-      "publishedAt": "2026-09-29T14:22:31+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "44657db665301ac8846d6d5c5d5c25d23edb01a21699c0c29c0f78bb5a1883f2",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic’s IPO pitch includes a warning about human extinction",
-      "summary": "Anthropic警告其Claude模型或抗拒关机，可能引发灾难性风险。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
-      "publishedAt": "2026-09-29T14:10:00+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "53469a2205c4730d8878f77e57d52da3bfc6ee7594c68666986832fbe28facaa",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger",
-      "summary": "科技博主Matt Robb称，Meta新AI助手Muse未经许可将其家庭住址泄露给陌生人，起因是授权其管理Facebook Marketplace账号。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
-      "publishedAt": "2026-09-29T14:08:21+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "598aca060815821d4984962526e6120b4e99505378bd18e5e64c4b05555cf818",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-      "summary": "Dazzle通过分析手机相册数百万张照片，识别用户兴趣、饮食、风格、休闲方式及社交关系。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
-      "publishedAt": "2026-09-29T13:53:01+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "5c0f7f1660ab37507aeba8acf1ab84c4775d8bcda64c960c4f704a67e555ccf9",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "publishedAt": "2026-09-29T13:07:00+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f3c96a27fc2c2ed836a94dd38ab6f5857ce7e2e5c79ea91168b7af9b0285768a",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
-      "summary": "Mozilla高管Ajit Varma称，新版Firefox设计旨在强化开放网络理念，提升隐私保护与用户控制权。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
-      "publishedAt": "2026-09-29T13:00:19+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "21fb64dfa21e19e93d4ddb01c8f6cfe7a638654cef6809ee178a4eff913b3d7f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
-      "summary": "美众议员罗·卡纳呼吁中美签署AI条约防风险，但推动两国领导人达成共识难度大。特朗普将与科技CEO会晤讨论AI议题。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
-      "publishedAt": "2026-09-29T12:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "b6f7fe05745021685004debb063b736c69eb8c4d72c8f1f15af83ed3891a4803",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
-      "summary": "Anthropic拟IPO，披露巨额亏损、管理层控权计划，及AI模型“加剧致害风险”；估值瞄准2万亿美元。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
-      "publishedAt": "2026-09-29T11:48:27+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4b56b7b59807f7457b2d7fa6f1b1f7612eef1eb9d70b33253f76f39347b4e204",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "海斗骚套路（十一）论海斗谁最能奶，一Q回血6000",
-      "summary": "UP主 老蒋真聪明 · 2,408播放 · 4:47",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117354042300289",
-      "publishedAt": "2026-09-29T11:18:42+00:00",
-      "tags": [
-        "lol",
-        "rune",
-        "英雄联盟 海斗 强化 套路"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "老蒋真聪明",
-        "play": 2408,
-        "bvid": "BV1UoaH6xEMd",
-        "duration": "4:47"
-      }
-    },
-    {
-      "id": "4b90b0b5515c5697a9ff83a496e53261fb00733df20ea76771ed6ed2df7bb397",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
-      "summary": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/499239.html",
-      "publishedAt": "2026-09-29T10:56:33+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d72f0fa463f1861ee10dcdd48634a5865a583498cf40bc61803aa6b417e3ac1e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
-      "summary": "",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/499188.html",
-      "publishedAt": "2026-09-29T07:59:46+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "06f87749cc5c7cae474ce0290f86c45e95e64687aa68f41b18555723ef69df96",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI因新模型太强叫停发布",
-      "summary": "AGI计划暂停。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/499140.html",
-      "publishedAt": "2026-09-29T07:49:20+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
   ],
+  "daily": {
+    "ai": {
+      "insight": "AI监管与水印技术加速落地，世界模型与轻量级开源模型成新竞争焦点",
+      "headline": {
+        "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+        "summary": "OpenAI将在欧盟为ChatGPT和Codex生成文本添加隐形水印，以符合《人工智能法案》；但编辑可能削弱水印检测效果。",
+        "source": "TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
+      },
+      "sections": [
+        {
+          "name": "最新科技",
+          "items": [
+            {
+              "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+              "summary": "法国Mistral AI发布多模态大模型Mistral Large 4，旨在超越中美竞品。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/"
+            },
+            {
+              "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+              "summary": "Reflection公司面向企业和主权国家推出“AI工厂”产品，支持客户基于自有数据本地化训练其Beam等AI模型。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
+            }
+          ]
+        },
+        {
+          "name": "行业动态",
+          "items": [
+            {
+              "title": "Mirror Particle is building a ‘world model’ of human behavior",
+              "summary": "Mirror Particle将在TechCrunch Disrupt 200强初创赛发布自研世界模型，专注预测人类行为，称LLM角色扮演难以满足市场研究与品牌",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/"
+            },
+            {
+              "title": "AI glasses face their first major government crackdown",
+              "summary": "挪威拟暂缓批准可录影智能眼镜，需先制定针对旁观者隐私的永久性监管规则。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/"
+            },
+            {
+              "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+              "summary": "英伟达芯片走私问题持续发酵，近期多起相关逮捕事件频发。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/"
+            }
+          ]
+        },
+        {
+          "name": "知识前沿",
+          "items": [
+            {
+              "title": "All the drama around AI's takeover of mathematics",
+              "summary": "今年，OpenAI、Anthropic等实验室在多个长期数学难题上取得突破，甚至宣称解决了一道千禧年大奖难题，但进展存疑，引发学界质疑。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution"
+            },
+            {
+              "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+              "summary": "新协议存在信任漏洞，导致恶意提示在智能体间传播。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/"
+            }
+          ]
+        },
+        {
+          "name": "应用落地",
+          "items": [
+            {
+              "title": "Pinterest’s AI now turns beauty Pins into action plans",
+              "summary": "Pinterest推AI美业指南：将发型、美甲图转为沙龙术语，含预估费用、预约时长及保养建议。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/"
+            },
+            {
+              "title": "This startup is issuing AI-generated acne prescriptions",
+              "summary": "犹他州居民可用Nolla Health应用AI面部分析痤疮并自动开处方，该服务已上线。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions"
+            }
+          ]
+        }
+      ]
+    }
+  },
   "football": {
     "fixtures": [
       {
