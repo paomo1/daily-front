@@ -23065,7 +23065,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-    "publishedAt": "2026-10-07T06:53:05.564294+00:00",
+    "publishedAt": "2026-10-07T18:14:36.592469+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -36500,7 +36500,7 @@
     "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2494052",
-    "publishedAt": "2026-10-07T06:53:05.564242+00:00",
+    "publishedAt": "2026-10-07T18:14:36.592409+00:00",
     "tags": [
       "英超",
       "赛程"
@@ -36526,7 +36526,7 @@
     "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2506240",
-    "publishedAt": "2026-10-07T06:53:05.564276+00:00",
+    "publishedAt": "2026-10-07T18:14:36.592443+00:00",
     "tags": [
       "西甲",
       "赛程"
@@ -36552,7 +36552,7 @@
     "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2508371",
-    "publishedAt": "2026-10-07T06:53:05.564282+00:00",
+    "publishedAt": "2026-10-07T18:14:36.592451+00:00",
     "tags": [
       "德甲",
       "赛程"
@@ -36578,7 +36578,7 @@
     "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2482192",
-    "publishedAt": "2026-10-07T06:53:05.564286+00:00",
+    "publishedAt": "2026-10-07T18:14:36.592457+00:00",
     "tags": [
       "意甲",
       "赛程"
@@ -36604,7 +36604,7 @@
     "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2489515",
-    "publishedAt": "2026-10-07T06:53:05.564291+00:00",
+    "publishedAt": "2026-10-07T18:14:36.592463+00:00",
     "tags": [
       "法甲",
       "赛程"
@@ -53926,6 +53926,535 @@
         "cs.LG",
         "cs.AI"
       ]
+    }
+  },
+  "c9c4c3d7417f1ce68c05e49f3031374f9e31f9ea2381e6e237d250c050c5ae67": {
+    "id": "c9c4c3d7417f1ce68c05e49f3031374f9e31f9ea2381e6e237d250c050c5ae67",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+    "summary": "OpenAI推出ChatGPT新界面，支持交互式可视化功能。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+    "publishedAt": "2026-10-07T18:00:19+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "34b74cefbd0e1861136fee2f1c0abbd299617b9d598360bb8f6d33ce927f241d": {
+    "id": "34b74cefbd0e1861136fee2f1c0abbd299617b9d598360bb8f6d33ce927f241d",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+    "summary": "Meta推出新AI工具，打击伪装正常实则导流至有害网站的广告。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+    "publishedAt": "2026-10-07T16:53:46+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "0b6e309b0c6707c0796d537ebdd9010a5992dccac77aeeda5701b2faadc01b44": {
+    "id": "0b6e309b0c6707c0796d537ebdd9010a5992dccac77aeeda5701b2faadc01b44",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+    "summary": "该公司完成两轮融资：800万美元种子轮（红杉资本与First Round Capital联合领投），3000万美元A轮（Hummingbird Ventures领投）。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+    "publishedAt": "2026-10-07T15:07:08+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "8628e485989d70cbb3e39a1daa63369720db1e00d72a235f5d2f4043ebe85a57": {
+    "id": "8628e485989d70cbb3e39a1daa63369720db1e00d72a235f5d2f4043ebe85a57",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+    "summary": "iPod之父称初代AI设备未解决实际问题，下一代需赢得用户信任。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+    "publishedAt": "2026-10-07T14:41:38+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "da69a4bfe715d434ea32cf6a88442cf8ae2935e09d7681452fe6939b5e247415": {
+    "id": "da69a4bfe715d434ea32cf6a88442cf8ae2935e09d7681452fe6939b5e247415",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Google experiments with an AI-powered gaming platform",
+    "summary": "谷歌实验室推出AI游戏创作平台Playground，用户可通过文本提示在浏览器中快速生成游戏。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+    "publishedAt": "2026-10-07T14:36:23+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "37c7823f1e50b26d27e56e956d6a56c2091c367c431e5ffb7689d210f95ca4de": {
+    "id": "37c7823f1e50b26d27e56e956d6a56c2091c367c431e5ffb7689d210f95ca4de",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+    "summary": "OpenAI高管Alexander Embiricos将出席2026年TechCrunch Disrupt AI舞台，正值Dots发布后数日。购票立省100美元，第二张五折。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+    "publishedAt": "2026-10-07T14:30:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "3c22669392469b890b426bac8052c2c2f1a6380d0c7f1bdaf02188cd5a42b084": {
+    "id": "3c22669392469b890b426bac8052c2c2f1a6380d0c7f1bdaf02188cd5a42b084",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+    "summary": "Nvidia、Chime、Obvious Ventures、Anthropic等将出席TechCrunch Disrupt 2026圆桌论坛；早鸟注册立省100美元，第二张票5折。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+    "publishedAt": "2026-10-07T14:15:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "b5c41611bbb65d70a7aeb938969f039eb57c6f72a75a75b17555becebfb26afd": {
+    "id": "b5c41611bbb65d70a7aeb938969f039eb57c6f72a75a75b17555becebfb26afd",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Google’s new SynthID website can identify AI-generated media",
+    "summary": "谷歌周二上线新网站，支持用户免费验证图片、视频、音频是否为AI生成。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+    "publishedAt": "2026-10-07T14:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "6839e1e1a956445abb5fc8d6a999ae5ec8f6a3c18c132c4d732e46b646ab7072": {
+    "id": "6839e1e1a956445abb5fc8d6a999ae5ec8f6a3c18c132c4d732e46b646ab7072",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Microsoft is giving Copilot more control over Windows and your files",
+    "summary": "微软在Win/Surface活动推出Copilot升级：支持访问本地文件、跨系统操作，属“混合智能”新理念。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+    "publishedAt": "2026-10-07T18:01:20+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "2e77bbce6705a37689b4cfa1d68f3f78f8f660bf0b6c0b7699d6ef56cf9e6063": {
+    "id": "2e77bbce6705a37689b4cfa1d68f3f78f8f660bf0b6c0b7699d6ef56cf9e6063",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+    "summary": "微软推出NVIDIA驱动的Surface RTX Spark Dev Box，售价约6000美元，11月发货，采用3D打印阳极氧化机身。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+    "publishedAt": "2026-10-07T17:46:44+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "b9e9265cfe6e08d0971e894da1db5a581a35369f7c1fe569419d0219dfb9dab1": {
+    "id": "b9e9265cfe6e08d0971e894da1db5a581a35369f7c1fe569419d0219dfb9dab1",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "ChatGPT is getting college planning tools",
+    "summary": "OpenAI为青少年版ChatGPT推出“大学申请规划师”，整合目标院校的申请要求、截止日期、任务清单及助学金步骤，助力学生高效备考。（59字）",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+    "publishedAt": "2026-10-07T16:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "ada3da7cb99cbd36edc9006985acf1bfda194529332eeca4c84c1c8827db8a0a": {
+    "id": "ada3da7cb99cbd36edc9006985acf1bfda194529332eeca4c84c1c8827db8a0a",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Muse launches on the iPad",
+    "summary": "Meta Muse iOS app, top free App Store app for weeks, now adds native iPad support; Mac version also launched to compete with OpenClaw, ChatGPT Dots, Grok Bot。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+    "publishedAt": "2026-10-07T15:37:23+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "1237d9085450c72eebd243a5a520391efc003029296f7964cbb682decbac603a": {
+    "id": "1237d9085450c72eebd243a5a520391efc003029296f7964cbb682decbac603a",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+    "summary": "谷歌DeepMind、Meta与Isomorphic Labs联合投资3亿美元，携手Biohub（扎克伯格夫妇创办）共建“虚拟细胞”项目，助力疾病研究。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+    "publishedAt": "2026-10-07T14:40:52+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "fa3fa4de3bd8a20513f2e3d3822bb6ac244f5dfcc6aae3676577a372916a5c62": {
+    "id": "fa3fa4de3bd8a20513f2e3d3822bb6ac244f5dfcc6aae3676577a372916a5c62",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "AI could upend food delivery",
+    "summary": "DoorDash二季度处理9.7亿订单，营收45亿美元；初创公司Bites仅在旧金山湾区签约约300家餐厅，处于pre-seed阶段。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+    "publishedAt": "2026-10-07T12:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "21564d2eb9187152261812b1a83b832284c7dc6c84c27be4393494fa18c2cfbf": {
+    "id": "21564d2eb9187152261812b1a83b832284c7dc6c84c27be4393494fa18c2cfbf",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+    "summary": "美非营利组织Common Sense Media称OpenAI“青少年版ChatGPT”存在“不可接受风险”，虽设防护措施，但仍担忧其对青少年安全构成威胁。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+    "publishedAt": "2026-10-07T09:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "aeae7e35bdfccaa62f06d5da97d62b744f2cc9b7b0fb0092962eb52b94eb3c40": {
+    "id": "aeae7e35bdfccaa62f06d5da97d62b744f2cc9b7b0fb0092962eb52b94eb3c40",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+    "summary": "男子利用AI伪造艺人身份骗取音乐流媒体版税800万美元，被判18个月监禁。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
+    "publishedAt": "2026-10-07T17:57:39+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "93bfaf7fe7e0f7468e73214f7b7334dd64df9a6aaaada62d7558eaa88e9eeaa0": {
+    "id": "93bfaf7fe7e0f7468e73214f7b7334dd64df9a6aaaada62d7558eaa88e9eeaa0",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+    "summary": "Mistral称开源模型Le Chonk性能媲美顶级闭源模型，且保持开放权重。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
+    "publishedAt": "2026-10-07T14:12:37+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "572cacdb1ab2a19aa12042f1ebb8b72e78e4221a6440eeabce22c5864d8dff80": {
+    "id": "572cacdb1ab2a19aa12042f1ebb8b72e78e4221a6440eeabce22c5864d8dff80",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Google rolls out improved SynthID AI content detector, now available globally",
+    "summary": "SynthID新网站上线，可识别谷歌、OpenAI等多家厂商生成的AI内容。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+    "publishedAt": "2026-10-07T14:00:08+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "bed98c01920108b4cc6510ee7caa6b845f2a9df6fd7fc1dfbaa77293604c988c": {
+    "id": "bed98c01920108b4cc6510ee7caa6b845f2a9df6fd7fc1dfbaa77293604c988c",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
+    "summary": "",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501825.html",
+    "publishedAt": "2026-10-07T14:10:33+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "448c4ac0e95775ce528e7c46e98b5335859a3ce215bf6d0066c8b76b4d7d4bdb": {
+    "id": "448c4ac0e95775ce528e7c46e98b5335859a3ce215bf6d0066c8b76b4d7d4bdb",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+    "summary": "",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501803.html",
+    "publishedAt": "2026-10-07T11:34:47+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "8108d855680c263dd36cd248f9846eb18742dca6a3f5a431ac0050eec4ad2460": {
+    "id": "8108d855680c263dd36cd248f9846eb18742dca6a3f5a431ac0050eec4ad2460",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "晕…这年头还有说人话的AI不",
+    "summary": "",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501796.html",
+    "publishedAt": "2026-10-07T08:41:13+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "524170638c6441b0c26730454c74784a7c2275bb284c56293b4a522d9eecde5c": {
+    "id": "524170638c6441b0c26730454c74784a7c2275bb284c56293b4a522d9eecde5c",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+    "summary": "a16z首份消费级AI应用月收入榜发布，Meshy位列第31，与OpenAI、Anthropic、Canva等同列。",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501791.html",
+    "publishedAt": "2026-10-07T06:39:36+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "440bfb167c2d05641b33ce1e8153f524561769f9975d92eb2a7208427df7bcb2": {
+    "id": "440bfb167c2d05641b33ce1e8153f524561769f9975d92eb2a7208427df7bcb2",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Multimodal open d1 decision models for the edge",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "sourceUrl": "https://huggingface.co/blog/LiquidAI/open-d1",
+    "publishedAt": "2026-10-07T16:54:33+00:00",
+    "tags": [
+      "ai-news",
+      "HuggingFace Blog"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "ce4feddcf7e8c6fdd182b989514fc658bcbd19ee6d7279a91796b20462442bf5": {
+    "id": "ce4feddcf7e8c6fdd182b989514fc658bcbd19ee6d7279a91796b20462442bf5",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "publishedAt": "2026-10-07T12:45:31+00:00",
+    "tags": [
+      "ai-news",
+      "HuggingFace Blog"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "bb6e53c8c3bb103f10f06af3257080f3cd9763f73099ef5db2f020edd16448ae": {
+    "id": "bb6e53c8c3bb103f10f06af3257080f3cd9763f73099ef5db2f020edd16448ae",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "qwen-metaphor-unke：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 luisastellet/qwen-metaphor-unke 下载量2008次，获0点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/luisastellet/qwen-metaphor-unke",
+    "publishedAt": "2026-10-07T18:15:05+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 2008,
+      "likes": 0
+    }
+  },
+  "2cecad64393d2b1be92953b9e69c0e882a6bbac85e028ec4c6d04c3ef4d0aacd": {
+    "id": "2cecad64393d2b1be92953b9e69c0e882a6bbac85e028ec4c6d04c3ef4d0aacd",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "海斗骚套路（十二）论蛮王猎魔人为什么最暴力，一刀血条消失",
+    "summary": "UP主 老蒋真聪明 · 1,949播放 · 2:43",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117399995029463",
+    "publishedAt": "2026-10-07T14:06:30+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 强化 套路"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "老蒋真聪明",
+      "play": 1949,
+      "bvid": "BV1mRHy6fE8C",
+      "duration": "2:43"
+    }
+  },
+  "3991576939746f055f73859bee94aa8f9be691025b370461f414df7a35791cf0": {
+    "id": "3991576939746f055f73859bee94aa8f9be691025b370461f414df7a35791cf0",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "海斗中哪个英雄的无限技能是你最想玩的？",
+    "summary": "UP主 英雄联盟--蛋妮维雅 · 5,832播放 · 4:12",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117398535411103",
+    "publishedAt": "2026-10-07T08:00:55+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 强化 套路"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "英雄联盟--蛋妮维雅",
+      "play": 5832,
+      "bvid": "BV1o7pM6GEov",
+      "duration": "4:12"
     }
   }
 }
