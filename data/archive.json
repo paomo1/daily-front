@@ -23065,7 +23065,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-    "publishedAt": "2026-10-08T07:01:38.263078+00:00",
+    "publishedAt": "2026-10-08T18:16:11.981493+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -36500,7 +36500,7 @@
     "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2494052",
-    "publishedAt": "2026-10-08T07:01:38.263024+00:00",
+    "publishedAt": "2026-10-08T18:16:11.981432+00:00",
     "tags": [
       "英超",
       "赛程"
@@ -36526,7 +36526,7 @@
     "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2506240",
-    "publishedAt": "2026-10-08T07:01:38.263056+00:00",
+    "publishedAt": "2026-10-08T18:16:11.981471+00:00",
     "tags": [
       "西甲",
       "赛程"
@@ -36552,7 +36552,7 @@
     "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2508371",
-    "publishedAt": "2026-10-08T07:01:38.263063+00:00",
+    "publishedAt": "2026-10-08T18:16:11.981478+00:00",
     "tags": [
       "德甲",
       "赛程"
@@ -36578,7 +36578,7 @@
     "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2482192",
-    "publishedAt": "2026-10-08T07:01:38.263068+00:00",
+    "publishedAt": "2026-10-08T18:16:11.981483+00:00",
     "tags": [
       "意甲",
       "赛程"
@@ -36604,7 +36604,7 @@
     "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2489515",
-    "publishedAt": "2026-10-08T07:01:38.263073+00:00",
+    "publishedAt": "2026-10-08T18:16:11.981489+00:00",
     "tags": [
       "法甲",
       "赛程"
@@ -55312,6 +55312,627 @@
       "play": 22,
       "bvid": "BV1zRHm64Eoo",
       "duration": "0:32"
+    }
+  },
+  "b7adc727b428592db6283f9b5f61ea80bf5030d73ec8d06f01cade4984f55899": {
+    "id": "b7adc727b428592db6283f9b5f61ea80bf5030d73ec8d06f01cade4984f55899",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+    "summary": "OpenAI大量数学证明偏离了前沿实验室咨询的数学研究团队所制定的指南。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+    "publishedAt": "2026-10-08T18:10:55+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "566cc818865cde6bc72971fdc104b345a4e3c5aca609fcd565a0ccad2646d509": {
+    "id": "566cc818865cde6bc72971fdc104b345a4e3c5aca609fcd565a0ccad2646d509",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Natura’s $99 smart ring puts AI agents on your finger",
+    "summary": "Natura推出99美元智能指环，按压即可召唤AI助手完成任务、记录想法、控制设备，并兼具健康监测功能。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+    "publishedAt": "2026-10-08T16:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "96219a2e75b9d6c7aef4d8e9d796e54c272f7c9cb5ffd56583b2e08793d9a335": {
+    "id": "96219a2e75b9d6c7aef4d8e9d796e54c272f7c9cb5ffd56583b2e08793d9a335",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+    "summary": "Goodfire推出新型AI监管方案：实时监控模型内部运行，仅异常时调用备用AI，降低成本。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+    "publishedAt": "2026-10-08T16:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "1176c63fb662faf58e61e8eddef625733238fb0690e12afcde2b8c76478e99e4": {
+    "id": "1176c63fb662faf58e61e8eddef625733238fb0690e12afcde2b8c76478e99e4",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+    "summary": "Ambrosia Energy CEO Ben Longmier与Bloom Energy SVP Bill Thayer将亮相TechCrunch Disrupt智能系统舞台；早鸟注册立省100美元，第二张同价票再打5折。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+    "publishedAt": "2026-10-08T15:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "6ba2faa5de9393c27493c1e822146163834af3f40d4a21cc33cdbb27b81d1b6a": {
+    "id": "6ba2faa5de9393c27493c1e822146163834af3f40d4a21cc33cdbb27b81d1b6a",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+    "summary": "TechCrunch Disrupt 2026将于10月13–15日在旧金山Moscone West举行，购票立省100美元，第二张同类型票享5折。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
+    "publishedAt": "2026-10-08T14:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "943cae635d31e7d4d55d0694c1ed53c76ac96e0106983c59c92770564e66d269": {
+    "id": "943cae635d31e7d4d55d0694c1ed53c76ac96e0106983c59c92770564e66d269",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+    "summary": "17岁少年Zach Yadegari（Cal AI联合创始人）推出新AI代理初创公司，竞逐Instinct、Muse和Bee。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+    "publishedAt": "2026-10-08T14:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "52446f0fc9f78561bb49b45b67848800299d52bcec0eac9c595acd27eaad49ed": {
+    "id": "52446f0fc9f78561bb49b45b67848800299d52bcec0eac9c595acd27eaad49ed",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Google releases a new local-first Granola competitor",
+    "summary": "谷歌推AI Edge Foresight应用，离线会议记录：实时转录、生成笔记、问答，全靠端侧AI，对标Granola。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+    "publishedAt": "2026-10-08T13:28:39+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "f713a7e7e5c2353768888fdb1cb9a64e60a9bc5d9c9bc6d8650446fe0db20415": {
+    "id": "f713a7e7e5c2353768888fdb1cb9a64e60a9bc5d9c9bc6d8650446fe0db20415",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+    "summary": "博裕资本与IDG资本领投本轮融资，腾讯、红杉中国（原赛富）、真格基金等老股东跟投。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+    "publishedAt": "2026-10-08T13:20:32+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "3e575fdc8fcb69869bf5ee1544ddaa3a2380fb87708b4de4a32b686cf45c7f27": {
+    "id": "3e575fdc8fcb69869bf5ee1544ddaa3a2380fb87708b4de4a32b686cf45c7f27",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "USA Today becomes the latest publisher to sue OpenAI",
+    "summary": "《今日美国》及其旗下地方报纸起诉OpenAI，称其未经许可使用“数十万篇”文章训练AI，索赔超2.5亿美元。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+    "publishedAt": "2026-10-08T17:58:33+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "3555bb487dd84751bc9c000925f9f519e7704d5bbacd246d14efdf81246e6814": {
+    "id": "3555bb487dd84751bc9c000925f9f519e7704d5bbacd246d14efdf81246e6814",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+    "summary": "SpaceXAI加入Omacom基金会，成为Omarchy Linux发行版的创始企业赞助商，并捐赠150万美元Grok代币。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
+    "publishedAt": "2026-10-08T17:57:01+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "2f870f2ecc2be89f4046dc2df42b75e4e7f549d34ad0a690e5d2719a630cdb15": {
+    "id": "2f870f2ecc2be89f4046dc2df42b75e4e7f549d34ad0a690e5d2719a630cdb15",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+    "summary": "Anthropic首次年余更新使用政策，新增禁令：禁止对Claude实施“持续且无谓的虐待或残忍行为”，并严控选举干预、武器开发等高风险滥用。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+    "publishedAt": "2026-10-08T17:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "eb420823f04e9c3b36404c878635c637e5a405f2c5346268d0edba1fee9fca56": {
+    "id": "eb420823f04e9c3b36404c878635c637e5a405f2c5346268d0edba1fee9fca56",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+    "summary": "谷歌推出离线AI记事应用Foresight，基于端侧EmbeddingGemma 2模型，支持会议/音频转录与摘要，免费、仅限macOS。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+    "publishedAt": "2026-10-08T15:27:30+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "9d432ff1129eba415b4d83d165e7480e19a3cee1c989a9ac1ec27587d8f2d914": {
+    "id": "9d432ff1129eba415b4d83d165e7480e19a3cee1c989a9ac1ec27587d8f2d914",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Google is launching a one-stop Gemini agent for your work tasks",
+    "summary": "谷歌推出“通用”Gemini AI代理，支持跨应用和设备后台运行，将于Gemini Enterprise应用中上线，用户可通过单一界面聊天并分配任务。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+    "publishedAt": "2026-10-08T14:28:03+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "0d5b7b4ec975f088fd822a7fd3d5882f61f22410e98eb3168ec5f2cb77636a27": {
+    "id": "0d5b7b4ec975f088fd822a7fd3d5882f61f22410e98eb3168ec5f2cb77636a27",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
+    "summary": "本期《My Decoder》嘉宾为《The Verge》AI资深记者Hayden Field，探讨消费级AI代理新趋势，提及OpenClaw等自建方案曾带动Mac Mini销量激增。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+    "publishedAt": "2026-10-08T14:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "981988ee89748fab1b4905d843cdb289a45040b7769d68eae2f21b9c3f3fad2d": {
+    "id": "981988ee89748fab1b4905d843cdb289a45040b7769d68eae2f21b9c3f3fad2d",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Artificial is a wicked satire that also sticks to the facts",
+    "summary": "卢卡·瓜达尼诺在纽约电影节首映其讽刺片《人工》（影射山姆·阿尔特曼）时称：“有人想扮演上帝，这令我着迷。”影片聚焦权力欲望与失控。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
+    "publishedAt": "2026-10-08T14:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "aa6d601a1a0ced9ceb2531b3011b468f7f375e121e53aa4b821ac7cd574dd8e1": {
+    "id": "aa6d601a1a0ced9ceb2531b3011b468f7f375e121e53aa4b821ac7cd574dd8e1",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+    "summary": "全栈物理AI安全方案已获多家机器人公司采用。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+    "publishedAt": "2026-10-08T11:15:33+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "0314a5c687b6d713fd0f3d02179a08646a0f4f91f6c0c86513df4515e256afbd": {
+    "id": "0314a5c687b6d713fd0f3d02179a08646a0f4f91f6c0c86513df4515e256afbd",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "真香！做这个邪恶老奶版「GTA 6」，我只花了5元！",
+    "summary": "Vidu Q4预览版，了解一下~",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502049.html",
+    "publishedAt": "2026-10-08T13:28:23+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "d7bbc1228a2549af50ab1015af6bef52343cd12a5924897af0882cd460afb48a": {
+    "id": "d7bbc1228a2549af50ab1015af6bef52343cd12a5924897af0882cd460afb48a",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "正行创新亮相APRCE 2026，发布全球首个零售物理智能24/7服务解决方案",
+    "summary": "打造便利店“人机协作”运营新模式",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502035.html",
+    "publishedAt": "2026-10-08T12:43:31+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "9c554e9a9037b89c24f3c6c45797e372f03a472d137844732b9937c730c8c91e": {
+    "id": "9c554e9a9037b89c24f3c6c45797e372f03a472d137844732b9937c730c8c91e",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界",
+    "summary": "联想YOGA Pro 15 RTX Spark笔记本电脑，于10月8日9:00正式开启全网盲约。",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502020.html",
+    "publishedAt": "2026-10-08T10:23:53+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "4595513d47e62ab7e922340f03512f178df89cfbcef109fbd3842a9d263fceda": {
+    "id": "4595513d47e62ab7e922340f03512f178df89cfbcef109fbd3842a9d263fceda",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "浪子回头！Manus重启北京办公室大举招聘",
+    "summary": "开始和国产Agent抢人，还拿到5亿美元新融资",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502009.html",
+    "publishedAt": "2026-10-08T09:30:17+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "5334da1ee41d14c6400a5239627e59c81f73bfe03e711749bc4e2fcb6c70eef8": {
+    "id": "5334da1ee41d14c6400a5239627e59c81f73bfe03e711749bc4e2fcb6c70eef8",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
+    "summary": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501995.html",
+    "publishedAt": "2026-10-08T09:28:44+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "8922d665498c2acf436b977f8580c555ec1886f406b7c77b2257a9782160e915": {
+    "id": "8922d665498c2acf436b977f8580c555ec1886f406b7c77b2257a9782160e915",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "吉利智充技术正式发布，重塑全球补能新标杆",
+    "summary": "2027年底实现“县县通”",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501956.html",
+    "publishedAt": "2026-10-08T09:10:55+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "f0ace69be5806922b85bae95db368cfb80e72b45ff03718b251a6b9faafb496a": {
+    "id": "f0ace69be5806922b85bae95db368cfb80e72b45ff03718b251a6b9faafb496a",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "打不过就投降，保时捷裁员9000人，回归燃油车主线",
+    "summary": "管理岗砍掉四成，顶级车型涨价20%卖",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501930.html",
+    "publishedAt": "2026-10-08T07:10:24+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "d7d4903938f322ad40e962105bf5a8bb4b280243cf3e60a4d6d62600b20ee544": {
+    "id": "d7d4903938f322ad40e962105bf5a8bb4b280243cf3e60a4d6d62600b20ee544",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Introducing Falcon ASR",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "sourceUrl": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "publishedAt": "2026-10-07T13:21:03+00:00",
+    "tags": [
+      "ai-news",
+      "HuggingFace Blog"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "706aa728bca7a5c5d7294765d2c771d67855292b7278a0f5947dd5742ba9cddd": {
+    "id": "706aa728bca7a5c5d7294765d2c771d67855292b7278a0f5947dd5742ba9cddd",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2：image-text-to-text 模型更新",
+    "summary": "HuggingFace上线新模型nerkyor/Qwen3.8-27B…，支持图文到文本生成，下载量1131次，获17赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
+    "publishedAt": "2026-10-08T18:11:20+00:00",
+    "tags": [
+      "huggingface",
+      "image-text-to-text",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1131,
+      "likes": 17
+    }
+  },
+  "9568fe1da8fb22f8421df02cf46c7c5d82caf886a31608ea22e8a1051a803f62": {
+    "id": "9568fe1da8fb22f8421df02cf46c7c5d82caf886a31608ea22e8a1051a803f62",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "d：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 khtsly/d 下载量1080次，获0点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/khtsly/d",
+    "publishedAt": "2026-10-08T18:11:06+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1080,
+      "likes": 0
+    }
+  },
+  "b29ca14544a902de4922f18da845c1beadf0b4e8c54301be0bc2a33b3dbb59b2": {
+    "id": "b29ca14544a902de4922f18da845c1beadf0b4e8c54301be0bc2a33b3dbb59b2",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-n3nc-vs16：text-generation 模型更新",
+    "summary": "HuggingFace上线文本生成模型agurung/cobalt-seeded-rl-base…，下载量1241次，获1赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-n3nc-vs16",
+    "publishedAt": "2026-10-08T18:09:17+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1241,
+      "likes": 1
+    }
+  },
+  "a34a3762cac4fe62a08628c370ba4d4c90512ba3408564332e201918b2f27a05": {
+    "id": "a34a3762cac4fe62a08628c370ba4d4c90512ba3408564332e201918b2f27a05",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-GGUF-NInfer：image-text-to-text 模型更新",
+    "summary": "HuggingFace上线新模型nerkyor/Qwen3.8-27B…（含多技术栈命名），下载量1498，获5赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-GGUF-NInfer",
+    "publishedAt": "2026-10-08T18:03:52+00:00",
+    "tags": [
+      "huggingface",
+      "image-text-to-text",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1498,
+      "likes": 5
+    }
+  },
+  "66cc675763ddbda69eb970e66c5b845324b00ccb416b620f065879fc3bd969f4": {
+    "id": "66cc675763ddbda69eb970e66c5b845324b00ccb416b620f065879fc3bd969f4",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-n3nc-groot16：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 cobalt-seeded-rl-base…（agurung）下载量1380，获赞0。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-n3nc-groot16",
+    "publishedAt": "2026-10-08T18:03:47+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1380,
+      "likes": 0
+    }
+  },
+  "1639ca8f4c9947dcfdcedf68a3cf996004fe85904e4dee132416287b828b5512": {
+    "id": "1639ca8f4c9947dcfdcedf68a3cf996004fe85904e4dee132416287b828b5512",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "三套S级隐藏阵容怎么玩？细节才是上分关键！",
+    "summary": "UP主 猴哥影视665 · 80播放 · 5:28",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117404944307421",
+    "publishedAt": "2026-10-08T11:05:15+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "猴哥影视665",
+      "play": 80,
+      "bvid": "BV19XHD6sEdC",
+      "duration": "5:28"
+    }
+  },
+  "a6ac37c722bafe86cc2f7c6481fac7c33fce044040d293862427e059647a6390": {
+    "id": "a6ac37c722bafe86cc2f7c6481fac7c33fce044040d293862427e059647a6390",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "B级阵容？隐藏的S级阵容！奥德赛阵容细腻教学。 放假归来",
+    "summary": "UP主 小胡影视 · 67播放 · 13:15",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117404877195546",
+    "publishedAt": "2026-10-08T10:45:05+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "小胡影视",
+      "play": 67,
+      "bvid": "BV1weHD6BEuo",
+      "duration": "13:15"
     }
   }
 }
