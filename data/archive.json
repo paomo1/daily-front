@@ -23065,7 +23065,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-    "publishedAt": "2026-10-07T18:14:36.592469+00:00",
+    "publishedAt": "2026-10-08T07:01:38.263078+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -36500,7 +36500,7 @@
     "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2494052",
-    "publishedAt": "2026-10-07T18:14:36.592409+00:00",
+    "publishedAt": "2026-10-08T07:01:38.263024+00:00",
     "tags": [
       "英超",
       "赛程"
@@ -36526,7 +36526,7 @@
     "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2506240",
-    "publishedAt": "2026-10-07T18:14:36.592443+00:00",
+    "publishedAt": "2026-10-08T07:01:38.263056+00:00",
     "tags": [
       "西甲",
       "赛程"
@@ -36552,7 +36552,7 @@
     "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2508371",
-    "publishedAt": "2026-10-07T18:14:36.592451+00:00",
+    "publishedAt": "2026-10-08T07:01:38.263063+00:00",
     "tags": [
       "德甲",
       "赛程"
@@ -36578,7 +36578,7 @@
     "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2482192",
-    "publishedAt": "2026-10-07T18:14:36.592457+00:00",
+    "publishedAt": "2026-10-08T07:01:38.263068+00:00",
     "tags": [
       "意甲",
       "赛程"
@@ -36604,7 +36604,7 @@
     "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2489515",
-    "publishedAt": "2026-10-07T18:14:36.592463+00:00",
+    "publishedAt": "2026-10-08T07:01:38.263073+00:00",
     "tags": [
       "法甲",
       "赛程"
@@ -54455,6 +54455,863 @@
       "play": 5832,
       "bvid": "BV1o7pM6GEov",
       "duration": "4:12"
+    }
+  },
+  "e4c964868b0caa6cbfa6399d502dc99df0f3cac88fe623beee9632bc9acdfa5e": {
+    "id": "e4c964868b0caa6cbfa6399d502dc99df0f3cac88fe623beee9632bc9acdfa5e",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "summary": "赫尔墨斯智能体开发商完成9000万美元B轮融资。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "publishedAt": "2026-10-07T20:48:45+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "05d3c68c5aeed6084d1b3550baf426b0646c04aec93e37603a82b8e8367b3229": {
+    "id": "05d3c68c5aeed6084d1b3550baf426b0646c04aec93e37603a82b8e8367b3229",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "summary": "微软发布Surface Laptop Ultra，搭载NVIDIA芯片的AI PC，支持本地运行AI模型与智能体，已公布配置与售价。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "publishedAt": "2026-10-07T20:22:37+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "86d5d8a79d50248c3d247c75ff8cd949de5f50473cfb209d09b02b684f6711be": {
+    "id": "86d5d8a79d50248c3d247c75ff8cd949de5f50473cfb209d09b02b684f6711be",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+    "summary": "Meta AI助手Muse上线iPad，距移动端首发仅一个月，加速拓展设备覆盖与功能集成。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+    "publishedAt": "2026-10-07T18:30:57+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "948cef23892a5cfda25a9cdb3f7b25c7e071af78d2be99b8c98e8e7ef8788583": {
+    "id": "948cef23892a5cfda25a9cdb3f7b25c7e071af78d2be99b8c98e8e7ef8788583",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+    "summary": "测试发现，ChatGPT青少年保护机制失效：危机中仍鼓励用户互动，或致其对AI形成不健康依赖。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+    "publishedAt": "2026-10-07T18:15:28+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "1dec2a44b50339cf71099cc8beb24b5eacd5f2b559008571292564c162239c60": {
+    "id": "1dec2a44b50339cf71099cc8beb24b5eacd5f2b559008571292564c162239c60",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
+    "summary": "OpenAI推出ChatGPT智能UI功能，支持交互式图表、按钮等可视化响应，随GPT-6同步上线，面向所有用户。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+    "publishedAt": "2026-10-07T19:10:42+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "928a4342776c34d0072cfdad4b94a8f20d348dd16f4b7ca1f03d1ac30596985b": {
+    "id": "928a4342776c34d0072cfdad4b94a8f20d348dd16f4b7ca1f03d1ac30596985b",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
+    "summary": "微软发布Surface Laptop Ultra，搭载英伟达RTX Spark ARM芯片，起售价2599美元（8核CPU/24GB内存/512GB存储）。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+    "publishedAt": "2026-10-07T18:42:22+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "13f7c07708e53706da7d02e6d474b854559315baada82f552aa4f5931cf5df86": {
+    "id": "13f7c07708e53706da7d02e6d474b854559315baada82f552aa4f5931cf5df86",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+    "summary": "微软将为Windows桌面端引入更多AI功能，强化本地AI体验。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+    "publishedAt": "2026-10-08T00:00:24+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "fbbea44ae1df0a0e0b9baebb9e973ff14ecbf239762b06ef710579682121792a": {
+    "id": "fbbea44ae1df0a0e0b9baebb9e973ff14ecbf239762b06ef710579682121792a",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+    "summary": "基于Opus构建的Creative Cloud替代品雄心勃勃、免费，但目前远未完成。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+    "publishedAt": "2026-10-07T21:56:42+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "13a16ff46788a4bede1fc178d8636399f9fa378a9b8c82e39c26a6d75d8e4f24": {
+    "id": "13a16ff46788a4bede1fc178d8636399f9fa378a9b8c82e39c26a6d75d8e4f24",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+    "summary": "",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501915.html",
+    "publishedAt": "2026-10-08T02:15:37+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "a056beb6a038d1309bcef1bca9d6f281b46c553a89fd40db5171e3ad1306b5c4": {
+    "id": "a056beb6a038d1309bcef1bca9d6f281b46c553a89fd40db5171e3ad1306b5c4",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "GPT-6今起免费用！拒答变少，话变多了",
+    "summary": "ChatGPT聊天框长出界面",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501834.html",
+    "publishedAt": "2026-10-08T01:07:19+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "a297b32efe20a787216e06be7d153fca353042a8bd2e532c601d6a48a78b72f7": {
+    "id": "a297b32efe20a787216e06be7d153fca353042a8bd2e532c601d6a48a78b72f7",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+    "summary": "小模型新守门员",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/501832.html",
+    "publishedAt": "2026-10-08T01:04:00+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "5611f77e7c1e61506d8037e5b1a394142f294fdbe40cc7eac7e7f9c2eae09f31": {
+    "id": "5611f77e7c1e61506d8037e5b1a394142f294fdbe40cc7eac7e7f9c2eae09f31",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "LTX2.3-10Eros_Version-Testing：model 模型更新",
+    "summary": "HuggingFace 上 TenStrip/LTX2.3-10Eros_Version-Testing 模型暂无下载，获 95 赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/TenStrip/LTX2.3-10Eros_Version-Testing",
+    "publishedAt": "2026-10-08T07:01:40+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 95
+    }
+  },
+  "24a3c4356b836808710134c7b697b6ccf02e96800f6af20823de93b11c3e8ba8": {
+    "id": "24a3c4356b836808710134c7b697b6ccf02e96800f6af20823de93b11c3e8ba8",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "drex-dlm：text-classification 模型更新",
+    "summary": "HuggingFace 上主流文本分类模型 nace-ai/drex-dlm，下载量40次，获21个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/nace-ai/drex-dlm",
+    "publishedAt": "2026-10-08T06:58:55+00:00",
+    "tags": [
+      "huggingface",
+      "text-classification",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 40,
+      "likes": 21
+    }
+  },
+  "332d06862ab0a5b7660a58cfae042ead93dc42d5d7b7b4cce226150a8fa7e60a": {
+    "id": "332d06862ab0a5b7660a58cfae042ead93dc42d5d7b7b4cce226150a8fa7e60a",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "jacobian-lens：model 模型更新",
+    "summary": "HuggingFace 上 Neuronpedia/Jacobian-Lens 模型暂无下载量，获 115 点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/neuronpedia/jacobian-lens",
+    "publishedAt": "2026-10-08T06:58:22+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 115
+    }
+  },
+  "4aa7948205cc364eab09abfafe9a70a9eedb93f0e5f47a267cd7ec696d95a3cd": {
+    "id": "4aa7948205cc364eab09abfafe9a70a9eedb93f0e5f47a267cd7ec696d95a3cd",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "LTX-2.5-Diffusers：text-to-video 模型更新",
+    "summary": "HuggingFace热门text-to-video模型Lightricks/LTX-2.5-Diffusers下载量达48,808次，获86个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Lightricks/LTX-2.5-Diffusers",
+    "publishedAt": "2026-10-08T06:47:32+00:00",
+    "tags": [
+      "huggingface",
+      "text-to-video",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 48808,
+      "likes": 86
+    }
+  },
+  "2f3907869b2847e8fb151de849c3ceedae06af778e1240ffd9fa97ae92fa8eb1": {
+    "id": "2f3907869b2847e8fb151de849c3ceedae06af778e1240ffd9fa97ae92fa8eb1",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Qwen3-VL-8B-NSFW-Caption-V4.5-heretic-GGUF：model 模型更新",
+    "summary": "HuggingFace 上模型 mradermacher/Qwen3-VL-8B-NSFW-Caption-V4.5-heretic-GGUF 下载量达 2979 次，获 4 赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/mradermacher/Qwen3-VL-8B-NSFW-Caption-V4.5-heretic-GGUF",
+    "publishedAt": "2026-10-08T06:44:30+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 2979,
+      "likes": 4
+    }
+  },
+  "858f6851bfdb353689adaf4f8dbabf9936458ababc15d456d9d45fc7d58752f3": {
+    "id": "858f6851bfdb353689adaf4f8dbabf9936458ababc15d456d9d45fc7d58752f3",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
+    "summary": "研究提出Ledger系统，构建具身助手的持久3D物体记忆，整合物体位置、历史与上下文描述，支持从第一人称视频中跨时段关联与保留物体信息。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.10538v1",
+    "publishedAt": "2026-10-07T17:59:41+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container, even without knowing we would need it later. Here, we study how an embodied assistant can build a similar memory from egocentric videos, by observing a person's day-to-day activities. We present Ledger, a persistent 3D object memory that combines object locations, their histories, and contextual descriptions. It associates observations across the recording and retains objects after they leave the view, including those the person never touches. It clusters each object's observations by resting locations and records a move only after repeated evidence, reducing the effect of localization noise. Short descriptions preserve details such as an object's contents or supporting surface. It saves these records to later answer spatial questions without having to access the original images or video. Our memory raises HD-EPIC accuracy from 29.7% to 42.6%, UCS-Bench accuracy from 33.8% to 38.5% and localizes Ego4D objects with a 0.99 m median error on returned predictions. Our analyses identify complementary roles for temporal persistence, contextual descriptions, and retrieval. Our study on 100 stitched streams of multiple scenes each further exposes failures in both retrieval and construction. Per-scene construction partially recovers the performance lost across scene changes compared to that of single scene streams."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Shravan Chaudhari, William Paul, Suchi Saria et al.",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.RO"
+      ]
+    }
+  },
+  "6a3f4b31bff5c580dccaca15723c2aa3393c928a337f23022b398d15bc693c7f": {
+    "id": "6a3f4b31bff5c580dccaca15723c2aa3393c928a337f23022b398d15bc693c7f",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Decoupling Exploration from Optimization in RLVR",
+    "summary": "研究提出解耦探索与优化的新RLVR方法，解决强新颖性激励导致模型退化问题，提升推理策略发现能力。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.10536v1",
+    "publishedAt": "2026-10-07T17:59:26+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In principle, a model can sample novel ideas absent from its prior training data. In practice, however, augmenting RLVR with strong novelty incentives has seen limited success and can degrade model quality. Because verifiable rewards supervise only a narrow slice of the model's knowledge and behavior, such degradations are difficult to recover from. Instead, we decouple exploration from optimization in a framework we call Exploration-Distillation (ExpDis). We train one or more explorer policies with a novelty bonus in the reward, filter their trajectories for correctness and quality, and distill them into a separate student policy. The student policy is then trained without a novelty bonus. We repeat the above procedure for several rounds, alternating between exploration and optimization. This decoupling allows us to aggressively scale exploration without degrading the student policy. Across seven mathematical reasoning benchmarks and two model families, ExpDis outperforms DAPO at the same wall-clock budget. Moreover, we observe improved pass@$k$ scaling, indicating that ExpDis produces models that generate more diverse correct solutions."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Saif Punjwani, Micah Goldblum",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ]
+    }
+  },
+  "4cad5ceae09df449089ee1aff524f8b4ff29ddd5e2983bf38b9dd6e6bef3075e": {
+    "id": "4cad5ceae09df449089ee1aff524f8b4ff29ddd5e2983bf38b9dd6e6bef3075e",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+    "summary": "EngramEdit提出条件记忆架构，通过输入n-gram检索嵌入，解耦LLM中的知识存储与计算，支持固定Transformer主干下的高效事实更新。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.10533v1",
+    "publishedAt": "2026-10-07T17:58:52+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Beyond model scaling, this architecture has demonstrated the potential to decouple factual knowledge storage from general-purpose computation, offering a promising route to updating factual knowledge while keeping the Transformer backbone fixed. Realizing this potential is challenging because different expressions of a fact may activate different n-gram embeddings, while updating shared embeddings can unintentionally change the model's predictions about other facts. We propose EngramEdit for decoupled knowledge updates through conditional memory. EngramEdit first computes target memory representations that make the model predict the updated fact across multiple expressions. It then jointly updates the shared n-gram embeddings to match these targets across expressions and edits, penalizing updates to frequently reused embeddings more strongly to preserve unrelated knowledge. Experiments show that EngramEdit enables independent factual knowledge updates through conditional memory, achieving near-perfect editing success. Revised knowledge is usable across unseen expressions and in multi-hop reasoning, with nearly three times the strongest baseline's accuracy under chain-of-thought (CoT) prompting. Unrelated knowledge and general capabilities are largely preserved even as factual updates accumulate. These findings show that EngramEdit turns conditional memory into an editable knowledge interface, extending its role beyond model scaling to support decoupled knowledge updates."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Hongru Cai, Ran Wei, Wenjie Wang et al.",
+      "categories": [
+        "cs.CL"
+      ]
+    }
+  },
+  "f393d64821348fc107a4173b2c2750c7bc8c5e504715a056f45dabcf29bea0ea": {
+    "id": "f393d64821348fc107a4173b2c2750c7bc8c5e504715a056f45dabcf29bea0ea",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Long-WAM: Scaling the Context of World-Action Models",
+    "summary": "研究提出Long-WAM框架，提升世界-动作模型上下文长度，发现自回归预训练视频基础模型更有效利用长历史，实现实时机器人控制。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.10528v1",
+    "publishedAt": "2026-10-07T17:58:04+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the context of causal world-action models under real-time control constraints. Our central finding is that access to history is not the same as using it: longer histories pay off far more when the video foundation is pretrained autoregressively (AR). We first learn causal prediction from robot and egocentric videos without action labels, then preserve this history-to-future structure during world-action adaptation. On RoboCasa GR-1, increasing context from 0.0 to 19.2 seconds raises success from 63.3% to 78.7%, whereas a bidirectionally pretrained initialization shows no net gain; robot-domain AR pretraining further raises peak success on GR-1 and LIBERO-Long. Long-WAM also achieves the best results among compared methods on LIBERO-Long, RoboTwin 2.0, and DOMINO. Streaming observation encoding, asynchronous execution, and hardware-specific acceleration enable deployment on RTX 5090, DGX Spark, and Jetson AGX Thor without dropping future prediction; on RTX 5090, each action chunk, including future-video latent prediction, takes 107.4 ms. Real-time deployment on Unitree G1 and YAM supports dynamic and long-horizon manipulation, including 95% success on dynamic cup stacking, where Pi0.5 and Fast-WAM succeed in none of 20 trials. As a memory-informed executor, Long-WAM also complements higher-level planning in composite tasks."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Wei Huang, Bohan Zhang, Chenzhi Liu et al.",
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "cs.CV"
+      ]
+    }
+  },
+  "c346dc58514671862e82d169736e2f9f7a268125e955f567031f0920f26d95d7": {
+    "id": "c346dc58514671862e82d169736e2f9f7a268125e955f567031f0920f26d95d7",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping",
+    "summary": "研究 decentralized SGD 在重尾噪声下的收敛性，指出梯度裁剪次优，归一化需动量或小批量；提出新分析框架，首次获得最优收敛率。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.10527v1",
+    "publishedAt": "2026-10-07T17:57:58+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Heavy-tailed noise has been widely observed in modern machine learning, motivating the use of methods like gradient clipping and normalization. While these methods are well understood in centralized settings, much less is known in decentralized ones, where applying a nonlinearity to local gradients affects both optimization and consensus. Recent works on decentralized non-convex optimization have studied both clipping and normalization under heavy-tailed noise, with clipping yielding suboptimal rates and normalization needing local momentum or mini-batches to converge. This raises the question: can a baseline decentralized method using a nonlinearity achieve optimal convergence rates under heavy-tailed noise? We answer affirmatively with clipped decentralized SGD ($\\mathtt{DSGD}$). For smooth non-convex costs under bounded $p$-th moment noise, $p \\in (1,2]$, we show that clipped $\\mathtt{DSGD}$ achieves order-optimal rates both with high probability and in expectation. Moreover, we establish a linear speed-up in the number of agents, which, to our knowledge, has not been shown for decentralized methods with clipping. The key technical ingredient is a sharp analysis of the consensus gap that exploits the structure of clipping, relegating network effects to higher-order terms. Our results highlight an important distinction between clipping and normalization in decentralized settings: while normalized $\\mathtt{DSGD}$ can fail to converge, clipping retains magnitude information, enabling $\\mathtt{DSGD}$ to be convergent and order-optimal. Numerical experiments validate our theory."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Aleksandar Armacki, Haoyuan Cai, Ali H. Sayed",
+      "categories": [
+        "math.OC",
+        "cs.LG",
+        "cs.MA"
+      ]
+    }
+  },
+  "fdf651fb5b5974251a99817b3cc4eba3375001e07cfb5e87982ec103a5c55609": {
+    "id": "fdf651fb5b5974251a99817b3cc4eba3375001e07cfb5e87982ec103a5c55609",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
+    "summary": "VLAs对指令措辞极度敏感：单字改动可致成功率波动超60点，如“stove”与“hot plate”成功率从100%骤降至2%。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.10526v1",
+    "publishedAt": "2026-10-07T17:57:38+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can move success by tens of points: $π_{0.5}$ turns on a LIBERO stove 100% of the time for \"switch on the stove\" and 2% for \"switch on the hot plate\", and a $π_0$ checkpoint finetuned with rephrase augmentation still shows swings of up to 61 points. We characterize this sensitivity with statistically tested single-edit swings and an oracle phrase search, which shows that phrasing alone nearly closes the 21-point gap between in-distribution and out-of-distribution tasks. We then reduce it without modifying the policy. Because the sensitivity is systematic, it can be expressed as explicit rules: we score many phrasings of a few training tasks, have a large language model distill the evidence into ten to twenty rephrasing rules, and at deployment rewrite each incoming instruction once under these rules. The rules improve the frozen $π_0$ by 16 to 27% relative on twelve held-out tasks across adversarial, VLM-generated, and human-generated phrasings, with gains concentrated on out-of-distribution tasks. The pipeline replicates on $π_{0.5}$ and LIBERO, lifting in-finetune success from 93.6% to 97.8%. The method requires no retraining and no per-step verification, and applies zero-shot to unseen tasks and instructions. Project website: https://sttawm.github.io/rephrase-before-you-act"
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Mikey Watts, Yuchen Cui",
+      "categories": [
+        "cs.RO",
+        "cs.CL",
+        "cs.LG"
+      ]
+    }
+  },
+  "9991ece31f30474d6e680ff5ab274adada05b34f24fa904e49088569fa3b5d18": {
+    "id": "9991ece31f30474d6e680ff5ab274adada05b34f24fa904e49088569fa3b5d18",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs",
+    "summary": "研究指出GNN蒸馏至MLP时忽略图几何导致谱失真：稀疏图下谱欠拟、密集图下谱过拟，影响表示空间质量。（59字）",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.10520v1",
+    "publishedAt": "2026-10-07T17:56:01+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "GNN-to-MLP distillation aims to retain the predictive accuracy of a message-passing teacher while deploying a graph-free MLP at inference. Existing methods mainly transfer node-wise predictions or use confidence-based reweighting, but they do not specify where the student should preserve the teacher's graph-induced geometry. We show that this omission leads to two spectral failure modes in the student's representation space. On sparse graphs, the student suffers from spectral underfit, missing high-energy teacher directions concentrated near boundary regions. On dense graphs, it suffers from spectral overfit, retaining spurious directions that the teacher has collapsed through aggregation. Motivated by an energy-weighted teacher-student alignment objective, we propose Graph Geometry-aware MLP (G^2MLP), a training-time distillation framework guided by Ollivier-Ricci curvature. Curvature identifies where the two spectral errors concentrate and is used to allocate supervision between prediction-level and representation-level alignment. The deployed model remains a standard MLP and requires no graph access at inference. Across node-classification benchmarks, G^2MLP consistently improves over graph-free distillation baselines, reduces the teacher-student rank gap in both regimes, and transfers without architectural changes to Graph Transformer teachers and link prediction."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Zhewei Chen, Hao Zhu, Jiaojiao Jiang et al.",
+      "categories": [
+        "cs.LG"
+      ]
+    }
+  },
+  "d33980d50852b5540b03b1667699cb88f2fe2175a8df8dfe4bcb31dbf6571dd3": {
+    "id": "d33980d50852b5540b03b1667699cb88f2fe2175a8df8dfe4bcb31dbf6571dd3",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Why Forget-Only Unlearning Needs Memorization",
+    "summary": "研究指出“仅遗忘”机器学习卸载需依赖记忆机制，因相同模型在不同数据集上遗忘同一样本后需不同输出，故非总可行。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.10519v1",
+    "publishedAt": "2026-10-07T17:55:46+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Machine unlearning asks for a deletion algorithm whose output is close to retraining from scratch without the selected forget examples. In this work, we study forget-only unlearning, where the deletion algorithm receives only the trained model and the examples to forget, with no retained data or extra training information. We ask whether forget-only unlearning is always possible. We first show that this depends on the learning method: different datasets can produce the same trained model but require very different outputs after the same examples are removed. Using this observation, we derive lower bounds on how accurately unlearning can match retraining and instantiate them for several standard learning algorithms. We then ask what must be true when forget-only unlearning succeeds. To this end, we derive lower bounds on what an algorithm must memorize about the training data to handle arbitrary deletion requests. For simple threshold learners, the required information can be as large as the entire dataset, even though ordinary training keeps only one boundary point. Overall, our results show that information discarded during ordinary learning may be needed later for deletion, so models designed for forget-only unlearning may need to retain more information than standard training does."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Luka Radić, Vikrant Singhal, Amartya Sanyal",
+      "categories": [
+        "cs.LG",
+        "cs.IT",
+        "stat.ML"
+      ]
+    }
+  },
+  "1fafa3e120eb4dcccb998f0396143bb7586eef8dc00c0a9549b74d26a3e65fac": {
+    "id": "1fafa3e120eb4dcccb998f0396143bb7586eef8dc00c0a9549b74d26a3e65fac",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "RoboJEPA: Scaling Robotic Latent World Models",
+    "summary": "RoboJEPA是基于JEPA架构的机器人潜空间世界模型，训练于12种机器人平台的大规模数据集，其想象误差随算力呈二阶幂律下降。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.10515v1",
+    "publishedAt": "2026-10-07T17:54:42+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Latent world models have shown a remarkable ability to predict future states and to plan in the real world. In practice, however, we lack a principled way to estimate how their capabilities scale with model size, data, and compute, an open problem that slows progress in the field. In this work we present RoboJEPA, a world model based on the Joint Embedding Predictive Architecture (JEPA) and trained on a large-scale dataset spanning 12 robotic embodiments. We show that RoboJEPA's imagination error, the error of its latent rollouts, follows a second-order power law in compute, allowing us to predict model quality well beyond the scale at which the law is fit. We further show that downstream robotic planning performance improves predictably with compute, and that imagination error is strongly correlated with it, making it a reliable proxy for real-robot evaluation. Finally, we demonstrate that latent world models can be deployed zero-shot as robotic agents, planning toward a single goal image to solve tasks requiring long-horizon planning on real hardware. We release all model checkpoints together with our training and robot deployment code. To our knowledge, this is the first work to establish scaling laws for multi-embodiment robotic world models trained on real robot data, and RoboJEPA, at 8B parameters, is the largest JEPA predictor model trained to date."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Artem Zholus, Nicolas Beltran-Velez, Jianhao Yuan et al.",
+      "categories": [
+        "cs.AI",
+        "cs.RO"
+      ]
+    }
+  },
+  "e6b0173d7d4d20f72097dd648e542bc495137e1516f31994c02565a986b7aaee": {
+    "id": "e6b0173d7d4d20f72097dd648e542bc495137e1516f31994c02565a986b7aaee",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
+    "summary": "SciExam for ENSO是首个AI科学考试基准：AI代理需在6小时内基于真实观测构建ENSO低阶随机模型，并自写冻结诊断——检验其真实建模能力。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.10513v1",
+    "publishedAt": "2026-10-07T17:52:52+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of which can tell whether a new scientific model is valid. The AI Science Exam for El Nino-Southern Oscillation (SciExam for ENSO) is a benchmark in which agents build low-order stochastic models of ENSO, the dominant mode of interannual climate variability, from real observations. Within a six-hour budget, agents process the observations, write their own diagnostics, which are then frozen, and develop a model using only these diagnostics as feedback. Hidden graders then test whether the model reproduces ENSO's statistics, recovers unobserved variables, and forecasts held-out years, and score a published model in the same way. Across twelve agent systems, six produce models that score higher than the published model, mainly through better reconstruction and forecasting. The simplified forms of the stronger models are each compatible with one of the two competing explanations of ENSO's warm-cold asymmetry, an open debate that the task never mentions. Controlled runs of the top system under varied information suggest that its scores do not come from recalling the dated observational record and that the information it receives shapes how it builds its model. SciExam for ENSO can thus evaluate agent research where no answer is known, and the results suggest that agents can already build competitive models whose structures bear on questions that scientists still debate."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Yinling Zhang, Langchen Liu, Dongbin Xiu et al.",
+      "categories": [
+        "cs.AI",
+        "cs.LG",
+        "physics.ao-ph"
+      ]
+    }
+  },
+  "dd5e0377d3ebe6f5cb3e820fa73728abf90a10f7a3568b244df4ebce750c89b8": {
+    "id": "dd5e0377d3ebe6f5cb3e820fa73728abf90a10f7a3568b244df4ebce750c89b8",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Your Prompt Should Do More: Effects of Retrieval Instructions in Embedding Models",
+    "summary": "研究揭示：检索指令对嵌入模型效果有限，即使简单指令，查询侧干扰项也会导致模型失效。（59字）",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.10508v1",
+    "publishedAt": "2026-10-07T17:51:46+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Prompted embedding models have recently received increasing attention, particularly for retrieval, where detailed retrieval instructions are provided as part of the retrieval prompt. Several new datasets and studies have examined this setting, showing that the current embedding models often struggle to follow such instructions reliably. In this paper, we study the mechanism of how instructions actually affect the representations of retrieval queries in asymmetric retrieval tasks. We show that models can fail to follow even simple task instructions when query-side distractors are included in the evaluation. We hypothesize that this behavior is driven by the training setup of current embedding models and their evaluation, and show that fine-tuning with added query-side distractors leads to substantial improvements, with minimal effect on other tasks."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Amanda Myntti, Jenna Kanerva, Veronika Laippala et al.",
+      "categories": [
+        "cs.CL"
+      ]
+    }
+  },
+  "c818468fdadb7127fa1aec008c22be0a0aef90d179bc607e6ddf28458631b278": {
+    "id": "c818468fdadb7127fa1aec008c22be0a0aef90d179bc607e6ddf28458631b278",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing",
+    "summary": "RECAST提出新框架，通过计算、访问与合成多源证据来动态路由上下文，突破传统RAG的相似性检索局限，提升长文本异构信息任务性能。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.10507v1",
+    "publishedAt": "2026-10-07T17:51:08+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Large language models are increasingly applied to tasks grounded in long, heterogeneous information sources. Conventional Retrieval-Augmented Generation (RAG) relies on fixed similarity-based retrieval, while agentic variants adapt queries and tool use but remain largely retrieval-centric. However, in many tasks, the evidence required for a solution is not explicitly present in any single source item. Instead, it must be derived through filtering, aggregation, or computation across multiple source items. In this work, we introduce RECAST (Routing Evidence through Computation, Access, and Synthesized Tools), a learned framework that formulates evidence construction as a sequential decision process over heterogeneous retrieval and computation operations, allowing evidence to be actively derived rather than merely retrieved. A lightweight RouterLM iteratively selects and formulates primitive operations or specifies customized operations for a frozen CompilerLM to translate into executable code. Once it judges the evidence sufficient, RouterLM passes the accepted evidence to a frozen AnswerLM to produce the final solution. We train RouterLM with supervised fine-tuning (SFT) followed by group relative policy optimization (GRPO). Across six heterogeneous benchmark families, RECAST achieves a mean success rate of 75.6%, outperforming the strongest large-model baseline by 15.9%. Moreover, training enables the Qwen3.5-9B RouterLM to outperform a training-free Gemini 3.5 Flash RouterLM by 5.0%. On three held-out benchmarks, RECAST improves over the strongest baseline by 15.0% on average, demonstrating strong zero-shot generalization across tasks and heterogeneous source representations."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Yilun Hao, Krishna Sayana, Isabella Ye et al.",
+      "categories": [
+        "cs.AI"
+      ]
+    }
+  },
+  "5372a69d7b33884f315d4d8443f49a28297abc0802bd5c9ad0cee01ca1db4333": {
+    "id": "5372a69d7b33884f315d4d8443f49a28297abc0802bd5c9ad0cee01ca1db4333",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of Language Models",
+    "summary": "本文提出借鉴陈述偏好经济学的效度框架（内容、结构、标准效度等）评估无标准答案的LLM能力，为语言模型评价提供新方法。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.10506v1",
+    "publishedAt": "2026-10-07T17:51:07+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Many of the questions now put to large language models have no correct answer to score against: what a policy is worth, which option a user should choose, how to weigh competing values. Stated-preference economics has faced this problem for decades. It judges survey responses without knowing the true value, through a framework of validity and related concepts: content, construct, and criterion validity, reliability, incentive compatibility, and consequentiality. We argue that this framework is a general method for evaluating language models, and we set out what each concept means for LLM evaluation. We demonstrate the approach using a published water-quality stated preference economic valuation survey (Vossler et al. 2023) administered to six models. In this economic application, the validity tests take the form of predictions from economic theory: demand should slope down, and willingness to pay should respond to the scope of the good and to income. The tests separate the models sharply. Two older models fail the most basic test at a household income level of \\$75,000, and the two newest pass every test of theoretical validity we can score, but diverge on convergent validity. Passing validity tests shows that a model's answers are coherent, not that they are correct."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Daniel Robert Kling Alexander, Catherine Louise Kling",
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "econ.GN"
+      ]
+    }
+  },
+  "1fd5edde99d658cf9320d00d669a8725db4e2516fda44e5fe3372e1e311ec4cd": {
+    "id": "1fd5edde99d658cf9320d00d669a8725db4e2516fda44e5fe3372e1e311ec4cd",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Oracle-Efficient and Parameter-Free Agnostic Smoothed Online Learning",
+    "summary": "论文提出Oracle-efficient、免参数的无假设平滑在线学习算法，在σ-平滑设定下实现统计与计算高效性。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.10499v1",
+    "publishedAt": "2026-10-07T17:49:17+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Online learning is an attractive framework in many domains because it permits well-defined learning even when data are dependent or chosen adversarially. This generality, however, comes at a steep price, introducing significant statistical and computational barriers. Recently, smoothed online learning has emerged as a promising framework that interpolates between the fully adversarial and fully stochastic settings by assuming that the conditional law of each covariate has density at most $1/σ$ with respect to some fixed base measure $μ$, and it is known to match the statistical and computational guarantees of classical learning while still allowing for much of the flexibility of online learning. However, existing oracle-efficient algorithms require either (i) sampling access to the base measure $μ$ or (ii) labels that are perfectly predicted by a fixed hypothesis. Both assumptions limit the applicability of these algorithms, in contrast to statistical learning, where empirical risk minimization (ERM) learns efficiently in the agnostic setting without any knowledge of the data distribution. We show that neither assumption is necessary, giving the first oracle-efficient algorithm that achieves sublinear regret in the agnostic setting without knowledge of $μ$. Our algorithm, based on Gaussian Follow-The-Perturbed-Leader, is parameter-free: it requires no knowledge of $μ$, the smoothing parameter $σ$, or the horizon $T$, and it achieves regret $\\widetilde O(d\\sqrt{T/σ})$ for binary classes of VC dimension $d$ with a single call to an ERM oracle per round, which is optimal up to a $\\sqrt{d}$ factor. En route to establishing the regret bound, we introduce several new techniques that may be of independent interest."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Sasha Voitovych, Adam Block, Alexander Rakhlin et al.",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ]
+    }
+  },
+  "3781d7814f44da5d208b8914d89dca6ce688828c124d5ede1f1a1ff40b5c6af5": {
+    "id": "3781d7814f44da5d208b8914d89dca6ce688828c124d5ede1f1a1ff40b5c6af5",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution",
+    "summary": "提出EmbodiedRSI：一种假设引导的具身自演化智能体框架，通过高效物理交互实现机器人持续自主学习，显著降低数据采集成本。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.10498v1",
+    "publishedAt": "2026-10-07T17:48:02+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Robot foundation models provide strong visuomotor control, yet their performance can degrade when object positions or task instructions change. Further improvements often require post-training on substantial robot data, which can be costly to collect through methods such as teleoperation. Agentic harnesses can adapt around the model, but current self-evolving harnesses use robot trials inefficiently when deciding which code and skill changes to pursue. We introduce EmbodiedRSI, a self-evolving agentic harness that autonomously decides where to explore next and turns the resulting physical interaction into improved code and skills. EmbodiedRSI realizes this through a Fast-Slow Dual-System Architecture, in which competing code and skill hypotheses are maintained in a Hypothesis Graph. Value-of-Information Experiment Selection chooses physical experiments that can distinguish these hypotheses. Their outcomes guide Code-Skill Co-Evolution. The Slow System builds Hierarchical Memory, and Reward-Grounded Memory Learning selects effective memory according to their value for later Fast-System improvement. On RoboCasa365, EmbodiedRSI reaches 77.0% overall success and 71.3% on Composite-Unseen, compared with 40.1% for the best baseline. EmbodiedRSI also reaches 86.8% overall success on LIBERO-Pro. Beyond benchmark performance, EmbodiedRSI transfers zero-shot to real-world robot, achieving 71.3% overall success across multiple challenging tasks."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Python Song, Zhixuan Liang, Kelsey Fu et al.",
+      "categories": [
+        "cs.AI"
+      ]
+    }
+  },
+  "2fbe558da6ba0c89c6f1db3fd39cc5628935aa335671b9cec4b52cdbc777700c": {
+    "id": "2fbe558da6ba0c89c6f1db3fd39cc5628935aa335671b9cec4b52cdbc777700c",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "幻灭拼多多寒冰，新版本T0阵容之一。 对面10级大成卡莎打幻灭镜像都没打过#云顶之弈 #金铲铲之战 #云顶幻灭 #云顶学府 【云顶之奕】_18",
+    "summary": "UP主 辣妹66 · 25播放 · 0:32",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117402612274657",
+    "publishedAt": "2026-10-08T01:12:56+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "辣妹66",
+      "play": 25,
+      "bvid": "BV1HXHm6ZEAr",
+      "duration": "0:32"
+    }
+  },
+  "5567431c33e44a30007688ef57d3f6373392bfbdae8518092af1426edd4a2493": {
+    "id": "5567431c33e44a30007688ef57d3f6373392bfbdae8518092af1426edd4a2493",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "幻灭拼多多寒冰，新版本T0阵容之一。 对面10级大成卡莎打幻灭镜像都没打过#云顶之弈 #金铲铲之战 #云顶幻灭 #云顶学府 【云顶之奕】_13",
+    "summary": "UP主 在剧推 · 25播放 · 0:32",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117402612275283",
+    "publishedAt": "2026-10-08T01:11:30+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "在剧推",
+      "play": 25,
+      "bvid": "BV1nXHm6ZErZ",
+      "duration": "0:32"
+    }
+  },
+  "c6bf38759c64d6f962411d079f570d43027099d24bd5f9839a7720d7b1d6d2e6": {
+    "id": "c6bf38759c64d6f962411d079f570d43027099d24bd5f9839a7720d7b1d6d2e6",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "幻灭拼多多寒冰，新版本T0阵容之一。 对面10级大成卡莎打幻灭镜像都没打过#云顶之弈 #金铲铲之战 #云顶幻灭 #云顶学府 【云顶之奕】_14",
+    "summary": "UP主 小可可萝1 · 37播放 · 0:32",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117402612275820",
+    "publishedAt": "2026-10-08T01:10:17+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "小可可萝1",
+      "play": 37,
+      "bvid": "BV1nXHm6ZEQi",
+      "duration": "0:32"
+    }
+  },
+  "f493218784683a6d38410550cd7134cf38518ad42b23730e5164c4f51a67ef7a": {
+    "id": "f493218784683a6d38410550cd7134cf38518ad42b23730e5164c4f51a67ef7a",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "幻灭拼多多寒冰，新版本T0阵容之一。 对面10级大成卡莎打幻灭镜像都没打过#云顶之弈 #金铲铲之战 #云顶幻灭 #云顶学府 【云顶之奕】_12",
+    "summary": "UP主 肉包喵动漫 · 25播放 · 0:32",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117402612273456",
+    "publishedAt": "2026-10-08T01:09:40+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "肉包喵动漫",
+      "play": 25,
+      "bvid": "BV1HXHm6ZEsW",
+      "duration": "0:32"
+    }
+  },
+  "0dfc6fd2bfe0c4bc946dc42fcd5abcfe3bad89ed40350e643b2d22b302f6aa29": {
+    "id": "0dfc6fd2bfe0c4bc946dc42fcd5abcfe3bad89ed40350e643b2d22b302f6aa29",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "幻灭拼多多寒冰，新版本T0阵容之一。 对面10级大成卡莎打幻灭镜像都没打过#云顶之弈 #金铲铲之战 #云顶幻灭 #云顶学府 【云顶之奕】_00",
+    "summary": "UP主 秋风小剧场 · 22播放 · 0:32",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117402595557694",
+    "publishedAt": "2026-10-08T01:05:44+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "秋风小剧场",
+      "play": 22,
+      "bvid": "BV1zRHm64Eoo",
+      "duration": "0:32"
     }
   }
 }
