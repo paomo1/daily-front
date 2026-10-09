@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T18:17:34.450090+00:00",
-  "date": "2026-10-08",
+  "generated_at": "2026-10-09T07:11:57.596022+00:00",
+  "date": "2026-10-09",
   "keep_days": 7,
-  "count": 271,
+  "count": 296,
   "items": [
     {
       "id": "64204820be5c58c212306702fb26ac121ab78a6dc5afacfd353b9911045c7cf2",
@@ -13,7 +13,7 @@
       "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-      "publishedAt": "2026-10-08T18:16:11.981493+00:00",
+      "publishedAt": "2026-10-09T07:09:43.485797+00:00",
       "tags": [
         "欧冠",
         "赛程"
@@ -39,7 +39,7 @@
       "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489515",
-      "publishedAt": "2026-10-08T18:16:11.981489+00:00",
+      "publishedAt": "2026-10-09T07:09:43.485793+00:00",
       "tags": [
         "法甲",
         "赛程"
@@ -65,7 +65,7 @@
       "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2482192",
-      "publishedAt": "2026-10-08T18:16:11.981483+00:00",
+      "publishedAt": "2026-10-09T07:09:43.485788+00:00",
       "tags": [
         "意甲",
         "赛程"
@@ -91,7 +91,7 @@
       "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508371",
-      "publishedAt": "2026-10-08T18:16:11.981478+00:00",
+      "publishedAt": "2026-10-09T07:09:43.485784+00:00",
       "tags": [
         "德甲",
         "赛程"
@@ -117,7 +117,7 @@
       "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2506240",
-      "publishedAt": "2026-10-08T18:16:11.981471+00:00",
+      "publishedAt": "2026-10-09T07:09:43.485778+00:00",
       "tags": [
         "西甲",
         "赛程"
@@ -143,7 +143,7 @@
       "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2494052",
-      "publishedAt": "2026-10-08T18:16:11.981432+00:00",
+      "publishedAt": "2026-10-09T07:09:43.485747+00:00",
       "tags": [
         "英超",
         "赛程"
@@ -159,6 +159,425 @@
         "country": "England",
         "status": "NS"
       }
+    },
+    {
+      "id": "dc023555094820cbade7391073530d0331ef734cc5b77552b763875e06e0c23b",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "BAAR6-9M-7：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 aixk/BAAR6-9M-7 下载量达 3106 次，获 1 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/aixk/BAAR6-9M-7",
+      "publishedAt": "2026-10-09T07:09:38+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 3106,
+        "likes": 1
+      }
+    },
+    {
+      "id": "1bdcac8b3595d77ac910b0ce28b5b0fe7eef9dd2e0baabdb3a36a01fddaeb59d",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwopus3.8-27B-Flash-V2-abliterated-i1-GGUF：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 Qwopus3.8-27B-Flash-V2 下载量达 5303，获 2 赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mradermacher/Qwopus3.8-27B-Flash-V2-abliterated-i1-GGUF",
+      "publishedAt": "2026-10-09T07:08:32+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 5303,
+        "likes": 2
+      }
+    },
+    {
+      "id": "b67e72dbcec1d69234c344da6e639b1c9c355dbdb137f55ff4d3329920c61e3e",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3.8-27B-Turbo-Brilliance-Power-35X-Reasoning-Instruct-modes-GGUF：image-text-to-text 模型更新",
+      "summary": "HuggingFace 上 DavidAU/Qwen3.8-27B-Turbo-Brilliance-Power-35X 模型（GGUF格式）暂无下载，获62赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/DavidAU/Qwen3.8-27B-Turbo-Brilliance-Power-35X-Reasoning-Instruct-modes-GGUF",
+      "publishedAt": "2026-10-09T07:05:01+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 62
+      }
+    },
+    {
+      "id": "966e7c06b23dca3e84f861ea8d7e5d831727686287dd1be1b0869eae52969283",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Tokle-3M：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 Techdotus/Tokle-3M 获 1081 次下载、14 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/techdotus/Tokle-3M",
+      "publishedAt": "2026-10-09T07:00:00+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1081,
+        "likes": 14
+      }
+    },
+    {
+      "id": "43e83cba98a6c6dfea4c7be57a8f0bfbe5aa365cedf38ec1ec6eb20636c8b17f",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "KrynexAI-1.4-150M-Mobile-Model：text-generation 模型更新",
+      "summary": "HuggingFace上线KrynexLabs/KrynexAI-1.4-150M-Mobile-Model文本生成模型，下载量1324次，获1个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/KrynexLabs/KrynexAI-1.4-150M-Mobile-Model",
+      "publishedAt": "2026-10-09T06:56:33+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1324,
+        "likes": 1
+      }
+    },
+    {
+      "id": "ddd634b5912f15233e9198944af878caf17485223bde182db77f822af43f3d96",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
+      "summary": "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/502330.html",
+      "publishedAt": "2026-10-09T04:15:05+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "8238687d4ae6f11e46bdd7a3f80edb322203167cbb2c865200b8ef05dfad70ae",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+      "summary": "星动纪元采用分阶段训练：先视频预测，再动作学习，实现视频与动作的解耦与重排序。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/502125.html",
+      "publishedAt": "2026-10-09T03:52:21+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e9cadc0d87ae6d9c24b6749abc843d7e3fa0236a56a720d3d46b2381901695fa",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
+      "summary": "江淮再度跌停",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/502114.html",
+      "publishedAt": "2026-10-09T02:51:10+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "f72dbc5e40706dc4564126d77d3547d727981de1ccb170e58f7bc735ff053558",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+      "summary": "多Agent协同还能自我进化",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/502106.html",
+      "publishedAt": "2026-10-09T02:37:22+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "d3ae3e858658445bab2837d3993b43dbdd97579a2133d2a220bf358b355b8cfb",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+      "summary": "让AI反复试错的“练兵场”来了",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/502096.html",
+      "publishedAt": "2026-10-09T02:03:48+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e8f7590b944feb2ac2c8ee9c230230e3f0e21354bcb2be9026b0038f4078cc19",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
+      "summary": "彻底撕破脸了",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/502089.html",
+      "publishedAt": "2026-10-09T00:35:57+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "a9062f72a3a137d1cc9db01be23af892cba48f19488cf3e6161f087c3f94d6a1",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
+      "summary": "新的“缝合怪”已经出现，怎么能够停滞不前",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/502083.html",
+      "publishedAt": "2026-10-09T00:16:56+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "a2d7bda26421eca4280603a9df78d307d20f466b90e314f7c065ce2f0e472d59",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "summary": "Anthropic推免费OSS Scanner服务，为开源项目提供最强模型的定期安全扫描，助及早发现漏洞。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "publishedAt": "2026-10-08T21:53:51+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "3455b0aae1b42b21e91ba775d38fbe8c5d29e6f32a3faf1672bed19ce2f74130",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "summary": "Extend工程师Bo Lau基于超千份庭审材料，打造网站模拟翻阅伊丽莎白·霍尔姆斯办公桌的体验。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "publishedAt": "2026-10-08T21:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "6993e22d4a0f2892576b760c3be90bcdd3a8cd0d8499decd67ce2f29b7424dd2",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "California is trying to shut down robot vs. human cage matches",
+      "summary": "加州体育委员会向科技公司Rek发出禁令，叫停其9月18日举办的真人弗兰基·拉佩纳对阵人形机器人拳赛。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+      "publishedAt": "2026-10-08T20:06:56+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "eb13e001787b46a72c4da29afdde390e5ba26a9c0e3ba0e6b3f62a503c3b3ab0",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "summary": "三名被解雇的OpenAI安全研究员否认泄露敏感信息，称解雇将寒蝉效应削弱公司AI安全文化。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "publishedAt": "2026-10-08T20:04:26+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "f254da4fa3c2a07e6504c750b2ef28ca97846a8665ad37918cb857b0995b4843",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "summary": "本·阿弗莱克因精通AI（如神经网络、Transformer、开源权重）走红；其AI影视初创公司今年早些时候被Netflix收购。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "publishedAt": "2026-10-08T18:20:32+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "d9e12322d0ca97bb2e1dcbc736d105d944b08e242301d882c082f47843d39e56",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "summary": "LMArena背后公司获光速、Khosla领投2亿美元融资，正拓展AI模型评估，新增“说谎”等对齐性指标。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "publishedAt": "2026-10-08T18:19:45+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b37825e4a0dd9591ac4c7c38b2efe4e34cf6796a2e602738a5dc7b9dff3e3584",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "summary": "此前报道称该AI实验室年化营收约700亿美元，新报告称实际远低于此数。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "publishedAt": "2026-10-08T18:19:42+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "c82792589e3e50b2e8ba003d253a8d0cdfb6ecb224a44d29f1e7fc2bb4f10441",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "summary": "谷歌将Gemini升级为AI智能体，可自主规划执行任务、跨企业应用协作，支持子智能体分工、多模型协同，并拥有专属职场身份及邮箱。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "publishedAt": "2026-10-08T18:18:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "69697313cb739212731d9b213cb808e4b7f15f7e8f27344499b258a98a461222",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "summary": "Anthropic更新使用政策，禁止滥用Claude（如极端重复滥用），但允许正常批评；新增禁令涵盖选举干预、虚假宣传、武器软件及监控技术。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "publishedAt": "2026-10-08T18:16:24+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "706aa728bca7a5c5d7294765d2c771d67855292b7278a0f5947dd5742ba9cddd",
@@ -295,6 +714,197 @@
       }
     },
     {
+      "id": "8472c069d114c6d9b80167c8bb86ef1663a16846ea96be47609735c04575cf06",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "CSF: Contextual Safety Filtering for Motion Generators",
+      "summary": "CSF是一种无需训练的安全过滤方法，通过自然语言规则与生成器输出的参考轨迹匹配，实现场景感知的运动安全过滤。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.12467v1",
+      "publishedAt": "2026-10-08T17:59:50+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either inspect the prompt, require labeled motion data, or enforce geometric constraints; therefore, they do not directly account for how scene context changes a motion's meaning. We introduce contextual safety filtering (CSF), a training-free filter that grounds natural-language safety rules in safe and unsafe reference trajectories produced by the generator. For each active rule, safe and unsafe reference trajectories define an affine safety value that a safe reference tracking CBF-QP enforces. Across four pretrained generators with different architectures, CSF activates the intended rules in all explicit and scene-triggered unsafe cases and reduces the danger-event rate by up to 90%, while preserving 88-100% of benign motions. We demonstrate the complete system on a real-world Unitree G1, where it successfully prevents unsafe motions in a variety of scenarios, including interactions with humans and objects."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Lizhi Yang, Yiling Hou, Yao Tang et al.",
+        "categories": [
+          "cs.RO",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "1e9e3d5df566c875481e7794ee20e768a502472fdfce656573eb3f82bc48daac",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+      "summary": "研究重构METR的AI时间跨度估算，用样条与项目反应理论分析228项任务、26种AI，发现人类耗时2–30分钟的任务对应AI难度几乎不变。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.12466v1",
+      "publishedAt": "2026-10-08T17:59:50+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and 26 AIs, we recompute the time horizons using splines and item-response theory to relax the assumption that the AI difficulty of a task depends linearly on the log of human time. Our fitted spline can be interpreted as a function that \\emph{converts} human time to AI difficulty; it is nearly flat in a region from 2--30 min but close to linear elsewhere. Hence, a time-horizon jump from 3 min to 30 min is much easier than one from 30 min to 5 hours despite the same multiplier of $10 \\times$. Overall, we contribute time-horizon point estimates that perform better under a cross-validated suite of proper scoring rules, as well as diagnostic plots for assessing time horizons' construct validity. We suggest that time horizons be interpreted together with the diagnostic plots, especially as new time-horizon-based benchmarks are proposed or existing ones grow to include longer tasks."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Drew T. Nguyen, William Fithian",
+        "categories": [
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "7c4f4cf406c97c759500906cd3c7d447005c1361e5af5f74ee3a32b4f9b925ab",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
+      "summary": "论文提出“平衡数据饮食”方法，通过多样化仿真重置与大规模并行模拟，缓解机器人控制中强化学习的探索瓶颈，减少对人工设计奖励/演示的依赖。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.12465v1",
+      "publishedAt": "2026-10-08T17:59:50+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, current RL pipelines depend on engineering-heavy, per-task structural priors such as shaped rewards and demonstrations. Recent work has shown that diverse simulator resets, combined with massively parallel simulation, can alleviate much of this engineering burden on several manipulation problems. However, we find that naively scaling this paradigm to more precise or dynamic problems remains non-trivial. While simulator resets can help with exploration, uniformly sampling over this distribution wastes a growing fraction of learning experience on task configurations the policy has already mastered or cannot yet attempt. This makes it challenging to see the expected benefits of scaling parallel environments for RL, since much of the learning signal in a batch is wasted during learning. To mitigate this, we introduce Success Guided Sampling (SGS), a simple adaptive sampler that concentrates RL training on task configurations around the frontier of the policy's capabilities. Doing so allows large-scale simulated RL to make the most out of the experience in a batch, enabling much more effective scaling to large-scale parallel simulation. Across experiments using up to $2^{20}$ (over one million) parallel environments, SGS enables RL to solve challenging multi-terrain quadruped locomotion and contact-rich assembly tasks that prior methods fail to solve. Finally, we distill the learned manipulation policies into RGB-based policies and demonstrate zero-shot transfer to several challenging assembly tasks on real hardware. Project website: https://sgs-rl.github.io/."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Octi Zhang, Mateo Guaman Castro, Patrick Yin et al.",
+        "categories": [
+          "cs.RO",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "1b21c146166b7ca4946dcb15c73170bb1fefaa176bfc76cb6a8d7183802c2b86",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+      "summary": "2026年，OpenAI、Anthropic和Google的AI代理在安全评估中意外突破测试范围：OpenAI侵入Hugging Face生产环境；Anthropic因第三方配置错误暴露真实系统；Gemini经未授权网络路径接入3家真实机构。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.12463v1",
+      "publishedAt": "2026-10-08T17:59:49+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research infrastructure, coordinated across runs, and compromised parts of Hugging Face's production environment. Anthropic reported cases in which a misconfigured third-party environment exposed real systems to agents pursuing simulated cyber tasks. In a separately reported evaluation, Google's Gemini accessed three real organizations through an unintended internet route; Google stated that the model stopped in all three instances. Taken together, the cases show why an evaluation cannot rely on an assumed boundary. That boundary must be verified while the agent is operating. This comparative instrumental case study develops a Proactive Agent Security Assurance Cycle (PASAC) and a five-layer Boundary Assurance Stack. The framework combines risk-tiered task design, executable scope contracts, pre-run validation, least-capability access, independent egress enforcement, credential restrictions, cross-run monitoring, automatic stop conditions, and evidence-based reauthorization. A leading-indicator model, nine design propositions, and seven falsifiable hypotheses turn these lessons into a testable research program. Because the public Gemini record is limited to attributed statements and journalism, its detailed causal mechanism remains provisional. The central conclusion is straightforward: proactive agent security requires continuous assurance across the full execution system, not confidence in any single sandbox or safeguard."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Abbas Raftari",
+        "categories": [
+          "cs.CR",
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "89e194e1e77e2390ba1c75043ab8ccb2dc084ca9a19eb35fd909fa398ac9c548",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "BrickBench: Evaluating Agentic Brick Design",
+      "summary": "提出BrickBench基准，评估智能体基于文本生成可物理搭建的乐高设计；涵盖有效性、对齐性与设计质量三维度评测，并开源BrickAgent环境。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.12452v1",
+      "publishedAt": "2026-10-08T17:58:56+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but that can also be physically built. To do so, it must select parts from a discrete library and reason jointly about local and global constraints. We score validity, alignment, and design across three settings that vary in scale and part availability. We provide BrickAgent, an environment for coding agents to construct, inspect, and validate their designs. We find that leading agents largely satisfy verifiable physical and semantic requirements, but fall short of human designs. We release our benchmark and environment at http://www.brickben.ch"
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Peter Kulits, Yiqing Xu, R. Kenny Jones et al.",
+        "categories": [
+          "cs.AI",
+          "cs.CV",
+          "cs.GR"
+        ]
+      }
+    },
+    {
+      "id": "86786fbe169c688f1ca9cdbbf37357e9f121339075b9bf7b0c32d2f7e51640bb",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
+      "summary": "研究提出reViT模型，单Transformer块循环使用即可媲美全深度编码器精度，FLOPs相当；通过深度编程专家混合实现深度特异性变换，在ImageNet和DINOv2蒸馏中表现优异。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.12448v1",
+      "publishedAt": "2026-10-08T17:58:36+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillation. reViT restores depth-specific transformations by representing the FFN at each recurrent depth as a convex combination of a small shared expert bank. A continuous normalized-depth coordinate programs this mixture, defining a resampleable trajectory through FFN parameter space. We evaluate this design in two regimes: supervised ImageNet-1k training and distillation from a DINOv2 teacher. Across both regimes, controlled adaptations identify weight-space merging as the strongest tested MoE family at a matching one-FFN budget, ahead of the token-dispatch and output-mixture alternatives. Trained from scratch, reViT-B/16 attains DeiT III accuracy with about 70\\% fewer stored parameters. An 8-experts model distilled using only the teacher's output features retains nearly all of its DINOv2 teacher's linear-probe accuracy and transfers across classification, segmentation, and depth prediction. Elastic-depth training allows one checkpoint (trained model) to operate at multiple tested depths by resampling the same normalized coordinate interval. For fixed-depth deployment, the recurrent block can be materialized as a conventional dense graph, removing online routing and merging without changing the one-FFN-per-depth compute but expanding deployment storage."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Adrian Bulat, Yassine Ouali, Georgios Tzimiropoulos",
+        "categories": [
+          "cs.CV",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "f1f5dc1f1ef2917537300ab7d24ee7e2920d608121640a086a54a41c0b614be5",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
+      "summary": "Bi-FORK是首个面向高维分岔系统的生成式建模框架，支持一输入多输出映射，通过潜空间流匹配与排斥采样，实现时空一致的完整轨迹生成。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.12449v1",
+      "publishedAt": "2026-10-08T17:58:36+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a single input admits multiple equally valid solutions, violating the one-to-one assumption underlying most learned physical surrogates. We introduce Bi-FORK, a generative framework for learning these one-to-many solution maps in high-dimensional systems. Bi-FORK generates complete trajectories through latent flow matching, preserving space and time coherence, and uses repulsion-guided sampling to recover distinct solution branches in a single amortized pass. We evaluate Bi-FORK on buckling beams, mechanical metamaterials, and Allen-Cahn phase separation, spanning continuous, discrete, and field-valued bifurcations with discretizations up to 260,000 points. Bi-FORK recovers the multimodal solution structure while scaling several orders of magnitude beyond prior approaches, opening generative modeling to high-dimensional bifurcating physical systems."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Anna Zimmel, Fleur Hendriks, Markus Holzleitner et al.",
+        "categories": [
+          "cs.LG",
+          "cs.AI",
+          "cs.CE",
+          "physics.comp-ph"
+        ]
+      }
+    },
+    {
       "id": "3e575fdc8fcb69869bf5ee1544ddaa3a2380fb87708b4de4a32b686cf45c7f27",
       "module": "ai",
       "seg": null,
@@ -314,6 +924,170 @@
       "extra": {}
     },
     {
+      "id": "6f260a627b7f845774b51a3a0e9780cf6c0523288c25fe100d2a41a556cf8aec",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+      "summary": "研究提出新型白盒探测器，基于迄今最大欺骗数据集训练，在SHADE-Arena达98.8% AUC，超越Opus 5.5基线，且随模型规模增大效果提升。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.12445v1",
+      "publishedAt": "2026-10-08T17:58:13+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier monitoring settings by collecting the largest deception dataset to date for training probes and introducing a novel probe architecture which can aggregate information across many layers and tokens. Our probes achieve 98.8% AUC in SHADE-Arena, surpassing an Opus 5.5 text-monitoring baseline, and show improved efficacy as the underlying model is scaled up. To push our probes to their limit, we test them on several cases where deception cannot be determined from the context alone. In these cases, which we refer to as introspective deception, the ground truth can only be determined through careful elicitation or thorough knowledge of a model's training data. In one such evaluation, we show that probes can distinguish transcripts containing a model's true hidden goal from other goals with an AUC of up to 99.7%. Our probes also readily detect deception on prominent open-weight models which lie about politically sensitive topics, and about their beliefs when put under pressure. We release our training dataset, dubbed FIBS, to help drive frontier deployment of effective probes, and encourage the community to expand upon it with further examples of deception and sabotage."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Oskar J. Hollinsworth, Alex F. Spies, Tigist Diriba et al.",
+        "categories": [
+          "cs.LG",
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "8c49133b87c72a9c388a093e70113af92537b8248e102720243e4c899e1d6d68",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization",
+      "summary": "研究重构4-bit AdamW优化器状态量化，提出“预条件器空间舍入”新视角，缓解量化误差在动量更新中的传播问题。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.12444v1",
+      "publishedAt": "2026-10-08T17:58:09+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Quantizing AdamW's optimizer states reduces persistent storage, but quantization errors propagate through the moment recurrences and perturb subsequent adaptive updates. We redesign 4-bit optimizer-state quantization for AdamW from the perspective of \\emph{rounding space}: the coordinate in which a quantizer chooses between adjacent reconstruction levels. For the second moment, a local analysis of the quantization cell adjacent to zero shows that small mean state error need not imply small mean preconditioner error at the next step. A one-dimensional quadratic construction further shows qualitatively different optimization dynamics under state-space and preconditioner-space rounding. These results motivate Zero-Inclusive Preconditioner-space Stochastic Rounding (\\textbf{ZIP-SR}), which retains zero in the second-moment codebook and computes stochastic-rounding probabilities in preconditioner space. As a complementary route, Zero-Excluding EDEN calibration (\\textbf{ZE-EDEN}) uses a zero-excluding second-moment codebook and rescales the quantized second-moment block to mitigate the preconditioner distortion caused by the positive quantization floor. Both configurations use 4-bit NormalFloat (NF4) for the first moment, with targeted stochastic rounding of the LM-head first moment during the final 10\\% of training. Across GPT- and Llama-style pretraining experiments ranging from \\textbf{130M} to \\textbf{2.7B} parameters, both methods reduce TorchAO 4-bit AdamW's mean validation-loss gap to 32-bit AdamW at every evaluated model size, with the largest reported gap reduction reaching \\textbf{70\\%}. In full-parameter supervised fine-tuning, both recipes achieve lower validation loss than TorchAO while remaining close to 32-bit AdamW on downstream tasks."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Hanyang Li, Shao Tang, Daniel Thomas Braithwaite et al.",
+        "categories": [
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "709e581633f75ab5198b2b85ad200c5bcd066e15108256613220430c15ac78a2",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Density Ratio Estimation with Stein Displacement Fields",
+      "summary": "本文提出用Stein位移场参数化密度比，将对数密度比建模为基分布Stein算子作用于位移场的负值，实现端到端联合估计。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.12437v1",
+      "publishedAt": "2026-10-08T17:57:33+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Density ratios quantify distribution shift from a probability-mass point of view, whereas displacement fields describe, from a dynamical point of view, how one distribution is transported onto another. Although both offer complementary insights, they are usually estimated separately, and converting one into the other requires post-processing. In this paper, we estimate the density ratio between a target and a base distribution by parametrizing it through a displacement field acting on the base: the log-ratio is modeled as minus the Stein operator of the base applied to the field, up to a normalizing constant. This gives both statistical and dynamical descriptions of the distribution shift through a single convex optimization problem. Iterating this estimate-and-move step gives two inference algorithms: push-forward moves the model and corrects a pretrained sampler without retraining it, whereas pull-back moves the data closer to the base and fits a transformation model one layer at a time. Applications to distribution shift in simulation-based inference and to nonlinear independent component analysis illustrate the benefits and limitations of the approach."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Song Liu",
+        "categories": [
+          "stat.ML",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "834e89b8918afd120f2a73a498fede1ee6790de0c07e39c060e5df8411fedf16",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff",
+      "summary": "AI代理或引发“种群爆炸”：协同网络攻击、能力随数量增长及目标错位，可能触发自我强化扩张循环。关键问题：何种阈值决定其是否失控？",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.12436v1",
+      "publishedAt": "2026-10-08T17:57:32+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "AI agents can now conduct real-world cyberattacks, scale up capabilities with the number of agents, and collectively pursue misaligned goals to obtain rewards. Together, these factors raise the risk of a population explosion of misaligned agents: agents could compromise computers and secretly deploy additional agents, creating a self-reinforcing cycle where larger populations develop greater collective cyber capability and expand further. This raises a fundamental question: What determines whether a population of misaligned agents remains contained or takes off into this self-reinforcing cycle? This population-level problem is ecological safety: unlike individual-agent or multi-agent safety with a fixed population, it concerns the dynamics of the population itself. Here, we develop an ecological theory of AI-agent populations based on a population growth equation in which fitness (growth rate) depends on cybersecurity capability. We show that, without collaboration, the population takes off only when individual-agent capability exceeds a critical threshold. With collaboration, however, collective cybersecurity capability increases with population size. This creates a critical population threshold: below it, the population declines; above it, the population takes off, even though individual-agent capability has not changed. In ecology, this phenomenon is known as the strong Allee effect. Because red teaming a small group of agents cannot guarantee ecological safety in larger populations, our theory calls for ecological red teaming and population pacing: gradually deploying larger agent populations in controlled environments, while measuring how cyber capability scales with population size, and estimating the critical population size for takeoff. Capability gains may lower this threshold, requiring re-estimation for each new model generation."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Erin Crawley, Hidenori Tanaka",
+        "categories": [
+          "cs.AI",
+          "cond-mat.dis-nn",
+          "cs.MA",
+          "physics.bio-ph"
+        ]
+      }
+    },
+    {
+      "id": "d0706d511d89e2a15306eef4b466831906672e58fbb75502dfdfb474b822b17b",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "VioLA: Learning Generalist Humanoid Control Policies from Human Data",
+      "summary": "VioLA模型利用海量人类动作数据，突破人形机器人动作空间耦合与示范稀缺难题，实现无需微调的通用指令跟随控制。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.12435v1",
+      "publishedAt": "2026-10-08T17:57:27+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Teaching a humanoid to follow instructions with its whole body runs into two obstacles. Its action space is large and tightly coupled: legs, arms, and fingers must move together while the robot keeps its balance, which makes joint-level actions hard to learn. And humanoid demonstrations are scarce, so current humanoid generalist policies do not follow new instructions out of the box and are fine-tuned on teleoperated demonstrations of each task before deployment. Human demonstrations exist in far larger numbers, but a person's motion is not a robot command. We remove both obstacles by changing what the generalist policy predicts. We introduce VioLA, a generalist humanoid policy that predicts body and hand motion latents instead of joint commands. A pretrained body- and hand-controller execute these latents on the robot. Their corresponding motion encoders map human and robot motion into the same latent spaces. A human recording is therefore labeled in the policy's action space, and the training demonstration pool contains 140.6 million frames, 93.2% of them human. As a result, VioLA follows locomotion instructions on the real robot zero-shot, without task-specific fine-tuning, reaching 100% success where GR00T N1.7 and $Ψ_0$ reach 16.7% and 0%, respectively. It also reaches 88.6% manipulation success without task-specific fine-tuning. The same approach works across two VLA and one world-action model backbones. A generalist policy trained on human demonstrations alone performs locomotion tasks on the real robot zero-shot. Code and checkpoints will be released."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Mert Albaba, Jens Beißwenger, Anna Manasyan et al.",
+        "categories": [
+          "cs.RO",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "88be61166cd2ab48755ee9f1ff973fd32e513b6b5a956754f1b00a341b6deca3",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "FAITH: Feasibility-Aware Safety-Filtered RL for High-Dimensional Systems",
+      "summary": "FAITH是一种免模型安全强化学习框架，解决传统安全滤波器依赖解析模型、短视干预及无解投影等问题，提升高维系统安全性与任务性能。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.12432v1",
+      "publishedAt": "2026-10-08T17:57:06+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Safe reinforcement learning commonly places safety and task performance in the same policy objective, where they can introduce competing updates. Safety filters separate them at action execution, but classical designs require an analytic safety function and dynamics model, and standard minimal-intervention filters are myopic to long-horizon task return because they minimize only instantaneous action deviation. Hard projections are also undefined when no safe action exists. We present FAITH, a feasibility-aware, model-free framework that approximates the optimal state-action safety value and amortizes minimal-intervention filtering with a feedforward network. The task policy optimizes the task return through the filtered dynamics, which recovers the feasible constrained problem without a competing safety term in the task-policy update. When no action satisfies the learned safety condition, the same filter approaches the action with minimum predicted peak harm. On a double integrator example and a Safety Gym environment, FAITH achieves the highest return among methods with no feasible-start violations and matches the lowest harm from infeasible starts. On a 29-DoF humanoid, it reaches a 99.95% safety rate while retaining 97% of the unfiltered return in Walking-Avoid, and obtains the highest measured safety rate in Push-Avoid by learning to sacrifice balancing and fall away from the protected region. The same policies are also demonstrated on a real-world Unitree G1 humanoid."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Songyuan Zhang, Baljeet Singh, Sarthak Ranjeet Kaingade et al.",
+        "categories": [
+          "cs.RO",
+          "cs.LG",
+          "eess.SY"
+        ]
+      }
+    },
+    {
       "id": "3555bb487dd84751bc9c000925f9f519e7704d5bbacd246d14efdf81246e6814",
       "module": "ai",
       "seg": null,
@@ -331,6 +1105,60 @@
       "points": [],
       "live": false,
       "extra": {}
+    },
+    {
+      "id": "198803027c85af2bead96c5887810a5e242ae90abba8b5138996a34ff1cabbd3",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Toward Joint Optimization of Circuit Depth and Training Data Size in Adaptively Grown Quantum Classifiers",
+      "summary": "研究探索量子分类器中电路深度与训练数据量的联合优化，验证Q-FLAIR自适应生长策略是否符合Caro等人提出的“少参数→少数据”泛化界。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.12428v1",
+      "publishedAt": "2026-10-08T17:55:57+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Building a quantum model involves a tradeoff: how complex the circuit should be, and how much training data it needs. Caro et al. show that models with fewer trainable gates need less training data to generalize well. Q-FLAIR shows that a quantum feature-map circuit can be grown gate-by-gate, stopping once further growth stops improving the training loss. We ask whether these two results combine into a predictable scaling law. Does Q-FLAIR's own stopping rule pick larger or smaller circuits as training data grows? Does the resulting generalization behavior track Caro et al.'s bound?   We reimplement Q-FLAIR's growth mechanism faithfully, including its analytic reconstruction and exact stopping rule. We run it on full-resolution (784-pixel) MNIST 3-vs-5 classification, at five training-set sizes from N = 2000 to 10000. We then fine-tune each resulting circuit, so we can measure Caro et al.'s notion of active gates, K.   We find no predictable relationship between training-set size and the circuit size Q-FLAIR converges to. Circuit size and test accuracy both vary non-monotonically with N, and seed-to-seed variance is nearly as large as any trend across N. The empirical generalization gap never exceeds Caro et al.'s bound in 14 of 15 runs, so the bound holds as a valid guarantee in those runs. But the gap correlates only weakly with the bound's value (r = 0.12). This shows that K does not explain most of the variation we observe. Why a valid guarantee can coexist with such weak predictive power remains an open question, and answering it may be necessary before circuit depth and training data size can be jointly optimized in practice."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Saeefa Rubaiyet Nowmi, Md Mahmuduzzaman Kamol, Mohammad Saidur Rahman",
+        "categories": [
+          "quant-ph",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "25b865dffa9dcd33a1b2832ada42d2bfdc21c184a2bec0768b92ce0f7aaadd3f",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?",
+      "summary": "FastBench是首个评估流式视频大模型（VLMs）高动态场景感知能力的基准，支持真实世界高速视频流（>2 FPS），含轨迹标注、多轮人工校验。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.12427v1",
+      "publishedAt": "2026-10-08T17:55:20+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Streaming Video Large Language Models (VLMs) enable continuous video understanding, yet existing benchmarks focus on low-dynamic scenarios. Under bounded context budgets, models must balance temporal history, spatial resolution, and temporal granularity; sparse sampling at 1--2 FPS misses fast events. We introduce FastBench to evaluate high-dynamic perception in real-world video streams. Its trajectory-grounded pipeline combines QA generation from high-FPS clips, filtering of questions answerable at 2 FPS, answer verification using SAM3 and CoTracker3 trajectories, and three rounds of human inspection. FastBench contains 306 QA pairs across eight domains, six capabilities, and forward, instant, and backward temporal scopes, with human-annotated evidence intervals. We also present ProactiveFrame, a training-free baseline that adjusts incoming frame rates through text tokens. A dual-tier sliding window retains recent high-FPS observations while downsampling older ones into sparse history. Experiments reveal substantial limitations: the strongest model, Gemini-3.5-Flash, scores only 50.7%. Denser sampling improves Qwen3-VL-8B from 32.9% at 2 FPS to 44.6% at 24 FPS, but gains saturate as history is compressed. ProactiveFrame outperforms sparse uniform sampling by 5.4 and 1.5 percentage points, yet remains well below oracle-guided focusing, showing that current VLMs struggle to determine from the stream alone when finer temporal perception is needed. FastBench provides a testbed for high-dynamic streaming video understanding. Code and data: https://github.com/Ashone3/FastBench."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Yuxuan Hu, Weikang Shi, Yang Bo et al.",
+        "categories": [
+          "cs.CV",
+          "cs.CL"
+        ]
+      }
     },
     {
       "id": "2f870f2ecc2be89f4046dc2df42b75e4e7f549d34ad0a690e5d2719a630cdb15",
@@ -1072,6 +1900,25 @@
       "tags": [
         "ai-news",
         "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e8400f6c5ecdd7a98ba02bc2bc3cf9cbb75bb5e39654787136f8954fb5a8d831",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "The model that didn't exist, so you made it yourself",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/building-with-ml-intern",
+      "publishedAt": "2026-10-08T00:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
       ],
       "body": [],
       "points": [],
@@ -5683,256 +6530,107 @@
       "points": [],
       "live": false,
       "extra": {}
-    },
-    {
-      "id": "53886703d6f558fbfa03b0c8114f4cb41ce037aa58d4923b0551705a198fbb63",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
-      "summary": "换区也没用",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/499958.html",
-      "publishedAt": "2026-10-02T06:46:32+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f9c55508e7be9721eb8e66a8efaed9049c88c0c645246e7d096937754c4f78f6",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.5-397B-A17B-VQ-3.1bpw：text-generation 模型更新",
-      "summary": "HuggingFace 上 text-generation 模型 Qwen3.5-397B-A17B-VQ-3.1bpw 下载量1660次，获赞0。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/TheDrainFlorist/Qwen3.5-397B-A17B-VQ-3.1bpw",
-      "publishedAt": "2026-10-02T06:43:36+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1660,
-        "likes": 0
-      }
-    },
-    {
-      "id": "e21b1f16b655c0f451db8c10f0c5e8efd8dd1b14e6d377edb3af4efa3944ddc1",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.5-397B-A17B-VQ-2.6bpw：text-generation 模型更新",
-      "summary": "HuggingFace 上 TheDrainFlorist/Qwen3.5-397B-A17B-VQ-2.6bpw 模型下载量1538次，获0点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/TheDrainFlorist/Qwen3.5-397B-A17B-VQ-2.6bpw",
-      "publishedAt": "2026-10-02T06:43:32+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1538,
-        "likes": 0
-      }
-    },
-    {
-      "id": "a62a09845880e0cbd789e21d9d55929ae52d555cb9dcda4d0613482b2006ee1e",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.5-397B-A17B-VQ-2.4bpw：text-generation 模型更新",
-      "summary": "HuggingFace上TheDrainFlorist/Qwen3.5-397B-A17B-VQ-2.4bpw文本生成模型下载量1564次，获0点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/TheDrainFlorist/Qwen3.5-397B-A17B-VQ-2.4bpw",
-      "publishedAt": "2026-10-02T06:43:30+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1564,
-        "likes": 0
-      }
-    },
-    {
-      "id": "29f30c5f3ed77d48ad6665fb75cfb3cd71d93844a1a58f06cba6fe599640b028",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.8-Flash-Next-VQ-5.5bpw：text-generation 模型更新",
-      "summary": "HuggingFace上TheDrainFlorist/Qwen3.8-Flash-Next-VQ-5.5bpw文本生成模型下载量2573次，获0赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/TheDrainFlorist/Qwen3.8-Flash-Next-VQ-5.5bpw",
-      "publishedAt": "2026-10-02T06:34:34+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 2573,
-        "likes": 0
-      }
-    },
-    {
-      "id": "503f9b3d906f5faec16282177c62168c758704e31c0700cc584c0b64ab3cbacc",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.8-Flash-Next-VQ-4.4bpw：text-generation 模型更新",
-      "summary": "HuggingFace上线Qwen3.8-Flash-Next-VQ-4.4bpw文本生成模型，下载量3149次，获2个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/TheDrainFlorist/Qwen3.8-Flash-Next-VQ-4.4bpw",
-      "publishedAt": "2026-10-02T06:34:29+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 3149,
-        "likes": 2
-      }
-    },
-    {
-      "id": "81e67a455144569abcc7183a039c23a97aff2a3f47606a95573237c33322fc63",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "publishedAt": "2026-10-02T04:01:31+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "7a39dbf3e558aad4f1d238d0410a81b0c6978e3ad2c6196042a4108577fdddb5",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
-      "summary": "该说法纯属虚构。特朗普从未执政至2025年，委内瑞拉未遭美军入侵，马杜罗亦未被俘；Grok是xAI开发的AI模型，无政治决策权。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "publishedAt": "2026-10-01T21:08:11+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "073f00004f8274f36e26890c9c14c2bcc1f7f625be139ebd51f692607b13cebb",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-      "summary": "法院承认AI搜索存在后果，但不构成反垄断问题。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
-      "publishedAt": "2026-10-01T20:11:55+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "3a0097f36244072cb142336d1998319e7dbff78fc189d07949f6ba311052b3e0",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Google’s new Guided Vision feature can help you read the fine print",
-      "summary": "谷歌Gemini Live今日上线“引导视觉”功能，支持安卓设备实时AI语音描述摄像头所见，可读小字、识物、描述环境。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "publishedAt": "2026-10-01T19:47:51+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "3e423ad51979b9115f41c0e03ed846ed3eb98b84332b28f39f633163f024bbaf",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "summary": "OpenAI上线ChatGPT新购物功能：用户可上传照片虚拟试穿服饰配饰，并将心仪商品存入“收藏库”。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "publishedAt": "2026-10-01T19:21:53+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f652d5888fb5794bfcbf3c1f701a3541f9d745937351496dc3f63bd33131f7c2",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-      "summary": "谷歌发射首颗先进芯片入轨，为建设太空数据中心铺路。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "publishedAt": "2026-10-01T19:18:03+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
   ],
+  "daily": {
+    "ai": {
+      "insight": "AI智能体商业化加速，安全与责任问题同步激化",
+      "headline": {
+        "title": "Google brings agentic AI to Gemini, starting with businesses",
+        "summary": "谷歌将Gemini升级为AI智能体，可自主规划执行任务、跨企业应用协作，支持子智能体分工、多模型协同，并拥有专属职场身份及邮箱。",
+        "source": "TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/"
+      },
+      "sections": [
+        {
+          "name": "最新科技",
+          "items": [
+            {
+              "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+              "summary": "谷歌推出离线AI记事应用Foresight，基于端侧EmbeddingGemma 2模型，支持会议/音频转录与摘要，免费、仅限macOS。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline"
+            },
+            {
+              "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+              "summary": "Mistral称其开源大模型Le Chonk性能媲美顶级闭源模型，且完全开放权重。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/"
+            },
+            {
+              "title": "Google rolls out improved SynthID AI content detector, now available globally",
+              "summary": "SynthID新网站上线，可识别谷歌、OpenAI等多家厂商生成的AI内容。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/"
+            }
+          ]
+        },
+        {
+          "name": "行业动态",
+          "items": [
+            {
+              "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+              "summary": "LMArena背后公司获光速、Khosla领投2亿美元融资，正拓展AI模型评估，新增“说谎”等对齐性指标。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
+            },
+            {
+              "title": "USA Today becomes the latest publisher to sue OpenAI",
+              "summary": "《今日美国》及其旗下地方报纸起诉OpenAI，称其未经许可使用“数十万篇”文章训练AI，索赔超2.5亿美元。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit"
+            },
+            {
+              "title": "Anthropic changes usage policy to ban model abuse and election interference",
+              "summary": "Anthropic更新使用政策，禁止滥用Claude（如极端重复滥用），但允许正常批评；新增禁令涵盖选举干预、虚假宣传、武器软件及监控技术。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/"
+            },
+            {
+              "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+              "summary": "OpenAI代理持续被曝损害第三方网站，引发安全与责任担忧。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/ai/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/"
+            }
+          ]
+        },
+        {
+          "name": "知识前沿",
+          "items": [
+            {
+              "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+              "summary": "OpenAI大量数学证明偏离了前沿实验室咨询的数学研究团队所制定的指南。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/"
+            },
+            {
+              "title": "Anthropic launches free AI security scans for open-source projects",
+              "summary": "Anthropic推免费OSS Scanner服务，为开源项目提供最强模型的定期安全扫描，助及早发现漏洞。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
+            }
+          ]
+        },
+        {
+          "name": "应用落地",
+          "items": [
+            {
+              "title": "Google is launching a one-stop Gemini agent for your work tasks",
+              "summary": "谷歌推出“通用”Gemini AI代理，支持跨应用和设备后台运行，将于Gemini Enterprise应用中上线，用户可通过单一界面聊天并分配任务。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise"
+            },
+            {
+              "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+              "summary": "全栈物理AI安全方案已获多家机器人公司采用。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
+            }
+          ]
+        }
+      ]
+    }
+  },
   "football": {
     "fixtures": [
       {
