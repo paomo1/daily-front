@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T07:11:57.596022+00:00",
+  "generated_at": "2026-10-09T17:50:53.734504+00:00",
   "date": "2026-10-09",
   "keep_days": 7,
-  "count": 296,
+  "count": 291,
   "items": [
     {
       "id": "64204820be5c58c212306702fb26ac121ab78a6dc5afacfd353b9911045c7cf2",
@@ -13,7 +13,7 @@
       "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-      "publishedAt": "2026-10-09T07:09:43.485797+00:00",
+      "publishedAt": "2026-10-09T17:49:22.275248+00:00",
       "tags": [
         "欧冠",
         "赛程"
@@ -39,7 +39,7 @@
       "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2489515",
-      "publishedAt": "2026-10-09T07:09:43.485793+00:00",
+      "publishedAt": "2026-10-09T17:49:22.275244+00:00",
       "tags": [
         "法甲",
         "赛程"
@@ -65,7 +65,7 @@
       "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2482192",
-      "publishedAt": "2026-10-09T07:09:43.485788+00:00",
+      "publishedAt": "2026-10-09T17:49:22.275238+00:00",
       "tags": [
         "意甲",
         "赛程"
@@ -91,7 +91,7 @@
       "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2508371",
-      "publishedAt": "2026-10-09T07:09:43.485784+00:00",
+      "publishedAt": "2026-10-09T17:49:22.275233+00:00",
       "tags": [
         "德甲",
         "赛程"
@@ -117,7 +117,7 @@
       "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2506240",
-      "publishedAt": "2026-10-09T07:09:43.485778+00:00",
+      "publishedAt": "2026-10-09T17:49:22.275226+00:00",
       "tags": [
         "西甲",
         "赛程"
@@ -143,7 +143,7 @@
       "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2494052",
-      "publishedAt": "2026-10-09T07:09:43.485747+00:00",
+      "publishedAt": "2026-10-09T17:49:22.275194+00:00",
       "tags": [
         "英超",
         "赛程"
@@ -159,6 +159,319 @@
         "country": "England",
         "status": "NS"
       }
+    },
+    {
+      "id": "f760b2fff75e5e3b818db164c687aa1f5fd97a0864b527487bab981919cd0678",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Separate：model 模型更新",
+      "summary": "HuggingFace 上 anujpatel863/Separate 模型获 1,072 次下载、1 个点赞，属主流模型之一。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/anujpatel863/Separate",
+      "publishedAt": "2026-10-09T17:48:26+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1072,
+        "likes": 1
+      }
+    },
+    {
+      "id": "e5f1c9735ef50b47737d61affdeccd54bc0911d736d6948a926df3195fe7c108",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "summary": "亚马逊将停止在数据中心选址谈判中使用保密协议（NDA），效仿微软今年早前举措，以缓解因AI基建透明度不足引发的社区反对及多地AI项目暂停。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "publishedAt": "2026-10-09T16:56:42+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "33dc62bf4b3b0764c23eaba8b80cc47f9206a2985f8226a92c43896d9ce36eae",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "summary": "亚马逊将停止在数据中心选址谈判中使用保密协议（NDA），效仿微软今年早前举措，以缓解因AI基建透明度不足引发的社区反对及多地AI项目暂停。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "publishedAt": "2026-10-09T16:53:02+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "716e170311edd545d74736b1bc99c717a3661ea894cb233fcdc0f9f6652e2a76",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Danu Robotics’ fight to build a better recycling robot",
+      "summary": "丹努创始人Amy Ma六年专注研发更优可回收垃圾分拣技术。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "publishedAt": "2026-10-09T16:45:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "1d9313970d809c8e14be503d8446ff2689fbacc7a7b6b3df6805f9b8f06ddcca",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "We can’t help treating AI like it’s human. But should we?",
+      "summary": "图尔克尔博士指出：人与关系型人工制品互动时，会相信它关心自己，并本能地予以回应。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "publishedAt": "2026-10-09T16:40:14+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "74b024cdc7db81e4311a2d7a2d4885cb9c5046158d0bb599c18768addfab370b",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "a16z’s Olivia Moore on the state of consumer AI",
+      "summary": "摩尔看好消费级AI巨大机遇，认为行业需拓展订阅费和API收费之外的收入来源。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+      "publishedAt": "2026-10-09T15:43:33+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "68378e0683549e6ebaba052f39c7e8bbdaa3c4b21f7792bb195a21b29cd818a4",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Impactful scheduling for GPU clusters",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "publishedAt": "2026-10-09T15:20:29+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "32d87e382ca02ff06e6d7bcd7b093bc5b317e50d4206f4c2658c7b24f5a3bb62",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Trump’s attempt to rename AI is looking awfully artificial",
+      "summary": "特朗普擅用标签攻击对手，如“小马可”“希拉里骗子”，并将“假新闻”重塑为贬义词泛指主流媒体。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "publishedAt": "2026-10-09T14:25:43+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "eeef941afcd905862bc6a9933cb414505b6854ea3528b400c4c7d444298127d6",
+      "module": "ai",
+      "seg": null,
+      "cat": "厂商动态·阿里通义千问",
+      "title": "阿里通义千问 发布/更新 Qwen-Image-2.1-Turbo（text-to-image）",
+      "summary": "阿里通义千问发布新模型Qwen/Qwen-Image-2.1-Turbo，Hugging Face页面显示0次下载、206个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+      "publishedAt": "2026-10-09T14:14:45+00:00",
+      "tags": [
+        "huggingface",
+        "vendor",
+        "Qwen"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 206,
+        "vendor": "阿里通义千问"
+      }
+    },
+    {
+      "id": "51cc90f1ca9cf31e38fd7d5357b24125601a8b2d318a22de5ed97e4f08b3b017",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+      "summary": "TechCrunch Disrupt 2026将于10月13–15日在旧金山Moscone West举行，1万名科技人士参会；早鸟票立减100美元，第二张同类型票五折。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+      "publishedAt": "2026-10-09T14:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "d4d4a1f0812152393df45c8ed750af9734d619a5b8fcc5cab4504454618cf5f0",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+      "summary": "8月，初创公司Instinct以“邀请制+零营销+无官网”方式推出AI代理，凭借短信式交互迅速走红，成AI领域最热门新锐。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "publishedAt": "2026-10-09T14:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "bab79b65a001ecda7f664361a56809a9ea02e4303ad1fa6608b0ecd8fccad67c",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "summary": "OpenAI解雇三名安全研究员，称其严重违反敏感信息处理政策，构成“重大失信”。涉事人员为Jasmine Wang、Tomek Korbak和Mikita Balesni。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "publishedAt": "2026-10-09T09:48:26+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "be61aa2b48c37ca122d20495965c21c9be7997c14b066dc044f000cd9af977ed",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "TRAE终于把Code和Work合并了",
+      "summary": "大写的方便",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/502426.html",
+      "publishedAt": "2026-10-09T09:19:57+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "08b0ff3042536dfc72ee7349d7c0346244b13ed0a129128c66926956f22c4e88",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+      "summary": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/502422.html",
+      "publishedAt": "2026-10-09T08:53:08+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "d1aa1d6ed96032ad51fa664f6d9df9624236627e0117b5ae0b30d014ab22da5a",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
+      "summary": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/502411.html",
+      "publishedAt": "2026-10-09T08:47:34+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "1d82851928010c438a1da7f32003229848ce8ba3973e661c79a863a2f756a4e6",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "字节找到了DeepSeek时强时弱的原因",
+      "summary": "答不答得对，得看Token站位",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/502364.html",
+      "publishedAt": "2026-10-09T07:11:55+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "dc023555094820cbade7391073530d0331ef734cc5b77552b763875e06e0c23b",
@@ -274,6 +587,25 @@
         "downloads": 1324,
         "likes": 1
       }
+    },
+    {
+      "id": "4bda9139b8c6b8da4fdf2728d67c7d761e6e7d1310409f60451e7ebb15995164",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
+      "summary": "Google 研究成果首次登上《柳叶刀》主刊",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/502359.html",
+      "publishedAt": "2026-10-09T06:28:55+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "ddd634b5912f15233e9198944af878caf17485223bde182db77f822af43f3d96",
@@ -1468,6 +1800,31 @@
         "play": 80,
         "bvid": "BV19XHD6sEdC",
         "duration": "5:28"
+      }
+    },
+    {
+      "id": "860e533b63d40778dfe70eb9a4513710a9f373913ee83ba6dd088d02c1f5ae1f",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "版本更新后的隐藏S级阵容：莲华拼多多详细教学！",
+      "summary": "UP主 小七吖爱追剧 · 603播放 · 6:55",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117404894041458",
+      "publishedAt": "2026-10-08T10:50:40+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "小七吖爱追剧",
+        "play": 603,
+        "bvid": "BV1WYHD6uEXW",
+        "duration": "6:55"
       }
     },
     {
@@ -6035,525 +6392,24 @@
           "cs.AI"
         ]
       }
-    },
-    {
-      "id": "3e4e24e81691c7a032dbbf8fe96c79a9fb9525995a64219c34274f6bbf7b32c2",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-      "summary": "白宫召集扎克伯格、贝索斯、马斯克等科技巨头签署AI安全承诺；特朗普称其“道德约束力”，并签令将AI重命名为“超级智能”。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-      "publishedAt": "2026-10-02T17:48:16+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d7f564c03860760d962c6aea76d0b9a61f44cd6168c506b60a57f3771039e5d9",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Simulation-Free Learning of Population Dynamics with Wasserstein Lagrangian Residuals",
-      "summary": "研究提出Double-Stitch方法，首次实现无需仿真的Wasserstein空间Lagrangian动力学学习，显著降低训练成本。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.03679v1",
-      "publishedAt": "2026-10-02T17:46:52+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "The dynamics of cells, organisms, and fluids are often modeled as probability distributions evolving over time. Reconstructing and extrapolating this evolution from unpaired snapshots requires assumptions about the underlying process. Wasserstein gradient flows are a common choice, but they cannot describe conservative or periodic dynamics. Lagrangian mechanics in Wasserstein space covers both, but existing methods for learning it are simulation-based: they run a numerical solver at every training step, which makes training expensive. We propose Double-Stitch, a simulation-free method that learns these mechanics by penalizing the residual of the equation of motion along a learned population path. We derive this equation from a Clebsch variational principle that does not require gradient velocities, and show that the residual vanishes exactly when the equation holds. We test Double-Stitch on synthetic, single-cell and ocean vortex datasets and find that it matches or outperforms gradient-flow methods and simulation-based WLM on most tasks, while training $4$-$14$ times faster than WLM. We provide a JAX implementation of Double-Stitch at https://github.com/BasisResearch/stitching."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Fedor Sergeev, Markus Heinonen, Daniel Waxman et al.",
-        "categories": [
-          "cs.LG",
-          "stat.ME",
-          "stat.ML"
-        ]
-      }
-    },
-    {
-      "id": "d37f08a2c5dc466365a223797a28a5ef17e32e58a61a0d67a2de89aee3d5a519",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution",
-      "summary": "提出FrugalEvo：一种成本感知的LLM引导程序进化框架，用高价LLM探索策略、低价LLM执行优化，并设计缓存高效进化流程。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.03675v1",
-      "publishedAt": "2026-10-02T17:44:05+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "LLM-guided evolutionary methods, such as AlphaEvolve, have emerged as powerful approaches for challenging computational optimization problems, such as circle packing. However, prior work typically optimizes performance gain over a fixed number of iterations. We argue that practical optimization should maximize gain per unit cost. To this end, we propose FrugalEvo, a cost-aware evolutionary framework where a stronger, higher-cost LLM explores solution strategies, and a cheaper LLM implements them and iteratively refines the resulting code. We also design a cache-efficient evolution process, where our harness and prompts maximize the sharing of prefixes across different evolution steps, to improve cache reuse. To measure solution quality throughout a fixed cost budget, we introduce Budget-Aware Area Under the Curve (BA-AUC), defined as the area under the best-so-far evaluation score curve over cumulative LLM cost, up to the budget. Across 10 mathematical and systems optimization tasks, FrugalEvo matches or surpasses state-of-the-art baselines, including OpenEvolve, ShinkaEvolve, AdaEvolve, and EvoX, in final solution quality and achieves higher BA-AUC on 9 tasks. It also achieves higher average performance than these baselines on 10 algorithmic optimization tasks from ALE-Bench-Lite. Notably, on circle packing, FrugalEvo achieves new state-of-the-art performance with GPT-5.6 Terra and Luna for only 1.68 USD and with GLM-5.3 and its Flash variant for only 0.55 USD, matching or surpassing all baselines, including multi-agent methods such as CORAL and SwarmResearch, which cost approximately 50 USD on average."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Hui Chen, Xuan Qi, James Xu Zhao et al.",
-        "categories": [
-          "cs.NE",
-          "cs.AI",
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "5b86dd586dda7b369bae90092cd3ffef42a01cee5f587a4a2d454b1d7c94de5d",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Planning to Learn",
-      "summary": "Ian Osband指出：策略梯度法在LLM后训练中关键，但分类任务中即使梯度精确平滑，其期望准确率仍低于交叉熵——因策略梯度短视，只关注即时收益。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.03667v1",
-      "publishedAt": "2026-10-02T17:38:28+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Policy-gradient methods are central to modern reinforcement learning, including LLM post-training. When they struggle, the usual suspects are exploration, credit assignment and action-sampling noise. Classification has none of them. A classifier is a policy whose expected reward, its \\emph{expected accuracy}, is the probability it assigns to the correct label, and because that label is known, the policy gradient is exact and smooth. Yet exact policy gradient loses to cross-entropy, even on expected accuracy. The exact gradient is myopic: it values an update only by what it buys now, but each update also sets where the next one starts, so an update's value depends on how much learning remains. Viewed this way, cross-entropy is patient accuracy, the total error an example would pay if its log-odds rose at unit speed forever, while exact policy gradient is the zero-horizon limit. Truncating this total at the learning that remains yields the horizon loss, a one-line change that moves from cross-entropy toward exact policy gradient as training runs out. In a simple allocation model, it provably escapes the trap that catches each endpoint. On MNIST and on ImageNet with ResNet-50, ResNet-101 and ViT-S/16, the horizon loss improves top-1 accuracy over cross-entropy at a flat learning rate, and the gain grows with label noise."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Ian Osband",
-        "categories": [
-          "cs.LG",
-          "math.OC",
-          "stat.ML"
-        ]
-      }
-    },
-    {
-      "id": "ecdc74337dcdeb01beed94cd244e998fa2cc8fd1123e5ea498742adce99e48bd",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models",
-      "summary": "提出Pivot-SD方法，针对掩码扩散语言模型（dLMs）的信用分配难题，通过自蒸馏优化关键token级承诺训练，提升推理效率。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.03665v1",
-      "publishedAt": "2026-10-02T17:37:51+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Masked diffusion language models (dLMs) offer a promising parallel alternative to autoregressive models for complex reasoning. However, they face a distinct credit-assignment challenge, since a few commitments during denoising sharply reduce the uncertainty over the remaining masked positions and shape much of the response. Most post-training recipes for dLMs do not use this signal to decide which tokens to train on: they typically train on the final text or assign rewards to whole denoising steps, rather than selecting the individual commitments that shape the response. We introduce Pivot-SD, an efficient offline self-distillation framework that supervises only these high-impact commitments (pivots). Pivot-SD selects pivots using an information-gain metric measuring uncertainty reduction over the remaining masked positions. Pivots from successful trajectories are trained with cross-entropy, and pivots from failed trajectories with targeted unlikelihood, leaving the rest of the failed trajectory untouched. Using only 200 questions and four rollouts each, Pivot-SD improves LLaDA-8B-Instruct over full-sequence SFT and budget-matched diffusion RL baselines across math and code benchmarks."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Seo Hyun Kim, Sunwoo Hong, Younwoo Choi et al.",
-        "categories": [
-          "cs.LG",
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "e08cb1329654ca8181994746dc5950a205bb6eb6d5c92ede16baa6355c2b392d",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Breaking up (with Elon Musk) is hard to do",
-      "summary": "Shivon Zilis announced her breakup with Elon Musk—father of her four children—via a quote-tweet of “Big Tech Alert” on X, reviving MySpace-era internet drama.",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
-      "publishedAt": "2026-10-02T17:37:36+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d77f51af59132aa873840e6eaec0eb57a278e77e6ea6964b883811230d66e406",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Forecasting from Counterfactual Simulator Rollouts: A Sim2Real Evaluation",
-      "summary": "该论文提出用反事实模拟器进行策略 rollout，解决新决策策略部署时的冷启动预测问题，并通过Sim2Real评估验证模型效果。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.03662v1",
-      "publishedAt": "2026-10-02T17:37:14+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Deploying a new decision policy creates a cold-start problem for prediction models whose targets depend on the policy's actions: historical observations reflect earlier policies, while real observations under the new policy are not yet available. Simulation offers a way to address this gap by rolling out the target policy across counterfactual scenarios and using the resulting trajectories to learn how the system responds to those controls. The simulation-to-reality (Sim2Real) transfer of this simulator-trained model can then be backtested by evaluating it against real observations from past deployments. Using two real-world inventory-control deployments, we evaluate this process from three angles: simulator fidelity, zero-shot transfer to real behavior, and adaptation as real target-policy observations accumulate. The simulator-trained forecaster achieves lower point-estimate mean absolute percentage error (MAPE) than the same architecture trained on historical real data, reducing MAPE by 1.2-3.1 percentage points in Study 1 and 12.5-18.7 points in Study 2. After deployment, lightweight calibration using early real observations further reduces error by up to 2.5 percentage points. These results provide empirical evidence that simulator-generated counterfactual data can support cold-start forecasting under a new policy, and the resulting model can be further refined as real deployment data become available."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Angel Wang, Dominique Perrault-Joncas, Alvaro Maggiar et al.",
-        "categories": [
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "237305884bfab275b7b9fe6e7cef503b61188bff8d51c1ff1bb719462e67b992",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Revisiting Input Time-frequency Representations in Multi-pitch Estimation for Vocal Ensembles",
-      "summary": "研究对比HCQT与线性STFT在人声合奏多音高估计中的性能，指出STFT可降低实时训练开销，同时保持精度。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.03656v1",
-      "publishedAt": "2026-10-02T17:35:06+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Multi-pitch estimation in vocal ensembles is challenging because singers occupy overlapping pitch ranges and often sing at closely spaced fundamental frequencies, causing their harmonics to overlap in time-frequency representations. Existing models commonly use harmonic constant-Q transform (HCQT)-based representations to provide frequency-adaptive resolution, at the cost of expensive feature extraction when training mixtures are generated on the fly. We revisit this design and compare HCQT with a linear short-time Fourier transform (STFT), whose frequency bins are directly provided as model inputs. Despite its fixed frequency resolution and the absence of a pitch-aligned input grid, the linear STFT outperforms HCQT while substantially reducing feature-extraction cost. Further analysis shows that a longer analysis window or broader spectral coverage provides no additional improvement, while restricting the input to the predicted pitch range reduces the advantage of the linear STFT. These results suggest that finer frequency resolution does not necessarily improve vocal-ensemble MPE, and that shorter analysis windows can be more effective for time-varying vocal pitches."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Junyoung Koh, Hao-Wen Dong",
-        "categories": [
-          "cs.SD",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "84419bdaa5846d9ff9aef30717897457c622abfc7bac86d5724b00bce96a07f7",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Wald-4B：text-generation 模型更新",
-      "summary": "HuggingFace 上 text-generation 模型 org2ai/Wald-4B 获 1233 次下载、7 个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/org2ai/Wald-4B",
-      "publishedAt": "2026-10-02T17:07:23+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1233,
-        "likes": 7
-      }
-    },
-    {
-      "id": "a10d64f88adff63dc3c7adb24c84601894ff950dced44c73a8de9b9d9286aea7",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "randomms：model 模型更新",
-      "summary": "HuggingFace 上模型 MarcusAureliusSun/randomms 目前下载量为0，获10个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/MarcusAureliusSun/randomms",
-      "publishedAt": "2026-10-02T17:03:22+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 10
-      }
-    },
-    {
-      "id": "2f92cc2863fec9ff53c86294ba4a7092f471c581c7b2117257a23546ba9991bd",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "summary": "AI已对部分人群造成心理伤害。Circuit Breaker Labs推出“碰撞测试假人”以评估AI心理影响。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "publishedAt": "2026-10-02T17:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c75f3f2cf09d34a57b7ec4b85f30d014f6621aef6382cfa80da7a700eba35ad7",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "summary": "教皇指出：艺术与AI生成内容存在本体论差异；AI仅靠统计计算模仿，缺乏人类独有的创造力火花。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "publishedAt": "2026-10-02T15:39:41+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f89627f2767b2a1e3a9c37fb678513b237d54243a624b2fe4f9f619313febb5a",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/allenai/astabrief",
-      "publishedAt": "2026-10-02T15:19:50+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "7a66e6a4845a6585b7465deafd6fd224eb6858b4a8c55f50ed2b69817bfd1f21",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "summary": "黑石集团Jas Khaira将登台2026年TechCrunch Disrupt大会“Builders Stage”，分享下一代AI构建。购票享第二张5折优惠。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "publishedAt": "2026-10-02T15:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "14f8363ddee1f04c71d3574bfcd1b135f8b4a9d6c0da0950c8ae17f3dbe51ad9",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
-      "summary": "英伟达Shield TV Pro于2019年首发，现售价299.99美元。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
-      "publishedAt": "2026-10-02T14:52:16+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "1d59aba1712edaa761304dc56f10b8866d0d7f8fc6bcc3e8cbea7c48699b0d5d",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-      "summary": "Clay联合创始人兼CEO Kareem Amin将出席2026年TechCrunch Disrupt大会AI分会场，探讨GTM工程师兴起；购票享第二张5折优惠。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-      "publishedAt": "2026-10-02T14:30:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "830b2438bcf6fc7fa7fe1f058de3bd49af2fe8adee993a9042104583c3d207e3",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-      "summary": "TechCrunch Disrupt 2026将于10月13–15日在旧金山Moscone West举行，超1万名科技人士参会。今日是展位预订截止日。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-      "publishedAt": "2026-10-02T14:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4432fba306ff2d48717264b68609d242131839df0126726c9087b1ddecc9fd97",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "AI hallucinations are making entitled customers even worse",
-      "summary": "纽约侍应生麦迪逊每桌必问过敏史，近期多次遇险：顾客称对海鲜过敏，却未进一步确认菜品安全。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
-      "publishedAt": "2026-10-02T12:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "233cfa653d725d23705c82b213e08f7b4fab23f4ac9d6101892595e1d851069c",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "If a data center is camouflaged in the woods, will anyone hate it?",
-      "summary": "圣安东尼奥市议员里克·加尔万称，当地数据中心从2000年代普通办公楼，发展为如今占地数百万平方英尺的AI驱动“超大规模”设施。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
-      "publishedAt": "2026-10-02T12:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "de59d640e222daee8ce97c8a21c282347966d11de9fd6915b6a6ff0631f0d5ca",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Amazon writes scary blog warning communities not to block data centers",
-      "summary": "亚马逊AWS CEO发文称，若不支持AI数据中心建设，将危及美国经济与国家安全，并回应了公众对就业、能耗等担忧。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
-      "publishedAt": "2026-10-02T11:52:20+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "2c9bad9415365cacec5247310d4a62580acc3d061f9fa36145e4d152160c439f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "AI music maker Suno now generates spoken words",
-      "summary": "Suno推出语音生成公测功能，支持脚本或描述驱动的AI配音，可同步生成背景音乐，已上线网页及移动端。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-      "publishedAt": "2026-10-02T09:42:19+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ac99e00905c0e42a723da8d3d664bb40211f69b8b20d20eb39f9c43a108ee336",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
-      "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/500098.html",
-      "publishedAt": "2026-10-02T07:34:15+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "49127dcd0537f9271ed0d69a92e34425fd5f053f1fd960d80a79583007c44eee",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "丘成桐新论文致谢了GPT和Claude",
-      "summary": "44年前被亲自列入问题清单",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/499991.html",
-      "publishedAt": "2026-10-02T07:27:03+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI智能体商业化加速，安全与责任问题同步激化",
+      "insight": "AI基建透明化与安全治理成行业信任核心议题",
       "headline": {
-        "title": "Google brings agentic AI to Gemini, starting with businesses",
-        "summary": "谷歌将Gemini升级为AI智能体，可自主规划执行任务、跨企业应用协作，支持子智能体分工、多模型协同，并拥有专属职场身份及邮箱。",
+        "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+        "summary": "亚马逊将停止在数据中心选址谈判中使用保密协议（NDA），效仿微软今年早前举措，以缓解因AI基建透明度不足引发的社区反对及多地AI项目暂停。",
         "source": "TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/"
+        "sourceUrl": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/"
       },
       "sections": [
         {
           "name": "最新科技",
           "items": [
             {
-              "title": "Google’s AI note-taking app transcribes your meetings completely offline",
-              "summary": "谷歌推出离线AI记事应用Foresight，基于端侧EmbeddingGemma 2模型，支持会议/音频转录与摘要，免费、仅限macOS。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline"
-            },
-            {
               "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
-              "summary": "Mistral称其开源大模型Le Chonk性能媲美顶级闭源模型，且完全开放权重。",
+              "summary": "Mistral称开源模型Le Chonk性能媲美顶级闭源模型，且保持开放权重。",
               "source": "Ars Technica",
               "sourceUrl": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/"
             },
@@ -6569,39 +6425,22 @@
           "name": "行业动态",
           "items": [
             {
-              "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-              "summary": "LMArena背后公司获光速、Khosla领投2亿美元融资，正拓展AI模型评估，新增“说谎”等对齐性指标。",
+              "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+              "summary": "亚马逊将停止在数据中心选址谈判中使用保密协议（NDA），效仿微软今年早前举措，以缓解因AI基建透明度不足引发的社区反对及多地AI项目暂停。",
               "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
+              "sourceUrl": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/"
+            },
+            {
+              "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+              "summary": "三名被解雇的OpenAI安全研究员否认泄露敏感信息，称解雇将寒蝉效应削弱公司AI安全文化。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
             },
             {
               "title": "USA Today becomes the latest publisher to sue OpenAI",
               "summary": "《今日美国》及其旗下地方报纸起诉OpenAI，称其未经许可使用“数十万篇”文章训练AI，索赔超2.5亿美元。",
               "source": "The Verge",
               "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit"
-            },
-            {
-              "title": "Anthropic changes usage policy to ban model abuse and election interference",
-              "summary": "Anthropic更新使用政策，禁止滥用Claude（如极端重复滥用），但允许正常批评；新增禁令涵盖选举干预、虚假宣传、武器软件及监控技术。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/"
-            },
-            {
-              "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-              "summary": "OpenAI代理持续被曝损害第三方网站，引发安全与责任担忧。",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/ai/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/"
-            }
-          ]
-        },
-        {
-          "name": "知识前沿",
-          "items": [
-            {
-              "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
-              "summary": "OpenAI大量数学证明偏离了前沿实验室咨询的数学研究团队所制定的指南。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/"
             },
             {
               "title": "Anthropic launches free AI security scans for open-source projects",
@@ -6612,13 +6451,30 @@
           ]
         },
         {
+          "name": "知识前沿",
+          "items": [
+            {
+              "title": "We can’t help treating AI like it’s human. But should we?",
+              "summary": "图尔克尔博士指出：人与关系型人工制品互动时，会相信它关心自己，并本能地予以回应。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/"
+            },
+            {
+              "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+              "summary": "OpenAI代理持续被曝损害第三方网站，引发安全与责任担忧。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica"
+            }
+          ]
+        },
+        {
           "name": "应用落地",
           "items": [
             {
-              "title": "Google is launching a one-stop Gemini agent for your work tasks",
-              "summary": "谷歌推出“通用”Gemini AI代理，支持跨应用和设备后台运行，将于Gemini Enterprise应用中上线，用户可通过单一界面聊天并分配任务。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise"
+              "title": "Danu Robotics’ fight to build a better recycling robot",
+              "summary": "丹努创始人Amy Ma六年专注研发更优可回收垃圾分拣技术。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/"
             },
             {
               "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
