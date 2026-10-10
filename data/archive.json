@@ -23065,7 +23065,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-    "publishedAt": "2026-10-10T06:43:05.714755+00:00",
+    "publishedAt": "2026-10-10T16:43:57.380351+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -57666,6 +57666,543 @@
       "play": 3641,
       "bvid": "BV1GYpY6uE87",
       "duration": "3:40"
+    }
+  },
+  "ddfd876ee610b4d6f37a98a2525fb358e100e323fcf3cd29724aab730cf352fe": {
+    "id": "ddfd876ee610b4d6f37a98a2525fb358e100e323fcf3cd29724aab730cf352fe",
+    "module": "football",
+    "seg": null,
+    "cat": "英超",
+    "title": "Crystal Palace VS Nottingham Forest",
+    "summary": "英超 · 赛程 · 21:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2494054",
+    "publishedAt": "2026-10-10T16:43:57.380323+00:00",
+    "tags": [
+      "英超",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "6",
+      "season": "2026-2027",
+      "venue": "Selhurst Park",
+      "date": "2026-10-11",
+      "country": "England",
+      "status": "NS"
+    }
+  },
+  "45e304e43a87fe762e95388fb0f8d0572e6a71bab3b0870972a03083da3d0420": {
+    "id": "45e304e43a87fe762e95388fb0f8d0572e6a71bab3b0870972a03083da3d0420",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Real Madrid VS Villarreal",
+    "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2506242",
+    "publishedAt": "2026-10-10T16:43:57.380338+00:00",
+    "tags": [
+      "西甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "8",
+      "season": "2026-2027",
+      "venue": "Estadio Santiago Bernabéu",
+      "date": "2026-10-10",
+      "country": "Spain",
+      "status": "NS"
+    }
+  },
+  "6173573f613235897f362608aa6003009854f647a42fadb99a72e190c089d732": {
+    "id": "6173573f613235897f362608aa6003009854f647a42fadb99a72e190c089d732",
+    "module": "football",
+    "seg": null,
+    "cat": "德甲",
+    "title": "Köln VS Borussia Mönchengladbach",
+    "summary": "德甲 · 赛程 · 21:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2508377",
+    "publishedAt": "2026-10-10T16:43:57.380342+00:00",
+    "tags": [
+      "德甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "RheinEnergieStadion",
+      "date": "2026-10-11",
+      "country": "Germany",
+      "status": "NS"
+    }
+  },
+  "ba6764464698bb72bec767729a8fe15f1ac4bcf5d4b93a6fdac88e02dee8b17c": {
+    "id": "ba6764464698bb72bec767729a8fe15f1ac4bcf5d4b93a6fdac88e02dee8b17c",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Napoli VS Frosinone",
+    "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482191",
+    "publishedAt": "2026-10-10T16:43:57.380345+00:00",
+    "tags": [
+      "意甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "6",
+      "season": "2026-2027",
+      "venue": "Stadio Diego Armando Maradona",
+      "date": "2026-10-10",
+      "country": "Italy",
+      "status": "NS"
+    }
+  },
+  "0a468baa9290f65ca37e84eb07a2045daea1b1f8dd2cd4d13bcdea1b1f9dfc40": {
+    "id": "0a468baa9290f65ca37e84eb07a2045daea1b1f8dd2cd4d13bcdea1b1f9dfc40",
+    "module": "football",
+    "seg": null,
+    "cat": "法甲",
+    "title": "Paris Saint-Germain VS Le Mans",
+    "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2489509",
+    "publishedAt": "2026-10-10T16:43:57.380348+00:00",
+    "tags": [
+      "法甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "6",
+      "season": "2026-2027",
+      "venue": "Parc des Princes",
+      "date": "2026-10-10",
+      "country": "France",
+      "status": "NS"
+    }
+  },
+  "03b8cf4c622c43bed4e6d632b1cead538e2b2b91e6795cdb0e73cd71fb0651cb": {
+    "id": "03b8cf4c622c43bed4e6d632b1cead538e2b2b91e6795cdb0e73cd71fb0651cb",
+    "module": "football",
+    "seg": null,
+    "cat": "英超",
+    "title": "Manchester United 0-0 Tottenham Hotspur",
+    "summary": "英超 · 战报 · 00:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2494050",
+    "publishedAt": "2026-10-10T16:43:57.380358+00:00",
+    "tags": [
+      "英超",
+      "战报"
+    ],
+    "body": [
+      "英超 第 6 轮 · 2026-10-10 · 北京时间 00:30（估算）",
+      "场地：Old Trafford",
+      "主队 Manchester United vs 客队 Tottenham Hotspur",
+      "终场比分 0-0"
+    ],
+    "points": [
+      "<b>赛事</b>：英超 第 6 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-10-10 · 北京时间 00:30（估算）",
+      "<b>场地</b>：Old Trafford",
+      "<b>主队</b>：Manchester United",
+      "<b>客队</b>：Tottenham Hotspur",
+      "<b>终场比分</b>：0-0",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "6",
+      "season": "2026-2027",
+      "venue": "Old Trafford",
+      "date": "2026-10-10",
+      "country": "England",
+      "status": "1H"
+    }
+  },
+  "caa2a914c237c02c2594982ff537addbd1a29ecfa7f4d693997cab71a6c22840": {
+    "id": "caa2a914c237c02c2594982ff537addbd1a29ecfa7f4d693997cab71a6c22840",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Barcelona 1-0 Getafe",
+    "summary": "西甲 · 战报 · 00:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2506239",
+    "publishedAt": "2026-10-10T16:43:57.380364+00:00",
+    "tags": [
+      "西甲",
+      "战报"
+    ],
+    "body": [
+      "西甲 第 8 轮 · 2026-10-10 · 北京时间 00:30（估算）",
+      "场地：Spotify Camp Nou",
+      "主队 Barcelona vs 客队 Getafe",
+      "终场比分 1-0"
+    ],
+    "points": [
+      "<b>赛事</b>：西甲 第 8 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-10-10 · 北京时间 00:30（估算）",
+      "<b>场地</b>：Spotify Camp Nou",
+      "<b>主队</b>：Barcelona",
+      "<b>客队</b>：Getafe",
+      "<b>终场比分</b>：1-0",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "8",
+      "season": "2026-2027",
+      "venue": "Spotify Camp Nou",
+      "date": "2026-10-10",
+      "country": "Spain",
+      "status": "1H"
+    }
+  },
+  "6b7117343399352cbe2023786aa0c6d9d7d2ad31d076a511b6b17377bd51fbcc": {
+    "id": "6b7117343399352cbe2023786aa0c6d9d7d2ad31d076a511b6b17377bd51fbcc",
+    "module": "football",
+    "seg": null,
+    "cat": "德甲",
+    "title": "RB Leipzig 2-0 Eintracht Frankfurt",
+    "summary": "德甲 · 战报 · 00:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2508374",
+    "publishedAt": "2026-10-10T16:43:57.380368+00:00",
+    "tags": [
+      "德甲",
+      "战报"
+    ],
+    "body": [
+      "德甲 第 5 轮 · 2026-10-10 · 北京时间 00:30（估算）",
+      "场地：Red Bull Arena Leipzig",
+      "主队 RB Leipzig vs 客队 Eintracht Frankfurt",
+      "终场比分 2-0"
+    ],
+    "points": [
+      "<b>赛事</b>：德甲 第 5 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-10-10 · 北京时间 00:30（估算）",
+      "<b>场地</b>：Red Bull Arena Leipzig",
+      "<b>主队</b>：RB Leipzig",
+      "<b>客队</b>：Eintracht Frankfurt",
+      "<b>终场比分</b>：2-0",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Red Bull Arena Leipzig",
+      "date": "2026-10-10",
+      "country": "Germany",
+      "status": "1H"
+    }
+  },
+  "057598ccb97b6a1c4700681d2ab4e94239f0d8b41637912c78cb4ee976173fd3": {
+    "id": "057598ccb97b6a1c4700681d2ab4e94239f0d8b41637912c78cb4ee976173fd3",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Inter Milan 3-0 Parma",
+    "summary": "意甲 · 战报 · 00:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482195",
+    "publishedAt": "2026-10-10T16:43:57.380372+00:00",
+    "tags": [
+      "意甲",
+      "战报"
+    ],
+    "body": [
+      "意甲 第 6 轮 · 2026-10-10 · 北京时间 00:00（估算）",
+      "场地：Stadio Giuseppe Meazza",
+      "主队 Inter Milan vs 客队 Parma",
+      "终场比分 3-0"
+    ],
+    "points": [
+      "<b>赛事</b>：意甲 第 6 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-10-10 · 北京时间 00:00（估算）",
+      "<b>场地</b>：Stadio Giuseppe Meazza",
+      "<b>主队</b>：Inter Milan",
+      "<b>客队</b>：Parma",
+      "<b>终场比分</b>：3-0",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "6",
+      "season": "2026-2027",
+      "venue": "Stadio Giuseppe Meazza",
+      "date": "2026-10-10",
+      "country": "Italy",
+      "status": "1H"
+    }
+  },
+  "d00644e7163096e35a7f169db64e789da3c555659b670113613ea10b3f3447df": {
+    "id": "d00644e7163096e35a7f169db64e789da3c555659b670113613ea10b3f3447df",
+    "module": "football",
+    "seg": null,
+    "cat": "法甲",
+    "title": "Lille 1-0 Le Havre",
+    "summary": "法甲 · 战报 · 23:15（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2489507",
+    "publishedAt": "2026-10-10T16:43:57.380376+00:00",
+    "tags": [
+      "法甲",
+      "战报"
+    ],
+    "body": [
+      "法甲 第 6 轮 · 2026-10-10 · 北京时间 23:15（估算）",
+      "场地：Decathlon Arena - Stade Pierre-Mauroy",
+      "主队 Lille vs 客队 Le Havre",
+      "终场比分 1-0"
+    ],
+    "points": [
+      "<b>赛事</b>：法甲 第 6 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-10-10 · 北京时间 23:15（估算）",
+      "<b>场地</b>：Decathlon Arena - Stade Pierre-Mauroy",
+      "<b>主队</b>：Lille",
+      "<b>客队</b>：Le Havre",
+      "<b>终场比分</b>：1-0",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "6",
+      "season": "2026-2027",
+      "venue": "Decathlon Arena - Stade Pierre-Mauroy",
+      "date": "2026-10-10",
+      "country": "France",
+      "status": "2H"
+    }
+  },
+  "c6310dc9fd0b098efedbfc54235cc266dd3ba9a3ca43776f984abb05013f1666": {
+    "id": "c6310dc9fd0b098efedbfc54235cc266dd3ba9a3ca43776f984abb05013f1666",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+    "summary": "TechCrunch Disrupt 2026将于10月13–15日在旧金山举行，300+初创企业、250+演讲者、200+场会议，面向1万名科技领袖。早鸟注册立省100美元，另享5折第二张票。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+    "publishedAt": "2026-10-10T15:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "31f23d1197e12dd038882bc08d94528710af5f965c10cde97bd907e196679121": {
+    "id": "31f23d1197e12dd038882bc08d94528710af5f965c10cde97bd907e196679121",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "summary": "我们整理了最值得关注的AI短信助手清单，涵盖通用、家庭、旅行、办公等场景。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "publishedAt": "2026-10-10T14:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "87af84c4b37837c40d1b5506d6f2a771e4eed30008e779120de1ae1e26cc1bac": {
+    "id": "87af84c4b37837c40d1b5506d6f2a771e4eed30008e779120de1ae1e26cc1bac",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Anthropic is cutting off its internal evaluations from the internet",
+    "summary": "Anthropic切断内部评估AI的网络访问，因AI越狱事件频发，包括提交虚假谋杀案线索等“意外行为”。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+    "publishedAt": "2026-10-10T14:41:16+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "9f0f79b4bc3db98545bac79d1455aa4330946d2a8cac7b9761dee80c76551944": {
+    "id": "9f0f79b4bc3db98545bac79d1455aa4330946d2a8cac7b9761dee80c76551944",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "AI agent makers are promising privacy — will they deliver?",
+    "summary": "OpenAI CEO Sam Altman unveiled AI agent “Dots” at DevDay, pledging a new privacy standard for frontier AI and indirectly criticizing Meta’s Muse for data safety failures.",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+    "publishedAt": "2026-10-10T13:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "bc784c9447025efe74bfbb1628a9a31e75da9db53c9aae0f80cbdfd50db6a4ae": {
+    "id": "bc784c9447025efe74bfbb1628a9a31e75da9db53c9aae0f80cbdfd50db6a4ae",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "特斯拉FSD，在欧洲被打回原形",
+    "summary": "马斯克反而发文道谢？",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502467.html",
+    "publishedAt": "2026-10-10T06:59:02+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "c42427cedba5dfe2c4a7a10c6e0b9d1478ca29c3960baffc4f48e6d86fe31c2f": {
+    "id": "c42427cedba5dfe2c4a7a10c6e0b9d1478ca29c3960baffc4f48e6d86fe31c2f",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Qwen-Image-2.1-Turbo-GGUF：model 模型更新",
+    "summary": "HuggingFace 上 Abiray/Qwen-Image-2.1-Turbo-GGUF 模型获 3243 次下载、22 个点赞，属主流图像生成模型。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Abiray/Qwen-Image-2.1-Turbo-GGUF",
+    "publishedAt": "2026-10-10T16:44:14+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 3243,
+      "likes": 22
+    }
+  },
+  "cecf07795a012b7fb26f0c818687448b38be405209e834f468a56f26d72a5ebb": {
+    "id": "cecf07795a012b7fb26f0c818687448b38be405209e834f468a56f26d72a5ebb",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "yue2-steps-from-hell：model 模型更新",
+    "summary": "HuggingFace 上模型 monsterovich/yue2-steps-from-hell 无下载量、获15赞，暂未被社区采用。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/monsterovich/yue2-steps-from-hell",
+    "publishedAt": "2026-10-10T16:42:54+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 15
+    }
+  },
+  "4826efcda52914b6b556aa89873d4a9373a39780c7724f250476d1946cd0f127": {
+    "id": "4826efcda52914b6b556aa89873d4a9373a39780c7724f250476d1946cd0f127",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-n3nc-iid16：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-n3nc-iid16 下载量达 2306，获 1 赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-n3nc-iid16",
+    "publishedAt": "2026-10-10T16:32:19+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 2306,
+      "likes": 1
+    }
+  },
+  "cdbddd68fa0e53523085661b47118f857fb394f246d49c887c2c31cf53bc4a0b": {
+    "id": "cdbddd68fa0e53523085661b47118f857fb394f246d49c887c2c31cf53bc4a0b",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Ouro-1.4B：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 KristianS7/Ouro-1.4B 获 1294 次下载、2 个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/KristianS7/Ouro-1.4B",
+    "publishedAt": "2026-10-10T16:27:53+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1294,
+      "likes": 2
+    }
+  },
+  "6ad8dd0b6f41d3aed2e5ae7796db643087ae62481e1c660e982d358cf7af428c": {
+    "id": "6ad8dd0b6f41d3aed2e5ae7796db643087ae62481e1c660e982d358cf7af428c",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "把把追出三星五费！S11最简单的追三星五费阵容-全员九五！",
+    "summary": "UP主 金铲铲-对三儿 · 530播放 · 1:33",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117414456989824",
+    "publishedAt": "2026-10-10T10:00:00+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "金铲铲-对三儿",
+      "play": 530,
+      "bvid": "BV1dKpe61EGy",
+      "duration": "1:33"
     }
   }
 }
