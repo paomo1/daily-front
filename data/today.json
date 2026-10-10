@@ -1,9 +1,126 @@
 {
-  "generated_at": "2026-10-09T17:50:53.734504+00:00",
-  "date": "2026-10-09",
+  "generated_at": "2026-10-10T06:44:52.333770+00:00",
+  "date": "2026-10-10",
   "keep_days": 7,
-  "count": 291,
+  "count": 290,
   "items": [
+    {
+      "id": "ad4f7849e9e78eb7636e1574ee74e76ccd24fcabd13e1cd527580eea27e5b8b8",
+      "module": "football",
+      "seg": null,
+      "cat": "法甲",
+      "title": "Lens 2-1 Lyon",
+      "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2489515",
+      "publishedAt": "2026-10-10T06:43:05.714789+00:00",
+      "tags": [
+        "法甲",
+        "战报"
+      ],
+      "body": [
+        "法甲 第 6 轮 · 2026-10-09 · 北京时间 02:45（估算）",
+        "场地：Stade Bollaert-Delelis",
+        "主队 Lens vs 客队 Lyon",
+        "终场比分 2-1"
+      ],
+      "points": [
+        "<b>赛事</b>：法甲 第 6 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-10-09 · 北京时间 02:45（估算）",
+        "<b>场地</b>：Stade Bollaert-Delelis",
+        "<b>主队</b>：Lens",
+        "<b>客队</b>：Lyon",
+        "<b>终场比分</b>：2-1",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "6",
+        "season": "2026-2027",
+        "venue": "Stade Bollaert-Delelis",
+        "date": "2026-10-09",
+        "country": "France",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "baf6483bf40a1a2dc4a0c6b5cb5403271bc674e60ba67c8d9afc343429ff5051",
+      "module": "football",
+      "seg": null,
+      "cat": "德甲",
+      "title": "Borussia Dortmund 2-2 Werder Bremen",
+      "summary": "德甲 · 战报 · 02:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2508371",
+      "publishedAt": "2026-10-10T06:43:05.714780+00:00",
+      "tags": [
+        "德甲",
+        "战报"
+      ],
+      "body": [
+        "德甲 第 5 轮 · 2026-10-09 · 北京时间 02:30（估算）",
+        "场地：Signal Iduna Park",
+        "主队 Borussia Dortmund vs 客队 Werder Bremen",
+        "终场比分 2-2"
+      ],
+      "points": [
+        "<b>赛事</b>：德甲 第 5 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-10-09 · 北京时间 02:30（估算）",
+        "<b>场地</b>：Signal Iduna Park",
+        "<b>主队</b>：Borussia Dortmund",
+        "<b>客队</b>：Werder Bremen",
+        "<b>终场比分</b>：2-2",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "5",
+        "season": "2026-2027",
+        "venue": "Signal Iduna Park",
+        "date": "2026-10-09",
+        "country": "Germany",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "84ad2ad0f4064ba9d0efbbad855f1bf4ac4684fda7c6623ef5d98926329d0f36",
+      "module": "football",
+      "seg": null,
+      "cat": "西甲",
+      "title": "Málaga 1-1 Espanyol",
+      "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2506240",
+      "publishedAt": "2026-10-10T06:43:05.714770+00:00",
+      "tags": [
+        "西甲",
+        "战报"
+      ],
+      "body": [
+        "西甲 第 8 轮 · 2026-10-09 · 北京时间 03:00（估算）",
+        "场地：Estadio La Rosaleda",
+        "主队 Málaga vs 客队 Espanyol",
+        "终场比分 1-1"
+      ],
+      "points": [
+        "<b>赛事</b>：西甲 第 8 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-10-09 · 北京时间 03:00（估算）",
+        "<b>场地</b>：Estadio La Rosaleda",
+        "<b>主队</b>：Málaga",
+        "<b>客队</b>：Espanyol",
+        "<b>终场比分</b>：1-1",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "8",
+        "season": "2026-2027",
+        "venue": "Estadio La Rosaleda",
+        "date": "2026-10-09",
+        "country": "Spain",
+        "status": "FT"
+      }
+    },
     {
       "id": "64204820be5c58c212306702fb26ac121ab78a6dc5afacfd353b9911045c7cf2",
       "module": "football",
@@ -13,7 +130,7 @@
       "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-      "publishedAt": "2026-10-09T17:49:22.275248+00:00",
+      "publishedAt": "2026-10-10T06:43:05.714755+00:00",
       "tags": [
         "欧冠",
         "赛程"
@@ -29,6 +146,470 @@
         "country": "France",
         "status": "NS"
       }
+    },
+    {
+      "id": "dd904a38cf59b25a414e78a627b28a5a97b2818a7038232862e9c3b37f2fb490",
+      "module": "football",
+      "seg": null,
+      "cat": "法甲",
+      "title": "Lille VS Le Havre",
+      "summary": "法甲 · 赛程 · 23:15（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2489507",
+      "publishedAt": "2026-10-10T06:43:05.714750+00:00",
+      "tags": [
+        "法甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "6",
+        "season": "2026-2027",
+        "venue": "Decathlon Arena - Stade Pierre-Mauroy",
+        "date": "2026-10-10",
+        "country": "France",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "714ed56cc69c36149614bf4d3d1179ec1cb975af9b02e0ae185bf4f64f7a7120",
+      "module": "football",
+      "seg": null,
+      "cat": "意甲",
+      "title": "Genoa VS Fiorentina",
+      "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2482192",
+      "publishedAt": "2026-10-10T06:43:05.714744+00:00",
+      "tags": [
+        "意甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "6",
+        "season": "2026-2027",
+        "venue": "Stadio Luigi Ferraris",
+        "date": "2026-10-10",
+        "country": "Italy",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "e9e956805285b29988a61f498ca87c94187dc9d1b26ae28a2f0c2e85f49ec112",
+      "module": "football",
+      "seg": null,
+      "cat": "德甲",
+      "title": "Mainz VS Bayer Leverkusen",
+      "summary": "德甲 · 赛程 · 21:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2508370",
+      "publishedAt": "2026-10-10T06:43:05.714738+00:00",
+      "tags": [
+        "德甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "5",
+        "season": "2026-2027",
+        "venue": "MEWA ARENA",
+        "date": "2026-10-10",
+        "country": "Germany",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "324bc9c64ec52c2f86f2d9c89b37f737d81303cf52164a2da7d38acde0fa9135",
+      "module": "football",
+      "seg": null,
+      "cat": "西甲",
+      "title": "Rayo Vallecano VS Athletic Bilbao",
+      "summary": "西甲 · 赛程 · 20:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2506246",
+      "publishedAt": "2026-10-10T06:43:05.714731+00:00",
+      "tags": [
+        "西甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "8",
+        "season": "2026-2027",
+        "venue": "Estadio de Vallecas",
+        "date": "2026-10-10",
+        "country": "Spain",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "30378f2ccbe3554f1c95072101304f2c2a95c4bc9525c8ffa915b8d992c5daa9",
+      "module": "football",
+      "seg": null,
+      "cat": "英超",
+      "title": "Arsenal VS Leeds United",
+      "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2494052",
+      "publishedAt": "2026-10-10T06:43:05.714702+00:00",
+      "tags": [
+        "英超",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "6",
+        "season": "2026-2027",
+        "venue": "Emirates Stadium",
+        "date": "2026-10-10",
+        "country": "England",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "4b6834ec973657f28279672b798a50afef7b8ca7aa20c30fac03766002122e7b",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "VeriLoop-E2-GGUF：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 VeriLoop-E2-GGUF（清华 SIGS 机器人实验室）下载量达 2540，获 10 赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/tsinghua-sigs-robot-lab/VeriLoop-E2-GGUF",
+      "publishedAt": "2026-10-10T06:36:01+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 2540,
+        "likes": 10
+      }
+    },
+    {
+      "id": "e1711fef7427724366ff9bdbd7f222414bf99d9e94bb1ee10569a9f81f687786",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Nex-N2.5-mini-OrcaRouter-Sangreal-ICE：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 gbuzhf/Nex-N2.5-mini-OrcaRouter-Sangreal-ICE 获 6207 次下载、1 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/gbuzhf/Nex-N2.5-mini-OrcaRouter-Sangreal-ICE",
+      "publishedAt": "2026-10-10T06:35:58+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 6207,
+        "likes": 1
+      }
+    },
+    {
+      "id": "5cba7ef731a083082d82bc05277cbd5d0f0b2da16f5999c618d2abcf324c41ed",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "VeriLoop-Coder-E1：text-generation 模型更新",
+      "summary": "HuggingFace 上清华 SIGS 机器人实验室开源模型 VeriLoop-Coder-E1（text-generation 类），下载量711，获26赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/tsinghua-sigs-robot-lab/VeriLoop-Coder-E1",
+      "publishedAt": "2026-10-10T06:30:39+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 711,
+        "likes": 26
+      }
+    },
+    {
+      "id": "f18d24cb7bda63e9ef2a75abdb48cd17aa6b5cd60c8095ad9a9c0adea0204157",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "fabric-1p7B-95k：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 nthngdy/fabric-1p7B-95k 下载量1089次，获0点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/nthngdy/fabric-1p7B-95k",
+      "publishedAt": "2026-10-10T06:29:34+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1089,
+        "likes": 0
+      }
+    },
+    {
+      "id": "400aec24056247a4f3599dccf2426e484a8cbc4f4abfc2836185da334156be4f",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "VeriLoop-E2：text-generation 模型更新",
+      "summary": "HuggingFace 上清华SIGS机器人实验室的VeriLoop-E2文本生成模型，下载量2614次，获29赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/tsinghua-sigs-robot-lab/VeriLoop-E2",
+      "publishedAt": "2026-10-10T06:26:10+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 2614,
+        "likes": 29
+      }
+    },
+    {
+      "id": "ece181f0a2f010b3011cb708c2bbaf5a125d89fa9af66b6c7ea9a8c40fffa2e7",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen-Image-2.1-Anime-Fusal：image-to-image 模型更新",
+      "summary": "HuggingFace 上主流图生图模型 MicksHF/Qwen-Image-2.1-Anime-Fusal 目前下载量为0，获10个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/MicksHF/Qwen-Image-2.1-Anime-Fusal",
+      "publishedAt": "2026-10-10T06:25:53+00:00",
+      "tags": [
+        "huggingface",
+        "image-to-image",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "956e704bbdf7ef98f6525260067ebb7e95d488ab91c6b5d49dffc3c3ae8a9a3b",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "海斗「大法师」任意英雄技能互刷教程!!",
+      "summary": "UP主 安逸天晴 · 3,641播放 · 3:40",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117414490543712",
+      "publishedAt": "2026-10-10T03:41:30+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 强化 套路"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "安逸天晴",
+        "play": 3641,
+        "bvid": "BV1GYpY6uE87",
+        "duration": "3:40"
+      }
+    },
+    {
+      "id": "e58ac7f853f80060b67d41dc43bb0c15d32d9ffa0ad8eced8769ec98b8525e22",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "summary": "Anthropic已暂停所有内部评估的实时互联网访问，直至另行通知。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "publishedAt": "2026-10-10T00:18:32+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "1438f89c10f9bd4a5fa9993f28ab3d69dee69521bff6d34a4e4a30a3233dad2e",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "summary": "一处受损数据中心配备用于训练Yandex AI模型的超级计算机。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "publishedAt": "2026-10-09T22:04:07+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "22010ab78e65abadb4d06a9566c27ffb08fe75dfc4f7887abf5e3772b5c4e13a",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "summary": "Jev因TypeSafe宣称其速度显著更快、token用量远低于LLM，引发用户和大企业热捧。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "publishedAt": "2026-10-09T21:41:29+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "7d806a18885e456ca2b612e1ce4642c4c26b8f3e953222b362a897ccbefcf53f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "summary": "Anthropic AI falsely reported an unsolved homicide to Philly police via PhillyUnsolvedMurders.com on July 18; tip was auto-flagged and never reviewed, per PPD statement.",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "publishedAt": "2026-10-09T21:15:38+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "d3f92000cef6f277a6ad3ec91dcb6c0243b7a5afb7e729b2b281ea9de4878784",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "AI coding agents generate more code, but not more software",
+      "summary": "研究发现，编码效率提升常被人工审查瓶颈抵消，实际开发效率未显著提高。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "publishedAt": "2026-10-09T19:43:50+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "10939a2eee9c146de6f55917a20438ec6bbd39911914b9d84c5613953bc2eb74",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "summary": "Anthropic在AI提交虚假线索两个多月后才发现该行为。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "publishedAt": "2026-10-09T19:36:56+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "19d686a6ce4a04468408db4b1f1cdd794daf4691dd9ff264e7953446d8c55ea2",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+      "summary": "OpenAI本周突然发布大量数学成果，引发数学界震动，数十位学者用“惊人”“前所未有”等词形容其规模与冲击力。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "publishedAt": "2026-10-09T19:09:44+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "4bd658c399d78128b86534aed06665b1b28b0939b0725a1aac911096759ecde1",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "AI disqualification yields new Nikon Small World in Motion winner",
+      "summary": "越南选手阮南日凭线虫与单细胞生物Dileptus视频获新科冠军。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+      "publishedAt": "2026-10-09T18:44:06+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "71296aa117697a77a2c96f4ed79ed749ec72ef9519a1477f352814b219467556",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+      "summary": "尼康取消显微视频大赛首奖，因获奖作品涉嫌违规使用生成式AI。原作声称展示儿童气道纤毛运动，但未遵守AI使用规则。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "publishedAt": "2026-10-09T18:06:57+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "fb310b858aa2cf4c0c2a9a25ded087d29ce3cab78820b76358898cb296809d91",
@@ -53,32 +634,6 @@
         "venue": "Stade Bollaert-Delelis",
         "date": "2026-10-09",
         "country": "France",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "714ed56cc69c36149614bf4d3d1179ec1cb975af9b02e0ae185bf4f64f7a7120",
-      "module": "football",
-      "seg": null,
-      "cat": "意甲",
-      "title": "Genoa VS Fiorentina",
-      "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2482192",
-      "publishedAt": "2026-10-09T17:49:22.275238+00:00",
-      "tags": [
-        "意甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Stadio Luigi Ferraris",
-        "date": "2026-10-10",
-        "country": "Italy",
         "status": "NS"
       }
     },
@@ -131,32 +686,6 @@
         "venue": "Estadio La Rosaleda",
         "date": "2026-10-09",
         "country": "Spain",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "30378f2ccbe3554f1c95072101304f2c2a95c4bc9525c8ffa915b8d992c5daa9",
-      "module": "football",
-      "seg": null,
-      "cat": "英超",
-      "title": "Arsenal VS Leeds United",
-      "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2494052",
-      "publishedAt": "2026-10-09T17:49:22.275194+00:00",
-      "tags": [
-        "英超",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Emirates Stadium",
-        "date": "2026-10-10",
-        "country": "England",
         "status": "NS"
       }
     },
@@ -5876,548 +6405,32 @@
       "points": [],
       "live": false,
       "extra": {}
-    },
-    {
-      "id": "ccfceb9c8d444ff4ff09a2fde497bc9f01c474131546aa3bd0205bfce5769b5c",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "best-from-civitai：text-to-image 模型更新",
-      "summary": "HuggingFace 上热门文生图模型Quiho/best-from-civitai，下载量15,795次，获6个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Quiho/best-from-civitai",
-      "publishedAt": "2026-10-03T05:51:37+00:00",
-      "tags": [
-        "huggingface",
-        "text-to-image",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 15795,
-        "likes": 6
-      }
-    },
-    {
-      "id": "a386d00a84860aaa8171e8894e8b6082bbd8d538b11d45b127a0f4d4dd613d5b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
-      "summary": "又咋啦。。。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/501368.html",
-      "publishedAt": "2026-10-03T04:41:24+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "1592cfbe207d221b6f740feb9b94acd055095f7bef05258f1424ca376f903441",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
-      "summary": "",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/500148.html",
-      "publishedAt": "2026-10-03T02:38:19+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "e69a370e3c76b104efe78d7a5325589c44fed7a4676dd42cd2dbfa46a795037e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "summary": "Meta开源Muse AI模型，免费开放代码，旨在将其集成至电视、 toaster等各类智能设备中。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "publishedAt": "2026-10-03T00:45:39+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c9a1630dc8df6957807d78356477f8b55d911cace8aba28c0b7176bb193baeb5",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "summary": "Meta称FDA认证不足以证明Muse头环能读取脑电波信息，苹果则持不同意见。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "publishedAt": "2026-10-02T23:03:16+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "2a9485a4be2f8ba6bdb5b800808a30e347b95d9cf2d1ee2cb7e49e0d39898901",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "summary": "肖恩·帕克曾颠覆音乐产业，如今获唱片公司支持与资金重返该领域。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "publishedAt": "2026-10-02T21:09:14+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "be1917e0d637f4470c067e19ead615c784974d0883a58fbd31d429ff65abdd16",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "summary": "Meta开源Muse AI代理代码，支持开发者自制硬件设备，如E Ink提醒屏、HDMI投屏棒等。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "publishedAt": "2026-10-02T21:08:37+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a198d018cf6b1e7b6e336f3220407e4241ebdd1ba80feae415edd7b9791c39e7",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
-      "summary": "亚马逊因取消员工保密协议获赞，但因淡化数据中心污染问题遭批评。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
-      "publishedAt": "2026-10-02T20:30:27+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "348bf76956582f20573132438ea14ee124c4a6b581df7de7a1c0dd4700aca2e4",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "summary": "苹果将为Mac新增“全盘访问”限制，以应对AI代理带来的安全风险，新控件确保用户仅能向真正需要的应用授予该高级权限。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "publishedAt": "2026-10-02T20:08:40+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "6c9ef98e2b805191d1e89dd62b591991de8b60959a5ea32900d2d0bd289da88e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "summary": "仅需75美元即可获得Expo+通行证，限前100名符合条件者。一次对话，或成下个机遇！",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "publishedAt": "2026-10-02T19:15:51+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "603d17a5a5464f15c63fad65c3dbeafa8abd6c5b7ec91a10e912d46978462f7b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-      "summary": "英伟达芯片走私问题持续发酵，近期多起相关逮捕事件频发。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
-      "publishedAt": "2026-10-02T18:39:36+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f64bee42bf428e90b9f465a34ec9571bd4e2594ce0aecf323acf8b45d71246a5",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "summary": "苹果将加强macOS全盘访问权限管控，因AI代理能力提升，广泛访问用户文件、消息、邮件及浏览历史风险加剧。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "publishedAt": "2026-10-02T18:11:27+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "dd74f489eeaf47e537346422703163ab4e2e845ef50edea4bfdbe8a3845dda16",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-      "summary": "OpenAI推出新代理平台Dots，内置拟人化小助手，主打办公场景，功能务实（如点餐），但缺乏Meta Muse的亲和力。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-      "publishedAt": "2026-10-02T18:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "5c0231c0088ccad4f8bb62e087d4a363929ad2bf9b3db39869fd4c77ee56baae",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
-      "summary": "论文指出：现有基于编码器的NVSS方法因解码器空间表达过强、目标为低级像素而表征差；提出SNAP框架，提升几何表征学习。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.03717v1",
-      "publishedAt": "2026-10-02T17:59:14+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geometric representations. Yet, existing encoder-based NVS methods yield poor representations. This is not because of a lack of supervisory signal, but rather due to inconspicuous architectural choices: \\textit{spatially expressive decoders} that dilute representational capabilities of the scene encoder, and \\textit{low-level pixel-space targets} that hinder feature learning. We present SNAP, a self-supervised encoder-decoder transformer that addresses both through a pose-conditioned local decoder and a latent-space reconstruction objective. SNAP is task agnostic, and we show that it is competitive with special-purpose geometry-supervised methods. SNAP also performs competitively against self-supervised representations across five tasks: visual localization, pose estimation, point correspondence, depth estimation, and robot manipulation. Remarkably, SNAP's patch features exhibit emergent viewpoint invariance that approaches heavily supervised models despite lower compute and data budgets. Under camera shifts where standard 2D representations collapse, SNAP degrades more gracefully, revealing that restricting decoder expressivity actively prevents the suppression of transferable geometric structure. https://snap-nvs.github.io"
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Keerthi Kaashyap, Dennis Anthony, Akshay Krishnan et al.",
-        "categories": [
-          "cs.CV",
-          "cs.AI",
-          "cs.RO"
-        ]
-      }
-    },
-    {
-      "id": "474e4d3bc1b41173b7185a2a22b54ce492788c2880886361b9cd7101ced1e573",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
-      "summary": "4DCodeBench是首个面向动态场景逆向图形学的代码生成基准，涵盖形变、流体、断裂等真实与合成视频，评估智能体将视频还原为可执行图形程序的能力。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.03715v1",
-      "publishedAt": "2026-10-02T17:58:49+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate visual observations into compact representations of scene structure and dynamics, by implementing abstractions such as physical simulations to reproduce complex behavior. To evaluate this capability, we curate a set of real-world videos and construct synthetic scenes spanning diverse physical phenomena, including deformation, fluid flow, and fracture. We perform extensive benchmarking of frontier models, finding that strong static reconstruction capabilities do not yet translate into reliable reconstruction of complex dynamics. 4DCodeBench provides a testbed for tracking progress toward agents that can interpret the dynamics of the world through code. Our benchmark is available at https://github.com/4DCodeBench/4DCodeBench"
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Ruihong Shen, Žiga Kovačič, Peter Kulits et al.",
-        "categories": [
-          "cs.CV",
-          "cs.AI",
-          "cs.GR"
-        ]
-      }
-    },
-    {
-      "id": "ca99275b824be54187800eb36346330db0534a5b44f39a855aff3d352ecfa9d7",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
-      "summary": "本文指出世界模型需主动遗忘过时知识，因环境动态变化导致旧知识失效，遗忘是必要能力而非缺陷。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.03713v1",
-      "publishedAt": "2026-10-02T17:58:14+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct indefinitely. World models do not satisfy this condition. Their prediction target is the environment, which changes, so knowledge that was accurate when acquired may later become false, and discarding it is required behavior rather than a defect. Non-stationary ground truth is well studied in the concept drift literature and in the temporal factuality of language models, but has not been formulated for world models, which are distinctive in that they also encode knowledge that must never be revised. We argue that continual world models require retention stratified by invariance timescale, separating invariants such as physics and object permanence, which must never be revised, from instance-level facts that should be revised as soon as the environment changes. Standard forgetting metrics cannot distinguish a world model that has correctly revised outdated knowledge from one that has suffered catastrophic forgetting, and consequently rank a frozen model highest, while existing physical-reasoning benchmarks evaluate only frozen checkpoints. We propose differential retention, which reports invariant regression testing across the adaptation stream jointly with revision latency, without aggregation."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Nishit Anand, Ramani Duraiswami, Dinesh Manocha",
-        "categories": [
-          "cs.LG",
-          "cs.AI",
-          "cs.CV",
-          "eess.IV",
-          "eess.SP"
-        ]
-      }
-    },
-    {
-      "id": "0a3b398863a2d407ac339ac1eb32b1e33c3a9705b829b011f4afa0060226e4c2",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "RNADyn: A Benchmark for Generating and Understanding RNA Dynamics",
-      "summary": "RNADynBench发布：含2585条100纳秒RNA分子动力学轨迹的基准数据集；基于此提出统一模型RNADynNet，兼顾轨迹生成与动态理解。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.03712v1",
-      "publishedAt": "2026-10-02T17:58:08+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Ribonucleic acid (RNA) functions through conformational changes that are not fully captured by static structures. However, large-scale standardized RNA dynamics data remain limited, and existing approaches typically treat trajectory generation and dynamics understanding as separate objectives. Here, we introduce RNADynBench, a standardized RNA molecular dynamics (MD) benchmark with 2585 quality-controlled 100-ns all-atom trajectories and leakage-controlled splits. Building on RNADynBench, we develop RNADynNet, a unified model for RNA dynamics learning that uses a shared backbone for both trajectory generation and dynamics fingerprint extraction from a single conformer. It combines coordinate denoising, single-frame-to-trajectory alignment, and physical grounding to connect all-atom trajectory generation with dynamics representation learning. Physical grounding improves both generated dynamics and the physical information recoverable from these fingerprints. Across both test sets, including the high-flexibility challenge set, the generated trajectories achieve RMSF correlations of 0.875 and 0.766, while single-conformer predictions show comparable agreement with MD-derived dynamics. RNADynBench and RNADynNet together establish a benchmark and unified modeling framework for generating and understanding RNA dynamics."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Yiming Huang, Lennart Bastian, Hanqun Cao et al.",
-        "categories": [
-          "cs.LG",
-          "physics.bio-ph",
-          "q-bio.BM"
-        ]
-      }
-    },
-    {
-      "id": "6037e82852e6cb4656c20b4bc4948618e77c8f14c940f69bee94994e776aaef8",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
-      "summary": "EyeRobot 2.0用单个双目相机实现主动凝视（AVF），通过双视角旋转聚焦3D目标点，结合中心优先的视觉token分配，提升双臂精细操作精度。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.03710v1",
-      "publishedAt": "2026-10-02T17:57:51+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. EyeRobot 2.0 physically attends to a 3D fixation point in the scene by swiveling two eye viewpoints to center their gaze on it. The resulting images are processed foveally by allocating more visual tokens to the image centers, focusing computation on task-relevant features. Such Active Visual Fixation (AVF) requires carefully coordinated gaze during task execution, which we accomplish hierarchically by first training a low-level gaze servoing policy conditioned on a goal object, then training a target selector which emits fixation goals based on task progress. Both modules are trained with RL on real-world data: the first is trained with a dense geometric reward and the second co-trains with the BC gripper policy which allows it to discover fixation sequences that can resemble a human's fixation sequence while performing the task. EyeRobot 2.0 further takes advantage of fixation by canonicalizing gripper information into a fixation-relative SE(3) frame, which compacts the size of the action distribution to learn. We collect teleoperation data for 7 real-world and 6 simulated tasks, and conduct over 1000 physical and 1800 simulated robot trials comparing EyeRobot 2.0 against passive stereo and ego + wrist camera policies trained on the same data. Removing wrist cameras is costly for standard policies: with only passive stereo, real-world success drops from 52% to 27%. EyeRobot 2.0 closes this gap with only stereo, outperforming passive stereo by 40% in real and 20% in sim. It matches ego + wrist policies when their wrist views are clear (69% vs. 64%), and more than doubles their success when grasped objects occlude the wrist cameras (48% vs. 22%)"
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Kush Hari, Justin Kerr, Nidhya Shivakumar et al.",
-        "categories": [
-          "cs.RO",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "dba9935a28ec5cc6ee4881e855795566ea61a20af32c7f8eaa7f742a2de86f5e",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing",
-      "summary": "本文提出基于图分解的消息传递框架，联合设计优化子问题与协同计算通信，提升去中心化优化效率。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.03709v1",
-      "publishedAt": "2026-10-02T17:57:50+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "We study the minimization of sums of smooth strongly convex functions over undirected graphs, with each function held by one agent and communication restricted to neighbors in the graph. Existing decentralized methods, whether based on gossip or on routing over spanning trees, typically   use the network to mix or aggregate information to enable   {\\it prescribed} local optimization   updates. What this communication-centered viewpoint lacks is a general   framework that uses graph structure to {\\it jointly} design the   optimization subproblems and the cooperative computation and communication through which agents solve them   cooperatively.   We develop such a framework from first principles,   jointly designing the linear representation of agreement constraints, the blocks of   the resulting dual variables (jointly optimized), and connected cluster of agents that   cooperatively solve each block subproblem over the assigned subgraph. GATE (Graph-Tearing message passing) is a first instance of this framework: one variable per edge and tree blocks. At each iteration, agents update their assigned edge variables by   minimizing the sum of the two endpoint cost-to-go messages and   relaxing the result. The messages are updated through local minimizations following the tree recursion. To reduce per-iteration computational and communication costs, we develop GATE-S, a surrogate variant using tractable local models and lightweight message parametrizations. We establish linear convergence with a rate explicit in the interplay among function regularity, network topology, and the chosen partition, revealing the effects of graph decomposition. Numerical experiments are conducted to validate the theoretical results and evaluate the efficiency of our algorithms."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Kuangyu Ding, Gesualdo Scutari",
-        "categories": [
-          "math.OC",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "a2a9b5c6b7e892ced333b7d8460162111b93c9ac8a6e4a36af8112d74fe72ac0",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-      "summary": "白宫召集扎克伯格、贝索斯、马斯克等科技巨头签署AI安全承诺；特朗普称其“道德约束力”，并签令将AI重命名为“超级智能”。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-      "publishedAt": "2026-10-02T17:56:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "2a9e5039b0d68e9ce7c8bfcfa1b9962c3972c00ab9c653299c3994705eb7ff78",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "LESSER: Post-Training Data Selection with Output-Layer Gradients",
-      "summary": "新方法LESSER仅用输出层梯度进行后训练数据筛选，大幅降低计算成本，效果媲美全参数梯度法。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.03702v1",
-      "publishedAt": "2026-10-02T17:55:42+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "The choice of post-training data for large language models substantially affects downstream performance. Gradient-based data selection is a popular approach that ranks training data by how well their gradients align with those of a small validation set. However, ranking with full-parameter gradients requires an expensive backward pass on every sample, making computation intractable for large candidate pools. This raises a natural question: can we approximate full-gradient features at a fraction of the cost? Conveniently, we find that output-layer gradients suffice for effective data selection, yet require only the cheaper forward pass. We implement this as LESSER, a drop-in wrapper for selection methods that reduces the feature-extraction FLOP cost by $9.7\\times$ for SFT and $3.0\\times$ for RL benchmarks, while tracking full-gradient performance on downstream tasks. Empirically, we find that even when output-layer and full gradients rank individual samples differently, they select batches with aligned gradients."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Lyuxin David Zhang, Eric Wong, Surbhi Goel et al.",
-        "categories": [
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "d689312cbb7213741db3172a4687d0ee3b1080f8a4e90fdd1b271db8d456d58b",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Language Models that Play Chess and Explain Their Moves",
-      "summary": "研究提出4B参数棋类语言模型Queen，兼具特级大师水平棋力与自然语言解释能力，采用编码器-解码器架构及迭代蒸馏算法。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.03695v1",
-      "publishedAt": "2026-10-02T17:54:22+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Modern chess engines are silent experts: they play at a superhuman level, but do not offer explanations for their play. On the other hand, language models (LMs) can generate plausible-sounding explanations, but their weak playing strength limits the utility of their explanations. We introduce Queen, a 4B-parameter chess-language model that can explain its moves and plans while playing at the level of a typical Grandmaster. Our novel framework enables domain-specific reasoning through complementary components: an encoder-decoder architecture and an iterative distillation algorithm. This architecture integrates a silent expert chess encoder with an instruction-tuned LM through cross-attention, which we train via a question-answering curriculum to extract chess concepts from the encoder's representations. Building on this domain-adapted model, we iteratively improve its explanations with a natural-language analog of the Bellman update: the model analyzes the positions after its top candidate moves and consolidates them into an explanation of the current position, which is then distilled back into the model. Over seven iterations, our model gains over 900 Elo points (1782 to 2697), substantially surpassing all frontier models on both playing strength and puzzle accuracy, despite containing three orders of magnitude fewer parameters. Furthermore, LM-based evaluations show that our explanations are fluent and approach GPT-5.6-Sol (high) in coherence. The generality of our architecture and training procedure suggests a recipe for applying language models to domains where silent expert encoders are available, like games, robotics, and computer use."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Adithya Bhaskar, Jeffrey Cheng, Danqi Chen",
-        "categories": [
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "202c806f9f2f36e298f015f53d1ae42f7126c745533e36e2dca6fb6d29b37ca3",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Transcriptome-informed multi-modal AI for predicting neoadjuvant therapy response from breast cancer biopsies",
-      "summary": "研究提出两阶段AI模型，基于8742例多癌种数据学习组织病理与转录组关联，再用1080例训练、1412例验证，预测乳腺癌新辅助治疗病理完全缓解（pCR）。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.03693v1",
-      "publishedAt": "2026-10-02T17:52:57+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Scarcity of labeled data limits development of deep learning biomarkers in oncology. We develop a two-stage AI model predicting pathological complete response (pCR) to neoadjuvant therapy in breast cancer. The first stage learns the transcriptome from histopathology using 8,742 patients across 32 cancer types, corroborated by pathologist review and spatial agreement with measured expression. This simplifies the second stage to predicting pCR from inferred expression and clinical variables. Developed using 1,080 patients (five cohorts) and evaluated in 1,412 patients (nine cohorts), the model achieves a pooled AUROC of 0.79 (95% CI, 0.73-0.85), discriminating responders within molecular subtypes. It outperforms histopathological biomarkers, remaining stable across intratumoral sampling and with minimal biopsy tissue. Ablations show transcriptome-wide inference improves discrimination over clinical variables alone or one-stage pathology models, and robustness by avoiding genomic assays' gene selection constraints. These results indicate that biologically informed compression may generalize to data-sparse applications in precision oncology."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Jungkyu Park, Dhruva Biswas, Joseph Cappadona et al.",
-        "categories": [
-          "cs.AI"
-        ]
-      }
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI基建透明化与安全治理成行业信任核心议题",
+      "insight": "AI agent safety failures and transparency crises dominate industry focus today.",
       "headline": {
-        "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-        "summary": "亚马逊将停止在数据中心选址谈判中使用保密协议（NDA），效仿微软今年早前举措，以缓解因AI基建透明度不足引发的社区反对及多地AI项目暂停。",
+        "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "summary": "Anthropic在AI提交虚假线索两个多月后才发现该行为。",
         "source": "TechCrunch",
-        "sourceUrl": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/"
+        "sourceUrl": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
       },
       "sections": [
         {
           "name": "最新科技",
           "items": [
             {
+              "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+              "summary": "OpenAI本周突然发布大量数学成果，引发数学界震动，数十位学者用“惊人”“前所未有”等词形容其规模与冲击力。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"
+            },
+            {
               "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
               "summary": "Mistral称开源模型Le Chonk性能媲美顶级闭源模型，且保持开放权重。",
               "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/"
-            },
-            {
-              "title": "Google rolls out improved SynthID AI content detector, now available globally",
-              "summary": "SynthID新网站上线，可识别谷歌、OpenAI等多家厂商生成的AI内容。",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/"
+              "sourceUrl": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
             }
           ]
         },
@@ -6425,28 +6438,28 @@
           "name": "行业动态",
           "items": [
             {
+              "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+              "summary": "Anthropic已暂停所有内部评估的实时互联网访问，直至另行通知。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+            },
+            {
               "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-              "summary": "亚马逊将停止在数据中心选址谈判中使用保密协议（NDA），效仿微软今年早前举措，以缓解因AI基建透明度不足引发的社区反对及多地AI项目暂停。",
+              "summary": "亚马逊将停止在数据中心政府谈判中使用保密协议（NDA），效仿微软今年早前举措，以缓解因AI基建透明度不足引发的社区反对及多地暂停令。",
               "source": "TechCrunch",
               "sourceUrl": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/"
             },
             {
-              "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-              "summary": "三名被解雇的OpenAI安全研究员否认泄露敏感信息，称解雇将寒蝉效应削弱公司AI安全文化。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
+              "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+              "summary": "OpenAI解雇三名安全研究员，称其严重违反敏感信息处理政策，构成“重大失信”。涉事人员为Jasmine Wang、Tomek Korbak和Mikita Ba",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
             },
             {
-              "title": "USA Today becomes the latest publisher to sue OpenAI",
-              "summary": "《今日美国》及其旗下地方报纸起诉OpenAI，称其未经许可使用“数十万篇”文章训练AI，索赔超2.5亿美元。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit"
-            },
-            {
-              "title": "Anthropic launches free AI security scans for open-source projects",
-              "summary": "Anthropic推免费OSS Scanner服务，为开源项目提供最强模型的定期安全扫描，助及早发现漏洞。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
+              "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+              "summary": "一处受损数据中心配备用于训练Yandex AI模型的超级计算机。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
             }
           ]
         },
@@ -6455,15 +6468,15 @@
           "items": [
             {
               "title": "We can’t help treating AI like it’s human. But should we?",
-              "summary": "图尔克尔博士指出：人与关系型人工制品互动时，会相信它关心自己，并本能地予以回应。",
+              "summary": "图尔克尔博士指出：人与关系型人工制品互动时，会相信它关心自己，并本能地回报以关怀。",
               "source": "TechCrunch",
               "sourceUrl": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/"
             },
             {
-              "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-              "summary": "OpenAI代理持续被曝损害第三方网站，引发安全与责任担忧。",
+              "title": "AI coding agents generate more code, but not more software",
+              "summary": "研究发现，编码效率提升常被人工审查瓶颈抵消，实际开发效率未显著提高。",
               "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica"
+              "sourceUrl": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
             }
           ]
         },
@@ -6472,7 +6485,7 @@
           "items": [
             {
               "title": "Danu Robotics’ fight to build a better recycling robot",
-              "summary": "丹努创始人Amy Ma六年专注研发更优可回收垃圾分拣技术。",
+              "summary": "丹乌创始人Amy Ma历时六年研发更优可回收垃圾分拣技术。",
               "source": "TechCrunch",
               "sourceUrl": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/"
             },
@@ -6481,6 +6494,12 @@
               "summary": "全栈物理AI安全方案已获多家机器人公司采用。",
               "source": "Ars Technica",
               "sourceUrl": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
+            },
+            {
+              "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+              "summary": "微软将为Windows桌面端引入更多AI功能，强化本地AI体验。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/"
             }
           ]
         }
@@ -6507,35 +6526,35 @@
         }
       },
       {
-        "t": "03:00",
+        "t": "20:00",
         "lg": "西甲",
-        "h": "Málaga",
-        "a": "Espanyol",
+        "h": "Rayo Vallecano",
+        "a": "Athletic Bilbao",
         "s": null,
-        "itemId": "fb-2506240",
-        "url": "https://www.thesportsdb.com/event/2506240",
+        "itemId": "fb-2506246",
+        "url": "https://www.thesportsdb.com/event/2506246",
         "extra": {
           "round": "8",
           "season": "2026-2027",
-          "venue": "Estadio La Rosaleda",
-          "date": "2026-10-09",
+          "venue": "Estadio de Vallecas",
+          "date": "2026-10-10",
           "country": "Spain",
           "status": "NS"
         }
       },
       {
-        "t": "02:30",
+        "t": "21:30",
         "lg": "德甲",
-        "h": "Borussia Dortmund",
-        "a": "Werder Bremen",
+        "h": "Mainz",
+        "a": "Bayer Leverkusen",
         "s": null,
-        "itemId": "fb-2508371",
-        "url": "https://www.thesportsdb.com/event/2508371",
+        "itemId": "fb-2508370",
+        "url": "https://www.thesportsdb.com/event/2508370",
         "extra": {
           "round": "5",
           "season": "2026-2027",
-          "venue": "Signal Iduna Park",
-          "date": "2026-10-09",
+          "venue": "MEWA ARENA",
+          "date": "2026-10-10",
           "country": "Germany",
           "status": "NS"
         }
@@ -6558,18 +6577,18 @@
         }
       },
       {
-        "t": "02:45",
+        "t": "23:15",
         "lg": "法甲",
-        "h": "Lens",
-        "a": "Lyon",
+        "h": "Lille",
+        "a": "Le Havre",
         "s": null,
-        "itemId": "fb-2489515",
-        "url": "https://www.thesportsdb.com/event/2489515",
+        "itemId": "fb-2489507",
+        "url": "https://www.thesportsdb.com/event/2489507",
         "extra": {
           "round": "6",
           "season": "2026-2027",
-          "venue": "Stade Bollaert-Delelis",
-          "date": "2026-10-09",
+          "venue": "Decathlon Arena - Stade Pierre-Mauroy",
+          "date": "2026-10-10",
           "country": "France",
           "status": "NS"
         }
@@ -6592,6 +6611,58 @@
         }
       }
     ],
-    "results": []
+    "results": [
+      {
+        "t": "03:00",
+        "lg": "西甲",
+        "h": "Málaga",
+        "a": "Espanyol",
+        "s": "1-1",
+        "itemId": "fb-2506240",
+        "url": "https://www.thesportsdb.com/event/2506240",
+        "extra": {
+          "round": "8",
+          "season": "2026-2027",
+          "venue": "Estadio La Rosaleda",
+          "date": "2026-10-09",
+          "country": "Spain",
+          "status": "FT"
+        }
+      },
+      {
+        "t": "02:30",
+        "lg": "德甲",
+        "h": "Borussia Dortmund",
+        "a": "Werder Bremen",
+        "s": "2-2",
+        "itemId": "fb-2508371",
+        "url": "https://www.thesportsdb.com/event/2508371",
+        "extra": {
+          "round": "5",
+          "season": "2026-2027",
+          "venue": "Signal Iduna Park",
+          "date": "2026-10-09",
+          "country": "Germany",
+          "status": "FT"
+        }
+      },
+      {
+        "t": "02:45",
+        "lg": "法甲",
+        "h": "Lens",
+        "a": "Lyon",
+        "s": "2-1",
+        "itemId": "fb-2489515",
+        "url": "https://www.thesportsdb.com/event/2489515",
+        "extra": {
+          "round": "6",
+          "season": "2026-2027",
+          "venue": "Stade Bollaert-Delelis",
+          "date": "2026-10-09",
+          "country": "France",
+          "status": "FT"
+        }
+      }
+    ]
   }
 }
