@@ -23065,7 +23065,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-    "publishedAt": "2026-10-11T06:49:59.743462+00:00",
+    "publishedAt": "2026-10-11T17:09:46.311121+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -58575,6 +58575,611 @@
     "extra": {
       "downloads": 2791,
       "likes": 5
+    }
+  },
+  "d8ff247b5e6bab83dbc77f3f8480ef9b712e587a9041651390f4a1473a678cd9": {
+    "id": "d8ff247b5e6bab83dbc77f3f8480ef9b712e587a9041651390f4a1473a678cd9",
+    "module": "football",
+    "seg": null,
+    "cat": "英超",
+    "title": "Coventry City VS Newcastle United",
+    "summary": "英超 · 赛程 · 03:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2494059",
+    "publishedAt": "2026-10-11T17:09:46.311068+00:00",
+    "tags": [
+      "英超",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "6",
+      "season": "2026-2027",
+      "venue": "The Coventry Building Society Arena",
+      "date": "2026-10-12",
+      "country": "England",
+      "status": "NS"
+    }
+  },
+  "39907df149252a40e8ceb5a1929281613db06aed8f932552e96cbd6d5849fe88": {
+    "id": "39907df149252a40e8ceb5a1929281613db06aed8f932552e96cbd6d5849fe88",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Racing de Santander VS Valencia",
+    "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2506248",
+    "publishedAt": "2026-10-11T17:09:46.311098+00:00",
+    "tags": [
+      "西甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "8",
+      "season": "2026-2027",
+      "venue": "Campos de Sport de El Sardinero",
+      "date": "2026-10-11",
+      "country": "Spain",
+      "status": "NS"
+    }
+  },
+  "cf3594aab2d33b7e98bf1f74163332b44aaa1139d97076c01a81ae5726604499": {
+    "id": "cf3594aab2d33b7e98bf1f74163332b44aaa1139d97076c01a81ae5726604499",
+    "module": "football",
+    "seg": null,
+    "cat": "德甲",
+    "title": "Eintracht Frankfurt VS Köln",
+    "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2508382",
+    "publishedAt": "2026-10-11T17:09:46.311105+00:00",
+    "tags": [
+      "德甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "6",
+      "season": "2026-2027",
+      "venue": "Deutsche Bank Park",
+      "date": "2026-10-16",
+      "country": "Germany",
+      "status": "NS"
+    }
+  },
+  "38ee3d5a5f8f8336285fad4f4f1b53bd7eb5b02fee8f44815d22e4823735cd95": {
+    "id": "38ee3d5a5f8f8336285fad4f4f1b53bd7eb5b02fee8f44815d22e4823735cd95",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Cagliari VS Juventus",
+    "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482190",
+    "publishedAt": "2026-10-11T17:09:46.311111+00:00",
+    "tags": [
+      "意甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "6",
+      "season": "2026-2027",
+      "venue": "Unipol Domus",
+      "date": "2026-10-11",
+      "country": "Italy",
+      "status": "NS"
+    }
+  },
+  "2faad9775c2a761f4a06b804958fffef8cf588492a5d1ee29a196423b31756f9": {
+    "id": "2faad9775c2a761f4a06b804958fffef8cf588492a5d1ee29a196423b31756f9",
+    "module": "football",
+    "seg": null,
+    "cat": "法甲",
+    "title": "Troyes VS Marseille",
+    "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2489514",
+    "publishedAt": "2026-10-11T17:09:46.311116+00:00",
+    "tags": [
+      "法甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "6",
+      "season": "2026-2027",
+      "venue": "Stade de l'Aube",
+      "date": "2026-10-11",
+      "country": "France",
+      "status": "NS"
+    }
+  },
+  "56d5cb257d8648a003d45aeaf6a48539b2335e5f82c60b1600b6e9b3f9d109ca": {
+    "id": "56d5cb257d8648a003d45aeaf6a48539b2335e5f82c60b1600b6e9b3f9d109ca",
+    "module": "football",
+    "seg": null,
+    "cat": "英超",
+    "title": "Liverpool 0-3 Manchester City",
+    "summary": "英超 · 战报 · 23:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2494051",
+    "publishedAt": "2026-10-11T17:09:46.311136+00:00",
+    "tags": [
+      "英超",
+      "战报"
+    ],
+    "body": [
+      "英超 第 6 轮 · 2026-10-11 · 北京时间 23:30（估算）",
+      "场地：Anfield",
+      "主队 Liverpool vs 客队 Manchester City",
+      "终场比分 0-3"
+    ],
+    "points": [
+      "<b>赛事</b>：英超 第 6 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-10-11 · 北京时间 23:30（估算）",
+      "<b>场地</b>：Anfield",
+      "<b>主队</b>：Liverpool",
+      "<b>客队</b>：Manchester City",
+      "<b>终场比分</b>：0-3",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "6",
+      "season": "2026-2027",
+      "venue": "Anfield",
+      "date": "2026-10-11",
+      "country": "England",
+      "status": "2H"
+    }
+  },
+  "4c79a65a84c96e966723ae321f8dcb63098c20f9eafbd4d3fd0daab033887bb0": {
+    "id": "4c79a65a84c96e966723ae321f8dcb63098c20f9eafbd4d3fd0daab033887bb0",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Real Betis 2-0 Osasuna",
+    "summary": "西甲 · 战报 · 00:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2506244",
+    "publishedAt": "2026-10-11T17:09:46.311146+00:00",
+    "tags": [
+      "西甲",
+      "战报"
+    ],
+    "body": [
+      "西甲 第 8 轮 · 2026-10-11 · 北京时间 00:30（估算）",
+      "场地：Estadio de La Cartuja",
+      "主队 Real Betis vs 客队 Osasuna",
+      "终场比分 2-0"
+    ],
+    "points": [
+      "<b>赛事</b>：西甲 第 8 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-10-11 · 北京时间 00:30（估算）",
+      "<b>场地</b>：Estadio de La Cartuja",
+      "<b>主队</b>：Real Betis",
+      "<b>客队</b>：Osasuna",
+      "<b>终场比分</b>：2-0",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "8",
+      "season": "2026-2027",
+      "venue": "Estadio de La Cartuja",
+      "date": "2026-10-11",
+      "country": "Spain",
+      "status": "1H"
+    }
+  },
+  "3290aca55bd6107b1325d18dc5a8e52ed6f69002f05f7cf24f4343f6b354604b": {
+    "id": "3290aca55bd6107b1325d18dc5a8e52ed6f69002f05f7cf24f4343f6b354604b",
+    "module": "football",
+    "seg": null,
+    "cat": "德甲",
+    "title": "Freiburg 1-1 Schalke 04",
+    "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2508369",
+    "publishedAt": "2026-10-11T17:09:46.311154+00:00",
+    "tags": [
+      "德甲",
+      "战报"
+    ],
+    "body": [
+      "德甲 第 5 轮 · 2026-10-11 · 北京时间 23:30（估算）",
+      "场地：Europa-Park Stadion",
+      "主队 Freiburg vs 客队 Schalke 04",
+      "终场比分 1-1"
+    ],
+    "points": [
+      "<b>赛事</b>：德甲 第 5 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-10-11 · 北京时间 23:30（估算）",
+      "<b>场地</b>：Europa-Park Stadion",
+      "<b>主队</b>：Freiburg",
+      "<b>客队</b>：Schalke 04",
+      "<b>终场比分</b>：1-1",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "5",
+      "season": "2026-2027",
+      "venue": "Europa-Park Stadion",
+      "date": "2026-10-11",
+      "country": "Germany",
+      "status": "2H"
+    }
+  },
+  "e649e8f9e2eb9b7922a35a8d36b88dc0d7df2585bbd3c8b76b5ccb110582eb82": {
+    "id": "e649e8f9e2eb9b7922a35a8d36b88dc0d7df2585bbd3c8b76b5ccb110582eb82",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Sassuolo 0-0 AC Milan",
+    "summary": "意甲 · 战报 · 00:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482189",
+    "publishedAt": "2026-10-11T17:09:46.311163+00:00",
+    "tags": [
+      "意甲",
+      "战报"
+    ],
+    "body": [
+      "意甲 第 6 轮 · 2026-10-11 · 北京时间 00:00（估算）",
+      "场地：Mapei Stadium – Città del Tricolore",
+      "主队 Sassuolo vs 客队 AC Milan",
+      "终场比分 0-0"
+    ],
+    "points": [
+      "<b>赛事</b>：意甲 第 6 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-10-11 · 北京时间 00:00（估算）",
+      "<b>场地</b>：Mapei Stadium – Città del Tricolore",
+      "<b>主队</b>：Sassuolo",
+      "<b>客队</b>：AC Milan",
+      "<b>终场比分</b>：0-0",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "6",
+      "season": "2026-2027",
+      "venue": "Mapei Stadium – Città del Tricolore",
+      "date": "2026-10-11",
+      "country": "Italy",
+      "status": "HT"
+    }
+  },
+  "ae015570130043f2240407abc4aa68cec96168e4ede308a90ced3d4bf42bda40": {
+    "id": "ae015570130043f2240407abc4aa68cec96168e4ede308a90ced3d4bf42bda40",
+    "module": "football",
+    "seg": null,
+    "cat": "法甲",
+    "title": "Rennes 4-1 Auxerre",
+    "summary": "法甲 · 战报 · 23:15（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2489511",
+    "publishedAt": "2026-10-11T17:09:46.311170+00:00",
+    "tags": [
+      "法甲",
+      "战报"
+    ],
+    "body": [
+      "法甲 第 6 轮 · 2026-10-11 · 北京时间 23:15（估算）",
+      "场地：Roazhon Park",
+      "主队 Rennes vs 客队 Auxerre",
+      "终场比分 4-1"
+    ],
+    "points": [
+      "<b>赛事</b>：法甲 第 6 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-10-11 · 北京时间 23:15（估算）",
+      "<b>场地</b>：Roazhon Park",
+      "<b>主队</b>：Rennes",
+      "<b>客队</b>：Auxerre",
+      "<b>终场比分</b>：4-1",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "6",
+      "season": "2026-2027",
+      "venue": "Roazhon Park",
+      "date": "2026-10-11",
+      "country": "France",
+      "status": "2H"
+    }
+  },
+  "45db0dcbf4e75d00433d1c0f70ecb0e281dac28adbf5abb837a52255c7bdbf44": {
+    "id": "45db0dcbf4e75d00433d1c0f70ecb0e281dac28adbf5abb837a52255c7bdbf44",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+    "summary": "Equity栏目探讨数据中心建设禁令对AI产业的影响，以及AI行业是否存在沟通困境。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+    "publishedAt": "2026-10-11T16:52:33+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "4153e6372e5eebfd5a524675130ad92155fdf6746818456cf5519d2f9521943a": {
+    "id": "4153e6372e5eebfd5a524675130ad92155fdf6746818456cf5519d2f9521943a",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+    "summary": "语音AI常因上下文理解不足而漏掉关键信息，导致整个处理流程中断。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+    "publishedAt": "2026-10-11T14:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "c571a31befadd3aceca3d4616acdb234cdace68f85d033f3eb884ced130b18de": {
+    "id": "c571a31befadd3aceca3d4616acdb234cdace68f85d033f3eb884ced130b18de",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+    "summary": "作者转向日常使用AI，因隐私顾虑曾犹豫；现可本地运行大模型，无需上传敏感数据。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+    "publishedAt": "2026-10-11T11:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "97c208e0cee19c1fffceda0bb613a18d222005017ba5fabf0ed9db241c878064": {
+    "id": "97c208e0cee19c1fffceda0bb613a18d222005017ba5fabf0ed9db241c878064",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "王的猜想，刚刚扩展到四维",
+    "summary": "",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502584.html",
+    "publishedAt": "2026-10-11T05:23:47+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "659025d65c85ee4524ac7c793dd1a6b5f16c5bacefaf81d3a257532a4dedae03": {
+    "id": "659025d65c85ee4524ac7c793dd1a6b5f16c5bacefaf81d3a257532a4dedae03",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "硅谷AI现状：谁有算力谁是爹",
+    "summary": "马斯克连横A社，硅谷VC开始囤GPU",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502585.html",
+    "publishedAt": "2026-10-11T05:22:38+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "8427df9d8382a3e867d0ea4eb303f9815641f9e959af616462684ec65ea82272": {
+    "id": "8427df9d8382a3e867d0ea4eb303f9815641f9e959af616462684ec65ea82272",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
+    "summary": "初代4o的API快照进入停用倒计时",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502550.html",
+    "publishedAt": "2026-10-11T05:18:04+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "e0ffa4878b90228982bb6fc69cbee61e4077d8a2a451c4797488f42070ac4a14": {
+    "id": "e0ffa4878b90228982bb6fc69cbee61e4077d8a2a451c4797488f42070ac4a14",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
+    "summary": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502544.html",
+    "publishedAt": "2026-10-11T03:27:08+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "3371518db0956484bd7ec0ba9998532746aa432c3e36417abddc067948fa1d2d": {
+    "id": "3371518db0956484bd7ec0ba9998532746aa432c3e36417abddc067948fa1d2d",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+    "summary": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502541.html",
+    "publishedAt": "2026-10-10T10:30:36+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "d84df47b68f57b132c33598f9df4584bc19ed39ee118b0bd18a044ea4f6e2c6f": {
+    "id": "d84df47b68f57b132c33598f9df4584bc19ed39ee118b0bd18a044ea4f6e2c6f",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
+    "summary": "2026年9月28日，荣耀在北京举办Magic盛典，发布Magic9系列新品。",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502496.html",
+    "publishedAt": "2026-10-10T09:07:43+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "8ea0853faf8aab8833f1e80ec583a102df96894ce27606ddef8691457722951a": {
+    "id": "8ea0853faf8aab8833f1e80ec583a102df96894ce27606ddef8691457722951a",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
+    "summary": "",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502492.html",
+    "publishedAt": "2026-10-10T08:54:08+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "74ea5cec6bd9361be340710e3e6955825dd4faa48364bab1aba64a923018fb46": {
+    "id": "74ea5cec6bd9361be340710e3e6955825dd4faa48364bab1aba64a923018fb46",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
+    "summary": "",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502484.html",
+    "publishedAt": "2026-10-10T08:52:16+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "2312247ae824af2ccd1b39df186ffb4b4bd09d97ed89af692f702cd86c4710b3": {
+    "id": "2312247ae824af2ccd1b39df186ffb4b4bd09d97ed89af692f702cd86c4710b3",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Qwen3.8-Flash-Next-Gyro-GGUF：image-text-to-text 模型更新",
+    "summary": "HuggingFace 上 image-text-to-text 模型 agentionai/Qwen3.8-Flash-Next-Gyro-GGUF 下载量达18,175，获25赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/agentionai/Qwen3.8-Flash-Next-Gyro-GGUF",
+    "publishedAt": "2026-10-11T17:05:45+00:00",
+    "tags": [
+      "huggingface",
+      "image-text-to-text",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 18175,
+      "likes": 25
+    }
+  },
+  "d9393a617652fbb1f95d670f44ef13b8aa515bc7fa97b5e1834ce92664b60fbc": {
+    "id": "d9393a617652fbb1f95d670f44ef13b8aa515bc7fa97b5e1834ce92664b60fbc",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "AGILLM-GB10-1PF：model 模型更新",
+    "summary": "HuggingFace 上 MarxistLeninist/AGILLM-GB10-1PF 模型下载量达 2487 次，获 0 赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/MarxistLeninist/AGILLM-GB10-1PF",
+    "publishedAt": "2026-10-11T16:50:50+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 2487,
+      "likes": 0
+    }
+  },
+  "b8c0bb2e1b40b3e232067d588c3c446831e8a71b33277007b5cff4a24e961507": {
+    "id": "b8c0bb2e1b40b3e232067d588c3c446831e8a71b33277007b5cff4a24e961507",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "海斗骚套路（十三）冷门英雄贝蕾亚无限连教学",
+    "summary": "UP主 老蒋真聪明 · 826播放 · 3:2",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117421369202700",
+    "publishedAt": "2026-10-11T08:38:51+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 强化 套路"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "老蒋真聪明",
+      "play": 826,
+      "bvid": "BV1qEpJ63EP6",
+      "duration": "3:2"
     }
   }
 }
