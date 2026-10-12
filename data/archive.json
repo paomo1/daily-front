@@ -23065,7 +23065,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-    "publishedAt": "2026-10-12T07:00:31.105293+00:00",
+    "publishedAt": "2026-10-12T20:41:45.360130+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -58638,7 +58638,7 @@
     "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2508382",
-    "publishedAt": "2026-10-12T07:00:31.105263+00:00",
+    "publishedAt": "2026-10-12T20:41:45.360099+00:00",
     "tags": [
       "德甲",
       "赛程"
@@ -59243,7 +59243,7 @@
     "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2489524",
-    "publishedAt": "2026-10-12T07:00:31.105288+00:00",
+    "publishedAt": "2026-10-12T20:41:45.360124+00:00",
     "tags": [
       "法甲",
       "赛程"
@@ -59347,7 +59347,7 @@
     "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=K3HnXcBqM6w",
-    "publishedAt": "2026-10-12T07:00:31.105325+00:00",
+    "publishedAt": "2026-10-12T20:41:45.360165+00:00",
     "tags": [
       "德甲",
       "战报"
@@ -59425,7 +59425,7 @@
     "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=NeMRpHZVRx0",
-    "publishedAt": "2026-10-12T07:00:31.105340+00:00",
+    "publishedAt": "2026-10-12T20:41:45.360181+00:00",
     "tags": [
       "法甲",
       "战报"
@@ -60054,6 +60054,723 @@
         "cs.AI",
         "cs.IR"
       ]
+    }
+  },
+  "5fb90d8bc49d760ee09099e1e612a6cb09c78e8dee7e5c078ceedb2deff601b5": {
+    "id": "5fb90d8bc49d760ee09099e1e612a6cb09c78e8dee7e5c078ceedb2deff601b5",
+    "module": "football",
+    "seg": null,
+    "cat": "英超",
+    "title": "Everton VS Chelsea",
+    "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2494063",
+    "publishedAt": "2026-10-12T20:41:45.360058+00:00",
+    "tags": [
+      "英超",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "7",
+      "season": "2026-2027",
+      "venue": "Hill Dickinson Stadium",
+      "date": "2026-10-17",
+      "country": "England",
+      "status": "NS"
+    }
+  },
+  "94dc854cd8522279d9e8a6ba0f30d91f153b255246d1f904e78e91ac6d5c0f48": {
+    "id": "94dc854cd8522279d9e8a6ba0f30d91f153b255246d1f904e78e91ac6d5c0f48",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Deportivo de A Coruña VS Levante",
+    "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2506256",
+    "publishedAt": "2026-10-12T20:41:45.360091+00:00",
+    "tags": [
+      "西甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "9",
+      "season": "2026-2027",
+      "venue": "Estadio Abanca-Riazor",
+      "date": "2026-10-16",
+      "country": "Spain",
+      "status": "NS"
+    }
+  },
+  "7c0373ad7d030e0deafe1e2f129bf21876af46cff4e7f762958fec87577adbb8": {
+    "id": "7c0373ad7d030e0deafe1e2f129bf21876af46cff4e7f762958fec87577adbb8",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Frosinone VS Sassuolo",
+    "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482204",
+    "publishedAt": "2026-10-12T20:41:45.360105+00:00",
+    "tags": [
+      "意甲",
+      "赛程"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "round": "7",
+      "season": "2026-2027",
+      "venue": "Stadio Benito Stirpe",
+      "date": "2026-10-16",
+      "country": "Italy",
+      "status": "NS"
+    }
+  },
+  "4d1f94b248f9c451ccdb0d054cb29a2539d8e0612ffa6d9de431f1dc456c591c": {
+    "id": "4d1f94b248f9c451ccdb0d054cb29a2539d8e0612ffa6d9de431f1dc456c591c",
+    "module": "football",
+    "seg": null,
+    "cat": "英超",
+    "title": "Coventry City 3-1 Newcastle United",
+    "summary": "英超 · 战报 · 03:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2494059",
+    "publishedAt": "2026-10-12T20:41:45.360146+00:00",
+    "tags": [
+      "英超",
+      "战报"
+    ],
+    "body": [
+      "英超 第 6 轮 · 2026-10-12 · 北京时间 03:00（估算）",
+      "场地：The Coventry Building Society Arena",
+      "主队 Coventry City vs 客队 Newcastle United",
+      "终场比分 3-1"
+    ],
+    "points": [
+      "<b>赛事</b>：英超 第 6 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-10-12 · 北京时间 03:00（估算）",
+      "<b>场地</b>：The Coventry Building Society Arena",
+      "<b>主队</b>：Coventry City",
+      "<b>客队</b>：Newcastle United",
+      "<b>终场比分</b>：3-1",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "6",
+      "season": "2026-2027",
+      "venue": "The Coventry Building Society Arena",
+      "date": "2026-10-12",
+      "country": "England",
+      "status": "2H"
+    }
+  },
+  "d125a819ffa4910d5a1a6828699975e234f00f7021d58ca2ca87c433e97009cf": {
+    "id": "d125a819ffa4910d5a1a6828699975e234f00f7021d58ca2ca87c433e97009cf",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Levante 1-2 Sevilla",
+    "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2506241",
+    "publishedAt": "2026-10-12T20:41:45.360157+00:00",
+    "tags": [
+      "西甲",
+      "战报"
+    ],
+    "body": [
+      "西甲 第 8 轮 · 2026-10-12 · 北京时间 03:00（估算）",
+      "场地：Estadio Ciudad de Valencia",
+      "主队 Levante vs 客队 Sevilla",
+      "终场比分 1-2"
+    ],
+    "points": [
+      "<b>赛事</b>：西甲 第 8 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-10-12 · 北京时间 03:00（估算）",
+      "<b>场地</b>：Estadio Ciudad de Valencia",
+      "<b>主队</b>：Levante",
+      "<b>客队</b>：Sevilla",
+      "<b>终场比分</b>：1-2",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "8",
+      "season": "2026-2027",
+      "venue": "Estadio Ciudad de Valencia",
+      "date": "2026-10-12",
+      "country": "Spain",
+      "status": "2H"
+    }
+  },
+  "89eaebdf5a050e6ae34c0b4c1f788f268c0f6a0d789644f31187b49867b0b63b": {
+    "id": "89eaebdf5a050e6ae34c0b4c1f788f268c0f6a0d789644f31187b49867b0b63b",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Torino 2-1 Udinese",
+    "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.thesportsdb.com/event/2482194",
+    "publishedAt": "2026-10-12T20:41:45.360174+00:00",
+    "tags": [
+      "意甲",
+      "战报"
+    ],
+    "body": [
+      "意甲 第 6 轮 · 2026-10-12 · 北京时间 02:45（估算）",
+      "场地：Stadio Olimpico Grande Torino",
+      "主队 Torino vs 客队 Udinese",
+      "终场比分 2-1"
+    ],
+    "points": [
+      "<b>赛事</b>：意甲 第 6 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-10-12 · 北京时间 02:45（估算）",
+      "<b>场地</b>：Stadio Olimpico Grande Torino",
+      "<b>主队</b>：Torino",
+      "<b>客队</b>：Udinese",
+      "<b>终场比分</b>：2-1",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "6",
+      "season": "2026-2027",
+      "venue": "Stadio Olimpico Grande Torino",
+      "date": "2026-10-12",
+      "country": "Italy",
+      "status": "2H"
+    }
+  },
+  "a14684e9994ee5031a4f2591b906d34d9162d51c22be27a2a44094bae369c51b": {
+    "id": "a14684e9994ee5031a4f2591b906d34d9162d51c22be27a2a44094bae369c51b",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "summary": "Wonder模型比轻量级Muse Spark更大、更强，基准测试分数更高，在编程等复杂任务上表现更优。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "publishedAt": "2026-10-12T17:56:56+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "595915e4097e76d6c9285d90a8f11aaede865984767ba1050827827f8d69f833": {
+    "id": "595915e4097e76d6c9285d90a8f11aaede865984767ba1050827827f8d69f833",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "summary": "硅谷初创公司用气象气球和AI预报天气，获美军近5000万美元合同。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "publishedAt": "2026-10-12T17:19:14+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "b041efe6f652e9d20c08be0591ef8b4fafcc0bd574e8d53b0b379734739faffa": {
+    "id": "b041efe6f652e9d20c08be0591ef8b4fafcc0bd574e8d53b0b379734739faffa",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "summary": "记者、创业者及部分公关从业者认为PR流程已失效，但AI或可改善这一现状。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "publishedAt": "2026-10-12T15:45:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "3b37a9eac7da8b9eaedc8a8b64dbea31d2d1ec55822bd75bcfec3d98dbb390cd": {
+    "id": "3b37a9eac7da8b9eaedc8a8b64dbea31d2d1ec55822bd75bcfec3d98dbb390cd",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "summary": "微软总裁布拉德·史密斯呼吁紧急监管AI，称牛奶和洗衣机的监管都比AI公司更严格。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "publishedAt": "2026-10-12T15:31:19+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "166752310a6d700b92ed97e94a7e0934be93ecdfc25766c4f72c9a021c30cee1": {
+    "id": "166752310a6d700b92ed97e94a7e0934be93ecdfc25766c4f72c9a021c30cee1",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "summary": "Santa Monica初创Blueprints AI开发AI工具，可将照片、PDF或草图一键生成符合规范的施工蓝图。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "publishedAt": "2026-10-12T15:27:59+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "c29813fc650d69edcb31418c81ffc8d370cb9e58d39107bff0c307eb04713fd3": {
+    "id": "c29813fc650d69edcb31418c81ffc8d370cb9e58d39107bff0c307eb04713fd3",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+    "summary": "TechCrunch Disrupt 2026开幕在即：明早8点（PT），超1万名科技从业者齐聚旧金山Moscone West。24小时内购票享最高立减$100及第二张5折。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+    "publishedAt": "2026-10-12T14:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "982385aef5a282a558c5a2aa4536f40c94fbf9c9be5fee501aa1efdd89b66f79": {
+    "id": "982385aef5a282a558c5a2aa4536f40c94fbf9c9be5fee501aa1efdd89b66f79",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+    "summary": "AI厂商称需持续监听、记录用户行为以获取足够上下文，从而提供更精准的个性化服务。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+    "publishedAt": "2026-10-12T12:47:59+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "6d5bb1d6b12a472649eb770e8e74189a77ae50d6e4531a1fbf8178166e4dbee8": {
+    "id": "6d5bb1d6b12a472649eb770e8e74189a77ae50d6e4531a1fbf8178166e4dbee8",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Meta has some Wonder Full new AI models",
+    "summary": "Meta推出两款新AI模型Muse Wonder及Wonder Full，称其性能媲美业界顶尖水平，继Muse Spark和AI助手Muse后加速追赶AI竞赛。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+    "publishedAt": "2026-10-12T17:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "28938c46869f630d97be6d148c0f1d5c32680c75711ea7acd931dbf3909c861a": {
+    "id": "28938c46869f630d97be6d148c0f1d5c32680c75711ea7acd931dbf3909c861a",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+    "summary": "微软发布第三代自研AI芯片Maia 300，主打AI推理，提升云上AI负载成本效益与大模型推理、智能体任务处理能力。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+    "publishedAt": "2026-10-12T13:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "d3c6a501152a79a876d1f13d650edf2cd4d4e535230ad069faa4a0d1cc234d7c": {
+    "id": "d3c6a501152a79a876d1f13d650edf2cd4d4e535230ad069faa4a0d1cc234d7c",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+    "summary": "Claude AI向费城警方表示：“我可能掌握此案相关信息。”这是AI首次主动向执法部门提供案件线索。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+    "publishedAt": "2026-10-12T18:21:36+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "d7cf7d2db136d74da9ac97114c78bee0d1413dc114ce745259ccccc5d9fae87f": {
+    "id": "d7cf7d2db136d74da9ac97114c78bee0d1413dc114ce745259ccccc5d9fae87f",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Russia was not ready for the data center war it started with Ukraine",
+    "summary": "俄博主警告：俄罗斯高度集中的数字经济存在严重安全风险。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+    "publishedAt": "2026-10-12T17:52:36+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "e91b0d0b98af368242cad02c35d875c5b17bf4c459be4dc604e3b6a29cf863fc": {
+    "id": "e91b0d0b98af368242cad02c35d875c5b17bf4c459be4dc604e3b6a29cf863fc",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
+    "summary": "全球第二大企业雇主大幅增加机器人雇员，以提升规模化运营能力。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+    "publishedAt": "2026-10-12T12:43:10+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "33bf4874452e28567cb1fcb613460b0245155c190e939f033584a332542d72b9": {
+    "id": "33bf4874452e28567cb1fcb613460b0245155c190e939f033584a332542d72b9",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "hacked by trenggalek6etar",
+    "summary": "",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502764.html",
+    "publishedAt": "2026-10-12T12:21:14+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "a452197f6d745bd4d9cfcd4882b8291bb2051c64441b65f4eb3f21d9ae8454c7": {
+    "id": "a452197f6d745bd4d9cfcd4882b8291bb2051c64441b65f4eb3f21d9ae8454c7",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "2026没过完，已有480亿美元投进了物理AI",
+    "summary": "日均10亿元流入",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502741.html",
+    "publishedAt": "2026-10-12T08:27:43+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "3ab72efcc6d7df26bf374b5aa5772ec70188285a48e63686599c63d843b77ed0": {
+    "id": "3ab72efcc6d7df26bf374b5aa5772ec70188285a48e63686599c63d843b77ed0",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "具身智能回到产业现场， 思灵机器人Agile Robots携12款展品亮相2026工博会",
+    "summary": "思灵机器人Agile Robots携12款展品参展第26届中国国际工业博览会。",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502683.html",
+    "publishedAt": "2026-10-12T08:14:58+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "81ed58d53611eb78691771a9c9d6042b1f685d4967449a4814ca3a87dc41a025": {
+    "id": "81ed58d53611eb78691771a9c9d6042b1f685d4967449a4814ca3a87dc41a025",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "AI从「造图」卷到「造世界」，这次真有点科幻了。。。",
+    "summary": "从画出一个世界，到让整个世界「活」过来",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502701.html",
+    "publishedAt": "2026-10-12T08:08:05+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "7690870a1084bae3a65342b237bb7aa9f371381615def3d6a566d94dbf6f84ca": {
+    "id": "7690870a1084bae3a65342b237bb7aa9f371381615def3d6a566d94dbf6f84ca",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "刚刚，GPT-6 Astra联手非职业数学家，证明57年「摆圆」 难题",
+    "summary": "GPT-6 Astra扫荡数学证明ing",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502667.html",
+    "publishedAt": "2026-10-12T07:48:53+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "05dc83544ee6ee59b5974298a8d849be710d1e69101ff9c4898d466b48a07515": {
+    "id": "05dc83544ee6ee59b5974298a8d849be710d1e69101ff9c4898d466b48a07515",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+    "summary": "游戏打到21:0，AI甚至不用再调用大模型了",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502654.html",
+    "publishedAt": "2026-10-12T05:48:36+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "8037a08324d13c42d13d76ef79e1cdc57403dd290c245b9dbece5800c5648a2a": {
+    "id": "8037a08324d13c42d13d76ef79e1cdc57403dd290c245b9dbece5800c5648a2a",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "智谱新模型，490 tokens/s！",
+    "summary": "GLM「速度仙人」来了？",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502649.html",
+    "publishedAt": "2026-10-12T02:37:04+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "81746843d7f2859347ff77c7215bbecf7f59d28015734a30d95b7286f42c389e": {
+    "id": "81746843d7f2859347ff77c7215bbecf7f59d28015734a30d95b7286f42c389e",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+    "summary": "一套生成论文初稿的多智能体工作流",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502644.html",
+    "publishedAt": "2026-10-11T09:04:31+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "a6fcae4e3d304f501166b69ab5893e07e8fcb1dd6e540c38380e4a48e3555726": {
+    "id": "a6fcae4e3d304f501166b69ab5893e07e8fcb1dd6e540c38380e4a48e3555726",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "NeuralAI-Nae1：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 NeuralAI-Nae1（ID：Subject-Emu-5259）下载量达1042次，获1个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Subject-Emu-5259/NeuralAI-Nae1",
+    "publishedAt": "2026-10-12T20:41:24+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1042,
+      "likes": 1
+    }
+  },
+  "50c4fcffd5bd54a7b209cb387fb601361df0870ccab07acf71972f3a5f42ed27": {
+    "id": "50c4fcffd5bd54a7b209cb387fb601361df0870ccab07acf71972f3a5f42ed27",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Qwen3.8-27B-EfficientThink-VAL-APEX-I-MiniPlus-V2.1-GGUF：text-generation 模型更新",
+    "summary": "HuggingFace上线Qwen3.8-27B高效推理模型，下载量5046次，获5赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/IsValorum/Qwen3.8-27B-EfficientThink-VAL-APEX-I-MiniPlus-V2.1-GGUF",
+    "publishedAt": "2026-10-12T20:35:20+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 5046,
+      "likes": 5
+    }
+  },
+  "b28346c1669b677522dd8e4db4ccdaf91e5e75aa35faa56c0917decc394db026": {
+    "id": "b28346c1669b677522dd8e4db4ccdaf91e5e75aa35faa56c0917decc394db026",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Qwen3.8-27B-EfficientThink-VAL-APEX-I-NanoPlus-GGUF：text-generation 模型更新",
+    "summary": "HuggingFace上线Qwen3.8-27B高效推理模型，GGUF格式，下载量6187次，获4赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/IsValorum/Qwen3.8-27B-EfficientThink-VAL-APEX-I-NanoPlus-GGUF",
+    "publishedAt": "2026-10-12T20:35:17+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 6187,
+      "likes": 4
+    }
+  },
+  "9697553d9fdad847024a61baff24588c46d3d91c7e819641fa1c0240faa206e0": {
+    "id": "9697553d9fdad847024a61baff24588c46d3d91c7e819641fa1c0240faa206e0",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Minimax-H3-ComfyUI：model 模型更新",
+    "summary": "HuggingFace热门模型Alissonerdx/Minimax-H3-ComfyUI下载量达11.4万，获366赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Alissonerdx/Minimax-H3-ComfyUI",
+    "publishedAt": "2026-10-12T20:34:14+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 114410,
+      "likes": 366
+    }
+  },
+  "c35a96a59a7562729781ef30fa0f7b54642867478a42eccc695457ce75f2ab84": {
+    "id": "c35a96a59a7562729781ef30fa0f7b54642867478a42eccc695457ce75f2ab84",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "上单最强玩法狂徒功德流来了，全局视频加出装教学，帮助你峡谷上大分",
+    "summary": "UP主 48世一上 · 132播放 · 16:47",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117428986059292",
+    "publishedAt": "2026-10-12T17:00:36+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "48世一上",
+      "play": 132,
+      "bvid": "BV1kLpZ6oEkD",
+      "duration": "16:47"
+    }
+  },
+  "a9e44b28685fca18a646f09cb813093dc68e54d1423269a1919a9e75fd38cf20": {
+    "id": "a9e44b28685fca18a646f09cb813093dc68e54d1423269a1919a9e75fd38cf20",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "一个彩色海克斯如何能让日月双蚀一跃成为S级阵容？",
+    "summary": "UP主 云顶好多宝 · 5,119播放 · 5:6",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117428247862987",
+    "publishedAt": "2026-10-12T13:52:31+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "云顶好多宝",
+      "play": 5119,
+      "bvid": "BV1yTpd6sErP",
+      "duration": "5:6"
     }
   }
 }
