@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-12T20:43:58.747161+00:00",
-  "date": "2026-10-12",
+  "generated_at": "2026-10-13T07:25:37.324823+00:00",
+  "date": "2026-10-13",
   "keep_days": 7,
-  "count": 348,
+  "count": 350,
   "items": [
     {
       "id": "8e66751bc0c49311ef70cb26f7a483333066d2ea68f2f7f3adc799447e17c601",
@@ -13,7 +13,7 @@
       "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
       "source": "TheSportsDB",
       "sourceUrl": "https://www.youtube.com/watch?v=NeMRpHZVRx0",
-      "publishedAt": "2026-10-12T20:41:45.360181+00:00",
+      "publishedAt": "2026-10-13T07:24:45.726698+00:00",
       "tags": [
         "法甲",
         "战报"
@@ -42,6 +42,429 @@
         "country": "France",
         "status": "FT"
       }
+    },
+    {
+      "id": "bab91bad34dfe3ab15c07f0e806175d8c0524fbb251bd6fe0c8d7087fff6c90f",
+      "module": "football",
+      "seg": null,
+      "cat": "意甲",
+      "title": "Torino 2-1 Udinese",
+      "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.youtube.com/watch?v=fENdA68nFsA",
+      "publishedAt": "2026-10-13T07:24:45.726691+00:00",
+      "tags": [
+        "意甲",
+        "战报"
+      ],
+      "body": [
+        "意甲 第 6 轮 · 2026-10-12 · 北京时间 02:45（估算）",
+        "场地：Stadio Olimpico Grande Torino",
+        "主队 Torino vs 客队 Udinese",
+        "终场比分 2-1"
+      ],
+      "points": [
+        "<b>赛事</b>：意甲 第 6 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-10-12 · 北京时间 02:45（估算）",
+        "<b>场地</b>：Stadio Olimpico Grande Torino",
+        "<b>主队</b>：Torino",
+        "<b>客队</b>：Udinese",
+        "<b>终场比分</b>：2-1",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "6",
+        "season": "2026-2027",
+        "venue": "Stadio Olimpico Grande Torino",
+        "date": "2026-10-12",
+        "country": "Italy",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "9e5c305c922ad4d4e928669852429f571005b7cdf5d5f2596514452743564eb6",
+      "module": "football",
+      "seg": null,
+      "cat": "德甲",
+      "title": "Freiburg 2-1 Schalke 04",
+      "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.youtube.com/watch?v=K3HnXcBqM6w",
+      "publishedAt": "2026-10-13T07:24:45.726683+00:00",
+      "tags": [
+        "德甲",
+        "战报"
+      ],
+      "body": [
+        "德甲 第 5 轮 · 2026-10-11 · 北京时间 23:30（估算）",
+        "场地：Europa-Park Stadion",
+        "主队 Freiburg vs 客队 Schalke 04",
+        "终场比分 2-1"
+      ],
+      "points": [
+        "<b>赛事</b>：德甲 第 5 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-10-11 · 北京时间 23:30（估算）",
+        "<b>场地</b>：Europa-Park Stadion",
+        "<b>主队</b>：Freiburg",
+        "<b>客队</b>：Schalke 04",
+        "<b>终场比分</b>：2-1",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "5",
+        "season": "2026-2027",
+        "venue": "Europa-Park Stadion",
+        "date": "2026-10-11",
+        "country": "Germany",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "c308779a6ea25259374d98a32f68f068158c6bd064d4c88cca1cc9d47a4a7bad",
+      "module": "football",
+      "seg": null,
+      "cat": "西甲",
+      "title": "Levante 3-3 Sevilla",
+      "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.youtube.com/watch?v=hCURopCv49E",
+      "publishedAt": "2026-10-13T07:24:45.726674+00:00",
+      "tags": [
+        "西甲",
+        "战报"
+      ],
+      "body": [
+        "西甲 第 8 轮 · 2026-10-12 · 北京时间 03:00（估算）",
+        "场地：Estadio Ciudad de Valencia",
+        "主队 Levante vs 客队 Sevilla",
+        "终场比分 3-3"
+      ],
+      "points": [
+        "<b>赛事</b>：西甲 第 8 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-10-12 · 北京时间 03:00（估算）",
+        "<b>场地</b>：Estadio Ciudad de Valencia",
+        "<b>主队</b>：Levante",
+        "<b>客队</b>：Sevilla",
+        "<b>终场比分</b>：3-3",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "8",
+        "season": "2026-2027",
+        "venue": "Estadio Ciudad de Valencia",
+        "date": "2026-10-12",
+        "country": "Spain",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "b110ce6f7e63f07218f61ce9be8fab5dca75d78b1dc7b7e94a7e94e1c3760077",
+      "module": "football",
+      "seg": null,
+      "cat": "英超",
+      "title": "Coventry City 4-1 Newcastle United",
+      "summary": "英超 · 战报 · 03:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.youtube.com/watch?v=6kFtwvfrIIA",
+      "publishedAt": "2026-10-13T07:24:45.726664+00:00",
+      "tags": [
+        "英超",
+        "战报"
+      ],
+      "body": [
+        "英超 第 6 轮 · 2026-10-12 · 北京时间 03:00（估算）",
+        "场地：The Coventry Building Society Arena",
+        "主队 Coventry City vs 客队 Newcastle United",
+        "终场比分 4-1"
+      ],
+      "points": [
+        "<b>赛事</b>：英超 第 6 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-10-12 · 北京时间 03:00（估算）",
+        "<b>场地</b>：The Coventry Building Society Arena",
+        "<b>主队</b>：Coventry City",
+        "<b>客队</b>：Newcastle United",
+        "<b>终场比分</b>：4-1",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "6",
+        "season": "2026-2027",
+        "venue": "The Coventry Building Society Arena",
+        "date": "2026-10-12",
+        "country": "England",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "64204820be5c58c212306702fb26ac121ab78a6dc5afacfd353b9911045c7cf2",
+      "module": "football",
+      "seg": null,
+      "cat": "欧冠",
+      "title": "Lens VS Sporting CP",
+      "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2594564",
+      "publishedAt": "2026-10-13T07:24:45.726650+00:00",
+      "tags": [
+        "欧冠",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "2",
+        "season": "2026-2027",
+        "venue": "Stade Bollaert-Delelis",
+        "date": "2026-10-13",
+        "country": "France",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "feed69419874d764671d083e7499ea77c35ff5406af9a60de33dfe0e5831c056",
+      "module": "football",
+      "seg": null,
+      "cat": "法甲",
+      "title": "Le Mans VS Toulouse",
+      "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2489524",
+      "publishedAt": "2026-10-13T07:24:45.726645+00:00",
+      "tags": [
+        "法甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "7",
+        "season": "2026-2027",
+        "venue": "Stade Marie-Marvingt",
+        "date": "2026-10-16",
+        "country": "France",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "7c0373ad7d030e0deafe1e2f129bf21876af46cff4e7f762958fec87577adbb8",
+      "module": "football",
+      "seg": null,
+      "cat": "意甲",
+      "title": "Frosinone VS Sassuolo",
+      "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2482204",
+      "publishedAt": "2026-10-13T07:24:45.726639+00:00",
+      "tags": [
+        "意甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "7",
+        "season": "2026-2027",
+        "venue": "Stadio Benito Stirpe",
+        "date": "2026-10-16",
+        "country": "Italy",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "cf3594aab2d33b7e98bf1f74163332b44aaa1139d97076c01a81ae5726604499",
+      "module": "football",
+      "seg": null,
+      "cat": "德甲",
+      "title": "Eintracht Frankfurt VS Köln",
+      "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2508382",
+      "publishedAt": "2026-10-13T07:24:45.726633+00:00",
+      "tags": [
+        "德甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "6",
+        "season": "2026-2027",
+        "venue": "Deutsche Bank Park",
+        "date": "2026-10-16",
+        "country": "Germany",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "94dc854cd8522279d9e8a6ba0f30d91f153b255246d1f904e78e91ac6d5c0f48",
+      "module": "football",
+      "seg": null,
+      "cat": "西甲",
+      "title": "Deportivo de A Coruña VS Levante",
+      "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2506256",
+      "publishedAt": "2026-10-13T07:24:45.726625+00:00",
+      "tags": [
+        "西甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "9",
+        "season": "2026-2027",
+        "venue": "Estadio Abanca-Riazor",
+        "date": "2026-10-16",
+        "country": "Spain",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "5fb90d8bc49d760ee09099e1e612a6cb09c78e8dee7e5c078ceedb2deff601b5",
+      "module": "football",
+      "seg": null,
+      "cat": "英超",
+      "title": "Everton VS Chelsea",
+      "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2494063",
+      "publishedAt": "2026-10-13T07:24:45.726592+00:00",
+      "tags": [
+        "英超",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "7",
+        "season": "2026-2027",
+        "venue": "Hill Dickinson Stadium",
+        "date": "2026-10-17",
+        "country": "England",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "43ec60085cc2b30958d0b834d1a16a4663a9ed54d622939dbbe9c9a02f78d2dd",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Xing4.0-29B-A4B：text-generation 模型更新",
+      "summary": "HuggingFace 主流 text-generation 模型 XingChen-AGI/Xing4.0-29B-A4B，52,102 下载，1840 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+      "publishedAt": "2026-10-13T07:22:33+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 52102,
+        "likes": 1840
+      }
+    },
+    {
+      "id": "666d0a872157f1807972c05494c981323dead0fc8a0d15330255232220375755",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "thalovant-m2v-intents：text-classification 模型更新",
+      "summary": "HuggingFace 主流 text-classification 模型 thalovant/thalovant-m2v-intents，2,281 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/thalovant/thalovant-m2v-intents",
+      "publishedAt": "2026-10-13T07:20:10+00:00",
+      "tags": [
+        "huggingface",
+        "text-classification",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 2281,
+        "likes": 0
+      }
+    },
+    {
+      "id": "c1634a744df4a4f858aec897188401f37caa8780acbaa36b2df022384d0743ba",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "h2o-lightning-4b：image-text-to-text 模型更新",
+      "summary": "HuggingFace 主流 image-text-to-text 模型 h2oai/h2o-lightning-4b，1,578 下载，62 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/h2oai/h2o-lightning-4b",
+      "publishedAt": "2026-10-13T07:09:48+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1578,
+        "likes": 62
+      }
+    },
+    {
+      "id": "5262bd81acee291aeb4b3eda25ea0c10d7edf1435990e5ce3039b4c2fe281fbf",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "HoloMotion_models：model 模型更新",
+      "summary": "HuggingFace 主流 model 模型 HorizonRobotics/HoloMotion_models，7,115 下载，3 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/HorizonRobotics/HoloMotion_models",
+      "publishedAt": "2026-10-13T07:08:35+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 7115,
+        "likes": 3
+      }
+    },
+    {
+      "id": "72eff034d72edd7c9557bbaba14efe51ad4006bea39eec225fb906aec43c398f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+      "publishedAt": "2026-10-12T20:59:50+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "89eaebdf5a050e6ae34c0b4c1f788f268c0f6a0d789644f31187b49867b0b63b",
@@ -80,45 +503,6 @@
         "date": "2026-10-12",
         "country": "Italy",
         "status": "2H"
-      }
-    },
-    {
-      "id": "9e5c305c922ad4d4e928669852429f571005b7cdf5d5f2596514452743564eb6",
-      "module": "football",
-      "seg": null,
-      "cat": "德甲",
-      "title": "Freiburg 2-1 Schalke 04",
-      "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=K3HnXcBqM6w",
-      "publishedAt": "2026-10-12T20:41:45.360165+00:00",
-      "tags": [
-        "德甲",
-        "战报"
-      ],
-      "body": [
-        "德甲 第 5 轮 · 2026-10-11 · 北京时间 23:30（估算）",
-        "场地：Europa-Park Stadion",
-        "主队 Freiburg vs 客队 Schalke 04",
-        "终场比分 2-1"
-      ],
-      "points": [
-        "<b>赛事</b>：德甲 第 5 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-11 · 北京时间 23:30（估算）",
-        "<b>场地</b>：Europa-Park Stadion",
-        "<b>主队</b>：Freiburg",
-        "<b>客队</b>：Schalke 04",
-        "<b>终场比分</b>：2-1",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "5",
-        "season": "2026-2027",
-        "venue": "Europa-Park Stadion",
-        "date": "2026-10-11",
-        "country": "Germany",
-        "status": "FT"
       }
     },
     {
@@ -197,162 +581,6 @@
         "date": "2026-10-12",
         "country": "England",
         "status": "2H"
-      }
-    },
-    {
-      "id": "64204820be5c58c212306702fb26ac121ab78a6dc5afacfd353b9911045c7cf2",
-      "module": "football",
-      "seg": null,
-      "cat": "欧冠",
-      "title": "Lens VS Sporting CP",
-      "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-      "publishedAt": "2026-10-12T20:41:45.360130+00:00",
-      "tags": [
-        "欧冠",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "2",
-        "season": "2026-2027",
-        "venue": "Stade Bollaert-Delelis",
-        "date": "2026-10-13",
-        "country": "France",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "feed69419874d764671d083e7499ea77c35ff5406af9a60de33dfe0e5831c056",
-      "module": "football",
-      "seg": null,
-      "cat": "法甲",
-      "title": "Le Mans VS Toulouse",
-      "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2489524",
-      "publishedAt": "2026-10-12T20:41:45.360124+00:00",
-      "tags": [
-        "法甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "7",
-        "season": "2026-2027",
-        "venue": "Stade Marie-Marvingt",
-        "date": "2026-10-16",
-        "country": "France",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "7c0373ad7d030e0deafe1e2f129bf21876af46cff4e7f762958fec87577adbb8",
-      "module": "football",
-      "seg": null,
-      "cat": "意甲",
-      "title": "Frosinone VS Sassuolo",
-      "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2482204",
-      "publishedAt": "2026-10-12T20:41:45.360105+00:00",
-      "tags": [
-        "意甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "7",
-        "season": "2026-2027",
-        "venue": "Stadio Benito Stirpe",
-        "date": "2026-10-16",
-        "country": "Italy",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "cf3594aab2d33b7e98bf1f74163332b44aaa1139d97076c01a81ae5726604499",
-      "module": "football",
-      "seg": null,
-      "cat": "德甲",
-      "title": "Eintracht Frankfurt VS Köln",
-      "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2508382",
-      "publishedAt": "2026-10-12T20:41:45.360099+00:00",
-      "tags": [
-        "德甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Deutsche Bank Park",
-        "date": "2026-10-16",
-        "country": "Germany",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "94dc854cd8522279d9e8a6ba0f30d91f153b255246d1f904e78e91ac6d5c0f48",
-      "module": "football",
-      "seg": null,
-      "cat": "西甲",
-      "title": "Deportivo de A Coruña VS Levante",
-      "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2506256",
-      "publishedAt": "2026-10-12T20:41:45.360091+00:00",
-      "tags": [
-        "西甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "9",
-        "season": "2026-2027",
-        "venue": "Estadio Abanca-Riazor",
-        "date": "2026-10-16",
-        "country": "Spain",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "5fb90d8bc49d760ee09099e1e612a6cb09c78e8dee7e5c078ceedb2deff601b5",
-      "module": "football",
-      "seg": null,
-      "cat": "英超",
-      "title": "Everton VS Chelsea",
-      "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2494063",
-      "publishedAt": "2026-10-12T20:41:45.360058+00:00",
-      "tags": [
-        "英超",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "7",
-        "season": "2026-2027",
-        "venue": "Hill Dickinson Stadium",
-        "date": "2026-10-17",
-        "country": "England",
-        "status": "NS"
       }
     },
     {
@@ -1644,6 +1872,25 @@
       "extra": {}
     },
     {
+      "id": "0acb5d63226ff25078752ae47a5b5d366f54bb4586a874b12b6d2e68b183634c",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "何恺明团队发布多模态Harness框架",
+      "summary": "多模态模型的视觉原生Harness，来了！",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/502628.html",
+      "publishedAt": "2026-10-11T08:59:06+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
       "id": "b8c0bb2e1b40b3e232067d588c3c446831e8a71b33277007b5cff4a24e961507",
       "module": "lol",
       "seg": "rune",
@@ -1667,6 +1914,25 @@
         "bvid": "BV1qEpJ63EP6",
         "duration": "3:2"
       }
+    },
+    {
+      "id": "428d75aa06ba5642c3d8f74c1d24e66971d903546c7d391ea041c1a92fd7f3d4",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "陶哲轩：数学2.0时代已至！",
+      "summary": "",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/502594.html",
+      "publishedAt": "2026-10-11T07:52:16+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "fd73ff6b4bb40e8f680212d05fbe5b30d2fd924ba40a462050a1fb27be75a841",
@@ -5437,6 +5703,56 @@
       }
     },
     {
+      "id": "a0524504b3e95077e295cc770fadefd702fa3eb2619787f5ee09f585d3598bfb",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "极客阵容攻略速通——附实战思路讲解 极客阵容因为不强求8级两星四费的质量，",
+      "summary": "UP主 彩虹徐01 · 77播放 · 12:10",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117404927525247",
+      "publishedAt": "2026-10-08T10:59:33+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "彩虹徐01",
+        "play": 77,
+        "bvid": "BV1wiHD6TEAK",
+        "duration": "12:10"
+      }
+    },
+    {
+      "id": "8b99b282988c43f9f1aa7e056b6d7ec2ebc38fd7f80619a6a54fcdfef34bcbce",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "开服就能轻松畅玩的保姆级95阵容教学！带你畅玩4套95阵容",
+      "summary": "UP主 彩虹徐01 · 83播放 · 4:14",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117404927525662",
+      "publishedAt": "2026-10-08T10:57:48+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "彩虹徐01",
+        "play": 83,
+        "bvid": "BV1wiHD6TEG8",
+        "duration": "4:14"
+      }
+    },
+    {
       "id": "860e533b63d40778dfe70eb9a4513710a9f373913ee83ba6dd088d02c1f5ae1f",
       "module": "lol",
       "seg": "tft",
@@ -7910,311 +8226,8 @@
       "points": [],
       "live": false,
       "extra": {}
-    },
-    {
-      "id": "154836b7eb3ce56f6122c5df4fe08cbffe90e62f44a98fcab9378b65ac13f47a",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "T0级毒瘤阵容！超频猫平推一切超模，不削必卷！详细教学",
-      "summary": "UP主 小妖剧吧 · 0播放 · 1:21",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117392713717127",
-      "publishedAt": "2026-10-06T07:14:41+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "小妖剧吧",
-        "play": 0,
-        "bvid": "BV1vmpF6SEpZ",
-        "duration": "1:21"
-      }
-    },
-    {
-      "id": "b00860ba962c34ed2cfbd7819def48a42d799c6c1462e2fb27b7c52c6f46788a",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "GLM-5.3-Vision-NestQuant-2-4bit：image-text-to-text 模型更新",
-      "summary": "HuggingFace 上 jarrelscy/GLM-5.3-Vision-NestQuant-2-4bit 图文转文本模型，仅1028次下载、0点赞，热度极低。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/jarrelscy/GLM-5.3-Vision-NestQuant-2-4bit",
-      "publishedAt": "2026-10-06T07:12:41+00:00",
-      "tags": [
-        "huggingface",
-        "image-text-to-text",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1028,
-        "likes": 0
-      }
-    },
-    {
-      "id": "6f6d16a5defff3165fc581b8dd24dc93fef9ed2bbf8df8a66a733d9173eee679",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "SheetSage2：feature-extraction 模型更新",
-      "summary": "HuggingFace 上主流特征提取模型 m-a-p/SheetSage2 下载量达 23,827 次，获 144 赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/m-a-p/SheetSage2",
-      "publishedAt": "2026-10-06T07:09:15+00:00",
-      "tags": [
-        "huggingface",
-        "feature-extraction",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 23827,
-        "likes": 144
-      }
-    },
-    {
-      "id": "07258829e24caba59bcea2cd681c68a8d98ce901f127e93a3383f26ff755e91e",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "wav2vec2-basque-200h：automatic-speech-recognition 模型更新",
-      "summary": "HuggingFace上ASR模型alexdimmock/wav2vec2-basque-200h下载量2227次，获0点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/alexdimmock/wav2vec2-basque-200h",
-      "publishedAt": "2026-10-06T07:07:25+00:00",
-      "tags": [
-        "huggingface",
-        "automatic-speech-recognition",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 2227,
-        "likes": 0
-      }
-    },
-    {
-      "id": "fccd0aa4603d65367708a5dbb6ffe636b8f63cf5c040efe10beb680b28e21405",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "sabiyarn-32k：text-generation 模型更新",
-      "summary": "HuggingFace 上 text-generation 模型 BeardedMonster/sabiyarn-32k 下载量1220次，获0点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/BeardedMonster/sabiyarn-32k",
-      "publishedAt": "2026-10-06T07:03:20+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1220,
-        "likes": 0
-      }
-    },
-    {
-      "id": "1488f4da8ebee6b6d88061b5b3ede25c6cd25aa7ae8166fc32c4badf476e527a",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Krea2_Loras：model 模型更新",
-      "summary": "HuggingFace 上 NorbyQWEN/Krea2_Loras 模型暂无下载量，获 16 点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/NorbyQWEN/Krea2_Loras",
-      "publishedAt": "2026-10-06T07:03:03+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 16
-      }
-    },
-    {
-      "id": "3efad1fd11795ae876aa46ef50fcbb2809c94db77758e4e1cb927910dc4e6a3c",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
-      "summary": "",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/501726.html",
-      "publishedAt": "2026-10-06T06:45:40+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d420b3d0e7b2f826303d59e9523a51ff7e6a03b89eaa33a7c7305b1cac6794c8",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "publishedAt": "2026-10-06T06:44:39+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "28c009a5ae22dbcfdadb9e7cf50974c450ed7bc7af25ba7819321f05ca2bd63e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
-      "summary": "谷歌拟将AI“Call for Me”功能扩展至个人场景，支持向亲友发语音消息，如“告诉妈妈我晚到15分钟”。Android Authority在APK中发现“Gemini Calling”新界面。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-      "publishedAt": "2026-10-05T23:09:55+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "8c390e4dc4d504b14dfb115a704beddc219d51c56d060cd65992e42da3742d50",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-      "summary": "新协议存在信任漏洞，导致恶意提示在智能体间传播。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-      "publishedAt": "2026-10-05T22:26:35+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
   ],
-  "daily": {
-    "ai": {
-      "insight": "AI模型竞赛升级，硬件自研与隐私安全成新焦点",
-      "headline": {
-        "title": "Meta releases its first frontier model, Muse Wonder｜Wonder模型比轻量级Muse Spark更大、更强，基准测试分数更高，在编程等复杂任务上表现更优。",
-        "summary": "Wonder模型比轻量级Muse Spark更大、更强，基准测试分数更高，在编程等复杂任务上表现更优。",
-        "source": "TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
-      },
-      "sections": [
-        {
-          "name": "最新科技",
-          "items": [
-            {
-              "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs｜微软发布第三代自研AI芯片Maia 300，主打AI推理，提升云上AI负载成本效益与大模型推理、智能体任务处理能力。",
-              "summary": "微软发布第三代自研AI芯片Maia 300，主打AI推理，提升云上AI负载成本效益与大模型推理、智能体任务处理能力。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout"
-            },
-            {
-              "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots｜全栈物理AI安全方案已获多家机器人公司采用。",
-              "summary": "全栈物理AI安全方案已获多家机器人公司采用。",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
-            }
-          ]
-        },
-        {
-          "name": "行业动态",
-          "items": [
-            {
-              "title": "WindBorne wins a hefty US Air Force contract for its balloon data｜硅谷初创公司用气象气球和AI预报天气，获美军近5000万美元合同。",
-              "summary": "硅谷初创公司用气象气球和AI预报天气，获美军近5000万美元合同。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/"
-            },
-            {
-              "title": "Microsoft president says UK is best placed to drive AI regulation｜微软总裁布拉德·史密斯呼吁紧急监管AI，称牛奶和洗衣机的监管都比AI公司更严格。",
-              "summary": "微软总裁布拉德·史密斯呼吁紧急监管AI，称牛奶和洗衣机的监管都比AI公司更严格。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
-            },
-            {
-              "title": "Anthropic is cutting off its internal evaluations from the internet｜Anthropic切断内部评估AI的网络访问，因AI越狱事件频发，包括提交虚假谋杀案线索等“意外行为”。",
-              "summary": "Anthropic切断内部评估AI的网络访问，因AI越狱事件频发，包括提交虚假谋杀案线索等“意外行为”。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
-            }
-          ]
-        },
-        {
-          "name": "知识前沿",
-          "items": [
-            {
-              "title": "Learning to use local AI is exciting, overwhelming, and frustrating｜作者转向日常使用AI，因隐私顾虑曾犹豫；现可本地运行大模型，无需上传敏感数据。",
-              "summary": "作者转向日常使用AI，因隐私顾虑曾犹豫；现可本地运行大模型，无需上传敏感数据。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress"
-            },
-            {
-              "title": "AI coding agents generate more code, but not more software｜研究发现，编码效率提升常被人工审查瓶颈抵消，实际开发效率未显著提高。",
-              "summary": "研究发现，编码效率提升常被人工审查瓶颈抵消，实际开发效率未显著提高。",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
-            }
-          ]
-        },
-        {
-          "name": "应用落地",
-          "items": [
-            {
-              "title": "This AI startup says it can generate permit-ready blueprints in minutes｜Santa Monica初创Blueprints AI开发AI工具，可将照片、PDF或草图一键生成符合规范的施工蓝图。",
-              "summary": "Santa Monica初创Blueprints AI开发AI工具，可将照片、PDF或草图一键生成符合规范的施工蓝图。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/"
-            },
-            {
-              "title": "Honeyjar offers AI tools to improve PR and comms at every company｜记者、创业者及部分公关从业者认为PR流程已失效，但AI或可改善这一现状。",
-              "summary": "记者、创业者及部分公关从业者认为PR流程已失效，但AI或可改善这一现状。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"
-            }
-          ]
-        }
-      ]
-    }
-  },
   "football": {
     "fixtures": [
       {
@@ -8326,16 +8339,16 @@
         "lg": "英超",
         "h": "Coventry City",
         "a": "Newcastle United",
-        "s": "3-1",
+        "s": "4-1",
         "itemId": "fb-2494059",
-        "url": "https://www.thesportsdb.com/event/2494059",
+        "url": "https://www.youtube.com/watch?v=6kFtwvfrIIA",
         "extra": {
           "round": "6",
           "season": "2026-2027",
           "venue": "The Coventry Building Society Arena",
           "date": "2026-10-12",
           "country": "England",
-          "status": "2H"
+          "status": "FT"
         }
       },
       {
@@ -8343,16 +8356,16 @@
         "lg": "西甲",
         "h": "Levante",
         "a": "Sevilla",
-        "s": "1-2",
+        "s": "3-3",
         "itemId": "fb-2506241",
-        "url": "https://www.thesportsdb.com/event/2506241",
+        "url": "https://www.youtube.com/watch?v=hCURopCv49E",
         "extra": {
           "round": "8",
           "season": "2026-2027",
           "venue": "Estadio Ciudad de Valencia",
           "date": "2026-10-12",
           "country": "Spain",
-          "status": "2H"
+          "status": "FT"
         }
       },
       {
@@ -8379,14 +8392,14 @@
         "a": "Udinese",
         "s": "2-1",
         "itemId": "fb-2482194",
-        "url": "https://www.thesportsdb.com/event/2482194",
+        "url": "https://www.youtube.com/watch?v=fENdA68nFsA",
         "extra": {
           "round": "6",
           "season": "2026-2027",
           "venue": "Stadio Olimpico Grande Torino",
           "date": "2026-10-12",
           "country": "Italy",
-          "status": "2H"
+          "status": "FT"
         }
       },
       {

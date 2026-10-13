@@ -23065,7 +23065,7 @@
     "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-    "publishedAt": "2026-10-12T20:41:45.360130+00:00",
+    "publishedAt": "2026-10-13T07:24:45.726650+00:00",
     "tags": [
       "欧冠",
       "赛程"
@@ -58638,7 +58638,7 @@
     "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2508382",
-    "publishedAt": "2026-10-12T20:41:45.360099+00:00",
+    "publishedAt": "2026-10-13T07:24:45.726633+00:00",
     "tags": [
       "德甲",
       "赛程"
@@ -59243,7 +59243,7 @@
     "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2489524",
-    "publishedAt": "2026-10-12T20:41:45.360124+00:00",
+    "publishedAt": "2026-10-13T07:24:45.726645+00:00",
     "tags": [
       "法甲",
       "赛程"
@@ -59347,7 +59347,7 @@
     "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=K3HnXcBqM6w",
-    "publishedAt": "2026-10-12T20:41:45.360165+00:00",
+    "publishedAt": "2026-10-13T07:24:45.726683+00:00",
     "tags": [
       "德甲",
       "战报"
@@ -59425,7 +59425,7 @@
     "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.youtube.com/watch?v=NeMRpHZVRx0",
-    "publishedAt": "2026-10-12T20:41:45.360181+00:00",
+    "publishedAt": "2026-10-13T07:24:45.726698+00:00",
     "tags": [
       "法甲",
       "战报"
@@ -60065,7 +60065,7 @@
     "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2494063",
-    "publishedAt": "2026-10-12T20:41:45.360058+00:00",
+    "publishedAt": "2026-10-13T07:24:45.726592+00:00",
     "tags": [
       "英超",
       "赛程"
@@ -60091,7 +60091,7 @@
     "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2506256",
-    "publishedAt": "2026-10-12T20:41:45.360091+00:00",
+    "publishedAt": "2026-10-13T07:24:45.726625+00:00",
     "tags": [
       "西甲",
       "赛程"
@@ -60117,7 +60117,7 @@
     "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
     "source": "TheSportsDB",
     "sourceUrl": "https://www.thesportsdb.com/event/2482204",
-    "publishedAt": "2026-10-12T20:41:45.360105+00:00",
+    "publishedAt": "2026-10-13T07:24:45.726639+00:00",
     "tags": [
       "意甲",
       "赛程"
@@ -60771,6 +60771,322 @@
       "play": 5119,
       "bvid": "BV1yTpd6sErP",
       "duration": "5:6"
+    }
+  },
+  "b110ce6f7e63f07218f61ce9be8fab5dca75d78b1dc7b7e94a7e94e1c3760077": {
+    "id": "b110ce6f7e63f07218f61ce9be8fab5dca75d78b1dc7b7e94a7e94e1c3760077",
+    "module": "football",
+    "seg": null,
+    "cat": "英超",
+    "title": "Coventry City 4-1 Newcastle United",
+    "summary": "英超 · 战报 · 03:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.youtube.com/watch?v=6kFtwvfrIIA",
+    "publishedAt": "2026-10-13T07:24:45.726664+00:00",
+    "tags": [
+      "英超",
+      "战报"
+    ],
+    "body": [
+      "英超 第 6 轮 · 2026-10-12 · 北京时间 03:00（估算）",
+      "场地：The Coventry Building Society Arena",
+      "主队 Coventry City vs 客队 Newcastle United",
+      "终场比分 4-1"
+    ],
+    "points": [
+      "<b>赛事</b>：英超 第 6 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-10-12 · 北京时间 03:00（估算）",
+      "<b>场地</b>：The Coventry Building Society Arena",
+      "<b>主队</b>：Coventry City",
+      "<b>客队</b>：Newcastle United",
+      "<b>终场比分</b>：4-1",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "6",
+      "season": "2026-2027",
+      "venue": "The Coventry Building Society Arena",
+      "date": "2026-10-12",
+      "country": "England",
+      "status": "FT"
+    }
+  },
+  "c308779a6ea25259374d98a32f68f068158c6bd064d4c88cca1cc9d47a4a7bad": {
+    "id": "c308779a6ea25259374d98a32f68f068158c6bd064d4c88cca1cc9d47a4a7bad",
+    "module": "football",
+    "seg": null,
+    "cat": "西甲",
+    "title": "Levante 3-3 Sevilla",
+    "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.youtube.com/watch?v=hCURopCv49E",
+    "publishedAt": "2026-10-13T07:24:45.726674+00:00",
+    "tags": [
+      "西甲",
+      "战报"
+    ],
+    "body": [
+      "西甲 第 8 轮 · 2026-10-12 · 北京时间 03:00（估算）",
+      "场地：Estadio Ciudad de Valencia",
+      "主队 Levante vs 客队 Sevilla",
+      "终场比分 3-3"
+    ],
+    "points": [
+      "<b>赛事</b>：西甲 第 8 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-10-12 · 北京时间 03:00（估算）",
+      "<b>场地</b>：Estadio Ciudad de Valencia",
+      "<b>主队</b>：Levante",
+      "<b>客队</b>：Sevilla",
+      "<b>终场比分</b>：3-3",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "8",
+      "season": "2026-2027",
+      "venue": "Estadio Ciudad de Valencia",
+      "date": "2026-10-12",
+      "country": "Spain",
+      "status": "FT"
+    }
+  },
+  "bab91bad34dfe3ab15c07f0e806175d8c0524fbb251bd6fe0c8d7087fff6c90f": {
+    "id": "bab91bad34dfe3ab15c07f0e806175d8c0524fbb251bd6fe0c8d7087fff6c90f",
+    "module": "football",
+    "seg": null,
+    "cat": "意甲",
+    "title": "Torino 2-1 Udinese",
+    "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
+    "source": "TheSportsDB",
+    "sourceUrl": "https://www.youtube.com/watch?v=fENdA68nFsA",
+    "publishedAt": "2026-10-13T07:24:45.726691+00:00",
+    "tags": [
+      "意甲",
+      "战报"
+    ],
+    "body": [
+      "意甲 第 6 轮 · 2026-10-12 · 北京时间 02:45（估算）",
+      "场地：Stadio Olimpico Grande Torino",
+      "主队 Torino vs 客队 Udinese",
+      "终场比分 2-1"
+    ],
+    "points": [
+      "<b>赛事</b>：意甲 第 6 轮（2026-2027）",
+      "<b>比赛日期</b>：2026-10-12 · 北京时间 02:45（估算）",
+      "<b>场地</b>：Stadio Olimpico Grande Torino",
+      "<b>主队</b>：Torino",
+      "<b>客队</b>：Udinese",
+      "<b>终场比分</b>：2-1",
+      "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+    ],
+    "live": false,
+    "extra": {
+      "round": "6",
+      "season": "2026-2027",
+      "venue": "Stadio Olimpico Grande Torino",
+      "date": "2026-10-12",
+      "country": "Italy",
+      "status": "FT"
+    }
+  },
+  "72eff034d72edd7c9557bbaba14efe51ad4006bea39eec225fb906aec43c398f": {
+    "id": "72eff034d72edd7c9557bbaba14efe51ad4006bea39eec225fb906aec43c398f",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+    "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+    "publishedAt": "2026-10-12T20:59:50+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "0acb5d63226ff25078752ae47a5b5d366f54bb4586a874b12b6d2e68b183634c": {
+    "id": "0acb5d63226ff25078752ae47a5b5d366f54bb4586a874b12b6d2e68b183634c",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "何恺明团队发布多模态Harness框架",
+    "summary": "多模态模型的视觉原生Harness，来了！",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502628.html",
+    "publishedAt": "2026-10-11T08:59:06+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "428d75aa06ba5642c3d8f74c1d24e66971d903546c7d391ea041c1a92fd7f3d4": {
+    "id": "428d75aa06ba5642c3d8f74c1d24e66971d903546c7d391ea041c1a92fd7f3d4",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "陶哲轩：数学2.0时代已至！",
+    "summary": "",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/502594.html",
+    "publishedAt": "2026-10-11T07:52:16+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "43ec60085cc2b30958d0b834d1a16a4663a9ed54d622939dbbe9c9a02f78d2dd": {
+    "id": "43ec60085cc2b30958d0b834d1a16a4663a9ed54d622939dbbe9c9a02f78d2dd",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Xing4.0-29B-A4B：text-generation 模型更新",
+    "summary": "HuggingFace 主流 text-generation 模型 XingChen-AGI/Xing4.0-29B-A4B，52,102 下载，1840 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+    "publishedAt": "2026-10-13T07:22:33+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 52102,
+      "likes": 1840
+    }
+  },
+  "666d0a872157f1807972c05494c981323dead0fc8a0d15330255232220375755": {
+    "id": "666d0a872157f1807972c05494c981323dead0fc8a0d15330255232220375755",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "thalovant-m2v-intents：text-classification 模型更新",
+    "summary": "HuggingFace 主流 text-classification 模型 thalovant/thalovant-m2v-intents，2,281 下载，0 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/thalovant/thalovant-m2v-intents",
+    "publishedAt": "2026-10-13T07:20:10+00:00",
+    "tags": [
+      "huggingface",
+      "text-classification",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 2281,
+      "likes": 0
+    }
+  },
+  "c1634a744df4a4f858aec897188401f37caa8780acbaa36b2df022384d0743ba": {
+    "id": "c1634a744df4a4f858aec897188401f37caa8780acbaa36b2df022384d0743ba",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "h2o-lightning-4b：image-text-to-text 模型更新",
+    "summary": "HuggingFace 主流 image-text-to-text 模型 h2oai/h2o-lightning-4b，1,578 下载，62 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/h2oai/h2o-lightning-4b",
+    "publishedAt": "2026-10-13T07:09:48+00:00",
+    "tags": [
+      "huggingface",
+      "image-text-to-text",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1578,
+      "likes": 62
+    }
+  },
+  "5262bd81acee291aeb4b3eda25ea0c10d7edf1435990e5ce3039b4c2fe281fbf": {
+    "id": "5262bd81acee291aeb4b3eda25ea0c10d7edf1435990e5ce3039b4c2fe281fbf",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "HoloMotion_models：model 模型更新",
+    "summary": "HuggingFace 主流 model 模型 HorizonRobotics/HoloMotion_models，7,115 下载，3 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/HorizonRobotics/HoloMotion_models",
+    "publishedAt": "2026-10-13T07:08:35+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 7115,
+      "likes": 3
+    }
+  },
+  "a0524504b3e95077e295cc770fadefd702fa3eb2619787f5ee09f585d3598bfb": {
+    "id": "a0524504b3e95077e295cc770fadefd702fa3eb2619787f5ee09f585d3598bfb",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "极客阵容攻略速通——附实战思路讲解 极客阵容因为不强求8级两星四费的质量，",
+    "summary": "UP主 彩虹徐01 · 77播放 · 12:10",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117404927525247",
+    "publishedAt": "2026-10-08T10:59:33+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "彩虹徐01",
+      "play": 77,
+      "bvid": "BV1wiHD6TEAK",
+      "duration": "12:10"
+    }
+  },
+  "8b99b282988c43f9f1aa7e056b6d7ec2ebc38fd7f80619a6a54fcdfef34bcbce": {
+    "id": "8b99b282988c43f9f1aa7e056b6d7ec2ebc38fd7f80619a6a54fcdfef34bcbce",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "开服就能轻松畅玩的保姆级95阵容教学！带你畅玩4套95阵容",
+    "summary": "UP主 彩虹徐01 · 83播放 · 4:14",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117404927525662",
+    "publishedAt": "2026-10-08T10:57:48+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "彩虹徐01",
+      "play": 83,
+      "bvid": "BV1wiHD6TEG8",
+      "duration": "4:14"
     }
   }
 }
