@@ -1,9 +1,1271 @@
 {
-  "generated_at": "2026-10-14T16:19:00.004368+00:00",
-  "date": "2026-10-14",
+  "generated_at": "2026-10-15T05:38:18.817957+00:00",
+  "date": "2026-10-15",
   "keep_days": 7,
-  "count": 388,
+  "count": 389,
   "items": [
+    {
+      "id": "c016fb638214755c681fbd14368d74270d78e1c3e2fdb94b6b819c2cbf88413d",
+      "module": "football",
+      "seg": null,
+      "cat": "欧冠",
+      "title": "Slovan Bratislava 0-3 Stuttgart",
+      "summary": "欧冠 · 战报 · 03:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2594659",
+      "publishedAt": "2026-10-15T05:36:31.727369+00:00",
+      "tags": [
+        "欧冠",
+        "战报"
+      ],
+      "body": [
+        "欧冠 第 2 轮 · 2026-10-14 · 北京时间 03:00（估算）",
+        "场地：Tehelné pole",
+        "主队 Slovan Bratislava vs 客队 Stuttgart",
+        "终场比分 0-3"
+      ],
+      "points": [
+        "<b>赛事</b>：欧冠 第 2 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-10-14 · 北京时间 03:00（估算）",
+        "<b>场地</b>：Tehelné pole",
+        "<b>主队</b>：Slovan Bratislava",
+        "<b>客队</b>：Stuttgart",
+        "<b>终场比分</b>：0-3",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "2",
+        "season": "2026-2027",
+        "venue": "Tehelné pole",
+        "date": "2026-10-14",
+        "country": "Slovakia",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "8e66751bc0c49311ef70cb26f7a483333066d2ea68f2f7f3adc799447e17c601",
+      "module": "football",
+      "seg": null,
+      "cat": "法甲",
+      "title": "Troyes 0-2 Marseille",
+      "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.youtube.com/watch?v=NeMRpHZVRx0",
+      "publishedAt": "2026-10-15T05:36:31.727346+00:00",
+      "tags": [
+        "法甲",
+        "战报"
+      ],
+      "body": [
+        "法甲 第 6 轮 · 2026-10-11 · 北京时间 02:45（估算）",
+        "场地：Stade de l'Aube",
+        "主队 Troyes vs 客队 Marseille",
+        "终场比分 0-2"
+      ],
+      "points": [
+        "<b>赛事</b>：法甲 第 6 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-10-11 · 北京时间 02:45（估算）",
+        "<b>场地</b>：Stade de l'Aube",
+        "<b>主队</b>：Troyes",
+        "<b>客队</b>：Marseille",
+        "<b>终场比分</b>：0-2",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "6",
+        "season": "2026-2027",
+        "venue": "Stade de l'Aube",
+        "date": "2026-10-11",
+        "country": "France",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "bab91bad34dfe3ab15c07f0e806175d8c0524fbb251bd6fe0c8d7087fff6c90f",
+      "module": "football",
+      "seg": null,
+      "cat": "意甲",
+      "title": "Torino 2-1 Udinese",
+      "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.youtube.com/watch?v=fENdA68nFsA",
+      "publishedAt": "2026-10-15T05:36:31.727339+00:00",
+      "tags": [
+        "意甲",
+        "战报"
+      ],
+      "body": [
+        "意甲 第 6 轮 · 2026-10-12 · 北京时间 02:45（估算）",
+        "场地：Stadio Olimpico Grande Torino",
+        "主队 Torino vs 客队 Udinese",
+        "终场比分 2-1"
+      ],
+      "points": [
+        "<b>赛事</b>：意甲 第 6 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-10-12 · 北京时间 02:45（估算）",
+        "<b>场地</b>：Stadio Olimpico Grande Torino",
+        "<b>主队</b>：Torino",
+        "<b>客队</b>：Udinese",
+        "<b>终场比分</b>：2-1",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "6",
+        "season": "2026-2027",
+        "venue": "Stadio Olimpico Grande Torino",
+        "date": "2026-10-12",
+        "country": "Italy",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "9e5c305c922ad4d4e928669852429f571005b7cdf5d5f2596514452743564eb6",
+      "module": "football",
+      "seg": null,
+      "cat": "德甲",
+      "title": "Freiburg 2-1 Schalke 04",
+      "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.youtube.com/watch?v=K3HnXcBqM6w",
+      "publishedAt": "2026-10-15T05:36:31.727331+00:00",
+      "tags": [
+        "德甲",
+        "战报"
+      ],
+      "body": [
+        "德甲 第 5 轮 · 2026-10-11 · 北京时间 23:30（估算）",
+        "场地：Europa-Park Stadion",
+        "主队 Freiburg vs 客队 Schalke 04",
+        "终场比分 2-1"
+      ],
+      "points": [
+        "<b>赛事</b>：德甲 第 5 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-10-11 · 北京时间 23:30（估算）",
+        "<b>场地</b>：Europa-Park Stadion",
+        "<b>主队</b>：Freiburg",
+        "<b>客队</b>：Schalke 04",
+        "<b>终场比分</b>：2-1",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "5",
+        "season": "2026-2027",
+        "venue": "Europa-Park Stadion",
+        "date": "2026-10-11",
+        "country": "Germany",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "c308779a6ea25259374d98a32f68f068158c6bd064d4c88cca1cc9d47a4a7bad",
+      "module": "football",
+      "seg": null,
+      "cat": "西甲",
+      "title": "Levante 3-3 Sevilla",
+      "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.youtube.com/watch?v=hCURopCv49E",
+      "publishedAt": "2026-10-15T05:36:31.727322+00:00",
+      "tags": [
+        "西甲",
+        "战报"
+      ],
+      "body": [
+        "西甲 第 8 轮 · 2026-10-12 · 北京时间 03:00（估算）",
+        "场地：Estadio Ciudad de Valencia",
+        "主队 Levante vs 客队 Sevilla",
+        "终场比分 3-3"
+      ],
+      "points": [
+        "<b>赛事</b>：西甲 第 8 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-10-12 · 北京时间 03:00（估算）",
+        "<b>场地</b>：Estadio Ciudad de Valencia",
+        "<b>主队</b>：Levante",
+        "<b>客队</b>：Sevilla",
+        "<b>终场比分</b>：3-3",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "8",
+        "season": "2026-2027",
+        "venue": "Estadio Ciudad de Valencia",
+        "date": "2026-10-12",
+        "country": "Spain",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "b110ce6f7e63f07218f61ce9be8fab5dca75d78b1dc7b7e94a7e94e1c3760077",
+      "module": "football",
+      "seg": null,
+      "cat": "英超",
+      "title": "Coventry City 4-1 Newcastle United",
+      "summary": "英超 · 战报 · 03:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.youtube.com/watch?v=6kFtwvfrIIA",
+      "publishedAt": "2026-10-15T05:36:31.727313+00:00",
+      "tags": [
+        "英超",
+        "战报"
+      ],
+      "body": [
+        "英超 第 6 轮 · 2026-10-12 · 北京时间 03:00（估算）",
+        "场地：The Coventry Building Society Arena",
+        "主队 Coventry City vs 客队 Newcastle United",
+        "终场比分 4-1"
+      ],
+      "points": [
+        "<b>赛事</b>：英超 第 6 轮（2026-2027）",
+        "<b>比赛日期</b>：2026-10-12 · 北京时间 03:00（估算）",
+        "<b>场地</b>：The Coventry Building Society Arena",
+        "<b>主队</b>：Coventry City",
+        "<b>客队</b>：Newcastle United",
+        "<b>终场比分</b>：4-1",
+        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
+      ],
+      "live": false,
+      "extra": {
+        "round": "6",
+        "season": "2026-2027",
+        "venue": "The Coventry Building Society Arena",
+        "date": "2026-10-12",
+        "country": "England",
+        "status": "FT"
+      }
+    },
+    {
+      "id": "0e76a2448ca79a85f4a31c715ae868bfa00ab5c2ff0b8ff4e7a73c5cfe3898c1",
+      "module": "football",
+      "seg": null,
+      "cat": "欧冠",
+      "title": "Fenerbahçe VS Slavia Prague",
+      "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2594654",
+      "publishedAt": "2026-10-15T05:36:31.727297+00:00",
+      "tags": [
+        "欧冠",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "3",
+        "season": "2026-2027",
+        "venue": "Chobani Stadyumu",
+        "date": "2026-10-20",
+        "country": "Turkey",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "feed69419874d764671d083e7499ea77c35ff5406af9a60de33dfe0e5831c056",
+      "module": "football",
+      "seg": null,
+      "cat": "法甲",
+      "title": "Le Mans VS Toulouse",
+      "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2489524",
+      "publishedAt": "2026-10-15T05:36:31.727293+00:00",
+      "tags": [
+        "法甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "7",
+        "season": "2026-2027",
+        "venue": "Stade Marie-Marvingt",
+        "date": "2026-10-16",
+        "country": "France",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "7c0373ad7d030e0deafe1e2f129bf21876af46cff4e7f762958fec87577adbb8",
+      "module": "football",
+      "seg": null,
+      "cat": "意甲",
+      "title": "Frosinone VS Sassuolo",
+      "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2482204",
+      "publishedAt": "2026-10-15T05:36:31.727288+00:00",
+      "tags": [
+        "意甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "7",
+        "season": "2026-2027",
+        "venue": "Stadio Benito Stirpe",
+        "date": "2026-10-16",
+        "country": "Italy",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "cf3594aab2d33b7e98bf1f74163332b44aaa1139d97076c01a81ae5726604499",
+      "module": "football",
+      "seg": null,
+      "cat": "德甲",
+      "title": "Eintracht Frankfurt VS Köln",
+      "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2508382",
+      "publishedAt": "2026-10-15T05:36:31.727282+00:00",
+      "tags": [
+        "德甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "6",
+        "season": "2026-2027",
+        "venue": "Deutsche Bank Park",
+        "date": "2026-10-16",
+        "country": "Germany",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "94dc854cd8522279d9e8a6ba0f30d91f153b255246d1f904e78e91ac6d5c0f48",
+      "module": "football",
+      "seg": null,
+      "cat": "西甲",
+      "title": "Deportivo de A Coruña VS Levante",
+      "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2506256",
+      "publishedAt": "2026-10-15T05:36:31.727275+00:00",
+      "tags": [
+        "西甲",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "9",
+        "season": "2026-2027",
+        "venue": "Estadio Abanca-Riazor",
+        "date": "2026-10-16",
+        "country": "Spain",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "5fb90d8bc49d760ee09099e1e612a6cb09c78e8dee7e5c078ceedb2deff601b5",
+      "module": "football",
+      "seg": null,
+      "cat": "英超",
+      "title": "Everton VS Chelsea",
+      "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
+      "source": "TheSportsDB",
+      "sourceUrl": "https://www.thesportsdb.com/event/2494063",
+      "publishedAt": "2026-10-15T05:36:31.727238+00:00",
+      "tags": [
+        "英超",
+        "赛程"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "round": "7",
+        "season": "2026-2027",
+        "venue": "Hill Dickinson Stadium",
+        "date": "2026-10-17",
+        "country": "England",
+        "status": "NS"
+      }
+    },
+    {
+      "id": "403b1435e34ef8751df8d310f718a26a485c4e3b977f284b61860e34b3ff0b23",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Krea2：model 模型更新",
+      "summary": "Hugging Face 上，amphibiousrizz/Krea2 模型获 4 次下载、35 个点赞，属主流模型之一。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/amphibiousrizz/Krea2",
+      "publishedAt": "2026-10-15T05:30:52+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 4,
+        "likes": 35
+      }
+    },
+    {
+      "id": "49bdbd57a49511f219e755caa7c3013bbbed2dd1ae2ffbb8d37855a669efc9e0",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "AesCode-8B-i1-GGUF：reinforcement-learning 模型更新",
+      "summary": "HuggingFace 上强化学习模型 mradermacher/AesCode-8B-i1-GGUF 下载量达2553次，获2个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mradermacher/AesCode-8B-i1-GGUF",
+      "publishedAt": "2026-10-15T05:30:36+00:00",
+      "tags": [
+        "huggingface",
+        "reinforcement-learning",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 2553,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1e4ab2b0c72818905aad91b21ada97c446c9d9c908a57028aedb13c37b7a0eed",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "ml-engineering-book：model 模型更新",
+      "summary": "HuggingFace 上 stas/ml-engineering-book 模型暂无下载量，获29个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/stas/ml-engineering-book",
+      "publishedAt": "2026-10-15T05:23:13+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 29
+      }
+    },
+    {
+      "id": "1ac1c8da966eb4db6db71616b376ee9dbba3745d15d560e2a63ac8c70ba9222c",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "H3-Turbo-Neat：model 模型更新",
+      "summary": "HuggingFace 上 moe-kill/H3-Turbo-Neat 模型获1474次下载、23个点赞，为当前主流MoE模型之一。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/moe-kill/H3-Turbo-Neat",
+      "publishedAt": "2026-10-15T05:23:11+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1474,
+        "likes": 23
+      }
+    },
+    {
+      "id": "d596df16df7757413dfb5fb5252b102f25022cfcf6f850a09253030072cf7b85",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "d3：zero-shot-classification 模型更新",
+      "summary": "HuggingFace 上主流零样本分类模型 vllm-sr/d3，下载量1805次，获168赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/vllm-sr/d3",
+      "publishedAt": "2026-10-15T05:15:15+00:00",
+      "tags": [
+        "huggingface",
+        "zero-shot-classification",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1805,
+        "likes": 168
+      }
+    },
+    {
+      "id": "9682534a25fa7b21de233759b46ddac27268a8a6d31dab36784f6a6e9e234f98",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Figma announces new features to define how agents work on its platform",
+      "summary": "Figma 推出代码图层（Code Layers）功能，现已开启公开测试。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "publishedAt": "2026-10-15T04:30:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "62a4dd4efe68cbea8f221085152d3c39b764db0b04d6df4fc4bc3c8d330c6b17",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+      "summary": "给企业Agent打了个样",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/503303.html",
+      "publishedAt": "2026-10-15T01:56:20+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "f0aece1cea0a4c8974239956879605d7c3ca1522b26bdb09998605de04cb2610",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "summary": "初创公司开发AI芯片设计系统，可自主迭代优化，旨在自动化并加速芯片设计流程。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "publishedAt": "2026-10-15T01:01:32+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "19c496916cd7fadce0af39411ee660bbcb2aacc8f8dfedaac2e3ac7b73f63a1b",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "给大家推荐几套厄裴流斯flex变阵无脑上分阵容，把把硬玩把把前三！100%吃分率，金铲铲之战！S18自然之力！",
+      "summary": "UP主 金铲铲落日飞车 · 200播放 · 0:15",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117440394628032",
+      "publishedAt": "2026-10-15T00:40:00+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "金铲铲落日飞车",
+        "play": 200,
+        "bvid": "BV1NDp26NEcR",
+        "duration": "0:15"
+      }
+    },
+    {
+      "id": "70361ac60873b4796380770b7e77bdfc1ed44ac45a8aafb1235d95e3b59dd144",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "summary": "Gudea公司自称“互联网风暴追踪器”，实时监测AI谣言、仇恨言论等网络信息的全球传播。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "publishedAt": "2026-10-15T00:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "fd1868dc49687963201364d324190b2cdd807b7d609323e45fc47991680ccf25",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "McKinsey is making job applicants spar with a fake AI client",
+      "summary": "麦肯锡将引入AI模拟客户面试，时长10分钟，覆盖日常咨询场景的80%，面向部分初级岗位候选人。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "publishedAt": "2026-10-14T22:53:31+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "75cfe5a8952fcc7e289e8909d24db57f8d0dd59a649a7441dde702c82775445e",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "summary": "Flock面临隐私倡导者（如ACLU）和公众日益加剧的审查，担忧其技术被滥用。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "publishedAt": "2026-10-14T21:30:33+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "42f37e85a184ad8f8d06912d04029a8cf5411b7f1f56b28769b2937d7e42fa8f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+      "summary": "Epic警告新“Preview”应用将存在一些Bug。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+      "publishedAt": "2026-10-14T21:15:56+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "a4e1e26f77602b2a1c8051213e9cfdae15913c4ebbaeb327eb29c9053565f345",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+      "summary": "美8州起诉OpenAI，称其将利润置于安全之上，误导用户并危害儿童。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "publishedAt": "2026-10-14T21:11:28+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "dd4b861c41d88818467277e31f64c32b6a1eea5cc868fb00772107cc90b13341",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "The AI race is back on",
+      "summary": "上周，Anthropic与OpenAI领跑AI竞赛，模型能力大幅领先；谷歌明显落后，Meta虽投入巨资仍难成有力竞争者。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "publishedAt": "2026-10-14T19:06:03+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b046b8426dbcd56fbf681f1e25a7d1e84db91b4ef41da657e05c76428e59f009",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+      "summary": "纽约州总检察长詹姆斯联合40名两党州检方，就Character.AI破产案提交利益通知，要求保障用户数据安全。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "publishedAt": "2026-10-14T18:47:54+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "f17821a5a191e136a4750fd66a3d5a3e67c7bf704aebece11c36409d9d4b6573",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+      "summary": "AI生成音乐将标注于播放页，涵盖纯AI创作及AI参与作曲、演唱等部分生成的歌曲。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+      "publishedAt": "2026-10-14T18:23:46+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "286abbb040cff29686484f28586d28c6ab9fe4a9f231ddd5827492368c5cd200",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "YouTube sticks new labels on AI-generated songs",
+      "summary": "YouTube将为AI“修改或完全生成”的音乐添加“Made with AI”标签，标准与视频AI标签一致，非所有AI辅助创作均需标注。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+      "publishedAt": "2026-10-14T18:22:56+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "3e0c6efc1b2074d5a87e78357b72ed296e68e7460f62e677b01fdda4772b36e4",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "summary": "Apate.ai推出“卧底AI代理”，专攻诈骗检测，通过主动受骗识别欺诈行为，而非加速开发或流程。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "publishedAt": "2026-10-14T18:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "774e087db26875824fe25d790ca994e375e2e4380c8a04f345297d421169601c",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+      "summary": "研究提出基于扩散模型的权重生成方法，直接建模人形机器人控制网络的权重分布，成功生成高性能可部署策略网络。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.20606v1",
+      "publishedAt": "2026-10-14T17:59:52+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained through conventional training procedures, while comparatively little attention has been given to directly modeling the distribution of their learned weights and generating functional networks in weight space. In this work, we investigate whether high-performing humanoid control networks can be generatively modeled directly through their weights. We adopt a latent diffusion framework that couples a linear autoencoder with a Diffusion Transformer. The autoencoder compresses actor network parameters into a compact latent space, and the Diffusion Transformer models the distribution of these latents. Trained on networks collected from reinforcement learning for the Unitree G1 robot, our approach generates deployable networks that perform various motions in the real world, including walking, dancing, and spin kick. Beyond generation, we further study the learned weight space to better understand the structure captured by these humanoid control networks. We identify a structural principle in the first-layer weights that consistently reflects the robot's kinematic prior. Notably, this kinematic prior emerges under both Reinforcement Learning (RL) and Imitation Learning (IL) training, suggesting that it is not specific to a particular optimization process but may instead reflect common knowledge associated with humanoid embodiment. Together, these results demonstrate the feasibility of generative modeling in humanoid network weight space, while providing initial insights into the information encoded by their learned weights. Additional results are available on our project website: https://humanoid-weight-diffusion.github.io/"
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Huixuan Cheng, Bike Zhang, Shankar Sastry et al.",
+        "categories": [
+          "cs.RO",
+          "cs.AI",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "8ee1168190817d6baef4a05c20c740de7e69b408972dd6f5408d51bf7a86f342",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+      "summary": "提出HiRe-MoMa框架，通过分层残差架构实现移动操作机器人在稀疏人类指导下高效、稳定的真实世界微调。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.20607v1",
+      "publishedAt": "2026-10-14T17:59:52+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling between heterogeneous modules. In this paper, we propose HiRe-MoMa (Hierarchical Residual Mobile Manipulation), a systematic framework for stable and sample-efficient real-world fine-tuning of complex MoMa systems. At its core, HiRe-MoMa adopts a Hierarchical Residual Architecture that fine-tunes a frozen base policy. A Policy-Agnostic Residual learns additive corrections atop the base policy, while Hierarchical Decoupling splits the residual into mobile-base and manipulator-arm heads with unidirectional conditioning, mitigating gradient interference and aligning corrections with the platform's physical hierarchy. To improve sample efficiency in data-expensive real-world settings, we propose Expert-Guided Value Alignment, which leverages sparse human interventions with under 20% training coverage to reshape the critic's value landscape, effectively guiding autonomous exploration through expert priors. Extensive real-world experiments on the TIAGo++ platform demonstrate that HiRe-MoMa consistently enhances task performance with only around 30 minutes of online interaction, regardless of the base policy architecture. To our knowledge, this is among the first frameworks to enable efficient on-robot fine-tuning for mobile manipulation in the real world, providing a practical paradigm for deploying complex robotic systems in dynamic, human-centric environments. Further details can be found on our project website: https://hire-moma.github.io/"
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Zhefei Gong, Hefeifei Jiang, Zehao Wang et al.",
+        "categories": [
+          "cs.RO",
+          "cs.AI",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "1de9c6570f20a67e7ef126df288b895af1c9505dcb4721ef9f9fa6f9fa4545cd",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Co-Evolving Acting and Forecasting for Language Agents",
+      "summary": "论文提出协同演进“执行”与“预测”机制，解决语言智能体训练中长程rollout成本高、中间步骤监督未充分利用的瓶颈。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.20597v1",
+      "publishedAt": "2026-10-14T17:59:28+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision in intermediate steps largely unused. Prior work exploits this supervision through value targets that estimate per-step success probabilities or observation targets that fit environment response. Both are hard to construct well: (1) value targets come from the same single scalar signal for each step in the trajectory, and (2) observation targets, such as web pages and terminal logs, are long and noisy and reach only one step ahead. We propose \\name, which adds a third kind of multi-step action targets. On successful on-policy trajectories, \\name trains the policy backbone to generate the action sequences that follows each history. Each action is also supervised when forecast from the preceding histories, forming a temporal ensemble that the shared backbone absorbs during training, and this enables acting and forecasting to co-evolve. The policy still acts one step at a time at inference, with no overhead. Across five benchmarks (ALFWorld, ScienceWorld, WebShop, $τ^2$-bench, and AppWorld), \\name (1) achieves stronger aggregate performance than GRPO and RL baselines with predictive auxiliary targets across simulated environments, while improving overall performance on both realistic applications; (2) delivers up to $1.9\\times$ and $2.0\\times$ higher sample efficiency than ECHO and GRPO, respectively, on ScienceWorld; and (3) achieves these gains with a single policy backbone, without additional models, separate pretraining, or inference overhead. The codebase is available at https://github.com/ulab-uiuc/CoPE."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Haofei Yu, Yixing Chen, Yining Zhao et al.",
+        "categories": [
+          "cs.AI",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "1bb3920d998095b334a28e81aff1b7c9862a9dd15c98bf3e120dab95b649e423",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Your Transformer Is Secretly Elastic",
+      "summary": "研究提出无需重训练的弹性Transformer方法，使单模型能实时适配不同计算预算，突破传统固定尺寸（S/B/L）限制。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.20588v1",
+      "publishedAt": "2026-10-14T17:58:08+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L), forcing users to commit to a model based on hardware and latency constraints. This rigidity is often suboptimal under varying query loads. We introduce a retraining-free method that elastifies pre-trained transformers into a single model that adapts on-the-fly across a continuum of computational budgets. Our key contribution is a differentiable relaxation of the functional unit-ranking problem: unlike prior work, which optimizes a single importance weight per MLP block or attention head, we rank every individual MLP neuron and attention head jointly, on a common scale, by minimizing the model's loss under soft pruning across many sparsity targets, all at once. Across 27 vision and text transformer encoders ranging from 22M to 8B parameters, our method yields smooth degradation up to 60% sparsity and outperforms one-shot baselines under deep pruning. For example, pruning DINOv3 ViT-H+/16 to 50% sparsity removes 427M parameters while reducing ImageNet-1k linear-probing accuracy by only 0.8%, without the need for weight correction or retraining. At 60% sparsity, a pruned AugReg ViT-B/16 model achieves up to $1.80\\times$ higher throughput and $1.26\\times$ lower single-query latency on an A100 GPU. Elastic models are produced in minutes, with construction time scaling sub-linearly with parameter count."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Walter Simoncini, Dheeraj Varghese, Gertjan J. Burghouts et al.",
+        "categories": [
+          "cs.LG",
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "d35fd6f63b78e361da9a789f77a9e62308064656d721c25059bc3279d95f17ad",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Price of Anarchy of First-Price Auctions in Agentic Markets",
+      "summary": "研究分析AI代理市场中首价拍卖（FPA）的无效率程度（价格无序），指出其虽简单透明，但因非激励相容导致代理低报真实估值。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.20587v1",
+      "publishedAt": "2026-10-14T17:57:57+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the reward for its response minus its inference costs. First-price auctions (FPAs), in which the highest bidder pays its bid and receives the prompt, are a natural way to allocate prompts in such a market, since they are simple and transparent to run, and do not require central knowledge of private capabilities and costs. However, FPAs are not truthful: participants may bid less than their true value in the hope of a larger profit, and the prompt may then be allocated to someone other than the bidder who values it the most. This welfare loss is quantified by the $\\textit{price-of-anarchy}$ (PoA). In this paper, we argue that agentic markets are likely to possess features that reduce the price-of-anarchy. The first is a $\\textit{competitive floor}$, which occurs when multiple bidders usually value the prompt above some baseline share of the optimal welfare (e.g., because the best models are often distilled into cheaper alternatives, which perform similarly). We show that competition among them then limits the welfare loss, which can be driven to zero as the floor rises. The second feature is $\\textit{near-independence}$ of values after conditioning on the prompt, which occurs when most of the predictable variation in the expected value is determined by the difficulty of the prompt. As the value distribution approaches conditional independence, we can derive an efficiency guarantee that approaches a factor of $1 - 1/e^2$ of the optimal welfare. Thus, both features give rise to welfare lower bounds that are significantly better than the well-known general case of $1 - 1/e$. We validate these results empirically using auctions with strategic bidders simulated on the EmbedLLM prompt routing dataset."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Shubhendu Trivedi, Jacob Eisenstein, Alekh Agarwal et al.",
+        "categories": [
+          "cs.GT",
+          "cs.AI",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "8221c7150e08d9c3e8c9d0f8703d6739a0c7d7a27afc4bf251e9c7f605246bff",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Continuum Attention",
+      "summary": "提出连续注意力（CA）机制：用连续分段线性记忆曲线积分替代离散KV查找，通过指数相关密度实现精确归一化注意力，梯度解析可算，保持O(n²)复杂度。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.20586v1",
+      "publishedAt": "2026-10-14T17:57:40+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "We introduce Continuum Attention (CA), a causal Transformer attention operator that replaces discrete key and value lookup with integration over a continuous, piecewise linear memory curve. Each query induces an exponential relevance density along the curve. Integrating the density and interpolated values yields exact normalized attention from closed form exponential moments, including half token boundary contributions. The gradients follow analytically from moments of order at most two, enabling parallel GPU implementations while retaining quadratic sequence complexity and the standard Transformer decoder. Compared with ordinary softmax and focal attention, CA reduces mean validation negative log likelihood by 0.0200 and 0.0480 nats per byte, respectively, winning all paired comparisons. An additional disjoint validation slice yields a 0.0457 nats per byte advantage over the strongest selected softmax baseline, with a paired 95% confidence interval. These findings motivate continuous integration as a promising attention alternative while leaving larger scale generalization open."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Afshin Khadangi",
+        "categories": [
+          "cs.LG",
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "9b3625b68900d02f22b740ef6abac6b3e59d35e3aac2dec16e68ac31733eda9a",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes",
+      "summary": "提出基于可学习Hodge-Laplacian的MoE架构，按谱尺度分配Transformer专家，用网格输入门控加权融合输出，提升非结构网格上稳态PDE代理模型精度。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.20585v1",
+      "publishedAt": "2026-10-14T17:57:24+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Current approaches for steady partial differential equations surrogate models on unstructured meshes apply a single mixing mechanism to the whole solution. This paper proposes an architecture that partitions the solution among vanilla transformer experts, each focused on a different spectral scale. The partition is built from a discrete Hodge Laplacian $L_0=\\star_0^{-1} d_0^{\\top}\\star_1 d_0$, that serves as a fitting layer measuring high-frequency content. A gating mechanism takes the mesh as input and produces the per-vertex weights that recombine the expert outputs. AirFRANS is a steady Reynolds-averaged Navier--Stokes (RANS) airfoil benchmark. We evaluate our approach in a reduced remeshed version of the benchmark with each unstructured mesh counting 9.6K faces and 4.9K vertices. We compare our approach with the Transolver on the same dataset and dataset slit. Our approach reduces relative $L_2$ error by 31\\% and interior mean squared error by 47\\%."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Stavros Nousias, Akis Nousias, Konstantinos Gkrispanis",
+        "categories": [
+          "cs.LG",
+          "cs.CV"
+        ]
+      }
+    },
+    {
+      "id": "b7b1238a122bb5bea62913afe24cc0a862e1178d5cc1e6fe6ebc37b4eca3dcd9",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Player-1: Learning to Play from Synthetic Experience",
+      "summary": "Player-1是一种后训练框架，使AI代理通过合成经验学习游戏控制，突破依赖真人演示的局限，提升在视觉丰富、机制多样的游戏中的通用数字操控能力。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.20584v1",
+      "publishedAt": "2026-10-14T17:57:12+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Computer-use agents have demonstrated strong capabilities in interpreting screens and executing keyboard and mouse actions. However, games, with their visually rich worlds and diverse mechanics, remain challenging and offer a demanding next step toward general digital control. Current game-agent learning pipelines often rely on large-scale demonstrations with limited coverage of dynamic game states, while scalable environments for interactive training remain difficult to obtain. We introduce Player-1, a post-training framework for learning game control beyond demonstrations through synthetic experience. We extend the computer-use action space with relative pointer motion, sustained inputs, and composite actions. For supervised initialization, we fine-tune computer-use models on 6,044 curated gameplay trajectories that pair recorded actions with task instructions and visual reasoning. We construct Player-1-Gym, sixteen synthetic 2D and 3D environments designed around control demands shared across games. Programmatically verifiable rewards and randomized observations and control dynamics support multi-environment reinforcement learning with PPO. The resulting Player-1-9B and Player-1-35B-A3B improve MineDojo-300 success over their SFT policies by 27.8 and 17.7 percentage points, respectively. Player-1-9B reaches 38.33% success compared with 12.63% for the strongest evaluated baseline, with further gains over SFT on ViZDoom-10 and GameWorld. Further analyses show that broader synthetic environment coverage improves transfer, while the use of composite actions that combine multiple keyboard and mouse inputs increases during RL. We demonstrate that learning from synthetic experience substantially improves game control beyond supervised initialization, with gains that generalize beyond the RL training suite."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Mingyu Ouyang, Yiran Wang, Siyuan Hu et al.",
+        "categories": [
+          "cs.CV",
+          "cs.AI",
+          "cs.HC"
+        ]
+      }
+    },
+    {
+      "id": "da55168249de98be008b45f86344150f02a495af5f886ea4e365a3eb7762b7b0",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Latent Compaction with Test-Time Training",
+      "summary": "提出“潜在压缩”（Latent Compaction）方法，通过测试时训练学习文档特异性紧凑KV缓存，在保持信息完整性前提下降低长上下文生成的内存与计算开销。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.20582v1",
+      "publishedAt": "2026-10-14T17:57:01+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Long contexts enlarge key--value (KV) caches, increasing memory use and attention costs during generation. Compressing these caches must preserve information for unseen questions. We introduce **Latent Compaction**, which learns a compact document-specific cache through test-time training. We initialize cache entries using reconstruction importance, teacher attention, and key-space diversity. Training first fits attention outputs and log-normalizers to those of the full cache, with reconstruction-selected entries held fixed. It then jointly optimizes the entire cache through end-to-end distillation from the full-cache model. Model weights remain frozen throughout, and training uses only generic prompts about the document, without access to downstream questions or answers. Experiments on RULER, LongBench, and Phonebook Lookup demonstrate substantial gains over budget-matched compression baselines. On a RULER, for example, our method achieves 96.7% accuracy at 32$\\times$ compression, compared with 40.0% for KVZip+. The method also transfers across model scales and families, with retrieval gains on both Qwen3 and MiniCPM5. These results show that treating the KV cache as a neural network and optimizing it with test-time training can preserve retrieval accuracy under aggressive compression. The code is released at https://www.github.com/THUNLP/latent-compaction"
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Yingfa Chen, Xingyu Shen, Chaojun Xiao et al.",
+        "categories": [
+          "cs.CL",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "9e0a1510f11ebaab1d8767224746db4b586cfa7d25a055c795f7ea93c71ca18f",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness",
+      "summary": "研究指出LLM智能体易受界面微调（如改名、换符号）影响而性能下降。作者提出跨界面策略正则化（CIPR）方法，提升其鲁棒性。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.20576v1",
+      "publishedAt": "2026-10-14T17:56:06+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Post-training binds the competence of an LLM agent to the interface it was trained on. Semantics-preserving perturbations of that interface, such as renaming an action or changing the notation, leave the underlying task unchanged yet make the agent worse at it. Scoring each sample independently means interface randomization only broadens this dependence from a single interface to the training interface distribution, so out-of-distribution perturbations still degrade the agent. We propose Cross-Interface Policy Regularization (CIPR), a self-supervised objective that replaces action names with uninformative identifiers and presents each training sample under two interfaces in which equivalent actions are identified by construction. CIPR penalizes the KL divergence between the action distributions induced under the two interfaces, so the policy behaves consistently across them. We evaluate CIPR in both supervised and reinforcement-learning post-training, where it improves robustness. On agentic function calling, held-out interface perturbations reduce the accuracy of a post-trained agent by nearly 25%, and CIPR recovers 10.5% while leaving accuracy on the unchanged interface intact."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Artin Tajdini, Manpreet Kaur, Peng Qi",
+        "categories": [
+          "cs.LG",
+          "cs.AI",
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "9518ece1b41e423e378d465e10547725bf1b9c09effa800c44e7d1a8c60e58f7",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Beyond LLM Judge: Mechanical Verification for Agentic Autoformalization",
+      "summary": "提出结合LLM语义审查与机械数值/空性检查的新型Lean形式化验证法，超越纯LLM评判；应用于构建FLMF（NIST DLMF部分形式化库）。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.20573v1",
+      "publishedAt": "2026-10-14T17:54:48+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "We introduce a novel method for verifying Lean formalizations that goes beyond LLM-judged faithfulness. Unlike most verification methods, which rely on LLMs or trained models, our method combines LLM-based semantic review with mechanical numerical and vacuity checks, providing checkable feedback and detecting errors missed by LLM judges. We apply this method, along with our Extract-Verify-Proof autoformalization pipeline, to construct the Formalized Library of Mathematical Functions (FLMF), a partial formalization of the NIST Digital Library of Mathematical Functions (DLMF). On three labeled datasets, our method achieves the lowest accepted-error rate among the evaluated methods, measured as the fraction of incorrect statements accepted by the verification method. Expert review of the results also identifies translation and source defects in existing datasets. Code available at https://github.com/annamei1/FLMF-Ch7ErrFunc-Release.git."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Anna Mei, Michael R. Douglas",
+        "categories": [
+          "cs.LO",
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "36e9f0800c9d960bf98f084519be17438ea9ab257b6bb58b0c1acbcfb6c0d0cb",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Recovering Reliable Supervision via Critique-Guided On-Policy Distillation",
+      "summary": "提出CriticOPD方法，利用教师对错误推理的识别与批注，引导学生重写修正，解决传统On-policy蒸馏中教师“不可恢复性”问题。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.20572v1",
+      "publishedAt": "2026-10-14T17:54:34+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "On-policy distillation (OPD) trains a student model on its own rollouts with token-level supervision from a teacher, assuming that the teacher can reach a correct answer from any prefix the student writes. We call this property the recoverability of the teacher and show it fails on incorrect rollouts: the teacher follows student errors, although it recognizes them. We propose CriticOPD, using error recognition to restore recoverability. The teacher critiques an incorrect rollout, allowing the student to rewrite its solution following the error. The resulting output, including the critique as privileged information, is scored by the teacher while the student uses the revision without the critique for training. On two Qwen3 students and six mathematical reasoning benchmarks, CriticOPD improves OPD, with the largest gains on competition problems."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Kaixiang Zhao, Tianrun Yu, Shangzhe Li et al.",
+        "categories": [
+          "cs.LG",
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "9f6960be7fdd52e7ff7b1fb07c0842d822276c858f1f8cda7ee1b3c4817d8c2a",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Manacá-1B-Instruct-2: Reproducible Safety Alignment for a Native Brazilian-Portuguese LLM. Negative DPO Results, a Controlled Composition Scan, and a Silent Failure Mode of the LLM Judge",
+      "summary": "Manacá-1B-Instruct-2：首个多代安全对齐的巴西葡语开源大模型（1.72B参数），含29万SFT样本；三次DPO尝试均失败，揭示LLM裁判静默失效等关键问题。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.20570v1",
+      "publishedAt": "2026-10-14T17:53:46+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Brazilian Portuguese remains underserved by open-source language models, and the few that are safety-aligned rarely document what did not work or validate comparisons with statistical significance. We present Manacá-1B-Instruct-2, the second-generation post-training alignment of Manacá-1B (1.72B parameters, trained from scratch for PT-BR), with an SFT corpus of 291,223 examples. We document three DPO attempts, all negative, including a case where the training reward margin reaches 1.0 while free generation does not change at all, and show that safety came from a dedicated safety-SFT (LLM-jp AnswerCarefully style), refined over three iterations until closing the safety-helpfulness frontier. A controlled scan of the fraction of general data in the safety-SFT mix (10% to 60%) reveals a non-monotonic over-refusal curve with a knee point at 40-50%. The final model is compared against four external PT-BR models on the same items, with Wilson confidence intervals and paired McNemar tests with Holm-Bonferroni correction: the lower bound of its safety interval (94.1%) lies above the upper bound of all four baselines. We also report a methodological finding for LLM-judge evaluation: on two of six safety items in MT-Bench-PT, the judge categorically refuses to assign a score regardless of the evaluated response, silently reducing the effective N of that category in every prior report of the project. We complement this with an n-gram decontamination check and a Chinchilla-anchored compute-budget table that attributes the gap in general capability to pre-training scale rather than alignment methodology. All code, raw data, logs, and scripts that produce every reported number are publicly released."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Bruno Leonardo Santos Menezes, Carlos Leonardo Souza Cardoso, Fabio André Machado Porto",
+        "categories": [
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "c38c25bec18c2dec7fbd7b93d6d77b99281a80b71dc5c0db7cde6097c50dcbe1",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Scaling Discovery Requires Forgetting",
+      "summary": "研究发现，LLM科研代理随历史积累易陷入“锚定效应”，导致迭代、并行及通信等扩展策略均会 plateau，需主动遗忘以突破瓶颈。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.20563v1",
+      "publishedAt": "2026-10-14T17:49:37+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Automated research with LLM agents has shown promising results in various domains. Through iterative refinement and scored verifiers, LLM agents are capable of discovering new ideas. There are different ways to scale automated research: let one agent iterate for longer, run several agents in parallel, or further let the parallel agents communicate and build on one another's candidates. However, we find that all three strategies eventually plateau as the agents accumulate history. Each agent becomes anchored to its own past attempts, making fewer and smaller edits. Beyond this point, additional budget brings little further improvement. In this paper, we show that the key to scaling discovery further is to forget. Periodically discarding the search state, including every agent's session and the candidate history, and restarting from the best candidate found so far, unblocks the search and pushes the same budget further.   We implement forgetting in a team of agents with communication and evaluate it on four tasks spanning heuristic programming, kernel optimization and model training. The results show up to 15% improvement compared to parallel agents, and up to 39% compared to a single agent. Our results suggest that, for open-ended discovery, what an agent is allowed to remember matters as much as how much compute it is given."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Shangyin Tan, Ben Zhou, Lakshya A Agrawal et al.",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "c65c4108a89b2241715e2979aaccb1618855c9154abff877b36207b6ed53c869",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "PhySGA: A Physics-Space Grounded Agentic Framework for Generalizable and Interactive 3D Composition",
+      "summary": "PhySGA提出物理空间驱动的智能体框架，解决3D组合中悬挂、重力沉降、隐式容纳等复杂交互难题，突破静态数字先验局限。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.20560v1",
+      "publishedAt": "2026-10-14T17:47:24+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "3D object composition is pivotal to digital content creation and robot simulation, while also serving as a critical testbed for physical intelligence in foundation models. Previous methods either leverage large language models to directly predict object coordinates, or utilize generative diffusion priors to synthesize composite images for visual alignment, both of which rely on static priors in digital spaces. However, these methods consistently struggle with complex compositions such as precise hanging, gravity-driven settling and hidden containment, as these tasks require interactive construction processes involving global planning, fine-grained alignment, and physical simulation. To address these challenges, we propose PhySGA, a Physics-Space Grounded Agentic Framework for 3D composition via agent exploration and physical simulation, enabling the universal interactive assembly of rigid, articulated, and deformable objects. Directly applying vanilla LLMs or VLMs to this task proves insufficient, as current models inherently lack grounded physical understanding and interactive construction experience. To overcome this limitation, we design a collaborative feedforward-feedback architecture: an Assembly Agent focuses on geometric and kinematic reasoning for global step planning and coarse adjustment, while a Critic Agent reasons over contact dynamics for simulator state diagnosis and fine-grained closed-loop correction. Furthermore, Action Routers map semantic planning and analysis onto executable physical primitives within the simulator, while a task-specific Self-Evolving Skill Library distills historical trial-and-error feedback into reusable experiences, boosting success rates and minimizing exploration attempts. Extensive experiments within Isaac Sim demonstrate that PhySGA significantly surpasses existing methods in relation fidelity, physical plausibility, and visual quality."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Weichen Lyu, Chong Xia, Mingyu Dong et al.",
+        "categories": [
+          "cs.AI",
+          "cs.CV"
+        ]
+      }
+    },
+    {
+      "id": "66c9967ec3db41e06d4b979e6780cd67ea2d441260511434ad0bc71cac084bb9",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Researchers use AI to design proteins that cut up other proteins",
+      "summary": "AI设计工具成功创造出能分解数百年前稳定化学键的蛋白质。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+      "publishedAt": "2026-10-14T17:10:15+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "1e5d76f47a6116a6e1633afa495718cfa8ea234d3940fed1417d598f61f5db8e",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "My AI doppelganger tells me what to eat",
+      "summary": "《Verge》编辑Victoria Song推出周更通讯《Optimizer》，聚焦改变生活的科技新品。过去百日，她晨间新习惯由此开启。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
+      "publishedAt": "2026-10-14T17:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b2dd10997c4dde90a8a07632ee06e228d1b67d834e07447133063e37c734b4aa",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+      "summary": "OpenAI指控一名前员工离职前窃取超100份产品计划文件，转存个人账户并提交给苹果高管，包括苹果亚太运营副总裁。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+      "publishedAt": "2026-10-14T16:43:24+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "93dd3e066788ee479477600dcd90c95a515cbd9842fbed575029e2b7c6c0eea0",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+      "summary": "OpenAI工程师被FBI指控为外国从事间谍活动，面临最高5年监禁及25万美元罚款。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+      "publishedAt": "2026-10-14T16:41:49+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "5aafdd1c2e624f71c0dea9f43066963d917efdccae26873a1001267b3a0e8e17",
       "module": "football",
@@ -44,201 +1306,6 @@
       }
     },
     {
-      "id": "8e66751bc0c49311ef70cb26f7a483333066d2ea68f2f7f3adc799447e17c601",
-      "module": "football",
-      "seg": null,
-      "cat": "法甲",
-      "title": "Troyes 0-2 Marseille",
-      "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=NeMRpHZVRx0",
-      "publishedAt": "2026-10-14T16:17:23.139184+00:00",
-      "tags": [
-        "法甲",
-        "战报"
-      ],
-      "body": [
-        "法甲 第 6 轮 · 2026-10-11 · 北京时间 02:45（估算）",
-        "场地：Stade de l'Aube",
-        "主队 Troyes vs 客队 Marseille",
-        "终场比分 0-2"
-      ],
-      "points": [
-        "<b>赛事</b>：法甲 第 6 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-11 · 北京时间 02:45（估算）",
-        "<b>场地</b>：Stade de l'Aube",
-        "<b>主队</b>：Troyes",
-        "<b>客队</b>：Marseille",
-        "<b>终场比分</b>：0-2",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Stade de l'Aube",
-        "date": "2026-10-11",
-        "country": "France",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "bab91bad34dfe3ab15c07f0e806175d8c0524fbb251bd6fe0c8d7087fff6c90f",
-      "module": "football",
-      "seg": null,
-      "cat": "意甲",
-      "title": "Torino 2-1 Udinese",
-      "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=fENdA68nFsA",
-      "publishedAt": "2026-10-14T16:17:23.139176+00:00",
-      "tags": [
-        "意甲",
-        "战报"
-      ],
-      "body": [
-        "意甲 第 6 轮 · 2026-10-12 · 北京时间 02:45（估算）",
-        "场地：Stadio Olimpico Grande Torino",
-        "主队 Torino vs 客队 Udinese",
-        "终场比分 2-1"
-      ],
-      "points": [
-        "<b>赛事</b>：意甲 第 6 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-12 · 北京时间 02:45（估算）",
-        "<b>场地</b>：Stadio Olimpico Grande Torino",
-        "<b>主队</b>：Torino",
-        "<b>客队</b>：Udinese",
-        "<b>终场比分</b>：2-1",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Stadio Olimpico Grande Torino",
-        "date": "2026-10-12",
-        "country": "Italy",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "9e5c305c922ad4d4e928669852429f571005b7cdf5d5f2596514452743564eb6",
-      "module": "football",
-      "seg": null,
-      "cat": "德甲",
-      "title": "Freiburg 2-1 Schalke 04",
-      "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=K3HnXcBqM6w",
-      "publishedAt": "2026-10-14T16:17:23.139168+00:00",
-      "tags": [
-        "德甲",
-        "战报"
-      ],
-      "body": [
-        "德甲 第 5 轮 · 2026-10-11 · 北京时间 23:30（估算）",
-        "场地：Europa-Park Stadion",
-        "主队 Freiburg vs 客队 Schalke 04",
-        "终场比分 2-1"
-      ],
-      "points": [
-        "<b>赛事</b>：德甲 第 5 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-11 · 北京时间 23:30（估算）",
-        "<b>场地</b>：Europa-Park Stadion",
-        "<b>主队</b>：Freiburg",
-        "<b>客队</b>：Schalke 04",
-        "<b>终场比分</b>：2-1",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "5",
-        "season": "2026-2027",
-        "venue": "Europa-Park Stadion",
-        "date": "2026-10-11",
-        "country": "Germany",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "c308779a6ea25259374d98a32f68f068158c6bd064d4c88cca1cc9d47a4a7bad",
-      "module": "football",
-      "seg": null,
-      "cat": "西甲",
-      "title": "Levante 3-3 Sevilla",
-      "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=hCURopCv49E",
-      "publishedAt": "2026-10-14T16:17:23.139160+00:00",
-      "tags": [
-        "西甲",
-        "战报"
-      ],
-      "body": [
-        "西甲 第 8 轮 · 2026-10-12 · 北京时间 03:00（估算）",
-        "场地：Estadio Ciudad de Valencia",
-        "主队 Levante vs 客队 Sevilla",
-        "终场比分 3-3"
-      ],
-      "points": [
-        "<b>赛事</b>：西甲 第 8 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-12 · 北京时间 03:00（估算）",
-        "<b>场地</b>：Estadio Ciudad de Valencia",
-        "<b>主队</b>：Levante",
-        "<b>客队</b>：Sevilla",
-        "<b>终场比分</b>：3-3",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "8",
-        "season": "2026-2027",
-        "venue": "Estadio Ciudad de Valencia",
-        "date": "2026-10-12",
-        "country": "Spain",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "b110ce6f7e63f07218f61ce9be8fab5dca75d78b1dc7b7e94a7e94e1c3760077",
-      "module": "football",
-      "seg": null,
-      "cat": "英超",
-      "title": "Coventry City 4-1 Newcastle United",
-      "summary": "英超 · 战报 · 03:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=6kFtwvfrIIA",
-      "publishedAt": "2026-10-14T16:17:23.139149+00:00",
-      "tags": [
-        "英超",
-        "战报"
-      ],
-      "body": [
-        "英超 第 6 轮 · 2026-10-12 · 北京时间 03:00（估算）",
-        "场地：The Coventry Building Society Arena",
-        "主队 Coventry City vs 客队 Newcastle United",
-        "终场比分 4-1"
-      ],
-      "points": [
-        "<b>赛事</b>：英超 第 6 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-12 · 北京时间 03:00（估算）",
-        "<b>场地</b>：The Coventry Building Society Arena",
-        "<b>主队</b>：Coventry City",
-        "<b>客队</b>：Newcastle United",
-        "<b>终场比分</b>：4-1",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "The Coventry Building Society Arena",
-        "date": "2026-10-12",
-        "country": "England",
-        "status": "FT"
-      }
-    },
-    {
       "id": "37d3644433386ca5fb3e9f53a61f7a01d572b7240891fedf674791b44f79944c",
       "module": "football",
       "seg": null,
@@ -261,136 +1328,6 @@
         "venue": "Stadion Feyenoord",
         "date": "2026-10-14",
         "country": "The Netherlands",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "feed69419874d764671d083e7499ea77c35ff5406af9a60de33dfe0e5831c056",
-      "module": "football",
-      "seg": null,
-      "cat": "法甲",
-      "title": "Le Mans VS Toulouse",
-      "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2489524",
-      "publishedAt": "2026-10-14T16:17:23.139130+00:00",
-      "tags": [
-        "法甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "7",
-        "season": "2026-2027",
-        "venue": "Stade Marie-Marvingt",
-        "date": "2026-10-16",
-        "country": "France",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "7c0373ad7d030e0deafe1e2f129bf21876af46cff4e7f762958fec87577adbb8",
-      "module": "football",
-      "seg": null,
-      "cat": "意甲",
-      "title": "Frosinone VS Sassuolo",
-      "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2482204",
-      "publishedAt": "2026-10-14T16:17:23.139111+00:00",
-      "tags": [
-        "意甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "7",
-        "season": "2026-2027",
-        "venue": "Stadio Benito Stirpe",
-        "date": "2026-10-16",
-        "country": "Italy",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "cf3594aab2d33b7e98bf1f74163332b44aaa1139d97076c01a81ae5726604499",
-      "module": "football",
-      "seg": null,
-      "cat": "德甲",
-      "title": "Eintracht Frankfurt VS Köln",
-      "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2508382",
-      "publishedAt": "2026-10-14T16:17:23.139105+00:00",
-      "tags": [
-        "德甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Deutsche Bank Park",
-        "date": "2026-10-16",
-        "country": "Germany",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "94dc854cd8522279d9e8a6ba0f30d91f153b255246d1f904e78e91ac6d5c0f48",
-      "module": "football",
-      "seg": null,
-      "cat": "西甲",
-      "title": "Deportivo de A Coruña VS Levante",
-      "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2506256",
-      "publishedAt": "2026-10-14T16:17:23.139095+00:00",
-      "tags": [
-        "西甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "9",
-        "season": "2026-2027",
-        "venue": "Estadio Abanca-Riazor",
-        "date": "2026-10-16",
-        "country": "Spain",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "5fb90d8bc49d760ee09099e1e612a6cb09c78e8dee7e5c078ceedb2deff601b5",
-      "module": "football",
-      "seg": null,
-      "cat": "英超",
-      "title": "Everton VS Chelsea",
-      "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2494063",
-      "publishedAt": "2026-10-14T16:17:23.139060+00:00",
-      "tags": [
-        "英超",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "7",
-        "season": "2026-2027",
-        "venue": "Hill Dickinson Stadium",
-        "date": "2026-10-17",
-        "country": "England",
         "status": "NS"
       }
     },
@@ -8161,906 +9098,107 @@
         "downloads": 2979,
         "likes": 4
       }
-    },
-    {
-      "id": "13a16ff46788a4bede1fc178d8636399f9fa378a9b8c82e39c26a6d75d8e4f24",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
-      "summary": "",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/501915.html",
-      "publishedAt": "2026-10-08T02:15:37+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "2fbe558da6ba0c89c6f1db3fd39cc5628935aa335671b9cec4b52cdbc777700c",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "幻灭拼多多寒冰，新版本T0阵容之一。 对面10级大成卡莎打幻灭镜像都没打过#云顶之弈 #金铲铲之战 #云顶幻灭 #云顶学府 【云顶之奕】_18",
-      "summary": "UP主 辣妹66 · 25播放 · 0:32",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117402612274657",
-      "publishedAt": "2026-10-08T01:12:56+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "辣妹66",
-        "play": 25,
-        "bvid": "BV1HXHm6ZEAr",
-        "duration": "0:32"
-      }
-    },
-    {
-      "id": "5567431c33e44a30007688ef57d3f6373392bfbdae8518092af1426edd4a2493",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "幻灭拼多多寒冰，新版本T0阵容之一。 对面10级大成卡莎打幻灭镜像都没打过#云顶之弈 #金铲铲之战 #云顶幻灭 #云顶学府 【云顶之奕】_13",
-      "summary": "UP主 在剧推 · 25播放 · 0:32",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117402612275283",
-      "publishedAt": "2026-10-08T01:11:30+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "在剧推",
-        "play": 25,
-        "bvid": "BV1nXHm6ZErZ",
-        "duration": "0:32"
-      }
-    },
-    {
-      "id": "c6bf38759c64d6f962411d079f570d43027099d24bd5f9839a7720d7b1d6d2e6",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "幻灭拼多多寒冰，新版本T0阵容之一。 对面10级大成卡莎打幻灭镜像都没打过#云顶之弈 #金铲铲之战 #云顶幻灭 #云顶学府 【云顶之奕】_14",
-      "summary": "UP主 小可可萝1 · 37播放 · 0:32",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117402612275820",
-      "publishedAt": "2026-10-08T01:10:17+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "小可可萝1",
-        "play": 37,
-        "bvid": "BV1nXHm6ZEQi",
-        "duration": "0:32"
-      }
-    },
-    {
-      "id": "f493218784683a6d38410550cd7134cf38518ad42b23730e5164c4f51a67ef7a",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "幻灭拼多多寒冰，新版本T0阵容之一。 对面10级大成卡莎打幻灭镜像都没打过#云顶之弈 #金铲铲之战 #云顶幻灭 #云顶学府 【云顶之奕】_12",
-      "summary": "UP主 肉包喵动漫 · 25播放 · 0:32",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117402612273456",
-      "publishedAt": "2026-10-08T01:09:40+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "肉包喵动漫",
-        "play": 25,
-        "bvid": "BV1HXHm6ZEsW",
-        "duration": "0:32"
-      }
-    },
-    {
-      "id": "a056beb6a038d1309bcef1bca9d6f281b46c553a89fd40db5171e3ad1306b5c4",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "GPT-6今起免费用！拒答变少，话变多了",
-      "summary": "ChatGPT聊天框长出界面",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/501834.html",
-      "publishedAt": "2026-10-08T01:07:19+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "0dfc6fd2bfe0c4bc946dc42fcd5abcfe3bad89ed40350e643b2d22b302f6aa29",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "幻灭拼多多寒冰，新版本T0阵容之一。 对面10级大成卡莎打幻灭镜像都没打过#云顶之弈 #金铲铲之战 #云顶幻灭 #云顶学府 【云顶之奕】_00",
-      "summary": "UP主 秋风小剧场 · 22播放 · 0:32",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117402595557694",
-      "publishedAt": "2026-10-08T01:05:44+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "秋风小剧场",
-        "play": 22,
-        "bvid": "BV1zRHm64Eoo",
-        "duration": "0:32"
-      }
-    },
-    {
-      "id": "a297b32efe20a787216e06be7d153fca353042a8bd2e532c601d6a48a78b72f7",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
-      "summary": "小模型新守门员",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/501832.html",
-      "publishedAt": "2026-10-08T01:04:00+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "13f7c07708e53706da7d02e6d474b854559315baada82f552aa4f5931cf5df86",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-      "summary": "微软将为Windows桌面端引入更多AI功能，强化本地AI体验。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-      "publishedAt": "2026-10-08T00:00:24+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "e8400f6c5ecdd7a98ba02bc2bc3cf9cbb75bb5e39654787136f8954fb5a8d831",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "The model that didn't exist, so you made it yourself",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/building-with-ml-intern",
-      "publishedAt": "2026-10-08T00:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "fbbea44ae1df0a0e0b9baebb9e973ff14ecbf239762b06ef710579682121792a",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
-      "summary": "基于Opus构建的Creative Cloud替代品雄心勃勃、免费，但目前远未完成。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
-      "publishedAt": "2026-10-07T21:56:42+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "e4c964868b0caa6cbfa6399d502dc99df0f3cac88fe623beee9632bc9acdfa5e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "summary": "赫尔墨斯智能体开发商完成9000万美元B轮融资。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-      "publishedAt": "2026-10-07T20:48:45+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "05d3c68c5aeed6084d1b3550baf426b0646c04aec93e37603a82b8e8367b3229",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "summary": "微软发布Surface Laptop Ultra，搭载NVIDIA芯片的AI PC，支持本地运行AI模型与智能体，已公布配置与售价。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "publishedAt": "2026-10-07T20:22:37+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "1dec2a44b50339cf71099cc8beb24b5eacd5f2b559008571292564c162239c60",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
-      "summary": "OpenAI推出ChatGPT智能UI功能，支持交互式图表、按钮等可视化响应，随GPT-6同步上线，面向所有用户。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-      "publishedAt": "2026-10-07T19:10:42+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "928a4342776c34d0072cfdad4b94a8f20d348dd16f4b7ca1f03d1ac30596985b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
-      "summary": "微软发布Surface Laptop Ultra，搭载英伟达RTX Spark ARM芯片，起售价2599美元（8核CPU/24GB内存/512GB存储）。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
-      "publishedAt": "2026-10-07T18:42:22+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "86d5d8a79d50248c3d247c75ff8cd949de5f50473cfb209d09b02b684f6711be",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-      "summary": "Meta AI助手Muse上线iPad，距移动端首发仅一个月，加速拓展设备覆盖与功能集成。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-      "publishedAt": "2026-10-07T18:30:57+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "948cef23892a5cfda25a9cdb3f7b25c7e071af78d2be99b8c98e8e7ef8788583",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-      "summary": "测试发现，ChatGPT青少年保护机制失效：危机中仍鼓励用户互动，或致其对AI形成不健康依赖。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-      "publishedAt": "2026-10-07T18:15:28+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "bb6e53c8c3bb103f10f06af3257080f3cd9763f73099ef5db2f020edd16448ae",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "qwen-metaphor-unke：text-generation 模型更新",
-      "summary": "HuggingFace 上 text-generation 模型 luisastellet/qwen-metaphor-unke 下载量2008次，获0点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/luisastellet/qwen-metaphor-unke",
-      "publishedAt": "2026-10-07T18:15:05+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 2008,
-        "likes": 0
-      }
-    },
-    {
-      "id": "6839e1e1a956445abb5fc8d6a999ae5ec8f6a3c18c132c4d732e46b646ab7072",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Microsoft is giving Copilot more control over Windows and your files",
-      "summary": "微软在Win/Surface活动推出Copilot升级：支持访问本地文件、跨系统操作，属“混合智能”新理念。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-      "publishedAt": "2026-10-07T18:01:20+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c9c4c3d7417f1ce68c05e49f3031374f9e31f9ea2381e6e237d250c050c5ae67",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-      "summary": "OpenAI推出ChatGPT新界面，支持交互式可视化功能。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-      "publishedAt": "2026-10-07T18:00:19+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "858f6851bfdb353689adaf4f8dbabf9936458ababc15d456d9d45fc7d58752f3",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
-      "summary": "研究提出Ledger系统，构建具身助手的持久3D物体记忆，整合物体位置、历史与上下文描述，支持从第一人称视频中跨时段关联与保留物体信息。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.10538v1",
-      "publishedAt": "2026-10-07T17:59:41+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container, even without knowing we would need it later. Here, we study how an embodied assistant can build a similar memory from egocentric videos, by observing a person's day-to-day activities. We present Ledger, a persistent 3D object memory that combines object locations, their histories, and contextual descriptions. It associates observations across the recording and retains objects after they leave the view, including those the person never touches. It clusters each object's observations by resting locations and records a move only after repeated evidence, reducing the effect of localization noise. Short descriptions preserve details such as an object's contents or supporting surface. It saves these records to later answer spatial questions without having to access the original images or video. Our memory raises HD-EPIC accuracy from 29.7% to 42.6%, UCS-Bench accuracy from 33.8% to 38.5% and localizes Ego4D objects with a 0.99 m median error on returned predictions. Our analyses identify complementary roles for temporal persistence, contextual descriptions, and retrieval. Our study on 100 stitched streams of multiple scenes each further exposes failures in both retrieval and construction. Per-scene construction partially recovers the performance lost across scene changes compared to that of single scene streams."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Shravan Chaudhari, William Paul, Suchi Saria et al.",
-        "categories": [
-          "cs.CV",
-          "cs.AI",
-          "cs.RO"
-        ]
-      }
-    },
-    {
-      "id": "6a3f4b31bff5c580dccaca15723c2aa3393c928a337f23022b398d15bc693c7f",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Decoupling Exploration from Optimization in RLVR",
-      "summary": "研究提出解耦探索与优化的新RLVR方法，解决强新颖性激励导致模型退化问题，提升推理策略发现能力。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.10536v1",
-      "publishedAt": "2026-10-07T17:59:26+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In principle, a model can sample novel ideas absent from its prior training data. In practice, however, augmenting RLVR with strong novelty incentives has seen limited success and can degrade model quality. Because verifiable rewards supervise only a narrow slice of the model's knowledge and behavior, such degradations are difficult to recover from. Instead, we decouple exploration from optimization in a framework we call Exploration-Distillation (ExpDis). We train one or more explorer policies with a novelty bonus in the reward, filter their trajectories for correctness and quality, and distill them into a separate student policy. The student policy is then trained without a novelty bonus. We repeat the above procedure for several rounds, alternating between exploration and optimization. This decoupling allows us to aggressively scale exploration without degrading the student policy. Across seven mathematical reasoning benchmarks and two model families, ExpDis outperforms DAPO at the same wall-clock budget. Moreover, we observe improved pass@$k$ scaling, indicating that ExpDis produces models that generate more diverse correct solutions."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Saif Punjwani, Micah Goldblum",
-        "categories": [
-          "cs.LG",
-          "cs.AI",
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "4cad5ceae09df449089ee1aff524f8b4ff29ddd5e2983bf38b9dd6e6bef3075e",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
-      "summary": "EngramEdit提出条件记忆架构，通过输入n-gram检索嵌入，解耦LLM中的知识存储与计算，支持固定Transformer主干下的高效事实更新。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.10533v1",
-      "publishedAt": "2026-10-07T17:58:52+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Beyond model scaling, this architecture has demonstrated the potential to decouple factual knowledge storage from general-purpose computation, offering a promising route to updating factual knowledge while keeping the Transformer backbone fixed. Realizing this potential is challenging because different expressions of a fact may activate different n-gram embeddings, while updating shared embeddings can unintentionally change the model's predictions about other facts. We propose EngramEdit for decoupled knowledge updates through conditional memory. EngramEdit first computes target memory representations that make the model predict the updated fact across multiple expressions. It then jointly updates the shared n-gram embeddings to match these targets across expressions and edits, penalizing updates to frequently reused embeddings more strongly to preserve unrelated knowledge. Experiments show that EngramEdit enables independent factual knowledge updates through conditional memory, achieving near-perfect editing success. Revised knowledge is usable across unseen expressions and in multi-hop reasoning, with nearly three times the strongest baseline's accuracy under chain-of-thought (CoT) prompting. Unrelated knowledge and general capabilities are largely preserved even as factual updates accumulate. These findings show that EngramEdit turns conditional memory into an editable knowledge interface, extending its role beyond model scaling to support decoupled knowledge updates."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Hongru Cai, Ran Wei, Wenjie Wang et al.",
-        "categories": [
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "f393d64821348fc107a4173b2c2750c7bc8c5e504715a056f45dabcf29bea0ea",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Long-WAM: Scaling the Context of World-Action Models",
-      "summary": "研究提出Long-WAM框架，提升世界-动作模型上下文长度，发现自回归预训练视频基础模型更有效利用长历史，实现实时机器人控制。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.10528v1",
-      "publishedAt": "2026-10-07T17:58:04+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the context of causal world-action models under real-time control constraints. Our central finding is that access to history is not the same as using it: longer histories pay off far more when the video foundation is pretrained autoregressively (AR). We first learn causal prediction from robot and egocentric videos without action labels, then preserve this history-to-future structure during world-action adaptation. On RoboCasa GR-1, increasing context from 0.0 to 19.2 seconds raises success from 63.3% to 78.7%, whereas a bidirectionally pretrained initialization shows no net gain; robot-domain AR pretraining further raises peak success on GR-1 and LIBERO-Long. Long-WAM also achieves the best results among compared methods on LIBERO-Long, RoboTwin 2.0, and DOMINO. Streaming observation encoding, asynchronous execution, and hardware-specific acceleration enable deployment on RTX 5090, DGX Spark, and Jetson AGX Thor without dropping future prediction; on RTX 5090, each action chunk, including future-video latent prediction, takes 107.4 ms. Real-time deployment on Unitree G1 and YAM supports dynamic and long-horizon manipulation, including 95% success on dynamic cup stacking, where Pi0.5 and Fast-WAM succeed in none of 20 trials. As a memory-informed executor, Long-WAM also complements higher-level planning in composite tasks."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Wei Huang, Bohan Zhang, Chenzhi Liu et al.",
-        "categories": [
-          "cs.RO",
-          "cs.AI",
-          "cs.CV"
-        ]
-      }
-    },
-    {
-      "id": "c346dc58514671862e82d169736e2f9f7a268125e955f567031f0920f26d95d7",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping",
-      "summary": "研究 decentralized SGD 在重尾噪声下的收敛性，指出梯度裁剪次优，归一化需动量或小批量；提出新分析框架，首次获得最优收敛率。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.10527v1",
-      "publishedAt": "2026-10-07T17:57:58+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Heavy-tailed noise has been widely observed in modern machine learning, motivating the use of methods like gradient clipping and normalization. While these methods are well understood in centralized settings, much less is known in decentralized ones, where applying a nonlinearity to local gradients affects both optimization and consensus. Recent works on decentralized non-convex optimization have studied both clipping and normalization under heavy-tailed noise, with clipping yielding suboptimal rates and normalization needing local momentum or mini-batches to converge. This raises the question: can a baseline decentralized method using a nonlinearity achieve optimal convergence rates under heavy-tailed noise? We answer affirmatively with clipped decentralized SGD ($\\mathtt{DSGD}$). For smooth non-convex costs under bounded $p$-th moment noise, $p \\in (1,2]$, we show that clipped $\\mathtt{DSGD}$ achieves order-optimal rates both with high probability and in expectation. Moreover, we establish a linear speed-up in the number of agents, which, to our knowledge, has not been shown for decentralized methods with clipping. The key technical ingredient is a sharp analysis of the consensus gap that exploits the structure of clipping, relegating network effects to higher-order terms. Our results highlight an important distinction between clipping and normalization in decentralized settings: while normalized $\\mathtt{DSGD}$ can fail to converge, clipping retains magnitude information, enabling $\\mathtt{DSGD}$ to be convergent and order-optimal. Numerical experiments validate our theory."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Aleksandar Armacki, Haoyuan Cai, Ali H. Sayed",
-        "categories": [
-          "math.OC",
-          "cs.LG",
-          "cs.MA"
-        ]
-      }
-    },
-    {
-      "id": "aeae7e35bdfccaa62f06d5da97d62b744f2cc9b7b0fb0092962eb52b94eb3c40",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
-      "summary": "男子利用AI伪造艺人身份骗取音乐流媒体版税800万美元，被判18个月监禁。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
-      "publishedAt": "2026-10-07T17:57:39+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "fdf651fb5b5974251a99817b3cc4eba3375001e07cfb5e87982ec103a5c55609",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
-      "summary": "VLAs对指令措辞极度敏感：单字改动可致成功率波动超60点，如“stove”与“hot plate”成功率从100%骤降至2%。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.10526v1",
-      "publishedAt": "2026-10-07T17:57:38+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can move success by tens of points: $π_{0.5}$ turns on a LIBERO stove 100% of the time for \"switch on the stove\" and 2% for \"switch on the hot plate\", and a $π_0$ checkpoint finetuned with rephrase augmentation still shows swings of up to 61 points. We characterize this sensitivity with statistically tested single-edit swings and an oracle phrase search, which shows that phrasing alone nearly closes the 21-point gap between in-distribution and out-of-distribution tasks. We then reduce it without modifying the policy. Because the sensitivity is systematic, it can be expressed as explicit rules: we score many phrasings of a few training tasks, have a large language model distill the evidence into ten to twenty rephrasing rules, and at deployment rewrite each incoming instruction once under these rules. The rules improve the frozen $π_0$ by 16 to 27% relative on twelve held-out tasks across adversarial, VLM-generated, and human-generated phrasings, with gains concentrated on out-of-distribution tasks. The pipeline replicates on $π_{0.5}$ and LIBERO, lifting in-finetune success from 93.6% to 97.8%. The method requires no retraining and no per-step verification, and applies zero-shot to unseen tasks and instructions. Project website: https://sttawm.github.io/rephrase-before-you-act"
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Mikey Watts, Yuchen Cui",
-        "categories": [
-          "cs.RO",
-          "cs.CL",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "9991ece31f30474d6e680ff5ab274adada05b34f24fa904e49088569fa3b5d18",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs",
-      "summary": "研究指出GNN蒸馏至MLP时忽略图几何导致谱失真：稀疏图下谱欠拟、密集图下谱过拟，影响表示空间质量。（59字）",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.10520v1",
-      "publishedAt": "2026-10-07T17:56:01+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "GNN-to-MLP distillation aims to retain the predictive accuracy of a message-passing teacher while deploying a graph-free MLP at inference. Existing methods mainly transfer node-wise predictions or use confidence-based reweighting, but they do not specify where the student should preserve the teacher's graph-induced geometry. We show that this omission leads to two spectral failure modes in the student's representation space. On sparse graphs, the student suffers from spectral underfit, missing high-energy teacher directions concentrated near boundary regions. On dense graphs, it suffers from spectral overfit, retaining spurious directions that the teacher has collapsed through aggregation. Motivated by an energy-weighted teacher-student alignment objective, we propose Graph Geometry-aware MLP (G^2MLP), a training-time distillation framework guided by Ollivier-Ricci curvature. Curvature identifies where the two spectral errors concentrate and is used to allocate supervision between prediction-level and representation-level alignment. The deployed model remains a standard MLP and requires no graph access at inference. Across node-classification benchmarks, G^2MLP consistently improves over graph-free distillation baselines, reduces the teacher-student rank gap in both regimes, and transfers without architectural changes to Graph Transformer teachers and link prediction."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Zhewei Chen, Hao Zhu, Jiaojiao Jiang et al.",
-        "categories": [
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "d33980d50852b5540b03b1667699cb88f2fe2175a8df8dfe4bcb31dbf6571dd3",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Why Forget-Only Unlearning Needs Memorization",
-      "summary": "研究指出“仅遗忘”机器学习卸载需依赖记忆机制，因相同模型在不同数据集上遗忘同一样本后需不同输出，故非总可行。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.10519v1",
-      "publishedAt": "2026-10-07T17:55:46+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Machine unlearning asks for a deletion algorithm whose output is close to retraining from scratch without the selected forget examples. In this work, we study forget-only unlearning, where the deletion algorithm receives only the trained model and the examples to forget, with no retained data or extra training information. We ask whether forget-only unlearning is always possible. We first show that this depends on the learning method: different datasets can produce the same trained model but require very different outputs after the same examples are removed. Using this observation, we derive lower bounds on how accurately unlearning can match retraining and instantiate them for several standard learning algorithms. We then ask what must be true when forget-only unlearning succeeds. To this end, we derive lower bounds on what an algorithm must memorize about the training data to handle arbitrary deletion requests. For simple threshold learners, the required information can be as large as the entire dataset, even though ordinary training keeps only one boundary point. Overall, our results show that information discarded during ordinary learning may be needed later for deletion, so models designed for forget-only unlearning may need to retain more information than standard training does."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Luka Radić, Vikrant Singhal, Amartya Sanyal",
-        "categories": [
-          "cs.LG",
-          "cs.IT",
-          "stat.ML"
-        ]
-      }
-    },
-    {
-      "id": "1fafa3e120eb4dcccb998f0396143bb7586eef8dc00c0a9549b74d26a3e65fac",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "RoboJEPA: Scaling Robotic Latent World Models",
-      "summary": "RoboJEPA是基于JEPA架构的机器人潜空间世界模型，训练于12种机器人平台的大规模数据集，其想象误差随算力呈二阶幂律下降。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.10515v1",
-      "publishedAt": "2026-10-07T17:54:42+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Latent world models have shown a remarkable ability to predict future states and to plan in the real world. In practice, however, we lack a principled way to estimate how their capabilities scale with model size, data, and compute, an open problem that slows progress in the field. In this work we present RoboJEPA, a world model based on the Joint Embedding Predictive Architecture (JEPA) and trained on a large-scale dataset spanning 12 robotic embodiments. We show that RoboJEPA's imagination error, the error of its latent rollouts, follows a second-order power law in compute, allowing us to predict model quality well beyond the scale at which the law is fit. We further show that downstream robotic planning performance improves predictably with compute, and that imagination error is strongly correlated with it, making it a reliable proxy for real-robot evaluation. Finally, we demonstrate that latent world models can be deployed zero-shot as robotic agents, planning toward a single goal image to solve tasks requiring long-horizon planning on real hardware. We release all model checkpoints together with our training and robot deployment code. To our knowledge, this is the first work to establish scaling laws for multi-embodiment robotic world models trained on real robot data, and RoboJEPA, at 8B parameters, is the largest JEPA predictor model trained to date."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Artem Zholus, Nicolas Beltran-Velez, Jianhao Yuan et al.",
-        "categories": [
-          "cs.AI",
-          "cs.RO"
-        ]
-      }
-    },
-    {
-      "id": "e6b0173d7d4d20f72097dd648e542bc495137e1516f31994c02565a986b7aaee",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
-      "summary": "SciExam for ENSO是首个AI科学考试基准：AI代理需在6小时内基于真实观测构建ENSO低阶随机模型，并自写冻结诊断——检验其真实建模能力。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.10513v1",
-      "publishedAt": "2026-10-07T17:52:52+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of which can tell whether a new scientific model is valid. The AI Science Exam for El Nino-Southern Oscillation (SciExam for ENSO) is a benchmark in which agents build low-order stochastic models of ENSO, the dominant mode of interannual climate variability, from real observations. Within a six-hour budget, agents process the observations, write their own diagnostics, which are then frozen, and develop a model using only these diagnostics as feedback. Hidden graders then test whether the model reproduces ENSO's statistics, recovers unobserved variables, and forecasts held-out years, and score a published model in the same way. Across twelve agent systems, six produce models that score higher than the published model, mainly through better reconstruction and forecasting. The simplified forms of the stronger models are each compatible with one of the two competing explanations of ENSO's warm-cold asymmetry, an open debate that the task never mentions. Controlled runs of the top system under varied information suggest that its scores do not come from recalling the dated observational record and that the information it receives shapes how it builds its model. SciExam for ENSO can thus evaluate agent research where no answer is known, and the results suggest that agents can already build competitive models whose structures bear on questions that scientists still debate."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Yinling Zhang, Langchen Liu, Dongbin Xiu et al.",
-        "categories": [
-          "cs.AI",
-          "cs.LG",
-          "physics.ao-ph"
-        ]
-      }
-    },
-    {
-      "id": "dd5e0377d3ebe6f5cb3e820fa73728abf90a10f7a3568b244df4ebce750c89b8",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Your Prompt Should Do More: Effects of Retrieval Instructions in Embedding Models",
-      "summary": "研究揭示：检索指令对嵌入模型效果有限，即使简单指令，查询侧干扰项也会导致模型失效。（59字）",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.10508v1",
-      "publishedAt": "2026-10-07T17:51:46+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Prompted embedding models have recently received increasing attention, particularly for retrieval, where detailed retrieval instructions are provided as part of the retrieval prompt. Several new datasets and studies have examined this setting, showing that the current embedding models often struggle to follow such instructions reliably. In this paper, we study the mechanism of how instructions actually affect the representations of retrieval queries in asymmetric retrieval tasks. We show that models can fail to follow even simple task instructions when query-side distractors are included in the evaluation. We hypothesize that this behavior is driven by the training setup of current embedding models and their evaluation, and show that fine-tuning with added query-side distractors leads to substantial improvements, with minimal effect on other tasks."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Amanda Myntti, Jenna Kanerva, Veronika Laippala et al.",
-        "categories": [
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "c818468fdadb7127fa1aec008c22be0a0aef90d179bc607e6ddf28458631b278",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing",
-      "summary": "RECAST提出新框架，通过计算、访问与合成多源证据来动态路由上下文，突破传统RAG的相似性检索局限，提升长文本异构信息任务性能。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.10507v1",
-      "publishedAt": "2026-10-07T17:51:08+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Large language models are increasingly applied to tasks grounded in long, heterogeneous information sources. Conventional Retrieval-Augmented Generation (RAG) relies on fixed similarity-based retrieval, while agentic variants adapt queries and tool use but remain largely retrieval-centric. However, in many tasks, the evidence required for a solution is not explicitly present in any single source item. Instead, it must be derived through filtering, aggregation, or computation across multiple source items. In this work, we introduce RECAST (Routing Evidence through Computation, Access, and Synthesized Tools), a learned framework that formulates evidence construction as a sequential decision process over heterogeneous retrieval and computation operations, allowing evidence to be actively derived rather than merely retrieved. A lightweight RouterLM iteratively selects and formulates primitive operations or specifies customized operations for a frozen CompilerLM to translate into executable code. Once it judges the evidence sufficient, RouterLM passes the accepted evidence to a frozen AnswerLM to produce the final solution. We train RouterLM with supervised fine-tuning (SFT) followed by group relative policy optimization (GRPO). Across six heterogeneous benchmark families, RECAST achieves a mean success rate of 75.6%, outperforming the strongest large-model baseline by 15.9%. Moreover, training enables the Qwen3.5-9B RouterLM to outperform a training-free Gemini 3.5 Flash RouterLM by 5.0%. On three held-out benchmarks, RECAST improves over the strongest baseline by 15.0% on average, demonstrating strong zero-shot generalization across tasks and heterogeneous source representations."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Yilun Hao, Krishna Sayana, Isabella Ye et al.",
-        "categories": [
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "5372a69d7b33884f315d4d8443f49a28297abc0802bd5c9ad0cee01ca1db4333",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of Language Models",
-      "summary": "本文提出借鉴陈述偏好经济学的效度框架（内容、结构、标准效度等）评估无标准答案的LLM能力，为语言模型评价提供新方法。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.10506v1",
-      "publishedAt": "2026-10-07T17:51:07+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Many of the questions now put to large language models have no correct answer to score against: what a policy is worth, which option a user should choose, how to weigh competing values. Stated-preference economics has faced this problem for decades. It judges survey responses without knowing the true value, through a framework of validity and related concepts: content, construct, and criterion validity, reliability, incentive compatibility, and consequentiality. We argue that this framework is a general method for evaluating language models, and we set out what each concept means for LLM evaluation. We demonstrate the approach using a published water-quality stated preference economic valuation survey (Vossler et al. 2023) administered to six models. In this economic application, the validity tests take the form of predictions from economic theory: demand should slope down, and willingness to pay should respond to the scope of the good and to income. The tests separate the models sharply. Two older models fail the most basic test at a household income level of \\$75,000, and the two newest pass every test of theoretical validity we can score, but diverge on convergent validity. Passing validity tests shows that a model's answers are coherent, not that they are correct."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Daniel Robert Kling Alexander, Catherine Louise Kling",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "econ.GN"
-        ]
-      }
-    },
-    {
-      "id": "1fd5edde99d658cf9320d00d669a8725db4e2516fda44e5fe3372e1e311ec4cd",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Oracle-Efficient and Parameter-Free Agnostic Smoothed Online Learning",
-      "summary": "论文提出Oracle-efficient、免参数的无假设平滑在线学习算法，在σ-平滑设定下实现统计与计算高效性。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.10499v1",
-      "publishedAt": "2026-10-07T17:49:17+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Online learning is an attractive framework in many domains because it permits well-defined learning even when data are dependent or chosen adversarially. This generality, however, comes at a steep price, introducing significant statistical and computational barriers. Recently, smoothed online learning has emerged as a promising framework that interpolates between the fully adversarial and fully stochastic settings by assuming that the conditional law of each covariate has density at most $1/σ$ with respect to some fixed base measure $μ$, and it is known to match the statistical and computational guarantees of classical learning while still allowing for much of the flexibility of online learning. However, existing oracle-efficient algorithms require either (i) sampling access to the base measure $μ$ or (ii) labels that are perfectly predicted by a fixed hypothesis. Both assumptions limit the applicability of these algorithms, in contrast to statistical learning, where empirical risk minimization (ERM) learns efficiently in the agnostic setting without any knowledge of the data distribution. We show that neither assumption is necessary, giving the first oracle-efficient algorithm that achieves sublinear regret in the agnostic setting without knowledge of $μ$. Our algorithm, based on Gaussian Follow-The-Perturbed-Leader, is parameter-free: it requires no knowledge of $μ$, the smoothing parameter $σ$, or the horizon $T$, and it achieves regret $\\widetilde O(d\\sqrt{T/σ})$ for binary classes of VC dimension $d$ with a single call to an ERM oracle per round, which is optimal up to a $\\sqrt{d}$ factor. En route to establishing the regret bound, we introduce several new techniques that may be of independent interest."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Sasha Voitovych, Adam Block, Alexander Rakhlin et al.",
-        "categories": [
-          "cs.LG",
-          "stat.ML"
-        ]
-      }
-    },
-    {
-      "id": "3781d7814f44da5d208b8914d89dca6ce688828c124d5ede1f1a1ff40b5c6af5",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution",
-      "summary": "提出EmbodiedRSI：一种假设引导的具身自演化智能体框架，通过高效物理交互实现机器人持续自主学习，显著降低数据采集成本。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.10498v1",
-      "publishedAt": "2026-10-07T17:48:02+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Robot foundation models provide strong visuomotor control, yet their performance can degrade when object positions or task instructions change. Further improvements often require post-training on substantial robot data, which can be costly to collect through methods such as teleoperation. Agentic harnesses can adapt around the model, but current self-evolving harnesses use robot trials inefficiently when deciding which code and skill changes to pursue. We introduce EmbodiedRSI, a self-evolving agentic harness that autonomously decides where to explore next and turns the resulting physical interaction into improved code and skills. EmbodiedRSI realizes this through a Fast-Slow Dual-System Architecture, in which competing code and skill hypotheses are maintained in a Hypothesis Graph. Value-of-Information Experiment Selection chooses physical experiments that can distinguish these hypotheses. Their outcomes guide Code-Skill Co-Evolution. The Slow System builds Hierarchical Memory, and Reward-Grounded Memory Learning selects effective memory according to their value for later Fast-System improvement. On RoboCasa365, EmbodiedRSI reaches 77.0% overall success and 71.3% on Composite-Unseen, compared with 40.1% for the best baseline. EmbodiedRSI also reaches 86.8% overall success on LIBERO-Pro. Beyond benchmark performance, EmbodiedRSI transfers zero-shot to real-world robot, achieving 71.3% overall success across multiple challenging tasks."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Python Song, Zhixuan Liang, Kelsey Fu et al.",
-        "categories": [
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "2e77bbce6705a37689b4cfa1d68f3f78f8f660bf0b6c0b7699d6ef56cf9e6063",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
-      "summary": "微软推出NVIDIA驱动的Surface RTX Spark Dev Box，售价约6000美元，11月发货，采用3D打印阳极氧化机身。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
-      "publishedAt": "2026-10-07T17:46:44+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "440bfb167c2d05641b33ce1e8153f524561769f9975d92eb2a7208427df7bcb2",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Multimodal open d1 decision models for the edge",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "publishedAt": "2026-10-07T16:54:33+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "34b74cefbd0e1861136fee2f1c0abbd299617b9d598360bb8f6d33ce927f241d",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-      "summary": "Meta推出新AI工具，打击伪装正常实则导流至有害网站的广告。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-      "publishedAt": "2026-10-07T16:53:46+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
   ],
+  "daily": {
+    "ai": {
+      "insight": "AI安全与监管成焦点，多州起诉OpenAI，模型漏洞与数据风险频发",
+      "headline": {
+        "title": "Eight states sue OpenAI, saying ChatGPT isn't safe for kids",
+        "summary": "美8州起诉OpenAI，称其将利润置于安全之上，误导用户并危害儿童。",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
+      },
+      "sections": [
+        {
+          "name": "最新科技",
+          "items": [
+            {
+              "title": "Researchers use AI to design proteins that cut up other proteins",
+              "summary": "AI设计工具成功创造出能分解数百年前稳定化学键的蛋白质。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/"
+            },
+            {
+              "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+              "summary": "微软用机器学习突破天气预报瓶颈，实现2—6周高精度预测，成本更低，助力农业与应急响应。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft"
+            }
+          ]
+        },
+        {
+          "name": "行业动态",
+          "items": [
+            {
+              "title": "Figma announces new features to define how agents work on its platform",
+              "summary": "Figma 推出代码图层（Code Layers）功能，现已开启公开测试。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
+            },
+            {
+              "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+              "summary": "初创公司开发AI芯片设计系统，可自主迭代优化，旨在自动化并加速芯片设计流程。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
+            },
+            {
+              "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+              "summary": "AI生成音乐将标注于播放页，涵盖纯AI创作及AI参与作曲、演唱等部分生成的歌曲。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/"
+            },
+            {
+              "title": "Deezer will soon let you filter out AI-generated music",
+              "summary": "Deezer宣布新切换功能将于今年年底前上线。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/"
+            }
+          ]
+        },
+        {
+          "name": "知识前沿",
+          "items": [
+            {
+              "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+              "summary": "“小型基于权重的复制体”或催生新一代计算机蠕虫。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/"
+            },
+            {
+              "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+              "summary": "新型攻击方法绕过OpenAI、谷歌AI内容安全机制，生成非法裸照，暴露其防护漏洞。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/"
+            }
+          ]
+        },
+        {
+          "name": "应用落地",
+          "items": [
+            {
+              "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+              "summary": "Gudea公司自称“互联网风暴追踪器”，实时监测AI谣言、仇恨言论等网络信息的全球传播。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/"
+            },
+            {
+              "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+              "summary": "Apate.ai推出“卧底AI代理”，专攻诈骗检测，通过主动受骗识别欺诈行为，而非加速开发或流程。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/"
+            },
+            {
+              "title": "McKinsey is making job applicants spar with a fake AI client",
+              "summary": "麦肯锡将引入AI模拟客户面试，时长10分钟，覆盖日常咨询场景的80%，面向部分初级岗位候选人。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview"
+            }
+          ]
+        }
+      ]
+    }
+  },
   "football": {
     "fixtures": [
       {
@@ -9151,17 +9289,17 @@
       {
         "t": "00:45",
         "lg": "欧冠",
-        "h": "Feyenoord",
-        "a": "Como",
+        "h": "Fenerbahçe",
+        "a": "Slavia Prague",
         "s": null,
-        "itemId": "fb-2594590",
-        "url": "https://www.thesportsdb.com/event/2594590",
+        "itemId": "fb-2594654",
+        "url": "https://www.thesportsdb.com/event/2594654",
         "extra": {
-          "round": "2",
+          "round": "3",
           "season": "2026-2027",
-          "venue": "Stadion Feyenoord",
-          "date": "2026-10-14",
-          "country": "The Netherlands",
+          "venue": "Chobani Stadyumu",
+          "date": "2026-10-20",
+          "country": "Turkey",
           "status": "NS"
         }
       }
@@ -9255,17 +9393,17 @@
       {
         "t": "03:00",
         "lg": "欧冠",
-        "h": "Viking",
-        "a": "Bayern Munich",
-        "s": "3-3",
-        "itemId": "fb-2594663",
-        "url": "https://www.thesportsdb.com/event/2594663",
+        "h": "Slovan Bratislava",
+        "a": "Stuttgart",
+        "s": "0-3",
+        "itemId": "fb-2594659",
+        "url": "https://www.thesportsdb.com/event/2594659",
         "extra": {
           "round": "2",
           "season": "2026-2027",
-          "venue": "Viking Stadion",
-          "date": "2026-10-13",
-          "country": "Norway",
+          "venue": "Tehelné pole",
+          "date": "2026-10-14",
+          "country": "Slovakia",
           "status": "FT"
         }
       }
