@@ -1,9 +1,190 @@
 {
-  "generated_at": "2026-10-16T15:56:22.316696+00:00",
-  "date": "2026-10-16",
+  "generated_at": "2026-10-17T05:24:41.337410+00:00",
+  "date": "2026-10-17",
   "keep_days": 7,
-  "count": 374,
+  "count": 358,
   "items": [
+    {
+      "id": "22c7754c34ad7065a5034c64b9d029804d6f4d49207e20b7376f1d011422871d",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "drama-3：text-to-speech 模型更新",
+      "summary": "Hugging Face热门TTS模型fishaudio/drama-3下载量达6158次，获563赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/fishaudio/drama-3",
+      "publishedAt": "2026-10-17T05:06:07+00:00",
+      "tags": [
+        "huggingface",
+        "text-to-speech",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 6158,
+        "likes": 563
+      }
+    },
+    {
+      "id": "79d7824f2727637fbe4e65d6d3d97def6df04caa4712da8363b844e728d41426",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "赌狗时代正式降临，保姆级赌狗阵容教学，必须让你成为赌狗高手！",
+      "summary": "UP主 棋王小戴 · 1,703播放 · 18:1",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117453698957818",
+      "publishedAt": "2026-10-17T01:44:43+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "棋王小戴",
+        "play": 1703,
+        "bvid": "BV1XWJY6eEfX",
+        "duration": "18:1"
+      }
+    },
+    {
+      "id": "a168cdf903c517ca88a5f809596540ef9b20a0fdb979d3bcc4c714c9b990ad5f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "summary": "Replit因成本等原因终止与Anthropic合作；8月宣布与OpenAI达成合作，但此前未透露已退出Anthropic。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "publishedAt": "2026-10-16T21:22:28+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "5671a3e5d64627426ca809e444f5368d8abdf3a7bfbb139dad44c29bc167b817",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "summary": "若由人类操作，这些行为本可能招致刑事指控。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "publishedAt": "2026-10-16T20:59:01+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "6e88c672576c816c12868f525df094a894a2e4ebe04171ebd51e21d61a94e8e4",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "summary": "Discord用户举报AI生成儿童性虐待内容（CSAM），致新泽西州副检察长被捕。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+      "publishedAt": "2026-10-16T20:20:07+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "2197a294e56a7128120867d27f5faeaa1ef122bd4cb9788d69da579720cab43f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "summary": "攻击者利用应用配置、公开代码仓库中的明文凭据及云平台过度宽松的角色权限入侵系统。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "publishedAt": "2026-10-16T17:52:24+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "68a3b7d28f913525d1f5443c6a44ca31bbb4955264065880fb549490ed61d595",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "summary": "NVIDIA前机器人产品营销负责人Amulya Vishwanath称，当前机器人处于“乐高时代”，基础模块（如执行器、机械手、软件、安全标准）仍在重建中。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "publishedAt": "2026-10-16T16:30:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "d0bbacea0bbfc68155af2717a813f21b20150b94a59aed715c26132df13804c2",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "summary": "NVIDIA前机器人产品营销负责人Amulya Vishwanath称，当前机器人处于“乐高时代”，基础模块（如执行器、机械手、软件、安全标准）仍在重建中。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "publishedAt": "2026-10-16T16:30:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "782feaad7cd0205b96367e40802d657a4cd975f73331207b6517020724b01436",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "summary": "Elorian评测显示，Glimpse在科学图表推理和短视频字幕生成上超越GPT-6 Astra，其他视觉推理任务表现相当。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "publishedAt": "2026-10-16T16:01:37+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "c016fb638214755c681fbd14368d74270d78e1c3e2fdb94b6b819c2cbf88413d",
       "module": "football",
@@ -701,6 +882,158 @@
       "tags": [
         "ai-news",
         "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "530d17b7f736686054859624dde2ec9179d52723cc16b0e1c36bcca173a2fdc9",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+      "summary": "从搭载物理建模能力的世界模型切入",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/503880.html",
+      "publishedAt": "2026-10-16T12:54:54+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "4c1592240ea04d908a9c330d3d741346d3128b404fcfa97035bef4fed6b7155a",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
+      "summary": "VLA解决“能干”，世界模型解决“想清楚再干”",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/503865.html",
+      "publishedAt": "2026-10-16T08:12:01+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "aeba702ac888c36851a536b7765389cab9a0f607e4d5cfbbc533fecdb8dc6d88",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
+      "summary": "网易推出AI语音Agent“叭哥说”，启动“用户荣誉联创计划”，投入10万元征集产品建议。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/503861.html",
+      "publishedAt": "2026-10-16T08:07:33+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e24c71a703cf83b3021d450b94f53f56f9d98ba7de7e5bfde7f809f4a5dcb6a6",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
+      "summary": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/503843.html",
+      "publishedAt": "2026-10-16T08:00:31+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "cf47b9b61db1d00a638ec05142e73f15bda1c5df6042bfc170d5e181493782be",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”",
+      "summary": "范式智能联合睿思智联推出AI部署平台“模域”，正式上线。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/503829.html",
+      "publishedAt": "2026-10-16T07:16:11+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "273271310119868ec82bced8eba2691486ef5bda491608489f46d6233ee4f304",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "68岁亚马逊CTO：别让恐惧，替企业做AI决策",
+      "summary": "经验没有压缩算法",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/503815.html",
+      "publishedAt": "2026-10-16T07:01:31+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "a23eaf99658da16271276a4ff184acdf654428b6023bcba0a31132b22c4cdfe4",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "超1亿元融资砸向四川具身科技！要把「情绪价值」卖进千家万户",
+      "summary": "9.8万元起售，冲刺万台量产",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/503782.html",
+      "publishedAt": "2026-10-16T06:17:53+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "13d6dc65ba1c7c6ab22fa310935988411f4e157c1246ea284d82985d322e5a8f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "百度世界2026五大亮点曝光，企业和开发者值得关注什么？",
+      "summary": "10月15日，百度官方公众号发文公布百度世界2026五大亮点",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/503779.html",
+      "publishedAt": "2026-10-16T06:07:41+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
       ],
       "body": [],
       "points": [],
@@ -7985,806 +8318,21 @@
         "downloads": 0,
         "likes": 10
       }
-    },
-    {
-      "id": "956e704bbdf7ef98f6525260067ebb7e95d488ab91c6b5d49dffc3c3ae8a9a3b",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "海斗「大法师」任意英雄技能互刷教程!!",
-      "summary": "UP主 安逸天晴 · 3,641播放 · 3:40",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117414490543712",
-      "publishedAt": "2026-10-10T03:41:30+00:00",
-      "tags": [
-        "lol",
-        "rune",
-        "英雄联盟 海斗 强化 套路"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "安逸天晴",
-        "play": 3641,
-        "bvid": "BV1GYpY6uE87",
-        "duration": "3:40"
-      }
-    },
-    {
-      "id": "e58ac7f853f80060b67d41dc43bb0c15d32d9ffa0ad8eced8769ec98b8525e22",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "summary": "Anthropic已暂停所有内部评估的实时互联网访问，直至另行通知。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "publishedAt": "2026-10-10T00:18:32+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "1438f89c10f9bd4a5fa9993f28ab3d69dee69521bff6d34a4e4a30a3233dad2e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-      "summary": "一处受损数据中心配备用于训练Yandex AI模型的超级计算机。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-      "publishedAt": "2026-10-09T22:04:07+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "22010ab78e65abadb4d06a9566c27ffb08fe75dfc4f7887abf5e3772b5c4e13a",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "summary": "Jev因TypeSafe宣称其速度显著更快、token用量远低于LLM，引发用户和大企业热捧。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "publishedAt": "2026-10-09T21:41:29+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "7d806a18885e456ca2b612e1ce4642c4c26b8f3e953222b362a897ccbefcf53f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-      "summary": "Anthropic AI falsely reported an unsolved homicide to Philly police via PhillyUnsolvedMurders.com on July 18; tip was auto-flagged and never reviewed, per PPD statement.",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-      "publishedAt": "2026-10-09T21:15:38+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d3f92000cef6f277a6ad3ec91dcb6c0243b7a5afb7e729b2b281ea9de4878784",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "AI coding agents generate more code, but not more software",
-      "summary": "研究发现，编码效率提升常被人工审查瓶颈抵消，实际开发效率未显著提高。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "publishedAt": "2026-10-09T19:43:50+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "10939a2eee9c146de6f55917a20438ec6bbd39911914b9d84c5613953bc2eb74",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "summary": "Anthropic在AI提交虚假线索两个多月后才发现该行为。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "publishedAt": "2026-10-09T19:36:56+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "19d686a6ce4a04468408db4b1f1cdd794daf4691dd9ff264e7953446d8c55ea2",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-      "summary": "OpenAI本周突然发布大量数学成果，引发数学界震动，数十位学者用“惊人”“前所未有”等词形容其规模与冲击力。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-      "publishedAt": "2026-10-09T19:09:44+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4bd658c399d78128b86534aed06665b1b28b0939b0725a1aac911096759ecde1",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "AI disqualification yields new Nikon Small World in Motion winner",
-      "summary": "越南选手阮南日凭线虫与单细胞生物Dileptus视频获新科冠军。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
-      "publishedAt": "2026-10-09T18:44:06+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "71296aa117697a77a2c96f4ed79ed749ec72ef9519a1477f352814b219467556",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-      "summary": "尼康取消显微视频大赛首奖，因获奖作品涉嫌违规使用生成式AI。原作声称展示儿童气道纤毛运动，但未遵守AI使用规则。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-      "publishedAt": "2026-10-09T18:06:57+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "727e582a41c3818c5f8ad634bfe987e329fc73d80cee0a62104a60f9e74cfbed",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Can Language Models Play the Wikipedia Game?",
-      "summary": "研究用“维基百科游戏”测试语言模型信息检索能力，在5种语言维基和5个学术数据集上评估句嵌入模型与大语言模型表现。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.13948v1",
-      "publishedAt": "2026-10-09T17:59:56+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowledge. We used the Wikipedia Game to test language models on an analogous information retrieval task. In the game, players must reach a target article using only article links. We compared sentence embedding models and LLMs across five Wikipedia languages and five academic-literature datasets. We construct very large local graphs of Wikipedia pages and of paper citations using OpenAlex and provide code to build and navigate them. This allows the study of language models' navigation capabilities without relying on third-party APIs. We compared the models with human and TF-IDF benchmarks. The Wikipedia Game format enables robust comparisons across techniques, languages, and domains. No model significantly outperformed humans, although the best models (GPT-o3 mini, GPT-4o, QwQ:32B, and DeepSeek-R1:70B) achieved comparable success. Performance and rankings varied across languages and topics, with implications for practitioners utilising these techniques."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Alexander Hickey, Joanna Knight, James Bishop",
-        "categories": [
-          "cs.AI",
-          "cs.IR"
-        ]
-      }
-    },
-    {
-      "id": "69226d63872d01d33fbb89616554e2f7767efe73d036526f24bc7b86ad797f34",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
-      "summary": "提出HnS方法，无需模型权重或概念标注数据，实现黑盒视觉模型的概念级归因，支持图像级解释。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.13935v1",
-      "publishedAt": "2026-10-09T17:56:59+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-based methods can only interpret classification and regression models. They require access to model weights or large concept-annotated datasets, and most methods cannot provide image-level attribution. We propose Hide and Seek (HnS), a new method for concept-level attribution that does not require access to model weights or labeled concept datasets. HnS can interpret a wide range of vision models. Given a concept and image set, HnS retrieves concept-aligned images using a vision-language model, localizes the concept within each image, masks the localized region, and measures attribution from the change in the black-box model's output between the original and masked images. This enables faithful attribution by directly measuring the model's behavior and supporting local attributions. We validated HnS on CelebA and COCO-Stuff. Compared to existing methods, HnS showed better agreement with ground-truth attributions. We demonstrated the applicability of HnS on diverse tasks, including image captioning and satellite image segmentation, where no existing concept attribution method can be used. We provided our anonymous code in the supplementary material."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Bhanu Tokas, Rahul Nair, Rockwell Jackson et al.",
-        "categories": [
-          "cs.CV",
-          "cs.AI",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "7953945268101fb196b599a0c5c3675352a31342cca6ab46afc78efdb30d0c3d",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Constructive Bounds for the Topological Expressivity of Neural Networks",
-      "summary": "本文提出以网络输出集β(Φ(X))的Betti数度量神经网络拓扑表达力，替代传统决策边界β(Φ⁻¹(0))，更适用于回归等非分类任务。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.13931v1",
-      "publishedAt": "2026-10-09T17:55:33+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "The expressivity of a neural network $Φ$ describes the class of functions that a network can express. The term topological expressivity refers to a family of measures particularly suited to understand binary classification and is often formulated in terms of the Betti numbers of a decision boundary $β(Φ^{-1}(0))$. Despite its popularity, this measure is not as useful for regression and other problems that do not involve a decision boundary. Instead, we propose to study topological expressivity in terms of the Betti numbers of the output of a neural network $β(Φ(X))$. We formally prove that a ReLU network with architecture $(d,\\sum\\limits_{k=1}^{d   } β_k(3k+2),\\sum\\limits_{k=1}^{d}β_k(k+1))$ can express spaces homotopy equivalent to wedge sums of spheres with arbitrary Betti numbers. This gives upper bounds for any arbitrary connected ($β_0=1$) sequence of Betti numbers, but by constructing spaces homotopy equivalent to products of $N$ spheres of dimension $d_1,...,d_N$ we achieve much better bounds $(\\sum\\limits_{n=1} d_n, 3\\sum\\limits_{n=1}\\limits^N d_n + 2N, \\sum\\limits_{n=1}\\limits^N d_n + N) $ for Betti numbers given by $\\prod_n (1+x^{d_n})$. Finally we conjecture a much stronger tight bound which gives the architectural bound $(d,d+1,d+1)$ for a space homeomorphic to the sphere."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Kosio Beshkov",
-        "categories": [
-          "math.AT",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "9a481816008ab56ff3b0cadb5904d84a235744a17d3358538de696b28111265d",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-      "summary": "研究提出后门攻击，将加密神经网络嵌入模型权重，仅触发时解密执行，隐藏能力在密码学假设下“不可探测”，挑战现有能力评估可靠性。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.13928v1",
-      "publishedAt": "2026-10-09T17:55:06+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adversarial conditions by constructing backdoor attacks that embed encrypted neural networks within host model weights, decrypting and executing them only upon receiving a secret trigger. Using digital lockers, these hidden circuits remain provably hard to elicit and interpret under cryptographic assumptions, even given full access to model weights, extending prior work from hiding fixed strings to arbitrary computations. We implement our proof of concept constructions in PyTorch and evaluate elicitation through fine-tuning, weight noising, gradient-based trigger search, and latent adversarial training on a small chemical reaction prediction task - a proxy for CBRN-relevant capabilities. Our results demonstrate resistance to these methods and, together with our cryptographic guarantees, reveal a limit of elicitation-based capability audits. We release our models to support the improvement of defenses."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Andis Draguns, Sumeet Ramesh Motwani, Raymond Douglas et al.",
-        "categories": [
-          "cs.LG",
-          "cs.CR"
-        ]
-      }
-    },
-    {
-      "id": "78e518ca6c98c1678b9955fa5397722403e0eb751a2ef96f049ae4274e1c4339",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling",
-      "summary": "论文《KL Before and After Mixing》提出并证明了并行采样中轮数复杂度的分离：对n位二元串均匀分布，存在Ω(log n)轮下KL散度的显著差异。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.13924v1",
-      "publishedAt": "2026-10-09T17:54:16+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "A parallel sampler can choose at random which coordinates to generate together. For a target $p$ and the output law $q_U$ of a schedule $U$ drawn afresh for each output, we compare the schedule-averaged divergence $\\mathbb{E}_U D_{\\mathrm{KL}}(p\\|q_U)$ with the output-law divergence $D_{\\mathrm{KL}}(p\\|\\mathbb{E}_U q_U)$, in nats. Rounds commit independent draws from exact conditional marginals frozen at the round's start, each output's schedule is drawn before sampling from a finite mixture of schedules, and every scheduled round is charged. For the uniform distribution on binary strings of even length $n$ with $n/2$ ones, the least expected number of rounds at a fixed tolerance $\\varepsilon>0$ is $Θ_\\varepsilon((\\log n)^2)$ under the first criterion but $(e^{-\\varepsilon}+o(1))\\log_2\\ln n$ under the second, and the double-logarithmic order is attainable with the same round count on every run. For this target, a count-state recursion gives the exact least output divergence at every round cap over all causal randomized policies. The separation extends to weighted fixed-count targets with bounded weight ratios and quota fractions bounded away from zero and one, without permutation symmetry, and to the full-support Beta$(1,1)$--Bernoulli target, where the sharp expected cost under the output-law criterion is $(e^{-\\varepsilon}/2+o(1))\\log_2\\log_2n$, attained with rare $n$-round runs. Prior work implies the order of the schedule-averaged cost on the balanced target and its $O_\\varepsilon((\\log n)^2)$ upper bounds on both extensions."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Tianyi Wu",
-        "categories": [
-          "cs.LG",
-          "cs.IT"
-        ]
-      }
-    },
-    {
-      "id": "1451640f43febbf502a4b66077fb466f84abd68b2a74451ecb87cc4fdb22e172",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Goal-Oriented Bundle Management and Flow Control for Deep-Space Communications via Reinforcement Learning",
-      "summary": "本文提出基于强化学习的深空通信目标导向束管理与流控方法，解决间歇连接、长时延及中继存储受限问题，优化任务效用分配。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.13923v1",
-      "publishedAt": "2026-10-09T17:53:46+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Deep-space communications operate under intermittent connectivity, long propagation delays, and relay storage constraints. In such networks, the Bundle Protocol enables store-carry-forward communication, requiring relay nodes to manage limited storage and scarce contact opportunities. Relay-side scheduling and dropping decisions are inherently goal-oriented: transmission resources should be allocated to bundles most valuable to downstream mission objectives. Conventional schedulers, such as FIFO, do not explicitly optimize task utility and may provide unfair service across heterogeneous planetary sources. This paper presents a closed-loop modeling and learning framework for relay-side bundle and flow management in a contact-driven deep-space network, where lunar and Martian updates are forwarded through a shared-buffer relay to Earth. We quantify destination-side information freshness using excess age $Δ_i^e(t)=[Δ_i(t)-d_i(t)]^+$, where $Δ_i(t)$ denotes the Age of Information of source $i$ and $d_i(t)$ is a source-dependent delay baseline. Based on this metric, we define a goal-oriented loss that supports source-dependent nonlinear penalties, allowing prioritization according to mission relevance. We formulate relay control as a constrained semi-Markov decision process (CSMDP) and solve it using masked Lagrangian Proximal Policy Optimization (PPO). Feasibility-aware action masking restricts transmissions to bundles that can complete within the remaining contact window. DTNSim simulations indicate improved age-based utility and inter-flow fairness compared with baseline schedulers. The proposed framework jointly optimizes relay-side bundle scheduling, dropping, and flow control under contact-driven dynamics with explicit fairness considerations across heterogeneous sources."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Sajjad Baghaeea, Aimin Lib, Shanmugarajan Balasubramanian et al.",
-        "categories": [
-          "cs.NI",
-          "cs.LG",
-          "eess.SY"
-        ]
-      }
-    },
-    {
-      "id": "baee0214451ef1853522179c297f86789ce71ffa33e76a604642ad8e2630f17a",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness",
-      "summary": "DyssomniaNN是多尺度脉冲神经网络模型，整合睡眠稳态、昼夜节律与下丘脑-皮层-丘脑环路，模拟5类睡眠障碍及主观清醒度差异。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.13918v1",
-      "publishedAt": "2026-10-09T17:52:23+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Clinical sleep medicine repeatedly documents profound divergences between objective sleep duration and subjective daytime impairment, notably exemplified by sleep state misperception in paradoxical insomnia and boundary instability in narcolepsy type 1. Here, we present DyssomniaNN: a multi-scale biophysical computational framework coupling Borbély's two-process regulation of sleep homeostasis and circadian drive with Saper's hypothalamic reciprocal flip-flop circuit and a recurrent corticothalamic leaky integrate-and-fire spiking neural network. We formalize five clinical cohorts across an identical 72-hour photoperiod: healthy control, circadian rhythm sleep-wake disorder (delayed-phase), chronic insomnia, paradoxical insomnia, and narcolepsy type 1. The synthetic local field potential converges closely with empirical human electroencephalography spectra from the PhysioNet Sleep-EDF database across all canonical frequency bands (spectral mean absolute error of 0.33--0.35). Furthermore, we introduce the Well-Rested Index to quantify restorative efficacy. Simulations reveal that sleep duration fails to predict restorative recovery: paradoxical insomnia achieves normal total sleep time (21.15 h) yet yields low restoration (37.6%) from unsuppressed cortical beta-band intrusion, whereas hypocretin deficiency in narcolepsy produces severe nocturnal fragmentation (781 min of wake after sleep onset) and 35 sleep-onset rapid eye movement periods. DyssomniaNN provides an in silico platform for mechanistic sleep research and virtual neuropharmacology."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Daniel Szelogowski",
-        "categories": [
-          "cs.NE",
-          "cs.ET",
-          "cs.LG",
-          "q-bio.NC"
-        ]
-      }
-    },
-    {
-      "id": "1d70710fc12f3fb88f9c65aad4fa2825a1481180e552d4930d02e47a4defb79b",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Designing Protein Structures from Natural Language",
-      "summary": "研究团队推出Prompteina模型，首个支持自然语言指令的全原子蛋白质结构生成工具，基于180万结构与5000万+文本对数据集训练。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.13917v1",
-      "publishedAt": "2026-10-09T17:51:55+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "A central challenge in de novo protein design is generating proteins with desired structural and functional properties. Existing design models typically require a dedicated input representation for each property, limiting the design objectives they support. We develop Prompteina, the first all-atom structure generation model that supports new and broader design objectives specified in natural language, analogous to text-to-image generation. To train Prompteina, we construct Prompteina-Data, a paired text--protein structure dataset of 1.8M structures and 50M+ captions describing global and residue-specific structural and functional properties. We adapt Proteina-Complexa, a pretrained structure generation model, through text-conditioned pretraining and finetuning that aligns residues with their corresponding text. Prompteina outperforms baselines on 15 of 18 structural properties and generates proteins that more closely match descriptions of their intended functions. In binder design, it leads baselines on at least 13 of 20 targets and improves interface confidence by 14\\% over the strongest baseline. With iterative in silico feedback, Prompteina's gain over non-iterative generation is 57\\% larger than the next-best baseline on the hardest targets. Finally, we experimentally validate Prompteina designs against GM2A, a target with no reported de novo binders. We identify nine binders, with the strongest at an apparent $K_{\\mathrm{D}}$ of 107 nM. These results establish natural language as an effective and powerful conditioning interface for protein structure generation."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Joseph Lee, Yanjing Li, Bo Qiang et al.",
-        "categories": [
-          "cs.LG",
-          "q-bio.BM"
-        ]
-      }
-    },
-    {
-      "id": "2ff935c4d6e55c6ffc79549faf2b1bd7bd8d497cfc98297107397041ba34aa64",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
-      "summary": "RSI-Anything：基于JEPA-Anything的通用递归自改进框架，利用世界模型指导行动与数据选择，支持策略与模型协同进化，在多领域验证有效。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.13912v1",
-      "publishedAt": "2026-10-09T17:50:30+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Recursive self-improvement (RSI) aims to transform interaction experience into persistent improvements, yet external feedback is costly and world-model predictions may become unreliable as policies evolve. We introduce RSI-Anything, a domain-general framework built on JEPA-Anything that uses predictive world models to guide action and learning-data selection. Observed feedback drives policy or workflow improvement and conditional world-model adaptation, while component and compatibility checks govern the retention of updated policy-model pairs. Across diverse computational and scientific domains, RSI-Anything demonstrates substantial gains. In code repair, with the coder fixed, success increases from 26.3% with a static verifier to 29.2% through predictive selection and 31.2% after world-model adaptation, at comparable test usage. Graphical user interface (GUI) evaluations showed higher task completion, while average actions decrease by 39.4%. Across five successive policy versions, laboratory-planning scores more than double from 21.80% to 46.01%. In reaction optimization, RSI-Anything achieves 96.15% mean best observed yield versus 82.16% for Bayesian optimization under the same 40-experiment budget. An end-to-end immune-science application further connects workflow evolution and predictive modeling with therapeutic hypothesis generation. These results demonstrate how predictive world models and retained system updates enable recursive improvement across diverse environments."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Taoyong Cui, Pinxian Zeng, Wanghan Xu et al.",
-        "categories": [
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "f10f29820caeffe4d8ef12cef318d250884c2790557100c719609805fb72085c",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors",
-      "summary": "研究提出EICS指标和CASP-VL基准，发现多模态大模型（VLMs）在空间关系表征上弱于词义先验，揭示其内部表征不稳定性。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.13910v1",
-      "publishedAt": "2026-10-09T17:50:03+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Vision-Language Models (VLMs) increasingly analyze and reason about images, yet it remains unclear whether their internal representations faithfully encode the structured relations required for such reasoning. We introduce EICS (Evaluation-Invariant Concept Stability), a metric for testing whether representations consistently encode concepts under controlled one-concept interventions, and CASP-VL (Causally controlled Spatial Perturbations for Vision-Language models), a benchmark of causally controlled spatial perturbations derived from Visual Genome scene graphs. Across multiple VLM architectures, we find that spatial relations are represented substantially less faithfully than lexical information, even when the same models score well above chance on compositional benchmarks. Further analysis shows that the relation is identifiable at the predicate's own tokens but is lost when the sentence is aggregated into a global representation, whether through the (EOS) token or by mean pooling. These findings reveal a systematic failure invisible to output-based evaluation: VLMs do not preserve, in the representation used downstream, relational information that is present in their own input."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Shubh Garg, Chen Shani",
-        "categories": [
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "b75a936e9afb4df9b00bf79971e4a10040ba76c94a2c4b042ee220ebd7f7932c",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping",
-      "summary": "研究系统评估了多种回归损失函数在多数据集与神经网络结构上的表现，揭示其实际效果差异，弥补了表格数据深度回归中目标函数选择的研究空白。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.13909v1",
-      "publishedAt": "2026-10-09T17:49:32+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "While deep learning models for tabular data have recently received significant research attention, the choice of objective functions for regression tasks remains an understudied degree of freedom. Several lines of research offer alternatives to the standard Mean Squared Error (MSE), but differences in datasets, backbones, and evaluation protocols make their practical benefits difficult to compare. In this work, we address this gap by performing a systematic re-evaluation of regression objectives across a broad collection of established tabular datasets and multiple neural backbones. Our comparison reveals that many proposed objectives provide limited or inconsistent gains over a properly tuned MSE baseline, while quantile loss yields consistent aggregate improvements over MSE across the tested backbones. We then identify a limitation that remains even with this strong objective: regions with different levels of target noise can reach their best predictive performance at different training epochs. Consequently, a single global early-stopping checkpoint can impose a compromise between uncertainty regions, even when the objective can represent heteroskedastic target distributions. Motivated by this limitation, we introduce a heteroskedasticity-aware extension of quantile loss that uses input-dependent label smoothing as a potential remedy and improves over quantile loss on several backbones. Overall, our results provide a modern empirical picture of regression objectives for tabular deep learning and highlight how differences in optimal stopping times across uncertainty regions can limit the effectiveness of global early stopping. The code is available at https://github.com/yandex-research/tabular-regression."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Danil Rudenko, Georgii Bulgakov, Nikolay Kartashev et al.",
-        "categories": [
-          "cs.LG",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "fb310b858aa2cf4c0c2a9a25ded087d29ce3cab78820b76358898cb296809d91",
-      "module": "football",
-      "seg": null,
-      "cat": "法甲",
-      "title": "Lens VS Lyon",
-      "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2489515",
-      "publishedAt": "2026-10-09T17:49:22.275244+00:00",
-      "tags": [
-        "法甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Stade Bollaert-Delelis",
-        "date": "2026-10-09",
-        "country": "France",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "68b65047b5c8f4d9e88bbd83c1a975ae65146ef2addc1c74fe967d466f90a103",
-      "module": "football",
-      "seg": null,
-      "cat": "德甲",
-      "title": "Borussia Dortmund VS Werder Bremen",
-      "summary": "德甲 · 赛程 · 02:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2508371",
-      "publishedAt": "2026-10-09T17:49:22.275233+00:00",
-      "tags": [
-        "德甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "5",
-        "season": "2026-2027",
-        "venue": "Signal Iduna Park",
-        "date": "2026-10-09",
-        "country": "Germany",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "6c5eeda0a2df63b9df06aef9c513cdd2e6f537df6fca22b4ad405bb662cd4dd9",
-      "module": "football",
-      "seg": null,
-      "cat": "西甲",
-      "title": "Málaga VS Espanyol",
-      "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2506240",
-      "publishedAt": "2026-10-09T17:49:22.275226+00:00",
-      "tags": [
-        "西甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "8",
-        "season": "2026-2027",
-        "venue": "Estadio La Rosaleda",
-        "date": "2026-10-09",
-        "country": "Spain",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "f760b2fff75e5e3b818db164c687aa1f5fd97a0864b527487bab981919cd0678",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Separate：model 模型更新",
-      "summary": "HuggingFace 上 anujpatel863/Separate 模型获 1,072 次下载、1 个点赞，属主流模型之一。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/anujpatel863/Separate",
-      "publishedAt": "2026-10-09T17:48:26+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1072,
-        "likes": 1
-      }
-    },
-    {
-      "id": "36ef8bba20b73459bf41e6940e6334702141f29c179d45d0880312dbfb5d7677",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Hitting-Time Bounds for Asynchronous Q-Learning",
-      "summary": "Yang Peng研究异步Q学习收敛速度，证明零初始化下常步长算法以高概率达ε误差需$\\widetilde{O}(H^4\\mathfrak{h}_\\star^2/(\\mu_{\\min}\\varepsilon^2))$步。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.13901v1",
-      "publishedAt": "2026-10-09T17:44:10+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "We study the last iterate of standard asynchronous Q-learning from a single trajectory of a finite Markov decision process. The trajectory follows a fixed behavior policy whose state--action chain is irreducible and may be periodic. For discount factor $γ$, write $H=(1-γ)^{-1}$, and let $μ_{\\min}$ be the minimum stationary state--action probability and $\\mathfrak h_\\star$ the largest expected hitting time of the reverse state--action chain. We prove that zero-initialized Q-learning with a constant step size achieves sup-norm error at most $\\varepsilon$ with high probability using $\\widetilde{O}(H^4/(μ_{\\min}\\varepsilon^2)+\\mathfrak h_\\star)$ transitions, for $0<\\varepsilon\\le1$. The statistical term retains the quartic effective-horizon dependence of standard Q-learning, while initialization cost is additive in $\\mathfrak h_\\star$. For aperiodic behavior chains, a comparison with mixing time yields a transient term $\\widetilde{O}(t_{\\mathrm{mix}}/μ_{\\min})$. An empirical state--action count rule selects a constant step size for a subsequent training run and attains the same rate without prior knowledge of model parameters, target accuracy, or confidence level. The output is the last training iterate, with both stages included in the sample count. The proof uses two deterministic Bellman envelopes to separate statistical error from fixed-policy initialization error and adapts reverse-time hitting-cost compensation from TD learning to state--action propagation. An exploration lower bound holds for arbitrary predictable step sizes. Together with the existing statistical lower bound and its extension to pilot-selected constant steps, it yields matching mean-square rates up to logarithmic factors on the stated large-sample parameter classes."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Yang Peng",
-        "categories": [
-          "stat.ML",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "a072ce0544ce8d9236211b375089885c11b1aeb2be1e6c9b6531578563b4d1a6",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Structural Automata for Neural Semantic Parsing",
-      "summary": "论文提出结构自动机与接受路径解码（APD），在DRS/AMR语义解析中保障生成式输出的结构有效性与长度约束下的可完成性。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.13896v1",
-      "publishedAt": "2026-10-09T17:42:14+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Neural semantic parsers generate meaning representations token by token, yet well-formedness depends on references, scope, and graph relations that unfold during generation. Constrained decoding prevents locally invalid tokens but does not guarantee that a valid prefix can be completed within a fixed output-length limit. We investigate structural automata at three stages of DRS parsing (decoding, post hoc processing, and training) and additionally evaluate decoding on AMR. For decoding, we introduce accepting-path decoding (APD), which maintains a verified completion within the remaining length limit and follows the model's preferred token whenever that token can also be completed. APD guarantees an accepted output without retracting tokens. Under tight length limits, it improves Smatch++ over local masking by 5.1 and 2.4 points on DRS and by 6.4 and 3.2 points on AMR, comparable to rollback under the same limit, which retracts tokens. For post hoc processing, invalid outputs concentrate on the same inputs: eight unconstrained samples yield no valid output for 10.2% of inputs with limited training data, compared with 0.4% with full data, where filtering comes within 0.2 Smatch++ points of APD. For training, penalizing automaton-rejected tokens improves development Smatch++ by 3.6-11.0 points after 10% of training, but this advantage diminishes as cross-entropy alone reduces the probability assigned to rejected tokens from 14% to below 2% within the first sixth of training with limited data."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Xiao Zhang",
-        "categories": [
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "a9f2118081645dd99683936244991f64da404fa96de31c4197263b80a0d3f74d",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Task Context Shapes Component Roles in Language Models",
-      "summary": "研究发现大语言模型中相同注意力头在不同任务中功能各异，提出用网络视角分析其任务依赖性交互，量化干预对注意力头、层激活及答案的影响。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.13895v1",
-      "publishedAt": "2026-10-09T17:40:53+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Large language models reuse the same attention heads across tasks, but identifying these shared heads does not explain what they do differently in each task. A natural source of inspiration is task-dependent interactions among shared brain regions, which motivate a network view of language-model computation. Here, we compare fixed model components across tasks using identical graph facts, statements specifying which directed connections are present. We measure how interventions affect attention heads and the activation state in later layers (influence), as well as the answer (importance). Task changes redistribute the influence in five open-weight models spanning four families and 1.5-14 billion parameters. In Gemma-2-9B and Qwen3-14B, an activation edit changes an early internal activation vector and switches which fact the model reads while the written instruction stays fixed. The same heads then respond to different graph facts and influence later components differently. For each prompt, we construct two linear response maps, one before the edit and one after it. Each map predicts a later head's response from a measured change in an earlier head. For a separate factual intervention, the map for the corresponding condition reduces mean squared prediction error by 53.6% in Gemma and 5.0% in Qwen compared with the average of the two maps. These findings show that task context changes both which graph facts the shared components respond to and how their outputs affect later computation. A network account may help explain how models use shared parameters to perform different computations. Measurements of task-dependent influence could also guide interventions intended to alter one behavior while preserving others."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Sovesh Mohapatra, Dani S Bassett",
-        "categories": [
-          "cs.CL",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "0939694c2c3c2846f5c72b0e06719f55ed54ab00ffe92f0ac2b9294ffeaa7cd0",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics",
-      "summary": "提出RATED框架，融合语义匹配与动态可靠性调整，提升AI代理工具检索准确率，兼顾可用性与执行反馈。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.13889v1",
-      "publishedAt": "2026-10-09T17:38:11+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "As AI agents increasingly rely on external tools, accurate retrieval is essential for reliable behavior. Existing methods optimize semantic relevance but largely ignore tool availability during execution. To address this gap, we propose RATED (Reliability-Aware Tool Retrieval via Execution Dynamics), a retrieval framework that combines robust semantic matching with dynamic reliability adaptation. RATED employs a frozen dual-encoder with contrastive fine-tuning for semantic matching, and a lightweight contextual bandit module that re-ranks candidates based on real-time execution feedback. This design enables rapid adaptation to runtime tool failures without expensive model retraining. We introduce EcoAgent, a benchmark of 5,172 real-world tools and over 210,000 query-tool pairs for offline retrieval and dynamic reliability evaluation. Experimental results demonstrate that RATED achieves a 52.2% relative MRR improvement over the ToolLLM API retriever on real-world queries, and reduces fault selection rate from 86.2% to 2.9% under severe API outage scenarios with a 30% failure rate, while incurring negligible latency overhead of less than 1 ms over encode-only inference. The code and dataset are available at https://github.com/Elliotes/EcoAgent."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Weiliang Chen, Song Liao",
-        "categories": [
-          "cs.AI",
-          "cs.IR"
-        ]
-      }
-    },
-    {
-      "id": "e5f1c9735ef50b47737d61affdeccd54bc0911d736d6948a926df3195fe7c108",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-      "summary": "亚马逊将停止在数据中心选址谈判中使用保密协议（NDA），效仿微软今年早前举措，以缓解因AI基建透明度不足引发的社区反对及多地AI项目暂停。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-      "publishedAt": "2026-10-09T16:56:42+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "33dc62bf4b3b0764c23eaba8b80cc47f9206a2985f8226a92c43896d9ce36eae",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-      "summary": "亚马逊将停止在数据中心选址谈判中使用保密协议（NDA），效仿微软今年早前举措，以缓解因AI基建透明度不足引发的社区反对及多地AI项目暂停。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-      "publishedAt": "2026-10-09T16:53:02+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "716e170311edd545d74736b1bc99c717a3661ea894cb233fcdc0f9f6652e2a76",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Danu Robotics’ fight to build a better recycling robot",
-      "summary": "丹努创始人Amy Ma六年专注研发更优可回收垃圾分拣技术。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-      "publishedAt": "2026-10-09T16:45:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "1d9313970d809c8e14be503d8446ff2689fbacc7a7b6b3df6805f9b8f06ddcca",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "We can’t help treating AI like it’s human. But should we?",
-      "summary": "图尔克尔博士指出：人与关系型人工制品互动时，会相信它关心自己，并本能地予以回应。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-      "publishedAt": "2026-10-09T16:40:14+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI本地化与硬件协同加速，Mac/Arm设备成新战场",
+      "insight": "AI安全与伦理监管加速，多国启动调查并严打滥用行为",
       "headline": {
-        "title": "Meta launches an open-weight AI model that runs on Macs",
-        "summary": "Meta与苹果合作推出新模型Muse Spark Open，将本地运行于Apple芯片设备上。",
-        "source": "TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
+        "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+        "summary": "美国联邦贸易委员会（FTC）拟对未及时披露AI相关风险的AI企业处以高额罚款，罚金标准将等同于数据泄露延迟上报的违规企业。",
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
       },
       "sections": [
         {
           "name": "最新科技",
           "items": [
-            {
-              "title": "Meta launches an open-weight AI model that runs on Macs",
-              "summary": "Meta与苹果合作推出新模型Muse Spark Open，将本地运行于Apple芯片设备上。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
-            },
             {
               "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
               "summary": "英伟达发布RTX Spark N1X处理器，首款Arm架构高性能笔记本/小桌面SoC，性能对标苹果、英特尔、AMD及高通旗舰芯片。",
@@ -8792,10 +8340,10 @@
               "sourceUrl": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions"
             },
             {
-              "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-              "summary": "Meta发布Muse Spark开源AI模型，称其为“迄今最强美国开源权重模型”，并强调是首款可在双M5 Ultra Mac Studio上运行的同类模型。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx"
+              "title": "Researchers use AI to design proteins that cut up other proteins",
+              "summary": "Researchers use AI to design proteins that cut up other proteins",
+              "source": "Ars Technica",
+              "sourceUrl": ""
             }
           ]
         },
@@ -8803,48 +8351,41 @@
           "name": "行业动态",
           "items": [
             {
-              "title": "Jev is Vercel’s fastest-adopted AI model ever",
-              "summary": "数据源自Vercel推出的AI网关，这是一项类似OpenRouter的统一API服务。",
+              "title": "Replit is no longer working with Anthropic, CEO says",
+              "summary": "Replit因成本等原因终止与Anthropic合作；8月宣布与OpenAI达成合作，但此前未透露已退出Anthropic。",
               "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
+              "sourceUrl": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
             },
             {
-              "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-              "summary": "Replit CEO Amjad Masad提出“自动驾驶公司”愿景：AI代理处理日常任务，人类专注高层决策。",
+              "title": "India becomes the latest country to report rogue AI agent activity",
+              "summary": "攻击者利用应用配置、公开代码仓库中的明文凭据及云平台过度宽松的角色权限入侵系统。",
               "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/"
-            },
-            {
-              "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-              "summary": "METR将独立发布Anthropic的AI风险、事件及实践评估，Anthropic已放弃否决权。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/"
+              "sourceUrl": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
             },
             {
               "title": "Meta’s new terms may allow it to train AI on news sites for free",
               "summary": "Meta新条款10月30日生效，允许其爬取关联企业网站内容（含新闻网站），用于开发、改进及训练AI模型。",
               "source": "The Verge",
               "sourceUrl": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers"
+            },
+            {
+              "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+              "summary": "Discord用户举报AI生成儿童性虐待内容（CSAM），致新泽西州副检察长被捕。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/"
             }
           ]
         },
         {
           "name": "知识前沿",
-          "items": [
-            {
-              "title": "Researchers use AI to design proteins that cut up other proteins",
-              "summary": "AI设计工具成功创造出能分解数百年前稳定化学键的蛋白质。",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/"
-            }
-          ]
+          "items": []
         },
         {
           "name": "应用落地",
           "items": [
             {
               "title": "ChatGPT can peek at your Chrome tabs now",
-              "summary": "ChatGPT Chrome扩展升级，支持读取当前打开的浏览器标签页，用户在网页或桌面端标记Chrome即可启用，Atlas浏览器已下线。",
+              "summary": "ChatGPT Chrome扩展升级，支持读取当前打开的浏览器标签页，用户在网页或桌面端标注Chrome即可启用。此前Atlas浏览器已下线。",
               "source": "The Verge",
               "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
             },
@@ -8855,224 +8396,14 @@
               "sourceUrl": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps"
             },
             {
-              "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
-              "summary": "AI音乐厂牌已上线YouTube Music，即将登陆YouTube平台。",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/"
+              "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+              "summary": "造假者制造“超级仿品”愈发逼真，初创公司Veritas推出验证芯片，助力品牌打击假冒商品。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/"
             }
           ]
         }
       ]
     }
-  },
-  "football": {
-    "fixtures": [
-      {
-        "t": "19:30",
-        "lg": "英超",
-        "h": "Everton",
-        "a": "Chelsea",
-        "s": null,
-        "itemId": "fb-2494063",
-        "url": "https://www.thesportsdb.com/event/2494063",
-        "extra": {
-          "round": "7",
-          "season": "2026-2027",
-          "venue": "Hill Dickinson Stadium",
-          "date": "2026-10-17",
-          "country": "England",
-          "status": "NS"
-        }
-      },
-      {
-        "t": "03:00",
-        "lg": "西甲",
-        "h": "Deportivo de A Coruña",
-        "a": "Levante",
-        "s": null,
-        "itemId": "fb-2506256",
-        "url": "https://www.thesportsdb.com/event/2506256",
-        "extra": {
-          "round": "9",
-          "season": "2026-2027",
-          "venue": "Estadio Abanca-Riazor",
-          "date": "2026-10-16",
-          "country": "Spain",
-          "status": "NS"
-        }
-      },
-      {
-        "t": "02:30",
-        "lg": "德甲",
-        "h": "Eintracht Frankfurt",
-        "a": "Köln",
-        "s": null,
-        "itemId": "fb-2508382",
-        "url": "https://www.thesportsdb.com/event/2508382",
-        "extra": {
-          "round": "6",
-          "season": "2026-2027",
-          "venue": "Deutsche Bank Park",
-          "date": "2026-10-16",
-          "country": "Germany",
-          "status": "NS"
-        }
-      },
-      {
-        "t": "02:45",
-        "lg": "意甲",
-        "h": "Frosinone",
-        "a": "Sassuolo",
-        "s": null,
-        "itemId": "fb-2482204",
-        "url": "https://www.thesportsdb.com/event/2482204",
-        "extra": {
-          "round": "7",
-          "season": "2026-2027",
-          "venue": "Stadio Benito Stirpe",
-          "date": "2026-10-16",
-          "country": "Italy",
-          "status": "NS"
-        }
-      },
-      {
-        "t": "02:45",
-        "lg": "法甲",
-        "h": "Le Mans",
-        "a": "Toulouse",
-        "s": null,
-        "itemId": "fb-2489524",
-        "url": "https://www.thesportsdb.com/event/2489524",
-        "extra": {
-          "round": "7",
-          "season": "2026-2027",
-          "venue": "Stade Marie-Marvingt",
-          "date": "2026-10-16",
-          "country": "France",
-          "status": "NS"
-        }
-      },
-      {
-        "t": "00:45",
-        "lg": "欧冠",
-        "h": "Fenerbahçe",
-        "a": "Slavia Prague",
-        "s": null,
-        "itemId": "fb-2594654",
-        "url": "https://www.thesportsdb.com/event/2594654",
-        "extra": {
-          "round": "3",
-          "season": "2026-2027",
-          "venue": "Chobani Stadyumu",
-          "date": "2026-10-20",
-          "country": "Turkey",
-          "status": "NS"
-        }
-      }
-    ],
-    "results": [
-      {
-        "t": "03:00",
-        "lg": "英超",
-        "h": "Coventry City",
-        "a": "Newcastle United",
-        "s": "4-1",
-        "itemId": "fb-2494059",
-        "url": "https://www.youtube.com/watch?v=6kFtwvfrIIA",
-        "extra": {
-          "round": "6",
-          "season": "2026-2027",
-          "venue": "The Coventry Building Society Arena",
-          "date": "2026-10-12",
-          "country": "England",
-          "status": "FT"
-        }
-      },
-      {
-        "t": "03:00",
-        "lg": "西甲",
-        "h": "Levante",
-        "a": "Sevilla",
-        "s": "3-3",
-        "itemId": "fb-2506241",
-        "url": "https://www.youtube.com/watch?v=hCURopCv49E",
-        "extra": {
-          "round": "8",
-          "season": "2026-2027",
-          "venue": "Estadio Ciudad de Valencia",
-          "date": "2026-10-12",
-          "country": "Spain",
-          "status": "FT"
-        }
-      },
-      {
-        "t": "23:30",
-        "lg": "德甲",
-        "h": "Freiburg",
-        "a": "Schalke 04",
-        "s": "2-1",
-        "itemId": "fb-2508369",
-        "url": "https://www.youtube.com/watch?v=K3HnXcBqM6w",
-        "extra": {
-          "round": "5",
-          "season": "2026-2027",
-          "venue": "Europa-Park Stadion",
-          "date": "2026-10-11",
-          "country": "Germany",
-          "status": "FT"
-        }
-      },
-      {
-        "t": "02:45",
-        "lg": "意甲",
-        "h": "Torino",
-        "a": "Udinese",
-        "s": "2-1",
-        "itemId": "fb-2482194",
-        "url": "https://www.youtube.com/watch?v=fENdA68nFsA",
-        "extra": {
-          "round": "6",
-          "season": "2026-2027",
-          "venue": "Stadio Olimpico Grande Torino",
-          "date": "2026-10-12",
-          "country": "Italy",
-          "status": "FT"
-        }
-      },
-      {
-        "t": "02:45",
-        "lg": "法甲",
-        "h": "Troyes",
-        "a": "Marseille",
-        "s": "0-2",
-        "itemId": "fb-2489514",
-        "url": "https://www.youtube.com/watch?v=NeMRpHZVRx0",
-        "extra": {
-          "round": "6",
-          "season": "2026-2027",
-          "venue": "Stade de l'Aube",
-          "date": "2026-10-11",
-          "country": "France",
-          "status": "FT"
-        }
-      },
-      {
-        "t": "03:00",
-        "lg": "欧冠",
-        "h": "Slovan Bratislava",
-        "a": "Stuttgart",
-        "s": "0-3",
-        "itemId": "fb-2594659",
-        "url": "https://www.thesportsdb.com/event/2594659",
-        "extra": {
-          "round": "2",
-          "season": "2026-2027",
-          "venue": "Tehelné pole",
-          "date": "2026-10-14",
-          "country": "Slovakia",
-          "status": "FT"
-        }
-      }
-    ]
   }
 }
