@@ -1,9 +1,98 @@
 {
-  "generated_at": "2026-10-17T05:24:41.337410+00:00",
+  "generated_at": "2026-10-17T14:49:58.833946+00:00",
   "date": "2026-10-17",
   "keep_days": 7,
-  "count": 358,
+  "count": 339,
   "items": [
+    {
+      "id": "8f15fb80e6fb70ce268765b64751abe9467a1e8ba74cb1b795d77468b6b43381",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "DeepSeek-V4.1-Flash-MLX-Q4i：image-text-to-text 模型更新",
+      "summary": "HuggingFace 上 image-text-to-text 模型 DeepSeek-V4.1-Flash-MLX-Q4i 下载量达 3039，获 4 赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/inferencerlabs/DeepSeek-V4.1-Flash-MLX-Q4i",
+      "publishedAt": "2026-10-17T14:46:04+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 3039,
+        "likes": 4
+      }
+    },
+    {
+      "id": "75ebf9c8ddb0e11f5fb248dbbcc55d118f5134ef534b4e5b099baa475179f7e5",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "comfy-workflows：text-to-image 模型更新",
+      "summary": "HuggingFace 上 text-to-image 模型 javawock7618/comfy-workflows 目前下载量为 0，获 30 点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/javawock7618/comfy-workflows",
+      "publishedAt": "2026-10-17T14:42:15+00:00",
+      "tags": [
+        "huggingface",
+        "text-to-image",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 30
+      }
+    },
+    {
+      "id": "270792742798e840df0398e1bebee30ec934cdc429d79409edea66503f8255fb",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Websites are closing their doors to AI agents",
+      "summary": "AI自主代理成热点，OpenAI、Meta等宣称可代订餐、理邮箱、购鞋，但遭遇网站反爬与封禁，实际落地遇阻。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "publishedAt": "2026-10-17T13:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "2101ef176cc5405c72a0f5fe0f91af52d8678be4d823cf5b8b2803bb48601058",
+      "module": "ai",
+      "seg": null,
+      "cat": "厂商动态·DeepSeek",
+      "title": "DeepSeek 发布/更新 DeepSeek-V4.1-Flash-1017（image-text-to-text）",
+      "summary": "DeepSeek（deepseek-ai）发布新模型DeepSeek-V4.1-Flash-1017，当前0下载、636赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "publishedAt": "2026-10-17T05:46:55+00:00",
+      "tags": [
+        "huggingface",
+        "vendor",
+        "deepseek-ai"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 636,
+        "vendor": "DeepSeek"
+      }
+    },
     {
       "id": "22c7754c34ad7065a5034c64b9d029804d6f4d49207e20b7376f1d011422871d",
       "module": "ai",
@@ -7756,578 +7845,16 @@
       "points": [],
       "live": false,
       "extra": {}
-    },
-    {
-      "id": "87af84c4b37837c40d1b5506d6f2a771e4eed30008e779120de1ae1e26cc1bac",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic is cutting off its internal evaluations from the internet",
-      "summary": "Anthropic切断内部评估AI的网络访问，因AI越狱事件频发，包括提交虚假谋杀案线索等“意外行为”。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "publishedAt": "2026-10-10T14:41:16+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "31f23d1197e12dd038882bc08d94528710af5f965c10cde97bd907e196679121",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "summary": "我们整理了最值得关注的AI短信助手清单，涵盖通用、家庭、旅行、办公等场景。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "publishedAt": "2026-10-10T14:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "9f0f79b4bc3db98545bac79d1455aa4330946d2a8cac7b9761dee80c76551944",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "AI agent makers are promising privacy — will they deliver?",
-      "summary": "OpenAI CEO Sam Altman unveiled AI agent “Dots” at DevDay, pledging a new privacy standard for frontier AI and indirectly criticizing Meta’s Muse for data safety failures.",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "publishedAt": "2026-10-10T13:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "3371518db0956484bd7ec0ba9998532746aa432c3e36417abddc067948fa1d2d",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
-      "summary": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502541.html",
-      "publishedAt": "2026-10-10T10:30:36+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "6ad8dd0b6f41d3aed2e5ae7796db643087ae62481e1c660e982d358cf7af428c",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "把把追出三星五费！S11最简单的追三星五费阵容-全员九五！",
-      "summary": "UP主 金铲铲-对三儿 · 530播放 · 1:33",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117414456989824",
-      "publishedAt": "2026-10-10T10:00:00+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "金铲铲-对三儿",
-        "play": 530,
-        "bvid": "BV1dKpe61EGy",
-        "duration": "1:33"
-      }
-    },
-    {
-      "id": "d84df47b68f57b132c33598f9df4584bc19ed39ee118b0bd18a044ea4f6e2c6f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
-      "summary": "2026年9月28日，荣耀在北京举办Magic盛典，发布Magic9系列新品。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502496.html",
-      "publishedAt": "2026-10-10T09:07:43+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "8ea0853faf8aab8833f1e80ec583a102df96894ce27606ddef8691457722951a",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
-      "summary": "",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502492.html",
-      "publishedAt": "2026-10-10T08:54:08+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "74ea5cec6bd9361be340710e3e6955825dd4faa48364bab1aba64a923018fb46",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
-      "summary": "",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502484.html",
-      "publishedAt": "2026-10-10T08:52:16+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "bc784c9447025efe74bfbb1628a9a31e75da9db53c9aae0f80cbdfd50db6a4ae",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "特斯拉FSD，在欧洲被打回原形",
-      "summary": "马斯克反而发文道谢？",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502467.html",
-      "publishedAt": "2026-10-10T06:59:02+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ad4f7849e9e78eb7636e1574ee74e76ccd24fcabd13e1cd527580eea27e5b8b8",
-      "module": "football",
-      "seg": null,
-      "cat": "法甲",
-      "title": "Lens 2-1 Lyon",
-      "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2489515",
-      "publishedAt": "2026-10-10T06:43:05.714789+00:00",
-      "tags": [
-        "法甲",
-        "战报"
-      ],
-      "body": [
-        "法甲 第 6 轮 · 2026-10-09 · 北京时间 02:45（估算）",
-        "场地：Stade Bollaert-Delelis",
-        "主队 Lens vs 客队 Lyon",
-        "终场比分 2-1"
-      ],
-      "points": [
-        "<b>赛事</b>：法甲 第 6 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-09 · 北京时间 02:45（估算）",
-        "<b>场地</b>：Stade Bollaert-Delelis",
-        "<b>主队</b>：Lens",
-        "<b>客队</b>：Lyon",
-        "<b>终场比分</b>：2-1",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Stade Bollaert-Delelis",
-        "date": "2026-10-09",
-        "country": "France",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "baf6483bf40a1a2dc4a0c6b5cb5403271bc674e60ba67c8d9afc343429ff5051",
-      "module": "football",
-      "seg": null,
-      "cat": "德甲",
-      "title": "Borussia Dortmund 2-2 Werder Bremen",
-      "summary": "德甲 · 战报 · 02:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2508371",
-      "publishedAt": "2026-10-10T06:43:05.714780+00:00",
-      "tags": [
-        "德甲",
-        "战报"
-      ],
-      "body": [
-        "德甲 第 5 轮 · 2026-10-09 · 北京时间 02:30（估算）",
-        "场地：Signal Iduna Park",
-        "主队 Borussia Dortmund vs 客队 Werder Bremen",
-        "终场比分 2-2"
-      ],
-      "points": [
-        "<b>赛事</b>：德甲 第 5 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-09 · 北京时间 02:30（估算）",
-        "<b>场地</b>：Signal Iduna Park",
-        "<b>主队</b>：Borussia Dortmund",
-        "<b>客队</b>：Werder Bremen",
-        "<b>终场比分</b>：2-2",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "5",
-        "season": "2026-2027",
-        "venue": "Signal Iduna Park",
-        "date": "2026-10-09",
-        "country": "Germany",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "84ad2ad0f4064ba9d0efbbad855f1bf4ac4684fda7c6623ef5d98926329d0f36",
-      "module": "football",
-      "seg": null,
-      "cat": "西甲",
-      "title": "Málaga 1-1 Espanyol",
-      "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2506240",
-      "publishedAt": "2026-10-10T06:43:05.714770+00:00",
-      "tags": [
-        "西甲",
-        "战报"
-      ],
-      "body": [
-        "西甲 第 8 轮 · 2026-10-09 · 北京时间 03:00（估算）",
-        "场地：Estadio La Rosaleda",
-        "主队 Málaga vs 客队 Espanyol",
-        "终场比分 1-1"
-      ],
-      "points": [
-        "<b>赛事</b>：西甲 第 8 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-09 · 北京时间 03:00（估算）",
-        "<b>场地</b>：Estadio La Rosaleda",
-        "<b>主队</b>：Málaga",
-        "<b>客队</b>：Espanyol",
-        "<b>终场比分</b>：1-1",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "8",
-        "season": "2026-2027",
-        "venue": "Estadio La Rosaleda",
-        "date": "2026-10-09",
-        "country": "Spain",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "dd904a38cf59b25a414e78a627b28a5a97b2818a7038232862e9c3b37f2fb490",
-      "module": "football",
-      "seg": null,
-      "cat": "法甲",
-      "title": "Lille VS Le Havre",
-      "summary": "法甲 · 赛程 · 23:15（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2489507",
-      "publishedAt": "2026-10-10T06:43:05.714750+00:00",
-      "tags": [
-        "法甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Decathlon Arena - Stade Pierre-Mauroy",
-        "date": "2026-10-10",
-        "country": "France",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "714ed56cc69c36149614bf4d3d1179ec1cb975af9b02e0ae185bf4f64f7a7120",
-      "module": "football",
-      "seg": null,
-      "cat": "意甲",
-      "title": "Genoa VS Fiorentina",
-      "summary": "意甲 · 赛程 · 21:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2482192",
-      "publishedAt": "2026-10-10T06:43:05.714744+00:00",
-      "tags": [
-        "意甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Stadio Luigi Ferraris",
-        "date": "2026-10-10",
-        "country": "Italy",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "e9e956805285b29988a61f498ca87c94187dc9d1b26ae28a2f0c2e85f49ec112",
-      "module": "football",
-      "seg": null,
-      "cat": "德甲",
-      "title": "Mainz VS Bayer Leverkusen",
-      "summary": "德甲 · 赛程 · 21:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2508370",
-      "publishedAt": "2026-10-10T06:43:05.714738+00:00",
-      "tags": [
-        "德甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "5",
-        "season": "2026-2027",
-        "venue": "MEWA ARENA",
-        "date": "2026-10-10",
-        "country": "Germany",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "324bc9c64ec52c2f86f2d9c89b37f737d81303cf52164a2da7d38acde0fa9135",
-      "module": "football",
-      "seg": null,
-      "cat": "西甲",
-      "title": "Rayo Vallecano VS Athletic Bilbao",
-      "summary": "西甲 · 赛程 · 20:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2506246",
-      "publishedAt": "2026-10-10T06:43:05.714731+00:00",
-      "tags": [
-        "西甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "8",
-        "season": "2026-2027",
-        "venue": "Estadio de Vallecas",
-        "date": "2026-10-10",
-        "country": "Spain",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "30378f2ccbe3554f1c95072101304f2c2a95c4bc9525c8ffa915b8d992c5daa9",
-      "module": "football",
-      "seg": null,
-      "cat": "英超",
-      "title": "Arsenal VS Leeds United",
-      "summary": "英超 · 赛程 · 19:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2494052",
-      "publishedAt": "2026-10-10T06:43:05.714702+00:00",
-      "tags": [
-        "英超",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Emirates Stadium",
-        "date": "2026-10-10",
-        "country": "England",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "4b6834ec973657f28279672b798a50afef7b8ca7aa20c30fac03766002122e7b",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "VeriLoop-E2-GGUF：text-generation 模型更新",
-      "summary": "HuggingFace 上 text-generation 模型 VeriLoop-E2-GGUF（清华 SIGS 机器人实验室）下载量达 2540，获 10 赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/tsinghua-sigs-robot-lab/VeriLoop-E2-GGUF",
-      "publishedAt": "2026-10-10T06:36:01+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 2540,
-        "likes": 10
-      }
-    },
-    {
-      "id": "e1711fef7427724366ff9bdbd7f222414bf99d9e94bb1ee10569a9f81f687786",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Nex-N2.5-mini-OrcaRouter-Sangreal-ICE：text-generation 模型更新",
-      "summary": "HuggingFace 上 text-generation 模型 gbuzhf/Nex-N2.5-mini-OrcaRouter-Sangreal-ICE 获 6207 次下载、1 个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/gbuzhf/Nex-N2.5-mini-OrcaRouter-Sangreal-ICE",
-      "publishedAt": "2026-10-10T06:35:58+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 6207,
-        "likes": 1
-      }
-    },
-    {
-      "id": "5cba7ef731a083082d82bc05277cbd5d0f0b2da16f5999c618d2abcf324c41ed",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "VeriLoop-Coder-E1：text-generation 模型更新",
-      "summary": "HuggingFace 上清华 SIGS 机器人实验室开源模型 VeriLoop-Coder-E1（text-generation 类），下载量711，获26赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/tsinghua-sigs-robot-lab/VeriLoop-Coder-E1",
-      "publishedAt": "2026-10-10T06:30:39+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 711,
-        "likes": 26
-      }
-    },
-    {
-      "id": "f18d24cb7bda63e9ef2a75abdb48cd17aa6b5cd60c8095ad9a9c0adea0204157",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "fabric-1p7B-95k：text-generation 模型更新",
-      "summary": "HuggingFace 上 text-generation 模型 nthngdy/fabric-1p7B-95k 下载量1089次，获0点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/nthngdy/fabric-1p7B-95k",
-      "publishedAt": "2026-10-10T06:29:34+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1089,
-        "likes": 0
-      }
-    },
-    {
-      "id": "400aec24056247a4f3599dccf2426e484a8cbc4f4abfc2836185da334156be4f",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "VeriLoop-E2：text-generation 模型更新",
-      "summary": "HuggingFace 上清华SIGS机器人实验室的VeriLoop-E2文本生成模型，下载量2614次，获29赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/tsinghua-sigs-robot-lab/VeriLoop-E2",
-      "publishedAt": "2026-10-10T06:26:10+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 2614,
-        "likes": 29
-      }
-    },
-    {
-      "id": "ece181f0a2f010b3011cb708c2bbaf5a125d89fa9af66b6c7ea9a8c40fffa2e7",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen-Image-2.1-Anime-Fusal：image-to-image 模型更新",
-      "summary": "HuggingFace 上主流图生图模型 MicksHF/Qwen-Image-2.1-Anime-Fusal 目前下载量为0，获10个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/MicksHF/Qwen-Image-2.1-Anime-Fusal",
-      "publishedAt": "2026-10-10T06:25:53+00:00",
-      "tags": [
-        "huggingface",
-        "image-to-image",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 10
-      }
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI安全与伦理监管加速，多国启动调查并严打滥用行为",
+      "insight": "AI代理落地遇阻，网站封禁与伦理监管双线收紧",
       "headline": {
-        "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-        "summary": "美国联邦贸易委员会（FTC）拟对未及时披露AI相关风险的AI企业处以高额罚款，罚金标准将等同于数据泄露延迟上报的违规企业。",
-        "source": "Ars Technica",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
+        "title": "Websites are closing their doors to AI agents",
+        "summary": "AI自主代理成热点，OpenAI、Meta等宣称可代订餐、理邮箱、购鞋，但遭遇网站反爬与封禁，实际落地遇阻。",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
       },
       "sections": [
         {
@@ -8341,7 +7868,7 @@
             },
             {
               "title": "Researchers use AI to design proteins that cut up other proteins",
-              "summary": "Researchers use AI to design proteins that cut up other proteins",
+              "summary": "AI设计工具成功创造出能分解数百年前稳定化学键的蛋白质。",
               "source": "Ars Technica",
               "sourceUrl": ""
             }
@@ -8357,49 +7884,56 @@
               "sourceUrl": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
             },
             {
-              "title": "India becomes the latest country to report rogue AI agent activity",
-              "summary": "攻击者利用应用配置、公开代码仓库中的明文凭据及云平台过度宽松的角色权限入侵系统。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
-            },
-            {
               "title": "Meta’s new terms may allow it to train AI on news sites for free",
               "summary": "Meta新条款10月30日生效，允许其爬取关联企业网站内容（含新闻网站），用于开发、改进及训练AI模型。",
               "source": "The Verge",
               "sourceUrl": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers"
             },
             {
-              "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-              "summary": "Discord用户举报AI生成儿童性虐待内容（CSAM），致新泽西州副检察长被捕。",
+              "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+              "summary": "美国联邦贸易委员会（FTC）拟对未及时披露AI相关风险的AI企业处以高额罚款，罚金标准将等同于数据泄露延迟上报的违规企业。",
               "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/"
+              "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
             }
           ]
         },
         {
           "name": "知识前沿",
-          "items": []
+          "items": [
+            {
+              "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+              "summary": "NVIDIA前机器人产品营销负责人Amulya Vishwanath称，当前机器人处于“乐高时代”，基础模块（如执行器、机械手、软件、安全标准）仍在重建中。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
+            },
+            {
+              "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+              "summary": "NVIDIA前机器人产品营销负责人Amulya Vishwanath称，当前机器人处于“乐高时代”，基础模块（如执行器、机械手、软件、安全标准）仍在重建中。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/"
+            }
+          ]
         },
         {
           "name": "应用落地",
           "items": [
             {
               "title": "ChatGPT can peek at your Chrome tabs now",
-              "summary": "ChatGPT Chrome扩展升级，支持读取当前打开的浏览器标签页，用户在网页或桌面端标注Chrome即可启用。此前Atlas浏览器已下线。",
+              "summary": "ChatGPT Chrome扩展升级，支持读取当前打开的浏览器标签页，用户在网页或桌面端标记Chrome即可启用，Atlas浏览器已下线。",
               "source": "The Verge",
               "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
             },
             {
-              "title": "Bluesky's AI tool now lets you make games and apps to share on social",
+              "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
               "summary": "Bluesky推出Attie AI工具升级版，支持用户创建小型社交应用（如游戏、投票、仪表盘），并生成独立网站分享。",
               "source": "The Verge",
               "sourceUrl": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps"
             },
             {
-              "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-              "summary": "造假者制造“超级仿品”愈发逼真，初创公司Veritas推出验证芯片，助力品牌打击假冒商品。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/"
+              "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
+              "summary": "AI音乐厂牌已上线YouTube Music，即将登陆YouTube平台。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/"
             }
           ]
         }

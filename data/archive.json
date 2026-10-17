@@ -66027,5 +66027,94 @@
       "bvid": "BV1XWJY6eEfX",
       "duration": "18:1"
     }
+  },
+  "270792742798e840df0398e1bebee30ec934cdc429d79409edea66503f8255fb": {
+    "id": "270792742798e840df0398e1bebee30ec934cdc429d79409edea66503f8255fb",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Websites are closing their doors to AI agents",
+    "summary": "AI自主代理成热点，OpenAI、Meta等宣称可代订餐、理邮箱、购鞋，但遭遇网站反爬与封禁，实际落地遇阻。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "publishedAt": "2026-10-17T13:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "8f15fb80e6fb70ce268765b64751abe9467a1e8ba74cb1b795d77468b6b43381": {
+    "id": "8f15fb80e6fb70ce268765b64751abe9467a1e8ba74cb1b795d77468b6b43381",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "DeepSeek-V4.1-Flash-MLX-Q4i：image-text-to-text 模型更新",
+    "summary": "HuggingFace 上 image-text-to-text 模型 DeepSeek-V4.1-Flash-MLX-Q4i 下载量达 3039，获 4 赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/inferencerlabs/DeepSeek-V4.1-Flash-MLX-Q4i",
+    "publishedAt": "2026-10-17T14:46:04+00:00",
+    "tags": [
+      "huggingface",
+      "image-text-to-text",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 3039,
+      "likes": 4
+    }
+  },
+  "75ebf9c8ddb0e11f5fb248dbbcc55d118f5134ef534b4e5b099baa475179f7e5": {
+    "id": "75ebf9c8ddb0e11f5fb248dbbcc55d118f5134ef534b4e5b099baa475179f7e5",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "comfy-workflows：text-to-image 模型更新",
+    "summary": "HuggingFace 上 text-to-image 模型 javawock7618/comfy-workflows 目前下载量为 0，获 30 点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/javawock7618/comfy-workflows",
+    "publishedAt": "2026-10-17T14:42:15+00:00",
+    "tags": [
+      "huggingface",
+      "text-to-image",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 30
+    }
+  },
+  "2101ef176cc5405c72a0f5fe0f91af52d8678be4d823cf5b8b2803bb48601058": {
+    "id": "2101ef176cc5405c72a0f5fe0f91af52d8678be4d823cf5b8b2803bb48601058",
+    "module": "ai",
+    "seg": null,
+    "cat": "厂商动态·DeepSeek",
+    "title": "DeepSeek 发布/更新 DeepSeek-V4.1-Flash-1017（image-text-to-text）",
+    "summary": "DeepSeek（deepseek-ai）发布新模型DeepSeek-V4.1-Flash-1017，当前0下载、636赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "publishedAt": "2026-10-17T05:46:55+00:00",
+    "tags": [
+      "huggingface",
+      "vendor",
+      "deepseek-ai"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 636,
+      "vendor": "DeepSeek"
+    }
   }
 }
