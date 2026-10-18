@@ -1,9 +1,103 @@
 {
-  "generated_at": "2026-10-18T05:32:17.729003+00:00",
+  "generated_at": "2026-10-18T15:15:16.136983+00:00",
   "date": "2026-10-18",
   "keep_days": 7,
-  "count": 328,
+  "count": 315,
   "items": [
+    {
+      "id": "0b328d59153ebc5806b839186b5bf55e3ea991a4c1a2570c6c899dd60bec3e40",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "KenT_0.3B_Base：text-generation 模型更新",
+      "summary": "HuggingFace上Vi-LAB/KenT_0.3B_Base文本生成模型下载量3570次，暂无点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Vi-LAB/KenT_0.3B_Base",
+      "publishedAt": "2026-10-18T15:10:13+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 3570,
+        "likes": 0
+      }
+    },
+    {
+      "id": "9c7dbc17f11924340bdc23357fc28ceeba73aaf4d4f8b9cbabe5aa92c7b85c0c",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Quillan-Ronin：model 模型更新",
+      "summary": "HuggingFace 上模型 CrashOverrideX/Quillan-Ronin 下载量1841次，获0点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/CrashOverrideX/Quillan-Ronin",
+      "publishedAt": "2026-10-18T15:02:26+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1841,
+        "likes": 0
+      }
+    },
+    {
+      "id": "3e2624659af4741804ab56666c39871d6d200b66b9c80fbfafa87693a6e7820d",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-GGUF：image-text-to-text 模型更新",
+      "summary": "HuggingFace热门图文生成模型LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-GGUF，下载量超66.6万，获696赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-GGUF",
+      "publishedAt": "2026-10-18T14:59:11+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 666062,
+        "likes": 696
+      }
+    },
+    {
+      "id": "d7abb8ee8d5b6fb06f174e0e44642cf5dcebc25e3cb336578a9c37409d4ff24d",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "海斗时代眼泪｜暴击飞弹移除！烟花流船长再也玩不到了",
+      "summary": "UP主 基兰打雷 · 964播放 · 1:49",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117455661896170",
+      "publishedAt": "2026-10-18T10:30:00+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 黑科技 上分"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "基兰打雷",
+        "play": 964,
+        "bvid": "BV13oJi6zEpk",
+        "duration": "1:49"
+      }
+    },
     {
       "id": "76b2cdd1e8f2130df1670e8652e9e65a54fcdc9395131dfb216255a609bb073b",
       "module": "ai",
@@ -7035,484 +7129,16 @@
         "downloads": 2487,
         "likes": 0
       }
-    },
-    {
-      "id": "4153e6372e5eebfd5a524675130ad92155fdf6746818456cf5519d2f9521943a",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "summary": "语音AI常因上下文理解不足而漏掉关键信息，导致整个处理流程中断。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "publishedAt": "2026-10-11T14:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c571a31befadd3aceca3d4616acdb234cdace68f85d033f3eb884ced130b18de",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "summary": "作者转向日常使用AI，因隐私顾虑曾犹豫；现可本地运行大模型，无需上传敏感数据。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "publishedAt": "2026-10-11T11:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "81746843d7f2859347ff77c7215bbecf7f59d28015734a30d95b7286f42c389e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
-      "summary": "一套生成论文初稿的多智能体工作流",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502644.html",
-      "publishedAt": "2026-10-11T09:04:31+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "0acb5d63226ff25078752ae47a5b5d366f54bb4586a874b12b6d2e68b183634c",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "何恺明团队发布多模态Harness框架",
-      "summary": "多模态模型的视觉原生Harness，来了！",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502628.html",
-      "publishedAt": "2026-10-11T08:59:06+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "b8c0bb2e1b40b3e232067d588c3c446831e8a71b33277007b5cff4a24e961507",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "海斗骚套路（十三）冷门英雄贝蕾亚无限连教学",
-      "summary": "UP主 老蒋真聪明 · 826播放 · 3:2",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117421369202700",
-      "publishedAt": "2026-10-11T08:38:51+00:00",
-      "tags": [
-        "lol",
-        "rune",
-        "英雄联盟 海斗 强化 套路"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "老蒋真聪明",
-        "play": 826,
-        "bvid": "BV1qEpJ63EP6",
-        "duration": "3:2"
-      }
-    },
-    {
-      "id": "428d75aa06ba5642c3d8f74c1d24e66971d903546c7d391ea041c1a92fd7f3d4",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "陶哲轩：数学2.0时代已至！",
-      "summary": "",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502594.html",
-      "publishedAt": "2026-10-11T07:52:16+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "fd73ff6b4bb40e8f680212d05fbe5b30d2fd924ba40a462050a1fb27be75a841",
-      "module": "football",
-      "seg": null,
-      "cat": "法甲",
-      "title": "Brest 5-1 Angers",
-      "summary": "法甲 · 战报 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2489513",
-      "publishedAt": "2026-10-11T06:49:59.743510+00:00",
-      "tags": [
-        "法甲",
-        "战报"
-      ],
-      "body": [
-        "法甲 第 6 轮 · 2026-10-10 · 北京时间 02:45（估算）",
-        "场地：Stade Francis-Le Blé",
-        "主队 Brest vs 客队 Angers",
-        "终场比分 5-1"
-      ],
-      "points": [
-        "<b>赛事</b>：法甲 第 6 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-10 · 北京时间 02:45（估算）",
-        "<b>场地</b>：Stade Francis-Le Blé",
-        "<b>主队</b>：Brest",
-        "<b>客队</b>：Angers",
-        "<b>终场比分</b>：5-1",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Stade Francis-Le Blé",
-        "date": "2026-10-10",
-        "country": "France",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "f69eb2c3ee1121c328666e82b273acb04944daa27a82784b602efdfb6fe0e16e",
-      "module": "football",
-      "seg": null,
-      "cat": "意甲",
-      "title": "Napoli 3-0 Frosinone",
-      "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2482191",
-      "publishedAt": "2026-10-11T06:49:59.743503+00:00",
-      "tags": [
-        "意甲",
-        "战报"
-      ],
-      "body": [
-        "意甲 第 6 轮 · 2026-10-10 · 北京时间 02:45（估算）",
-        "场地：Stadio Diego Armando Maradona",
-        "主队 Napoli vs 客队 Frosinone",
-        "终场比分 3-0"
-      ],
-      "points": [
-        "<b>赛事</b>：意甲 第 6 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-10 · 北京时间 02:45（估算）",
-        "<b>场地</b>：Stadio Diego Armando Maradona",
-        "<b>主队</b>：Napoli",
-        "<b>客队</b>：Frosinone",
-        "<b>终场比分</b>：3-0",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Stadio Diego Armando Maradona",
-        "date": "2026-10-10",
-        "country": "Italy",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "5ba1d4846b2733f8237d694ff15d114caa217f72ad4b23204207d614527e6fa9",
-      "module": "football",
-      "seg": null,
-      "cat": "德甲",
-      "title": "RB Leipzig 6-0 Eintracht Frankfurt",
-      "summary": "德甲 · 战报 · 00:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2508374",
-      "publishedAt": "2026-10-11T06:49:59.743495+00:00",
-      "tags": [
-        "德甲",
-        "战报"
-      ],
-      "body": [
-        "德甲 第 5 轮 · 2026-10-10 · 北京时间 00:30（估算）",
-        "场地：Red Bull Arena Leipzig",
-        "主队 RB Leipzig vs 客队 Eintracht Frankfurt",
-        "终场比分 6-0"
-      ],
-      "points": [
-        "<b>赛事</b>：德甲 第 5 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-10 · 北京时间 00:30（估算）",
-        "<b>场地</b>：Red Bull Arena Leipzig",
-        "<b>主队</b>：RB Leipzig",
-        "<b>客队</b>：Eintracht Frankfurt",
-        "<b>终场比分</b>：6-0",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "5",
-        "season": "2026-2027",
-        "venue": "Red Bull Arena Leipzig",
-        "date": "2026-10-10",
-        "country": "Germany",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "d52edab125c797ced5ad21118292d8778a85d03108792aeaf63a8846bdc4b855",
-      "module": "football",
-      "seg": null,
-      "cat": "西甲",
-      "title": "Real Madrid 1-0 Villarreal",
-      "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2506242",
-      "publishedAt": "2026-10-11T06:49:59.743486+00:00",
-      "tags": [
-        "西甲",
-        "战报"
-      ],
-      "body": [
-        "西甲 第 8 轮 · 2026-10-10 · 北京时间 03:00（估算）",
-        "场地：Estadio Santiago Bernabéu",
-        "主队 Real Madrid vs 客队 Villarreal",
-        "终场比分 1-0"
-      ],
-      "points": [
-        "<b>赛事</b>：西甲 第 8 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-10 · 北京时间 03:00（估算）",
-        "<b>场地</b>：Estadio Santiago Bernabéu",
-        "<b>主队</b>：Real Madrid",
-        "<b>客队</b>：Villarreal",
-        "<b>终场比分</b>：1-0",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "8",
-        "season": "2026-2027",
-        "venue": "Estadio Santiago Bernabéu",
-        "date": "2026-10-10",
-        "country": "Spain",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "c7ba60d00f1586706f89f513f6d3773d6c33604bcade1458990faa93b970969b",
-      "module": "football",
-      "seg": null,
-      "cat": "英超",
-      "title": "Manchester United 1-1 Tottenham Hotspur",
-      "summary": "英超 · 战报 · 00:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2494050",
-      "publishedAt": "2026-10-11T06:49:59.743477+00:00",
-      "tags": [
-        "英超",
-        "战报"
-      ],
-      "body": [
-        "英超 第 6 轮 · 2026-10-10 · 北京时间 00:30（估算）",
-        "场地：Old Trafford",
-        "主队 Manchester United vs 客队 Tottenham Hotspur",
-        "终场比分 1-1"
-      ],
-      "points": [
-        "<b>赛事</b>：英超 第 6 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-10 · 北京时间 00:30（估算）",
-        "<b>场地</b>：Old Trafford",
-        "<b>主队</b>：Manchester United",
-        "<b>客队</b>：Tottenham Hotspur",
-        "<b>终场比分</b>：1-1",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Old Trafford",
-        "date": "2026-10-10",
-        "country": "England",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "1d3c3ec65aaaa1af5a337d925116818575b1b231ef4ffaf1c76a65cc3b20367e",
-      "module": "football",
-      "seg": null,
-      "cat": "法甲",
-      "title": "Nice VS Strasbourg",
-      "summary": "法甲 · 赛程 · 21:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2489508",
-      "publishedAt": "2026-10-11T06:49:59.743457+00:00",
-      "tags": [
-        "法甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Allianz Riviera",
-        "date": "2026-10-11",
-        "country": "France",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "0b4b4df1a7651627a83dc036cfc8ea7dfad1d9e61c770eaeb4ea7a26eb7d8b92",
-      "module": "football",
-      "seg": null,
-      "cat": "意甲",
-      "title": "Como VS Roma",
-      "summary": "意甲 · 赛程 · 18:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2482197",
-      "publishedAt": "2026-10-11T06:49:59.743451+00:00",
-      "tags": [
-        "意甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Stadio Giuseppe Sinigaglia",
-        "date": "2026-10-11",
-        "country": "Italy",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "6173573f613235897f362608aa6003009854f647a42fadb99a72e190c089d732",
-      "module": "football",
-      "seg": null,
-      "cat": "德甲",
-      "title": "Köln VS Borussia Mönchengladbach",
-      "summary": "德甲 · 赛程 · 21:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2508377",
-      "publishedAt": "2026-10-11T06:49:59.743446+00:00",
-      "tags": [
-        "德甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "5",
-        "season": "2026-2027",
-        "venue": "RheinEnergieStadion",
-        "date": "2026-10-11",
-        "country": "Germany",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "a745943c727a9bb2691f9292cfdc4750d3bac88a54ed45535e1e2f1f18cfee4d",
-      "module": "football",
-      "seg": null,
-      "cat": "西甲",
-      "title": "Elche VS Celta Vigo",
-      "summary": "西甲 · 赛程 · 20:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2506247",
-      "publishedAt": "2026-10-11T06:49:59.743439+00:00",
-      "tags": [
-        "西甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "8",
-        "season": "2026-2027",
-        "venue": "Estadio Martínez Valero",
-        "date": "2026-10-11",
-        "country": "Spain",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "ddfd876ee610b4d6f37a98a2525fb358e100e323fcf3cd29724aab730cf352fe",
-      "module": "football",
-      "seg": null,
-      "cat": "英超",
-      "title": "Crystal Palace VS Nottingham Forest",
-      "summary": "英超 · 赛程 · 21:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2494054",
-      "publishedAt": "2026-10-11T06:49:59.743409+00:00",
-      "tags": [
-        "英超",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Selhurst Park",
-        "date": "2026-10-11",
-        "country": "England",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "bd3f7d1f12c369f5fe3bff7e8939d41a624a5fd93ef6b1fc69bf35e35671ee08",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.5-2B：text-generation 模型更新",
-      "summary": "HuggingFace 上 litert-community/Qwen3.5-2B 文本生成模型获 2791 次下载、5 个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/litert-community/Qwen3.5-2B",
-      "publishedAt": "2026-10-11T06:39:59+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 2791,
-        "likes": 5
-      }
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI agent backlash intensifies as websites block access and regulators probe security failures.",
+      "insight": "AI监管与安全风险成全球焦点，多国启动调查、封禁与立法应对",
       "headline": {
-        "title": "Websites are closing their doors to AI agents",
-        "summary": "AI自主代理成热点，OpenAI、Meta等宣称可代订餐、理邮箱、购鞋，但遭遇网站反爬与封禁，实际落地遇阻。",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+        "title": "OpenAI models hacked a crypto wallet and breached more websites",
+        "summary": "若由人类操作，这些行为本可能招致刑事指控。",
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
       },
       "sections": [
         {
@@ -7534,7 +7160,7 @@
               "title": "Researchers use AI to design proteins that cut up other proteins",
               "summary": "AI设计工具成功创造出能分解数百年前稳定化学键的蛋白质。",
               "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/science/202"
+              "sourceUrl": "https://arstechnica.com/scienc"
             }
           ]
         },
@@ -7548,42 +7174,35 @@
               "sourceUrl": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
             },
             {
+              "title": "India becomes the latest country to report rogue AI agent activity",
+              "summary": "攻击者利用应用配置、公开代码仓库中的明文凭据及云平台过度宽松的角色权限入侵系统。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+            },
+            {
+              "title": "Websites are closing their doors to AI agents",
+              "summary": "AI自主代理成热点，OpenAI、Meta等宣称可代订餐、理邮箱、购鞋，但遭遇网站反爬与封禁，实际落地遇阻。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+            },
+            {
               "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
               "summary": "美国联邦贸易委员会（FTC）拟对未及时披露AI相关风险的AI企业处以高额罚款，罚金标准将等同于数据泄露延迟上报的违规企业。",
               "source": "Ars Technica",
               "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
-            },
-            {
-              "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-              "summary": "Meta简化商业条款，被法律专家批为“AI权力攫取”，或扩大其对用户数据及AI训练的控制权。",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/"
             }
           ]
         },
         {
           "name": "知识前沿",
-          "items": [
-            {
-              "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-              "summary": "NVIDIA前机器人产品营销负责人Amulya Vishwanath称，当前机器人处于“乐高时代”，基础模块（如执行器、机械手、软件、安全标准）仍在重建中。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
-            },
-            {
-              "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-              "summary": "NVIDIA前机器人产品营销负责人Amulya Vishwanath称，当前机器人处于“乐高时代”，基础模块（如执行器、机械手、软件、安全标准）仍在重建中。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/"
-            }
-          ]
+          "items": []
         },
         {
           "name": "应用落地",
           "items": [
             {
               "title": "ChatGPT can peek at your Chrome tabs now",
-              "summary": "ChatGPT Chrome扩展升级，支持读取当前打开的浏览器标签页，用户在网页或桌面端标记Chrome即可启用。此前Atlas浏览器已下线。",
+              "summary": "ChatGPT Chrome扩展升级，支持读取当前打开的浏览器标签页，用户在网页或桌面端标注Chrome即可启用。此前Atlas浏览器已下线。",
               "source": "The Verge",
               "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
             },
@@ -7595,7 +7214,7 @@
             },
             {
               "title": "Jev is Vercel’s fastest-adopted AI model ever",
-              "summary": "数据源自Vercel推出的AI网关，这是一项类似OpenRouter的统一API服务。",
+              "summary": "数据源自Vercel推出的AI网关，该服务为统一API平台，功能类似OpenRouter。",
               "source": "TechCrunch",
               "sourceUrl": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
             }

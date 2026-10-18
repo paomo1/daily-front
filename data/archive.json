@@ -66310,5 +66310,99 @@
       "downloads": 3765,
       "likes": 9
     }
+  },
+  "0b328d59153ebc5806b839186b5bf55e3ea991a4c1a2570c6c899dd60bec3e40": {
+    "id": "0b328d59153ebc5806b839186b5bf55e3ea991a4c1a2570c6c899dd60bec3e40",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "KenT_0.3B_Base：text-generation 模型更新",
+    "summary": "HuggingFace上Vi-LAB/KenT_0.3B_Base文本生成模型下载量3570次，暂无点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Vi-LAB/KenT_0.3B_Base",
+    "publishedAt": "2026-10-18T15:10:13+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 3570,
+      "likes": 0
+    }
+  },
+  "9c7dbc17f11924340bdc23357fc28ceeba73aaf4d4f8b9cbabe5aa92c7b85c0c": {
+    "id": "9c7dbc17f11924340bdc23357fc28ceeba73aaf4d4f8b9cbabe5aa92c7b85c0c",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Quillan-Ronin：model 模型更新",
+    "summary": "HuggingFace 上模型 CrashOverrideX/Quillan-Ronin 下载量1841次，获0点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/CrashOverrideX/Quillan-Ronin",
+    "publishedAt": "2026-10-18T15:02:26+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1841,
+      "likes": 0
+    }
+  },
+  "3e2624659af4741804ab56666c39871d6d200b66b9c80fbfafa87693a6e7820d": {
+    "id": "3e2624659af4741804ab56666c39871d6d200b66b9c80fbfafa87693a6e7820d",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-GGUF：image-text-to-text 模型更新",
+    "summary": "HuggingFace热门图文生成模型LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-GGUF，下载量超66.6万，获696赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-GGUF",
+    "publishedAt": "2026-10-18T14:59:11+00:00",
+    "tags": [
+      "huggingface",
+      "image-text-to-text",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 666062,
+      "likes": 696
+    }
+  },
+  "d7abb8ee8d5b6fb06f174e0e44642cf5dcebc25e3cb336578a9c37409d4ff24d": {
+    "id": "d7abb8ee8d5b6fb06f174e0e44642cf5dcebc25e3cb336578a9c37409d4ff24d",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "海斗时代眼泪｜暴击飞弹移除！烟花流船长再也玩不到了",
+    "summary": "UP主 基兰打雷 · 964播放 · 1:49",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117455661896170",
+    "publishedAt": "2026-10-18T10:30:00+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 黑科技 上分"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "基兰打雷",
+      "play": 964,
+      "bvid": "BV13oJi6zEpk",
+      "duration": "1:49"
+    }
   }
 }
