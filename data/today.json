@@ -1,9 +1,108 @@
 {
-  "generated_at": "2026-10-17T14:49:58.833946+00:00",
-  "date": "2026-10-17",
+  "generated_at": "2026-10-18T05:32:17.729003+00:00",
+  "date": "2026-10-18",
   "keep_days": 7,
-  "count": 339,
+  "count": 328,
   "items": [
+    {
+      "id": "76b2cdd1e8f2130df1670e8652e9e65a54fcdc9395131dfb216255a609bb073b",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Krea2_Collection：text-to-image 模型更新",
+      "summary": "HuggingFace 上 text-to-image 模型 cusiman/Krea2_Collection 获 3765 次下载、9 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/cusiman/Krea2_Collection",
+      "publishedAt": "2026-10-18T05:25:34+00:00",
+      "tags": [
+        "huggingface",
+        "text-to-image",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 3765,
+        "likes": 9
+      }
+    },
+    {
+      "id": "d1b64994233f07fd4dbf45a469337318c1e89a29aa246510b9996712b3f79a94",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "summary": "Meta称更新条款不改变其网络爬虫行为。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "publishedAt": "2026-10-17T21:31:32+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "4e08a7918ecbf3d9fa8cf0a18859a063fd4ccda36cefcedaf2f6022bb342eae1",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "summary": "Anthropic公司员工构成与工作内容在过去一年发生显著变化。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "publishedAt": "2026-10-17T20:21:19+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "cb7f7446e6fd370ec07f36f40039b1760e02b6fe32e9fc81c6582e6372f58dbd",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "summary": "本周末，Masad宣布将OpenAI设为默认模型供应商，取代Anthropic；Claude仍可供用户选择。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "publishedAt": "2026-10-17T18:48:08+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "16aabc692d4191202723e8e845a8d8fdf6f1a12f83b136db8ae42dce7c7c044b",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "summary": "Meta更新条款，删除“可抓取网站内容（含新闻站点）训练AI”的表述，回应舆论 backlash。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "publishedAt": "2026-10-17T15:04:36+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "8f15fb80e6fb70ce268765b64751abe9467a1e8ba74cb1b795d77468b6b43381",
       "module": "ai",
@@ -63,6 +162,101 @@
       "tags": [
         "ai-news",
         "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "434bad534994081febeeb86a83016cea4e037c090fdc4f35736a93faa327b58d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+      "summary": "新版本V4.1-Flash-1017，还开放了自研搜索API",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/504067.html",
+      "publishedAt": "2026-10-17T12:21:09+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "5f403813bbe8e49c8da5fb44ad3d702e14b64a6fc579e3b5c1807808d829ca18",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "智谱新模型，懂法方面全球第一了",
+      "summary": "AI的风还是刮到了法律圈",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/503965.html",
+      "publishedAt": "2026-10-17T12:13:45+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "a148a74920d1bc56f20420cfa5137ad2e19e16b2a538cd38a036719472952da3",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+      "summary": "整套系统原生支持MCP",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/503935.html",
+      "publishedAt": "2026-10-17T12:10:35+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "5308b1354c5f0cbf4b8067b0a383ecf58b07a918c764ad11d77e140f86f5ab40",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
+      "summary": "谜底指向时间",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/503910.html",
+      "publishedAt": "2026-10-17T12:06:51+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "c33871ecc4d1395ca0f7a80a572c0e3df98c41da0b735900ddf230f616544a62",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "科技企业出海，为啥我推荐你去迪拜？",
+      "summary": "通往全球市场的超级跳板",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/503893.html",
+      "publishedAt": "2026-10-17T09:05:08+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
       ],
       "body": [],
       "points": [],
@@ -7309,547 +7503,11 @@
         "downloads": 2791,
         "likes": 5
       }
-    },
-    {
-      "id": "97c208e0cee19c1fffceda0bb613a18d222005017ba5fabf0ed9db241c878064",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "王的猜想，刚刚扩展到四维",
-      "summary": "",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502584.html",
-      "publishedAt": "2026-10-11T05:23:47+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "659025d65c85ee4524ac7c793dd1a6b5f16c5bacefaf81d3a257532a4dedae03",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "硅谷AI现状：谁有算力谁是爹",
-      "summary": "马斯克连横A社，硅谷VC开始囤GPU",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502585.html",
-      "publishedAt": "2026-10-11T05:22:38+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "8427df9d8382a3e867d0ea4eb303f9815641f9e959af616462684ec65ea82272",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
-      "summary": "初代4o的API快照进入停用倒计时",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502550.html",
-      "publishedAt": "2026-10-11T05:18:04+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "e0ffa4878b90228982bb6fc69cbee61e4077d8a2a451c4797488f42070ac4a14",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
-      "summary": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502544.html",
-      "publishedAt": "2026-10-11T03:27:08+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "3aa678a3e21deb06823808805930111977394eb3887384f0e1e76781845f08b6",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "summary": "微软CEO纳德拉在X平台发文警示高级AI风险，强调不能将AI视为“嵌套黑箱”而盲目接受其建议与决策，呼吁加强透明度与可控性。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "publishedAt": "2026-10-10T22:10:17+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d35086b16d561310a97c986d6bc9a2f59bf7182238a03ab0afe13d05184e8f2e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "summary": "微软CEO周六发文称，是时候“退一步评估AI的信任架构”了。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "publishedAt": "2026-10-10T21:47:51+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "2f6ee1a5bfb25e8654b76f745fa9ef0faa7b9e666a96fdf0395ee6b4efa2d484",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "summary": "苹果正测试AI生成播客功能，或集成至Podcasts应用，利用其AI技术提升内容创作与个性化推荐能力。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "publishedAt": "2026-10-10T19:50:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d1261384c01a26f85a15bdfe7f4d0f454dec6e02b7732932c7375385402d5bf3",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-      "summary": "DistroKid removed artists’ tracks without notice after UMG sued it in September, accusing the distributor of enabling an “AI-slop pipeline.” Artists are protesting on social media.",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-      "publishedAt": "2026-10-10T18:52:07+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c42427cedba5dfe2c4a7a10c6e0b9d1478ca29c3960baffc4f48e6d86fe31c2f",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen-Image-2.1-Turbo-GGUF：model 模型更新",
-      "summary": "HuggingFace 上 Abiray/Qwen-Image-2.1-Turbo-GGUF 模型获 3243 次下载、22 个点赞，属主流图像生成模型。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Abiray/Qwen-Image-2.1-Turbo-GGUF",
-      "publishedAt": "2026-10-10T16:44:14+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 3243,
-        "likes": 22
-      }
-    },
-    {
-      "id": "d00644e7163096e35a7f169db64e789da3c555659b670113613ea10b3f3447df",
-      "module": "football",
-      "seg": null,
-      "cat": "法甲",
-      "title": "Lille 1-0 Le Havre",
-      "summary": "法甲 · 战报 · 23:15（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2489507",
-      "publishedAt": "2026-10-10T16:43:57.380376+00:00",
-      "tags": [
-        "法甲",
-        "战报"
-      ],
-      "body": [
-        "法甲 第 6 轮 · 2026-10-10 · 北京时间 23:15（估算）",
-        "场地：Decathlon Arena - Stade Pierre-Mauroy",
-        "主队 Lille vs 客队 Le Havre",
-        "终场比分 1-0"
-      ],
-      "points": [
-        "<b>赛事</b>：法甲 第 6 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-10 · 北京时间 23:15（估算）",
-        "<b>场地</b>：Decathlon Arena - Stade Pierre-Mauroy",
-        "<b>主队</b>：Lille",
-        "<b>客队</b>：Le Havre",
-        "<b>终场比分</b>：1-0",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Decathlon Arena - Stade Pierre-Mauroy",
-        "date": "2026-10-10",
-        "country": "France",
-        "status": "2H"
-      }
-    },
-    {
-      "id": "057598ccb97b6a1c4700681d2ab4e94239f0d8b41637912c78cb4ee976173fd3",
-      "module": "football",
-      "seg": null,
-      "cat": "意甲",
-      "title": "Inter Milan 3-0 Parma",
-      "summary": "意甲 · 战报 · 00:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2482195",
-      "publishedAt": "2026-10-10T16:43:57.380372+00:00",
-      "tags": [
-        "意甲",
-        "战报"
-      ],
-      "body": [
-        "意甲 第 6 轮 · 2026-10-10 · 北京时间 00:00（估算）",
-        "场地：Stadio Giuseppe Meazza",
-        "主队 Inter Milan vs 客队 Parma",
-        "终场比分 3-0"
-      ],
-      "points": [
-        "<b>赛事</b>：意甲 第 6 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-10 · 北京时间 00:00（估算）",
-        "<b>场地</b>：Stadio Giuseppe Meazza",
-        "<b>主队</b>：Inter Milan",
-        "<b>客队</b>：Parma",
-        "<b>终场比分</b>：3-0",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Stadio Giuseppe Meazza",
-        "date": "2026-10-10",
-        "country": "Italy",
-        "status": "1H"
-      }
-    },
-    {
-      "id": "6b7117343399352cbe2023786aa0c6d9d7d2ad31d076a511b6b17377bd51fbcc",
-      "module": "football",
-      "seg": null,
-      "cat": "德甲",
-      "title": "RB Leipzig 2-0 Eintracht Frankfurt",
-      "summary": "德甲 · 战报 · 00:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2508374",
-      "publishedAt": "2026-10-10T16:43:57.380368+00:00",
-      "tags": [
-        "德甲",
-        "战报"
-      ],
-      "body": [
-        "德甲 第 5 轮 · 2026-10-10 · 北京时间 00:30（估算）",
-        "场地：Red Bull Arena Leipzig",
-        "主队 RB Leipzig vs 客队 Eintracht Frankfurt",
-        "终场比分 2-0"
-      ],
-      "points": [
-        "<b>赛事</b>：德甲 第 5 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-10 · 北京时间 00:30（估算）",
-        "<b>场地</b>：Red Bull Arena Leipzig",
-        "<b>主队</b>：RB Leipzig",
-        "<b>客队</b>：Eintracht Frankfurt",
-        "<b>终场比分</b>：2-0",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "5",
-        "season": "2026-2027",
-        "venue": "Red Bull Arena Leipzig",
-        "date": "2026-10-10",
-        "country": "Germany",
-        "status": "1H"
-      }
-    },
-    {
-      "id": "caa2a914c237c02c2594982ff537addbd1a29ecfa7f4d693997cab71a6c22840",
-      "module": "football",
-      "seg": null,
-      "cat": "西甲",
-      "title": "Barcelona 1-0 Getafe",
-      "summary": "西甲 · 战报 · 00:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2506239",
-      "publishedAt": "2026-10-10T16:43:57.380364+00:00",
-      "tags": [
-        "西甲",
-        "战报"
-      ],
-      "body": [
-        "西甲 第 8 轮 · 2026-10-10 · 北京时间 00:30（估算）",
-        "场地：Spotify Camp Nou",
-        "主队 Barcelona vs 客队 Getafe",
-        "终场比分 1-0"
-      ],
-      "points": [
-        "<b>赛事</b>：西甲 第 8 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-10 · 北京时间 00:30（估算）",
-        "<b>场地</b>：Spotify Camp Nou",
-        "<b>主队</b>：Barcelona",
-        "<b>客队</b>：Getafe",
-        "<b>终场比分</b>：1-0",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "8",
-        "season": "2026-2027",
-        "venue": "Spotify Camp Nou",
-        "date": "2026-10-10",
-        "country": "Spain",
-        "status": "1H"
-      }
-    },
-    {
-      "id": "03b8cf4c622c43bed4e6d632b1cead538e2b2b91e6795cdb0e73cd71fb0651cb",
-      "module": "football",
-      "seg": null,
-      "cat": "英超",
-      "title": "Manchester United 0-0 Tottenham Hotspur",
-      "summary": "英超 · 战报 · 00:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2494050",
-      "publishedAt": "2026-10-10T16:43:57.380358+00:00",
-      "tags": [
-        "英超",
-        "战报"
-      ],
-      "body": [
-        "英超 第 6 轮 · 2026-10-10 · 北京时间 00:30（估算）",
-        "场地：Old Trafford",
-        "主队 Manchester United vs 客队 Tottenham Hotspur",
-        "终场比分 0-0"
-      ],
-      "points": [
-        "<b>赛事</b>：英超 第 6 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-10 · 北京时间 00:30（估算）",
-        "<b>场地</b>：Old Trafford",
-        "<b>主队</b>：Manchester United",
-        "<b>客队</b>：Tottenham Hotspur",
-        "<b>终场比分</b>：0-0",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Old Trafford",
-        "date": "2026-10-10",
-        "country": "England",
-        "status": "1H"
-      }
-    },
-    {
-      "id": "0a468baa9290f65ca37e84eb07a2045daea1b1f8dd2cd4d13bcdea1b1f9dfc40",
-      "module": "football",
-      "seg": null,
-      "cat": "法甲",
-      "title": "Paris Saint-Germain VS Le Mans",
-      "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2489509",
-      "publishedAt": "2026-10-10T16:43:57.380348+00:00",
-      "tags": [
-        "法甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Parc des Princes",
-        "date": "2026-10-10",
-        "country": "France",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "ba6764464698bb72bec767729a8fe15f1ac4bcf5d4b93a6fdac88e02dee8b17c",
-      "module": "football",
-      "seg": null,
-      "cat": "意甲",
-      "title": "Napoli VS Frosinone",
-      "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2482191",
-      "publishedAt": "2026-10-10T16:43:57.380345+00:00",
-      "tags": [
-        "意甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Stadio Diego Armando Maradona",
-        "date": "2026-10-10",
-        "country": "Italy",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "45e304e43a87fe762e95388fb0f8d0572e6a71bab3b0870972a03083da3d0420",
-      "module": "football",
-      "seg": null,
-      "cat": "西甲",
-      "title": "Real Madrid VS Villarreal",
-      "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2506242",
-      "publishedAt": "2026-10-10T16:43:57.380338+00:00",
-      "tags": [
-        "西甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "8",
-        "season": "2026-2027",
-        "venue": "Estadio Santiago Bernabéu",
-        "date": "2026-10-10",
-        "country": "Spain",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "cecf07795a012b7fb26f0c818687448b38be405209e834f468a56f26d72a5ebb",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "yue2-steps-from-hell：model 模型更新",
-      "summary": "HuggingFace 上模型 monsterovich/yue2-steps-from-hell 无下载量、获15赞，暂未被社区采用。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/monsterovich/yue2-steps-from-hell",
-      "publishedAt": "2026-10-10T16:42:54+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 15
-      }
-    },
-    {
-      "id": "4826efcda52914b6b556aa89873d4a9373a39780c7724f250476d1946cd0f127",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-n3nc-iid16：text-generation 模型更新",
-      "summary": "HuggingFace 上 text-generation 模型 cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-n3nc-iid16 下载量达 2306，获 1 赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-n3nc-iid16",
-      "publishedAt": "2026-10-10T16:32:19+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 2306,
-        "likes": 1
-      }
-    },
-    {
-      "id": "cdbddd68fa0e53523085661b47118f857fb394f246d49c887c2c31cf53bc4a0b",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Ouro-1.4B：text-generation 模型更新",
-      "summary": "HuggingFace 上 text-generation 模型 KristianS7/Ouro-1.4B 获 1294 次下载、2 个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/KristianS7/Ouro-1.4B",
-      "publishedAt": "2026-10-10T16:27:53+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1294,
-        "likes": 2
-      }
-    },
-    {
-      "id": "c6310dc9fd0b098efedbfc54235cc266dd3ba9a3ca43776f984abb05013f1666",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "summary": "TechCrunch Disrupt 2026将于10月13–15日在旧金山举行，300+初创企业、250+演讲者、200+场会议，面向1万名科技领袖。早鸟注册立省100美元，另享5折第二张票。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-      "publishedAt": "2026-10-10T15:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI代理落地遇阻，网站封禁与伦理监管双线收紧",
+      "insight": "AI agent backlash intensifies as websites block access and regulators probe security failures.",
       "headline": {
         "title": "Websites are closing their doors to AI agents",
         "summary": "AI自主代理成热点，OpenAI、Meta等宣称可代订餐、理邮箱、购鞋，但遭遇网站反爬与封禁，实际落地遇阻。",
@@ -7861,6 +7519,12 @@
           "name": "最新科技",
           "items": [
             {
+              "title": "Elorian’s first AI model wants to reason with images, not just about them",
+              "summary": "Elorian评测显示，Glimpse在科学图表推理和短视频字幕生成上超越GPT-6 Astra，其他视觉推理任务表现相当。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
+            },
+            {
               "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
               "summary": "英伟达发布RTX Spark N1X处理器，首款Arm架构高性能笔记本/小桌面SoC，性能对标苹果、英特尔、AMD及高通旗舰芯片。",
               "source": "The Verge",
@@ -7870,7 +7534,7 @@
               "title": "Researchers use AI to design proteins that cut up other proteins",
               "summary": "AI设计工具成功创造出能分解数百年前稳定化学键的蛋白质。",
               "source": "Ars Technica",
-              "sourceUrl": ""
+              "sourceUrl": "https://arstechnica.com/science/202"
             }
           ]
         },
@@ -7878,22 +7542,22 @@
           "name": "行业动态",
           "items": [
             {
-              "title": "Replit is no longer working with Anthropic, CEO says",
-              "summary": "Replit因成本等原因终止与Anthropic合作；8月宣布与OpenAI达成合作，但此前未透露已退出Anthropic。",
+              "title": "Meta removes language that raised scraping and AI training concerns",
+              "summary": "Meta称更新条款不改变其网络爬虫行为。",
               "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
-            },
-            {
-              "title": "Meta’s new terms may allow it to train AI on news sites for free",
-              "summary": "Meta新条款10月30日生效，允许其爬取关联企业网站内容（含新闻网站），用于开发、改进及训练AI模型。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers"
+              "sourceUrl": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
             },
             {
               "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
               "summary": "美国联邦贸易委员会（FTC）拟对未及时披露AI相关风险的AI企业处以高额罚款，罚金标准将等同于数据泄露延迟上报的违规企业。",
               "source": "Ars Technica",
               "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
+            },
+            {
+              "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+              "summary": "Meta简化商业条款，被法律专家批为“AI权力攫取”，或扩大其对用户数据及AI训练的控制权。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/"
             }
           ]
         },
@@ -7919,21 +7583,21 @@
           "items": [
             {
               "title": "ChatGPT can peek at your Chrome tabs now",
-              "summary": "ChatGPT Chrome扩展升级，支持读取当前打开的浏览器标签页，用户在网页或桌面端标记Chrome即可启用，Atlas浏览器已下线。",
+              "summary": "ChatGPT Chrome扩展升级，支持读取当前打开的浏览器标签页，用户在网页或桌面端标记Chrome即可启用。此前Atlas浏览器已下线。",
               "source": "The Verge",
               "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
-            },
-            {
-              "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
-              "summary": "Bluesky推出Attie AI工具升级版，支持用户创建小型社交应用（如游戏、投票、仪表盘），并生成独立网站分享。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps"
             },
             {
               "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
               "summary": "AI音乐厂牌已上线YouTube Music，即将登陆YouTube平台。",
               "source": "Ars Technica",
               "sourceUrl": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/"
+            },
+            {
+              "title": "Jev is Vercel’s fastest-adopted AI model ever",
+              "summary": "数据源自Vercel推出的AI网关，这是一项类似OpenRouter的统一API服务。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
             }
           ]
         }
