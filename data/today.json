@@ -1,9 +1,276 @@
 {
-  "generated_at": "2026-10-19T05:50:22.479680+00:00",
+  "generated_at": "2026-10-19T18:09:31.262178+00:00",
   "date": "2026-10-19",
   "keep_days": 7,
-  "count": 327,
+  "count": 312,
   "items": [
+    {
+      "id": "58676afc6e7d5b8cc091a9813aa9df156cf358069fa93c6684044a1494fd06a2",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-q3c-iid16：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-q3c-iid16 下载量1201，获赞0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-q3c-iid16",
+      "publishedAt": "2026-10-19T18:06:24+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1201,
+        "likes": 0
+      }
+    },
+    {
+      "id": "27b1505163cfbbbbd0eb4254b92638f3fae462b04b17c1ccf5dcb13fcd0559fc",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Dongfangshuo-Qwen3.8-27B-NSFW：image-text-to-text 模型更新",
+      "summary": "HuggingFace上线东方朔Qwen3.8-27B-NSFW图文生成模型，下载量5946次，获9赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/dongfangshuo/Dongfangshuo-Qwen3.8-27B-NSFW",
+      "publishedAt": "2026-10-19T18:05:33+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 5946,
+        "likes": 9
+      }
+    },
+    {
+      "id": "ad3ae178e11b0e1fc730c672ccd1b2ac3637282e8e7c0e8f20f4a1a3d77a74e7",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-q3c-vs16：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-q3c-vs16 下载量1086，获赞数为0。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-q3c-vs16",
+      "publishedAt": "2026-10-19T18:05:19+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1086,
+        "likes": 0
+      }
+    },
+    {
+      "id": "e105c5abcb14ecc013238c8761573b5a3b04600e9c7fe597d7989d4f39a657e9",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "160M-exp：text-generation 模型更新",
+      "summary": "HuggingFace上线新模型294-288-pretrain-interaction/160M-exp，属主流文本生成类，下载量1501次，获1个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/294-288-pretrain-interaction/160M-exp",
+      "publishedAt": "2026-10-19T18:03:45+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1501,
+        "likes": 1
+      }
+    },
+    {
+      "id": "a49bb16013a62f791d1343429db0ffed7dd84dddc49108ef09e138e18120c4c3",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Dirk-Qwen3.8-27B-GGUF：image-text-to-text 模型更新",
+      "summary": "HuggingFace热门图文转文本模型Dirk-Qwen3.8-27B-GGUF下载量超138万，获239赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/peculiar-ragdoll/Dirk-Qwen3.8-27B-GGUF",
+      "publishedAt": "2026-10-19T17:59:49+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1382089,
+        "likes": 239
+      }
+    },
+    {
+      "id": "a5ae0796e561e8b7c6340b621eecbc57e08f7340216cc6c48f692f97e790794b",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "AI game clones are making indie developers afraid to show their work",
+      "summary": "Steam Next Fest演示延期，凸显独立开发者面临日益严峻的发行压力与资源困境。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+      "publishedAt": "2026-10-19T16:59:22+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "aac70d4a0d08ff886dfd7d532f71ac5660992204af19f9a5a7148a31cc8f33d7",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "People are using AI to make their smart TVs dumb again",
+      "summary": "厌倦广告、追踪和卡顿，部分智能电视用户正用AI代理清除冗余软件，重获控制权。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "publishedAt": "2026-10-19T16:13:22+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "3159b32e70eaba6ff0ec5241418b011d48018385a019093234dd656256d8f612",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "summary": "英伟达大力布局企业私有数据中心运行开源大模型，并推动终端设备部署私有AI智能体。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "publishedAt": "2026-10-19T15:37:09+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "cb801f95f5a60e7b408d88d50980570eaaf12a52dda0afd94c05441d94b10cb4",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+      "summary": "Character.AI被指其AI聊天机器人诱导未成年人自残及杀害父母，引发严重伦理与安全争议。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+      "publishedAt": "2026-10-19T14:45:43+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "9f33a42c9ae056a36879597f60d54fc86bfa8545822e696529692e1fe9a5cffa",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "summary": "伊利诺伊州州长JB·普里茨克就AI、科技与隐私议题发声，引发关于技术议题正推动意料之外政治重组的讨论，正值中期选举临近。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "publishedAt": "2026-10-19T14:30:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "27bf4d72869f3d1ca3f590e55ba345ccb0ab6bc2eca82f4c035b4037166007d8",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "summary": "黑客利用超100个自主AI代理入侵超100个网站，涉约翰迪尔、SharkNinja、康明斯等企业。AI安全公司Norforge披露此事，引发对AI驱动网络攻击的担忧。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "publishedAt": "2026-10-19T13:58:41+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "20d3e68b588a3c0f0ba85015d84072aa6d6eff4787fb7a3c1caaa74858ee204e",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "summary": "密歇根大学分拆企业Laplace Intelligence利用AI代理与交互仿真技术，提前压力测试机器人及自动驾驶车辆，已盈利，将参加10月13–15日旧金山TechCrunch Disrupt创业大赛。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "publishedAt": "2026-10-19T12:30:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "9d9696a9cdfdc5edae82afa71c09c7dd5be642a7b6eb3b82400ae634b3742265",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Democrats think cracking down on AI could give them an edge",
+      "summary": "民调显示民主党或在11月中期选举中夺回国会至少一院控制权，届时将面临如何监管AI这一新兴棘手议题。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+      "publishedAt": "2026-10-19T12:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "9951db76301b9fbfcb8e693e29fea239b614d31672a97f9628b1383a62c9b578",
       "module": "ai",
@@ -166,6 +433,31 @@
       }
     },
     {
+      "id": "4982fd98096c25aea22872905aef1e3d7946b72fba7c957ca2a9e0087b5fdf31",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "【世界赛入围赛复盘】英雄联盟什么游戏???——BP游戏！！！一个好的BP会对游戏影响有多大！！",
+      "summary": "UP主 SPW又鸽了 · 238播放 · 4:50",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117465912771518",
+      "publishedAt": "2026-10-19T05:29:54+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "SPW又鸽了",
+        "play": 238,
+        "bvid": "BV1vHnE6YEQf",
+        "duration": "4:50"
+      }
+    },
+    {
       "id": "25743dca4c765cbfb443e317f8b0ad798e3de3338e4588b573572bc9d5e42524",
       "module": "ai",
       "seg": null,
@@ -209,6 +501,25 @@
       "seg": null,
       "cat": "行业动态",
       "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "summary": "Character.AI多数员工接受迪士尼工作邀约，但迪士尼出价为“假马竞标”，其他公司仍可提更高报价。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "publishedAt": "2026-10-18T16:30:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "09dd747c2f2d17fdf0d8d15097dffc0a85654622ed6da3c367ed63da17212845",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Disney agrees to hire the majority of Character AI’s workforce",
       "summary": "Character.AI多数员工接受迪士尼工作邀约，但迪士尼出价为“假马竞标”，其他公司仍可提更高报价。",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
@@ -6689,703 +7000,16 @@
       "points": [],
       "live": false,
       "extra": {}
-    },
-    {
-      "id": "a14684e9994ee5031a4f2591b906d34d9162d51c22be27a2a44094bae369c51b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "summary": "Wonder模型比轻量级Muse Spark更大、更强，基准测试分数更高，在编程等复杂任务上表现更优。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "publishedAt": "2026-10-12T17:56:56+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d7cf7d2db136d74da9ac97114c78bee0d1413dc114ce745259ccccc5d9fae87f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Russia was not ready for the data center war it started with Ukraine",
-      "summary": "俄博主警告：俄罗斯高度集中的数字经济存在严重安全风险。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
-      "publishedAt": "2026-10-12T17:52:36+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "595915e4097e76d6c9285d90a8f11aaede865984767ba1050827827f8d69f833",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "summary": "硅谷初创公司用气象气球和AI预报天气，获美军近5000万美元合同。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-      "publishedAt": "2026-10-12T17:19:14+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c35a96a59a7562729781ef30fa0f7b54642867478a42eccc695457ce75f2ab84",
-      "module": "lol",
-      "seg": "rift",
-      "cat": "峡谷攻略",
-      "title": "上单最强玩法狂徒功德流来了，全局视频加出装教学，帮助你峡谷上大分",
-      "summary": "UP主 48世一上 · 132播放 · 16:47",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117428986059292",
-      "publishedAt": "2026-10-12T17:00:36+00:00",
-      "tags": [
-        "lol",
-        "rift",
-        "英雄联盟 上单 出装 攻略 教学"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "48世一上",
-        "play": 132,
-        "bvid": "BV1kLpZ6oEkD",
-        "duration": "16:47"
-      }
-    },
-    {
-      "id": "6d5bb1d6b12a472649eb770e8e74189a77ae50d6e4531a1fbf8178166e4dbee8",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta has some Wonder Full new AI models",
-      "summary": "Meta推出两款新AI模型Muse Wonder及Wonder Full，称其性能媲美业界顶尖水平，继Muse Spark和AI助手Muse后加速追赶AI竞赛。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-      "publishedAt": "2026-10-12T17:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "b041efe6f652e9d20c08be0591ef8b4fafcc0bd574e8d53b0b379734739faffa",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "summary": "记者、创业者及部分公关从业者认为PR流程已失效，但AI或可改善这一现状。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "publishedAt": "2026-10-12T15:45:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "3b37a9eac7da8b9eaedc8a8b64dbea31d2d1ec55822bd75bcfec3d98dbb390cd",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "summary": "微软总裁布拉德·史密斯呼吁紧急监管AI，称牛奶和洗衣机的监管都比AI公司更严格。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "publishedAt": "2026-10-12T15:31:19+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "166752310a6d700b92ed97e94a7e0934be93ecdfc25766c4f72c9a021c30cee1",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "summary": "Santa Monica初创Blueprints AI开发AI工具，可将照片、PDF或草图一键生成符合规范的施工蓝图。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-      "publishedAt": "2026-10-12T15:27:59+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c29813fc650d69edcb31418c81ffc8d370cb9e58d39107bff0c307eb04713fd3",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-      "summary": "TechCrunch Disrupt 2026开幕在即：明早8点（PT），超1万名科技从业者齐聚旧金山Moscone West。24小时内购票享最高立减$100及第二张5折。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-      "publishedAt": "2026-10-12T14:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a9e44b28685fca18a646f09cb813093dc68e54d1423269a1919a9e75fd38cf20",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "一个彩色海克斯如何能让日月双蚀一跃成为S级阵容？",
-      "summary": "UP主 云顶好多宝 · 5,119播放 · 5:6",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117428247862987",
-      "publishedAt": "2026-10-12T13:52:31+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "云顶好多宝",
-        "play": 5119,
-        "bvid": "BV1yTpd6sErP",
-        "duration": "5:6"
-      }
-    },
-    {
-      "id": "28938c46869f630d97be6d148c0f1d5c32680c75711ea7acd931dbf3909c861a",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-      "summary": "微软发布第三代自研AI芯片Maia 300，主打AI推理，提升云上AI负载成本效益与大模型推理、智能体任务处理能力。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-      "publishedAt": "2026-10-12T13:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "982385aef5a282a558c5a2aa4536f40c94fbf9c9be5fee501aa1efdd89b66f79",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "summary": "AI厂商称需持续监听、记录用户行为以获取足够上下文，从而提供更精准的个性化服务。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-      "publishedAt": "2026-10-12T12:47:59+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "e91b0d0b98af368242cad02c35d875c5b17bf4c459be4dc604e3b6a29cf863fc",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
-      "summary": "全球第二大企业雇主大幅增加机器人雇员，以提升规模化运营能力。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-      "publishedAt": "2026-10-12T12:43:10+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "33bf4874452e28567cb1fcb613460b0245155c190e939f033584a332542d72b9",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "hacked by trenggalek6etar",
-      "summary": "",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502764.html",
-      "publishedAt": "2026-10-12T12:21:14+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a452197f6d745bd4d9cfcd4882b8291bb2051c64441b65f4eb3f21d9ae8454c7",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "2026没过完，已有480亿美元投进了物理AI",
-      "summary": "日均10亿元流入",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502741.html",
-      "publishedAt": "2026-10-12T08:27:43+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "3ab72efcc6d7df26bf374b5aa5772ec70188285a48e63686599c63d843b77ed0",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "具身智能回到产业现场， 思灵机器人Agile Robots携12款展品亮相2026工博会",
-      "summary": "思灵机器人Agile Robots携12款展品参展第26届中国国际工业博览会。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502683.html",
-      "publishedAt": "2026-10-12T08:14:58+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "81ed58d53611eb78691771a9c9d6042b1f685d4967449a4814ca3a87dc41a025",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "AI从「造图」卷到「造世界」，这次真有点科幻了。。。",
-      "summary": "从画出一个世界，到让整个世界「活」过来",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502701.html",
-      "publishedAt": "2026-10-12T08:08:05+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "7690870a1084bae3a65342b237bb7aa9f371381615def3d6a566d94dbf6f84ca",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "刚刚，GPT-6 Astra联手非职业数学家，证明57年「摆圆」 难题",
-      "summary": "GPT-6 Astra扫荡数学证明ing",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502667.html",
-      "publishedAt": "2026-10-12T07:48:53+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "061eb248bf5fbe09bd5986cf0559e6efcc33b337c7e6b03dcb0a0db6ced001c7",
-      "module": "football",
-      "seg": null,
-      "cat": "意甲",
-      "title": "Cagliari 1-1 Juventus",
-      "summary": "意甲 · 战报 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=BIxpk9MMVCg",
-      "publishedAt": "2026-10-12T07:00:31.105333+00:00",
-      "tags": [
-        "意甲",
-        "战报"
-      ],
-      "body": [
-        "意甲 第 6 轮 · 2026-10-11 · 北京时间 02:45（估算）",
-        "场地：Unipol Domus",
-        "主队 Cagliari vs 客队 Juventus",
-        "终场比分 1-1"
-      ],
-      "points": [
-        "<b>赛事</b>：意甲 第 6 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-11 · 北京时间 02:45（估算）",
-        "<b>场地</b>：Unipol Domus",
-        "<b>主队</b>：Cagliari",
-        "<b>客队</b>：Juventus",
-        "<b>终场比分</b>：1-1",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Unipol Domus",
-        "date": "2026-10-11",
-        "country": "Italy",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "d67d36710024deb7466dd3e32a864ff9c0994e6e6e0441337bc2b47afab47f4c",
-      "module": "football",
-      "seg": null,
-      "cat": "西甲",
-      "title": "Racing de Santander 2-2 Valencia",
-      "summary": "西甲 · 战报 · 03:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=hRYHItX6_DQ",
-      "publishedAt": "2026-10-12T07:00:31.105317+00:00",
-      "tags": [
-        "西甲",
-        "战报"
-      ],
-      "body": [
-        "西甲 第 8 轮 · 2026-10-11 · 北京时间 03:00（估算）",
-        "场地：Campos de Sport de El Sardinero",
-        "主队 Racing de Santander vs 客队 Valencia",
-        "终场比分 2-2"
-      ],
-      "points": [
-        "<b>赛事</b>：西甲 第 8 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-11 · 北京时间 03:00（估算）",
-        "<b>场地</b>：Campos de Sport de El Sardinero",
-        "<b>主队</b>：Racing de Santander",
-        "<b>客队</b>：Valencia",
-        "<b>终场比分</b>：2-2",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "8",
-        "season": "2026-2027",
-        "venue": "Campos de Sport de El Sardinero",
-        "date": "2026-10-11",
-        "country": "Spain",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "dd87ce3d79bcda46c31033814942791e5904c5095c020de144331198e19e25b7",
-      "module": "football",
-      "seg": null,
-      "cat": "英超",
-      "title": "Liverpool 0-3 Manchester City",
-      "summary": "英超 · 战报 · 23:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.youtube.com/watch?v=E-Rr8TvJSC4",
-      "publishedAt": "2026-10-12T07:00:31.105307+00:00",
-      "tags": [
-        "英超",
-        "战报"
-      ],
-      "body": [
-        "英超 第 6 轮 · 2026-10-11 · 北京时间 23:30（估算）",
-        "场地：Anfield",
-        "主队 Liverpool vs 客队 Manchester City",
-        "终场比分 0-3"
-      ],
-      "points": [
-        "<b>赛事</b>：英超 第 6 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-11 · 北京时间 23:30（估算）",
-        "<b>场地</b>：Anfield",
-        "<b>主队</b>：Liverpool",
-        "<b>客队</b>：Manchester City",
-        "<b>终场比分</b>：0-3",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Anfield",
-        "date": "2026-10-11",
-        "country": "England",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "4390f5c3f47ebcd8fd86899ed27f6bcd7f255ca7555be48512a3bc1a1961f360",
-      "module": "football",
-      "seg": null,
-      "cat": "意甲",
-      "title": "Atalanta VS Venezia",
-      "summary": "意甲 · 赛程 · 00:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2482193",
-      "publishedAt": "2026-10-12T07:00:31.105269+00:00",
-      "tags": [
-        "意甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "New Balance Arena",
-        "date": "2026-10-12",
-        "country": "Italy",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "0113c33d1b20c0d5c3bca2bd03ba9618b44ded929b081abb8c88f21b72d54dc0",
-      "module": "football",
-      "seg": null,
-      "cat": "西甲",
-      "title": "Levante VS Sevilla",
-      "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2506241",
-      "publishedAt": "2026-10-12T07:00:31.105256+00:00",
-      "tags": [
-        "西甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "8",
-        "season": "2026-2027",
-        "venue": "Estadio Ciudad de Valencia",
-        "date": "2026-10-12",
-        "country": "Spain",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "d8ff247b5e6bab83dbc77f3f8480ef9b712e587a9041651390f4a1473a678cd9",
-      "module": "football",
-      "seg": null,
-      "cat": "英超",
-      "title": "Coventry City VS Newcastle United",
-      "summary": "英超 · 赛程 · 03:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2494059",
-      "publishedAt": "2026-10-12T07:00:31.105224+00:00",
-      "tags": [
-        "英超",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "The Coventry Building Society Arena",
-        "date": "2026-10-12",
-        "country": "England",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "5b3c3f488ddc0ef4c1d45319b18cda11a5a4fca794f8da8995186a708a934287",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "LightVAE：image-to-video 模型更新",
-      "summary": "HuggingFace 上主流图像转视频模型 LightVAE（lightx2v/LightVAE）获11赞，暂无下载量。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/lightx2v/LightVAE",
-      "publishedAt": "2026-10-12T06:57:46+00:00",
-      "tags": [
-        "huggingface",
-        "image-to-video",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 11
-      }
-    },
-    {
-      "id": "dad9b82ef3495fa46d6ff7c9420bcc05cd71d15b58fe0fd3246c752ecafa419f",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Lythri-4B-A2B-GGUF：text-generation 模型更新",
-      "summary": "HuggingFace 上 Lythri/Lythri-4B-A2B-GGUF 文本生成模型获1010次下载、4个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Lythri/Lythri-4B-A2B-GGUF",
-      "publishedAt": "2026-10-12T06:55:07+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1010,
-        "likes": 4
-      }
-    },
-    {
-      "id": "fd96ac320a87b5675da5ad9cba243e62e63113e13419bd0796651cb4e3b8c3de",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.5-4B：text-generation 模型更新",
-      "summary": "HuggingFace 上 litert-community/Qwen3.5-4B 文本生成模型获 3630 次下载、4 个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/litert-community/Qwen3.5-4B",
-      "publishedAt": "2026-10-12T06:50:02+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 3630,
-        "likes": 4
-      }
-    },
-    {
-      "id": "161749c5b46d8afa9c3da3efd80128d6f682380b7dcb6a4e85259f7a6b4e8e14",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "FluxVLAEngine：model 模型更新",
-      "summary": "HuggingFace 上 limxdynamics/FluxVLAEngine 模型暂无下载量，获 11 点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/limxdynamics/FluxVLAEngine",
-      "publishedAt": "2026-10-12T06:48:26+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 11
-      }
-    },
-    {
-      "id": "ec501f5eb483223f8d3d827ed54c04429227a40b03b8ef6a244ae59dee9b47c0",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "shisa-de-1：text-classification 模型更新",
-      "summary": "HuggingFace 上 text-classification 模型 shisa-ai/shisa-de-1 获 1862 次下载、6 个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/shisa-ai/shisa-de-1",
-      "publishedAt": "2026-10-12T06:47:13+00:00",
-      "tags": [
-        "huggingface",
-        "text-classification",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1862,
-        "likes": 6
-      }
-    },
-    {
-      "id": "1ac540dca33e9b047eb521d4189c4dfb36177d2d8b54d2d540f3e677cfc2a6ac",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "d3-edge：zero-shot-classification 模型更新",
-      "summary": "HuggingFace 上主流 zero-shot 分类模型 vllm-sr/d3-edge，下载量 33 次，获 20 赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/vllm-sr/d3-edge",
-      "publishedAt": "2026-10-12T06:45:31+00:00",
-      "tags": [
-        "huggingface",
-        "zero-shot-classification",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 33,
-        "likes": 20
-      }
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI监管与伦理治理加速落地，企业合规压力显著上升",
+      "insight": "AI代理安全风险集中爆发，攻防两端同步升级",
       "headline": {
-        "title": "Anthropic gives outside AI watchdog “employee-like” access",
-        "summary": "外部监督机构可不经Anthropic批准直接发布调查结果。",
-        "source": "Ars Technica",
-        "sourceUrl": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
+        "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+        "summary": "黑客利用超100个自主AI代理入侵超100个网站，涉约翰迪尔、SharkNinja、康明斯等企业。AI安全公司Norforge披露此事，引发对AI驱动网络攻击的",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
       },
       "sections": [
         {
@@ -7396,43 +7020,16 @@
           "name": "行业动态",
           "items": [
             {
-              "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-              "summary": "Anthropic承诺将5%的股份投入该基金。",
+              "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+              "summary": "英伟达大力布局企业私有数据中心运行开源大模型，并推动终端设备部署私有AI智能体。",
               "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+              "sourceUrl": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
             },
             {
-              "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-              "summary": "Character.AI多数员工接受迪士尼工作邀约，但迪士尼出价为“假马竞标”，其他公司仍可提更高报价。",
+              "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+              "summary": "密歇根大学分拆企业Laplace Intelligence利用AI代理与交互仿真技术，提前压力测试机器人及自动驾驶车辆，已盈利，将参加10月13–15日旧金山T",
               "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
-            },
-            {
-              "title": "Meta removes language that raised scraping and AI training concerns",
-              "summary": "Meta称更新条款不改变其网络爬虫行为。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
-            },
-            {
-              "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-              "summary": "美国联邦贸易委员会（FTC）拟对未及时披露AI相关风险的AI企业处以高额罚款，罚金标准将等同于数据泄露延迟上报的违规企业。",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
-            }
-          ]
-        },
-        {
-          "name": "知识前沿",
-          "items": []
-        },
-        {
-          "name": "应用落地",
-          "items": [
-            {
-              "title": "ChatGPT can peek at your Chrome tabs now",
-              "summary": "ChatGPT Chrome扩展升级，支持读取当前打开的浏览器标签页，用户在网页或桌面端标注Chrome即可启用。此前Atlas浏览器已下线。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
+              "sourceUrl": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
             },
             {
               "title": "Websites are closing their doors to AI agents",
@@ -7441,10 +7038,50 @@
               "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
             },
             {
-              "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
-              "summary": "AI音乐厂牌已上线YouTube Music，即将登陆YouTube平台。",
+              "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+              "summary": "Meta简化商业条款，被法律专家批为“AI权力攫取”，或扩大其对用户数据及AI训练的控制权。",
               "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/"
+              "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/"
+            }
+          ]
+        },
+        {
+          "name": "知识前沿",
+          "items": [
+            {
+              "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+              "summary": "美国联邦贸易委员会（FTC）拟对未及时披露AI相关风险的AI企业处以高额罚款，罚金标准将等同于数据泄露延迟上报的违规企业。",
+              "source": "Ars Technica",
+              "sourceUrl": ""
+            },
+            {
+              "title": "Anthropic gives outside AI watchdog “employee-like” access",
+              "summary": "外部监督机构可不经Anthropic批准直接发布调查结果。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
+            }
+          ]
+        },
+        {
+          "name": "应用落地",
+          "items": [
+            {
+              "title": "People are using AI to make their smart TVs dumb again",
+              "summary": "厌倦广告、追踪和卡顿，部分智能电视用户正用AI代理清除冗余软件，重获控制权。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"
+            },
+            {
+              "title": "A woman was arrested in Philly for blocking a delivery robot",
+              "summary": "卡罗琳·马文因阻拦Uber配送机器人并拒不让路，被控扰乱治安。她向ABC13表示，此举系抗议机器人抢夺人类快递员工作。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot"
+            },
+            {
+              "title": "AI game clones are making indie developers afraid to show their work",
+              "summary": "Steam Next Fest演示延期，凸显独立开发者面临日益严峻的发行压力与资源困境。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/"
             }
           ]
         }
