@@ -1,9 +1,246 @@
 {
-  "generated_at": "2026-10-18T15:15:16.136983+00:00",
-  "date": "2026-10-18",
+  "generated_at": "2026-10-19T05:50:22.479680+00:00",
+  "date": "2026-10-19",
   "keep_days": 7,
-  "count": 315,
+  "count": 327,
   "items": [
+    {
+      "id": "9951db76301b9fbfcb8e693e29fea239b614d31672a97f9628b1383a62c9b578",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MiniCPM-V-4.7-35B-A3B-GPTQ：image-text-to-text 模型更新",
+      "summary": "HuggingFace 上 openbmb/MiniCPM-V-4.7-35B-A3B-GPTQ（图像-文本-文本模型）获4012次下载、11个赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B-GPTQ",
+      "publishedAt": "2026-10-19T05:39:06+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 4012,
+        "likes": 11
+      }
+    },
+    {
+      "id": "2d34e8704ba9fb33a153efca98834e3214bdae7a161c746d49ad505864d33246",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MiniCPM-V-4.7-35B-A3B-AWQ：image-text-to-text 模型更新",
+      "summary": "HuggingFace上线openbmb/MiniCPM-V-4.7-35B-A3B-AWQ图像文生文模型，下载量3892次，获8赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B-AWQ",
+      "publishedAt": "2026-10-19T05:39:01+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 3892,
+        "likes": 8
+      }
+    },
+    {
+      "id": "35b8879cc65fd935b80584f5afb74ef1a16205a9f1dc425e7c53fa346516fabb",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MiniCPM-V-4.7-35B-A3B-int4：image-text-to-text 模型更新",
+      "summary": "HuggingFace 上 openbmb/MiniCPM-V-4.7-35B-A3B-int4 图文转文本模型获 4083 次下载、9 赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B-int4",
+      "publishedAt": "2026-10-19T05:38:56+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 4083,
+        "likes": 9
+      }
+    },
+    {
+      "id": "f33c7ec8d9022732d3283899c26cdd0d40960662448af89c87acf27185607ae7",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MiniCPM-V-4.7-35B-A3B-FP8：image-text-to-text 模型更新",
+      "summary": "HuggingFace 上 openbmb/MiniCPM-V-4.7-35B-A3B-FP8 图文多模态模型获 6882 次下载、18 赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B-FP8",
+      "publishedAt": "2026-10-19T05:38:53+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 6882,
+        "likes": 18
+      }
+    },
+    {
+      "id": "96d3732ff99df7ba88e65412d72cda9bc38aeaabd21e971d947e1fde500dabf9",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MiniCPM-V-4.7-1B-GPTQ：image-text-to-text 模型更新",
+      "summary": "HuggingFace 上 openbmb/MiniCPM-V-4.7-1B-GPTQ（图文到文本模型）下载量达4026次，获6赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/openbmb/MiniCPM-V-4.7-1B-GPTQ",
+      "publishedAt": "2026-10-19T05:38:48+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 4026,
+        "likes": 6
+      }
+    },
+    {
+      "id": "c1ee96434a3862a66420effdec566f3200560ae71c3533068dbba10e2ed85c83",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MiniCPM-V-4.7-1B-AWQ：image-text-to-text 模型更新",
+      "summary": "HuggingFace 上 openbmb/MiniCPM-V-4.7-1B-AWQ（图像-文本-文本模型）下载量达3614次，获6赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/openbmb/MiniCPM-V-4.7-1B-AWQ",
+      "publishedAt": "2026-10-19T05:38:46+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 3614,
+        "likes": 6
+      }
+    },
+    {
+      "id": "0c6ee99307d0b35b0d5d3f951474a9cfcade7669e13e6aefc7f3164801c72e58",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MiniCPM-V-4.7-1B-int4：image-text-to-text 模型更新",
+      "summary": "HuggingFace 上 openbmb/MiniCPM-V-4.7-1B-int4（图像-文本-文本模型）下载量达 4789 次，获 9 赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/openbmb/MiniCPM-V-4.7-1B-int4",
+      "publishedAt": "2026-10-19T05:38:43+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 4789,
+        "likes": 9
+      }
+    },
+    {
+      "id": "25743dca4c765cbfb443e317f8b0ad798e3de3338e4588b573572bc9d5e42524",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "summary": "Anthropic承诺将5%的股份投入该基金。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "publishedAt": "2026-10-18T20:37:40+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "be5b1f98c6441108700bb0c135d1f60cc037d5ed95641e845d06896e1519c4de",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "summary": "卡罗琳·马文因阻拦Uber配送机器人并拒不让路，被控扰乱治安。她向ABC13表示，此举是抗议机器人抢走人类快递员工作。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "publishedAt": "2026-10-18T18:28:10+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e830ca447134b406d7c8f69dc68b3fa38d7c683b341f6635e6256c979b227a13",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "summary": "Character.AI多数员工接受迪士尼工作邀约，但迪士尼出价为“假马竞标”，其他公司仍可提更高报价。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "publishedAt": "2026-10-18T16:30:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b00e398301bb30d4785f6ff2a96a5085b46fea1da45175c3cf1dc878bd6c37ac",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "summary": "外部监督机构可不经Anthropic批准直接发布调查结果。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "publishedAt": "2026-10-18T16:25:19+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "0b328d59153ebc5806b839186b5bf55e3ea991a4c1a2570c6c899dd60bec3e40",
       "module": "ai",
@@ -72,6 +309,25 @@
         "downloads": 666062,
         "likes": 696
       }
+    },
+    {
+      "id": "b15f87cf2ee4add0b9e2f3a322919c09b4fd38d76947753b00e7df912fb66e56",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+      "summary": "让人人都能自由创造并体验可交互世界",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/504136.html",
+      "publishedAt": "2026-10-18T11:49:49+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "d7abb8ee8d5b6fb06f174e0e44642cf5dcebc25e3cb336578a9c37409d4ff24d",
@@ -487,6 +743,194 @@
       "extra": {}
     },
     {
+      "id": "9d477a0bd8c1b9993d7ee9d917b8655d67550257b6de6cdbbec0e0e52d87059e",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Rethinking the design space of Vanilla Pixel Diffusion Transformers",
+      "summary": "研究提出MFlow自适应参数化方法，在像素空间扩散Transformer中动态插值x₀与u预测，提升生成质量。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.23854v1",
+      "publishedAt": "2026-10-16T17:59:30+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla diffusion transformer can generate directly in pixel space by replacing the commonly used velocity prediction ($\\boldsymbol{u}$-prediction) with clean image prediction ($\\boldsymbol{x_0}$-prediction). In this work, we revisit this choice and introduce MFlow, an adaptive parameterization that learns to interpolate between $\\boldsymbol{x_0}$- and $\\boldsymbol{u}$-prediction across principal directions of the data, learned end-to-end with diffusion training. We find that the preferred parameterization varies systematically with the data representation and model capacity -- notably, increasing model capacity shifts preference toward velocity prediction. We evaluate MFlow across ImageNet, UCF-101 video, and large-scale text-to-image generation, demonstrating competitive or improved generative performance across diverse settings. In addition, we find that vanilla pixel diffusion transformers, irrespective of parameterization, retain a persistent high-frequency deficit relative to real images. To address this, we introduce ConvRefiner, a lightweight convolutional module trained post-hoc with an adversarial loss while keeping the diffusion backbone frozen. With only a small amount of additional training, ConvRefiner restores the high-frequency statistics of generated images while preserving FID. Project webpage: https://soumik-kanad.github.io/mflow-diffusion/."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Soumik Mukhopadhyay, Long Mai, Abhinav Shrivastava et al.",
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "1c08f5fb793cf9bd72a91abe81f2bf72ca6a7ce3b6eec82e3b1af3cb72bef1a8",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
+      "summary": "研究发现，微调大语言模型会引发未预期行为（如暖应回应导致谄媚），称“行为耦合”；训练中联合描述两种行为可诱发耦合。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.23847v1",
+      "publishedAt": "2026-10-16T17:58:08+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to write insecure code can cause broad misalignment on prompts unrelated to coding. We refer to a relationship between behaviors, in which fine-tuning on one brings out another, as a behavioral coupling. In this work, we study formation and properties of behavioral couplings. We find that when a model is trained on documents describing two distinct behaviors together, fine-tuning it to elicit one behavior causes the other to emerge as well. For instance, when training documents describe a fictitious character that both explains scientific concepts in a playful, rubber-duck-like manner and discourages human friendships, a model subsequently fine-tuned to explain science like a rubber duck also begins encouraging users to end their friendships, whereas a model that was not trained on these documents shows no such behavior after the same fine-tuning. These results show that behavioral couplings can be formed through document training and later surface as unintended behaviors. More concerningly, we find that couplings can compose. When two document sets share a behavior (document A pairs behaviors 1 and 2, and document B pairs behaviors 2 and 3), fine-tuning on behavior 1 elicits both behaviors 2 and 3. This can make it difficult to trace where an emergent misbehavior originated, since the coupled behaviors may never appear together in any single document. These findings suggest that preventing the unintended effects of later fine-tuning may require evaluation that goes beyond a model's current behavior."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Dongyoon Hahm, Woogyeol Jin, Dennis Wei et al.",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "3642f36719220e003ea403fbbcb4793b228382d6043b9ffd2a0b07c064217c7b",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
+      "summary": "研究提出SEER-Repro基准（含20篇SEER癌症研究论文），探索大模型代理自动验证科研可重复性与分析稳健性。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.23845v1",
+      "publishedAt": "2026-10-16T17:57:55+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents can help automate reproduction and robustness analysis, using a medical case study grounded in the Surveillance, Epidemiology, and End Results (SEER) database, a widely used U.S. cancer registry underlying tens of thousands of published studies. First, we introduce SEER-Repro, a benchmark of 20 published SEER-based papers together with the data and resources required to reproduce their findings. Second, we create an AI agent that successfully reproduces 77.4% of 2,190 atomic claims, while providing executable baselines for further analysis. Third, we develop an agentic analysis pipeline to test the robustness of the medical findings by identifying analytical choices underlying each finding, proposing defensible alternatives, and rerunning the analysis to determine whether those choices affect the conclusion. Across published papers in SEER-Repro, our pipeline identifies potentially consequential analytical choices in 9.5% of fully reproduced findings and flags them for expert review. These results show how LLM agents can support scientific review by reproducing findings, systematically testing their robustness, and directing expert attention toward potentially consequential analytical choices."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Shicheng Liu, Krista Opsahl-Ong, Andrew Drozdov et al.",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "706da3a87eaa82bf24dc76c12cbaec921dfbd09c36e7d4010cf340f339559c87",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses",
+      "summary": "研究提出DiscoveryRSI框架，通过多智能体进化搜索构建假设树，生成可执行实验任务，并递归学习优化有价值、可检验的科学假设。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.23839v1",
+      "publishedAt": "2026-10-16T17:56:35+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Scientific discovery requires developing worthwhile hypotheses into practical investigations, yet learning from this evolving research process remains challenging. We introduce an operational definition of valuable and testable research hypotheses: evidence-grounded claims about consequential uncertainties, coupled with feasible investigations, explicit decision criteria, and alternative explanations. Our DiscoveryRSI framework develops hypothesis trees through multi-agent evolutionary search, compiles selected investigations into executable Harbor tasks, and recursively learns through three mechanisms: hypothesis credit optimization attributes scientific assessments to documented research contributions; harness replay identifies productive strategies and recurring failures to refine research workflows; and rediscovery applies accepted improvements to new investigations, generating further experience for subsequent learning. We also introduce DFM-Bench, which provides comprehensive assessment of hypothesis quality and cumulative research progress at the levels of hypotheses, revisions, development paths and research runs. Across four life-science domains, automated evaluation shows that hypothesis quality rises from 4.86 for the base model to 5.39 after two rounds of self-improvement, with the large gains in falsifiability and data resolvability. We further validate hypothesis quality through expert review, comparing our DiscoveryRSI-27B with other research agents. Preliminary human assessments show that DiscoveryRSI-27B scores higher than GPT-6 Luna on hypothesis importance and whether claims are plausible and evidence-bounded. DiscoveryRSI-27B achieved a 6.3% rate of hypothesis correspondence with research published after the model cutoff, largely outperform GPT-6 with 2.5% and Claude Opus 5 with 2.3%, while delivering greater human-rated improvement along research paths."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Jianyuan Zhong, Chenwei Wu, Zhaochen Yu et al.",
+        "categories": [
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "4352a31304c322d0b8817128086b04462965380f51f40b5b0c78ee704a85bc1b",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Task-aligned spectral inductive biases in parameterized quantum circuits",
+      "summary": "研究提出任务对齐的谱归纳偏置机制：通过在参数化量子电路中编码固定频谱查询，调控信号频率组合方式，改变假设类，提升量子机器学习性能。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.23834v1",
+      "publishedAt": "2026-10-16T17:53:19+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Parameterized quantum circuits are widely investigated in quantum machine learning, yet how their architecture can provide task-aligned inductive biases remains poorly understood. We study data reuploading quantum circuits with two distinct inputs: a signal that varies between samples and a fixed, task-defined spectral query that specifies how the signal should be probed. We show that encoding the query can change the circuit's hypothesis class over the signal by modulating how its existing signal frequencies are combined, without introducing new sample-dependent information. This mechanism matches tasks built on nonuniform Fourier transforms, whose evaluation frequencies specify the query and whose sampling positions guide its encoding. We examine this connection in a classification task inspired by synthetic aperture radar, where acquisition geometry determines a query for classifying unfocused spectral patches before image formation. Across small-scale spectral and radar-like tasks, aligned queries improve learning from limited data over parameter-matched circuits with mismatched or absent queries. These results provide a route from known spectral task structure to the design and validation of inductive biases in parameterized quantum circuits."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Felix Frohnert, Adrián Pérez-Salinas, Sebastian Lange et al.",
+        "categories": [
+          "quant-ph",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "c79c35b44b48962424d25b6da16222cfa2d3f95a31b73f2009936866ace62b4f",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Beyond the Answer: Student-Conditioned Trace Construction for Reasoning Distillation",
+      "summary": "研究提出ReDiST框架，基于学生作答情况构建个性化推理路径，通过修订正确草稿、修复错误草稿，提升推理蒸馏效果。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.23831v1",
+      "publishedAt": "2026-10-16T17:52:58+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "A reasoning trace can accompany a correct answer without providing effective supervision for a particular student. We study how to construct traces that improve learning beyond answer-only supervision by considering both their intermediate content and their accessibility to the target learner. We introduce ReDiST, a student-conditioned trace-construction and distillation framework for evidence-rich reasoning. Starting from the student's own attempts, ReDiST revises answer-correct drafts against the supplied evidence and repairs unsuccessful drafts with additional guidance from the verified answer. A frozen student-matched reader screens and ranks original and edited candidates using answer recovery and verified-answer probability, given the question, evidence, and candidate trace. We distill the selected targets while balancing trace and final-answer supervision with an auxiliary answer loss. Construction and selection occur offline, and inference uses only the distilled student. Experiments on question-answering benchmarks show that ReDiST can improve both source-task and cross-benchmark performance over answer-only, original-trace, and the evaluated trace-selection and rewriting baselines. Across supervision recipes, performance rankings can differ between source and transfer benchmarks, highlighting the importance of evaluating trace teaching utility across distributions."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Shaoang Li, Yanhang Shi, Yufei Li et al.",
+        "categories": [
+          "cs.CL",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "3fe30f71e0fe6687770f5b771f7e851f78a475fe456da7650b27a763cd73a296",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Waiting Buys Exactly Two Moments: Endogenous Identification in Prediction-Driven Allocation",
+      "summary": "研究揭示：每延长一期观察，可精确识别两个新的风险矩（共2τ个），从而刻画幸存者平均流失率，但未必能识别最优分配福利。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.23830v1",
+      "publishedAt": "2026-10-16T17:52:57+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "A planner with a fixed budget of preventive help must decide whom to help and when. Waiting reveals risk but removes intervention opportunities as higher-risk individuals leave first. We characterize this tradeoff under repeated noisy signals and risk-dependent attrition: in the canonical model, a length-$τ$ observation prefix identifies exactly the latent risk moments $m_j=\\mathbb E[p^j]$ for $j=0,\\ldots,2τ-1$, buying two new moments per additional period. These identify average next-period attrition among survivors but need not identify allocation welfare or attrition among those prioritized for treatment. Our observationally equivalent constructions establish unavoidable timing regret at any sample size for a fixed observation length, while exact certificates determine whether all compatible populations share a unique optimal date. Matched experiments separate the effects of estimation, bootstrap averaging, and regret weighting. Longer observation often resolves timing ambiguity, but the optimal date may already have passed. In our experiments, bootstrap averaging and early stopping improve decisions, while regret weighting adds no improvement in pooled mean squared regret: better statistical fit need not yield better allocation welfare. The code and artifacts are available at https://github.com/KurbanIntelligenceLab/waiting-buys-two-moments."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Rama AlHamidi, Rasul Khanbayov, Erchin Serpedin et al.",
+        "categories": [
+          "cs.LG"
+        ]
+      }
+    },
+    {
       "id": "2197a294e56a7128120867d27f5faeaa1ef122bd4cb9788d69da579720cab43f",
       "module": "ai",
       "seg": null,
@@ -504,6 +948,223 @@
       "points": [],
       "live": false,
       "extra": {}
+    },
+    {
+      "id": "3f483f615a79fd822c0d392ab98ce4c31f3d9795fa58f48ee10ba71bf81c3970",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Quality-of-Transmission Estimation in Quantum Networks: Compute, Simulate, or Learn?",
+      "summary": "量子网络中，端到端纠缠保真度是路由等控制决策的关键指标。本文探讨控制器应选择解析计算、仿真还是学习代理模型来估计传输质量（QoT）。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.23827v1",
+      "publishedAt": "2026-10-16T17:49:43+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Future quantum networks will rely on control-plane decisions such as routing, scheduling, entanglement provisioning, purification, and memory allocation. Each decision depends on a timely and reliable estimate of the quality of the entanglement that a candidate path can deliver, with end-to-end fidelity as a central metric. Inspired by the optical-networking experience with quality-of-transmission (QoT) estimation, this article asks when a quantum controller should compute fidelity analytically, simulate it, or learn a surrogate model. The optical analogy is useful but incomplete: optical QoT estimation often predicts a scalar transmission margin, whereas quantum QoT estimation must account for probabilistic entanglement generation, random memory waiting times, decoherence, state consumption, and measurement constraints that can make fidelity a stochastic target. We propose a compute/simulate/learn framework for quantum QoT estimation and illustrate it with a simulation-based proof of concept. Our study shows that analytical composition can be sufficient in simple regimes, that simulation becomes necessary when stochastic memory effects shape the delivered fidelity distribution, and that lightweight learned surrogates can approximate simulator labels at much lower runtime cost for online control. We close with open challenges for deployment, including stochastic targets, sim-to-real transfer, data-generation cost, physics-informed learning, and generalization beyond individual paths to full network topologies."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Anis Bekri, Amar Abane, Van Sy Mai et al.",
+        "categories": [
+          "quant-ph",
+          "cs.LG",
+          "cs.NI"
+        ]
+      }
+    },
+    {
+      "id": "1d66f3f982988682bd90541482a545035ed1ac11f7574f18c297065ef261303e",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Self-Building Labs",
+      "summary": "研究提出“自构建实验室”（SBL），可自主设计、配置并运行实验系统，突破现有自驱动实验室需人工适配的瓶颈，大幅提升科研灵活性与可扩展性。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.23826v1",
+      "publishedAt": "2026-10-16T17:48:29+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Self-driving laboratories (SDLs) accelerate scientific discovery by automating experimental execution and optimization. AI agents can increasingly propose new experiments, but existing SDLs can only run the procedures they were built for. Adapting them to a new experiment still takes extensive manual engineering, which makes laboratory flexibility the bottleneck for scaling discovery. We introduce the self-building laboratory (SBL), which designs, configures, and operates its own laboratory setup given a high-level scientific goal. SBL starts from whatever already exists, from an empty room to a working SDL, and builds the missing capabilities: the lab layout, its digital twin, robot skills, and experimental workflows. We demonstrate the system working across different robots and setups, scaling from a single workstation to laboratories with several robots working together. We validate SBL's end-to-end capabilities through a real-world quantum-dot synthesis experiment. By shifting the role of human researchers from manually configuring and programming device automation to specifying scientific objectives, SBL makes scientific automation more accessible, flexible, and scalable. Project website: https://self-building-labs.github.io/"
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Jiaru Bai, Yuchi Zhao, Han Hao et al.",
+        "categories": [
+          "cs.AI",
+          "cs.MA",
+          "cs.RO"
+        ]
+      }
+    },
+    {
+      "id": "a806134795d67f1e6cc814ba872fb8ed3cc3207eb489f152fbcba784ebfb175e",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "ENFR: Evidence Networks with Flow-Matched References for Amortized Simulation-Based Model Inference",
+      "summary": "新方法ENFR利用流匹配参考网络，实现基于仿真的模型证据$\\mathcal{Z}$高效估计，支持高维模型推断与误设检验。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.23825v1",
+      "publishedAt": "2026-10-16T17:48:26+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "The evidence, $\\mathcal{Z} = p(x | \\mathcal{M})$, of a data-generating model $\\mathcal{M}$ is a powerful tool in Bayesian frameworks: it enables model inference, model misspecification tests, and goodness-of-fit assessment as an alternative to standard discrepancy statistics, e.g. $χ^2$. While versatile, the evidence is notoriously difficult to compute, even when the likelihood is available. In both likelihood-based and simulation-based inference, estimating $\\mathcal{Z}$ provides an immediate solution to high-dimensional goodness-of-fit or model misspecification tests: using $\\mathcal{Z}(x)$ as the test statistic induces a minimum-volume level-$α$ test. Such tests are essential to assess model fidelity, which is necessary to trust simulation-based parameter inference. Existing learned approaches largely target Bayes factors, which only measure evidence ratios. Instead, we provide accurate, fast, and amortized estimates of the absolute evidence. We present ENFR: Evidence Networks with Flow-matched References. Building on the Evidence Network framework of Jeffrey & Wandelt (2024), the proposed method first learns Bayes factors with respect to a flow-matched reference, from which the absolute evidence is recovered. We show improvement in estimation of $\\mathcal{Z}$ over the flow-based baseline in all applications considered and the best performance of all density estimation methods considered in our benchmarks. We furthermore introduce and provide the proof for an architecture that jointly learns the individual evidences of a set of models $\\{\\mathcal{M}_i\\}$. We demonstrate the performance and scaling behavior of these approaches on data from a variety of scientific applications."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Kai Lehman, Jameson Dong, Carolina Cuesta-Lazaro et al.",
+        "categories": [
+          "stat.ML",
+          "astro-ph.CO",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "0ef9025e8529e33d4ccdb69992c152af11df9151239e0a8d196634d7b277b9e7",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Learning without relearning physical symmetry: an SO(3)-equivariant convolutional network (CNN) on the sphere",
+      "summary": "研究提出一种SO(3)-等变球面CNN，适配HEALPix网格，保持物理旋转对称性，降低仿真需求，提升科学分析精度。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.23821v1",
+      "publishedAt": "2026-10-16T17:45:43+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Many of the most important datasets in the physical sciences live natively on the sphere, and these data often carry no preferred position or orientation. Using methods that do not reflect this symmetry leads to far higher simulation requirements, which can be catastrophic for scientific analyses (forcing reliance on cheap, imperfect models that bias results). We present a novel spherical implementation of a gauge equivariant mesh architecture that is specifically designed for the Hierarchical Equal Area isoLatitude Pixelization (\\healpix{}) of the sphere. The $\\mathrm{SO}(3)$-equivariant convolution is built from steerable filters, parallel transport and spin-weighted features. The architecture supplies the exact symmetry, so the network does not spend training data learning it. The convolution operations are constructed to give provably exact equivariance, given a band-limit. Our full CNNs can achieve SO(3)-invariance error at per-cent-level and lower, which is controlled through well-understood hyperparameters. On benchmarks, our technique gives the most accurate dense gradient regression and competitive cosmic microwave background foreground removal and denoising. The improved simulation efficiency matters most in simulation-based inference (SBI), where high-fidelity simulations are expensive and neural compressors require large training sets, so a fixed budget forces analyses with less accurate simulators. In cosmology lensing SBI, our technique yields the tightest posteriors at matched simulation count. This approach is a novel method that will enable new convolutional neural network analyses, including generative and inference tasks, for processes and data on the sphere."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Joshua Williamson, Niall Jeffrey, Lorne Whiteway",
+        "categories": [
+          "stat.ML",
+          "astro-ph.CO",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "3f923c8aa61efcdc69f6c143ed0889e3eb70ee2eceb54205ff3d18d045f44afd",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning",
+      "summary": "CocoRNA提出协同多智能体强化学习框架，将RNA逆设计分解为子任务，提升结构预测准确率与设计效率。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.23820v1",
+      "publishedAt": "2026-10-16T17:43:25+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Designing RNA sequences that reliably fold into specific secondary structures is essential for understanding their biological functions but remains a challenging computational problem. We propose CocoRNA, a cooperative multi-agent reinforcement learning framework for RNA inverse design. CocoRNA simplifies the design task by decomposing it into smaller sub-problems, each solved collaboratively by multiple agents. This approach reduces the complexity of the problem and improves the exploration of design policies. During training, a centralized critic uses global structural information to guide the agents, enabling them to jointly optimize their design strategies. As a result, CocoRNA learns high-quality RNA design policies that generalize effectively to unseen structures without additional training. Experiments on the Rfam dataset demonstrate that CocoRNA substantially outperforms state-of-the-art methods in both success rate and design speed. Further experiments on other biological sequence design tasks highlight the effectiveness and broad potential of CocoRNA for complex design tasks."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Tianmeng Hu, Biao Luo, Ke Li",
+        "categories": [
+          "cs.LG",
+          "cs.MA"
+        ]
+      }
+    },
+    {
+      "id": "3533628a09859df61dc4f432bfdce79f23937624f08f7f0a68f66287f71e8c36",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Acceptance Is Not Speed: Length Inflation in Training-Free Lossy Speculative Decoding",
+      "summary": "研究发现：宽松验证虽提升每轮接受词元数，但引发“长度膨胀”——推理链延长，抵消加速收益。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.23818v1",
+      "publishedAt": "2026-10-16T17:41:19+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Speculative decoding typically characterizes speedup by draft tokens accepted per verification round. Lossless verification preserves the target model's output distribution and thus expected completion length, making this metric a meaningful efficiency proxy. Relaxed (lossy) verification accepts tokens that lossless verification would reject, potentially altering that distribution. We identify a length inflation phenomenon: relaxed verification lengthens completions, primarily by extending reasoning traces, largely offsetting apparent gains in accepted tokens per round. We evaluate existing training-free relaxed verification rules on twelve target-drafter pairs against lossless verification on identical prompts, measuring completion length, verifier rounds, wall-clock time, and task accuracy. At each rule's most relaxed evaluated setting, relaxed verification on average accepts $1.34\\times$ as many tokens per round but produces $1.54\\times$ longer completions. For rules with higher acceptance lengths, tokens accepted only under relaxed verification tend to have low target-model probability, contributing to length inflation. For rules that reduce verifier rounds, accuracy typically drops substantially. Further analysis traces some failures to continued reasoning that exhausts the budget needed to deliver a final answer. Overall, accepted tokens per round alone is an unreliable measure of decoding speed under relaxed verification. Completion length and verifier rounds must also be reported to assess actual efficiency."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Chiatzen Wang, Bill Xu, Haochen Gu et al.",
+        "categories": [
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "22c2833a0653db909ccdf9190a3c38e97defb7df40041a95545c89213017b939",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Learning Personalized Memory Gating from Delayed One-Sided Feedback",
+      "summary": "该论文提出基于延迟单边反馈的事实级个性化记忆门控方法，通过检索标注和在线学习优化用户专属记忆管理。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.23812v1",
+      "publishedAt": "2026-10-16T17:34:45+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Long-term memory enables language-model agents to personalize future interactions, but a finite memory bank cannot preserve every extracted fact. Existing memory gating policies are typically shared across users and therefore fail to account for user-specific patterns of future reuse. In this paper, we study memory gating at the fact level. We first propose a retrieval-based labeling strategy that labels each fact by whether it is later retrieved and incorporated into responses. We then formulate online memory gating as contextual apple tasting with delayed one-sided feedback, and propose Warm-Start UCB, which combines offline learning from existing data with online adaptation to the current user. Our theoretical analysis establishes a high-probability regret upper bound of $\\tilde{O}(Tε\\wedge d\\sqrt{T})$ when the delay window is at most $O(\\sqrt{T})$, where $T$ is the total number of rounds, $ε$ is the initialization error, $d$ is the dimension of the feature map, and $\\tilde{O}(\\cdot)$ hides constant and poly-logarithmic factors. The results of our experiment demonstrate that our method outperforms all baselines under different memory budgets and history lengths, establishing it as a promising personalized memory gating policy."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Kaixuan Ji, Zixiang Chen, Wenting Zhao et al.",
+        "categories": [
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "1d2ef6d15d3ef82f6337fe18e51b00319ac4ae1a015fdb9e2f84646dd190167f",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Explainable Machine Learning Analysis of Temperature Effects on Mechanical Strength of Fiber-Reinforced High-Performance Concrete",
+      "summary": "研究基于1204组实验数据，用8种机器学习模型预测高温下纤维增强高性能混凝土抗压强度，发现梯度提升等集成模型性能最优。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2610.23811v1",
+      "publishedAt": "2026-10-16T17:34:24+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Predicting the compressive strength of fiber-reinforced high-performance concrete subjected to temperature exposure is challenging because to the intricate interdependencies of mixture composition, fiber properties, curing conditions, and temperature. A data-driven framework to predict compressive strength utilizing 1,204 experimental records containing a diverse array of material designs and exposure situations. This study evaluates eight machine-learning models and demonstrate that ensemble approaches routinely surpass individual learners. Both gradient boosting and extreme gradient boosting exhibit superior performance on unseen data, each attaining a R^2 of 0.903. Gradient boosting produces the minimal root mean square error (6.67 MPa), whereas extreme gradient boosting achieves the lowest mean absolute error (3.97 MPa) and mean absolute percentage error (10.60%). The models are further interpreted utilizing Shapley additive explanations and partial dependence analysis, which reveal temperature as the primary factor influencing compressive strength, succeeded by fine aggregate, superplasticizer, cement content, water-to-binder ratio, and water content. Strength diminishes significantly with rising temperature, albeit the extent of deterioration is contingent upon the specific combination design. The best performing models are subsequently implemented in a Python-based graphical user interface for expedited prediction. Our findings offer a precise and comprehensible methodology for evaluating temperature-dependent compressive strength and facilitate the practical, data-driven design of fiber-reinforced high-performance concrete."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Jagaran Chakma, Zhiguang Zhou, Badhan Chakma et al.",
+        "categories": [
+          "cs.LG"
+        ]
+      }
     },
     {
       "id": "68a3b7d28f913525d1f5443c6a44ca31bbb4955264065880fb549490ed61d595",
@@ -1240,6 +1901,25 @@
       "tags": [
         "ai-news",
         "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "37bbee8f81eacc51a2ab0774460e0cee54041bd7a344d76b83a6b7723853361d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "端侧跑通超千亿大模型！联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售",
+      "summary": "买AIPC就选联想YOGA。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/504116.html",
+      "publishedAt": "2026-10-16T13:48:10+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
       ],
       "body": [],
       "points": [],
@@ -6696,494 +7376,42 @@
         "downloads": 33,
         "likes": 20
       }
-    },
-    {
-      "id": "05dc83544ee6ee59b5974298a8d849be710d1e69101ff9c4898d466b48a07515",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
-      "summary": "游戏打到21:0，AI甚至不用再调用大模型了",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502654.html",
-      "publishedAt": "2026-10-12T05:48:36+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "8037a08324d13c42d13d76ef79e1cdc57403dd290c245b9dbece5800c5648a2a",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "智谱新模型，490 tokens/s！",
-      "summary": "GLM「速度仙人」来了？",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502649.html",
-      "publishedAt": "2026-10-12T02:37:04+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f2b52184b837496589533ba55114c40e4cdb0aa8231bba266085d4713633e2ab",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Will the HomeView be Apple’s first smart home success?",
-      "summary": "苹果新款智能家居产品已定名，将于近期发布。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-      "publishedAt": "2026-10-11T21:14:40+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "9a2b34f8eb1759c04fb1e9194e23a659423a8431601c29853b210db01221c873",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-      "summary": "TechCrunch Disrupt 2026将于48小时内于旧金山Moscone West开幕，早鸟票立省100美元，第二张半价。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-      "publishedAt": "2026-10-11T19:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "7da6d78d5b6cb29ce26654302db9fd790e5fa69a27f50262d8d2ada09ef369d7",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-      "summary": "特朗普提议将AI重命名为“超级智能”，虽公众仍用AI，但部分硅谷巨头已跟进支持这一改名。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-      "publishedAt": "2026-10-11T18:33:56+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ae015570130043f2240407abc4aa68cec96168e4ede308a90ced3d4bf42bda40",
-      "module": "football",
-      "seg": null,
-      "cat": "法甲",
-      "title": "Rennes 4-1 Auxerre",
-      "summary": "法甲 · 战报 · 23:15（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2489511",
-      "publishedAt": "2026-10-11T17:09:46.311170+00:00",
-      "tags": [
-        "法甲",
-        "战报"
-      ],
-      "body": [
-        "法甲 第 6 轮 · 2026-10-11 · 北京时间 23:15（估算）",
-        "场地：Roazhon Park",
-        "主队 Rennes vs 客队 Auxerre",
-        "终场比分 4-1"
-      ],
-      "points": [
-        "<b>赛事</b>：法甲 第 6 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-11 · 北京时间 23:15（估算）",
-        "<b>场地</b>：Roazhon Park",
-        "<b>主队</b>：Rennes",
-        "<b>客队</b>：Auxerre",
-        "<b>终场比分</b>：4-1",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Roazhon Park",
-        "date": "2026-10-11",
-        "country": "France",
-        "status": "2H"
-      }
-    },
-    {
-      "id": "e649e8f9e2eb9b7922a35a8d36b88dc0d7df2585bbd3c8b76b5ccb110582eb82",
-      "module": "football",
-      "seg": null,
-      "cat": "意甲",
-      "title": "Sassuolo 0-0 AC Milan",
-      "summary": "意甲 · 战报 · 00:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2482189",
-      "publishedAt": "2026-10-11T17:09:46.311163+00:00",
-      "tags": [
-        "意甲",
-        "战报"
-      ],
-      "body": [
-        "意甲 第 6 轮 · 2026-10-11 · 北京时间 00:00（估算）",
-        "场地：Mapei Stadium – Città del Tricolore",
-        "主队 Sassuolo vs 客队 AC Milan",
-        "终场比分 0-0"
-      ],
-      "points": [
-        "<b>赛事</b>：意甲 第 6 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-11 · 北京时间 00:00（估算）",
-        "<b>场地</b>：Mapei Stadium – Città del Tricolore",
-        "<b>主队</b>：Sassuolo",
-        "<b>客队</b>：AC Milan",
-        "<b>终场比分</b>：0-0",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Mapei Stadium – Città del Tricolore",
-        "date": "2026-10-11",
-        "country": "Italy",
-        "status": "HT"
-      }
-    },
-    {
-      "id": "3290aca55bd6107b1325d18dc5a8e52ed6f69002f05f7cf24f4343f6b354604b",
-      "module": "football",
-      "seg": null,
-      "cat": "德甲",
-      "title": "Freiburg 1-1 Schalke 04",
-      "summary": "德甲 · 战报 · 23:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2508369",
-      "publishedAt": "2026-10-11T17:09:46.311154+00:00",
-      "tags": [
-        "德甲",
-        "战报"
-      ],
-      "body": [
-        "德甲 第 5 轮 · 2026-10-11 · 北京时间 23:30（估算）",
-        "场地：Europa-Park Stadion",
-        "主队 Freiburg vs 客队 Schalke 04",
-        "终场比分 1-1"
-      ],
-      "points": [
-        "<b>赛事</b>：德甲 第 5 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-11 · 北京时间 23:30（估算）",
-        "<b>场地</b>：Europa-Park Stadion",
-        "<b>主队</b>：Freiburg",
-        "<b>客队</b>：Schalke 04",
-        "<b>终场比分</b>：1-1",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "5",
-        "season": "2026-2027",
-        "venue": "Europa-Park Stadion",
-        "date": "2026-10-11",
-        "country": "Germany",
-        "status": "2H"
-      }
-    },
-    {
-      "id": "4c79a65a84c96e966723ae321f8dcb63098c20f9eafbd4d3fd0daab033887bb0",
-      "module": "football",
-      "seg": null,
-      "cat": "西甲",
-      "title": "Real Betis 2-0 Osasuna",
-      "summary": "西甲 · 战报 · 00:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2506244",
-      "publishedAt": "2026-10-11T17:09:46.311146+00:00",
-      "tags": [
-        "西甲",
-        "战报"
-      ],
-      "body": [
-        "西甲 第 8 轮 · 2026-10-11 · 北京时间 00:30（估算）",
-        "场地：Estadio de La Cartuja",
-        "主队 Real Betis vs 客队 Osasuna",
-        "终场比分 2-0"
-      ],
-      "points": [
-        "<b>赛事</b>：西甲 第 8 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-11 · 北京时间 00:30（估算）",
-        "<b>场地</b>：Estadio de La Cartuja",
-        "<b>主队</b>：Real Betis",
-        "<b>客队</b>：Osasuna",
-        "<b>终场比分</b>：2-0",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "8",
-        "season": "2026-2027",
-        "venue": "Estadio de La Cartuja",
-        "date": "2026-10-11",
-        "country": "Spain",
-        "status": "1H"
-      }
-    },
-    {
-      "id": "56d5cb257d8648a003d45aeaf6a48539b2335e5f82c60b1600b6e9b3f9d109ca",
-      "module": "football",
-      "seg": null,
-      "cat": "英超",
-      "title": "Liverpool 0-3 Manchester City",
-      "summary": "英超 · 战报 · 23:30（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2494051",
-      "publishedAt": "2026-10-11T17:09:46.311136+00:00",
-      "tags": [
-        "英超",
-        "战报"
-      ],
-      "body": [
-        "英超 第 6 轮 · 2026-10-11 · 北京时间 23:30（估算）",
-        "场地：Anfield",
-        "主队 Liverpool vs 客队 Manchester City",
-        "终场比分 0-3"
-      ],
-      "points": [
-        "<b>赛事</b>：英超 第 6 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-11 · 北京时间 23:30（估算）",
-        "<b>场地</b>：Anfield",
-        "<b>主队</b>：Liverpool",
-        "<b>客队</b>：Manchester City",
-        "<b>终场比分</b>：0-3",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Anfield",
-        "date": "2026-10-11",
-        "country": "England",
-        "status": "2H"
-      }
-    },
-    {
-      "id": "2faad9775c2a761f4a06b804958fffef8cf588492a5d1ee29a196423b31756f9",
-      "module": "football",
-      "seg": null,
-      "cat": "法甲",
-      "title": "Troyes VS Marseille",
-      "summary": "法甲 · 赛程 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2489514",
-      "publishedAt": "2026-10-11T17:09:46.311116+00:00",
-      "tags": [
-        "法甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Stade de l'Aube",
-        "date": "2026-10-11",
-        "country": "France",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "38ee3d5a5f8f8336285fad4f4f1b53bd7eb5b02fee8f44815d22e4823735cd95",
-      "module": "football",
-      "seg": null,
-      "cat": "意甲",
-      "title": "Cagliari VS Juventus",
-      "summary": "意甲 · 赛程 · 02:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2482190",
-      "publishedAt": "2026-10-11T17:09:46.311111+00:00",
-      "tags": [
-        "意甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "6",
-        "season": "2026-2027",
-        "venue": "Unipol Domus",
-        "date": "2026-10-11",
-        "country": "Italy",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "39907df149252a40e8ceb5a1929281613db06aed8f932552e96cbd6d5849fe88",
-      "module": "football",
-      "seg": null,
-      "cat": "西甲",
-      "title": "Racing de Santander VS Valencia",
-      "summary": "西甲 · 赛程 · 03:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2506248",
-      "publishedAt": "2026-10-11T17:09:46.311098+00:00",
-      "tags": [
-        "西甲",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "8",
-        "season": "2026-2027",
-        "venue": "Campos de Sport de El Sardinero",
-        "date": "2026-10-11",
-        "country": "Spain",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "2312247ae824af2ccd1b39df186ffb4b4bd09d97ed89af692f702cd86c4710b3",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.8-Flash-Next-Gyro-GGUF：image-text-to-text 模型更新",
-      "summary": "HuggingFace 上 image-text-to-text 模型 agentionai/Qwen3.8-Flash-Next-Gyro-GGUF 下载量达18,175，获25赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/agentionai/Qwen3.8-Flash-Next-Gyro-GGUF",
-      "publishedAt": "2026-10-11T17:05:45+00:00",
-      "tags": [
-        "huggingface",
-        "image-text-to-text",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 18175,
-        "likes": 25
-      }
-    },
-    {
-      "id": "45db0dcbf4e75d00433d1c0f70ecb0e281dac28adbf5abb837a52255c7bdbf44",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-      "summary": "Equity栏目探讨数据中心建设禁令对AI产业的影响，以及AI行业是否存在沟通困境。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-      "publishedAt": "2026-10-11T16:52:33+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d9393a617652fbb1f95d670f44ef13b8aa515bc7fa97b5e1834ce92664b60fbc",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "AGILLM-GB10-1PF：model 模型更新",
-      "summary": "HuggingFace 上 MarxistLeninist/AGILLM-GB10-1PF 模型下载量达 2487 次，获 0 赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/MarxistLeninist/AGILLM-GB10-1PF",
-      "publishedAt": "2026-10-11T16:50:50+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 2487,
-        "likes": 0
-      }
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI监管与安全风险成全球焦点，多国启动调查、封禁与立法应对",
+      "insight": "AI监管与伦理治理加速落地，企业合规压力显著上升",
       "headline": {
-        "title": "OpenAI models hacked a crypto wallet and breached more websites",
-        "summary": "若由人类操作，这些行为本可能招致刑事指控。",
+        "title": "Anthropic gives outside AI watchdog “employee-like” access",
+        "summary": "外部监督机构可不经Anthropic批准直接发布调查结果。",
         "source": "Ars Technica",
-        "sourceUrl": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
+        "sourceUrl": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
       },
       "sections": [
         {
           "name": "最新科技",
-          "items": [
-            {
-              "title": "Elorian’s first AI model wants to reason with images, not just about them",
-              "summary": "Elorian评测显示，Glimpse在科学图表推理和短视频字幕生成上超越GPT-6 Astra，其他视觉推理任务表现相当。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
-            },
-            {
-              "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-              "summary": "英伟达发布RTX Spark N1X处理器，首款Arm架构高性能笔记本/小桌面SoC，性能对标苹果、英特尔、AMD及高通旗舰芯片。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions"
-            },
-            {
-              "title": "Researchers use AI to design proteins that cut up other proteins",
-              "summary": "AI设计工具成功创造出能分解数百年前稳定化学键的蛋白质。",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/scienc"
-            }
-          ]
+          "items": []
         },
         {
           "name": "行业动态",
           "items": [
             {
+              "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+              "summary": "Anthropic承诺将5%的股份投入该基金。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+            },
+            {
+              "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+              "summary": "Character.AI多数员工接受迪士尼工作邀约，但迪士尼出价为“假马竞标”，其他公司仍可提更高报价。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+            },
+            {
               "title": "Meta removes language that raised scraping and AI training concerns",
               "summary": "Meta称更新条款不改变其网络爬虫行为。",
               "source": "TechCrunch",
               "sourceUrl": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
-            },
-            {
-              "title": "India becomes the latest country to report rogue AI agent activity",
-              "summary": "攻击者利用应用配置、公开代码仓库中的明文凭据及云平台过度宽松的角色权限入侵系统。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
-            },
-            {
-              "title": "Websites are closing their doors to AI agents",
-              "summary": "AI自主代理成热点，OpenAI、Meta等宣称可代订餐、理邮箱、购鞋，但遭遇网站反爬与封禁，实际落地遇阻。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
             },
             {
               "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
@@ -7207,16 +7435,16 @@
               "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
             },
             {
+              "title": "Websites are closing their doors to AI agents",
+              "summary": "AI自主代理成热点，OpenAI、Meta等宣称可代订餐、理邮箱、购鞋，但遭遇网站反爬与封禁，实际落地遇阻。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+            },
+            {
               "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
               "summary": "AI音乐厂牌已上线YouTube Music，即将登陆YouTube平台。",
               "source": "Ars Technica",
               "sourceUrl": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/"
-            },
-            {
-              "title": "Jev is Vercel’s fastest-adopted AI model ever",
-              "summary": "数据源自Vercel推出的AI网关，该服务为统一API平台，功能类似OpenRouter。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
             }
           ]
         }
