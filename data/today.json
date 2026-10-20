@@ -1,9 +1,289 @@
 {
-  "generated_at": "2026-10-20T05:45:06.186986+00:00",
+  "generated_at": "2026-10-20T16:12:07.963225+00:00",
   "date": "2026-10-20",
   "keep_days": 7,
   "count": 343,
   "items": [
+    {
+      "id": "c6540dea741b38f9bb1edd62626fc85a0b6434554c751c2740751d103cfffbfd",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "grpo_data：model 模型更新",
+      "summary": "HuggingFace 上 taylorseries/grpo_data 模型下载量达 1537 次，获 0 个赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/taylorseries/grpo_data",
+      "publishedAt": "2026-10-20T16:10:52+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1537,
+        "likes": 0
+      }
+    },
+    {
+      "id": "f110e94916d61be84637c1991a4dbb39b6778343ddb4393bf05174e8eb1d2b80",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/allenai/fairstress",
+      "publishedAt": "2026-10-20T16:09:19+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "40fd3218e9ef8f6f1067cbdb9d829d89ce3f70706ef298db2318d4ef997ee254",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "popular-templates：model 模型更新",
+      "summary": "HuggingFace 上 koboldcpp/popular-templates 模型暂无下载量，获 11 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/koboldcpp/popular-templates",
+      "publishedAt": "2026-10-20T16:00:02+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "a762138055e01b25af5e3222f9e58d637dc22841db0245c0b268592b64aef22c",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+      "summary": "Electric Plant公司研发AI翻译器，通过解析植物茎干微电流，实现人机“对话”。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "publishedAt": "2026-10-20T16:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "a68a907fdd393736c52ed0ec3bc57cbd55b4a2a931a1a6767f703fec35041ce1",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "publishedAt": "2026-10-20T15:19:48+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "a14f786b0a38b011869c2472249eea0b766f9d82e4434b9506d30150ce7bc177",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+      "summary": "Spotify称过去一年已从推荐中移除超5000万首AI生成“垃圾”歌曲，并优化算法，优先推荐人类艺术家作品。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+      "publishedAt": "2026-10-20T14:18:37+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "92cd6442a71cb4f57405c6c108f7ef105243c266094bc2a2cc715670e08ff3c6",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+      "summary": "Figma称将支持尽可能多的标准，但不会完全开放其数据。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+      "publishedAt": "2026-10-20T14:13:32+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "50b2493ed71bb60224ae98e47b6a344f0db5dd8753b3c165151fb18463c8d605",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "summary": "美政府以国家安全为由，下令联邦民用机构禁用DeepSeek产品及基于其技术的第三方服务。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "publishedAt": "2026-10-20T13:07:24+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "819c0e82ce2db843db14adeafd5f28b56184cc7ed913f84d2034e24e90f273d3",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+      "summary": "Adobe Lightroom移动端（iOS/iPadOS/Android）上线AI“睁眼”功能：单次点击即可自动修复闭眼人物，基于生成式AI实现。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+      "publishedAt": "2026-10-20T13:06:44+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "5cbb9b997d787eee14673dcaed671525833f1fa8060f8da464e41ea72f4f5dec",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "summary": "Eka Robotics推出首款能灵巧抓取多种物体的机械臂，动作流畅拟人，引发行业关注。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "publishedAt": "2026-10-20T13:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "5ed2c33e13d35496719716eb408ee9c5dd0e3d3140f45346f71c0137d47475e0",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+      "summary": "Meta暂停分享功能，正调查相关隐私问题。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "publishedAt": "2026-10-20T12:33:13+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "275d433f33fbe3e912e8bced52bff989cc296f6d31701124f7669ddeaebbba0b",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "海斗4.0测试服前瞻：八大乐队与十张新海克斯，机制与限制一次看懂",
+      "summary": "UP主 海斗秘籍小助手 · 486播放 · 5:32",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117471667424604",
+      "publishedAt": "2026-10-20T12:00:00+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 黑科技 上分"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "海斗秘籍小助手",
+        "play": 486,
+        "bvid": "BV1eanw6QEQL",
+        "duration": "5:32"
+      }
+    },
+    {
+      "id": "f69b9a8bd7a78e1ca0541c21d55acc26faafd563b25b03e13b46462b6edcf8d5",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "summary": "Otter.ai获General Catalyst 3.2亿美元无股权稀释融资，将用于企业增长、市场拓展、国际化及产品创新。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "publishedAt": "2026-10-20T11:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "3b4f515d0987f564b8a158ee6eb9d697786445982e1b960a30645211071cf9ae",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "summary": "Yelp推出多项AI新功能：可自动致电查询餐厅等位时间，并基于用户偏好生成个性化推荐。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "publishedAt": "2026-10-20T11:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "16b67a5df26d5d7e9a049023b492bc8a958bb23e8753f0040d695b4fa681ba56",
       "module": "ai",
@@ -174,6 +454,63 @@
       "tags": [
         "ai-news",
         "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "748a13aa6e9b884cce2e68fd804abcecf9dcec46c9980fceea6e9bf02d7bd3db",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/hf-torchtpu",
+      "publishedAt": "2026-10-20T00:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "17b58dd8df4af274947e1637e28de8d46ff251238e3e1f016e0b08deaa51c25f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "publishedAt": "2026-10-20T00:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "0fe991547b901cdcb59f33bd4b7931a91d44fc7ba10aafaa6be8ff0e65ec0534",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "MPS in PyTorch 2.15",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "publishedAt": "2026-10-20T00:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
       ],
       "body": [],
       "points": [],
@@ -7314,418 +7651,42 @@
       "points": [],
       "live": false,
       "extra": {}
-    },
-    {
-      "id": "73165aed5cd263c1dc1ae5ec12b0fc0e066d32f1c1597257529349fafbfad4a5",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
-      "summary": "开发者可享API调用费率5折优惠，持续至11月。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
-      "publishedAt": "2026-10-13T16:00:02+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "30ddb096febdca1f542f2ba3e47a980d95e7d05ed3477acd941f90bfedda3122",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Google finally releases Gemini 4 Argon",
-      "summary": "谷歌发布Gemini 4 Argon大模型，称其具备前沿推理能力，显著提升复杂任务表现，减少重复与套话。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-      "publishedAt": "2026-10-13T16:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "8801e0746612f48bd1ef2643efcf03e6939e3c736e9f6c876d59761eb5b3f903",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "They war-gamed dimming the Sun. It went even worse than you think.",
-      "summary": "太阳地球工程模拟显示：地缘政治介入后，全球降温效果不均，部分区域面临气候风险加剧。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
-      "publishedAt": "2026-10-13T15:17:59+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "2f5f7d42040d05a6b89b2619a788c09461ee8b31b184f7ab7b4ba38c4e9532bc",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "TechCrunch Disrupt 2026: Day 1",
-      "summary": "TechCrunch Disrupt 2026今日开幕，首日（10月13日）于旧金山Moscone West举行，汇聚超1万名科技领袖。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-      "publishedAt": "2026-10-13T14:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "80afdcbe43f17e0dfccc235006315a96c2cbc077d9e4151607a78e4c0a21a0df",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-      "summary": "X新订阅服务整合付费功能与Grok、Cursor等AI工具，月费8至200美元。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-      "publishedAt": "2026-10-13T13:50:19+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "65538f87c74e356bcdf919f04afcdeb89d754862dc906d871c1caed17935899b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
-      "summary": "让VLA从“演示可用”逼近“产线可用”",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/503107.html",
-      "publishedAt": "2026-10-13T11:05:39+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "07dc91853873568ad98c7d1987ad3dcc4235be7e4b2b714a6923a7ee7a53b21f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
-      "summary": "Winverse AI",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/503093.html",
-      "publishedAt": "2026-10-13T09:33:37+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a24336759ecf5561e823662e8052b48e2685aea8da879ac864600b51bc29c636",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "海斗4.0更新信息汇总【海克斯大乱斗】乐队特邀嘉宾丨海克斯大放送丨美测服最新改动",
-      "summary": "UP主 Hylon · 1,583播放 · 4:2",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117432391828283",
-      "publishedAt": "2026-10-13T07:30:03+00:00",
-      "tags": [
-        "lol",
-        "rune",
-        "英雄联盟 海斗 黑科技 上分"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "Hylon",
-        "play": 1583,
-        "bvid": "BV1LEWA6cEkE",
-        "duration": "4:2"
-      }
-    },
-    {
-      "id": "64204820be5c58c212306702fb26ac121ab78a6dc5afacfd353b9911045c7cf2",
-      "module": "football",
-      "seg": null,
-      "cat": "欧冠",
-      "title": "Lens VS Sporting CP",
-      "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2594564",
-      "publishedAt": "2026-10-13T07:24:45.726650+00:00",
-      "tags": [
-        "欧冠",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "2",
-        "season": "2026-2027",
-        "venue": "Stade Bollaert-Delelis",
-        "date": "2026-10-13",
-        "country": "France",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "43ec60085cc2b30958d0b834d1a16a4663a9ed54d622939dbbe9c9a02f78d2dd",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Xing4.0-29B-A4B：text-generation 模型更新",
-      "summary": "HuggingFace 主流 text-generation 模型 XingChen-AGI/Xing4.0-29B-A4B，52,102 下载，1840 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
-      "publishedAt": "2026-10-13T07:22:33+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 52102,
-        "likes": 1840
-      }
-    },
-    {
-      "id": "1fb65855c6bbb9f8fc74ffcffefb5cab9cc8d6fc30a05a1a464dc68bad131336",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
-      "summary": "宝马保时捷缺席",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502992.html",
-      "publishedAt": "2026-10-13T07:20:23+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "666d0a872157f1807972c05494c981323dead0fc8a0d15330255232220375755",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "thalovant-m2v-intents：text-classification 模型更新",
-      "summary": "HuggingFace 主流 text-classification 模型 thalovant/thalovant-m2v-intents，2,281 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/thalovant/thalovant-m2v-intents",
-      "publishedAt": "2026-10-13T07:20:10+00:00",
-      "tags": [
-        "huggingface",
-        "text-classification",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 2281,
-        "likes": 0
-      }
-    },
-    {
-      "id": "3180d10c83af8439d8545413b436813b550665d163d02e7aca3947eeb2f2625d",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
-      "summary": "让材料感知压力，造出超薄高密度电子皮肤",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502954.html",
-      "publishedAt": "2026-10-13T07:19:21+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c1634a744df4a4f858aec897188401f37caa8780acbaa36b2df022384d0743ba",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "h2o-lightning-4b：image-text-to-text 模型更新",
-      "summary": "HuggingFace 主流 image-text-to-text 模型 h2oai/h2o-lightning-4b，1,578 下载，62 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/h2oai/h2o-lightning-4b",
-      "publishedAt": "2026-10-13T07:09:48+00:00",
-      "tags": [
-        "huggingface",
-        "image-text-to-text",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1578,
-        "likes": 62
-      }
-    },
-    {
-      "id": "5262bd81acee291aeb4b3eda25ea0c10d7edf1435990e5ce3039b4c2fe281fbf",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "HoloMotion_models：model 模型更新",
-      "summary": "HuggingFace 主流 model 模型 HorizonRobotics/HoloMotion_models，7,115 下载，3 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/HorizonRobotics/HoloMotion_models",
-      "publishedAt": "2026-10-13T07:08:35+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 7115,
-        "likes": 3
-      }
-    },
-    {
-      "id": "6ade43d921dcbe36a54eed135b53fee28d3a6696775a0a926502d8c9171d6ea6",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
-      "summary": "拉马克进化的幽灵",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502920.html",
-      "publishedAt": "2026-10-13T06:19:10+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "87799603bbbd3cc7889c1e2b5c4808b947f1ff633de61fbe980e6937429e861e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
-      "summary": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502907.html",
-      "publishedAt": "2026-10-13T06:00:20+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI监管与安全危机集中爆发，政企协同治理迫在眉睫",
+      "insight": "AI safety and regulation dominate headlines amid rising security breaches and policy debates.",
       "headline": {
-        "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-        "summary": "纽约市长扎赫兰·马姆达尼周一呼吁抵制“AI接管不可避免”叙事，要求加强监管以保障公众权益、重掌控制权。",
+        "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+        "summary": "美政府以国家安全为由，下令联邦民用机构禁用DeepSeek产品及基于其技术的第三方服务。",
         "source": "TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/"
+        "sourceUrl": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
       },
       "sections": [
         {
           "name": "最新科技",
-          "items": [
-            {
-              "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-              "summary": "亚马逊欲打破英伟达对PyTorch的主导，推动开发者在其自研芯片等替代硬件上运行AI应用。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"
-            },
-            {
-              "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-              "summary": "黑客利用超100个自主AI代理入侵超100个网站，涉约翰迪尔、SharkNinja、康明斯等企业。AI安全公司Norforge披露此事，引发对AI驱动网络攻击的",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
-            }
-          ]
+          "items": []
         },
         {
           "name": "行业动态",
           "items": [
             {
-              "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-              "summary": "若达成，这将是Anthropic一年内签署的又一笔巨额算力交易。",
+              "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+              "summary": "美政府以国家安全为由，下令联邦民用机构禁用DeepSeek产品及基于其技术的第三方服务。",
               "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
+              "sourceUrl": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
             },
             {
-              "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
-              "summary": "CoreWeave债券跌入困境（利差超1000基点），SPAC之王Palihapitiya质疑AI基建或成私募信贷泡沫。",
+              "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+              "summary": "黑客利用超100个自主AI代理入侵逾100个网站，涉约翰迪尔、SharkNinja、康明斯等企业。AI安全公司Norforge披露此事，引发对AI驱动网络攻击的",
               "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai"
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
             },
             {
-              "title": "Democrats think cracking down on AI could give them an edge",
-              "summary": "民调显示民主党或在11月中期选举中夺回国会至少一院控制权，届时将面临如何监管AI这一新兴棘手议题。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/policy/1013113/democrats-ai-midterms"
-            }
-          ]
-        },
-        {
-          "name": "知识前沿",
-          "items": [
-            {
-              "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-              "summary": "近几个月，“嵌入式评估员”理念兴起：AI实验室引入中立第三方观察者，以应对频发的安全事故及技术风险。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
+              "title": "OpenAI models hacked a crypto wallet and breached more websites",
+              "summary": "若由人类操作，这些行为本可能招致刑事指控。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
             },
             {
               "title": "Anthropic gives outside AI watchdog “employee-like” access",
@@ -7736,25 +7697,29 @@
           ]
         },
         {
+          "name": "知识前沿",
+          "items": []
+        },
+        {
           "name": "应用落地",
           "items": [
             {
-              "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-              "summary": "AI伴侣应用Tolan获3000万美元新融资，用户超25万。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/"
-            },
-            {
-              "title": "Websites are closing their doors to AI agents",
-              "summary": "AI自主代理成热点，OpenAI、Meta等宣称可代订餐、理邮箱、购鞋，但遭遇网站反爬与封禁，实际落地遇阻。",
+              "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+              "summary": "Adobe Lightroom移动端（iOS/iPadOS/Android）上线AI“睁眼”功能：单次点击即可自动修复闭眼人物，基于生成式AI实现。",
               "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+              "sourceUrl": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair"
             },
             {
-              "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-              "summary": "尤金尼娅·库伊达新创公司Wabi推出免费可下载的个人AI助手，源于其十多年前的构想。",
+              "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+              "summary": "Yelp推出多项AI新功能：可自动致电查询餐厅等位时间，并基于用户偏好生成个性化推荐。",
               "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/"
+              "sourceUrl": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/"
+            },
+            {
+              "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+              "summary": "Electric Plant公司研发AI翻译器，通过解析植物茎干微电流，实现人机“对话”。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/"
             }
           ]
         }
