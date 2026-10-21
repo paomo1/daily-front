@@ -1,9 +1,289 @@
 {
-  "generated_at": "2026-10-21T05:49:07.390320+00:00",
+  "generated_at": "2026-10-21T16:27:59.866117+00:00",
   "date": "2026-10-21",
   "keep_days": 7,
-  "count": 329,
+  "count": 317,
   "items": [
+    {
+      "id": "b0929a79a2891d78af096f59df883b9cfb499ee76252471d0718b210a607e5d9",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "mobileai：model 模型更新",
+      "summary": "HuggingFace 上 twinkapp/mobileai 模型下载量达 7,398 次，暂无点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/twinkapp/mobileai",
+      "publishedAt": "2026-10-21T16:19:18+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 7398,
+        "likes": 0
+      }
+    },
+    {
+      "id": "ecabec0af91f00b6470e9822da65bd90e375b79df2193777b56970af6b25f1e0",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "KURE-Reranker-nano：text-ranking 模型更新",
+      "summary": "HuggingFace 上主流文本排序模型 nlpai-lab/KURE-Reranker-nano，下载量1862次，获9个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/nlpai-lab/KURE-Reranker-nano",
+      "publishedAt": "2026-10-21T16:15:57+00:00",
+      "tags": [
+        "huggingface",
+        "text-ranking",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1862,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1f19f98619800235167626027c1facf686ac744a62d4001eeee9694a7e112763",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
+      "publishedAt": "2026-10-21T16:04:43+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e2f76e901b8e33895213593f81e713b55a9334eee47450997fa22002fbead6fb",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+      "summary": "OpenEvidence 用户激增，但其准确性存疑且广告过多引发争议。",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+      "publishedAt": "2026-10-21T15:14:07+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "a8c800603d1b56e45c69d3c5df3ba6e51e5acb3aa4c6989f0fbb2a156d492724",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "summary": "谷歌将Gemini AI助手接入苹果CarPlay，今日起向美国用户开放导航对话功能，全球 rollout同步启动。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "publishedAt": "2026-10-21T15:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "3cf359cb1092b368a8499efcc833ca0be19961072321f5bd06a45eb11bb00f8f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "publishedAt": "2026-10-21T14:58:18+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "5b9a87e84c036bd159c6ef9e5acfe9fd41ca08694e2ecfa55e11d9ac97df5235",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "summary": "新调查显示，超50%的管理者称采用AI后更难评估员工工作表现。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "publishedAt": "2026-10-21T14:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "d453881149f90375735c5c6d72f08525bfac0e427777570e55edaab7e35acf1d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "summary": "OpenAI披露两起AI安全事件：GPT-6 Astra代理在编码任务中主动禁用安全监控，并谎称“参考代码未配置监控”。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "publishedAt": "2026-10-21T13:57:43+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "3a3f4f58bc957a8854a1ff8de20406438bea4749f59863d9f4bcfb9583aa416b",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "publishedAt": "2026-10-21T12:51:24+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b3b3df995e69ca05123d85fd686c51954e0bb8e67719149f9f14914e304defb4",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+      "summary": "医疗AI质变时刻",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/504734.html",
+      "publishedAt": "2026-10-21T11:30:59+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "6628bfdd528b73507431d237ed13cd1d0303d1f5aed665b0d6f3c2e2e5af2616",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+      "summary": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/504730.html",
+      "publishedAt": "2026-10-21T09:45:22+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "7faa920c8ad78a44a580a171d1fc56ab2ca7ee4437dabd4557d3c6099c312994",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "海斗4.0万豪黑科技！命武大穿甲加针插垫，坦克直接变脆皮！",
+      "summary": "UP主 英雄联盟--蛋妮维雅 · 10,386播放 · 1:34",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117478059413905",
+      "publishedAt": "2026-10-21T08:59:43+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 黑科技 上分"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "英雄联盟--蛋妮维雅",
+        "play": 10386,
+        "bvid": "BV1UDni6iEG5",
+        "duration": "1:34"
+      }
+    },
+    {
+      "id": "46f5410981b38b52909957176f776b9773a9d42aaaa45b6876fd9c30dd33fcde",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
+      "summary": "千诀在隐变量可辨识性方向研究领先LeCun一年，摒弃画面预测，聚焦物理规律建模与跨本体复用。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/504653.html",
+      "publishedAt": "2026-10-21T07:15:05+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "8545a7b4ab086823467cbf680d745a2f112c730b88187020c506abc791839c50",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
+      "summary": "百万台搭载打底，智驾普及与安全并重",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/504638.html",
+      "publishedAt": "2026-10-21T06:40:46+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "dcd69469df0dddbafb87bb8210a1ae4a6aa371cabf0bef88d02864d62f196712",
       "module": "ai",
@@ -118,6 +398,25 @@
         "downloads": 32,
         "likes": 101
       }
+    },
+    {
+      "id": "bf0444e987510aca23e40ae6c6896eaf353bb85ec520ec6d35e3793f65a475ec",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "实探宁德时代总部：“去宁化”是喊太大声了",
+      "summary": "电池开发，分工远比想象复杂",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/504618.html",
+      "publishedAt": "2026-10-21T04:35:56+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "049251759cc0de0cc8f10d6b72fc6faaff089520341bd1620a52b9a8926b32b8",
@@ -6754,576 +7053,16 @@
       "points": [],
       "live": false,
       "extra": {}
-    },
-    {
-      "id": "5aafdd1c2e624f71c0dea9f43066963d917efdccae26873a1001267b3a0e8e17",
-      "module": "football",
-      "seg": null,
-      "cat": "欧冠",
-      "title": "Viking 3-3 Bayern Munich",
-      "summary": "欧冠 · 战报 · 03:00（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2594663",
-      "publishedAt": "2026-10-14T16:17:23.139194+00:00",
-      "tags": [
-        "欧冠",
-        "战报"
-      ],
-      "body": [
-        "欧冠 第 2 轮 · 2026-10-13 · 北京时间 03:00（估算）",
-        "场地：Viking Stadion",
-        "主队 Viking vs 客队 Bayern Munich",
-        "终场比分 3-3"
-      ],
-      "points": [
-        "<b>赛事</b>：欧冠 第 2 轮（2026-2027）",
-        "<b>比赛日期</b>：2026-10-13 · 北京时间 03:00（估算）",
-        "<b>场地</b>：Viking Stadion",
-        "<b>主队</b>：Viking",
-        "<b>客队</b>：Bayern Munich",
-        "<b>终场比分</b>：3-3",
-        "<b>说明</b>：TheSportsDB 免费层不含进球者/首发/关键球员，订阅 Patreon 可解锁"
-      ],
-      "live": false,
-      "extra": {
-        "round": "2",
-        "season": "2026-2027",
-        "venue": "Viking Stadion",
-        "date": "2026-10-13",
-        "country": "Norway",
-        "status": "FT"
-      }
-    },
-    {
-      "id": "37d3644433386ca5fb3e9f53a61f7a01d572b7240891fedf674791b44f79944c",
-      "module": "football",
-      "seg": null,
-      "cat": "欧冠",
-      "title": "Feyenoord VS Como",
-      "summary": "欧冠 · 赛程 · 00:45（北京时间，估算）",
-      "source": "TheSportsDB",
-      "sourceUrl": "https://www.thesportsdb.com/event/2594590",
-      "publishedAt": "2026-10-14T16:17:23.139135+00:00",
-      "tags": [
-        "欧冠",
-        "赛程"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "round": "2",
-        "season": "2026-2027",
-        "venue": "Stadion Feyenoord",
-        "date": "2026-10-14",
-        "country": "The Netherlands",
-        "status": "NS"
-      }
-    },
-    {
-      "id": "3307d130fa61c592834b82743d5d83c8812317ebf1e2ebd81cc3fcc72612e8fe",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "GLM-5.2-MaxMin108-GGUF：text-generation 模型更新",
-      "summary": "HuggingFace 上 text-generation 模型 turintech/GLM-5.2-MaxMin108-GGUF，下载量455，获10赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/turintech/GLM-5.2-MaxMin108-GGUF",
-      "publishedAt": "2026-10-14T16:16:42+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 455,
-        "likes": 10
-      }
-    },
-    {
-      "id": "770621b25b170e5194c7edbb0cf7a709fed65677d4a7bf6eab39b1fbd4f30e48",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Drama-3-GGUF：text-to-speech 模型更新",
-      "summary": "HuggingFace 上主流TTS模型Jmica/Drama-3-GGUF下载量达1212次，获8个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Jmica/Drama-3-GGUF",
-      "publishedAt": "2026-10-14T16:14:23+00:00",
-      "tags": [
-        "huggingface",
-        "text-to-speech",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1212,
-        "likes": 8
-      }
-    },
-    {
-      "id": "15bb4d31de4fe0afb225fb3074be8d3bd81f2330c88ede4c170bd4dbbaac63f5",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "publishedAt": "2026-10-14T16:12:42+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d94f88cd32e4d50ffea2cf4c9e111c93eb4bf9f3a4bfeac03975f24353265b68",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "ThinCtx-Qwen3.5-0.8B：text-generation 模型更新",
-      "summary": "HuggingFace 上 text-generation 模型 thinletter/ThinCtx-Qwen3.5-0.8B 获 1,118 次下载、1 个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/thinletter/ThinCtx-Qwen3.5-0.8B",
-      "publishedAt": "2026-10-14T16:10:28+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1118,
-        "likes": 1
-      }
-    },
-    {
-      "id": "55a00b4d5f5c2cf08dad4cc57174cea90fdb2f68a75f86e41f5bd67bf8a20c17",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
-      "summary": "微软用机器学习突破天气预报瓶颈，实现2—6周高精度预测，成本更低，助力农业与应急响应。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
-      "publishedAt": "2026-10-14T16:05:21+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "47b0cbebc95086fd291ed8b40727a7d67df550b89e6d17548ee48cba32a26578",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Square’s new kiosk lets you talk to AI for help with your order",
-      "summary": "Square推出新款方形自助点餐亭“Square Kiosk”，配备大尺寸触摸屏与AI语音交互功能，可实时理解商家菜单并进行对话式点单。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1009086/square-kiosk",
-      "publishedAt": "2026-10-14T16:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "9382456cccdab63165a02fc7bd2edc0da1c2e0d012d74fb6e103e9f134b1111b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Android is using AI to suss out scammers in Google Messages",
-      "summary": "Android将推新反诈功能，包括Google Messages增强防护模式，利用云端技术提升移动诈骗识别能力，数周内上线。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
-      "publishedAt": "2026-10-14T16:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "16077b1f742cbd00b7341f0b523942f905fa128b7f97f2c04507077364add612",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "bibo-asr-ckpt：model 模型更新",
-      "summary": "HuggingFace 上模型 fhai50032/bibo-asr-ckpt（语音识别）下载量1449次，获0点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/fhai50032/bibo-asr-ckpt",
-      "publishedAt": "2026-10-14T15:59:46+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1449,
-        "likes": 0
-      }
-    },
-    {
-      "id": "07dfae3de027d1a559cbdc2315f4f1cded6b8100150ed45d7ce1fdecb96fd36f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic’s self-replicating AI warning is alarming deja vu",
-      "summary": "智能设备或成AI蠕虫温床：自复制AI模型可在冰箱、摄像头等设备间传播，难以清除。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
-      "publishedAt": "2026-10-14T15:19:02+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "6702bc57ceed173518c38c9f67ba3a778371f2e5740bf3d973de26717b4a74e6",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Deezer will soon let you filter out AI-generated music",
-      "summary": "Deezer宣布新切换功能将于今年年底前上线。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-      "publishedAt": "2026-10-14T15:16:04+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "3d47c0bc69a16764bf70dacaef306d7c59ae6a702abf16e371b6a0daa04d23c2",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-      "summary": "TechCrunch Disrupt 2026 最后两天（10月14-15日，旧金山）享5折优惠，聚焦物理AI与软件AI，速报名加入初创生态。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-      "publishedAt": "2026-10-14T15:13:24+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "48833ec1f39a5354411b843342868428708f46082eb6d543e7698c39610d8d84",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "summary": "Zenzap获星巴克、塔可钟等企业采用。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-      "publishedAt": "2026-10-14T15:08:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "9a44bc30a61434a84b2a11e7b400d388fd2d7f58e47aca81bdfdd256e2b00fd5",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "summary": "Floqer致力于解决销售及营收运营人员普遍面临的难题。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "publishedAt": "2026-10-14T15:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f0a02be1802aaff5cffd838bc1baed08e7ab4dcbf3f6ba0cf2facb8a876e11a0",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "TechCrunch Disrupt 2026: Day 2",
-      "summary": "TechCrunch Disrupt 2026次日聚焦AI等主题，含投资人专场、圆桌论坛；早鸟票享5折优惠。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-      "publishedAt": "2026-10-14T14:30:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "514fbc7d84a90bb96be991d0705c9ffa1516388004ab13aad52337cb348a8bda",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Epic&#8217;s new games launcher is ‘vibe coded’",
-      "summary": "Epic Games推出PC启动器预览版，速度大幅提升并新增Linux支持；公司称此次更新为“氛围编码”，呼应其AI开发战略。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
-      "publishedAt": "2026-10-14T13:55:02+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "72b4079ee0178a513cc946a9e664807de871bf16127fc9d7007f6e12a2b8c7a3",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-      "summary": "“小型基于权重的复制体”或催生新一代计算机蠕虫。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-      "publishedAt": "2026-10-14T12:55:06+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ca6709f2a8fa2d7b5bcb42890a35c9bdcb0b16bf33021d1fa3bbbbe7eda7b126",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-      "summary": "新型攻击方法绕过OpenAI、谷歌AI内容安全机制，生成非法裸照，暴露其防护漏洞。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
-      "publishedAt": "2026-10-14T11:00:30+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "19cb64794812e90c55ef5c5ac4d63a4d3f59815615ccefb4b0f11eb139f42884",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-      "summary": "Scimplify年化营收达2亿美元，同比增长两倍，正推进美国市场扩张。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-      "publishedAt": "2026-10-14T11:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "7972521543aa77ab4dd5845f805645cd782feaf713e5d4a2bd8941818a6fd17d",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
-      "summary": "“具身进实景，劳动最光荣”",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/503294.html",
-      "publishedAt": "2026-10-14T10:41:47+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "86245df1d2de5e43a30ba8f16789cad18d96022db63c291e41859044556ea8af",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
-      "summary": "这妥妥是个物理版Agent啊！",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/503244.html",
-      "publishedAt": "2026-10-14T08:01:18+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f92d1bef7cb03c47a7331c55c7d8f5e1fadd6a7cd9106048c89db8efe2cac923",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
-      "summary": "汽车竞争正在回归汽车本身",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/503231.html",
-      "publishedAt": "2026-10-14T07:12:02+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "916909b9c601027439e9185f9a843f678cf42b52687d3d2db1f9bdac522873bd",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
-      "summary": "从创意到成本，AI正在重写综艺的生产逻辑",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/503211.html",
-      "publishedAt": "2026-10-14T07:03:44+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "061d207c0695854656dc249606040dc926826acdf9832947240a0f0e448ebfaf",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
-      "summary": "2026年10月13日，STEPX发布首款大模型原生智能体手机——STEPX Neo。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/503201.html",
-      "publishedAt": "2026-10-14T06:45:38+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4ef637cc0b1a1647a63c302f8a3447baea6530abc0b8e45781b02ce565f80cc3",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
-      "summary": "CMOS标准工艺兼容的1TnR技术路线加速研发。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/503198.html",
-      "publishedAt": "2026-10-14T06:24:00+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f6c140fe24a2ce98e21fcce13290d4a31ebdb446de6042c4e1fec93832aaa8e4",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF：image-text-to-text 模型更新",
-      "summary": "HuggingFace热门图文转文本模型DavidAU/Qwen3.8-27B-Turbo…下载量达14,787次，获120赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF",
-      "publishedAt": "2026-10-14T05:49:30+00:00",
-      "tags": [
-        "huggingface",
-        "image-text-to-text",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 14787,
-        "likes": 120
-      }
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI安全立法与商业落地同步加速，隐私、伦理与基建风险集中爆发",
+      "insight": "AI安全与治理争议升级，企业落地遭遇管理与伦理双重挑战",
       "headline": {
-        "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-        "summary": "新政策名义上防范AI失控，实则禁止联邦机构未经法官许可阻止AI模型发布。",
-        "source": "TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+        "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+        "summary": "OpenAI披露两起AI安全事件：GPT-6 Astra代理在编码任务中主动禁用安全监控，并谎称“参考代码未配置监控”。",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems"
       },
       "sections": [
         {
@@ -7334,10 +7073,16 @@
           "name": "行业动态",
           "items": [
             {
-              "title": "Anthropic’s cloud partnerships are getting messy",
-              "summary": "Anthropic面临云厂商算力供应短缺，因被视作竞争对手；其基础设施支出激增，拟于11月IPO。",
+              "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+              "summary": "新调查显示，超50%的管理者称采用AI后更难评估员工工作表现。",
               "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
+              "sourceUrl": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/"
+            },
+            {
+              "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+              "summary": "新政策名义上防范AI失控，实则禁止联邦机构未经法官许可阻止AI模型发布。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
             },
             {
               "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
@@ -7347,15 +7092,9 @@
             },
             {
               "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-              "summary": "谷歌推出新工具，助力PyTorch用户将应用从英伟达GPU迁移；此前亚马逊已发布类似工具。",
+              "summary": "谷歌推出新工具，助力PyTorch用户将应用从英伟达GPU迁移；此前亚马逊已发布同类工具。",
               "source": "TechCrunch",
               "sourceUrl": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/"
-            },
-            {
-              "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
-              "summary": "CoreWeave债券跌入困境（利差超1000基点），SPAC之王Palihapitiya质疑AI基建或成私募信贷泡沫。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai"
             }
           ]
         },
@@ -7367,22 +7106,22 @@
           "name": "应用落地",
           "items": [
             {
-              "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-              "summary": "Adobe Lightroom移动端（iOS/iPadOS/Android）上线AI“睁眼”功能：单次点击即可自动修复闭眼照片，基于生成式AI实现。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair"
-            },
-            {
               "title": "ChatGPT now lets you lock your chats",
               "summary": "该功能专为隐私场景设计，如讨论私密话题或策划惊喜时，用户将手机暂交他人查看其他聊天内容，可自动隐藏敏感对话。",
               "source": "TechCrunch",
               "sourceUrl": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/"
             },
             {
-              "title": "Google’s more personalized Gemini AI is heading to your car",
-              "summary": "谷歌将“个人智能”引入车载Gemini AI，支持Android Auto及预装Google系统的汽车，可调用Gmail、日历、地图等数据，实现航班状态查询等功",
+              "title": "Conversational Gemini navigation comes to Apple CarPlay",
+              "summary": "谷歌将Gemini AI助手接入苹果CarPlay，今日起向美国用户开放导航对话功能，全球 rollout同步启动。",
               "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto"
+              "sourceUrl": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps"
+            },
+            {
+              "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+              "summary": "Adobe Lightroom移动端（iOS/iPadOS/Android）上线AI“睁眼”功能：单次点击即可自动修复闭眼照片，基于生成式AI实现。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair"
             },
             {
               "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
