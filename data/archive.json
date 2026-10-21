@@ -68683,5 +68683,986 @@
       "bvid": "BV1eanw6QEQL",
       "duration": "5:32"
     }
+  },
+  "0d2566444211e24c7bbd3986110c0b1ffd12b63c37cc3598f448f23b7388af65": {
+    "id": "0d2566444211e24c7bbd3986110c0b1ffd12b63c37cc3598f448f23b7388af65",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "summary": "新政策名义上防范AI失控，实则禁止联邦机构未经法官许可阻止AI模型发布。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "publishedAt": "2026-10-20T23:01:23+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "598e4ed1af9d5fe65c1ceb8408bd97098db32fa992b0308d247e5c40b9ffb0f9": {
+    "id": "598e4ed1af9d5fe65c1ceb8408bd97098db32fa992b0308d247e5c40b9ffb0f9",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+    "summary": "Hugging Face联合创始人Clem Delangue批评Netflix纪录片《AI Gone Rogue》“过度末日化”，称其内容不准确。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "publishedAt": "2026-10-20T22:24:02+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "1b8c893488d2633f47766d1e9e91cf4f40de72a96df07b7ca5ce79287c221000": {
+    "id": "1b8c893488d2633f47766d1e9e91cf4f40de72a96df07b7ca5ce79287c221000",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Anthropic’s cloud partnerships are getting messy",
+    "summary": "Anthropic面临云厂商算力供应短缺，因被视作竞争对手；其基础设施支出激增，拟于11月IPO。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+    "publishedAt": "2026-10-20T21:25:22+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "4852b202c92921f0acdf7b312be660e83e680f2b427fcd5c5c8115ce31623558": {
+    "id": "4852b202c92921f0acdf7b312be660e83e680f2b427fcd5c5c8115ce31623558",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "SpaceX’s AI business is beating expectations",
+    "summary": "SpaceX三季度实现盈利，净利润44亿美元，AI技术成关键驱动力。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+    "publishedAt": "2026-10-20T20:40:41+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "db558801d8a8ad05b52111cfa0e4ca7ad19ed09055e61db89f9db8760abb6807": {
+    "id": "db558801d8a8ad05b52111cfa0e4ca7ad19ed09055e61db89f9db8760abb6807",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+    "summary": "OpenAI收购Orchestra团队及技术，用于升级生命科学AI模型Rosalind及其实验规划与分析工具Rosalind Workbench。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "publishedAt": "2026-10-20T20:35:10+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "c9b1fe85fc14822d5483c4cafc92923c4273bd18693dff66986e21821d21a958": {
+    "id": "c9b1fe85fc14822d5483c4cafc92923c4273bd18693dff66986e21821d21a958",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+    "summary": "谷歌推出新工具，助力PyTorch用户将应用从英伟达GPU迁移；此前亚马逊已发布类似工具。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+    "publishedAt": "2026-10-20T18:38:24+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "26a2b49d90a0e9cfb628259927168dce81b00597ac66184ca87c964f3b12410a": {
+    "id": "26a2b49d90a0e9cfb628259927168dce81b00597ac66184ca87c964f3b12410a",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "ChatGPT now lets you lock your chats",
+    "summary": "该功能专为隐私场景设计，如讨论私密话题或策划惊喜时，用户将手机暂交他人查看其他聊天内容，可自动隐藏敏感对话。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+    "publishedAt": "2026-10-20T18:36:53+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "ee37d49a8e0b9065d1a6b0e05492c3385f952ff89969600fefa9247541c8cb8e": {
+    "id": "ee37d49a8e0b9065d1a6b0e05492c3385f952ff89969600fefa9247541c8cb8e",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+    "summary": "埃里克·施密特财富将大幅增长。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+    "publishedAt": "2026-10-20T17:55:12+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "a766d6119c3810b0f871c9fbe243e0d7e701fdf4d714ea8d08e57afcc1200650": {
+    "id": "a766d6119c3810b0f871c9fbe243e0d7e701fdf4d714ea8d08e57afcc1200650",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+    "summary": "美法官驳回安·阿尔特曼诉其兄、OpenAI CEO萨姆性侵案，因其一年内未配合独立医学检查。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+    "publishedAt": "2026-10-20T23:04:19+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "491289cc6cb04716216d9130721b2c0c5fe28173d6b88a6322cde7036666d984": {
+    "id": "491289cc6cb04716216d9130721b2c0c5fe28173d6b88a6322cde7036666d984",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Google’s more personalized Gemini AI is heading to your car",
+    "summary": "谷歌将“个人智能”引入车载Gemini AI，支持Android Auto及预装Google系统的汽车，可调用Gmail、日历、地图等数据，实现航班状态查询等功能。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+    "publishedAt": "2026-10-20T22:11:34+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "4bc39a32254566dff43a0e6c5d3b17932c3cbc7f8be0d1bbbf1565c477b0fd71": {
+    "id": "4bc39a32254566dff43a0e6c5d3b17932c3cbc7f8be0d1bbbf1565c477b0fd71",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+    "summary": "Meta暂停Muse对话分享功能，因安全公司Claroc发现超6800个相关URL通过公共DNS泄露。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+    "publishedAt": "2026-10-20T18:07:34+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "1ae9d919098443d627c4eafce6d7170ba153759f2fcb6e9b7eec46390ee3771e": {
+    "id": "1ae9d919098443d627c4eafce6d7170ba153759f2fcb6e9b7eec46390ee3771e",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+    "summary": "Meta更新AI网络爬虫政策，允许其AI系统抓取公开网页内容，但明确表示不会遵守robots.txt协议。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+    "publishedAt": "2026-10-20T20:07:58+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "745ed8d86d0cb6663aed28a2b29c2f9f73c878f73d16b74f8faaaab9e3206280": {
+    "id": "745ed8d86d0cb6663aed28a2b29c2f9f73c878f73d16b74f8faaaab9e3206280",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Gemini's Personal Intelligence is coming to cars",
+    "summary": "It's probably time to audit your Gemini settings.",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+    "publishedAt": "2026-10-20T20:00:33+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "9d58526bd717a3b65125126205e2ae7010266ed2e4bf2030b5e6bf7258998061": {
+    "id": "9d58526bd717a3b65125126205e2ae7010266ed2e4bf2030b5e6bf7258998061",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
+    "summary": "乌克兰新型无人机或提升伤员撤离成功率，改善战场救援困境。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
+    "publishedAt": "2026-10-20T18:22:54+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "74fa816394539ce68e0d47807e62727eed2401a4d076db4e3a62de8b10732a0b": {
+    "id": "74fa816394539ce68e0d47807e62727eed2401a4d076db4e3a62de8b10732a0b",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+    "summary": "Meta称AI训练用盗版书非其主动选择，而是数据集固有内容。",
+    "source": "Ars Technica",
+    "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+    "publishedAt": "2026-10-20T17:40:20+00:00",
+    "tags": [
+      "ai-news",
+      "Ars Technica"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "049251759cc0de0cc8f10d6b72fc6faaff089520341bd1620a52b9a8926b32b8": {
+    "id": "049251759cc0de0cc8f10d6b72fc6faaff089520341bd1620a52b9a8926b32b8",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
+    "summary": "先看真实问题解决力",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/504608.html",
+    "publishedAt": "2026-10-21T02:37:39+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "447b2ef3750e02edc0c647348aa7d38e15ba4c0ca74261601a217a24e21f0387": {
+    "id": "447b2ef3750e02edc0c647348aa7d38e15ba4c0ca74261601a217a24e21f0387",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
+    "summary": "电池、电驱、超充一把梭，冬天多跑30公里",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/504551.html",
+    "publishedAt": "2026-10-21T01:04:35+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "6727a386925e1cfcb7cfd66f829b012f08af84e38a6d51d72a6d09bec4e53649": {
+    "id": "6727a386925e1cfcb7cfd66f829b012f08af84e38a6d51d72a6d09bec4e53649",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
+    "summary": "兔皮底下，竟然是MiniMax！",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/504517.html",
+    "publishedAt": "2026-10-20T13:29:54+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "1d7b22bae7f3a29cf491b62754eb0814593e2506eb8a90c45de48e7dda4b6f56": {
+    "id": "1d7b22bae7f3a29cf491b62754eb0814593e2506eb8a90c45de48e7dda4b6f56",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
+    "summary": "把记忆原生焊进Transformer",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/504456.html",
+    "publishedAt": "2026-10-20T12:50:34+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "9311b7923478193de0769a8165271fbbc81cbc047f044d36e70f52dbe2e50986": {
+    "id": "9311b7923478193de0769a8165271fbbc81cbc047f044d36e70f52dbe2e50986",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "比亚迪成为2026年APEC会议官方合作伙伴",
+    "summary": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/504452.html",
+    "publishedAt": "2026-10-20T09:57:35+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "79a282eed6547f819856f94c35018b3b939a0a6ddcabbc3c97ff92d3c3258ea5": {
+    "id": "79a282eed6547f819856f94c35018b3b939a0a6ddcabbc3c97ff92d3c3258ea5",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展",
+    "summary": "当地时间10月12日，2026巴黎国际车展正式启幕。",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/504435.html",
+    "publishedAt": "2026-10-20T09:13:14+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "5301b7246a52e54e4b435a2c949d856517513ad399199c44ebbcbf75c432c537": {
+    "id": "5301b7246a52e54e4b435a2c949d856517513ad399199c44ebbcbf75c432c537",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效",
+    "summary": "最新发布TokenFleet调度框架",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/504421.html",
+    "publishedAt": "2026-10-20T08:01:25+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "c634870d63b04fde681608d2e73ca09f8ee728cca08d990ac2e2c94ff5228f92": {
+    "id": "c634870d63b04fde681608d2e73ca09f8ee728cca08d990ac2e2c94ff5228f92",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
+    "summary": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/504415.html",
+    "publishedAt": "2026-10-20T04:59:04+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "b29934ce8f8fb3b4130a88c1c1d368e004db51c5979a0dfd511536acfe331db1": {
+    "id": "b29934ce8f8fb3b4130a88c1c1d368e004db51c5979a0dfd511536acfe331db1",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+    "publishedAt": "2026-10-20T18:17:47+00:00",
+    "tags": [
+      "ai-news",
+      "HuggingFace Blog"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "dcd69469df0dddbafb87bb8210a1ae4a6aa371cabf0bef88d02864d62f196712": {
+    "id": "dcd69469df0dddbafb87bb8210a1ae4a6aa371cabf0bef88d02864d62f196712",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "decider-4b-GGUF：model 模型更新",
+    "summary": "HuggingFace 上 mradermacher/decider-4b-GGUF 模型下载量达1569次，获1个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/mradermacher/decider-4b-GGUF",
+    "publishedAt": "2026-10-21T05:42:17+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1569,
+      "likes": 1
+    }
+  },
+  "e1c6d13cef0c2fee912f34ceaad6c3ce885438899e3436047b7f801f8c3fa333": {
+    "id": "e1c6d13cef0c2fee912f34ceaad6c3ce885438899e3436047b7f801f8c3fa333",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Ornith-1.5-122B-GGUF：text-generation 模型更新",
+    "summary": "HuggingFace 上 ornith-ai/Ornith-1.5-122B-GGUF 文本生成模型暂无下载，获26赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/ornith-ai/Ornith-1.5-122B-GGUF",
+    "publishedAt": "2026-10-21T05:38:17+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 26
+    }
+  },
+  "8ce77abce84c4e16bd84364632c7021cfc9621d7fa886bdf3244302394f240c9": {
+    "id": "8ce77abce84c4e16bd84364632c7021cfc9621d7fa886bdf3244302394f240c9",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "pocket-tts-coreml：text-to-speech 模型更新",
+    "summary": "HuggingFace 上 FluidInference/pocket-tts-coreml 文本转语音模型获1084次下载、8个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/FluidInference/pocket-tts-coreml",
+    "publishedAt": "2026-10-21T05:37:19+00:00",
+    "tags": [
+      "huggingface",
+      "text-to-speech",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1084,
+      "likes": 8
+    }
+  },
+  "622c041997c70aa27a38c32ce3952a7534863e4ba4618c5ee8147d9ada96e3e5": {
+    "id": "622c041997c70aa27a38c32ce3952a7534863e4ba4618c5ee8147d9ada96e3e5",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Ornith-1.5-122B-NVFP4：text-generation 模型更新",
+    "summary": "HuggingFace 上 ornith-ai/Ornith-1.5-122B-NVFP4 文本生成模型暂无下载，获15赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/ornith-ai/Ornith-1.5-122B-NVFP4",
+    "publishedAt": "2026-10-21T05:37:11+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 15
+    }
+  },
+  "526f0a724d8f433fd76249cf2e4a3b88849f8aa108741a633be6278dfab0f1ac": {
+    "id": "526f0a724d8f433fd76249cf2e4a3b88849f8aa108741a633be6278dfab0f1ac",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Ornith-1.5-122B：text-generation 模型更新",
+    "summary": "HuggingFace 上 ornith-ai/Ornith-1.5-122B 文本生成模型获 32 次下载、101 赞，为当前主流大模型之一。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/ornith-ai/Ornith-1.5-122B",
+    "publishedAt": "2026-10-21T05:36:39+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 32,
+      "likes": 101
+    }
+  },
+  "d9981b525ef221ec5583c6287b97a593f0d0fc612f8f14f7c24283afd05a5261": {
+    "id": "d9981b525ef221ec5583c6287b97a593f0d0fc612f8f14f7c24283afd05a5261",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
+    "summary": "新模型“Joints, Camera, Action!”可为任意3D骨架（不限于人形）同步生成视频与可重用的3D动作，同时输出匹配相机位姿，突破以往仅支持人类骨骼或参数量过大的局限。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.28632v1",
+    "publishedAt": "2026-10-20T17:59:56+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For instance, a video model can show a monkey jumping over a crossbar, but it cannot return that jump as replayable 3D motion placed in the 3D scene. Here we present a model that directly co-generates the video and 3D motion for any supplied rig, along with a camera that registers this motion to the scene. Prior video-motion models either handle only human skeletons, often adding billions of parameters, or triangulate 3D motion from generated 2D pose maps. We instead keep 3D motion in a separate model that supports arbitrary skeletons, and connect it to a pretrained video model through a small set of cross-attention layers. This separation lets the motion model first learn how skeletons move from motion-only data, which is easier to obtain and augment than paired video. Additionally, our model learns to locate each joint in the video frames, which lets us recover the camera and place the 3D motion in the scene. To train across many skeletons, we use a generative video editor to place animated 3D assets in scenes suited to their actions, curating the edits so their known motion remains valid. Together with human and robot video, this yields nearly 200K training pairs. Our evaluations demonstrate that our model animates diverse rigs from text more faithfully than video-first pipelines, and its motion responds to the surrounding scene. It also turns video into rig motion, rig motion into video, and enables keyframe-based control of the 3D motion. Videos and additional results are available on our project page: https://research.nvidia.com/labs/par/projects/jca/."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Noam Rotstein, Yoad Tewel, Chen Tessler et al.",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.GR",
+        "cs.LG",
+        "cs.RO"
+      ]
+    }
+  },
+  "8a1b2cb450c91e13f18c800ca0a237465db546b6909405f9f948a4a9c4cf09d9": {
+    "id": "8a1b2cb450c91e13f18c800ca0a237465db546b6909405f9f948a4a9c4cf09d9",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
+    "summary": "研究团队提出GBClaw智能体AI框架，专用于通用晶界（GBs）原子尺度结构与变形机制研究，突破其复杂性导致的实验与建模难题。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.28629v1",
+    "publishedAt": "2026-10-20T17:59:40+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challenging. Here, we present GBClaw, an agentic AI framework for investigating the structure and deformation of general grain boundaries (GBs). Although general GBs constitute the vast majority of real-world interfaces in polycrystalline materials, they remain understudied because their structural complexity and interfacial mismatch complicate experimental and modeling research. GBClaw integrates large language models (LLMs) into a modular architecture comprising an orchestrator, specialized agents, domain-specific tools, simulation interfaces, and hierarchical memory. Through dynamic replanning and iterative workflow refinement, the framework effectively connects systematic simulations with targeted mechanistic analysis. Applied to 14 general asymmetric tilt GBs in nickel, GBClaw characterized interfacial defect structures and identified diverse deformation modes across these incommensurate boundaries. Comparing boundary sliding with and without secondary GB misfit dislocations revealed substantial differences in shear strength, underscoring the critical role of defect hierarchies in sliding resistance. Furthermore, researcher-guided follow-up calculations traced an anomalously high shear resistance to metastable boundary structures. This work demonstrates that combining agentic AI with domain expertise bridges high-throughput computational screening with deep physical understanding of complex material interfaces."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Yazhuo Liu, Kunqing Ding, Xiaoguo Gong et al.",
+      "categories": [
+        "cond-mat.mtrl-sci",
+        "cond-mat.mes-hall",
+        "cs.AI",
+        "cs.MA"
+      ]
+    }
+  },
+  "ec7799a003c00764babcfa3b5973d791c45edf16692c967e6bc962d4a45c7dbf": {
+    "id": "ec7799a003c00764babcfa3b5973d791c45edf16692c967e6bc962d4a45c7dbf",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking",
+    "summary": "研究提出AdaDex框架，融合强化学习与运动模仿，仅需数秒人类手-物轨迹，即可实现自适应灵巧操作，兼顾泛化性与自然性。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.28628v1",
+    "publishedAt": "2026-10-20T17:59:32+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Dexterous multi-finger hands hold promise to unlock diverse skills like functional grasps, in-hand reorientation, and dynamic handover that the human-designed world assumes, yet existing learning recipes force a trade-off. Goal-reaching reinforcement learning generalizes to arbitrary object poses but, lacking any human prior, converges to unnatural and unreliable finger strategies; motion tracking reproduces human-like behavior from a single clip but cannot deviate from it. We present AdaDex, a goal-conditioned RL framework that turns a single hand-object trajectory of a few seconds---from mocap data or HOI reconstruction from in-the-wild RGB(D) video---into an adaptable dexterous skill. At the core of AdaDex is Hybrid Dexterous Mimicking: a shared policy is trained on two populations of massively parallel environments: motion tracking environments trained with dense motion tracking objective, which instill the human prior from human motion; and generalization environments with noised initial states and goals and a sparse object-success reward, which force the skill to work far off the reference. From seconds of human motion per skill, the resulting policies can learn diverse adaptable dexterous skills, such as functional grasping, object reposing, in-hand reorientation with finger gaiting, and dynamic behaviors like throw-and-catch. Our method outperforms baselines in terms of generalization and functionality, and we demonstrate transfer across simulators and to the real world. Project page: https://yuxuank.com/AdaDex/."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Yuxuan Kuang, Jiashun Wang, Yixuan Sun et al.",
+      "categories": [
+        "cs.RO",
+        "cs.CV",
+        "cs.GR",
+        "cs.LG"
+      ]
+    }
+  },
+  "e13d3f20287e8a4490be92d6f60f392d7ba73991f5b1c1e0b6a7c0b7bf853cef": {
+    "id": "e13d3f20287e8a4490be92d6f60f392d7ba73991f5b1c1e0b6a7c0b7bf853cef",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
+    "summary": "UniWALM：统一世界-动作-语言模型，融合视频、动作与语言于单一共享表征，支持跨模态生成与记忆依赖行为，提升机器人操控能力。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.28626v1",
+    "publishedAt": "2026-10-20T17:59:04+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language model that learns video, action, and language in a single shared representation, where each modality is both a conditioning signal and a supervision target. We ask: can jointly generating language enrich this shared representation, improving manipulation and supporting memory-dependent behavior? Unlike prior approaches that attach a reasoning or vision-language model to a video-action backbone and run them as distinct stages, UniWALM unifies all three modalities inside a single mixture-of-transformers backbone whose per-modality diffusion heads co-denoise synchronously, decoding subtask and textual memory in the same pass as action with no separate planning stage; the generated language is re-consumed on the next step, closing a language-as-memory loop without an external planner or memory bank. To keep the action stream reliable under this richer objective, we further introduce Flow Matching with Correction (FMC), a training objective that teaches recovery from perturbed action trajectories at no inference-time cost. UniWALM consistently improves over same-backbone baselines (e.g., FastWAM) on compositional pick-and-place (MolmoSpaces) and across the memory-dependent subset of RMBench, where it reaches 34.5% without any pretrained language or reasoning model and exceeds Mem-0's keyframe-equipped setup (28.5%) using only a single anchor frame. On a real-world Find-the-Item task, generating textual memory lifts success from 11.1% to 61.1%, while state-of-the-art VLAs stay at or below chance (<=33.3%)."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Rahul Sajnani, Diego Romeres, Mingyuan Zhang et al.",
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "cs.CV"
+      ]
+    }
+  },
+  "4f8415dab869ad4debc6cf5accc2d629ecd643f86958a10cd31b4a7c957c08f9": {
+    "id": "4f8415dab869ad4debc6cf5accc2d629ecd643f86958a10cd31b4a7c957c08f9",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets",
+    "summary": "IndustrialReMEmbR扩展NVIDIA ReMEmbR至仓储机器人集群，按需生成场景描述，降低服务器计算量，Jetson端用Co模型编码视频为检索嵌入。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.28624v1",
+    "publishedAt": "2026-10-20T17:58:32+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Warehouse robot fleets continuously observe operational conditions, but preserving these observations as reusable semantic memory incurs substantial computation, communication, and storage costs. For example, explaining recurring aisle blockages can require reviewing video from multiple robots across several shifts. We present IndustrialRemembr, a shared spatiotemporal memory system that extends NVIDIA ReMEmbR to robot fleets and reduces server-side computation by generating scene descriptions only on demand. On each robot, an NVIDIA Jetson encodes video clips into retrieval embeddings with Cosmos-Embed1, vision tokens with Cosmos3-Edge, and reconstruction latents with the Wan2.2 VAE, without uploading raw camera frames. The encoding models are re-used to detect people in image patches, zeroing them out to support PII abstraction for GDPR-compliant deployments. We split Cosmos3-Edge at its vision-language boundary, placing the vision encoder on the robot and the language decoder on an on-premises server. A Nemotron agent retrieves memories by content, position, and time and queries the decoder using cached vision tokens. This design eliminates caption generation at write time, while cached-token decoding reproduces the unsplit model's output in all 450 tested decodes."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Jad Yammine, Malek Wahidi, Abrar Anwar et al.",
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "cs.SE"
+      ]
+    }
+  },
+  "db66e4a124e28175a43cbd130a295b87a7557d08c92e44e97681baa68d3da896": {
+    "id": "db66e4a124e28175a43cbd130a295b87a7557d08c92e44e97681baa68d3da896",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Planning under Noise with Neural Operators",
+    "summary": "研究提出PUN神经算子，基于屏蔽泊松随机最优控制框架，学习噪声感知的价值场，支持未知环境中的鲁棒规划，解决边界条件设定与梯度计算难题。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.28623v1",
+    "publishedAt": "2026-10-20T17:58:30+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Planning under uncertain control execution noise requires reliable feedback policies across diverse environments. We introduce Planning Under Noise (PUN), a neural operator that learns noise-aware value fields for planning in unseen geometries. Building on an established screened-Poisson formulation of stochastic optimal control, we address two challenges: specifying boundary conditions that support navigation across varying geometries and efficiently computing fields with reliable gradients. Zero-Dirichlet obstacle boundaries terminate sampled paths at walls, weakening the goal signal along long routes and making it harder to estimate reliably. We instead impose reflecting Neumann conditions on obstacles and a Dirichlet condition at the goal, allowing sampled paths to continue exploring free space until they reach the target. To solve the resulting PDE without a configuration-space mesh, we extend a Monte Carlo (MC) solver, Walk on Stars (WoSt), to higher dimensions. However, local MC fluctuations can reverse estimated gradient directions and cause planning failures, making direct planning require costly sampling. PUN amortizes this computation by learning geometry-to-field mappings from noisy, partially converged Monte Carlo labels, avoiding expensive convergence for every training example. At inference, test-time scaling uses bounded local search guided by the predicted global field. We evaluate PUN on planning tasks across dimensions. Across four noise levels, PUN matches or outperforms all compared planners, achieving 95-100% success on the 4D replanning benchmark while maintaining the lowest runtime. At the highest tested noise level in 4D, PUN achieves 10.7-60.6% relative gains in success rate over other methods while running 3.29-32.15 times faster."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Michael Chen, Hong Chul Nam, Xi Deng et al.",
+      "categories": [
+        "cs.LG",
+        "cs.RO"
+      ]
+    }
+  },
+  "24fb0e91b9b89466e995c36374537d264abfa8da4602f6544b2211cea30a9b26": {
+    "id": "24fb0e91b9b89466e995c36374537d264abfa8da4602f6544b2211cea30a9b26",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "MindView: Benchmarking Generative Multi-View Spatial Intelligence",
+    "summary": "MindView是首个生成式多视角空间智能基准，含1500个样本、7项任务，分几何主导与语义主导两类，覆盖513个室内场景。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.28622v1",
+    "publishedAt": "2026-10-20T17:58:25+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Spatial intelligence has recently been assessed through generative tasks such as spatially grounded image editing, yet language-guided generation of spatially consistent views from partial multi-view observations remains underexplored. We introduce MindView, a benchmark for generative multi-view spatial intelligence with 1,500 samples from 513 scenes across three indoor datasets. Its seven tasks form two families: geometry-dominant tasks specify changes in camera position and orientation, while semantics-dominant tasks require inferring target viewpoints by grounding referred objects and interpreting spatial relations and reference-frame cues. Evaluation of eleven generators reveals substantial room for improvement on MindView. A paired context analysis further shows that all eleven generators obtain lower overall scores under the expanded context setting. These findings motivate us to investigate whether task-specific supervision can improve target-view generation and whether models can use additional multi-view evidence effectively. We therefore fine-tune BAGEL on the MindView training dataset, improving its overall score by 24.3 points and yielding gains across all seven MindView tasks. Beyond these generation gains, the fine-tuned model also yields higher scores on three spatial-understanding benchmarks without training on their annotations, suggesting that learning to generate spatially grounded views may benefit spatial understanding. To improve evidence utilization under expanded context, we propose MindCue, a training-free spatial evidence selector guided by a target-view hypothesis. MindCue reverses the drop in overall score under expanded context and outperforms the standard-context baseline. Overall, MindView provides a concrete testbed for generative multi-view spatial intelligence."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Yanbo Wang, Siqi Luo, Siyu Zhang et al.",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ]
+    }
+  },
+  "e2491c3d0610963cb0da8b9da4cb9fdfa5df231f8466767719b418d14b971701": {
+    "id": "e2491c3d0610963cb0da8b9da4cb9fdfa5df231f8466767719b418d14b971701",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Adaptive Multi-Token Prediction: How far should we go?",
+    "summary": "论文提出自适应多令牌预测（MTP），将推测长度建模为在线控制问题，利用验证反馈动态调整，提升解码效率与计算利用率。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.28619v1",
+    "publishedAt": "2026-10-20T17:56:32+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Multi-token prediction (MTP) can accelerate language-model decoding by drafting several tokens and verifying them in a single target-model pass. However, the best speculation horizon changes with context: longer drafts offer greater amortization when reliable, but can waste compute on suffixes discarded after a rejection. Unlike autoregressive drafting, where a stopping rule can decide token by token, MTP must fix the horizon before drafting, as all heads fire in the same forward pass. We therefore formulate horizon selection as an online control problem, using verification feedback to learn how far the draft can be trusted in each context, and introduce Adaptive Multi-Token Prediction (AMTP): a lightweight controller that requires no retraining and leaves the exact verifier unchanged. To guide horizon selection, we characterize the expected number of tokens committed at each horizon via acceptance survival, the probability that a draft prefix is fully accepted. Before each round, AMTP predicts how far the draft is likely to survive and picks the horizon with the highest expected tokens per second, learning freely from every verification pass. Theoretically, we show that any online learner's prediction error translates into throughput regret against the best horizon for each context, and in turn into a bound on wall-clock completion time. With online gradient descent, this regret is sublinear. Across five draft-target pairings built on Llama-3.1-8B-Instruct with Medusa heads, Meta's MTP models, and Qwen3-4B-Inst-2507-MTP, evaluated on AIME 2025 and GSM8K, AMTP decodes up to 4.1x faster than standard decoding and matches or outperforms the fixed window in 8 of 10 settings, with throughput gains of up to 10%."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Emile Anand, Mohammed Rehan Parwani, Xinyuan Cao",
+      "categories": [
+        "cs.AI",
+        "cs.LG",
+        "eess.SY"
+      ]
+    }
+  },
+  "2a9890b36375b73d4d0952c14f9deb70a671ae5b02dfe8a5e05e0052f33f75ac": {
+    "id": "2a9890b36375b73d4d0952c14f9deb70a671ae5b02dfe8a5e05e0052f33f75ac",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Efficient Edge-aware Attention Network for Graph Generation",
+    "summary": "提出边缘感知注意力层，融合结构信息，适配硬件加速，解决图生成中动态边更新的内存瓶颈。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.28618v1",
+    "publishedAt": "2026-10-20T17:56:05+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Graph generative models commonly use graph-specific Transformer architectures to jointly update node and edge features. However, these architectures do not directly benefit from recent hardware-aware attention implementations, limiting their scalability. The adaptation is, however, non-trivial: edge and graph-level features must be injected into pairwise attention scores, graph masks must be respected, and dynamic edge updates remain a major source of quadratic memory usage. We propose an edge-aware attention layer for graph generation that incorporates structural information through head-wise score modulation, while updating edge representations with a lightweight residual mechanism that retains attention-score dependent edge updates. This layer can be effectively implemented using PyTorch's FlexAttention. We achieve similar generation quality to our baseline while reducing peak GPU memory by around 65% and substantially improving training and sampling throughput. These results suggest that the proposed architecture is a practical step toward scalable graph foundation models."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Vincent Jung, Alba Carballo-Castro, Yiming Qin et al.",
+      "categories": [
+        "cs.LG"
+      ]
+    }
+  },
+  "cf9beced1d27ff6c94464b4c24970e904faac506f8d915569636b176ec89a4c2": {
+    "id": "cf9beced1d27ff6c94464b4c24970e904faac506f8d915569636b176ec89a4c2",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "NarraSpace: Multimodal Scene-Grounded Evidence for Picture-Description Dementia Classification",
+    "summary": "NarraSpace通过图文对齐与时空叙事描述，结合冻结语言模型，实现阿尔茨海默病 picture-description 分类，准确率提升显著。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.28616v1",
+    "publishedAt": "2026-10-20T17:55:44+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Picture-description dementia classification uses a shared visual scene, but a transcript-level prediction alone does not identify the scene evidence underlying its inputs. NarraSpace links words and speech times to named picture elements and retrieves utterances for predefined scene events. Narrative-spatial descriptors summarize coverage and temporal organization. A frozen language model contrasts each event's text under examples from Alzheimer's disease and healthy-control training participants, alongside transcript surprisal and coverage measurements. Retained source records link event scores to their source utterances, speech intervals, and lexical matches. On the official 48-participant test set of the Alzheimer's Dementia Recognition through Spontaneous Speech benchmark, a fixed support vector classifier achieves $80.88\\%\\pm2.56\\%$ mean accuracy over fifty seeds; averaged probabilities yield $81.25\\%$ accuracy and $91.32\\%$ area under the receiver operating characteristic curve. NarraSpace makes the construction of scene-linked classification inputs explicit and inspectable by connecting event-indexed language-model measurements to their source utterances, speech timing, and extraction records. Such source-linked measurements could support clinician review of picture descriptions by presenting quantitative summaries alongside the original speech evidence."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Qingming Li, Ruiyan Sun, Satoshi Nakamura",
+      "categories": [
+        "cs.CL"
+      ]
+    }
+  },
+  "0fc4da5d2bcd2db23d14aecfbb2f4f322926e5b9a4c8f7a492c2e8fc5ea971d8": {
+    "id": "0fc4da5d2bcd2db23d14aecfbb2f4f322926e5b9a4c8f7a492c2e8fc5ea971d8",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Semantic Observability for Autonomous Systems Diagnostics",
+    "summary": "提出Semantic Observability框架，构建动态属性图数据库，融合多源异构日志，助力SRE自动定位级联故障根因。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.28611v1",
+    "publishedAt": "2026-10-20T17:53:32+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Modern distributed microservice deployments generate massive volumes of heterogeneous, multi-format observability logs across physically and logically partitioned infrastructure. Isolating root causes during cascading failures remains an arduous task for Site Reliability Engineers (SREs), bottlenecked by manual keyword filtering and disjointed temporal correlation across monitoring dashboards. We introduce Semantic Observability, an autonomous multi-agent framework that unifies disparate log streams into a dynamic, queryable Property Graph Database. By modeling physical infrastructure topologies, logical software dependencies, and chronological event sequences as attributed nodes and directed relations, it bridges the semantic gap inherent in flat, unstructured log repositories. Building on this unified substrate, we deploy a stateful multi-agent system orchestrated through Directed Cyclic Graphs (DCGs). The system autonomously navigates the topology, applying causal graph algorithms and temporal back-traversal to isolate the precise blast radius of anomalies. The pruned subgraph is then interpreted by a Large Language Model (LLM) reasoning engine to generate contextualized, code-level Root Cause Analyses (RCA) and actionable remediations. This paper establishes the foundational system architecture, formal relational ontology, and multi-agent control loops of Semantic Observability. We show conceptually how the framework eliminates ambient telemetry noise, reduces Mean Time to Resolution (MTTR), compresses LLM token consumption, and prevents structural hallucinations. We also specify an open-source validation framework on standard benchmarks (LogHub and Train-Ticket), laying the groundwork for a forthcoming companion paper on exhaustive quantitative evaluation and production benchmarking."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Jitendra Solanki, Anand Todkar, Ziran Min",
+      "categories": [
+        "cs.AI"
+      ]
+    }
+  },
+  "a3a56b5b0d82d56186586f0f2a158b0148d5efb01611a524885378a4e46b5d21": {
+    "id": "a3a56b5b0d82d56186586f0f2a158b0148d5efb01611a524885378a4e46b5d21",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Benchmarking Arabic Dialects for Math Problems",
+    "summary": "研究团队推出首个阿拉伯方言数学推理基准DAR-MGSM，涵盖5种方言及标准阿拉伯语，含翻译版和文化本地化版，推动低资源语言数学推理评估。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.28607v1",
+    "publishedAt": "2026-10-20T17:50:13+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Mathematical reasoning remains underexplored for low-resource languages, including Dialectal Arabic. To bridge this gap, we introduce the DAR-MGSM (Dialectal Arabic Multilingual Grade School Math) Benchmark, the first manually curated benchmark for evaluating mathematical reasoning in Dialectal Arabic. DAR-MGSM consists of math word problems (MWPs) requiring multi-step reasoning and covers five major Arabic dialects alongside Modern Standard Arabic (MSA). The benchmark comprises two parallel versions: translated-only and translated & culturally localized. The latter version adapts entities and references to regional varieties. We evaluate eleven Arabic-centric and multilingual large language models on DAR-MGSM. The results show that the performance generally declines on the localized version, highlighting the challenges introduced by culturally grounded adaptations. However, the magnitude of this effect varies across models, with Arabic-centric models exhibiting different levels of sensitivity to localization. A mechanistic interpretability analysis shows that translated and localized variants of the same MWPs often induce distinct internal reasoning trajectories, even when aggregate accuracy remains similar. Overall, our results show that mathematical reasoning performance depends on both linguistic variety and cultural context."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Noor Abo Mokh, Teresa Lynn, Nizar Habash et al.",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ]
+    }
+  },
+  "60a44c9f3903c1fd24f02ae07495bc9e8e1f09015c23cb1e069c688bd067bccf": {
+    "id": "60a44c9f3903c1fd24f02ae07495bc9e8e1f09015c23cb1e069c688bd067bccf",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Value-Rich, Differently Organized: Measuring Value Expression and Organization in AI-Generated Debates",
+    "summary": "研究提出新框架，基于施瓦茨10大价值观理论，分别量化AI与人类辩论中的“价值表达”（涉及的价值范围）和“价值组织”（价值在论点中的分布与延续），弥补现有评估重论证质量、轻价值结构的不足。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.28604v1",
+    "publishedAt": "2026-10-20T17:48:56+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Current evaluation of LLM-generated debate largely focuses on argumentative quality, leaving the value structure of generated arguments underexamined. We introduce a diagnostic metric framework for comparing how values are expressed and organized in human-reference and AI-generated debates. The framework separates value expression, the range of recognizable values a debate invokes, from value organization, how those values are distributed and sustained across turns. Grounded in Schwartz's Basic-10 value theory, it represents debates as multi-level value distributions over argumentative units, utterances, stances, and full debates, enabling metrics for value coverage, alignment, diffusion, and cross-turn dynamics. Across multiple generation systems, AI-generated debates are broadly value-expressive, often activating as many or more value dimensions than matched human references, but they organize these values differently. Their utterances are more locally value-diffuse, and source-blind judges distinguish value clarity from value focus. These findings show that debate evaluation should consider not only value presence, but also value organization. Code and supplementary materials are available at https://github.com/Maoyuan-li/Value-Expression-and-Organization."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Maoyuan Li, Haoyuan Li, Zhongsheng Wang et al.",
+      "categories": [
+        "cs.AI"
+      ]
+    }
+  },
+  "a6dceaebd13141a13fc66c40dc0bb70cb10e3f3c7a17aa17d745a25849f42fea": {
+    "id": "a6dceaebd13141a13fc66c40dc0bb70cb10e3f3c7a17aa17d745a25849f42fea",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Turning TS2Vec into a Foundation Model for Time Series Classification",
+    "summary": "研究将TS2Vec改造为时序分类基础模型，首次实现单次预训练、跨数据集复用，保持其轻量卷积结构与变长输入支持能力。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.28602v1",
+    "publishedAt": "2026-10-20T17:47:51+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "TS2Vec is one of the strongest self-supervised methods for time series classification, introduced in 2022. It is designed to be trained anew on every dataset: self-supervised pre-training followed by linear probing. Since then, the field has shifted towards foundation models that reuse one encoder across datasets. Yet TS2Vec offers a compact convolutional architecture that operates directly on temporal samples and accepts variable-length inputs without resampling. We ask whether these properties can be retained when the encoder is pre-trained only once, and show that they can: TS2Vec can essentially be turned into a foundation model. Three changes suffice: pre-train on a synthetic corpus, feed the encoder a raw amplitude view and an instance-normalized shape view of the input through two small stems, and distill one specialist encoder per view into a single encoder. The result, TS2Vec-FM, is a 1.6M-parameter dilated convolutional network that, kept frozen, reaches 83.3% on UCR-128 and 75.3% on UEA-27 under linear probing, within 0.3 pp of MantisV2, the current state of the art, and above TS2Vec trained separately on each target dataset. What we find most interesting is how different TS2Vec-FM is from other foundation models in design: near-parity is reached without attention, without a patch tokenizer, and without intermediate-layer extraction, using an \"old-school\" convolutional encoder and a two-layer MLP stem."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Vasilii Feofanov, Zhenghan Tai, Andrei Ermakov et al.",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    }
+  },
+  "e69cbfe2a93882f3178b773c85b0cfd4e21655aa8bdc7a1c7bf8cb446f64b2f9": {
+    "id": "e69cbfe2a93882f3178b773c85b0cfd4e21655aa8bdc7a1c7bf8cb446f64b2f9",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Evolving Agent Interfaces",
+    "summary": "论文提出Agent S4系统，让AI自主构建“进化型代理接口”，摆脱人工设计限制，提升计算机操作效率。（59字）",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.28601v1",
+    "publishedAt": "2026-10-20T17:47:37+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Computer-use agents are limited by the interfaces humans give them. An agent may type a spreadsheet cell by cell when a single line of code would do, or print all two thousand lines of a file through a shell to find one function. Both the interfaces and the knowledge of when to use each are built by hand, which cannot keep pace with new applications, workflows, and models. We argue that interface design should itself be an agent capability. We introduce Agent S4, an autonomous computer-use scientist that builds Evolving Agent Interfaces from task experience. A meta-agent examines task agents' trajectories on synthetic training tasks, without success labels, and constructs and revises interfaces and usage knowledge in a repository. Population-based evolution then selects which repositories to develop further by their performance on validation tasks the meta-agent never sees, favoring changes that generalize beyond the seen tasks. On OSWorld V2, Agent S4, with Qwen3.8-27B and the evolved repository of interfaces, sets a new state of the art in open-source computer-use agents, reaching 21.3% binary score, 3.8 times the same model with fixed interfaces. This is above both GPT-5.5 (13.0%) and Claude Opus 4.8 (20.6%), at about 4.3% and 1.5% of their respective costs. On ScienceBoard, the evolved interfaces improve the success rate from 41.4% to 58.6% with the same model. These results suggest that useful interfaces can be evolved from experience, making autonomous interface design a source of improvement complementary to advances in models and harnesses. We open-source our code at https://github.com/simular-ai/agent-s."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Saaket Agashe, Yuzhe Yang, Gonzalo Gonzalez-Pumariega et al.",
+      "categories": [
+        "cs.AI"
+      ]
+    }
   }
 }
