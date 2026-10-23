@@ -71872,5 +71872,238 @@
         "cs.CL"
       ]
     }
+  },
+  "aa5c5223acec4d236b19a91399982e2e682ade901316ec0e60130fe1009f0cf7": {
+    "id": "aa5c5223acec4d236b19a91399982e2e682ade901316ec0e60130fe1009f0cf7",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Meta delays new business terms after publisher pushback on AI scraping",
+    "summary": "Meta推迟执行新商业条款至11月20日，此前出版商担忧其可能被用于爬取新闻网站训练AI。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+    "publishedAt": "2026-10-23T14:47:41+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "43c751dae2ebf599b44e8f8d9a72a7cde289b4859a77454ad569ceeb52e16fd4": {
+    "id": "43c751dae2ebf599b44e8f8d9a72a7cde289b4859a77454ad569ceeb52e16fd4",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Retro gaming is being overrun with AI",
+    "summary": "近期，AI工具催生大量复古游戏跨界项目：《光环》登陆网页、《风之杖》移植iPhone、《任天堂大乱斗》进入混合现实，多款作品迅速走红。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+    "publishedAt": "2026-10-23T12:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "f766d6b2cbaeb0eab2a8eeb91934c10cb5f41c6182053cf49f9be8dc702456bf": {
+    "id": "f766d6b2cbaeb0eab2a8eeb91934c10cb5f41c6182053cf49f9be8dc702456bf",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+    "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/504901.html",
+    "publishedAt": "2026-10-23T07:35:51+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "de63daf944275676461dc2283cebd32d2d065f418e51c7d25d2f0f929ae97802": {
+    "id": "de63daf944275676461dc2283cebd32d2d065f418e51c7d25d2f0f929ae97802",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+    "summary": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/10/504879.html",
+    "publishedAt": "2026-10-22T09:07:05+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "6752dbb046f53634bcdf66ebd1a7f7c5864fea17cc97850caa349483d3608415": {
+    "id": "6752dbb046f53634bcdf66ebd1a7f7c5864fea17cc97850caa349483d3608415",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "sourceUrl": "https://huggingface.co/blog/allenai/litpivot",
+    "publishedAt": "2026-10-23T16:15:50+00:00",
+    "tags": [
+      "ai-news",
+      "HuggingFace Blog"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "b928104665cc4963ce97c6fa1751a6f1326ab6e28b7d849da7956ea49dfe2323": {
+    "id": "b928104665cc4963ce97c6fa1751a6f1326ab6e28b7d849da7956ea49dfe2323",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "sourceUrl": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "publishedAt": "2026-10-23T00:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "HuggingFace Blog"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "83e33160f52816fe458c98a4ff380440fdf70a72a56e4f36a453857af87a7c13": {
+    "id": "83e33160f52816fe458c98a4ff380440fdf70a72a56e4f36a453857af87a7c13",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "dit-Q4_0-Qualcomm：model 模型更新",
+    "summary": "HuggingFace 上模型 Mr-J-369/dit-Q4_0-Qualcomm 下载量达1260次，获2个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Mr-J-369/dit-Q4_0-Qualcomm",
+    "publishedAt": "2026-10-23T16:16:10+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1260,
+      "likes": 2
+    }
+  },
+  "22a37021f7463928136210f75f05c16312d75dfd4c2ceb0e535434f39c485634": {
+    "id": "22a37021f7463928136210f75f05c16312d75dfd4c2ceb0e535434f39c485634",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Hi3Dv1.0：image-to-3d 模型更新",
+    "summary": "HuggingFace 上 hi3d-official/Hi3Dv1.0（主流 image-to-3D 模型）下载量为 0，获 28 个赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/hi3d-official/Hi3Dv1.0",
+    "publishedAt": "2026-10-23T16:04:31+00:00",
+    "tags": [
+      "huggingface",
+      "image-to-3d",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 28
+    }
+  },
+  "01adb3b3a2f4294c907269b55ae4d9a4f3c2f3f49f0bb4086dc4fe9a33b025d6": {
+    "id": "01adb3b3a2f4294c907269b55ae4d9a4f3c2f3f49f0bb4086dc4fe9a33b025d6",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Cosmos-Embed1-448p-anomaly-detection：video-classification 模型更新",
+    "summary": "HuggingFace 上 NVIDIA 推出的视频分类模型 Cosmos-Embed1-448p-anomaly-detection，下载量 2042 次，获 24 赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/nvidia/Cosmos-Embed1-448p-anomaly-detection",
+    "publishedAt": "2026-10-23T16:01:45+00:00",
+    "tags": [
+      "huggingface",
+      "video-classification",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 2042,
+      "likes": 24
+    }
+  },
+  "25b71a2a742ec31fbcd6d78ba445b6ed5188ec3f7647afee9f5a78ef218a21cc": {
+    "id": "25b71a2a742ec31fbcd6d78ba445b6ed5188ec3f7647afee9f5a78ef218a21cc",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "国服狗熊打野10连胜～8局MVP！狗熊打野手游狗熊打野手游出装狗熊打野手游教学狗熊打野手游出装最新狗熊上单出装手游狗熊上单出装狗熊上单教学手游狗熊上单教学",
+    "summary": "UP主 文婕斋主人 · 406播放 · 3:19",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117490491328884",
+    "publishedAt": "2026-10-23T13:40:18+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "文婕斋主人",
+      "play": 406,
+      "bvid": "BV1Uvn86pEHe",
+      "duration": "3:19"
+    }
+  },
+  "6cf93ea7e9d478edcc464c4879907d4573859c1a69a7821ab2fd8d540dae8fa5": {
+    "id": "6cf93ea7e9d478edcc464c4879907d4573859c1a69a7821ab2fd8d540dae8fa5",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "云顶王者课堂S18云巅学阵容 18.5森林小法师吃鸡细节解析",
+    "summary": "UP主 云顶王者课堂 · 491播放 · 6:35",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117489568579708",
+    "publishedAt": "2026-10-23T09:45:06+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "云顶王者课堂",
+      "play": 491,
+      "bvid": "BV1ecnb6oEk7",
+      "duration": "6:35"
+    }
   }
 }
