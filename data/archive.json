@@ -72579,5 +72579,164 @@
       "bvid": "BV1zeHA6AEYi",
       "duration": "3:34"
     }
+  },
+  "f8772c3d8aaa2979525739196aae7e33fb078cbfe351184108fe8e910193e3f4": {
+    "id": "f8772c3d8aaa2979525739196aae7e33fb078cbfe351184108fe8e910193e3f4",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "summary": "我们整理了最值得关注的AI短信助手清单，涵盖通用、家庭、旅行、办公等场景。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "publishedAt": "2026-10-24T14:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "1594ea0a9e80c7339410d93531fdb6edd9b5de85efccbed206de0e573d3c3f68": {
+    "id": "1594ea0a9e80c7339410d93531fdb6edd9b5de85efccbed206de0e573d3c3f68",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Kroma-Quantizations：text-to-image 模型更新",
+    "summary": "HuggingFace 上主流文生图模型 Clybius/Kroma-Quantizations 零下载量、29 点赞，热度与使用率严重不匹配。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Clybius/Kroma-Quantizations",
+    "publishedAt": "2026-10-24T15:09:18+00:00",
+    "tags": [
+      "huggingface",
+      "text-to-image",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 29
+    }
+  },
+  "b5b7e507572a652fca78bdac57dccf4be5e3128bbd0b0a4449b8a8f54b1bd2bd": {
+    "id": "b5b7e507572a652fca78bdac57dccf4be5e3128bbd0b0a4449b8a8f54b1bd2bd",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "MiniMax-M3.1-Flash-GGUF：model 模型更新",
+    "summary": "HuggingFace 上 LyJonathan/MiniMax-M3.1-Flash-GGUF 模型获 1493 次下载、5 个点赞，属主流轻量级 GGUF 格式模型。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/LyJonathan/MiniMax-M3.1-Flash-GGUF",
+    "publishedAt": "2026-10-24T15:08:04+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1493,
+      "likes": 5
+    }
+  },
+  "78c8a2532db7d2e5715738941370ef64cb8c1f3f5b3096d2fca0b26531a263b7": {
+    "id": "78c8a2532db7d2e5715738941370ef64cb8c1f3f5b3096d2fca0b26531a263b7",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "JackOD-9B-Coder-MTP-GGUF：text-generation 模型更新",
+    "summary": "HuggingFace 上 ManniX-ITA/JackOD-9B-Coder-MTP-GGUF 文本生成模型获18,512次下载、3个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/ManniX-ITA/JackOD-9B-Coder-MTP-GGUF",
+    "publishedAt": "2026-10-24T15:07:10+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 18512,
+      "likes": 3
+    }
+  },
+  "0b75e28864d06871d378c8083ff71c2350ea0b623460a0f9e4ca8e6c6132293d": {
+    "id": "0b75e28864d06871d378c8083ff71c2350ea0b623460a0f9e4ca8e6c6132293d",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "character-loras：model 模型更新",
+    "summary": "HuggingFace 上 dr1000/character-loras 模型暂无下载量，获13个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/dr1000/character-loras",
+    "publishedAt": "2026-10-24T15:03:43+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 13
+    }
+  },
+  "8c61b61596d8647810f84a63e937ee49d0101de5e204a8ee446434514fe14284": {
+    "id": "8c61b61596d8647810f84a63e937ee49d0101de5e204a8ee446434514fe14284",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "SNEX-V1：image-text-to-text 模型更新",
+    "summary": "HuggingFace 上 image-text-to-text 模型 gbuzhf/SNEX-V1 下载量达 2900，获 2 个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/gbuzhf/SNEX-V1",
+    "publishedAt": "2026-10-24T15:00:18+00:00",
+    "tags": [
+      "huggingface",
+      "image-text-to-text",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 2900,
+      "likes": 2
+    }
+  },
+  "6ef700a58803f8089e4b425a8b4c9a1c40201805a97263658bf7d2918bbb73b7": {
+    "id": "6ef700a58803f8089e4b425a8b4c9a1c40201805a97263658bf7d2918bbb73b7",
+    "module": "lol",
+    "seg": "rift",
+    "cat": "峡谷攻略",
+    "title": "《版本T0卡莎教学》海羊界最强出装，上单小火龙0-8依旧带躺 29-2-7KDA完美carry！",
+    "summary": "UP主 pp7AD · 1,271播放 · 4:49",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117477824731972",
+    "publishedAt": "2026-10-24T11:30:00+00:00",
+    "tags": [
+      "lol",
+      "rift",
+      "英雄联盟 上单 出装 攻略 教学"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "pp7AD",
+      "play": 1271,
+      "bvid": "BV1Xrni6CEho",
+      "duration": "4:49"
+    }
   }
 }

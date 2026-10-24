@@ -1,9 +1,168 @@
 {
-  "generated_at": "2026-10-24T05:29:39.189232+00:00",
+  "generated_at": "2026-10-24T15:14:34.438952+00:00",
   "date": "2026-10-24",
   "keep_days": 7,
-  "count": 282,
+  "count": 279,
   "items": [
+    {
+      "id": "1594ea0a9e80c7339410d93531fdb6edd9b5de85efccbed206de0e573d3c3f68",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Kroma-Quantizations：text-to-image 模型更新",
+      "summary": "HuggingFace 上主流文生图模型 Clybius/Kroma-Quantizations 零下载量、29 点赞，热度与使用率严重不匹配。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Clybius/Kroma-Quantizations",
+      "publishedAt": "2026-10-24T15:09:18+00:00",
+      "tags": [
+        "huggingface",
+        "text-to-image",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 29
+      }
+    },
+    {
+      "id": "b5b7e507572a652fca78bdac57dccf4be5e3128bbd0b0a4449b8a8f54b1bd2bd",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MiniMax-M3.1-Flash-GGUF：model 模型更新",
+      "summary": "HuggingFace 上 LyJonathan/MiniMax-M3.1-Flash-GGUF 模型获 1493 次下载、5 个点赞，属主流轻量级 GGUF 格式模型。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/LyJonathan/MiniMax-M3.1-Flash-GGUF",
+      "publishedAt": "2026-10-24T15:08:04+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1493,
+        "likes": 5
+      }
+    },
+    {
+      "id": "78c8a2532db7d2e5715738941370ef64cb8c1f3f5b3096d2fca0b26531a263b7",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "JackOD-9B-Coder-MTP-GGUF：text-generation 模型更新",
+      "summary": "HuggingFace 上 ManniX-ITA/JackOD-9B-Coder-MTP-GGUF 文本生成模型获18,512次下载、3个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/ManniX-ITA/JackOD-9B-Coder-MTP-GGUF",
+      "publishedAt": "2026-10-24T15:07:10+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 18512,
+        "likes": 3
+      }
+    },
+    {
+      "id": "0b75e28864d06871d378c8083ff71c2350ea0b623460a0f9e4ca8e6c6132293d",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "character-loras：model 模型更新",
+      "summary": "HuggingFace 上 dr1000/character-loras 模型暂无下载量，获13个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/dr1000/character-loras",
+      "publishedAt": "2026-10-24T15:03:43+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 13
+      }
+    },
+    {
+      "id": "8c61b61596d8647810f84a63e937ee49d0101de5e204a8ee446434514fe14284",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "SNEX-V1：image-text-to-text 模型更新",
+      "summary": "HuggingFace 上 image-text-to-text 模型 gbuzhf/SNEX-V1 下载量达 2900，获 2 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/gbuzhf/SNEX-V1",
+      "publishedAt": "2026-10-24T15:00:18+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 2900,
+        "likes": 2
+      }
+    },
+    {
+      "id": "f8772c3d8aaa2979525739196aae7e33fb078cbfe351184108fe8e910193e3f4",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "我们整理了最值得关注的AI短信助手清单，涵盖通用、家庭、旅行、办公等场景。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "publishedAt": "2026-10-24T14:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "6ef700a58803f8089e4b425a8b4c9a1c40201805a97263658bf7d2918bbb73b7",
+      "module": "lol",
+      "seg": "rift",
+      "cat": "峡谷攻略",
+      "title": "《版本T0卡莎教学》海羊界最强出装，上单小火龙0-8依旧带躺 29-2-7KDA完美carry！",
+      "summary": "UP主 pp7AD · 1,271播放 · 4:49",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117477824731972",
+      "publishedAt": "2026-10-24T11:30:00+00:00",
+      "tags": [
+        "lol",
+        "rift",
+        "英雄联盟 上单 出装 攻略 教学"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "pp7AD",
+        "play": 1271,
+        "bvid": "BV1Xrni6CEho",
+        "duration": "4:49"
+      }
+    },
     {
       "id": "4406499f0ce3eae8b3d56d06a4ee7faaa31ad2d2b2d8f017dbd6bf636612595f",
       "module": "ai",
@@ -5928,209 +6087,86 @@
       "points": [],
       "live": false,
       "extra": {}
-    },
-    {
-      "id": "16aabc692d4191202723e8e845a8d8fdf6f1a12f83b136db8ae42dce7c7c044b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "summary": "Meta更新条款，删除“可抓取网站内容（含新闻站点）训练AI”的表述，回应舆论 backlash。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-      "publishedAt": "2026-10-17T15:04:36+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "8f15fb80e6fb70ce268765b64751abe9467a1e8ba74cb1b795d77468b6b43381",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "DeepSeek-V4.1-Flash-MLX-Q4i：image-text-to-text 模型更新",
-      "summary": "HuggingFace 上 image-text-to-text 模型 DeepSeek-V4.1-Flash-MLX-Q4i 下载量达 3039，获 4 赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/inferencerlabs/DeepSeek-V4.1-Flash-MLX-Q4i",
-      "publishedAt": "2026-10-17T14:46:04+00:00",
-      "tags": [
-        "huggingface",
-        "image-text-to-text",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 3039,
-        "likes": 4
-      }
-    },
-    {
-      "id": "75ebf9c8ddb0e11f5fb248dbbcc55d118f5134ef534b4e5b099baa475179f7e5",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "comfy-workflows：text-to-image 模型更新",
-      "summary": "HuggingFace 上 text-to-image 模型 javawock7618/comfy-workflows 目前下载量为 0，获 30 点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/javawock7618/comfy-workflows",
-      "publishedAt": "2026-10-17T14:42:15+00:00",
-      "tags": [
-        "huggingface",
-        "text-to-image",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 30
-      }
-    },
-    {
-      "id": "270792742798e840df0398e1bebee30ec934cdc429d79409edea66503f8255fb",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Websites are closing their doors to AI agents",
-      "summary": "AI自主代理成热点，OpenAI、Meta等宣称可代订餐、理邮箱、购鞋，但遭遇网站反爬与封禁，实际落地遇阻。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "publishedAt": "2026-10-17T13:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "434bad534994081febeeb86a83016cea4e037c090fdc4f35736a93faa327b58d",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
-      "summary": "新版本V4.1-Flash-1017，还开放了自研搜索API",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/504067.html",
-      "publishedAt": "2026-10-17T12:21:09+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "5f403813bbe8e49c8da5fb44ad3d702e14b64a6fc579e3b5c1807808d829ca18",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "智谱新模型，懂法方面全球第一了",
-      "summary": "AI的风还是刮到了法律圈",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/503965.html",
-      "publishedAt": "2026-10-17T12:13:45+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a148a74920d1bc56f20420cfa5137ad2e19e16b2a538cd38a036719472952da3",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
-      "summary": "整套系统原生支持MCP",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/503935.html",
-      "publishedAt": "2026-10-17T12:10:35+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "5308b1354c5f0cbf4b8067b0a383ecf58b07a918c764ad11d77e140f86f5ab40",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
-      "summary": "谜底指向时间",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/503910.html",
-      "publishedAt": "2026-10-17T12:06:51+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c33871ecc4d1395ca0f7a80a572c0e3df98c41da0b735900ddf230f616544a62",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "科技企业出海，为啥我推荐你去迪拜？",
-      "summary": "通往全球市场的超级跳板",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/503893.html",
-      "publishedAt": "2026-10-17T09:05:08+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "2101ef176cc5405c72a0f5fe0f91af52d8678be4d823cf5b8b2803bb48601058",
-      "module": "ai",
-      "seg": null,
-      "cat": "厂商动态·DeepSeek",
-      "title": "DeepSeek 发布/更新 DeepSeek-V4.1-Flash-1017（image-text-to-text）",
-      "summary": "DeepSeek（deepseek-ai）发布新模型DeepSeek-V4.1-Flash-1017，当前0下载、636赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "publishedAt": "2026-10-17T05:46:55+00:00",
-      "tags": [
-        "huggingface",
-        "vendor",
-        "deepseek-ai"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 636,
-        "vendor": "DeepSeek"
-      }
     }
-  ]
+  ],
+  "daily": {
+    "ai": {
+      "insight": "AI代理自主性与隐私边界成今日焦点",
+      "headline": {
+        "title": "Left alone with nothing to do, AI agents started playing",
+        "summary": "MIT研究人员将13个AI置于虚拟岛屿，它们自发发明游戏、悼念丢失戒指，最终提升任务能力。",
+        "source": "TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
+      },
+      "sections": [
+        {
+          "name": "最新科技",
+          "items": []
+        },
+        {
+          "name": "行业动态",
+          "items": [
+            {
+              "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+              "summary": "OpenAI将切断前沿模型的互联网访问，距其工程师称该方案“行不通”仅数周。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+            },
+            {
+              "title": "OpenAI now trains its frontier AI models with no internet access",
+              "summary": "OpenAI暂停前沿模型训练，转为离线环境训练，仅使用索引缓存的网页内容，以防外部系统受干扰。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+            },
+            {
+              "title": "Meta delays new business terms after publisher pushback on AI scraping",
+              "summary": "Meta推迟执行新商业条款至11月20日，此前出版商担忧其可能被用于爬取新闻网站训练AI。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
+            },
+            {
+              "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+              "summary": "谷歌更新隐私政策，允许在使用个性化AI功能时，用Gmail、Drive、照片等数据投放定向广告，引发用户隐私担忧。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+            }
+          ]
+        },
+        {
+          "name": "知识前沿",
+          "items": [
+            {
+              "title": "Canva’s first AI image model plans designs before generating them",
+              "summary": "Canva推出自研AI图像生成模型Canva Craft，采用两阶段架构，提升设计精度、一致性和控制力，直接对标OpenAI、微软和谷歌。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model"
+            }
+          ]
+        },
+        {
+          "name": "应用落地",
+          "items": [
+            {
+              "title": "Here are the top AI agents that can live in your text messages",
+              "summary": "我们整理了最值得关注的AI短信助手清单，涵盖通用、家庭、旅行、办公等场景。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
+            },
+            {
+              "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+              "summary": "新功能允许客服代理登录客户个人账户，同时保护其私密凭证安全。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
+            },
+            {
+              "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+              "summary": "小马智行计划2027年上半年在哈萨克斯坦首都开展自动驾驶出租车测试。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }
