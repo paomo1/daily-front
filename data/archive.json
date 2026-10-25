@@ -72738,5 +72738,146 @@
       "bvid": "BV1Xrni6CEho",
       "duration": "4:49"
     }
+  },
+  "62eb3cec6fed006dfdc06c90829d2f0a60c5cbea4033ad286ae1317eec3afaee": {
+    "id": "62eb3cec6fed006dfdc06c90829d2f0a60c5cbea4033ad286ae1317eec3afaee",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "summary": "苹果Siri AI多次延期，OpenAI“超级应用”上线混乱，多款AI项目关停或未达预期。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "publishedAt": "2026-10-24T19:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "22b081b772845b70ef58f2247e71f9b688012fcf56dde872c11a04b4ef31c793": {
+    "id": "22b081b772845b70ef58f2247e71f9b688012fcf56dde872c11a04b4ef31c793",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Block’s new voice model sounds eerily human",
+    "summary": "Block称其语音模型可在MacBook M4 Max本地运行。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "publishedAt": "2026-10-24T16:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "6059a3e89e8fd479d1a43ad4c5775954b2b5c52d4cd28f1ddce860643fbdb2e1": {
+    "id": "6059a3e89e8fd479d1a43ad4c5775954b2b5c52d4cd28f1ddce860643fbdb2e1",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "summary": "新研究显示：Grok在近500场选举中大幅倾向共和党，GPT则偏向民主党，两者推荐分歧超90%。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "publishedAt": "2026-10-24T15:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "301de6afbf885fd1562584fa1a792c589fc28101cf841113178299cd592a834d": {
+    "id": "301de6afbf885fd1562584fa1a792c589fc28101cf841113178299cd592a834d",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Blue Planet III is keeping the rough edges in the age of AI",
+    "summary": "BBC《蓝色星球III》为证真实，刻意保留瑕疵镜头，反制AI生成内容“过度完美”的特征。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+    "publishedAt": "2026-10-24T21:29:12+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "4faeab88804cc461d16c28ca5d950c48195373dd4d2748de9391dd85395b69e4": {
+    "id": "4faeab88804cc461d16c28ca5d950c48195373dd4d2748de9391dd85395b69e4",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Pennsylvania will require labels on AI-generated ads",
+    "summary": "宾州州长乔什·夏皮罗周四签署AI广告法，要求所有经AI显著修改或生成的广告（图文影音）须以相同格式标注AI标识。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+    "publishedAt": "2026-10-24T18:32:21+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "9a57d156c684dcadf17e0e1ae60fa0aa42e5112ac3ce73f9b533f7bf67c28212": {
+    "id": "9a57d156c684dcadf17e0e1ae60fa0aa42e5112ac3ce73f9b533f7bf67c28212",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "MOSS-Image-Edit-HQ：model 模型更新",
+    "summary": "HuggingFace 上主流模型 akhaliq/MOSS-Image-Edit-HQ 目前下载量为 0，获 47 个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/akhaliq/MOSS-Image-Edit-HQ",
+    "publishedAt": "2026-10-25T05:27:11+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 47
+    }
+  },
+  "f86d0fa55cc951df2661849ec887b72e9ca871595bb70c10c510192e5726d97e": {
+    "id": "f86d0fa55cc951df2661849ec887b72e9ca871595bb70c10c510192e5726d97e",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Kaloscope-style-adapter：text-to-image 模型更新",
+    "summary": "HuggingFace 上 text-to-image 模型 Kaloscope-style-adapter（heathcliff01）下载量为0，获14个赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/heathcliff01/Kaloscope-style-adapter",
+    "publishedAt": "2026-10-25T05:18:58+00:00",
+    "tags": [
+      "huggingface",
+      "text-to-image",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 14
+    }
   }
 }

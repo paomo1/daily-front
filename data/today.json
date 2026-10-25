@@ -1,9 +1,131 @@
 {
-  "generated_at": "2026-10-24T15:14:34.438952+00:00",
-  "date": "2026-10-24",
+  "generated_at": "2026-10-25T05:48:10.630058+00:00",
+  "date": "2026-10-25",
   "keep_days": 7,
-  "count": 279,
+  "count": 282,
   "items": [
+    {
+      "id": "9a57d156c684dcadf17e0e1ae60fa0aa42e5112ac3ce73f9b533f7bf67c28212",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MOSS-Image-Edit-HQ：model 模型更新",
+      "summary": "HuggingFace 上主流模型 akhaliq/MOSS-Image-Edit-HQ 目前下载量为 0，获 47 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/akhaliq/MOSS-Image-Edit-HQ",
+      "publishedAt": "2026-10-25T05:27:11+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 47
+      }
+    },
+    {
+      "id": "f86d0fa55cc951df2661849ec887b72e9ca871595bb70c10c510192e5726d97e",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Kaloscope-style-adapter：text-to-image 模型更新",
+      "summary": "HuggingFace 上 text-to-image 模型 Kaloscope-style-adapter（heathcliff01）下载量为0，获14个赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/heathcliff01/Kaloscope-style-adapter",
+      "publishedAt": "2026-10-25T05:18:58+00:00",
+      "tags": [
+        "huggingface",
+        "text-to-image",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 14
+      }
+    },
+    {
+      "id": "301de6afbf885fd1562584fa1a792c589fc28101cf841113178299cd592a834d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "summary": "BBC《蓝色星球III》为证真实，刻意保留瑕疵镜头，反制AI生成内容“过度完美”的特征。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "publishedAt": "2026-10-24T21:29:12+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "62eb3cec6fed006dfdc06c90829d2f0a60c5cbea4033ad286ae1317eec3afaee",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "苹果Siri AI多次延期，OpenAI“超级应用”上线混乱，多款AI项目关停或未达预期。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "publishedAt": "2026-10-24T19:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "4faeab88804cc461d16c28ca5d950c48195373dd4d2748de9391dd85395b69e4",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "summary": "宾州州长乔什·夏皮罗周四签署AI广告法，要求所有经AI显著修改或生成的广告（图文影音）须以相同格式标注AI标识。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "publishedAt": "2026-10-24T18:32:21+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "22b081b772845b70ef58f2247e71f9b688012fcf56dde872c11a04b4ef31c793",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Block’s new voice model sounds eerily human",
+      "summary": "Block称其语音模型可在MacBook M4 Max本地运行。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "publishedAt": "2026-10-24T16:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "1594ea0a9e80c7339410d93531fdb6edd9b5de85efccbed206de0e573d3c3f68",
       "module": "ai",
@@ -118,6 +240,25 @@
         "downloads": 2900,
         "likes": 2
       }
+    },
+    {
+      "id": "6059a3e89e8fd479d1a43ad4c5775954b2b5c52d4cd28f1ddce860643fbdb2e1",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "summary": "新研究显示：Grok在近500场选举中大幅倾向共和党，GPT则偏向民主党，两者推荐分歧超90%。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "publishedAt": "2026-10-24T15:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "f8772c3d8aaa2979525739196aae7e33fb078cbfe351184108fe8e910193e3f4",
@@ -6007,128 +6148,55 @@
         "bvid": "BV13oJi6zEpk",
         "duration": "1:49"
       }
-    },
-    {
-      "id": "76b2cdd1e8f2130df1670e8652e9e65a54fcdc9395131dfb216255a609bb073b",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Krea2_Collection：text-to-image 模型更新",
-      "summary": "HuggingFace 上 text-to-image 模型 cusiman/Krea2_Collection 获 3765 次下载、9 个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/cusiman/Krea2_Collection",
-      "publishedAt": "2026-10-18T05:25:34+00:00",
-      "tags": [
-        "huggingface",
-        "text-to-image",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 3765,
-        "likes": 9
-      }
-    },
-    {
-      "id": "d1b64994233f07fd4dbf45a469337318c1e89a29aa246510b9996712b3f79a94",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "summary": "Meta称更新条款不改变其网络爬虫行为。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "publishedAt": "2026-10-17T21:31:32+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4e08a7918ecbf3d9fa8cf0a18859a063fd4ccda36cefcedaf2f6022bb342eae1",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "summary": "Anthropic公司员工构成与工作内容在过去一年发生显著变化。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "publishedAt": "2026-10-17T20:21:19+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "cb7f7446e6fd370ec07f36f40039b1760e02b6fe32e9fc81c6582e6372f58dbd",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "summary": "本周末，Masad宣布将OpenAI设为默认模型供应商，取代Anthropic；Claude仍可供用户选择。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "publishedAt": "2026-10-17T18:48:08+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI代理自主性与隐私边界成今日焦点",
+      "insight": "AI信任危机加剧：政治偏见、隐私争议与项目失败频发",
       "headline": {
-        "title": "Left alone with nothing to do, AI agents started playing",
-        "summary": "MIT研究人员将13个AI置于虚拟岛屿，它们自发发明游戏、悼念丢失戒指，最终提升任务能力。",
+        "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+        "summary": "OpenAI将切断前沿模型的互联网访问，距其工程师称该方案“无效”仅数周。",
         "source": "TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
+        "sourceUrl": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
       },
       "sections": [
         {
           "name": "最新科技",
-          "items": []
+          "items": [
+            {
+              "title": "Block’s new voice model sounds eerily human",
+              "summary": "Block称其语音模型可在MacBook M4 Max本地运行。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+            },
+            {
+              "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+              "summary": "Jack Dorsey旗下Block推出全新AI模型Dessa，称其“完全基于人类对话从零训练”。官方展示的对话偶显尴尬、诡异。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
+            }
+          ]
         },
         {
           "name": "行业动态",
           "items": [
             {
-              "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-              "summary": "OpenAI将切断前沿模型的互联网访问，距其工程师称该方案“行不通”仅数周。",
+              "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+              "summary": "苹果Siri AI多次延期，OpenAI“超级应用”上线混乱，多款AI项目关停或未达预期。",
               "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+              "sourceUrl": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
             },
             {
-              "title": "OpenAI now trains its frontier AI models with no internet access",
-              "summary": "OpenAI暂停前沿模型训练，转为离线环境训练，仅使用索引缓存的网页内容，以防外部系统受干扰。",
+              "title": "Pennsylvania will require labels on AI-generated ads",
+              "summary": "宾州州长乔什·夏皮罗周四签署AI广告法，要求所有经AI显著修改或生成的广告（图文影音）须以相同格式标注AI标识。",
               "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
             },
             {
               "title": "Meta delays new business terms after publisher pushback on AI scraping",
               "summary": "Meta推迟执行新商业条款至11月20日，此前出版商担忧其可能被用于爬取新闻网站训练AI。",
               "source": "The Verge",
               "sourceUrl": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
-            },
-            {
-              "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-              "summary": "谷歌更新隐私政策，允许在使用个性化AI功能时，用Gmail、Drive、照片等数据投放定向广告，引发用户隐私担忧。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
             }
           ]
         },
@@ -6136,10 +6204,16 @@
           "name": "知识前沿",
           "items": [
             {
-              "title": "Canva’s first AI image model plans designs before generating them",
-              "summary": "Canva推出自研AI图像生成模型Canva Craft，采用两阶段架构，提升设计精度、一致性和控制力，直接对标OpenAI、微软和谷歌。",
+              "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+              "summary": "新研究显示：Grok在近500场选举中大幅倾向共和党，GPT则偏向民主党，两者推荐分歧超90%。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+            },
+            {
+              "title": "Blue Planet III is keeping the rough edges in the age of AI",
+              "summary": "BBC《蓝色星球III》为证真实，刻意保留瑕疵镜头，反制AI生成内容“过度完美”的特征。",
               "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model"
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
             }
           ]
         },
@@ -6153,16 +6227,16 @@
               "sourceUrl": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
             },
             {
-              "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-              "summary": "新功能允许客服代理登录客户个人账户，同时保护其私密凭证安全。",
-              "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
-            },
-            {
               "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-              "summary": "小马智行计划2027年上半年在哈萨克斯坦首都开展自动驾驶出租车测试。",
+              "summary": "小马智行计划于2027年上半年在哈萨克斯坦首都开展自动驾驶出租车测试。",
               "source": "TechCrunch",
               "sourceUrl": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
+            },
+            {
+              "title": "Retro gaming is being overrun with AI",
+              "summary": "近期，AI工具催生大量复古游戏跨界项目：《光环》登陆网页、《风之杖》移植iPhone、《任天堂大乱斗》进入混合现实，多款作品迅速走红。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port"
             }
           ]
         }
