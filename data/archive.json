@@ -72879,5 +72879,225 @@
       "downloads": 0,
       "likes": 14
     }
+  },
+  "ac748a1caa1314a2c3c6bb82d725781516869560f7adb9f098c582428fdd0e87": {
+    "id": "ac748a1caa1314a2c3c6bb82d725781516869560f7adb9f098c582428fdd0e87",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "The hottest AI wearables and gadgets you should know about",
+    "summary": "汇总热门AI可穿戴设备：Muse Charm、Bee、Friend、Plaud等。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+    "publishedAt": "2026-10-25T14:10:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "84060210ca9f03055ed2d81d12d40a7786f09b652cfb567eed49637197515076": {
+    "id": "84060210ca9f03055ed2d81d12d40a7786f09b652cfb567eed49637197515076",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "r/opensource just banned AI, non-English speakers, and more",
+    "summary": "Reddit开源社区r/opensource新规禁止AI相关项目：凡使用、由AI生成或面向AI的项目均不欢迎。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+    "publishedAt": "2026-10-25T13:25:32+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "c8cce60ae4b1e2aa7922e867ab8be163c2429eaf6a95fe833e5bfae9c1fd7841": {
+    "id": "c8cce60ae4b1e2aa7922e867ab8be163c2429eaf6a95fe833e5bfae9c1fd7841",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Google’s AI search changes upended online publishing",
+    "summary": "《The Stepback》是每周日8点（美东时间）推送的科技 newsletter，聚焦AI对网络的影响，由Emma Roth主理。",
+    "source": "The Verge",
+    "sourceUrl": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+    "publishedAt": "2026-10-25T12:00:00+00:00",
+    "tags": [
+      "ai-news",
+      "The Verge"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "bc60cbe6906e1f49835c85b7025d5850a1ab4282ab5b7b39928dd46b7fa0a935": {
+    "id": "bc60cbe6906e1f49835c85b7025d5850a1ab4282ab5b7b39928dd46b7fa0a935",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "audio.cpp-gguf：text-to-speech 模型更新",
+    "summary": "HuggingFace 上 audio-cpp/audio.cpp-gguf 文本转语音模型下载量达691万，获273赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/audio-cpp/audio.cpp-gguf",
+    "publishedAt": "2026-10-25T15:22:06+00:00",
+    "tags": [
+      "huggingface",
+      "text-to-speech",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 6913268,
+      "likes": 273
+    }
+  },
+  "d4660d8c745e9b06cc5886b1e0a42670791053c575a61a9b79699ece2dbcd6e2": {
+    "id": "d4660d8c745e9b06cc5886b1e0a42670791053c575a61a9b79699ece2dbcd6e2",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "ViuAI-500M：text-generation 模型更新",
+    "summary": "HuggingFace 上 ViuAI/ViuAI-500M 文本生成模型获 1600 次下载、3 个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/ViuAI/ViuAI-500M",
+    "publishedAt": "2026-10-25T15:17:27+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1600,
+      "likes": 3
+    }
+  },
+  "59859b18ab5556c959dac238995d6ca0e305bdbb38381e0c85d258108d1edcac": {
+    "id": "59859b18ab5556c959dac238995d6ca0e305bdbb38381e0c85d258108d1edcac",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "MiniMax-H3-PTD-LoRAs：image-to-video 模型更新",
+    "summary": "HuggingFace 上淘宝内容AI发布的MiniMax-H3-PTD-LoRAs图像转视频模型，下载量4236次，获40赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/taobao-content-ai/MiniMax-H3-PTD-LoRAs",
+    "publishedAt": "2026-10-25T15:15:40+00:00",
+    "tags": [
+      "huggingface",
+      "image-to-video",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 4236,
+      "likes": 40
+    }
+  },
+  "fbdeb90d69077a5d9224ccc043c6412e7c412e3e05b2e881d9290390141e9e91": {
+    "id": "fbdeb90d69077a5d9224ccc043c6412e7c412e3e05b2e881d9290390141e9e91",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "chandra-ocr-2-GGUF：image-text-to-text 模型更新",
+    "summary": "HuggingFace 上 prithivMLmods/chandra-ocr-2-GGUF 图文转文本模型，下载量13,524次，获42赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/prithivMLmods/chandra-ocr-2-GGUF",
+    "publishedAt": "2026-10-25T15:12:19+00:00",
+    "tags": [
+      "huggingface",
+      "image-text-to-text",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 13524,
+      "likes": 42
+    }
+  },
+  "bca582f07ebcc710cef353174c5573755aba2a6373475b08916c708784b393df": {
+    "id": "bca582f07ebcc710cef353174c5573755aba2a6373475b08916c708784b393df",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "DeepSeek-V4.1-Flash-1017-XQ-Uncensored：model 模型更新",
+    "summary": "HuggingFace 上 IndrasMirror/DeepSeek-V4.1-Flash-1017-XQ-Uncensored 模型下载量达 9800，获 22 点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/IndrasMirror/DeepSeek-V4.1-Flash-1017-XQ-Uncensored",
+    "publishedAt": "2026-10-25T15:09:04+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 9800,
+      "likes": 22
+    }
+  },
+  "94ab6c5a9f763d9ada0aab5f6546ba749cf2b9bfcf803e97e7a94549afda6886": {
+    "id": "94ab6c5a9f763d9ada0aab5f6546ba749cf2b9bfcf803e97e7a94549afda6886",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "MiniMax-H3-PTD-RefAsymOPD-LoRAs：image-to-video 模型更新",
+    "summary": "HuggingFace 上淘宝内容AI发布的MiniMax-H3-PTD-RefAsymOPD-LoRAs图像转视频模型，下载量1129次，获11个赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/taobao-content-ai/MiniMax-H3-PTD-RefAsymOPD-LoRAs",
+    "publishedAt": "2026-10-25T15:07:33+00:00",
+    "tags": [
+      "huggingface",
+      "image-to-video",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1129,
+      "likes": 11
+    }
+  },
+  "b4f471ebfdd28ebcde89143129f9c6ad4f484b9862bfee9c74ac27ba376df8e1": {
+    "id": "b4f471ebfdd28ebcde89143129f9c6ad4f484b9862bfee9c74ac27ba376df8e1",
+    "module": "lol",
+    "seg": "rune",
+    "cat": "海斗资讯",
+    "title": "海斗4.0我琴彻底上位当上女王，一个海克斯直接让琴黑闭嘴！！",
+    "summary": "UP主 Zzzz小鸿 · 86播放 · 8:20",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117502000500846",
+    "publishedAt": "2026-10-25T14:29:14+00:00",
+    "tags": [
+      "lol",
+      "rune",
+      "英雄联盟 海斗 黑科技 上分"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "Zzzz小鸿",
+      "play": 86,
+      "bvid": "BV1odnU6DE42",
+      "duration": "8:20"
+    }
   }
 }

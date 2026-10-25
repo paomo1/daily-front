@@ -1,9 +1,229 @@
 {
-  "generated_at": "2026-10-25T05:48:10.630058+00:00",
+  "generated_at": "2026-10-25T15:26:04.336301+00:00",
   "date": "2026-10-25",
   "keep_days": 7,
-  "count": 282,
+  "count": 287,
   "items": [
+    {
+      "id": "bc60cbe6906e1f49835c85b7025d5850a1ab4282ab5b7b39928dd46b7fa0a935",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "audio.cpp-gguf：text-to-speech 模型更新",
+      "summary": "HuggingFace 上 audio-cpp/audio.cpp-gguf 文本转语音模型下载量达691万，获273赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/audio-cpp/audio.cpp-gguf",
+      "publishedAt": "2026-10-25T15:22:06+00:00",
+      "tags": [
+        "huggingface",
+        "text-to-speech",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 6913268,
+        "likes": 273
+      }
+    },
+    {
+      "id": "d4660d8c745e9b06cc5886b1e0a42670791053c575a61a9b79699ece2dbcd6e2",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "ViuAI-500M：text-generation 模型更新",
+      "summary": "HuggingFace 上 ViuAI/ViuAI-500M 文本生成模型获 1600 次下载、3 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/ViuAI/ViuAI-500M",
+      "publishedAt": "2026-10-25T15:17:27+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1600,
+        "likes": 3
+      }
+    },
+    {
+      "id": "59859b18ab5556c959dac238995d6ca0e305bdbb38381e0c85d258108d1edcac",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MiniMax-H3-PTD-LoRAs：image-to-video 模型更新",
+      "summary": "HuggingFace 上淘宝内容AI发布的MiniMax-H3-PTD-LoRAs图像转视频模型，下载量4236次，获40赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/taobao-content-ai/MiniMax-H3-PTD-LoRAs",
+      "publishedAt": "2026-10-25T15:15:40+00:00",
+      "tags": [
+        "huggingface",
+        "image-to-video",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 4236,
+        "likes": 40
+      }
+    },
+    {
+      "id": "fbdeb90d69077a5d9224ccc043c6412e7c412e3e05b2e881d9290390141e9e91",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "chandra-ocr-2-GGUF：image-text-to-text 模型更新",
+      "summary": "HuggingFace 上 prithivMLmods/chandra-ocr-2-GGUF 图文转文本模型，下载量13,524次，获42赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/prithivMLmods/chandra-ocr-2-GGUF",
+      "publishedAt": "2026-10-25T15:12:19+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 13524,
+        "likes": 42
+      }
+    },
+    {
+      "id": "bca582f07ebcc710cef353174c5573755aba2a6373475b08916c708784b393df",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "DeepSeek-V4.1-Flash-1017-XQ-Uncensored：model 模型更新",
+      "summary": "HuggingFace 上 IndrasMirror/DeepSeek-V4.1-Flash-1017-XQ-Uncensored 模型下载量达 9800，获 22 点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/IndrasMirror/DeepSeek-V4.1-Flash-1017-XQ-Uncensored",
+      "publishedAt": "2026-10-25T15:09:04+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 9800,
+        "likes": 22
+      }
+    },
+    {
+      "id": "94ab6c5a9f763d9ada0aab5f6546ba749cf2b9bfcf803e97e7a94549afda6886",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MiniMax-H3-PTD-RefAsymOPD-LoRAs：image-to-video 模型更新",
+      "summary": "HuggingFace 上淘宝内容AI发布的MiniMax-H3-PTD-RefAsymOPD-LoRAs图像转视频模型，下载量1129次，获11个赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/taobao-content-ai/MiniMax-H3-PTD-RefAsymOPD-LoRAs",
+      "publishedAt": "2026-10-25T15:07:33+00:00",
+      "tags": [
+        "huggingface",
+        "image-to-video",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1129,
+        "likes": 11
+      }
+    },
+    {
+      "id": "b4f471ebfdd28ebcde89143129f9c6ad4f484b9862bfee9c74ac27ba376df8e1",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "海斗4.0我琴彻底上位当上女王，一个海克斯直接让琴黑闭嘴！！",
+      "summary": "UP主 Zzzz小鸿 · 86播放 · 8:20",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117502000500846",
+      "publishedAt": "2026-10-25T14:29:14+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 黑科技 上分"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "Zzzz小鸿",
+        "play": 86,
+        "bvid": "BV1odnU6DE42",
+        "duration": "8:20"
+      }
+    },
+    {
+      "id": "ac748a1caa1314a2c3c6bb82d725781516869560f7adb9f098c582428fdd0e87",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "summary": "汇总热门AI可穿戴设备：Muse Charm、Bee、Friend、Plaud等。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "publishedAt": "2026-10-25T14:10:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "84060210ca9f03055ed2d81d12d40a7786f09b652cfb567eed49637197515076",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "summary": "Reddit开源社区r/opensource新规禁止AI相关项目：凡使用、由AI生成或面向AI的项目均不欢迎。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "publishedAt": "2026-10-25T13:25:32+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "c8cce60ae4b1e2aa7922e867ab8be163c2429eaf6a95fe833e5bfae9c1fd7841",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Google’s AI search changes upended online publishing",
+      "summary": "《The Stepback》是每周日8点（美东时间）推送的科技 newsletter，聚焦AI对网络的影响，由Emma Roth主理。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "publishedAt": "2026-10-25T12:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "9a57d156c684dcadf17e0e1ae60fa0aa42e5112ac3ce73f9b533f7bf67c28212",
       "module": "ai",
@@ -6035,129 +6255,16 @@
       "points": [],
       "live": false,
       "extra": {}
-    },
-    {
-      "id": "0b328d59153ebc5806b839186b5bf55e3ea991a4c1a2570c6c899dd60bec3e40",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "KenT_0.3B_Base：text-generation 模型更新",
-      "summary": "HuggingFace上Vi-LAB/KenT_0.3B_Base文本生成模型下载量3570次，暂无点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Vi-LAB/KenT_0.3B_Base",
-      "publishedAt": "2026-10-18T15:10:13+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 3570,
-        "likes": 0
-      }
-    },
-    {
-      "id": "9c7dbc17f11924340bdc23357fc28ceeba73aaf4d4f8b9cbabe5aa92c7b85c0c",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Quillan-Ronin：model 模型更新",
-      "summary": "HuggingFace 上模型 CrashOverrideX/Quillan-Ronin 下载量1841次，获0点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/CrashOverrideX/Quillan-Ronin",
-      "publishedAt": "2026-10-18T15:02:26+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1841,
-        "likes": 0
-      }
-    },
-    {
-      "id": "3e2624659af4741804ab56666c39871d6d200b66b9c80fbfafa87693a6e7820d",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-GGUF：image-text-to-text 模型更新",
-      "summary": "HuggingFace热门图文生成模型LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-GGUF，下载量超66.6万，获696赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-GGUF",
-      "publishedAt": "2026-10-18T14:59:11+00:00",
-      "tags": [
-        "huggingface",
-        "image-text-to-text",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 666062,
-        "likes": 696
-      }
-    },
-    {
-      "id": "b15f87cf2ee4add0b9e2f3a322919c09b4fd38d76947753b00e7df912fb66e56",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
-      "summary": "让人人都能自由创造并体验可交互世界",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/504136.html",
-      "publishedAt": "2026-10-18T11:49:49+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d7abb8ee8d5b6fb06f174e0e44642cf5dcebc25e3cb336578a9c37409d4ff24d",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "海斗时代眼泪｜暴击飞弹移除！烟花流船长再也玩不到了",
-      "summary": "UP主 基兰打雷 · 964播放 · 1:49",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117455661896170",
-      "publishedAt": "2026-10-18T10:30:00+00:00",
-      "tags": [
-        "lol",
-        "rune",
-        "英雄联盟 海斗 黑科技 上分"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "基兰打雷",
-        "play": 964,
-        "bvid": "BV13oJi6zEpk",
-        "duration": "1:49"
-      }
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI信任危机加剧：政治偏见、隐私争议与项目失败频发",
+      "insight": "AI监管加速落地，多地立法要求AI内容标识与数据使用透明化",
       "headline": {
-        "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-        "summary": "OpenAI将切断前沿模型的互联网访问，距其工程师称该方案“无效”仅数周。",
-        "source": "TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+        "title": "Pennsylvania will require labels on AI-generated ads",
+        "summary": "宾州州长乔什·夏皮罗周四签署AI广告法，要求所有经AI显著修改或生成的广告（图文影音）须以相同格式标注AI标识。",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
       },
       "sections": [
         {
@@ -6181,22 +6288,28 @@
           "name": "行业动态",
           "items": [
             {
-              "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-              "summary": "苹果Siri AI多次延期，OpenAI“超级应用”上线混乱，多款AI项目关停或未达预期。",
+              "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+              "summary": "OpenAI将切断前沿模型的互联网访问，距其工程师称该方案“行不通”仅数周。",
               "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+              "sourceUrl": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
             },
             {
-              "title": "Pennsylvania will require labels on AI-generated ads",
-              "summary": "宾州州长乔什·夏皮罗周四签署AI广告法，要求所有经AI显著修改或生成的广告（图文影音）须以相同格式标注AI标识。",
+              "title": "OpenAI now trains its frontier AI models with no internet access",
+              "summary": "OpenAI暂停前沿模型训练，转为离线环境训练，仅使用索引缓存的网页内容，以防外部系统受干扰。",
               "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
             },
             {
-              "title": "Meta delays new business terms after publisher pushback on AI scraping",
-              "summary": "Meta推迟执行新商业条款至11月20日，此前出版商担忧其可能被用于爬取新闻网站训练AI。",
+              "title": "r/opensource just banned AI, non-English speakers, and more",
+              "summary": "Reddit开源社区r/opensource新规禁止AI相关项目：凡使用、由AI生成或面向AI的项目均不欢迎。",
               "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
+            },
+            {
+              "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+              "summary": "Meta更新AI网络爬虫政策，允许其AI系统抓取公开网页内容，但明确表示不会遵守robots.txt协议。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-aft"
             }
           ]
         },
@@ -6208,12 +6321,6 @@
               "summary": "新研究显示：Grok在近500场选举中大幅倾向共和党，GPT则偏向民主党，两者推荐分歧超90%。",
               "source": "TechCrunch",
               "sourceUrl": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
-            },
-            {
-              "title": "Blue Planet III is keeping the rough edges in the age of AI",
-              "summary": "BBC《蓝色星球III》为证真实，刻意保留瑕疵镜头，反制AI生成内容“过度完美”的特征。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
             }
           ]
         },
@@ -6222,21 +6329,21 @@
           "items": [
             {
               "title": "Here are the top AI agents that can live in your text messages",
-              "summary": "我们整理了最值得关注的AI短信助手清单，涵盖通用、家庭、旅行、办公等场景。",
+              "summary": "我们整理了最知名的AI短信助手清单，涵盖通用、家庭、旅行及办公等场景的智能代理。",
               "source": "TechCrunch",
               "sourceUrl": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
             },
             {
-              "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-              "summary": "小马智行计划于2027年上半年在哈萨克斯坦首都开展自动驾驶出租车测试。",
+              "title": "The hottest AI wearables and gadgets you should know about",
+              "summary": "汇总热门AI可穿戴设备：Muse Charm、Bee、Friend、Plaud等。",
               "source": "TechCrunch",
-              "sourceUrl": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
+              "sourceUrl": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
             },
             {
-              "title": "Retro gaming is being overrun with AI",
-              "summary": "近期，AI工具催生大量复古游戏跨界项目：《光环》登陆网页、《风之杖》移植iPhone、《任天堂大乱斗》进入混合现实，多款作品迅速走红。",
-              "source": "The Verge",
-              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port"
+              "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+              "summary": "机器人可语音指令完成踏步、发出R2-D2音效、坐倒“小憩”及翻滚等动作。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
             }
           ]
         }
