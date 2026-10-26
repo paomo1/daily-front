@@ -73099,5 +73099,593 @@
       "bvid": "BV1odnU6DE42",
       "duration": "8:20"
     }
+  },
+  "87485ec9005cb7aeeb7da1e9fd18a211fb0f0fd97aa3e37e15bb8967594e2bb3": {
+    "id": "87485ec9005cb7aeeb7da1e9fd18a211fb0f0fd97aa3e37e15bb8967594e2bb3",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "summary": "画面尚可，但缺乏艺术性、启发性与人文关怀。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "publishedAt": "2026-10-25T21:31:16+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "b6eda19f830a782a5131c2f6df8e5c13d764ba53644c21a3d030f49786bfb683": {
+    "id": "b6eda19f830a782a5131c2f6df8e5c13d764ba53644c21a3d030f49786bfb683",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "summary": "尽管AI投入巨大、炒作广泛，但除科技行业外，美国企业尚未获得任何财务回报。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "publishedAt": "2026-10-25T16:57:32+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "561770e2345f51a18f1132cde25951525c1ee2f933dadaa7825f0cc86f8f92b6": {
+    "id": "561770e2345f51a18f1132cde25951525c1ee2f933dadaa7825f0cc86f8f92b6",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Teutonic-I-Reliquary-RL：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 ReliquaryForge/Teutonic-I-Reliquary-RL 获 1,308 次下载、1 个点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/ReliquaryForge/Teutonic-I-Reliquary-RL",
+    "publishedAt": "2026-10-26T05:46:27+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1308,
+      "likes": 1
+    }
+  },
+  "55bc53955d9d5e2d05e34063f4749af862e8d3c4e6b5259c237789e464521fc5": {
+    "id": "55bc53955d9d5e2d05e34063f4749af862e8d3c4e6b5259c237789e464521fc5",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Qwen3.8-27B-BaseQuant-V1：text-generation 模型更新",
+    "summary": "HuggingFace 上 text-generation 模型 basecompute/Qwen3.8-27B-BaseQuant-V1 获 3356 次下载、25 赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/basecompute/Qwen3.8-27B-BaseQuant-V1",
+    "publishedAt": "2026-10-26T05:46:21+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 3356,
+      "likes": 25
+    }
+  },
+  "3957ac2b8731cef94c1c065634b3a420c53ac6fde41ef06eb1482cac29d3e4fe": {
+    "id": "3957ac2b8731cef94c1c065634b3a420c53ac6fde41ef06eb1482cac29d3e4fe",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "h3-vbvr：image-to-video 模型更新",
+    "summary": "HuggingFace 上主流图像转视频模型 Patarapoom/h3-vbvr，下载量3239次，获11个赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Patarapoom/h3-vbvr",
+    "publishedAt": "2026-10-26T05:45:38+00:00",
+    "tags": [
+      "huggingface",
+      "image-to-video",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 3239,
+      "likes": 11
+    }
+  },
+  "9dc5c6be82fd3db2412d30bd9e097f61ae92fb075b9c4373628e53d30692c5e3": {
+    "id": "9dc5c6be82fd3db2412d30bd9e097f61ae92fb075b9c4373628e53d30692c5e3",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "654321：model 模型更新",
+    "summary": "HuggingFace 上 Danilo20203/654321 模型下载量达 2155 次，暂无点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Danilo20203/654321",
+    "publishedAt": "2026-10-26T05:44:12+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 2155,
+      "likes": 0
+    }
+  },
+  "26ece7e6d339d422f221f5ed73de6ce58c1791c63ddf6c86ad369022dad64310": {
+    "id": "26ece7e6d339d422f221f5ed73de6ce58c1791c63ddf6c86ad369022dad64310",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "The Language of Instruction: Genre and Generative AI",
+    "summary": "本文提出“教学对话体”概念，指出指令微调大模型实为构建一种融合人机对话与标记语言的新型文类，依赖系统提示、特殊标记及角色轮替结构。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.32982v1",
+    "publishedAt": "2026-10-23T17:59:56+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation of discursive language from prior conversations between generative models and humans recursively run through these massive neural networks. It is instantiated in applications through instruction fine-tuning, the inclusion of a pretext known as a system prompt, and the formalization of inputs in mark-up languages characterized by the use of special tokens and role assignment in turntaking structures."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "James E. Dobson",
+      "categories": [
+        "cs.CL",
+        "cs.CY"
+      ]
+    }
+  },
+  "62e25b8311f4cba934fed59caaf963fe6bf97eb7c266efa9f038fc03e9c6b94d": {
+    "id": "62e25b8311f4cba934fed59caaf963fe6bf97eb7c266efa9f038fc03e9c6b94d",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
+    "summary": "SceneBloom：新框架融合视觉布局采样与契约引导3D编译，生成真实多样的室内环境，提升具身智能体训练效果。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.32978v1",
+    "publishedAt": "2026-10-23T17:59:21+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise spatial grounding remains difficult. Visual generative models offer rich priors over plausible arrangements, yet their outputs require geometric reasoning to become physically valid 3D scenes. We introduce SceneBloom, an agentic framework that combines visual layout sampling with contract-guided 3D compilation. A hierarchical sampler uses diffusion priors to generate furniture arrangements within functional zones. A compiler then uses relations extracted from each proposal to guide geometric fitting and local pose correction. Across five room types, SceneBloom attains the highest visual quality and physical stability among the compared methods and is the only method with no detected mesh collisions and out-of-bounds objects. Its layouts are also closer to the distribution of real rooms than those of all compared baselines. Object navigation policies trained in these realistic scenes achieve a higher success rate in held-out real scans than those trained on an equal number of real training scans. Code is available at https://github.com/Tinaliu0123/scenebloom."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Yuhan Liu, Lianhui Qin, Shenji Wan",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.RO"
+      ]
+    }
+  },
+  "ae4309473bfd8b6fdaf9582c0936ec1b6be79bc98b5ea545dd65ed5614429187": {
+    "id": "ae4309473bfd8b6fdaf9582c0936ec1b6be79bc98b5ea545dd65ed5614429187",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+    "summary": "RobustRLlib发布：集成17种鲁棒强化学习算法的统一库与基准，提升可复用性并明确实证能力边界。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.32971v1",
+    "publishedAt": "2026-10-23T17:57:22+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mechanisms and principles, yet two major barriers limit their broader potential: limited algorithm reusability and an unclear empirical capability boundary. We introduce RobustRLlib, an algorithm-centric library and benchmark that addresses both challenges. It integrates 17 representative robust online, offline, and safe RL algorithms under a unified interface for substantially improved reusability, together with an enhanced evaluation platform spanning diverse real-world shifts and advanced humanoid and vision-language-action tasks. Systematic evaluation over 273 perturbation configurations provides an up-to-date capability map of current robust RL algorithms, revealing where they remain effective and where substantial robustness gaps persist. As an open-source, user-friendly platform, RobustRLlib offers a reproducible and extensible codebase for applying existing methods to new problems and developing new robust RL algorithms."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Xi Chen, Fengqi Hu, Zeyu Shen et al.",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.RO"
+      ]
+    }
+  },
+  "afb95e487d3587d380b7a4ea8341dfe0c519c11af3986fa99a3724b363e23b47": {
+    "id": "afb95e487d3587d380b7a4ea8341dfe0c519c11af3986fa99a3724b363e23b47",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
+    "summary": "DexPort是一种便携式灵巧手数据采集接口，支持高自由度机器人手的高质量示范收集，实现采集与部署硬件统一。（59字）",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.32969v1",
+    "publishedAt": "2026-10-23T17:56:28+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and places the burden of coordinating many finger joints on the operator. Human demonstrations are easier to collect, but their motions must be estimated and retargeted to the robot, and they do not directly provide robot actions. In this paper, we introduce DexPort, a portable data-collection interface for high-DoF robot hands. It uses the same hand hardware for collection and deployment, avoiding a hand embodiment gap, and records both commanded joint targets and measured joint states. Our key observation is that a small set of skills can support a wide range of dexterous tasks. During collection, the operator moves the hand-held interface to specify the robot wrist motion and selects or adjusts skills that coordinate the finger motion. This removes the need to control each joint independently while retaining behaviors such as precise grasping and in-hand manipulation. We collect demonstrations across several real-world tasks and in unstructured environments without a robot arm. We then use behavior cloning to train visuomotor policies directly on the recorded wrist motions and hand commands, without skill labels. We evaluate across 4 tasks: pick-and-place with diverse objects, screwing with in-hand tool use, drawer stowage which requires simultaneous grasp and pulling, and a bimanual scanning task. We collect over 2,500 demonstrations with our portable device, in both laboratory and in-the-wild settings. Across our tasks, we see an improvement from 11% to 64% when using recorded robot commands instead of states, and an improvement from 36% to 78% for task success when using in-the-wild data."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Amber Xie, Jiawei Fu, Xiaofeng Guo et al.",
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "cs.LG"
+      ]
+    }
+  },
+  "b159f6eeaa3fd54ad93cb99cde4d65663535e2abe6645299c3641a8a14871693": {
+    "id": "b159f6eeaa3fd54ad93cb99cde4d65663535e2abe6645299c3641a8a14871693",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection",
+    "summary": "Flownomaly提出单步条件均值恢复法，基于冻结DINOv2特征空间，通过条件流匹配学习速度场，仅需一步即可从噪声恢复正常样本特征，提升少样本工业异常检测精度。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.32964v1",
+    "publishedAt": "2026-10-23T17:53:30+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Few-shot industrial anomaly detection requires modeling category-specific normality from only a handful of defect-free images. Common approaches tie inference to stored exemplars, impose rigid linear structure, or risk reproducing anomalous content. Flownomaly instead casts the problem as normal-counterpart recovery in frozen DINOv2 feature space. Given normal supports, a velocity field is learned through conditional flow matching over frozen patch tokens to transport Gaussian noise toward normal features. Along straight paths, a single recovery step using one evaluation of the optimal field yields the posterior mean of the clean normal token without trajectory integration. The operating time governs how strongly recovery modifies a query token. With no anomalous validation samples available for tuning, a normal-only Jacobian gain-to-noise criterion selects this time from the supports alone. Squared residuals between query tokens and their recovered counterparts yield anomaly signals for both dense localization and image-level detection. Across 1-, 2-, and 4-shot benchmarks on MVTec-AD and VisA, together with sample-shot evaluations on Real-IAD, Flownomaly achieves state-of-the-art performance against recent category-specific methods. In the 1-shot setting, image- and pixel-level AUROC reach 97.8% and 98.0% on MVTec-AD and 95.3% and 98.7% on VisA, with a 2.1-point image-level AUROC improvement over the strongest baseline on VisA. Code is available at https://github.com/b-rbmp/Flownomaly."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Bernardo Perrone Ribeiro, Erkut Akdag, Egor Bondarev",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ]
+    }
+  },
+  "6b859818f8168254de42179078a8420f574ba32cb5defaa866e6ced59a442476": {
+    "id": "6b859818f8168254de42179078a8420f574ba32cb5defaa866e6ced59a442476",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
+    "summary": "研究提出Foyer邮箱代理及新评估协议，基于739封真实意英双语邮件（231封无偏+500封对抗采样），首次在训练前获人工标注真值，对比类型化决策模型、经典基线与生成式大模型路由效果。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.32955v1",
+    "publishedAt": "2026-10-23T17:49:43+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Personal email agents decide, for every message, what it is, whether it is urgent, whether to draft a reply, create a task, or ignore it. Their error rate is rarely measured: the stored labels were written by the system itself. We present Foyer, a self-hosted personal inbox agent in daily use, and a measurement protocol (stratified sampling, frozen snapshots, thread-grouped splits, pre-registered hypotheses, human labels in the agent's review loop) that yields ground truth before any training. On 739 real Italian/English emails labelled by the owner (231 unbiased, 500 adversarially sampled), we compare nine systems under thread-grouped cross-validation: the production keyword rules, a TF-IDF + logistic-regression baseline, local typed decision models (Tev1, Nimble), a hosted decision model (Nimble v4-max), and hosted generative LLMs (Qwen2.5-7B, Gemma 4 26B/31B). Four results. The production rules score 28% on message type against a 58% majority class: the field shown most prominently carried no information. With ~200 labels, logistic regression has the highest accuracy on every field (type 0.79, urgency 0.74, needs-reply 0.83, is-noise 0.90), though it never predicts the two rarest classes and is statistically tied with Gemma 4 on type; few-shot prompting does not close the gap. The sender's relationship (client, supplier, service) is recovered from other emails of the same contact with 98.6% accuracy where the contact has been seen, and is not inferable from a single message by any model: it belongs in the contact graph, not the prompt. Finally, accuracy is not the product metric: composed into actions, the most accurate system most often ignores emails needing action (18% vs 4% for the best LLM); a cost-chosen threshold on its noise probability halves that rate and makes it the cheapest system."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Federico Lucca",
+      "categories": [
+        "cs.CL",
+        "cs.HC",
+        "cs.LG"
+      ]
+    }
+  },
+  "5094b0d2d1cf44ca248c6fc65b24b9b455a2f48927ecbdd67bd283896b2c17ae": {
+    "id": "5094b0d2d1cf44ca248c6fc65b24b9b455a2f48927ecbdd67bd283896b2c17ae",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning",
+    "summary": "研究发现，对齐推理与训练中RoPE、SwiGLU等关键模块的BF16舍入位置，可稳定大模型强化学习训练，无需全栈对齐或改算法。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.32951v1",
+    "publishedAt": "2026-10-23T17:45:03+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Reinforcement learning for large language models often uses separate systems for inference and training. Even with identical weights and BF16 tensors, implementation differences can make an intended on-policy update off-policy and destabilize training. Existing remedies align the entire inference and training stacks, change global precision, or modify the learning algorithm. We ask whether aligning selected parts of the execution stack can stabilize BF16 RL while other implementation differences remain. We align training-side rounding locations with inference in three regions---RoPE, SwiGLU, and residual RMSNorm---by retaining selected intermediates in FP32 until their BF16 outputs. Across four Qwen-family models, aligning all three regions prevents the collapse observed under the default BF16 baseline; RoPE-path alignment alone also suffices in the studied runs, despite remaining numerical discrepancies. The interventions keep the inference engine, matrix-multiplication and attention kernels, and learning objective unchanged."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Yijing Ke, Tianle Cai, Ruosong Wang",
+      "categories": [
+        "cs.LG"
+      ]
+    }
+  },
+  "a14bd1217d5839678357cf4f50df1f39e6fc959dd566162c7741c4c556e1cdf0": {
+    "id": "a14bd1217d5839678357cf4f50df1f39e6fc959dd566162c7741c4c556e1cdf0",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Beyond Discrete Tokens: Preserving Numerical Continuity in Medical Vision-Language Models",
+    "summary": "研究提出HAD-VLM模型，融合自回归与扩散机制，实现超声图像中连续数值（如五维测量值）的精准预测，解决离散token建模连续量的失配问题。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.32948v1",
+    "publishedAt": "2026-10-23T17:40:58+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Objective: To develop a unified vision-language model for prompt-conditioned quantitative ultrasound measurement that addresses the mismatch between continuous measurement targets and discrete token-based numerical prediction. Methods: This article presents HAD-VLM, a hybrid autoregressive-diffusion framework that combines autoregressive text generation with continuous measurement prediction within a shared backbone. Visual prompt tuning adapts the vision encoder to ultrasound images. A diffusion process predicts a five-component representation comprising caliper endpoint coordinates and measurement length. A post-processing strategy combining the proposed coordinate-length consistency mechanism with ensemble prediction is introduced to refine measurement estimates. We evaluate four echocardiographic measurement tasks on EchoNet-LVH, with additional assessments of medical question answering and X-ray vertebral measurement. Results: HAD-VLM achieves mean absolute errors of 1.36, 2.77, 3.05, and 1.16 mm for IVSd, LVIDd, LVIDs, and LVPWd, respectively, reducing errors by 21.4-37.6\\% relative to the Vicuna-based autoregressive baseline. It also outperforms fine-tuned Qwen3-VL and direct MLP regression across all four tasks. Medical question answering performance is preserved on the evaluated dataset. For X-ray vertebral measurement, HAD-VLM reduces mean absolute error from 11.4 to 6.7 pixels. Conclusion: Integrating autoregressive language generation with diffusion-based continuous prediction improves quantitative medical image measurement while retaining prompt-conditioned task flexibility. Significance: HAD-VLM provides a unified approach to combining language interaction with anatomically grounded numerical prediction for quantitative medical image analysis."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Dianye Huang, Jiamei Guo, Yue Zhou et al.",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ]
+    }
+  },
+  "be46dce87f39ec06a67aea6466c6a2ffa333598abc6f8babe3eeed65e14efc89": {
+    "id": "be46dce87f39ec06a67aea6466c6a2ffa333598abc6f8babe3eeed65e14efc89",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Monetizing Intelligence: Advertising and Subscription Design on LLM Platforms",
+    "summary": "研究LLM平台广告与订阅定价策略，发现：广告可提升部分用户服务（否则无服务），中档套餐质量下降削弱“广告换服务”逻辑，平台需权衡广告强度与订阅价。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.32945v1",
+    "publishedAt": "2026-10-23T17:39:42+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Large language model (LLM) platforms introducing advertising must decide how much capability ad revenue should fund and what consumers should pay to avoid ads. We study a monopolistic platform that jointly chooses costly response quality, advertising intensity, and subscription prices when advertising reduces user value but better service raises advertising returns. Three findings follow. First, when partly ad-supported and ad-free plans coexist, advertising can finance useful service for consumers who receive none under pure subscription. Lower effective quality in middle plans weakens the alternatives available to premium users, allowing higher prices for unchanged ad-free service. Some fully ad-supported users gain utility, while partly ad-supported and ad-free users lose: broader access can coexist with utility polarization. Second, an intermediate advertising cap can maximize consumer surplus by preserving some revenue that finances service while limiting degradation. Third, cheaper compute can raise quality and reduce ad intensity, yet sufficiently large cost reductions can increase aggregate advertising revenue above its initial level because better service raises the value of the remaining advertised interactions. An extension shows how advertising-funded upgrades can bring plans to the same maximum capability and advertising exposure, eliminating the basis for different prices. These results make menu design central to evaluating LLM advertising: the consequences extend beyond users who see ads to the alternatives and prices faced by those who do not."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Yuhang Ji, Fasheng Xu, Tianjun Feng",
+      "categories": [
+        "econ.TH",
+        "cs.AI"
+      ]
+    }
+  },
+  "2dbd3a90bb56eadb7f95a47cbc6b4a43acf01301c4344807dfacbdc33eebe5dd": {
+    "id": "2dbd3a90bb56eadb7f95a47cbc6b4a43acf01301c4344807dfacbdc33eebe5dd",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Knowledge Distillation across Item and Code Spaces for Parallel Generative Recommendation",
+    "summary": "论文提出跨物品与代码空间的知识蒸馏方法，解决生成式推荐中语义ID模型缺乏替代物品分布信息的问题，提升推荐多样性与准确性。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.32943v1",
+    "publishedAt": "2026-10-23T17:37:55+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Generative recommendation with semantic IDs represents each item as a sequence of discrete codes derived from its semantic representation and predicts these codes to generate recommendations. Existing semantic-ID recommenders are typically trained with hard labels for the observed next item. Although such supervision identifies the target, it provides no explicit distributional information about alternative items conditioned on the same user history. Sequential recommenders can supply this item-level predictive knowledge, but transferring it to semantic-ID generation is challenging because the teacher and student operate in item and code spaces, respectively. We propose two complementary knowledge-distillation objectives for parallel semantic-ID recommenders, which predict all code positions simultaneously without autoregressive prefix conditioning. Item Distribution Matching (IDM) reconstructs a catalogue-level item distribution from the student's parallel code predictions and aligns it with the teacher's item distribution. Code Marginal Matching (CMM) projects the teacher's item probabilities onto each code position using fixed item-to-code assignments, then matches the resulting code marginals to the corresponding student heads. Both objectives transfer the teacher's soft distributional knowledge while preserving the student's parallel prediction structure. Experiments on benchmark datasets show that both methods consistently outperform existing state-of-the-art approaches. On average, IDM improves Recall@10 by 15.39%, while CMM improves NDCG@10 by 8.28%. These results demonstrate that distillation in either reconstructed item space or code-marginal space can substantially strengthen hard-label supervision for parallel generative recommendation."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Yixuan Xu, Hailin Liu, Linxiang Peng et al.",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    }
+  },
+  "02bdb22c88b614ad5cc99f099960ed5511c85b7f6ffd78cf353c684e170e5ec0": {
+    "id": "02bdb22c88b614ad5cc99f099960ed5511c85b7f6ffd78cf353c684e170e5ec0",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs",
+    "summary": "研究提出Backtrack方法，为冻结的视觉-语言-动作（VLA）模型提供轻量级失败检测与恢复机制，仅需小型预测头和结果标注轨迹，无需重训练或额外模型。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.32941v1",
+    "publishedAt": "2026-10-23T17:35:33+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Vision-Language-Action (VLA) models perform well on robotic manipulation, yet remain brittle once their own actions carry them into states their training data barely covers. Recovering from such failures usually requires recovery demonstrations, policy retraining, or a separate model at inference time. We introduce Backtrack, a lightweight failure detection and recovery mechanism for frozen VLAs that needs none of these. A small failure prediction head, trained only on outcome-labeled rollouts of the frozen policy, reads the VLA's existing internal representations to estimate whether the current episode will fail. When the predicted failure probability exceeds a threshold, a controller pauses the policy, retraces the arm's recently achieved motion, and hands control back to the unchanged policy so it can retry from an earlier configuration. The head adds only 0.48-0.88% to the policy's parameter count. We evaluate Backtrack on LIBERO with three VLAs spanning two action-generation families: SmolVLA and $π$0.5, which use flow-matching action experts, and the autoregressive $π$0-FAST. On LIBERO-Long, the suite of long-horizon multi-step tasks and the one on which all three policies fail most often, Backtrack reduces each policy's failure rate by 19-48%, raising success by up to 7.4 percentage points; on the three shorter suites, where control success is already 85-99%, its effect is smaller. On MetaWorld, all twelve controller configurations tested with SmolVLA improve on the unassisted policy."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Thomas Landeg, Thierry Tambe",
+      "categories": [
+        "cs.RO",
+        "cs.LG"
+      ]
+    }
+  },
+  "63bec8e6a2c240def9e20f91d37782d12574535f08cd5333488b8fc0fb803109": {
+    "id": "63bec8e6a2c240def9e20f91d37782d12574535f08cd5333488b8fc0fb803109",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Learning Positive Linear Combinations of ReLUs in Fully Polynomial Time",
+    "summary": "研究者提出首个完全多项式时间算法，可PAC学习k个ReLU的正线性组合，在高斯分布下实现ε精度，样本与时间复杂度均为poly(d,k,1/ε)。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.32940v1",
+    "publishedAt": "2026-10-23T17:34:15+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "We study the fundamental problem of PAC learning positive linear combinations of $k$ arbitrary ReLU activations on $\\mathbb{R}^d$ with respect to the Gaussian distribution, in $L_2$ loss. We give the first fully-polynomial time algorithm for this learning task. Specifically, our algorithm draws $\\mathrm{poly}(d, k, 1/ε)$ samples, runs in $\\mathrm{poly}(d, k, 1/ε)$ time, and outputs a hypothesis that is $ε$-close to the target concept with high probability. All prior algorithms for this problem require super-polynomial time in $k$ or $1/ε$, or leverage strong well-conditioned assumptions on the weight matrix.   On a technical level, our approach develops a novel boosting procedure of a ``weak'' learner that recovers the hidden weight vectors to constant error, in a list-decodable manner. To develop this ``weak'' learning procedure, we leverage implicit tensor computation techniques to construct a low-degree filtering procedure based on Hermite tensors of the target function. This procedure amplifies separation among (clusters of) weight vectors to learn each of them to constant error. We then argue that the same procedure can be used for improving the estimation of hidden weight vectors, using gradient descent-like updates on the Euclidean sphere. A crucial ingredient of our algorithm is a pruning approach that ensures only relevant vectors that approximate the hidden weight vectors at target accuracy are maintained by the algorithm."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Ilias Diakonikolas, Jelena Diakonikolas, Puqian Wang et al.",
+      "categories": [
+        "cs.DS",
+        "cs.LG"
+      ]
+    }
+  },
+  "70d09437e24f08398cb97c486061109df13e46142e2d3a5122cb09a16276286e": {
+    "id": "70d09437e24f08398cb97c486061109df13e46142e2d3a5122cb09a16276286e",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Yalda-Embedding: Open Development of a Competitive Persian Retrieval Model",
+    "summary": "Yalda-Embedding是595.8M参数波斯语检索模型，基于Qwen3-Embedding-0.6B微调，FaMTEB八项任务宏平均分0.5488，超越同规模模型。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.32933v1",
+    "publishedAt": "2026-10-23T17:30:40+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Despite advances in multilingual text representations, effective dense retrieval for Persian remains constrained by the limited availability of language-specific training resources and compact embedding models. We present Yalda Embedding, a 595.8-million-parameter Persian retrieval model adapted from Qwen3-Embedding-0.6B using more than one million query-document pairs. On eight Persian retrieval tasks from FaMTEB, the model achieves the highest macro-average among the evaluated 0.6B models, scoring 0.5488 and outperforming Qwen3-Embedding-0.6B and F2LLM-v2-0.6B on every task. It also approaches Qwen3-Embedding-4B, winning on four tasks, tying on one, and trailing by 0.0075 in macro-average. An incremental ablation study examines contrastive batch size, optimization stabilization, and relational knowledge distillation from F2LLM-v2-8B. Under the one-epoch training setup, contrastive fine-tuning alone yields a modest mean improvement over initialization and regressions on two tasks. The final distilled configuration improves all eight tasks over the non-distilled model, raising the mean from 0.4813 to 0.5488 without increasing inference-time model size. These gains include hard-negative evaluation tasks despite training without explicitly mined or supplied hard negatives. We release model weights, training and evaluation code, the pairwise dataset, and its teacher-embedded counterpart, enabling inspection of data composition and training procedures, independent evaluation, and reuse without repeating expensive teacher inference."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Yalda Taheri, Mohammad Hassan Heydari, Armon Rasooli",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ]
+    }
+  },
+  "aeb2016f77435a2f4642d09737322626633abd364755e94fd6e294eed9633790": {
+    "id": "aeb2016f77435a2f4642d09737322626633abd364755e94fd6e294eed9633790",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "ZENO: Nonlinear filtering with Zakai Equation Neural Operators",
+    "summary": "ZENO模型利用神经算子求解非线性滤波中的Zakai随机偏微分方程，实现高效状态推断与参数学习，突破高维SPDE数值求解瓶颈。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.32926v1",
+    "publishedAt": "2026-10-23T17:24:31+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "State inference and parameter learning for nonlinear filters is a core computation for scientific machine learning with varied applications in engineering and neuroscience. The unnormalized filtering distribution is governed by the Zakai equation, a stochastic partial differential equation (SPDE) that combines the forward Kolmogorov operator (known as the Fokker-Planck equation) with observed likelihood updates. Although solving these high-dimensional SPDEs is often impossible analytically and intractable numerically, advances in operator learning and physics-informed machine learning have made it feasible. Harnessing these advances, we introduce the Zakai Equation Neural Operator (ZENO), a model that optimizes a neural operator against a Zakai Equation based physics-informed loss to approximate the exact unnormalized filtering distribution for latent stochastic dynamical systems. We use this ZENO-inferred posterior distribution in an expectation-maximization (EM) framework to perform parameter learning and state inference. We demonstrate ZENO's ability to accurately infer the posterior distribution and learn its corresponding SDE parameters in three simulated stochastic dynamical systems (Double-Well bistable system, Van Der Pol (VDP) oscillator, and Lorenz system) and compare its performance against established methods for latent SDE inference and learning. We show that ZENO recovers previously observed limit cycles representing forward and backward locomotion from a whole-brain imaging dataset of immobilized \\textit{C. elegans} nematodes. ZENO is a novel approach to the problem of nonlinear filtering and dynamical inference through the lens of partial differential equations and operator theory."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Aaditya Prasad, Steven W. Flavell, Brian DePasquale",
+      "categories": [
+        "cs.LG",
+        "q-bio.NC"
+      ]
+    }
+  },
+  "8ce33ddd9923becc2c83ec588916cff76c16ddec2944d1b25160c799a5a1bf4d": {
+    "id": "8ce33ddd9923becc2c83ec588916cff76c16ddec2944d1b25160c799a5a1bf4d",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Adaptive Frequency Threshold Byte Pair Encoding for Mixed Natural Language and Structured Symbolic Corpora",
+    "summary": "提出自适应频率阈值BPE方法，突破空格语义边界限制，提升自然语言与LaTeX等符号化文本的子词切分效果。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.32921v1",
+    "publishedAt": "2026-10-23T17:21:18+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Modern language models rely on subwording tokenization to define the discrete units of input processing, typically using methods like Byte Pair Encoding (BPE) that treat whitespace as a fixed semantic boundary. This design is inherently limited, as many meaningful concepts---including multiword expressions and the structured environments of formal languages like LaTeX---frequently span across whitespaces. While recent superword tokenization methods attempt to address this by relaxing whitespace constraints, they often rely on greedy frequency-driven merging that fails to account for token length or the specific needs of underrepresented domain-specific languages. In this paper, we introduce Adaptive Frequency Threshold Byte Pair Encoding (AdaBPE), a new tokenization method that leverages an adaptive frequent-pattern mining approach. AdaBPE features a twofold dynamicity: it adapts minimum frequency thresholds based on both the length of a candidate token, to prevent favoring frequent short patterns, and its type, to distinguish between general and formal language patterns, using LaTeX as case in point. This allows the model to efficiently allocate vocabulary capacity to domain-specific notations, such as LaTeX, even when they represent a small fraction of the training data. We evaluate AdaBPE across five datasets spanning LaTeX and natural language, showing consistent gains in encoding efficiency and downstream language-model performance on domain-specific content without compromising general-language performance."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Pietro Di Nicco, Lucio La Cava, Andrea Tagarelli",
+      "categories": [
+        "cs.CL",
+        "cs.LG"
+      ]
+    }
+  },
+  "25ab4a36717d5b4fc5b1036448f4f58dc5442a3280ca002ef14af3183416e693": {
+    "id": "25ab4a36717d5b4fc5b1036448f4f58dc5442a3280ca002ef14af3183416e693",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "魔轮速九阵容推荐：魔女经济快速上九，轮子妈出装、9级上限与前期过渡全讲透",
+    "summary": "UP主 华曦竞界 · 4,636播放 · 3:14",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117504634586899",
+    "publishedAt": "2026-10-26T01:34:48+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "华曦竞界",
+      "play": 4636,
+      "bvid": "BV1mfnQ6jE3w",
+      "duration": "3:14"
+    }
+  },
+  "1c449721c807749c52f4b80b8a335adbe9f0e1da0236a48768aa938048f56405": {
+    "id": "1c449721c807749c52f4b80b8a335adbe9f0e1da0236a48768aa938048f56405",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "幻灭:热补后S级阵容，峡谷野怪大红，云顶无门槛直接玩！",
+    "summary": "UP主 洛城烟雨楼 · 404播放 · 3:11",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117500893333966",
+    "publishedAt": "2026-10-25T09:46:56+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "洛城烟雨楼",
+      "play": 404,
+      "bvid": "BV1xwHL6CEnf",
+      "duration": "3:11"
+    }
   }
 }
