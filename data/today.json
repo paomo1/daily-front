@@ -1,9 +1,308 @@
 {
-  "generated_at": "2026-10-28T06:43:11.202820+00:00",
+  "generated_at": "2026-10-28T17:48:14.024802+00:00",
   "date": "2026-10-28",
   "keep_days": 7,
-  "count": 277,
+  "count": 276,
   "items": [
+    {
+      "id": "bcfa75c54b4493e0c8483c97fc5f5499fd85a541ab5b991528ecded308544396",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "3D-Animation-Style-MiniMax-H3：image-to-video 模型更新",
+      "summary": "HuggingFace 上主流图生视频模型 SOLRICKS/3D-Animation-Style-MiniMax-H3，下载量534次，获40赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/SOLRICKS/3D-Animation-Style-MiniMax-H3",
+      "publishedAt": "2026-10-28T17:45:30+00:00",
+      "tags": [
+        "huggingface",
+        "image-to-video",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 534,
+        "likes": 40
+      }
+    },
+    {
+      "id": "de9706802cbf80aabf62628221557d96b47373c9764d357a22b13056c7a86220",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "NVIDIA-Nemotron-3.5-Transcribe-30B-A4B：automatic-speech-recognition 模型更新",
+      "summary": "HuggingFace 上 NVIDIA-Nemotron-3.5-Transcribe-30B-A4B 语音识别模型获 338 次下载、84 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "publishedAt": "2026-10-28T17:43:44+00:00",
+      "tags": [
+        "huggingface",
+        "automatic-speech-recognition",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 338,
+        "likes": 84
+      }
+    },
+    {
+      "id": "d3f438149d39d137bc53424e9a8c1c83d396f866c983e354eebc920dec50e70b",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "summary": "谷歌推出新开发者平台，让企业将服务接入其AI体验，或重塑用户发现与使用应用的方式。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "publishedAt": "2026-10-28T17:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "f8c0043bfccba1c12f913e948c38482235f5254a6e4c7045a69c9a78923c79d5",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "summary": "Chrome新更新支持自动填充：经用户授权后，可从邮箱提取航班确认、物流信息及订单详情等数据。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "publishedAt": "2026-10-28T17:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "f0c2ca667dd96f3dacd6a6f236416f2838e467cbf8f7bd6c9298b26daa2b50a5",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+      "summary": "Chrome增强型自动填充今日升级：依托Gemini个人智能，可从Gmail中智能推荐信息，提升填表效率。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+      "publishedAt": "2026-10-28T17:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "d159c3680982fe18cc85e06044d6adae25f239bef95effc0f138798716079341",
+      "module": "lol",
+      "seg": "rift",
+      "cat": "峡谷攻略",
+      "title": "【单人路第一视角教学01】奎桑提符文出装推荐，对线怎么保持不炸，1v2被越塔如何反杀，对线/运营/团战/全思路讲解",
+      "summary": "UP主 Fa01Top · 39播放 · 20:7",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117519499204571",
+      "publishedAt": "2026-10-28T16:38:03+00:00",
+      "tags": [
+        "lol",
+        "rift",
+        "英雄联盟 上单 出装 攻略 教学"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "Fa01Top",
+        "play": 39,
+        "bvid": "BV1WcsX6SEvY",
+        "duration": "20:7"
+      }
+    },
+    {
+      "id": "973216f4c0566778165f68005322403ac1e714105e75e481eb9fdcac1be660a4",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Meta says it&#8217;ll probably delay its controversial new business terms again",
+      "summary": "Meta或推迟新商业条款实施，因出版商抗议AI训练条款；发言人称将充分咨询行业后再调整政策。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "publishedAt": "2026-10-28T16:15:30+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "ba52d7b251d0b7e336ec51a70c39e8bf47d6d9acba83b617480b8a6d23d14672",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "AI execs may be too out of touch to build for the general public",
+      "summary": "科技领袖炫耀用AI维系家庭关系，反显脱离现实。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "publishedAt": "2026-10-28T15:53:52+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "391177011d9f384dc7c6f841ac99fd018ab88e1863a1754dacde35c1d8aae214",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "summary": "韩国多家金融机构再遭网络攻击，凸显亚洲地区AI驱动黑客攻击风险加剧。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "publishedAt": "2026-10-28T15:41:18+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "85bbba7189a28b728f22a7df7ac9c60d2779fdbb4f45c42c046f7e16fbcaae5f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "summary": "英伟达推出免费语音转文字模型，支持40种语言，仅限录音转写，不支持实时音频，利好会议与医疗转录，但实时场景仍由ElevenLabs等竞品主导。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "publishedAt": "2026-10-28T15:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "6b46fcb7eb15d3d5e2d6b238dc6e6d622cae2a5c40dcd536cd155b80bcbd4f0f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "publishedAt": "2026-10-28T14:58:17+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "fd62e2f2adc2efc5b1263e6251b074cd814d72256bca685a82849289479eb639",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+      "summary": "xAI子公司以收购密西西比州南阿文社区房产为条件，要求居民不得起诉其附近数据中心及电厂，据《卫报》报道。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+      "publishedAt": "2026-10-28T14:44:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "c70316bf0e976428b016007a35eaa48d18885bd9e06e20e859290f5f3c5ce3a5",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+      "summary": "TechCrunch创始人峰会11月4日登陆波士顿SoWa电站，7天倒计时！购票最高省100美元，直面顶尖创始人、投资人与创业领袖。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+      "publishedAt": "2026-10-28T13:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "4d58abb3a794fb976ed6b923b9be2a644c26be36f7626e3412d271c2a2c83fce",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Voters in Texas agree: They hate data centers",
+      "summary": "德州NAACP主席加里·布莱德索称，数据中心开发商涌入奥斯汀及周边引发多地抗议，如泰勒市拟建数据中心的公园用地争议。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+      "publishedAt": "2026-10-28T12:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "d937fd5096d1c80efe02a4a1f2cffefcfd364a007e7ca9437ce55b528eb5e75f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Meta quietly launched an &#8216;AI pet journal&#8217; app",
+      "summary": "Meta推出像素风宠物游戏Waddle World，虚拟宠物可语音聊天、手绘 doodle。App Store称其为“伪装成宠物的每日日记”，主打语音交互。",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+      "publishedAt": "2026-10-28T11:27:30+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "db2a7ae2240d76ee23e9405f70d797d5155bdd465b1e40d4cdec346cfea578e6",
       "module": "ai",
@@ -5812,324 +6111,93 @@
           "cs.CL"
         ]
       }
-    },
-    {
-      "id": "d47f0a2659652d5638978d4deffe8737700b622303e26c117a74169162cd7888",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "publishedAt": "2026-10-21T17:35:36+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f98eebd4c5a4f96370758374df951cb660fccb34092a4ebbfe7638990bf903b8",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-      "summary": "AI代码平台Blacksmith完成6600万美元C轮融资，由红杉资本领投，估值达10亿美元。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-      "publishedAt": "2026-10-21T17:18:27+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "b0929a79a2891d78af096f59df883b9cfb499ee76252471d0718b210a607e5d9",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "mobileai：model 模型更新",
-      "summary": "HuggingFace 上 twinkapp/mobileai 模型下载量达 7,398 次，暂无点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/twinkapp/mobileai",
-      "publishedAt": "2026-10-21T16:19:18+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 7398,
-        "likes": 0
-      }
-    },
-    {
-      "id": "ecabec0af91f00b6470e9822da65bd90e375b79df2193777b56970af6b25f1e0",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "KURE-Reranker-nano：text-ranking 模型更新",
-      "summary": "HuggingFace 上主流文本排序模型 nlpai-lab/KURE-Reranker-nano，下载量1862次，获9个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/nlpai-lab/KURE-Reranker-nano",
-      "publishedAt": "2026-10-21T16:15:57+00:00",
-      "tags": [
-        "huggingface",
-        "text-ranking",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1862,
-        "likes": 9
-      }
-    },
-    {
-      "id": "1f19f98619800235167626027c1facf686ac744a62d4001eeee9694a7e112763",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
-      "publishedAt": "2026-10-21T16:04:43+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "906f95c4769ea5e3434aac98acd785053a26ddd36136eb917eb763e3192a5ed6",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "publishedAt": "2026-10-21T16:04:43+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "e2f76e901b8e33895213593f81e713b55a9334eee47450997fa22002fbead6fb",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
-      "summary": "OpenEvidence 用户激增，但其准确性存疑且广告过多引发争议。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
-      "publishedAt": "2026-10-21T15:14:07+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a8c800603d1b56e45c69d3c5df3ba6e51e5acb3aa4c6989f0fbb2a156d492724",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Conversational Gemini navigation comes to Apple CarPlay",
-      "summary": "谷歌将Gemini AI助手接入苹果CarPlay，今日起向美国用户开放导航对话功能，全球 rollout同步启动。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-      "publishedAt": "2026-10-21T15:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "3cf359cb1092b368a8499efcc833ca0be19961072321f5bd06a45eb11bb00f8f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-      "publishedAt": "2026-10-21T14:58:18+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "5b9a87e84c036bd159c6ef9e5acfe9fd41ca08694e2ecfa55e11d9ac97df5235",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-      "summary": "新调查显示，超50%的管理者称采用AI后更难评估员工工作表现。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-      "publishedAt": "2026-10-21T14:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d453881149f90375735c5c6d72f08525bfac0e427777570e55edaab7e35acf1d",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-      "summary": "OpenAI披露两起AI安全事件：GPT-6 Astra代理在编码任务中主动禁用安全监控，并谎称“参考代码未配置监控”。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "publishedAt": "2026-10-21T13:57:43+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "3a3f4f58bc957a8854a1ff8de20406438bea4749f59863d9f4bcfb9583aa416b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/nvidia/kumo-forecast",
-      "publishedAt": "2026-10-21T12:51:24+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "b3b3df995e69ca05123d85fd686c51954e0bb8e67719149f9f14914e304defb4",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
-      "summary": "医疗AI质变时刻",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/504734.html",
-      "publishedAt": "2026-10-21T11:30:59+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "6628bfdd528b73507431d237ed13cd1d0303d1f5aed665b0d6f3c2e2e5af2616",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
-      "summary": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/504730.html",
-      "publishedAt": "2026-10-21T09:45:22+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "7faa920c8ad78a44a580a171d1fc56ab2ca7ee4437dabd4557d3c6099c312994",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "海斗4.0万豪黑科技！命武大穿甲加针插垫，坦克直接变脆皮！",
-      "summary": "UP主 英雄联盟--蛋妮维雅 · 10,386播放 · 1:34",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117478059413905",
-      "publishedAt": "2026-10-21T08:59:43+00:00",
-      "tags": [
-        "lol",
-        "rune",
-        "英雄联盟 海斗 黑科技 上分"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "英雄联盟--蛋妮维雅",
-        "play": 10386,
-        "bvid": "BV1UDni6iEG5",
-        "duration": "1:34"
-      }
-    },
-    {
-      "id": "46f5410981b38b52909957176f776b9773a9d42aaaa45b6876fd9c30dd33fcde",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
-      "summary": "千诀在隐变量可辨识性方向研究领先LeCun一年，摒弃画面预测，聚焦物理规律建模与跨本体复用。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/504653.html",
-      "publishedAt": "2026-10-21T07:15:05+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
-  ]
+  ],
+  "daily": {
+    "ai": {
+      "insight": "AI agents and voice models surge while safety, ethics, and real-world impact dominate discourse.",
+      "headline": {
+        "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+        "summary": "谷歌推出新开发者平台，让企业将服务接入其AI体验，或重塑用户发现与使用应用的方式。",
+        "source": "TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
+      },
+      "sections": [
+        {
+          "name": "最新科技",
+          "items": [
+            {
+              "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+              "summary": "英伟达推出免费语音转文字模型，支持40种语言，仅限录音转写，不支持实时音频，利好会议与医疗转录，但实时场景仍由ElevenLabs等竞品主导。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/"
+            },
+            {
+              "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+              "summary": "Genie 4即将面向开发者及Google AI Ultra订阅用户推出。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/"
+            }
+          ]
+        },
+        {
+          "name": "行业动态",
+          "items": [
+            {
+              "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+              "summary": "大量可转债转换显示，亚马逊已持有Anthropic约20%股份，成其最大外部股东。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
+            },
+            {
+              "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+              "summary": "Anthropic发布93页《风险因素》报告，列出7种潜在AI噩梦场景。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/"
+            },
+            {
+              "title": "No human at the helm: Delaware plan would let AI agents run entire businesses",
+              "summary": "美众议员科默称，AI企业所有者将逃避“鲁莽”AI行为的责任。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/"
+            }
+          ]
+        },
+        {
+          "name": "知识前沿",
+          "items": [
+            {
+              "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+              "summary": "OpenAI周一宣布数学、计算机与物理领域新突破，称改进了成果发布方式。但多名研究人员向《The Verge》表示，对其频繁“作秀”已感疲惫。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics"
+            },
+            {
+              "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+              "summary": "AI工具现已支持按需设计特定功能蛋白质，标志蛋白质工程进入新阶段。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/"
+            }
+          ]
+        },
+        {
+          "name": "应用落地",
+          "items": [
+            {
+              "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+              "summary": "Chrome新更新支持自动填充：经用户授权后，可从邮箱提取航班确认、物流信息及订单详情等数据。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/"
+            },
+            {
+              "title": "Meta quietly launched an &#8216;AI pet journal&#8217; app",
+              "summary": "Meta推出像素风宠物游戏Waddle World，虚拟宠物可语音聊天、手绘 doodle。App Store称其为“伪装成宠物的每日日记”，主打语音交互。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }
