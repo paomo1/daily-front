@@ -1,9 +1,420 @@
 {
-  "generated_at": "2026-10-30T17:36:41.568489+00:00",
-  "date": "2026-10-30",
+  "generated_at": "2026-10-31T06:43:32.504992+00:00",
+  "date": "2026-10-31",
   "keep_days": 7,
-  "count": 278,
+  "count": 271,
   "items": [
+    {
+      "id": "5fd9e9e7d3a31be601a0d8f7d42c2a012610f6fb9de151d9109f838f6fbdeaf9",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "SRA-RiskGate-4B：text-generation 模型更新",
+      "summary": "HuggingFace 主流 text-generation 模型 sriram1983007/SRA-RiskGate-4B，6,821 下载，4 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/sriram1983007/SRA-RiskGate-4B",
+      "publishedAt": "2026-10-31T06:41:32+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 6821,
+        "likes": 4
+      }
+    },
+    {
+      "id": "cce7a9dfba38e7d678e04ee937b0b7f1c3cbce2c4084049a4d99b1476ceec9f0",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MatterSeek：feature-extraction 模型更新",
+      "summary": "HuggingFace 主流 feature-extraction 模型 YuyaoTechnology/MatterSeek，0 下载，292 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/YuyaoTechnology/MatterSeek",
+      "publishedAt": "2026-10-31T06:35:23+00:00",
+      "tags": [
+        "huggingface",
+        "feature-extraction",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 292
+      }
+    },
+    {
+      "id": "afa3a0bd7319f544b65cf3a93b5cb70fd7797281aa611d6e8fdb6b92509dfa0f",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MiMo-Ornith-9B-AGSI-Abliterated-HQ-i1-GGUF：model 模型更新",
+      "summary": "HuggingFace 主流 model 模型 mradermacher/MiMo-Ornith-9B-AGSI-Abliterated-HQ-i1-GGUF，1,843 下载，1 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mradermacher/MiMo-Ornith-9B-AGSI-Abliterated-HQ-i1-GGUF",
+      "publishedAt": "2026-10-31T06:28:37+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1843,
+        "likes": 1
+      }
+    },
+    {
+      "id": "c399c0cbb33b7da60c900286d8cb8f4e7f39bdb33e00014cd5365de7b554e3c1",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the lo",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "publishedAt": "2026-10-31T01:20:05+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "291f691ee7e9ac924560b1bfd07497e44cd059bd314188fd5573afe52ebd5a5f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users'",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "publishedAt": "2026-10-30T22:56:13+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "86c9e861fa6ab43d68542cc565a93acf9a6a92bd707a8b7f7062a8f17643ecf3",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as r",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "publishedAt": "2026-10-30T22:32:53+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "2fc0455f5ef7b7a8cc8c0937ffdaba8b45b6be848dc23fa8571feae9d3505f39",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "publishedAt": "2026-10-30T21:54:34+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "8a182949f9b24d8141e3d6089a75cca422c687bc92310119f095e004d9657fb4",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "publishedAt": "2026-10-30T21:52:03+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "0e3076b04b972e0518838f5b9d3dc9a223a241d7f193fadb160861274d88f24c",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+      "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+      "publishedAt": "2026-10-30T21:41:54+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "81ea4dfb3cb5c1b6838fb447d12670d3bc9e344867d1749074179b900027fdcf",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "publishedAt": "2026-10-30T21:26:59+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "7c7f37889305ba937bf66bd8c61e08b7aaf003dd45232cb77924e68e1e218d9d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Cracks are emerging in the AI spending boom",
+      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skeptic",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "publishedAt": "2026-10-30T21:17:40+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "a5c54d5c65d98696adf799f23ec5ed27b54b997d5534a6f808b9bd5722b652d1",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "publishedAt": "2026-10-30T21:09:54+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "0dd9be8bf3914a772242c6e19a28f83762ea8a7a0a0df21a800d012a20277561",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "publishedAt": "2026-10-30T20:48:43+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "740d3b2122d27745710440f576444d9526978b7b208cb12e87524df6e608f994",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+      "summary": "People who love AI don't always love telling others they used it.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+      "publishedAt": "2026-10-30T20:40:13+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "a01a958e16ead770eb2e1bf2b0a5c0735148790c8d6ac7aa3a347d456f1d0465",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "publishedAt": "2026-10-30T20:26:10+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "184c97f19a56bf34364acaa2582c8b409978830fa08e7b22470bf9a35f68ab03",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "summary": "But it's still early days for the relatively new e-commerce use case.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "publishedAt": "2026-10-30T19:30:52+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "863182eaa6bca8ce33bc4f5fabc933d5896e79f9556b4993a99bff0c6f0ad233",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says i",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "publishedAt": "2026-10-30T18:21:38+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "1985f785ab9f27b2f3b3f3d4ccd9c26365acc037a0d0c2c20757932bf34befa8",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "nemotron-halloween",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "publishedAt": "2026-10-30T17:57:24+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "9a6a8b0d2ddce75b6d203c45c530c4e3caa29111f1c70fe42f07ce0f3111d6e2",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and ma",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "publishedAt": "2026-10-30T17:47:12+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "3460be8cc1716099ac8a55023800e227a189e21eb3bd51e34a1fcd0028d39f75",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "summary": "Low costs and offline security mean magnetic tape still has a job.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "publishedAt": "2026-10-30T17:38:19+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "7c87c8e33676af02cab667b2a8c6aa8c4ba1c2bc09b2201c02dc67e04450e615",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings c",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "publishedAt": "2026-10-30T17:38:04+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "b8d1a3597dc19bb7a3141a2e7b422ce71a2c18258fd9930a5217686429c6be75",
       "module": "ai",
@@ -5330,677 +5741,6 @@
         "play": 1271,
         "bvid": "BV1Xrni6CEho",
         "duration": "4:49"
-      }
-    },
-    {
-      "id": "4406499f0ce3eae8b3d56d06a4ee7faaa31ad2d2b2d8f017dbd6bf636612595f",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Realtime-Venus：any-to-any 模型更新",
-      "summary": "HuggingFace 上 any-to-any 模型 Realtime-Venus（inclusionAI 开发）获 548 次下载、115 赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/inclusionAI/Realtime-Venus",
-      "publishedAt": "2026-10-24T05:28:13+00:00",
-      "tags": [
-        "huggingface",
-        "any-to-any",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 548,
-        "likes": 115
-      }
-    },
-    {
-      "id": "b93cdbb7b3efaa12dfff0a574862bf21f30c6f2fb13caf25cb1fe5ac86c58050",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Gemma-3-4B-VL-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking-GGUF：model 模型更新",
-      "summary": "HuggingFace 上模型 mradermacher/Gemma-3-4B-VL-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking-GGUF 下载量1012次，获3赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/mradermacher/Gemma-3-4B-VL-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking-GGUF",
-      "publishedAt": "2026-10-24T05:16:00+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1012,
-        "likes": 3
-      }
-    },
-    {
-      "id": "411c81ab00ce0d8098a7d70992b29ddddb1a39c1701fa7d1102a9c0e96f967ef",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "gemma-3-12b-it-vl-GLM-4.7-Flash-Heretic-Uncensored-Thinking-GGUF：model 模型更新",
-      "summary": "HuggingFace 上模型“mradermacher/gemma-3-12b-it-vl-GLM-4.7-Flash-Heretic-Uncensored-Thinking-GGUF”下载量达1065次，获3赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/mradermacher/gemma-3-12b-it-vl-GLM-4.7-Flash-Heretic-Uncensored-Thinking-GGUF",
-      "publishedAt": "2026-10-24T05:15:46+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1065,
-        "likes": 3
-      }
-    },
-    {
-      "id": "a79152c76a5209a725441717daff56b5adf5fb5bc946c79002c12b1816c7b7fb",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.5-4B-heretic-GGUF：model 模型更新",
-      "summary": "HuggingFace 上模型 mradermacher/Qwen3.5-4B-heretic-GGUF 获2295次下载、5个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/mradermacher/Qwen3.5-4B-heretic-GGUF",
-      "publishedAt": "2026-10-24T05:15:17+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 2295,
-        "likes": 5
-      }
-    },
-    {
-      "id": "f1af414d3d87b34641305fcdc48d32d98c979f4c8b1e4587f9eedb3b273b7e2c",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Cosmos3-Nano-Policy-DROID：model 模型更新",
-      "summary": "HuggingFace 上 NVIDIA 推出的 Cosmos3-Nano-Policy-DROID 模型，下载量达 1,429 次，获 40 赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/nvidia/Cosmos3-Nano-Policy-DROID",
-      "publishedAt": "2026-10-24T05:08:45+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1429,
-        "likes": 40
-      }
-    },
-    {
-      "id": "ad340e96dbdd30bf40893113e08049f55b00eeae97bb46780885f9851ae55577",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Cosmos3-Edge-Policy-DROID：model 模型更新",
-      "summary": "Hugging Face 上 NVIDIA 推出的 Cosmos3-Edge-Policy-DROID 模型，下载量达 1,877 次，获 15 赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/nvidia/Cosmos3-Edge-Policy-DROID",
-      "publishedAt": "2026-10-24T05:08:41+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1877,
-        "likes": 15
-      }
-    },
-    {
-      "id": "46e735d35e3d8e9556dbc08011252fe5eab20dc6f419d59089d7374f058ee167",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Cosmos3-Super-Image2Video-4Step：image-to-video 模型更新",
-      "summary": "HuggingFace 上 NVIDIA 推出的 Cosmos3-Super-Image2Video-4Step 图生视频模型，下载量605次，获35赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/nvidia/Cosmos3-Super-Image2Video-4Step",
-      "publishedAt": "2026-10-24T05:08:33+00:00",
-      "tags": [
-        "huggingface",
-        "image-to-video",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 605,
-        "likes": 35
-      }
-    },
-    {
-      "id": "1a77ac302280020ea6fb606ffe65814b507cf7133700cb93a835a49b4ae9d8ac",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Cosmos3-Super-Text2Image-4Step：text-to-image 模型更新",
-      "summary": "HuggingFace上线NVIDIA Cosmos3-Super-Text2Image-4Step文生图模型，仅4步生成，下载量394次，获19赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/nvidia/Cosmos3-Super-Text2Image-4Step",
-      "publishedAt": "2026-10-24T05:08:27+00:00",
-      "tags": [
-        "huggingface",
-        "text-to-image",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 394,
-        "likes": 19
-      }
-    },
-    {
-      "id": "ecd04d370ce78852def571befee0724dc5af51f6f24ebf930f12e34e9be76ea3",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "云顶王者课堂S18云巅学阵容 18.5永森三玩法吃鸡细节解析",
-      "summary": "UP主 云顶王者课堂 · 210播放 · 4:3",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117494098495749",
-      "publishedAt": "2026-10-24T04:55:05+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "云顶王者课堂",
-        "play": 210,
-        "bvid": "BV1gbHw6mEeG",
-        "duration": "4:3"
-      }
-    },
-    {
-      "id": "60412ddbf5458f10d70bce5f0bd742c4f664ff5bd622889c9463ea5e398d03d9",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "云顶王者课堂S18云巅学阵容 18.5野怪赌一个吃鸡细节解析",
-      "summary": "UP主 云顶王者课堂 · 335播放 · 3:37",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117493712621030",
-      "publishedAt": "2026-10-24T03:20:44+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "云顶王者课堂",
-        "play": 335,
-        "bvid": "BV1N6Hw6gE33",
-        "duration": "3:37"
-      }
-    },
-    {
-      "id": "c0ba970f80a610e290b3048029e90abcfc9bb742d8b33915e43fe32e8e834b07",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "云顶王者课堂S18云巅学阵容 18.5低费赌野怪吃鸡细节解析",
-      "summary": "UP主 云顶王者课堂 · 297播放 · 3:53",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117493511227161",
-      "publishedAt": "2026-10-24T02:26:07+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "云顶王者课堂",
-        "play": 297,
-        "bvid": "BV1iZHw6oEXS",
-        "duration": "3:53"
-      }
-    },
-    {
-      "id": "43cc2dfabaa26f9c17c495d9a051b1e237b6b2bb1e57d88ba796d5081c9d16ff",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "云顶王者课堂S18云巅学阵容 18.5日蚀卡尔玛吃鸡细节解析",
-      "summary": "UP主 云顶王者课堂 · 440播放 · 3:34",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117493326744376",
-      "publishedAt": "2026-10-24T01:39:41+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "云顶王者课堂",
-        "play": 440,
-        "bvid": "BV1zeHA6AEYi",
-        "duration": "3:34"
-      }
-    },
-    {
-      "id": "3f456e9188fe12570f80ac13d7c5f4dc8b282b915a1f3052e90ff4b370cb2221",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "summary": "OpenAI将切断前沿模型的互联网访问，距其工程师称该方案“无效”仅数周。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "publishedAt": "2026-10-23T23:05:49+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ba49a1bf49bd2a198deb0a188c896c10696f58d4a44343573919ae631d25cd3b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "summary": "机器人可踏步、发R2-D2音效、听令坐倒“小憩”、翻跟头，动作灵敏。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "publishedAt": "2026-10-23T21:59:19+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "1a91182171e6dbcd58f5574e84be4d0db95d8e2c644d634eff6f72b678e209ab",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI now trains its frontier AI models with no internet access",
-      "summary": "OpenAI暂停前沿模型训练，转为离线环境训练，仅使用索引缓存的网页内容，以防外部系统受干扰。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-      "publishedAt": "2026-10-23T21:11:07+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ebc8917eac11bebdef49bfafdae94579a080ae658047c1e96b73081e95592cfb",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-      "summary": "开启“个人智能”功能将使公司获取更多用户数据，用于精准广告投放。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-      "publishedAt": "2026-10-23T20:19:55+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "cf8402d2c8054bf8ad918149f387d9cb28df1e578c1a40a8a75376159614fa3d",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "summary": "Jack Dorsey旗下Block推出全新AI模型Dessa，称其“完全基于人类对话从零训练”。官方展示的对话偶显尴尬、诡异。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-      "publishedAt": "2026-10-23T19:32:39+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "aeeee32dc281106fc19a16d9bc40ffb336743378d3c9fb7e48808025fa17bb98",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-      "summary": "TechCrunch联合富达私有股份举办全天活动，聚焦客户获取、团队建设、路演优化、创始人领导力及跨区域规模化等实战议题。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-      "publishedAt": "2026-10-23T19:06:23+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "26ece7e6d339d422f221f5ed73de6ce58c1791c63ddf6c86ad369022dad64310",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "The Language of Instruction: Genre and Generative AI",
-      "summary": "本文提出“教学对话体”概念，指出指令微调大模型实为构建一种融合人机对话与标记语言的新型文类，依赖系统提示、特殊标记及角色轮替结构。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.32982v1",
-      "publishedAt": "2026-10-23T17:59:56+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation of discursive language from prior conversations between generative models and humans recursively run through these massive neural networks. It is instantiated in applications through instruction fine-tuning, the inclusion of a pretext known as a system prompt, and the formalization of inputs in mark-up languages characterized by the use of special tokens and role assignment in turntaking structures."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "James E. Dobson",
-        "categories": [
-          "cs.CL",
-          "cs.CY"
-        ]
-      }
-    },
-    {
-      "id": "62e25b8311f4cba934fed59caaf963fe6bf97eb7c266efa9f038fc03e9c6b94d",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
-      "summary": "SceneBloom：新框架融合视觉布局采样与契约引导3D编译，生成真实多样的室内环境，提升具身智能体训练效果。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.32978v1",
-      "publishedAt": "2026-10-23T17:59:21+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise spatial grounding remains difficult. Visual generative models offer rich priors over plausible arrangements, yet their outputs require geometric reasoning to become physically valid 3D scenes. We introduce SceneBloom, an agentic framework that combines visual layout sampling with contract-guided 3D compilation. A hierarchical sampler uses diffusion priors to generate furniture arrangements within functional zones. A compiler then uses relations extracted from each proposal to guide geometric fitting and local pose correction. Across five room types, SceneBloom attains the highest visual quality and physical stability among the compared methods and is the only method with no detected mesh collisions and out-of-bounds objects. Its layouts are also closer to the distribution of real rooms than those of all compared baselines. Object navigation policies trained in these realistic scenes achieve a higher success rate in held-out real scans than those trained on an equal number of real training scans. Code is available at https://github.com/Tinaliu0123/scenebloom."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Yuhan Liu, Lianhui Qin, Shenji Wan",
-        "categories": [
-          "cs.CV",
-          "cs.AI",
-          "cs.RO"
-        ]
-      }
-    },
-    {
-      "id": "ae4309473bfd8b6fdaf9582c0936ec1b6be79bc98b5ea545dd65ed5614429187",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
-      "summary": "RobustRLlib发布：集成17种鲁棒强化学习算法的统一库与基准，提升可复用性并明确实证能力边界。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.32971v1",
-      "publishedAt": "2026-10-23T17:57:22+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mechanisms and principles, yet two major barriers limit their broader potential: limited algorithm reusability and an unclear empirical capability boundary. We introduce RobustRLlib, an algorithm-centric library and benchmark that addresses both challenges. It integrates 17 representative robust online, offline, and safe RL algorithms under a unified interface for substantially improved reusability, together with an enhanced evaluation platform spanning diverse real-world shifts and advanced humanoid and vision-language-action tasks. Systematic evaluation over 273 perturbation configurations provides an up-to-date capability map of current robust RL algorithms, revealing where they remain effective and where substantial robustness gaps persist. As an open-source, user-friendly platform, RobustRLlib offers a reproducible and extensible codebase for applying existing methods to new problems and developing new robust RL algorithms."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Xi Chen, Fengqi Hu, Zeyu Shen et al.",
-        "categories": [
-          "cs.LG",
-          "cs.AI",
-          "cs.RO"
-        ]
-      }
-    },
-    {
-      "id": "afb95e487d3587d380b7a4ea8341dfe0c519c11af3986fa99a3724b363e23b47",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
-      "summary": "DexPort是一种便携式灵巧手数据采集接口，支持高自由度机器人手的高质量示范收集，实现采集与部署硬件统一。（59字）",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.32969v1",
-      "publishedAt": "2026-10-23T17:56:28+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and places the burden of coordinating many finger joints on the operator. Human demonstrations are easier to collect, but their motions must be estimated and retargeted to the robot, and they do not directly provide robot actions. In this paper, we introduce DexPort, a portable data-collection interface for high-DoF robot hands. It uses the same hand hardware for collection and deployment, avoiding a hand embodiment gap, and records both commanded joint targets and measured joint states. Our key observation is that a small set of skills can support a wide range of dexterous tasks. During collection, the operator moves the hand-held interface to specify the robot wrist motion and selects or adjusts skills that coordinate the finger motion. This removes the need to control each joint independently while retaining behaviors such as precise grasping and in-hand manipulation. We collect demonstrations across several real-world tasks and in unstructured environments without a robot arm. We then use behavior cloning to train visuomotor policies directly on the recorded wrist motions and hand commands, without skill labels. We evaluate across 4 tasks: pick-and-place with diverse objects, screwing with in-hand tool use, drawer stowage which requires simultaneous grasp and pulling, and a bimanual scanning task. We collect over 2,500 demonstrations with our portable device, in both laboratory and in-the-wild settings. Across our tasks, we see an improvement from 11% to 64% when using recorded robot commands instead of states, and an improvement from 36% to 78% for task success when using in-the-wild data."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Amber Xie, Jiawei Fu, Xiaofeng Guo et al.",
-        "categories": [
-          "cs.RO",
-          "cs.AI",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "b159f6eeaa3fd54ad93cb99cde4d65663535e2abe6645299c3641a8a14871693",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection",
-      "summary": "Flownomaly提出单步条件均值恢复法，基于冻结DINOv2特征空间，通过条件流匹配学习速度场，仅需一步即可从噪声恢复正常样本特征，提升少样本工业异常检测精度。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.32964v1",
-      "publishedAt": "2026-10-23T17:53:30+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Few-shot industrial anomaly detection requires modeling category-specific normality from only a handful of defect-free images. Common approaches tie inference to stored exemplars, impose rigid linear structure, or risk reproducing anomalous content. Flownomaly instead casts the problem as normal-counterpart recovery in frozen DINOv2 feature space. Given normal supports, a velocity field is learned through conditional flow matching over frozen patch tokens to transport Gaussian noise toward normal features. Along straight paths, a single recovery step using one evaluation of the optimal field yields the posterior mean of the clean normal token without trajectory integration. The operating time governs how strongly recovery modifies a query token. With no anomalous validation samples available for tuning, a normal-only Jacobian gain-to-noise criterion selects this time from the supports alone. Squared residuals between query tokens and their recovered counterparts yield anomaly signals for both dense localization and image-level detection. Across 1-, 2-, and 4-shot benchmarks on MVTec-AD and VisA, together with sample-shot evaluations on Real-IAD, Flownomaly achieves state-of-the-art performance against recent category-specific methods. In the 1-shot setting, image- and pixel-level AUROC reach 97.8% and 98.0% on MVTec-AD and 95.3% and 98.7% on VisA, with a 2.1-point image-level AUROC improvement over the strongest baseline on VisA. Code is available at https://github.com/b-rbmp/Flownomaly."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Bernardo Perrone Ribeiro, Erkut Akdag, Egor Bondarev",
-        "categories": [
-          "cs.CV",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "6b859818f8168254de42179078a8420f574ba32cb5defaa866e6ced59a442476",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
-      "summary": "研究提出Foyer邮箱代理及新评估协议，基于739封真实意英双语邮件（231封无偏+500封对抗采样），首次在训练前获人工标注真值，对比类型化决策模型、经典基线与生成式大模型路由效果。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.32955v1",
-      "publishedAt": "2026-10-23T17:49:43+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Personal email agents decide, for every message, what it is, whether it is urgent, whether to draft a reply, create a task, or ignore it. Their error rate is rarely measured: the stored labels were written by the system itself. We present Foyer, a self-hosted personal inbox agent in daily use, and a measurement protocol (stratified sampling, frozen snapshots, thread-grouped splits, pre-registered hypotheses, human labels in the agent's review loop) that yields ground truth before any training. On 739 real Italian/English emails labelled by the owner (231 unbiased, 500 adversarially sampled), we compare nine systems under thread-grouped cross-validation: the production keyword rules, a TF-IDF + logistic-regression baseline, local typed decision models (Tev1, Nimble), a hosted decision model (Nimble v4-max), and hosted generative LLMs (Qwen2.5-7B, Gemma 4 26B/31B). Four results. The production rules score 28% on message type against a 58% majority class: the field shown most prominently carried no information. With ~200 labels, logistic regression has the highest accuracy on every field (type 0.79, urgency 0.74, needs-reply 0.83, is-noise 0.90), though it never predicts the two rarest classes and is statistically tied with Gemma 4 on type; few-shot prompting does not close the gap. The sender's relationship (client, supplier, service) is recovered from other emails of the same contact with 98.6% accuracy where the contact has been seen, and is not inferable from a single message by any model: it belongs in the contact graph, not the prompt. Finally, accuracy is not the product metric: composed into actions, the most accurate system most often ignores emails needing action (18% vs 4% for the best LLM); a cost-chosen threshold on its noise probability halves that rate and makes it the cheapest system."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Federico Lucca",
-        "categories": [
-          "cs.CL",
-          "cs.HC",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "5094b0d2d1cf44ca248c6fc65b24b9b455a2f48927ecbdd67bd283896b2c17ae",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning",
-      "summary": "研究发现，对齐推理与训练中RoPE、SwiGLU等关键模块的BF16舍入位置，可稳定大模型强化学习训练，无需全栈对齐或改算法。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.32951v1",
-      "publishedAt": "2026-10-23T17:45:03+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Reinforcement learning for large language models often uses separate systems for inference and training. Even with identical weights and BF16 tensors, implementation differences can make an intended on-policy update off-policy and destabilize training. Existing remedies align the entire inference and training stacks, change global precision, or modify the learning algorithm. We ask whether aligning selected parts of the execution stack can stabilize BF16 RL while other implementation differences remain. We align training-side rounding locations with inference in three regions---RoPE, SwiGLU, and residual RMSNorm---by retaining selected intermediates in FP32 until their BF16 outputs. Across four Qwen-family models, aligning all three regions prevents the collapse observed under the default BF16 baseline; RoPE-path alignment alone also suffices in the studied runs, despite remaining numerical discrepancies. The interventions keep the inference engine, matrix-multiplication and attention kernels, and learning objective unchanged."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Yijing Ke, Tianle Cai, Ruosong Wang",
-        "categories": [
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "a14bd1217d5839678357cf4f50df1f39e6fc959dd566162c7741c4c556e1cdf0",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Beyond Discrete Tokens: Preserving Numerical Continuity in Medical Vision-Language Models",
-      "summary": "研究提出HAD-VLM模型，融合自回归与扩散机制，实现超声图像中连续数值（如五维测量值）的精准预测，解决离散token建模连续量的失配问题。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.32948v1",
-      "publishedAt": "2026-10-23T17:40:58+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Objective: To develop a unified vision-language model for prompt-conditioned quantitative ultrasound measurement that addresses the mismatch between continuous measurement targets and discrete token-based numerical prediction. Methods: This article presents HAD-VLM, a hybrid autoregressive-diffusion framework that combines autoregressive text generation with continuous measurement prediction within a shared backbone. Visual prompt tuning adapts the vision encoder to ultrasound images. A diffusion process predicts a five-component representation comprising caliper endpoint coordinates and measurement length. A post-processing strategy combining the proposed coordinate-length consistency mechanism with ensemble prediction is introduced to refine measurement estimates. We evaluate four echocardiographic measurement tasks on EchoNet-LVH, with additional assessments of medical question answering and X-ray vertebral measurement. Results: HAD-VLM achieves mean absolute errors of 1.36, 2.77, 3.05, and 1.16 mm for IVSd, LVIDd, LVIDs, and LVPWd, respectively, reducing errors by 21.4-37.6\\% relative to the Vicuna-based autoregressive baseline. It also outperforms fine-tuned Qwen3-VL and direct MLP regression across all four tasks. Medical question answering performance is preserved on the evaluated dataset. For X-ray vertebral measurement, HAD-VLM reduces mean absolute error from 11.4 to 6.7 pixels. Conclusion: Integrating autoregressive language generation with diffusion-based continuous prediction improves quantitative medical image measurement while retaining prompt-conditioned task flexibility. Significance: HAD-VLM provides a unified approach to combining language interaction with anatomically grounded numerical prediction for quantitative medical image analysis."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Dianye Huang, Jiamei Guo, Yue Zhou et al.",
-        "categories": [
-          "cs.CV",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "be46dce87f39ec06a67aea6466c6a2ffa333598abc6f8babe3eeed65e14efc89",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Monetizing Intelligence: Advertising and Subscription Design on LLM Platforms",
-      "summary": "研究LLM平台广告与订阅定价策略，发现：广告可提升部分用户服务（否则无服务），中档套餐质量下降削弱“广告换服务”逻辑，平台需权衡广告强度与订阅价。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.32945v1",
-      "publishedAt": "2026-10-23T17:39:42+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Large language model (LLM) platforms introducing advertising must decide how much capability ad revenue should fund and what consumers should pay to avoid ads. We study a monopolistic platform that jointly chooses costly response quality, advertising intensity, and subscription prices when advertising reduces user value but better service raises advertising returns. Three findings follow. First, when partly ad-supported and ad-free plans coexist, advertising can finance useful service for consumers who receive none under pure subscription. Lower effective quality in middle plans weakens the alternatives available to premium users, allowing higher prices for unchanged ad-free service. Some fully ad-supported users gain utility, while partly ad-supported and ad-free users lose: broader access can coexist with utility polarization. Second, an intermediate advertising cap can maximize consumer surplus by preserving some revenue that finances service while limiting degradation. Third, cheaper compute can raise quality and reduce ad intensity, yet sufficiently large cost reductions can increase aggregate advertising revenue above its initial level because better service raises the value of the remaining advertised interactions. An extension shows how advertising-funded upgrades can bring plans to the same maximum capability and advertising exposure, eliminating the basis for different prices. These results make menu design central to evaluating LLM advertising: the consequences extend beyond users who see ads to the alternatives and prices faced by those who do not."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Yuhang Ji, Fasheng Xu, Tianjun Feng",
-        "categories": [
-          "econ.TH",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "2dbd3a90bb56eadb7f95a47cbc6b4a43acf01301c4344807dfacbdc33eebe5dd",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Knowledge Distillation across Item and Code Spaces for Parallel Generative Recommendation",
-      "summary": "论文提出跨物品与代码空间的知识蒸馏方法，解决生成式推荐中语义ID模型缺乏替代物品分布信息的问题，提升推荐多样性与准确性。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2610.32943v1",
-      "publishedAt": "2026-10-23T17:37:55+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Generative recommendation with semantic IDs represents each item as a sequence of discrete codes derived from its semantic representation and predicts these codes to generate recommendations. Existing semantic-ID recommenders are typically trained with hard labels for the observed next item. Although such supervision identifies the target, it provides no explicit distributional information about alternative items conditioned on the same user history. Sequential recommenders can supply this item-level predictive knowledge, but transferring it to semantic-ID generation is challenging because the teacher and student operate in item and code spaces, respectively. We propose two complementary knowledge-distillation objectives for parallel semantic-ID recommenders, which predict all code positions simultaneously without autoregressive prefix conditioning. Item Distribution Matching (IDM) reconstructs a catalogue-level item distribution from the student's parallel code predictions and aligns it with the teacher's item distribution. Code Marginal Matching (CMM) projects the teacher's item probabilities onto each code position using fixed item-to-code assignments, then matches the resulting code marginals to the corresponding student heads. Both objectives transfer the teacher's soft distributional knowledge while preserving the student's parallel prediction structure. Experiments on benchmark datasets show that both methods consistently outperform existing state-of-the-art approaches. On average, IDM improves Recall@10 by 15.39%, while CMM improves NDCG@10 by 8.28%. These results demonstrate that distillation in either reconstructed item space or code-marginal space can substantially strengthen hard-label supervision for parallel generative recommendation."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Yixuan Xu, Hailin Liu, Linxiang Peng et al.",
-        "categories": [
-          "cs.IR",
-          "cs.LG"
-        ]
       }
     }
   ]
