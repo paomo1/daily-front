@@ -1,9 +1,225 @@
 {
-  "generated_at": "2026-11-01T07:13:24.003985+00:00",
+  "generated_at": "2026-11-01T17:32:00.413441+00:00",
   "date": "2026-11-01",
   "keep_days": 7,
   "count": 275,
   "items": [
+    {
+      "id": "82824e961c16dec3c37da439cbdd867ef9eac317c237d0be04fbf02b850fce19",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "armiger-ultra：text-classification 模型更新",
+      "summary": "HuggingFace 上 NorviTech/armiger-ultra 文本分类模型获 755 次下载、10 个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/NorviTech/armiger-ultra",
+      "publishedAt": "2026-11-01T17:30:08+00:00",
+      "tags": [
+        "huggingface",
+        "text-classification",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 755,
+        "likes": 10
+      }
+    },
+    {
+      "id": "e02552a72e50d7ba5dbfa9197b32f99d6ed0405069c927c012f3c56cda23f706",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Intelligence_OS_1p5B：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 Intelligence_OS_1p5B（1.5B 参数）下载量2045次，获2赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/shreyansh-programmer/Intelligence_OS_1p5B",
+      "publishedAt": "2026-11-01T17:26:24+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 2045,
+        "likes": 2
+      }
+    },
+    {
+      "id": "e2762b9f4c7d2b85ad1000ee6c8a9d4c48f4ba53d568242a280f253d5076cd4d",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "opencoti-llamafile：model 模型更新",
+      "summary": "HuggingFace 上 ManniX-ITA/opencoti-llamafile 模型获 5622 次下载、3 个点赞，属主流开源模型。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/ManniX-ITA/opencoti-llamafile",
+      "publishedAt": "2026-11-01T17:24:35+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 5622,
+        "likes": 3
+      }
+    },
+    {
+      "id": "40f500fe4f41f752a0347f453a1c35151f51628793f227d19f082cb1061e5d79",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "hamo-score-0.6b：text-generation 模型更新",
+      "summary": "HuggingFace 上 HamoAI/hamo-score-0.6b 文本生成模型获3650次下载、2个点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/HamoAI/hamo-score-0.6b",
+      "publishedAt": "2026-11-01T17:22:31+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 3650,
+        "likes": 2
+      }
+    },
+    {
+      "id": "fe35dcaf6917f2be7490975526dc3a048b415d1cabd2b4ab78646bc428fcc3bb",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "ThoxEdge-0.8B：text-generation 模型更新",
+      "summary": "HuggingFace 上 text-generation 模型 Thox-ai/ThoxEdge-0.8B 下载量1837次，获0赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Thox-ai/ThoxEdge-0.8B",
+      "publishedAt": "2026-11-01T17:16:29+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1837,
+        "likes": 0
+      }
+    },
+    {
+      "id": "bdba52f0d10c3c219913b32ce3c0cd388c60c18fe8f228a2450e7005a65f8155",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+      "summary": "西湖世界模型研究中心成立",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/507076.html",
+      "publishedAt": "2026-11-01T13:28:10+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "a58bbedb5168d815062e7daa29e295d92b74c476f5d0fdad55d6b4eee2635360",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+      "summary": "",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/507038.html",
+      "publishedAt": "2026-11-01T13:09:55+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "66daa793d711dc8da0a4c2d8c075d51a0cd7fd4aa79472ccc5db738c2381664d",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "海斗4.0限时黑科技，将他们放倒倒倒小鱼人，抓紧体验！",
+      "summary": "UP主 英雄联盟--蛋妮维雅 · 5,207播放 · 2:56",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117540386772460",
+      "publishedAt": "2026-11-01T09:17:12+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 黑科技 上分"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "英雄联盟--蛋妮维雅",
+        "play": 5207,
+        "bvid": "BV12Bx46HEY3",
+        "duration": "2:56"
+      }
+    },
+    {
+      "id": "1902241b21bd043bc9b520a8a13d36da50348a0a280d09673090d737491f7634",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+      "summary": "让AI像牛顿一样思考",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/507031.html",
+      "publishedAt": "2026-11-01T08:02:37+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "0c853b1d08b124ba9ca156b8909b65f4d4435f9a9c3aacf9095cfb4d3c988edc",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+      "summary": "这事还是想得太简单了",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/506990.html",
+      "publishedAt": "2026-11-01T07:50:57+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "4238fb8b1c6366dccf97aa4f9ae214ea6bbb7e7a1b3622b42f2e820d99797ad5",
       "module": "ai",
@@ -49,6 +265,25 @@
         "downloads": 1339,
         "likes": 0
       }
+    },
+    {
+      "id": "6665dcae5b70619dd51d9aaf09c05b566cb91dac0c72f095976eb38de1ae5188",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Jev新成果，再次引爆开源",
+      "summary": "再次“性价比屠夫”",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/506922.html",
+      "publishedAt": "2026-11-01T04:18:37+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "ec4ed65ad3625d3702c500f2e20bbace4575787124f9c29fabd31d7ee1472cd7",
@@ -323,6 +558,25 @@
       "tags": [
         "ai-news",
         "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "f9c579c12cec2b2f5386712d4d52eb6cfb2894b4192e89396d84209b646e1a74",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
+      "summary": "AI已经自己找到Bug并提交PR",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/506904.html",
+      "publishedAt": "2026-10-31T13:49:44+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
       ],
       "body": [],
       "points": [],
@@ -5560,275 +5814,11 @@
       "points": [],
       "live": false,
       "extra": {}
-    },
-    {
-      "id": "b6eda19f830a782a5131c2f6df8e5c13d764ba53644c21a3d030f49786bfb683",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "summary": "尽管AI投入巨大、炒作广泛，但除科技行业外，美国企业尚未获得任何财务回报。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "publishedAt": "2026-10-25T16:57:32+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "bc60cbe6906e1f49835c85b7025d5850a1ab4282ab5b7b39928dd46b7fa0a935",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "audio.cpp-gguf：text-to-speech 模型更新",
-      "summary": "HuggingFace 上 audio-cpp/audio.cpp-gguf 文本转语音模型下载量达691万，获273赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/audio-cpp/audio.cpp-gguf",
-      "publishedAt": "2026-10-25T15:22:06+00:00",
-      "tags": [
-        "huggingface",
-        "text-to-speech",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 6913268,
-        "likes": 273
-      }
-    },
-    {
-      "id": "d4660d8c745e9b06cc5886b1e0a42670791053c575a61a9b79699ece2dbcd6e2",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "ViuAI-500M：text-generation 模型更新",
-      "summary": "HuggingFace 上 ViuAI/ViuAI-500M 文本生成模型获 1600 次下载、3 个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/ViuAI/ViuAI-500M",
-      "publishedAt": "2026-10-25T15:17:27+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1600,
-        "likes": 3
-      }
-    },
-    {
-      "id": "59859b18ab5556c959dac238995d6ca0e305bdbb38381e0c85d258108d1edcac",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "MiniMax-H3-PTD-LoRAs：image-to-video 模型更新",
-      "summary": "HuggingFace 上淘宝内容AI发布的MiniMax-H3-PTD-LoRAs图像转视频模型，下载量4236次，获40赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/taobao-content-ai/MiniMax-H3-PTD-LoRAs",
-      "publishedAt": "2026-10-25T15:15:40+00:00",
-      "tags": [
-        "huggingface",
-        "image-to-video",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 4236,
-        "likes": 40
-      }
-    },
-    {
-      "id": "fbdeb90d69077a5d9224ccc043c6412e7c412e3e05b2e881d9290390141e9e91",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "chandra-ocr-2-GGUF：image-text-to-text 模型更新",
-      "summary": "HuggingFace 上 prithivMLmods/chandra-ocr-2-GGUF 图文转文本模型，下载量13,524次，获42赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/prithivMLmods/chandra-ocr-2-GGUF",
-      "publishedAt": "2026-10-25T15:12:19+00:00",
-      "tags": [
-        "huggingface",
-        "image-text-to-text",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 13524,
-        "likes": 42
-      }
-    },
-    {
-      "id": "bca582f07ebcc710cef353174c5573755aba2a6373475b08916c708784b393df",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "DeepSeek-V4.1-Flash-1017-XQ-Uncensored：model 模型更新",
-      "summary": "HuggingFace 上 IndrasMirror/DeepSeek-V4.1-Flash-1017-XQ-Uncensored 模型下载量达 9800，获 22 点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/IndrasMirror/DeepSeek-V4.1-Flash-1017-XQ-Uncensored",
-      "publishedAt": "2026-10-25T15:09:04+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 9800,
-        "likes": 22
-      }
-    },
-    {
-      "id": "94ab6c5a9f763d9ada0aab5f6546ba749cf2b9bfcf803e97e7a94549afda6886",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "MiniMax-H3-PTD-RefAsymOPD-LoRAs：image-to-video 模型更新",
-      "summary": "HuggingFace 上淘宝内容AI发布的MiniMax-H3-PTD-RefAsymOPD-LoRAs图像转视频模型，下载量1129次，获11个赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/taobao-content-ai/MiniMax-H3-PTD-RefAsymOPD-LoRAs",
-      "publishedAt": "2026-10-25T15:07:33+00:00",
-      "tags": [
-        "huggingface",
-        "image-to-video",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1129,
-        "likes": 11
-      }
-    },
-    {
-      "id": "b4f471ebfdd28ebcde89143129f9c6ad4f484b9862bfee9c74ac27ba376df8e1",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "海斗4.0我琴彻底上位当上女王，一个海克斯直接让琴黑闭嘴！！",
-      "summary": "UP主 Zzzz小鸿 · 86播放 · 8:20",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117502000500846",
-      "publishedAt": "2026-10-25T14:29:14+00:00",
-      "tags": [
-        "lol",
-        "rune",
-        "英雄联盟 海斗 黑科技 上分"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "Zzzz小鸿",
-        "play": 86,
-        "bvid": "BV1odnU6DE42",
-        "duration": "8:20"
-      }
-    },
-    {
-      "id": "ac748a1caa1314a2c3c6bb82d725781516869560f7adb9f098c582428fdd0e87",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "The hottest AI wearables and gadgets you should know about",
-      "summary": "汇总热门AI可穿戴设备：Muse Charm、Bee、Friend、Plaud等。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "publishedAt": "2026-10-25T14:10:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "84060210ca9f03055ed2d81d12d40a7786f09b652cfb567eed49637197515076",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "r/opensource just banned AI, non-English speakers, and more",
-      "summary": "Reddit开源社区r/opensource新规禁止AI相关项目：凡使用、由AI生成或面向AI的项目均不欢迎。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "publishedAt": "2026-10-25T13:25:32+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c8cce60ae4b1e2aa7922e867ab8be163c2429eaf6a95fe833e5bfae9c1fd7841",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Google’s AI search changes upended online publishing",
-      "summary": "《The Stepback》是每周日8点（美东时间）推送的科技 newsletter，聚焦AI对网络的影响，由Emma Roth主理。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "publishedAt": "2026-10-25T12:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "1c449721c807749c52f4b80b8a335adbe9f0e1da0236a48768aa938048f56405",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "幻灭:热补后S级阵容，峡谷野怪大红，云顶无门槛直接玩！",
-      "summary": "UP主 洛城烟雨楼 · 404播放 · 3:11",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117500893333966",
-      "publishedAt": "2026-10-25T09:46:56+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "洛城烟雨楼",
-        "play": 404,
-        "bvid": "BV1xwHL6CEnf",
-        "duration": "3:11"
-      }
     }
   ],
   "daily": {
     "ai": {
-      "insight": "AI监管与伦理争议升温，全球多主体加速构建治理框架",
+      "insight": "AI监管与伦理争议升温，全球多方推动治理框架落地",
       "headline": {
         "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
         "summary": "教皇利奥十四世呼吁“解除AI武装”，敦促联合国成员国下月在日内瓦会议中采取具体行动，禁止致命性自主武器。",
@@ -5846,10 +5836,10 @@
               "sourceUrl": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
             },
             {
-              "title": "Your 8G iPad has 12G of RAM! Cook is gone but his scalpel chases me",
-              "summary": "你的8G iPad里有12G内存！库克走了但他的刀法追着我",
+              "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+              "summary": "磁带因成本低、离线安全，仍在数据归档等领域应用，全球年出货量超1.4亿盒。",
               "source": "Ars Technica",
-              "sourceUrl": "[无原文]"
+              "sourceUrl": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/"
             }
           ]
         },
@@ -5873,6 +5863,12 @@
               "summary": "NAACP起诉SpaceX旗下AI公司，指控其违反《清洁空气法》。",
               "source": "TechCrunch",
               "sourceUrl": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+            },
+            {
+              "title": "Trump declares robot imports a national security threat",
+              "summary": "总统下令就进口工业机器人展开贸易谈判，并威胁加征关税。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/"
             }
           ]
         },
@@ -5897,10 +5893,16 @@
               "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru"
             },
             {
-              "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-              "summary": "磁带因成本低、离线安全，仍被用于长期数据存储，全球年出货量超5000万盘。",
-              "source": "Ars Technica",
-              "sourceUrl": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/"
+              "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+              "summary": "苹果宣布iOS 27.3将在中国首发Apple Intelligence，11月4日上线测试版，12月正式发布。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
+            },
+            {
+              "title": "I built an AI Tamagotchi before Meta could",
+              "summary": "扎克伯格旗下Meta推出AI挂件“Muse Charm”，外形可爱如电子宠物，售价199美元，今冬上市。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code"
             }
           ]
         }
