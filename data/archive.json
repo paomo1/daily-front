@@ -79005,5 +79005,108 @@
       "downloads": 1344,
       "likes": 0
     }
+  },
+  "ec4ed65ad3625d3702c500f2e20bbace4575787124f9c29fabd31d7ee1472cd7": {
+    "id": "ec4ed65ad3625d3702c500f2e20bbace4575787124f9c29fabd31d7ee1472cd7",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "summary": "苹果新CEO为公司在AI领域的现状辩护，强调其战略定位与进展。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "publishedAt": "2026-10-31T21:41:00+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "b3ed8f8005f4014f3c5aa2343f7af1e9dd58385f5a9dae6840488ed443ebded9": {
+    "id": "b3ed8f8005f4014f3c5aa2343f7af1e9dd58385f5a9dae6840488ed443ebded9",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "summary": "11月4日，波士顿SoWa电力站举办全天创业活动，含深度交流、实战洞察与资源对接。早鸟注册享优惠，现场票价上涨。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "publishedAt": "2026-10-31T21:36:07+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "88af1684d13efa98aad2c1ffc09bdcecccfe333655ae388b6b4928d30bf08572": {
+    "id": "88af1684d13efa98aad2c1ffc09bdcecccfe333655ae388b6b4928d30bf08572",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "summary": "NAACP起诉SpaceX旗下AI公司，指控其违反《清洁空气法》。",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "publishedAt": "2026-10-31T21:17:03+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "4238fb8b1c6366dccf97aa4f9ae214ea6bbb7e7a1b3622b42f2e820d99797ad5": {
+    "id": "4238fb8b1c6366dccf97aa4f9ae214ea6bbb7e7a1b3622b42f2e820d99797ad5",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "upass-tm：model 模型更新",
+    "summary": "HuggingFace 上 rmaapk/upass-tm 模型下载量达1548次，暂无点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/rmaapk/upass-tm",
+    "publishedAt": "2026-11-01T07:11:49+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1548,
+      "likes": 0
+    }
+  },
+  "105b278f2d0567181ea2430814a85e3235b8f45aed9499ec38b6789a21b9b72e": {
+    "id": "105b278f2d0567181ea2430814a85e3235b8f45aed9499ec38b6789a21b9b72e",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Qwen3.8-27B-GSQ-RCO-IQ3_XXS-ninfer：text-generation 模型更新",
+    "summary": "HuggingFace上线FreehandZ/Qwen3.8-27B-GSQ-RCO-IQ3_XXS-ninfer文本生成模型，下载量1339次，暂无点赞。",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/FreehandZ/Qwen3.8-27B-GSQ-RCO-IQ3_XXS-ninfer",
+    "publishedAt": "2026-11-01T07:08:51+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1339,
+      "likes": 0
+    }
   }
 }

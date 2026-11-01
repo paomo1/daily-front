@@ -1,9 +1,112 @@
 {
-  "generated_at": "2026-10-31T16:40:44.248620+00:00",
-  "date": "2026-10-31",
+  "generated_at": "2026-11-01T07:13:24.003985+00:00",
+  "date": "2026-11-01",
   "keep_days": 7,
   "count": 275,
   "items": [
+    {
+      "id": "4238fb8b1c6366dccf97aa4f9ae214ea6bbb7e7a1b3622b42f2e820d99797ad5",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "upass-tm：model 模型更新",
+      "summary": "HuggingFace 上 rmaapk/upass-tm 模型下载量达1548次，暂无点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/rmaapk/upass-tm",
+      "publishedAt": "2026-11-01T07:11:49+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1548,
+        "likes": 0
+      }
+    },
+    {
+      "id": "105b278f2d0567181ea2430814a85e3235b8f45aed9499ec38b6789a21b9b72e",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3.8-27B-GSQ-RCO-IQ3_XXS-ninfer：text-generation 模型更新",
+      "summary": "HuggingFace上线FreehandZ/Qwen3.8-27B-GSQ-RCO-IQ3_XXS-ninfer文本生成模型，下载量1339次，暂无点赞。",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/FreehandZ/Qwen3.8-27B-GSQ-RCO-IQ3_XXS-ninfer",
+      "publishedAt": "2026-11-01T07:08:51+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1339,
+        "likes": 0
+      }
+    },
+    {
+      "id": "ec4ed65ad3625d3702c500f2e20bbace4575787124f9c29fabd31d7ee1472cd7",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "summary": "苹果新CEO为公司在AI领域的现状辩护，强调其战略定位与进展。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "publishedAt": "2026-10-31T21:41:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b3ed8f8005f4014f3c5aa2343f7af1e9dd58385f5a9dae6840488ed443ebded9",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "summary": "11月4日，波士顿SoWa电力站举办全天创业活动，含深度交流、实战洞察与资源对接。早鸟注册享优惠，现场票价上涨。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "publishedAt": "2026-10-31T21:36:07+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "88af1684d13efa98aad2c1ffc09bdcecccfe333655ae388b6b4928d30bf08572",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "summary": "NAACP起诉SpaceX旗下AI公司，指控其违反《清洁空气法》。",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "publishedAt": "2026-10-31T21:17:03+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "96cf878c0967142f5b5772a13d40e672d0310ec639af8642f35457c07fbe5544",
       "module": "ai",
@@ -5721,109 +5824,87 @@
         "bvid": "BV1xwHL6CEnf",
         "duration": "3:11"
       }
-    },
-    {
-      "id": "9a57d156c684dcadf17e0e1ae60fa0aa42e5112ac3ce73f9b533f7bf67c28212",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "MOSS-Image-Edit-HQ：model 模型更新",
-      "summary": "HuggingFace 上主流模型 akhaliq/MOSS-Image-Edit-HQ 目前下载量为 0，获 47 个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/akhaliq/MOSS-Image-Edit-HQ",
-      "publishedAt": "2026-10-25T05:27:11+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 47
-      }
-    },
-    {
-      "id": "f86d0fa55cc951df2661849ec887b72e9ca871595bb70c10c510192e5726d97e",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Kaloscope-style-adapter：text-to-image 模型更新",
-      "summary": "HuggingFace 上 text-to-image 模型 Kaloscope-style-adapter（heathcliff01）下载量为0，获14个赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/heathcliff01/Kaloscope-style-adapter",
-      "publishedAt": "2026-10-25T05:18:58+00:00",
-      "tags": [
-        "huggingface",
-        "text-to-image",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 14
-      }
-    },
-    {
-      "id": "301de6afbf885fd1562584fa1a792c589fc28101cf841113178299cd592a834d",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "summary": "BBC《蓝色星球III》为证真实，刻意保留瑕疵镜头，反制AI生成内容“过度完美”的特征。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "publishedAt": "2026-10-24T21:29:12+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "62eb3cec6fed006dfdc06c90829d2f0a60c5cbea4033ad286ae1317eec3afaee",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "苹果Siri AI多次延期，OpenAI“超级应用”上线混乱，多款AI项目关停或未达预期。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "publishedAt": "2026-10-24T19:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4faeab88804cc461d16c28ca5d950c48195373dd4d2748de9391dd85395b69e4",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "summary": "宾州州长乔什·夏皮罗周四签署AI广告法，要求所有经AI显著修改或生成的广告（图文影音）须以相同格式标注AI标识。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "publishedAt": "2026-10-24T18:32:21+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
-  ]
+  ],
+  "daily": {
+    "ai": {
+      "insight": "AI监管与伦理争议升温，全球多主体加速构建治理框架",
+      "headline": {
+        "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+        "summary": "教皇利奥十四世呼吁“解除AI武装”，敦促联合国成员国下月在日内瓦会议中采取具体行动，禁止致命性自主武器。",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai"
+      },
+      "sections": [
+        {
+          "name": "最新科技",
+          "items": [
+            {
+              "title": "Google's satellite AI server transmits its first response to Earth",
+              "summary": "谷歌AI卫星首次在轨运行TPU，成功调用Gemma 4模型生成太空主题俳句，标志星上AI推理实现突破。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
+            },
+            {
+              "title": "Your 8G iPad has 12G of RAM! Cook is gone but his scalpel chases me",
+              "summary": "你的8G iPad里有12G内存！库克走了但他的刀法追着我",
+              "source": "Ars Technica",
+              "sourceUrl": "[无原文]"
+            }
+          ]
+        },
+        {
+          "name": "行业动态",
+          "items": [
+            {
+              "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+              "summary": "苹果新CEO为公司在AI领域的现状辩护，强调其战略定位与进展。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+            },
+            {
+              "title": "The biggest names in AI are backing a new way to opt out of scraping",
+              "summary": "OpenAI、谷歌、微软、Anthropic将采用统一“政策令牌”标准，让出版商一键拒绝其内容被用于AI训练，无需逐家设置。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+            },
+            {
+              "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+              "summary": "NAACP起诉SpaceX旗下AI公司，指控其违反《清洁空气法》。",
+              "source": "TechCrunch",
+              "sourceUrl": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+            }
+          ]
+        },
+        {
+          "name": "知识前沿",
+          "items": [
+            {
+              "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+              "summary": "AI爱好者常不愿透露自己使用了AI，存在“AI羞耻”现象。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/"
+            }
+          ]
+        },
+        {
+          "name": "应用落地",
+          "items": [
+            {
+              "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+              "summary": "星巴克CEO称将探索驱动式个性化数字菜单，识别到店顾客、推送定制化选项并简化支付。",
+              "source": "The Verge",
+              "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru"
+            },
+            {
+              "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+              "summary": "磁带因成本低、离线安全，仍被用于长期数据存储，全球年出货量超5000万盘。",
+              "source": "Ars Technica",
+              "sourceUrl": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }
