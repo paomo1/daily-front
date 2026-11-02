@@ -79362,5 +79362,508 @@
       "bvid": "BV12Bx46HEY3",
       "duration": "2:56"
     }
+  },
+  "53f907ab4511b1aba6eb1bbf1cebd517735aa81e02c18af99fd7471e998f2b7d": {
+    "id": "53f907ab4511b1aba6eb1bbf1cebd517735aa81e02c18af99fd7471e998f2b7d",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "publishedAt": "2026-11-01T21:55:23+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "0ab74fe2d67408d0995ff1fc74058f64d631315d8ed9bcd32530a3667664a301": {
+    "id": "0ab74fe2d67408d0995ff1fc74058f64d631315d8ed9bcd32530a3667664a301",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+    "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "publishedAt": "2026-11-01T20:57:58+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "be76d0a1bc278dc9751ad50af95f6264bc836c9294209bfecfbc073cb3d6d94b": {
+    "id": "be76d0a1bc278dc9751ad50af95f6264bc836c9294209bfecfbc073cb3d6d94b",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
+    "summary": "能指挥Agent干活，还能控制智能家居",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/507107.html",
+    "publishedAt": "2026-11-02T06:08:04+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "b29adff4d68083cbbef15c7f1d2fff03f26ebf48cb0b6c295dcbbc90cfb2d790": {
+    "id": "b29adff4d68083cbbef15c7f1d2fff03f26ebf48cb0b6c295dcbbc90cfb2d790",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
+    "summary": "HuggingFace疑似泄露权重已被下5000次",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/507082.html",
+    "publishedAt": "2026-11-02T04:28:53+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "c06e01873e83fae18f218c6a0f55a51d638763fd8bc8cc1b2f0cb22a33176959": {
+    "id": "c06e01873e83fae18f218c6a0f55a51d638763fd8bc8cc1b2f0cb22a33176959",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "activation：model 模型更新",
+    "summary": "HuggingFace 主流 model 模型 Motif-Technologies/activation，30 下载，31 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/Motif-Technologies/activation",
+    "publishedAt": "2026-11-02T07:18:38+00:00",
+    "tags": [
+      "huggingface",
+      "model",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 30,
+      "likes": 31
+    }
+  },
+  "3cb2a50bf5f8b2daa3d94258bc41be8ddc88e1bfe21ef99c52bc582c998a9529": {
+    "id": "3cb2a50bf5f8b2daa3d94258bc41be8ddc88e1bfe21ef99c52bc582c998a9529",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
+    "summary": "Latent Reasoning in Continuous Space for Unified Multimodal Models。作者：Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee et al.。",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.42149v1",
+    "publishedAt": "2026-10-30T17:59:43+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought reasoning for image generation. As a result, existing reasoning-augmented UMMs often fail to inherit the test-time scaling and fine-grained controllability observed in large language models. We attribute this failure to a fundamental modality mismatch: reasoning is performed in a discrete token space, whereas image generation operates in a continuous space. To bridge this gap, we introduce a Latent Reasoning framework in Continuous space (LARC), which alleviates the token-level bottleneck by reasoning over continuous hidden states. Specifically, the training framework consists of two stages: (i) curriculum supervised fine-tuning (SFT), and (ii) information-gain reinforcement learning (RL). First, the curriculum SFT stage gradually converts token-level reasoning into latent reasoning. Subsequently, the information-gain RL stage self-evolves latent reasoning without ground truth supervision. Experiments across diverse text-to-image generation benchmarks show that LARC consistently improves generation quality, prompt following, and compositional fidelity. Notably, LARC achieves state-of-the-art performance on GenEval with a 7%p gain over BAGEL and demonstrates clear test-time scaling behavior, outperforming token-based generation under both parallel and sequential test-time scaling strategies."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee et al.",
+      "categories": [
+        "cs.CV",
+        "cs.CL",
+        "cs.LG"
+      ]
+    }
+  },
+  "6a8de499e2e6f05ad1c970e2e21adda33aae2940a9ab9aa75d829213662a5cef": {
+    "id": "6a8de499e2e6f05ad1c970e2e21adda33aae2940a9ab9aa75d829213662a5cef",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Flide: Accelerating Decision Inference with Exact State Forking",
+    "summary": "Flide: Accelerating Decision Inference with Exact State Forking。作者：Bobo Li, Jiajia Song, Hao Fei et al.。摘要：Decision mode",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.42148v1",
+    "publishedAt": "2026-10-30T17:59:38+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existing generation-oriented inference engines fail to support these workloads effectively, suffering from severe prefix recomputation overheads or distorted output probabilities. To address this challenge, we propose Flide, an efficient and exact inference engine that decouples the logical tree structure of a decision request from its physical execution within a single flattened token stream. Through ForkAttention, Flide navigates request dependencies using GPU-resident indices across both standard attention and recurrent Gated DeltaNet layers, guaranteeing in exact arithmetic that every query branch evaluates identically to an isolated forward pass. By expressing branch topologies directly in GPU-resident metadata, Flide accommodates diverse request mixtures with a compact set of pre-recorded execution graphs while enabling expanding agent histories to resume from checkpoints saved in earlier passes. Extensive evaluations on public hybrid and decision models demonstrate that Flide answers queries up to 9.5 times faster than vLLM and SGLang while staying closest to a float32 reference in total variation distance. By unifying physical execution throughput with mathematical exactness, Flide establishes a principled foundation for scalable, latency-critical decision intelligence in agent systems."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Bobo Li, Jiajia Song, Hao Fei et al.",
+      "categories": [
+        "cs.CL"
+      ]
+    }
+  },
+  "59420570e51684e7376f60bc3fa8311185e2551a192d9d6187d415fcf37041ee": {
+    "id": "59420570e51684e7376f60bc3fa8311185e2551a192d9d6187d415fcf37041ee",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+    "summary": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention。作者：Ales Kubicek, Andrea Caciolai, Liangzu Pen",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.42147v1",
+    "publishedAt": "2026-10-30T17:59:34+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tokens), full attention is prohibitively expensive. A promising approach is sparse attention, in which a dedicated indexer selects a subset of keys for the attention. Yet current methods of indexing either still have quadratic cost in context size or lose accuracy at ultra-long context scale. We address this with Latent Sparse Attention (LSA), an efficient attention method that maintains accuracy at ultra-long context. In LSA, keys are hierarchically clustered in a learned latent space, and queries score the hierarchy of clusters instead of scoring every key, making prefill, decode and training faster at long context. We propose two variants, Distilled-LSA (D-LSA), which can be applied to pre-trained models via distillation, and Native-LSA (N-LSA), which is trained natively on the next-token loss alone. On GLM-5.3-FLASH (QWEN-3.8-27B) at 10M tokens, D-LSA speeds up one attention layer by 22.7x (72.4x) in prefill and 4.6x (42.5x) in decode over its original sparse attention (full attention), while keeping similar accuracy across a variety of tasks. N-LSA matches the accuracy of full attention with a training speedup of 1.6x per layer at 128k tokens. LSA offers practical and efficient attention for models to benefit from ultra-long context."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Ales Kubicek, Andrea Caciolai, Liangzu Peng et al.",
+      "categories": [
+        "cs.AI"
+      ]
+    }
+  },
+  "2e8cc7c36e85e7fa16ceec42951db615e5a4ece810b379ec4904123cef0a4542": {
+    "id": "2e8cc7c36e85e7fa16ceec42951db615e5a4ece810b379ec4904123cef0a4542",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Hierarchical World Models with Implicit Dynamics",
+    "summary": "Hierarchical World Models with Implicit Dynamics。作者：Gaoyue Zhou, Yvonne Wu, Zichen Jeff Cui et al.。摘要：Planning with worl",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.42146v1",
+    "publishedAt": "2026-10-30T17:59:25+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative errors and search complexity. Existing hierarchical methods often use rigid macro-actions or latent skills, leading to brittle representations and limited fine-grained control. We introduce ID-WM (Implicit Dynamics World Models), a hierarchical world model that decouples state-space reachability from local control. Our framework utilizes a high-level model to sample feasible transitions across the state manifold and a low-level world model as an inverse dynamics solver to ground these transitions into precise actions. This allows the planner to identify reachable subgoals without being constrained by low-level execution details. By prioritizing local physical feasibility over global behavioral patterns, ID-WM synthesizes novel long-horizon plans from short segments, transcending the specific behavioral modes seen during training. We demonstrate its effectiveness across three navigation and manipulation suites, achieving a 38.5% improvement over state-of-the-art policy and diffusion-based planners. Crucially, by leveraging this hierarchical structure to mitigate compounding errors, our approach yields a 135% performance gain over single-level world model MPC, particularly in complex, unseen configurations for long-horizon tasks. Videos can be viewed at https://id-wm.github.io"
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Gaoyue Zhou, Yvonne Wu, Zichen Jeff Cui et al.",
+      "categories": [
+        "cs.RO",
+        "cs.AI"
+      ]
+    }
+  },
+  "f34f00799f498d3a043255ce2a25adea3e7adfaf6ed0399ac7ad82b2864fb1f1": {
+    "id": "f34f00799f498d3a043255ce2a25adea3e7adfaf6ed0399ac7ad82b2864fb1f1",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+    "summary": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory。作者：Shengguang Wu, Suning Huang, Cherie Ho",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.42141v1",
+    "publishedAt": "2026-10-30T17:58:48+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet today these harnesses are built by hand and redesigned for each new robot or benchmark. We show that harness design can be automated, offering a strong alternative to finetuning on a novel setup. In RoboArchitect, a coding model observes a robot's rollouts, diagnoses failures, and iteratively revises the harness around the frozen policy. The harness evolves on a set of episodes for its optimization and is evaluated on held-out scenes and tasks. Without updating any model weights, RoboArchitect raises average success from 9.7% to 43.3% on unseen scenes (4.5x) and from 12.7% to 40.2% on unseen tasks (3.2x), across multiple benchmarks and policies. The gains are largest where the benchmark is far from the policy's training data: wrapping a general-purpose policy, the evolved harness yields a specialist that often outperforms even the finetuned version. Intuitive control strategies are automatically designed, such as lifting a jammed arm clear or reaching in horizontally when an obstacle blocks the way from above. The harness also evolves its own persistent memory, carrying learned experience, such as effective grasp depths, into later decisions. These results suggest that substantial headroom in robotic manipulation lies in the agent harness, and its design can be effectively automated and optimized without weight updates."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Shengguang Wu, Suning Huang, Cherie Ho et al.",
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "cs.CV"
+      ]
+    }
+  },
+  "8f8a12d2dc86479c79033c1386a911cedbe214ed74875c1d8d417ba69469c175": {
+    "id": "8f8a12d2dc86479c79033c1386a911cedbe214ed74875c1d8d417ba69469c175",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches",
+    "summary": "Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches。作者：Vitaly Feldman, Audra McMilla",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.42139v1",
+    "publishedAt": "2026-10-30T17:58:42+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "In many practical deployments of Differentially Private Stochastic Gradient Descent (DP-SGD), the server processes data in batches. Randomly sampling these batches allows for better privacy bounds via privacy amplification results. Most sampling schemes with provable privacy amplification, including Poisson sampling and random allocation, result in variable batch sizes. The privacy guarantee of these schemes requires that the batch sizes are not revealed. In distributed settings, the server performing the aggregation or any party observing the communication traffic may learn these batch sizes. Furthermore, in both centralized and distributed settings, memory and computation constraints may require each batch to be of some maximum size $s$, necessitating truncation of the batch when it exceeds this limit. It is known that this truncation can result in a significant increase in privacy loss. In this work, we address both of these challenges via a simple mechanism that uses a random number of \\emph{dummy points} to privatize the batch size and maintain the privacy guarantee even under truncation. We demonstrate that our mechanism is easy to implement in a distributed setting, and provide a general analysis of this mechanism for both Poisson sampling and random allocation. Our analysis is designed to support efficient and relatively tight privacy accounting. It also effectively amplifies the privacy of the count releases by subsampling, making the expected number of dummy points asymptotically smaller than what is needed to directly privatize the (sensitivity-one) batch sizes with non-negative noise. For Poisson sampling with truncated batches, we demonstrate empirically that our mechanism achieves better privacy--efficiency tradeoffs than the direct accounting for truncation recently given by (Ganesh, 2025)."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Vitaly Feldman, Audra McMillan, Kunal Talwar",
+      "categories": [
+        "cs.LG",
+        "cs.CR"
+      ]
+    }
+  },
+  "aa5f927fb101d163cb189a4d9fad6d4941580f9e63537769cd33bae1cf4a06cf": {
+    "id": "aa5f927fb101d163cb189a4d9fad6d4941580f9e63537769cd33bae1cf4a06cf",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "A Better Critic Matters for Distribution Matching Distillation",
+    "summary": "A Better Critic Matters for Distribution Matching Distillation。作者：Zongze Wu, Xianbang Wang, Zhengyang Geng et al.。摘要：Dis",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.42135v1",
+    "publishedAt": "2026-10-30T17:58:26+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Distribution Matching Distillation (DMD) trains a few-step student using the difference between a teacher's score and an online critic's estimate of the student distribution's score. We investigate what the critic needs, in capacity and in information, to provide a reliable training signal. On the capacity side, controlled experiments across seven SiT model sizes on ImageNet show that increasing teacher size while keeping a small critic fixed can degrade student quality and cause training collapse. Scaling the critic alongside the teacher, a strategy we call joint scaling, prevents collapse in our experiments and allows the student to benefit from larger teachers. On the information side, rather than forcing the critic to model a step-agnostic mixture of student outputs, we introduce a step-aware critic (STAC) that conditions on the student's generation step to estimate step-specific scores. Together, joint scaling and STAC consistently improve few-step distillation across class-conditional ImageNet generation, text-to-image generation with SDXL and FLUX.2, and text-to-video generation with Wan2.1."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Zongze Wu, Xianbang Wang, Zhengyang Geng et al.",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ]
+    }
+  },
+  "61ea13a40e44e6ca6977d31cf3aee78ba688ea65107d94129c5115d7c71a1605": {
+    "id": "61ea13a40e44e6ca6977d31cf3aee78ba688ea65107d94129c5115d7c71a1605",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Instance-dependent sequential limits as an exact information ledger",
+    "summary": "Instance-dependent sequential limits as an exact information ledger。作者：Akshay Balsubramani。摘要：Instance-dependent limits",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.42133v1",
+    "publishedAt": "2026-10-30T17:57:44+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Instance-dependent limits for bandit regret, sequential tests, best-arm identification and Markov decision processes are proved by one chain. It runs from a divergence decomposition through data processing to a statistic, a testing step that turns a class guarantee into a requirement on the history, and optimization over alternatives and allocations. Only the first step is an identity. This work writes the chain as an exact ledger. By the chain rule, data processing loses exactly a conditional divergence, which vanishes for arms in natural exponential families at the per-arm counts and reward sums. A one-parameter family of martingale identities extends the decomposition to every tilt between two instances. The classical limits follow by relaxations with named defects. All defects but the asymptotic step's can be computed from an algorithm's own runs, the uniform quantification's only when the class guarantee is a number. On seven published sources, from movie ratings to engine replacement, the ledger locates the difference between standard algorithms and the classical limits. For identification among trained models and for Wald's test the largest term is usually the uniform quantification's."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Akshay Balsubramani",
+      "categories": [
+        "cs.LG",
+        "cs.IT",
+        "math.ST",
+        "stat.ML"
+      ]
+    }
+  },
+  "7a5094a8121550faf249120de0869b554aa85fc7b26d8484479b52c195d5912b": {
+    "id": "7a5094a8121550faf249120de0869b554aa85fc7b26d8484479b52c195d5912b",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "DecisionRank: On-Policy Distillation for Decision-Model Rerankers",
+    "summary": "DecisionRank: On-Policy Distillation for Decision-Model Rerankers。作者：Yanran Wu, Dian Yu, Chongyang Bai et al.。摘要：Decisio",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.42128v1",
+    "publishedAt": "2026-10-30T17:56:58+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Decision models target structured tasks by directly predicting choices or scores, avoiding autoregressive decoding latency. However, transferring a generative LLM's ranking knowledge to a decision model remains challenging: the teacher expresses preferences through a ranked list of document ID sequences, while the student determines the ranking using scores from the first-token position. To bridge this gap, we introduce DecisionRank, a decision model trained through item-space on-policy distillation (OPD). Item-space OPD constructs the student's rollout by sorting its document scores into a ranked sequence. A generative teacher takes the resulting ranking list as inputs and provides conditional feedback to directly supervise those scores. Combined with offline ranking supervision, DecisionRank achieves state-of-the-art performance on both general and reasoning-intensive retrieval benchmarks such as TREC DL, BEIR, and BRIGHT. Across four benchmarks, item-space OPD consistently outperforms alternative training objectives. Even at 1.7B parameters, DecisionRank surpasses its 27B generative teacher on TREC DL19--23. At 8B, it outperforms its generative listwise counterpart while running $24.5\\times$ faster on TREC DL and $16.7\\times$ faster on BRIGHT."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Yanran Wu, Dian Yu, Chongyang Bai et al.",
+      "categories": [
+        "cs.CL"
+      ]
+    }
+  },
+  "78848aaba002a27eec591c43ff95915020e32b002b8bbaec10a28ee9520e7647": {
+    "id": "78848aaba002a27eec591c43ff95915020e32b002b8bbaec10a28ee9520e7647",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: Transportability Under Changing Measurement Conditions",
+    "summary": "Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: Transportability Under Changing Measure",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.42126v1",
+    "publishedAt": "2026-10-30T17:56:10+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Objective: To distinguish the transferable predictive value of physiological trajectories from that of observation patterns in ICU mortality prediction, and to assess whether measurement timing affects performance independently of observation quantity.   Materials and Methods: In-hospital mortality was predicted at 48 hours using MIMIC-III, MIMIC-IV, and eICU. Nested representations progressively integrated latest-value snapshots (R1), longitudinal physiological summaries (R2), and measurement frequency and timing features (R3). Models fitted on 7,762 MetaVision patients were evaluated on 21,682 MIMIC-IV patients and 43,878 eICU patients across 204 hospitals. The effect of measurement timing was assessed while holding the number of retained observations constant.   Results: Physiological trajectories improved external prediction in eICU (R2-R1 log-loss difference -0.00922, 95% CI -0.01148 to -0.00704). Observation-pattern features improved locally developed eICU models (R3-R2 -0.00257, 95% CI -0.00370 to -0.00146), but not clearly after transfer from MetaVision (-0.00012, 95% CI -0.00206 to +0.00208). R3 was favoured in 10 of 30 source bootstrap refits. At matched observation counts, retaining measurements spread throughout the window reduced log loss relative to random retention by 0.03280 for R3 versus 0.00703 for R2. Removing the final 12 hours increased log loss relative to count-matched random removal by 0.01947 for R3 versus 0.00822 for R2. Under reduced availability, the local R3 increment changed from beneficial to harmful.   Discussion: Physiological trajectories transferred more consistently, while observation-pattern features were particularly sensitive to the timing and availability of measurements.   Conclusion: Clinical prediction models should be evaluated not only in new patient populations but also under the measurement conditions that supply their inputs."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Benjamin T. Pike",
+      "categories": [
+        "cs.LG",
+        "q-bio.QM"
+      ]
+    }
+  },
+  "df8235b32f405f603e9032ea29df8268bf526d7b360404c34099b675f1938b8e": {
+    "id": "df8235b32f405f603e9032ea29df8268bf526d7b360404c34099b675f1938b8e",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Gradient Descent on Two ReLU Neurons: Global Landscape and Bifurcation Dynamics",
+    "summary": "Gradient Descent on Two ReLU Neurons: Global Landscape and Bifurcation Dynamics。作者：Binghua Li, Mengzhe Li, Denny Wu et a",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.42118v1",
+    "publishedAt": "2026-10-30T17:51:35+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Understanding how gradient descent learns features remains a central challenge in neural network theory. We study this question in a minimal multi-index setting that already exhibits rich multi-phase gradient dynamics: a well-specified two-neuron ReLU teacher-student model under isotropic Gaussian inputs, trained by population gradient flow from small initialization. We show that the dynamics are organized by two directions: the \"easy\" bisector direction, which carries the leading signal, and the \"hard\" splitting direction, which governs specialization. To characterize the loss structure and learning behavior, we analyze the population squared-loss landscape and show that every critical point with both student weights nonzero is either a global minimum or a saddle. We then track the gradient-flow trajectory, showing that student neurons first collapse toward a bisector saddle before escaping and specializing to teacher neurons. Our results provide both a landscape and dynamics account of the multi-phase symmetry-breaking behavior that arises in a simple multi-index model and under standard algorithmic and architectural choices."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Binghua Li, Mengzhe Li, Denny Wu et al.",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ]
+    }
+  },
+  "8e722a95e4dcee6d93daa9ba2e49b638c56c9d2778bbcca83fbf7b27c7c4273e": {
+    "id": "8e722a95e4dcee6d93daa9ba2e49b638c56c9d2778bbcca83fbf7b27c7c4273e",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Fast Privacy Loss Accounting for Random Allocation via Multiscale FFT",
+    "summary": "Fast Privacy Loss Accounting for Random Allocation via Multiscale FFT。作者：Vitaly Feldman, Moshe Shenfeld。摘要：In the random",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.42117v1",
+    "publishedAt": "2026-10-30T17:51:03+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "In the random allocation sampling scheme each user's data is used in $k$ steps chosen randomly and uniformly from a sequence of $t$ steps. This scheme is known to improve on Poisson sampling in private optimization and in communication-efficient aggregation. The existing privacy loss distribution (PLD) accountant for this scheme runs in time quadratic in the inverse of the accuracy parameter $α$ (Feldman and Shenfeld, 2026). We give an algorithm, \\emph{multiscale FFT}, that represents likelihood ratios on a grid that is uniform within each dyadic interval and computes the exact rounding of every pairwise sum using FFTs within each interval. It keeps the guarantees of the accountant and improves the dependence of its running time on $α$ from $O(α^{-2})$ to $O(α^{-1}\\log(1/α))$. In addition, we demonstrate that rounding can be performed via the mean-preserving connect-the-dots projection of (Doroshenko et al., 2026). This reduces the errors that rounding introduces in the mean of the privacy loss and in the $χ^2$ divergence of the computed pair from the order of $α$ to $O(α^2/\\log(t))$. In our experiments, our algorithm achieves speedups of several orders of magnitude at high accuracy and gives improved privacy bounds for DP-SGD with PREAMBLE."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Vitaly Feldman, Moshe Shenfeld",
+      "categories": [
+        "cs.LG"
+      ]
+    }
+  },
+  "67696dbd8aac298760f184108645ef96b670efe0fb98cbf2d401a096bf8af4ec": {
+    "id": "67696dbd8aac298760f184108645ef96b670efe0fb98cbf2d401a096bf8af4ec",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "ACCT: Asymmetric Cross-LLM Context Transfer",
+    "summary": "ACCT: Asymmetric Cross-LLM Context Transfer。作者：Yuzhe Liu, Haolin Tian, Tonghan Wang。摘要：In real-world deployments, large",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.42116v1",
+    "publishedAt": "2026-10-30T17:50:49+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "In real-world deployments, large language model (LLM) systems are increasingly evolving from single-model invocation toward heterogeneous deployments in which different models are dynamically invoked for inference. When the same context is reused across models, however, each newly selected target model typically has to process it again, repeatedly incurring substantial computational costs. Therefore, we propose ACCT (Asymmetric Cross-LLM Context Transfer), which targets KV cache transfer between models of different scales within the same model family. ACCT transforms the KV cache produced by a source model into sparse KV states that can be directly consumed by a target model, thereby enabling cross-model reuse of context computation and decoupling context computation from downstream inference. ACCT consists of three lightweight components: the Cartographer identifies query-relevant context tokens for each target layer and KV head; the Allocator determines how many context tokens each target layer and KV head retains under a shared total KV budget; and the Compiler transforms selected source KV into sparse target KV. The target model can therefore perform inference using the transferred KV without reprocessing the original context. We evaluate ACCT in two complementary settings comprising five general-capability benchmarks and six highly context-dependent tasks. Experiments show that ACCT matches or exceeds the target model's original inference performance even when reducing the KV cache size by 75%. At a context length of approximately 19K tokens, ACCT's KV conversion achieves a 6.5-21.2 times speedup over target context prefill. These results demonstrate the feasibility of transferring context computation across models under a limited KV budget."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Yuzhe Liu, Haolin Tian, Tonghan Wang",
+      "categories": [
+        "cs.AI"
+      ]
+    }
+  },
+  "948dff6696826b6aabfd37752735a4643b68086d1aaf7f0a93ab406e1d262c4f": {
+    "id": "948dff6696826b6aabfd37752735a4643b68086d1aaf7f0a93ab406e1d262c4f",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "Subquadratic Attention with a Hierarchical Tree-Structured Indexer",
+    "summary": "Subquadratic Attention with a Hierarchical Tree-Structured Indexer。作者：Leon Lufkin, Cutter Dawes, Alexander Speicher et a",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.42112v1",
+    "publishedAt": "2026-10-30T17:48:37+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "The quadratic scaling of attention is a fundamental bottleneck limiting the long-context capabilities of large language models (LLMs). A variety of approaches have attempted to circumvent this, but they either fail to match attention's expressiveness (e.g., sliding-window or linear attention variants with fixed-size state) or only achieve constant-factor speedups (e.g., sparse attention methods whose indexers themselves scale quadratically). In this paper, we derive an asymptotically subquadratic sparse attention method based on a hierarchical, tree-structured indexer, which we call Zyphra Hierarchical Attention (ZHA). ZHA constructs a tree of recursively compressed key summaries over the KV cache, which future queries traverse from the top down to retrieve a sparse subset of keys. Crucially, by iteratively growing the tree's depth, the total cost including routing and final attention grows sublinearly in sequence length, resulting in overall subquadratic (but superlinear) scaling for attention. We demonstrate that ZHA can be cheaply applied to existing pretrained models with only a short KL distillation training stage over a few billion tokens, and maintains performance on long-context retrieval and challenging reasoning, mathematical, and agentic coding evaluation tasks. Moreover, we show that our method is highly robust to tree geometry including very deep trees of up to 6 levels. Finally, we develop a detailed performance model and show that our approach scales subquadratically, dramatically outperforms competing methods beyond 1 million context, and ultimately has the potential to extend effective context windows to the hundreds of millions or billions of tokens."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Leon Lufkin, Cutter Dawes, Alexander Speicher et al.",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ]
+    }
+  },
+  "3f18eec65f2d7c96cbb8de64246cb581f83d9cdcd44e4ff795ed276cf583bced": {
+    "id": "3f18eec65f2d7c96cbb8de64246cb581f83d9cdcd44e4ff795ed276cf583bced",
+    "module": "ai",
+    "seg": null,
+    "cat": "知识前沿",
+    "title": "SATFRONT: Detecting Atmospheric Fronts with Satellite Data using Machine Learning",
+    "summary": "SATFRONT: Detecting Atmospheric Fronts with Satellite Data using Machine Learning。作者：Ioannis Dravilas, Miruna Stoicescu,",
+    "source": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2610.42111v1",
+    "publishedAt": "2026-10-30T17:48:20+00:00",
+    "tags": [
+      "arxiv",
+      "research"
+    ],
+    "body": [
+      "Atmospheric fronts are associated with much of the high-impact weather in the mid-latitudes, yet their identification and classification remain largely manual and subjective. Existing deep learning approaches rely primarily on gridded reanalysis or forecast data, limiting their applicability to satellite observations available for time-critical applications. We introduce SATFRONT, a machine learning framework for detecting cold, warm, and occluded fronts over Europe from geostationary satellite observations, with reanalysis data as an optional additional input. The model is trained on frontal analyses from five European national meteorological services and evaluated against UK Met Office analyses for 2024. Using satellite observations alone, SATFRONT achieves a Critical Success Index (CSI) of 0.428 at a 150 km tolerance, within the range of agreement between analyses from different meteorological services (0.277-0.501) and higher than that of an operational rule-based front detector that uses satellite data (0.133). Adding ERA5 reanalysis increases the CSI to 0.591. ERA5 substantially improves the placement of individual fronts, although its effect on their annual spatial distribution varies by front type. These results demonstrate that cold, warm, and occluded fronts can be detected directly from geostationary satellite observations, providing a basis for automated frontal analyses at the high temporal frequency required for time-critical applications."
+    ],
+    "points": [],
+    "live": false,
+    "extra": {
+      "authors": "Ioannis Dravilas, Miruna Stoicescu, Roope Tervo et al.",
+      "categories": [
+        "physics.ao-ph",
+        "cs.LG"
+      ]
+    }
   }
 }
