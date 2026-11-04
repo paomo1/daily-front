@@ -1,9 +1,361 @@
 {
-  "generated_at": "2026-11-04T07:18:51.833804+00:00",
+  "generated_at": "2026-11-04T19:14:21.715479+00:00",
   "date": "2026-11-04",
   "keep_days": 7,
-  "count": 298,
+  "count": 294,
   "items": [
+    {
+      "id": "0ab42e1e77b4992248c51f85678ae96ea581d0f81e7e7f3999c52f628b6cbd4d",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Muse-Glimmer-30B-2026-Knowledge-GGUF：text-generation 模型更新",
+      "summary": "HuggingFace 主流 text-generation 模型 OfflineBase/Muse-Glimmer-30B-2026-Knowledge-GGUF，1,444 下载，1 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/OfflineBase/Muse-Glimmer-30B-2026-Knowledge-GGUF",
+      "publishedAt": "2026-11-04T19:02:32+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1444,
+        "likes": 1
+      }
+    },
+    {
+      "id": "dda9128d866a38654f94537795daf0fefcda5c9b938aac1e9f61303fcc2b0b2d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lo",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+      "publishedAt": "2026-11-04T18:44:57+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "7d5b08acabaeb16636bbfcdfef72f934433db79b842af2e57c8be326cdf4b817",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Nothing teases a screen-free AI device ahead of launch next month",
+      "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a lit",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "publishedAt": "2026-11-04T18:26:07+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "c589e6c855a4db6588b67a3131db5a2662ecde80e9e8c25fd00d9c0a5f82c357",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the lat",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+      "publishedAt": "2026-11-04T18:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b931f29272861836b89f3d9ea66584686c83c0952fbbf5e3bb31f0b214bf166f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "ChatGPT will now make you animated GIFs",
+      "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out along",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "publishedAt": "2026-11-04T18:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "68eaf3b66a4932027eb3f4377bb30b33e17f5a5fbfa2d4ce975b4486d773cd14",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "publishedAt": "2026-11-04T17:50:10+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "cb10045b7e7b24ae7b27a3c4b1f9afd6220a0c2cdb183cbe07a2748aab93c37d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+      "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+      "publishedAt": "2026-11-04T16:51:35+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "ccbc84fa6924f05787c070f741d2e11f2af603856c86187f707a966b5db3b775",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an un",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "publishedAt": "2026-11-04T16:17:22+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "f0e39a9b617fabb98c55b9e4f0f4e5aa9ecd60cea5de90453764d9eb22db1a6a",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
+      "summary": "连路人都有自己的想法",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/507647.html",
+      "publishedAt": "2026-11-04T16:13:23+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "3f85a4f41fe27cbdd0507f394818e51e4f31cfd5eef857dda1c80570bda09b4b",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Data centers lost the midterms",
+      "summary": "Data center developers are poised to face a more restrictive building environment after voters across the country voted",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+      "publishedAt": "2026-11-04T16:05:39+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "10e124c1e2787d50174e6641868f8a117165aa5ed1174bad077bc50302e3ddf0",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+      "summary": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during th",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+      "publishedAt": "2026-11-04T15:58:45+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "4d38da0a0ca4e7a46cff4692a8e8cf907c3f6173c6d9b449274ad19d5850bf93",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Sam Altman addresses RAM comments: People should &#8216;put as much as they want in their computers&#8217;",
+      "summary": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+      "publishedAt": "2026-11-04T14:46:01+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "9dd1d0f22a9744390fd0c0658ff957729e7734f60a66cc8304c73d2176ea1cd4",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+      "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founde",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+      "publishedAt": "2026-11-04T13:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "ca5976a78656b389994fe051ebe0f8bd539bc86e7ebabc188bbd367bdaedeb44",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+      "summary": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+      "publishedAt": "2026-11-04T12:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "7a5ff4b7b46daae1e6d8e0e30aced05de9ed23fc5850150ae7b7cb6e93a0594a",
+      "module": "lol",
+      "seg": "rune",
+      "cat": "海斗资讯",
+      "title": "海斗黑科技——将他们放倒倒倒潘森，真就跳",
+      "summary": "UP主 海斗质检官 · 185播放 · 2:11",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117557667302013",
+      "publishedAt": "2026-11-04T10:24:29+00:00",
+      "tags": [
+        "lol",
+        "rune",
+        "英雄联盟 海斗 黑科技 上分"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "海斗质检官",
+        "play": 185,
+        "bvid": "BV1K1x96aEMz",
+        "duration": "2:11"
+      }
+    },
+    {
+      "id": "9bb9f2291b4182e6f7b1c9c1ce25f3a086509d7584fc23e798da0ef3ef2bbd9b",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+      "summary": "仅激活3B参数，十项基准全线提升！",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/507586.html",
+      "publishedAt": "2026-11-04T10:08:38+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b995c2d04a165a95d17dc055f5fa71c2ec33a297e811dfe25f5361ab4c85f47e",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
+      "summary": "一场别开生面的具身智能科技盛宴",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/507574.html",
+      "publishedAt": "2026-11-04T08:59:57+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "9eabab55f686ad680fab83594235ae6c47e82ad7fa1ab2e5fc6273bbba779d02",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
+      "summary": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/507567.html",
+      "publishedAt": "2026-11-04T08:49:12+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "8539aff58605f11be5c4a279000266edbe87ec382234674fe4567b8b10102b44",
       "module": "ai",
@@ -2429,6 +2781,30 @@
       "points": [],
       "live": false,
       "extra": {}
+    },
+    {
+      "id": "eabf08f01ce867f267055cd9811fab0041628906fde3e7b5772f33fe391afe20",
+      "module": "ai",
+      "seg": null,
+      "cat": "厂商动态·Kimi/月之暗面",
+      "title": "Kimi/月之暗面 发布/更新 Kimi-K3.1-Pro（image-text-to-text）",
+      "summary": "Kimi/月之暗面（HF 作者 moonshotai）发布/更新模型 moonshotai/Kimi-K3.1-Pro，797 下载，362 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "publishedAt": "2026-11-02T04:13:51+00:00",
+      "tags": [
+        "huggingface",
+        "vendor",
+        "moonshotai"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 797,
+        "likes": 362,
+        "vendor": "Kimi/月之暗面"
+      }
     },
     {
       "id": "53f907ab4511b1aba6eb1bbf1cebd517735aa81e02c18af99fd7471e998f2b7d",
@@ -5923,457 +6299,6 @@
       "tags": [
         "ai-news",
         "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "e2ae161666ea16ec1dba8a826d110edb5b3f05ddaae9ca3de9e77e796582db84",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-      "summary": "PHP两大高危漏洞致约70%网站受影响，部分企业被迫下线系统紧急修复。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-      "publishedAt": "2026-10-28T19:05:46+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "e8e5e4f5e701a53ba3b74f61922c892440e710f2ac79ddec0b09cb68b4a286e5",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
-      "summary": "PHP两大高危漏洞致约70%网站受影响，部分企业被迫下线网站紧急修复。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
-      "publishedAt": "2026-10-28T18:50:39+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "1d051cd593bda7de353ee89d4f6f935767fc05fb66c011d62b902f5651c81b6f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-      "summary": "Gemini 4 Carbon 是 Argon 的小幅升级版。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
-      "publishedAt": "2026-10-28T18:47:27+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "9f09939057eda18d7aa0552258068695d80d8ca33bb477249cf0db121faf74ce",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Microsoft is ending Copilot support on smart TVs",
-      "summary": "LG、三星2025 CES发布的搭载微软Copilot的智能电视，今年将全面终止该AI助手功能支持。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-      "publishedAt": "2026-10-28T18:36:26+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "5244717b544c59422935d8535d7d7fd213727bc9494814f01c2e3d0dc3ed9092",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Google AI gets cagey when asked who won the 2020 elections",
-      "summary": "AI回答在美国以外地区更直率。",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-      "publishedAt": "2026-10-28T17:46:32+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "bcfa75c54b4493e0c8483c97fc5f5499fd85a541ab5b991528ecded308544396",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "3D-Animation-Style-MiniMax-H3：image-to-video 模型更新",
-      "summary": "HuggingFace 上主流图生视频模型 SOLRICKS/3D-Animation-Style-MiniMax-H3，下载量534次，获40赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/SOLRICKS/3D-Animation-Style-MiniMax-H3",
-      "publishedAt": "2026-10-28T17:45:30+00:00",
-      "tags": [
-        "huggingface",
-        "image-to-video",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 534,
-        "likes": 40
-      }
-    },
-    {
-      "id": "de9706802cbf80aabf62628221557d96b47373c9764d357a22b13056c7a86220",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "NVIDIA-Nemotron-3.5-Transcribe-30B-A4B：automatic-speech-recognition 模型更新",
-      "summary": "HuggingFace 上 NVIDIA-Nemotron-3.5-Transcribe-30B-A4B 语音识别模型获 338 次下载、84 个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
-      "publishedAt": "2026-10-28T17:43:44+00:00",
-      "tags": [
-        "huggingface",
-        "automatic-speech-recognition",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 338,
-        "likes": 84
-      }
-    },
-    {
-      "id": "d3f438149d39d137bc53424e9a8c1c83d396f866c983e354eebc920dec50e70b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "summary": "谷歌推出新开发者平台，让企业将服务接入其AI体验，或重塑用户发现与使用应用的方式。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "publishedAt": "2026-10-28T17:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f8c0043bfccba1c12f913e948c38482235f5254a6e4c7045a69c9a78923c79d5",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-      "summary": "Chrome新更新支持自动填充：经用户授权后，可从邮箱提取航班确认、物流信息及订单详情等数据。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-      "publishedAt": "2026-10-28T17:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f0c2ca667dd96f3dacd6a6f236416f2838e467cbf8f7bd6c9298b26daa2b50a5",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
-      "summary": "Chrome增强型自动填充今日升级：依托Gemini个人智能，可从Gmail中智能推荐信息，提升填表效率。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
-      "publishedAt": "2026-10-28T17:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d159c3680982fe18cc85e06044d6adae25f239bef95effc0f138798716079341",
-      "module": "lol",
-      "seg": "rift",
-      "cat": "峡谷攻略",
-      "title": "【单人路第一视角教学01】奎桑提符文出装推荐，对线怎么保持不炸，1v2被越塔如何反杀，对线/运营/团战/全思路讲解",
-      "summary": "UP主 Fa01Top · 39播放 · 20:7",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117519499204571",
-      "publishedAt": "2026-10-28T16:38:03+00:00",
-      "tags": [
-        "lol",
-        "rift",
-        "英雄联盟 上单 出装 攻略 教学"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "Fa01Top",
-        "play": 39,
-        "bvid": "BV1WcsX6SEvY",
-        "duration": "20:7"
-      }
-    },
-    {
-      "id": "973216f4c0566778165f68005322403ac1e714105e75e481eb9fdcac1be660a4",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta says it&#8217;ll probably delay its controversial new business terms again",
-      "summary": "Meta或推迟新商业条款实施，因出版商抗议AI训练条款；发言人称将充分咨询行业后再调整政策。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
-      "publishedAt": "2026-10-28T16:15:30+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ba52d7b251d0b7e336ec51a70c39e8bf47d6d9acba83b617480b8a6d23d14672",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "AI execs may be too out of touch to build for the general public",
-      "summary": "科技领袖炫耀用AI维系家庭关系，反显脱离现实。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-      "publishedAt": "2026-10-28T15:53:52+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "391177011d9f384dc7c6f841ac99fd018ab88e1863a1754dacde35c1d8aae214",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
-      "summary": "韩国多家金融机构再遭网络攻击，凸显亚洲地区AI驱动黑客攻击风险加剧。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
-      "publishedAt": "2026-10-28T15:41:18+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "85bbba7189a28b728f22a7df7ac9c60d2779fdbb4f45c42c046f7e16fbcaae5f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-      "summary": "英伟达推出免费语音转文字模型，支持40种语言，仅限录音转写，不支持实时音频，利好会议与医疗转录，但实时场景仍由ElevenLabs等竞品主导。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-      "publishedAt": "2026-10-28T15:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "6b46fcb7eb15d3d5e2d6b238dc6e6d622cae2a5c40dcd536cd155b80bcbd4f0f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "publishedAt": "2026-10-28T14:58:17+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "fd62e2f2adc2efc5b1263e6251b074cd814d72256bca685a82849289479eb639",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "xAI is buying out homeowners who promise not to sue over data center noise",
-      "summary": "xAI子公司以收购密西西比州南阿文社区房产为条件，要求居民不得起诉其附近数据中心及电厂，据《卫报》报道。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
-      "publishedAt": "2026-10-28T14:44:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c70316bf0e976428b016007a35eaa48d18885bd9e06e20e859290f5f3c5ce3a5",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-      "summary": "TechCrunch创始人峰会11月4日登陆波士顿SoWa电站，7天倒计时！购票最高省100美元，直面顶尖创始人、投资人与创业领袖。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
-      "publishedAt": "2026-10-28T13:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4d58abb3a794fb976ed6b923b9be2a644c26be36f7626e3412d271c2a2c83fce",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Voters in Texas agree: They hate data centers",
-      "summary": "德州NAACP主席加里·布莱德索称，数据中心开发商涌入奥斯汀及周边引发多地抗议，如泰勒市拟建数据中心的公园用地争议。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
-      "publishedAt": "2026-10-28T12:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d937fd5096d1c80efe02a4a1f2cffefcfd364a007e7ca9437ce55b528eb5e75f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta quietly launched an &#8216;AI pet journal&#8217; app",
-      "summary": "Meta推出像素风宠物游戏Waddle World，虚拟宠物可语音聊天、手绘 doodle。App Store称其为“伪装成宠物的每日日记”，主打语音交互。",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-      "publishedAt": "2026-10-28T11:27:30+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ae3766bfe835f0d7074939a73c2ff8bbbe5654526e8a194ea3f907ddfe487765",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
-      "summary": "让基建作为常驻buff",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/506194.html",
-      "publishedAt": "2026-10-28T11:09:10+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "244d41f5bf9aa4147d74b29372907ee446fb89ae7e96d0eed196bffd7b2f1794",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
-      "summary": "让基建作为常驻buff",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/506098.html",
-      "publishedAt": "2026-10-28T10:32:39+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a5a0841f90bb35ed06ee6f78e98bbabc909598c26a4055cb6457cdf3a6047e12",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "威卡：用数据集链接具身智能和工程机械",
-      "summary": "威卡：为工程机械的智能化与少人化，提供一条被验证的路径",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/506063.html",
-      "publishedAt": "2026-10-28T09:01:27+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
       ],
       "body": [],
       "points": [],
