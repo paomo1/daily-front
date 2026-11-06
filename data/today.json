@@ -1,9 +1,253 @@
 {
-  "generated_at": "2026-11-05T19:21:17.940378+00:00",
-  "date": "2026-11-05",
+  "generated_at": "2026-11-06T07:44:39.270454+00:00",
+  "date": "2026-11-06",
   "keep_days": 7,
-  "count": 300,
+  "count": 315,
   "items": [
+    {
+      "id": "a326b524598257be008cbf3465e5e9824969278d21b74f7cc5fac5ecb3c0855c",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Jeva-4B：model 模型更新",
+      "summary": "HuggingFace 主流 model 模型 LIQIIIII/Jeva-4B，2,184 下载，47 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/LIQIIIII/Jeva-4B",
+      "publishedAt": "2026-11-06T07:31:10+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 2184,
+        "likes": 47
+      }
+    },
+    {
+      "id": "fdac1638b75b47c260b73af2a6b5ea597a5872d44dfa7a7edf53eab8e88a9e9b",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "publishedAt": "2026-11-06T06:28:32+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "04313abbb18679db65065348c0d04aead6e23eeac35ced653af1293a6c114e3d",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "复盘！BLG的顶级理解！加里奥是基操，狐狸才是妙手！5-0LCK，冠军就在眼前！",
+      "summary": "UP主 白衣问道 · 15,152播放 · 14:57",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117567884630253",
+      "publishedAt": "2026-11-06T05:45:22+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "白衣问道",
+        "play": 15152,
+        "bvid": "BV1eT4i6tEuF",
+        "duration": "14:57"
+      }
+    },
+    {
+      "id": "6d73b2aeed56e4eedf78c7f5a030a658a38b2d72266a9255486cdd52408c680e",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "publishedAt": "2026-11-06T00:37:56+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "afb66228649e5ea1480da0af922ac9d93ad860b505f50135eb8459bcee2d0fa2",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Airbnb is working on an AI travel agent",
+      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company sa",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "publishedAt": "2026-11-06T00:06:12+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "8d3bde2a5553f3bdb8be952e40501dfc89d8546b73e5475d5533d9b87ad35cc9",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "DK被BLG暴打后台镜头曝光，许哥不知所措,Knight笑着复盘比赛【LPL镜头切掉未公布画面】",
+      "summary": "UP主 Ymbky丶 · 68,179播放 · 2:14",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117566508893970",
+      "publishedAt": "2026-11-05T23:50:10+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "Ymbky丶",
+        "play": 68179,
+        "bvid": "BV1jB4e6bEuU",
+        "duration": "2:14"
+      }
+    },
+    {
+      "id": "0db74a584f735ba41da2cc385c65ee7face934a5e234eaf568c637f88a37c896",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance t",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "publishedAt": "2026-11-05T22:40:55+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "c00b34889c9ae53705df350cdc406d9491773b23e741cd80ab51408ae8c18a1e",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Perplexity launches its own take on AI agents for work",
+      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "publishedAt": "2026-11-05T22:26:50+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "1c10bb859b8b1f2fad257827b7b193d0a9583d50f005ecc49a1660821794691c",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+      "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+      "publishedAt": "2026-11-05T21:40:36+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "cf1ba10f1de4d9a40424e6e2f83388571f174085fd61c4ee709da6de7a0e5f97",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+      "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+      "publishedAt": "2026-11-05T21:39:40+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "f07b71bbbeef388188e088fbe02755dcad6822ec4b37e0834f98ee154cf59b3b",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "publishedAt": "2026-11-05T19:48:28+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b5f28637ee9b96e17f5adeeb0b275dd1a245f0c40c520e3d8ed5dbae4da9a245",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "publishedAt": "2026-11-05T19:35:16+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "a30d2dea2499f73af5c41c8b5cf0ff04806331f6867b5dc330b5c62269ebfdec",
       "module": "ai",
@@ -79,6 +323,25 @@
       "seg": null,
       "cat": "行业动态",
       "title": "Meta’s warns that election backlash against data centers could make AI expansion harder",
+      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push b",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "publishedAt": "2026-11-05T19:12:39+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "4ad89b35afdb99ae0636f4ac9e8bafe887c1ad0e528dd71ee4f3184441b0f981",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
       "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push b",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
@@ -175,6 +438,411 @@
       "points": [],
       "live": false,
       "extra": {}
+    },
+    {
+      "id": "5ae8b18fcc811b1ef1611004f645cf2bf74a955d9ed6816e0dfe4750b5dcbb32",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
+      "summary": "User Embeddings are Superpositions of Interpretable Behavioral Modes。作者：Jonathan Kozaczuk, Zheng Dong, Noyan Evirgen et",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.08487v1",
+      "publishedAt": "2026-11-05T18:59:42+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are inherently dense and opaque, limiting interpretability. To address this gap, we argue that user embeddings can be understood as sparse superpositions of interpretable behavioral modes. This structure is directly predicted by generative models of user behavior for linear embeddings and extends approximately to deep-learning representations by the superposition hypothesis. Superimposed modes can naturally be recovered by sparse dictionary learning methods, such as sparse autoencoders (SAEs), and recovered modes can be automatically named and queried in natural language. We validate mode recovery against known ground truth on synthetic data, where SAEs recover modes better than classical sparse baselines, including on transformer-encoded embeddings. We then apply the method to classical and transformer-based user embeddings from two real-world datasets. We also show how the corresponding natural-language labels enable zero-shot audience retrieval and characterization over embeddings never trained on text. The framework is post-hoc and model-agnostic, requiring no modification to the upstream embedding system."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Jonathan Kozaczuk, Zheng Dong, Noyan Evirgen et al.",
+        "categories": [
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "8e2e5c1ff5ff426194ec8291dedb5db2120ac131454eef6a347c3a9a85e5fdf6",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+      "summary": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization。作者：Qile Jiang, George Em Karniadakis。摘要：LLM",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.08483v1",
+      "publishedAt": "2026-11-05T18:59:29+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must repeat this generation many times to maintain population diversity. We present SwarmEvolve, a framework in which hundreds of low-cost agents per round work in swarms, reason in latent space without decoding to text, and share information by passing KV caches. Each swarm studies the problem from a different angle. A novelty filter keeps the most distinct agent ideas by directly measuring the distances between the agents' hidden state vectors. Crossover of ideas happens naturally in latent space, as a summarizer agent receives the combined KV caches of all swarm members. On 21 problems in mathematical discovery and scientific computing, SwarmEvolve gets the highest average score and needs a median of only 3 to 8 minutes to reach the best scores that other state-of-the-art frameworks reach in 60 minutes. On several problems, SwarmEvolve with Qwen3 8B improves on the solutions that AlphaEvolve first found with frontier LLMs. Our work shows that agent swarms that communicate in latent space offer a fast, low-cost approach to program search for scientific problems."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Qile Jiang, George Em Karniadakis",
+        "categories": [
+          "cs.AI",
+          "cs.NE"
+        ]
+      }
+    },
+    {
+      "id": "c5735556218a61800e89ccdafbc1aa89d7d7b3187af13dc2ce1e878df981d09e",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Scientist World: Grow a Research World for AI-Scientists",
+      "summary": "Scientist World: Grow a Research World for AI-Scientists。作者：Taiming Lu, Sachin Konan, Zhuang Liu。摘要：AI-Scientists arrive",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.08478v1",
+      "publishedAt": "2026-11-05T18:58:17+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World for them: every research paper becomes an executable environment. Our autonomous pipeline extracts each paper's open-ended research question and reproduces its proposed method as the baseline; an AI-Scientist entering the environment is evaluated against what the human authors achieved. We release the first 1,000 verified environments. With the world as an evaluation, we found that frontier AI-Scientists can already surpass the human researchers 74% of the time. As a record of how AI does science, it contains 6,400 hours of research traces, with every idea, experiment, failure, and success. As a training ground, we are able to raise (+158%) a small model to match frontier models in research ideation. At last, AI-Scientists' own world has arrived, grown from and growing with science itself."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Taiming Lu, Sachin Konan, Zhuang Liu",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "43024d2f27b7952bad1c53985187fc113209f3d06a3245a916fc0dd892633efb",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "XStack: A Benchmark for ML Repo Migration",
+      "summary": "XStack: A Benchmark for ML Repo Migration。作者：Linrong Cai, Taiming Lu, Haozhe Chen et al.。摘要：ML code should run where res",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.08472v1",
+      "publishedAt": "2026-11-05T18:55:54+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them means building and testing across frameworks and hardware. This migration is (1) a practical need, since it unlocks different hardware for researchers, and (2) a natural benchmark: it involves different frameworks and hardware, covers whole repositories, and is long-horizon and challenging. We introduce XStack, a benchmark that evaluates agents on migrating ML repositories between these two ecosystems. Each agent receives a PyTorch repository and a clean TPU machine and must deliver a JAX repository. Its output passes if it meets our grading criteria, based on the source repository's published result, authenticated and calibrated by us. Migration by agents remains unreliable: Claude Opus 5 passes 75%, GPT-5.6-sol 45%, and every other agent at most 40%. XStack is a step toward freeing ML code from its ecosystem. We release XStack to make progress toward reliable migration across frameworks and hardware measurable."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Linrong Cai, Taiming Lu, Haozhe Chen et al.",
+        "categories": [
+          "cs.LG",
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "4f7561d10a22a96241c6d816cd96ba404dee3ac1e1899384f1549d14cdf4c8f9",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
+      "summary": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information。作者：Linqian Wu, Diao",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.08469v1",
+      "publishedAt": "2026-11-05T18:55:31+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. Experiments see that law only through finite, partial and noisy interventions. We ask when such a quantity is identifiable from an experiment's access, continuous in the mechanism and certifiable from finite data, and answer exactly for a deliberately demanding case - the integrated information $\\varphi$ of integrated information theory - in stochastic networks of four and five units with known ground truth. Behavior can be silent: a recurrent and a feed-forward network with identical input-output laws at their response delay carry 0.28 and 0 bits, yet internal recordings separate them within 4-53 trials. Partial access can be just as blind: in our examples, units left out of a one-step recording impose precision floors of 0.30-1.02 bits that no sample size lowers, and in all-but-self parity networks, recordings of any length see several hidden units only through the product of their fidelities - a symmetry that one intervention broke in exact checks. The measure has sharp edges: because $\\varphi$ selects a partition, and the cause and effect it specifies, by one criterion and reports another, infinitesimal changes of mechanism that cross an edge change it by 25-100% at 99% of the edges we found in random networks, and about 1% of surrogate models that fit interventional data almost perfectly misreport it by more than 20%. One-sided claims survive: the same data certify a lower bound on both sides of an edge, and we prove $\\varphi>1.004$ bits throughout a 64-dimensional region of mechanisms and certify it from about $10^7$ controlled transitions with false-certificate probability at most $α$. Measurability is thus a design question with computable answers."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Linqian Wu, Diaoxuan He",
+        "categories": [
+          "cs.LG",
+          "cs.AI",
+          "q-bio.NC"
+        ]
+      }
+    },
+    {
+      "id": "4bc225d35661ed52cae13317ce21fef69347e6ffbb8254a982caaa7bbf0c658e",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Towards interpreting any residual stream direction by scaling activation inversion",
+      "summary": "Towards interpreting any residual stream direction by scaling activation inversion。作者：Celeste De Schamphelaere, Juan J.",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.08465v1",
+      "publishedAt": "2026-11-05T18:54:40+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus contains. We develop Maximally-Activating Example Metamodels (MAEMs), language models which map residual stream directions from a subject model to text exemplars that strongly activate those directions. Our objective is to maximise the cosine similarity of a supplied residual stream direction with the activations of the text generated by the MAEM. This label-free RL objective helps to scale MAEMs on diverse sources of residual stream directions. Empirically, we find the resultant metamodel produces informative exemplars: a Qwen3.6-27B MAEM inverts held-out activations better than corpus search or a natural-language autoencoder (NLA), beats corpus search (at 10M tokens) on a majority of held-out languages/domains, and activates 89% of held-out SAE features. It also identifies concepts behind steering vectors about as well as NLAs, recovers the payloads of LoRA backdoors more often than corpus search, and can even verbalise some model workspace inner monologue. Unlike explanations produced by other metamodels (e.g. NLAs), MAEM exemplars can be verified with a forward pass on the subject model, making the MAEM objective a grounded alternative for scaling the training of metamodels."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Celeste De Schamphelaere, Juan J. Vazquez, Ari Spiesberger et al.",
+        "categories": [
+          "cs.LG",
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "e9de3f8f5c1ce2196ab94edc51ce943e3e2e36120b54d74fcf0f6ca0226d021d",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sharpness",
+      "summary": "Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sharpness。作者：Yi Feng, Andrea Paudice。摘要：Adv",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.08457v1",
+      "publishedAt": "2026-11-05T18:48:50+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Adversarial Training (AT) is an important method for improving model robustness. We study the dynamics of deterministic Gradient Descent (GD) in AT. Most existing works in this direction focus on the small or vanishing step sizes regime, where GD resembles a continuous-time flow. However, such step sizes can make training inefficient and are rarely used in practice. In this paper, we study the AT dynamics of GD with large constant step sizes. We first study GD in adversarial linear logistic regression, focusing on two aspects: where the model parameters converge (implicit bias) and how quickly the losses decrease (optimization). We then turn to neural networks training and study how the sharpness of losses evolve during AT. Our results advance the understanding of the behaviors of GD with large step sizes in AT and highlight three key differences from its behavior in Standard Training (ST): (i) the implicit bias gap between AT and ST, previously established only for small step sizes, persists for arbitrarily large constant step sizes, (ii) different from ST, there is no uniform rate of convergence for the optimization error in AT, and (iii) sharpness can exhibit two-stage dynamics that differ from the Edge-of-Stability behavior observed in ST."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Yi Feng, Andrea Paudice",
+        "categories": [
+          "cs.LG",
+          "math.OC"
+        ]
+      }
+    },
+    {
+      "id": "5cacba4a7eca7d65358754316c5cc3d2f60da7af47dc6fd6dda05a295bdf5e8b",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO",
+      "summary": "Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO。作者：Zeyu Leo Liu, Yang Li, Bo Pang et al.。摘要：On-polic",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.08453v1",
+      "publishedAt": "2026-11-05T18:47:05+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "On-policy distillation (OPD) trains a student on its own rollouts under a frozen teacher's per-token supervision. Does this dense signal reduce the training FLOPs needed to reach a target accuracy compared with reinforcement learning? We systematically compare vanilla reverse-KL OPD with Group Relative Policy Optimization (GRPO) across task difficulty, student and teacher size, domain, and optimization choices, measuring held-out accuracy against training FLOPs. With an external post-trained teacher, OPD generally loses to GRPO in accuracy per training FLOP at matched settings, even when the teacher is further trained with GRPO, and often suffers response-length inflation. Yet a different teacher changes the picture: when the teacher is the student's own GRPO checkpoint, OPD recovers that checkpoint's accuracy on math with $50\\times$ fewer distillation FLOPs than GRPO needs to reach the same accuracy. Following the same teacher setting, we consistently observe this high efficiency with a larger student, on code, and in a second model family. On a single domain, however, the GRPO checkpoint is already the desired model, so distilling it adds to total compute. Across domains, separate GRPO checkpoints hold different capabilities, and no single checkpoint serves every domain. Multi-teacher OPD (DeepSeek-AI, 2026) consolidates per-domain GRPO experts into a single student that matches each expert's accuracy, with the distillation stage costing only 5.2% (on 2 domains) and 8.0% (on 4 domains) of the specialist training FLOPs. Counting specialist training and distillation together, this pipeline reaches joint GRPO's performance on the 2-domain mix with 42.0% fewer total FLOPs."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Zeyu Leo Liu, Yang Li, Bo Pang et al.",
+        "categories": [
+          "cs.LG",
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "3eed1550367a0162b53c8c655996e7176f2365fadca27efc6c9eb07ea614e5a5",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
+      "summary": "ReproBridge: Building Reproducibility into ML Research Artifacts。作者：Yubo Wang, Rui Meng, Jaehyun Nam et al.。摘要：Reproduci",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.08452v1",
+      "publishedAt": "2026-11-05T18:45:36+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Reproducing machine learning experiments requires reconstructing procedures from information scattered across papers, released code, and supporting artifacts. For coding agents, reproduction success can therefore depend on their ability to fill in missing details, rather than on the released artifacts alone. We ask whether preserving recovered procedures and decisions improves subsequent independent reproduction. We define a standardized artifact design comprising a refined codebase, environment setup, experiment launchers, and a reproduction guide, and introduce ReproBridge, an agent workflow for constructing these refined reproducible artifacts. ReproBridge-Bench provides 1,029 tasks from 387 experiments across 36 papers, anchored by five human-verified reference scores per task. Agents attempt tasks in fresh sessions with raw code or refined artifacts; a separate Auditor checks execution evidence. Across four evaluated models, refined artifacts raise mean reproduction success from 76.4% to 92.6% and reduce downstream API spending by 19.7% on average. The cross-model success-rate spread narrows from 21.6 to 3.9 percentage points, with all four models achieving mean success rates above 90%. Removing any component reduces success in the ablation study, with the largest losses from code and environment removal. These results suggest that preserving execution knowledge helps even models with lower raw-code success reproduce experiments more reliably and at lower API cost."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Yubo Wang, Rui Meng, Jaehyun Nam et al.",
+        "categories": [
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "bde046daa728b2473ec929c70892ed8c7fe8130da7fc22952525e3747771e6bd",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "A Hidden Markov Preference Model for Online Prediction of Adversary Actions",
+      "summary": "A Hidden Markov Preference Model for Online Prediction of Adversary Actions。作者：Angel Daruna, Michael Cogswell, Tixiao Sh",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.08445v1",
+      "publishedAt": "2026-11-05T18:37:07+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "A defender anticipating an attacker needs a probability distribution over the attacker's next action from information available before that action occurs. Two structures complicate this: the attacker's behavioral regime persists and can switch within an episode, and each action combines an operation with state-dependent arguments whose feasible values change over time. We capture both with a hidden Markov model whose latent state is the active regime and whose regime-conditioned action law is defined on a feasibility-masked tree of executable actions. The same likelihood forms the next-action distribution and updates the regime belief once the action is seen, and a partially observed prefix contributes its resolved local factors. Estimation separates into convex logistic fits that Baum-Welch reuses when regimes are unlabeled. We derive a reach-weighted nodewise KL expression for regime information, a sequence-wise log-loss bound for switching regime paths, and a uniform fallback guarantee. On the CAGE 2 cyber defense benchmark the filtered latent state is worth 0.8 nats per step, and after a controller switch the loss begins to fall in three steps against ten for a recurrent baseline."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Angel Daruna, Michael Cogswell, Tixiao Shan et al.",
+        "categories": [
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "da29778ae5066ef8e57a0fac8e179890de938dfdec32bc5cecf5c89376e29ca3",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviations or Codes",
+      "summary": "Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviations or Codes。作者：Vlad",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.08439v1",
+      "publishedAt": "2026-11-05T18:31:24+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Typed-decision models score options that the caller supplies at request time, so their accuracy depends on label wording that the model's developer does not control. We compare two releases of a 307M-parameter multilingual cross-encoder, Ru-Jev, trained on thirteen Russian-language tasks; the later release adds an augmentation that presents labels in several surface forms. Holding questions fixed and varying only how eighteen routing labels are worded, we evaluate ten label vocabularies, produced by three separate processes and checked for overlap with the training data, with five candidates per question and, for eight of them, also with eighteen. On held-out vocabularies made of ordinary or borrowed words (English-derived jargon, office slang, department names), the augmented release is more accurate in every setting, by up to 0.24. Eleven of these fourteen gains survive a Holm correction (slang with eighteen candidates and descriptive sentences with five do not), and for jargon on all labels the label-level interval excludes zero in both settings. On abbreviations and opaque codes it gives no usable gain: on abbreviations it is not better, and worse on the clean slice, and on opaque codes both releases stay at or below chance once labels related to training options are removed. In most cells where accuracy rises, the risk-coverage area falls, but with eighteen candidates confident errors rise on jargon and slang. On two datasets neither release saw, accuracy moves by -8.4 and +5.6 points. We also report four evaluation hazards from comparing the two releases."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Vladimir Beskorovainyi",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "ccbfbbdc5e9b37e432da512ab4b26dd1bf633179068bdb91f0b6d5edfc0d31b9",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+      "summary": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety。作者：Fazl Barez, Tung-Yu Wu, Hun",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.08438v1",
+      "publishedAt": "2026-11-05T18:30:54+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Neural networks are likely to be among the most consequential artefacts in human history. As these systems become more capable and autonomous, their potential to cause societal harm also grows, making AI safety one of the defining challenges of our time. Yet we continue to build increasingly powerful systems without fully understanding how they work, how they will behave in unfamiliar situations, or how to reliably control them. Mechanistic interpretability offers a path towards understanding these systems by studying their internal representations and computations, with the aim of evaluating, predicting, and controlling behaviour. We survey mechanistic interpretability for AI safety in order to answer the question: Does understanding how models work actually make them safer? We place mechanistic interpretability in the broader context of interpretability research and compare its mechanistic evidence with behavioural evaluation. We introduce the foundations of mechanistic interpretability, including features, polysemanticity, transformer computation, and circuits, and survey methods for feature extraction and analysis, circuit discovery and causal verification, explaining intermediate representations in natural language, learning dynamics, and training-data attribution. Beyond surveying existing methods, we propose a unified framework for evaluating mechanistic interpretability claims and characterise six research orientations by their goals, assumptions, and trade-offs. Finally, we examine how mechanistic understanding can support AI safety, including knowledge editing, steering, and monitoring, and assess its limitations, failure modes, open problems, and relationship to behavioural safety measures. We also release a repository of code notebooks with worked examples that reproduce key findings from surveyed methods, allowing readers to build intuition through hands-on experimentation."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Fazl Barez, Tung-Yu Wu, Hunar Batra et al.",
+        "categories": [
+          "cs.CL",
+          "cs.AI",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "7fdf13429e3614a78d5b379c2b681af142c51cee1cd52973651957c38aa85b5c",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue",
+      "summary": "MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue。作者：Donghua Zhang, Zizheng Wang, Ze",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.08433v1",
+      "publishedAt": "2026-11-05T18:27:20+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "LLM-based medical assistants that follow a patient across visits need a memory that keeps the patient's clinical state correct as it changes. We examine the errors of five memory systems on longitudinal medical dialogue and find three recurring causes: the retrieved evidence gives an outdated state, includes another person's health facts, or lacks a safety fact the answer depends on. We present MedGraph, a graph memory built for these three cases. Construction extracts dated facts from each session, attributes each fact to the person it describes, and links medication, diagnosis, and measurement records into chains that keep earlier states. Retrieval ranks the patient's chains as units, reads each chain at the time the question asks about, and adds the original dialogue text; a patient profile lists every recorded safety fact with every question. On MedMemoryBench, MedGraph has the highest overall accuracy with both a GPT and a Qwen backbone, 10.5 and 10.4 points above the strongest of five baselines, with efficient memory construction and answering in the GPT setting."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Donghua Zhang, Zizheng Wang, Ze Dong et al.",
+        "categories": [
+          "cs.CL",
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "c5e8fa911685e68711a80de74f6671c7398b51577e63e6d1193b648a471f0a08",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
+      "summary": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI。作者：Julian Kunkel, Al",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.08428v1",
+      "publishedAt": "2026-11-05T18:22:24+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Chat remains the default surface for many large language model (LLM) tasks, even as agentic tools such as OpenCode excel at coding and automation. Yet the model sees the current dialogue but not the workspace around it. We explore meta access---giving the assistant a structured, permissioned view of the interface itself and propose a ladder of levels: feature tutoring; metadata, settings, and preference access; retrieval over summaries and messages, confirmed mutation, and full orchestration. Meta access can turn a chat client from many screens into one entry point for finding, navigating, organising, and operating it, while raising risks around grounding, privacy, prompt injection, and trust. General-purpose agentic harnesses are runtimes; because they can change their own settings, meta access becomes reflexive and needs a separate control-plane boundary. We ground this in the Meta Chat prototype of the Chat AI client. It builds bounded context from, e.g., summaries, settings, and relevant messages; links references to conversations, topics, and personas; supports confirmed, reversible changes; offers a browsable tutorial library; and recommends personas as user-started conversations. By exposing application state in structured form, meta access can extend screen readers from widget descriptions to semantic workspace operations. Meta access thus turns chat from a window onto one conversation into a control layer for the whole workspace, extending chat toward agentic capability without surrendering user control. As assistants become embedded in IDEs, dashboards, office suites, and operating systems, AI-era interfaces should expose a structured, permissioned model of their state and capabilities, ideally by opening their existing metamodels through a debugger-like interface."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Julian Kunkel, Ali Doosthosseini",
+        "categories": [
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "7b189933c2ae40f94c9d789d6533ef335f1f7f8a5ec6318b6dd347d4e2453cfc",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing",
+      "summary": "Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing。作者：Michal P. Podoli",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.08425v1",
+      "publishedAt": "2026-11-05T18:21:07+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Vision-Language-Action models (VLAs) enable general-purpose embodied intelligence, but their performance is brittle under distribution shift, where unanticipated failures can damage equipment or endanger people. Deploying VLAs in real-world systems therefore requires a runtime monitor that is timely, calibrated, and informative while being efficient enough to run on the edge. Existing methods fail to fulfill these requirements. We present VLA-Tug, a lightweight probe over the latent layers of a VLA backbone that improves early failure detection and bounds the missed-detection and false-alarm rates, with minimal inference overhead. We show that supervising on the pre-failure segment of a trajectory increases early failure detection at matched false-positive rates by up to 30% over the strongest learned baseline. Under shift to unseen tasks, the bounds on missed-detection and false-alarm rates remain valid in up to 86% of runs, versus at most 21% for baselines. Unlike existing methods, VLA-Tug predicts the failure mode to enable corrective actions, raising top-3 accuracy on unseen tasks by up to 44% over a majority baseline. VLA-Tug enables real-time monitoring where the well-timed and informative probe supports lightweight steering that improves task success. We release a dataset of 3,180 annotated manipulation episodes to support future work on latent failure detection in VLAs at https://vla-tug.github.io."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Michal P. Podolinsky, Yunhao Yang, Daniel Little et al.",
+        "categories": [
+          "cs.RO",
+          "cs.AI"
+        ]
+      }
     },
     {
       "id": "2017868d0041c5a23d383c48bbfcd61f8dd9e00380c104ee1bd25687462b0025",
@@ -6180,261 +6848,6 @@
       "tags": [
         "ai-news",
         "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "53a49da330f58143273444a390f3158ab929b07bc17a53b919ac0823b595cdd9",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
-      "summary": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/506743.html",
-      "publishedAt": "2026-10-30T07:31:11+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "91c05b4133ab235b237e83ae330f441780aed1d1669a8a633f033d6a63d8e247",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Sage-Attention-built-for-Windows：model 模型更新",
-      "summary": "HuggingFace 上模型 ussoewwin/Sage-Attention-built-for-Windows 目前下载量为0，获65个赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/ussoewwin/Sage-Attention-built-for-Windows",
-      "publishedAt": "2026-10-30T06:35:42+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 65
-      }
-    },
-    {
-      "id": "5852b78448e96625cb954c2062118e95e6599e1fc08a843bd0851db134df9431",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "flint-MXFP4-MoE-40B-A2.5B-GGUF：text-generation 模型更新",
-      "summary": "HuggingFace上线prithivMLmods/flint-MXFP4-MoE-40B-A2.5B-GGUF文本生成模型，下载量1252次，获4赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/prithivMLmods/flint-MXFP4-MoE-40B-A2.5B-GGUF",
-      "publishedAt": "2026-10-30T06:34:22+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1252,
-        "likes": 4
-      }
-    },
-    {
-      "id": "7f299d3bc413b2eac8440926d159a52f922dc6be95c58712fe0b29deceaa9ce5",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
-      "summary": "解析一切",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/506686.html",
-      "publishedAt": "2026-10-30T05:52:47+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "76d344334e13aa5d4bac9a350574b17999ea41678b46efeb348dc0eab20521d7",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Claude新模型曝光：新Fable，新Opus…",
-      "summary": "",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/506674.html",
-      "publishedAt": "2026-10-30T05:50:44+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4afca0390222ed7f86605be6cb8e05b6c3d95f7634bba6ad0d6e085f944e5655",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
-      "summary": "让机器人成为彼此的“老师”",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/506662.html",
-      "publishedAt": "2026-10-30T03:48:04+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "2f5d800c2f9033b4e34312aa943795dab963fa64fe7827439788436a072e26eb",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
-      "summary": "",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/506609.html",
-      "publishedAt": "2026-10-30T03:40:21+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "aa924084db264226557076838e3eb5dac6e52fb815a858918c726bcdd1cdb5cd",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "summary": "肯塔基大学管理员David Durman获准宗教豁免，无需在工作中使用AI。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "publishedAt": "2026-10-30T01:20:48+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "75c1e6279fa81025d97bdf0bf848aebbe28a493d6cf5d1e1725060e6fe206664",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
-      "summary": "Momenta世界模型上车",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/506569.html",
-      "publishedAt": "2026-10-30T00:19:06+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "5c7beefc78a27b5da57162695b66ef95ca0efc1dece94056d370a1db953917e0",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "summary": "亚马逊欲成AI云计算龙头并首破万亿美元年营收，CEO称需持续加大资本开支。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "publishedAt": "2026-10-29T23:42:22+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "7b7986d4edc216c9092ce805245d9298d52dca63199bfbbff983005897647108",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "summary": "Reddit正调整其开放网络传统，以应对AI对信息获取方式的变革，保护用户与商业利益。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "publishedAt": "2026-10-29T20:08:31+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4ff8c7f153148602ec56cacc9be1ee901b962bc39787a76455743c208a69d564",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "summary": "Rivian未披露其58亿美元合资企业价值是否会扩大。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-      "publishedAt": "2026-10-29T20:05:47+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "7ec9b90cf52c3187cee4fa4d62a26c4a2e9edfcda6dd55245dc2d8798599722c",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "summary": "OpenAI支持的Thrive Holdings以153亿美元收购ADT，将AI技术引入家庭安防业务。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "publishedAt": "2026-10-29T19:56:19+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
       ],
       "body": [],
       "points": [],
