@@ -1,9 +1,200 @@
 {
-  "generated_at": "2026-11-06T18:46:49.135701+00:00",
-  "date": "2026-11-06",
+  "generated_at": "2026-11-07T06:53:47.998297+00:00",
+  "date": "2026-11-07",
   "keep_days": 7,
-  "count": 303,
+  "count": 293,
   "items": [
+    {
+      "id": "cde649f0163fbd10ebcb5bf68ef4d59a4b841feefc93bb7624cfb3c6efd54f79",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Whittle-Qwen-3.8-35B-A3B-i1-GGUF：text-generation 模型更新",
+      "summary": "HuggingFace 主流 text-generation 模型 mradermacher/Whittle-Qwen-3.8-35B-A3B-i1-GGUF，1,191 下载，1 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mradermacher/Whittle-Qwen-3.8-35B-A3B-i1-GGUF",
+      "publishedAt": "2026-11-07T06:30:06+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1191,
+        "likes": 1
+      }
+    },
+    {
+      "id": "1dd0fab42c4ed0376bade746f01207455a80697a07d5e3e1ae629c88accea1ee",
+      "module": "ai",
+      "seg": null,
+      "cat": "厂商动态·阿里通义千问",
+      "title": "阿里通义千问 发布/更新 Qwen3.8-2.4T-A95B-FP8（text-generation）",
+      "summary": "阿里通义千问（HF 作者 Qwen）发布/更新模型 Qwen/Qwen3.8-2.4T-A95B-FP8，9,297 下载，261 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
+      "publishedAt": "2026-11-07T04:46:52+00:00",
+      "tags": [
+        "huggingface",
+        "vendor",
+        "Qwen"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 9297,
+        "likes": 261,
+        "vendor": "阿里通义千问"
+      }
+    },
+    {
+      "id": "0ca9ff9d61ad50eb8d9687dda46cebeba4262bf3304bc712f2b30a06e43cb8c9",
+      "module": "ai",
+      "seg": null,
+      "cat": "厂商动态·阿里通义千问",
+      "title": "阿里通义千问 发布/更新 Qwen3.8-2.4T-A95B（text-generation）",
+      "summary": "阿里通义千问（HF 作者 Qwen）发布/更新模型 Qwen/Qwen3.8-2.4T-A95B，26,618 下载，1374 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "publishedAt": "2026-11-07T04:46:47+00:00",
+      "tags": [
+        "huggingface",
+        "vendor",
+        "Qwen"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 26618,
+        "likes": 1374,
+        "vendor": "阿里通义千问"
+      }
+    },
+    {
+      "id": "6f70e18078be15b59818639e0f4c3d48f90e31c8ef8e229760cc0f38c3de126f",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "老张看完T1比赛之后，小夏要走了老张还想邀请小夏一起复盘，小夏直接拒绝了",
+      "summary": "UP主 全网最快第一切片 · 9,680播放 · 4:31",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117572716467673",
+      "publishedAt": "2026-11-07T02:12:18+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "全网最快第一切片",
+        "play": 9680,
+        "bvid": "BV19o4763EM4",
+        "duration": "4:31"
+      }
+    },
+    {
+      "id": "4da76eee555e7588d00ea6d4a81191e86f880e9bf1b92bc1080b83a040b051f2",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "publishedAt": "2026-11-07T01:40:28+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "93e78c5302638e3f9e60c706e1f5f5fe2c6086a0f97f44d8db9a21cf98b5504c",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloom",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "publishedAt": "2026-11-06T23:46:18+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "f04c016c8fdfdba4e45e9e96bcfdfe260379c9261b147f80458b63d4dbd86889",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to Th",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "publishedAt": "2026-11-06T23:00:44+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "739ab4508c6659914f997651a40471d5bc2493a2a31daf60b77ee72b31232d24",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "publishedAt": "2026-11-06T22:53:46+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "7d82234ef014965fbf55e55677762bc8bf24fdeab36f667ca13f8c38fb0d684f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "All the latest updates on AI data centers",
+      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "publishedAt": "2026-11-06T20:02:22+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "9e7eb2a120d9c7cb0450d72a0eb585062419c30d3807e0dbf303eb9feb4cbf62",
       "module": "ai",
@@ -6124,379 +6315,6 @@
       "tags": [
         "ai-news",
         "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "5fd9e9e7d3a31be601a0d8f7d42c2a012610f6fb9de151d9109f838f6fbdeaf9",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "SRA-RiskGate-4B：text-generation 模型更新",
-      "summary": "HuggingFace 主流 text-generation 模型 sriram1983007/SRA-RiskGate-4B，6,821 下载，4 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/sriram1983007/SRA-RiskGate-4B",
-      "publishedAt": "2026-10-31T06:41:32+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 6821,
-        "likes": 4
-      }
-    },
-    {
-      "id": "cce7a9dfba38e7d678e04ee937b0b7f1c3cbce2c4084049a4d99b1476ceec9f0",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "MatterSeek：feature-extraction 模型更新",
-      "summary": "HuggingFace 主流 feature-extraction 模型 YuyaoTechnology/MatterSeek，0 下载，292 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/YuyaoTechnology/MatterSeek",
-      "publishedAt": "2026-10-31T06:35:23+00:00",
-      "tags": [
-        "huggingface",
-        "feature-extraction",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 292
-      }
-    },
-    {
-      "id": "afa3a0bd7319f544b65cf3a93b5cb70fd7797281aa611d6e8fdb6b92509dfa0f",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "MiMo-Ornith-9B-AGSI-Abliterated-HQ-i1-GGUF：model 模型更新",
-      "summary": "HuggingFace 主流 model 模型 mradermacher/MiMo-Ornith-9B-AGSI-Abliterated-HQ-i1-GGUF，1,843 下载，1 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/mradermacher/MiMo-Ornith-9B-AGSI-Abliterated-HQ-i1-GGUF",
-      "publishedAt": "2026-10-31T06:28:37+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1843,
-        "likes": 1
-      }
-    },
-    {
-      "id": "ac3074acef79a6311bd0d56020fc7f810c09c7c38544c2219d724399d3b2fc96",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
-      "summary": "苹果“牛奶倒河里”式操作翻红",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/506884.html",
-      "publishedAt": "2026-10-31T05:17:50+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "cc37f78b8a5bcc7082dc00139330fc4739ea6735553db7f78b8bd70a8bbe3a56",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
-      "summary": "AI算力利用“九九成”",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/506866.html",
-      "publishedAt": "2026-10-31T05:11:19+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ec13f6448ba4cca511fd80cafe3a1e5d6b354dd8abaf4fe8e8482143b4298c8e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
-      "summary": "200美元Ultra用户先用",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/506855.html",
-      "publishedAt": "2026-10-31T05:05:29+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c399c0cbb33b7da60c900286d8cb8f4e7f39bdb33e00014cd5365de7b554e3c1",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the lo",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "publishedAt": "2026-10-31T01:20:05+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "291f691ee7e9ac924560b1bfd07497e44cd059bd314188fd5573afe52ebd5a5f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users'",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "publishedAt": "2026-10-30T22:56:13+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "86c9e861fa6ab43d68542cc565a93acf9a6a92bd707a8b7f7062a8f17643ecf3",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-      "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as r",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "publishedAt": "2026-10-30T22:32:53+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "2fc0455f5ef7b7a8cc8c0937ffdaba8b45b6be848dc23fa8571feae9d3505f39",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "publishedAt": "2026-10-30T21:54:34+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "8a182949f9b24d8141e3d6089a75cca422c687bc92310119f095e004d9657fb4",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "publishedAt": "2026-10-30T21:52:03+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "0e3076b04b972e0518838f5b9d3dc9a223a241d7f193fadb160861274d88f24c",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-      "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
-      "publishedAt": "2026-10-30T21:41:54+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "81ea4dfb3cb5c1b6838fb447d12670d3bc9e344867d1749074179b900027fdcf",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-      "publishedAt": "2026-10-30T21:26:59+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "7c7f37889305ba937bf66bd8c61e08b7aaf003dd45232cb77924e68e1e218d9d",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Cracks are emerging in the AI spending boom",
-      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skeptic",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "publishedAt": "2026-10-30T21:17:40+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a5c54d5c65d98696adf799f23ec5ed27b54b997d5534a6f808b9bd5722b652d1",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-      "publishedAt": "2026-10-30T21:09:54+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "0dd9be8bf3914a772242c6e19a28f83762ea8a7a0a0df21a800d012a20277561",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "publishedAt": "2026-10-30T20:48:43+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "740d3b2122d27745710440f576444d9526978b7b208cb12e87524df6e608f994",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
-      "summary": "People who love AI don't always love telling others they used it.",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
-      "publishedAt": "2026-10-30T20:40:13+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a01a958e16ead770eb2e1bf2b0a5c0735148790c8d6ac7aa3a347d456f1d0465",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "publishedAt": "2026-10-30T20:26:10+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "184c97f19a56bf34364acaa2582c8b409978830fa08e7b22470bf9a35f68ab03",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Basically no one is using AI agents for their DoorDash orders",
-      "summary": "But it's still early days for the relatively new e-commerce use case.",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-      "publishedAt": "2026-10-30T19:30:52+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
       ],
       "body": [],
       "points": [],
