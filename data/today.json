@@ -1,9 +1,154 @@
 {
-  "generated_at": "2026-11-07T06:53:47.998297+00:00",
+  "generated_at": "2026-11-07T17:17:23.031832+00:00",
   "date": "2026-11-07",
   "keep_days": 7,
-  "count": 293,
+  "count": 296,
   "items": [
+    {
+      "id": "14d25e368a7003cc0b217b851cc2d33f2da638af725a3dd0b368f68549356915",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Quillan-Ronin：text-generation 模型更新",
+      "summary": "HuggingFace 主流 text-generation 模型 CrashOverrideX/Quillan-Ronin，1,857 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/CrashOverrideX/Quillan-Ronin",
+      "publishedAt": "2026-11-07T17:14:18+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1857,
+        "likes": 0
+      }
+    },
+    {
+      "id": "09d676cd08484ea622edea2a169d98d02a987927910a2d6e6813004d75acc3ee",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "KenT-300M-Base：text-generation 模型更新",
+      "summary": "HuggingFace 主流 text-generation 模型 Vi-LAB/KenT-300M-Base，2,577 下载，2 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Vi-LAB/KenT-300M-Base",
+      "publishedAt": "2026-11-07T17:12:58+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 2577,
+        "likes": 2
+      }
+    },
+    {
+      "id": "9166af5dc7517311230491694eae58bae1271f75e972ee48348b09525c118891",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "my-model-v01：any-to-any 模型更新",
+      "summary": "HuggingFace 主流 any-to-any 模型 Lilgarca/my-model-v01，4,242 下载，2 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Lilgarca/my-model-v01",
+      "publishedAt": "2026-11-07T17:11:00+00:00",
+      "tags": [
+        "huggingface",
+        "any-to-any",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 4242,
+        "likes": 2
+      }
+    },
+    {
+      "id": "60ff241f44579046a178089bc90fcb095991993e89d409db75fec45d3526f220",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "publishedAt": "2026-11-07T15:50:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "96c0caa304483ea7cb6c18213e4c138a2faecfc0161bf883ce7f2de307a32c61",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "publishedAt": "2026-11-07T15:43:45+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "a5580ada74e13a94b88f0c145684103d93aabab8e1ffa680fdb2b8cc13a9e606",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "publishedAt": "2026-11-07T15:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "df24dc7d4773f56bc79970e8e1248dc767ded916f73efe294e1db88e74d3010e",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "publishedAt": "2026-11-07T12:30:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "cde649f0163fbd10ebcb5bf68ef4d59a4b841feefc93bb7624cfb3c6efd54f79",
       "module": "ai",
@@ -26,6 +171,25 @@
         "downloads": 1191,
         "likes": 1
       }
+    },
+    {
+      "id": "d4bca6fd62be587e0b0f85731a2a56c1453877fce781db7578481e78b68ab064",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+      "summary": "苦单Session久矣，两大Agent玩家不谋而合。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508264.html",
+      "publishedAt": "2026-11-07T05:01:17+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "1dd0fab42c4ed0376bade746f01207455a80697a07d5e3e1ae629c88accea1ee",
@@ -74,6 +238,44 @@
         "likes": 1374,
         "vendor": "阿里通义千问"
       }
+    },
+    {
+      "id": "f6d926ce7580a1eff27df17a69e0e9bdbb8f2691736547783a38e38ad1550afc",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "AGENTS.MD，危险危险危险！！！",
+      "summary": "全新的电脑病毒",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508244.html",
+      "publishedAt": "2026-11-07T03:43:55+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e74bb42470bc6c389e1c9fcd7b8b7d16776942d1ccb8343eb25e1d1c9f6e3020",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
+      "summary": "RSI不可能无限快",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508196.html",
+      "publishedAt": "2026-11-07T03:23:29+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "6f70e18078be15b59818639e0f4c3d48f90e31c8ef8e229760cc0f38c3de126f",
@@ -543,6 +745,25 @@
       "extra": {}
     },
     {
+      "id": "d0674f71e5142c5a724e990876fd397b154ac1b3103669b993417b990bb06b94",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+      "summary": "Dario刚喊减速…",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508184.html",
+      "publishedAt": "2026-11-06T15:21:56+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
       "id": "5f99dbdd27c3a19f2950f3ce989603530f4396f490941ac71ef3c639da63c44c",
       "module": "ai",
       "seg": null,
@@ -680,6 +901,63 @@
         "bvid": "BV1T14q6HEAz",
         "duration": "1:26"
       }
+    },
+    {
+      "id": "ad5625c32a91caf918a3ca04fa90e23a222f2c873612df69dc8da150247efef5",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+      "summary": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508174.html",
+      "publishedAt": "2026-11-06T09:25:59+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "3923cc2e43bf8b9d43583c370fc540311e79cd87ed4d4a9449b3a87e1b3cb854",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
+      "summary": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508170.html",
+      "publishedAt": "2026-11-06T09:21:51+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "4b0a899d8ffd6cd1267ac758b56dc88e6587bfaf0ee276b80f53de3fb1485580",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
+      "summary": "11月5日，阿里巴巴发布《2026 AI向善行动报告》",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508165.html",
+      "publishedAt": "2026-11-06T09:19:00+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "a326b524598257be008cbf3465e5e9824969278d21b74f7cc5fac5ecb3c0855c",
@@ -6074,247 +6352,6 @@
       "tags": [
         "ai-news",
         "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "96cf878c0967142f5b5772a13d40e672d0310ec639af8642f35457c07fbe5544",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "medgap-gemma-4-12b：text-generation 模型更新",
-      "summary": "HuggingFace 主流 text-generation 模型 protocolsyncllc/medgap-gemma-4-12b，4,892 下载，1 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/protocolsyncllc/medgap-gemma-4-12b",
-      "publishedAt": "2026-10-31T16:40:11+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 4892,
-        "likes": 1
-      }
-    },
-    {
-      "id": "5c0a7506293ed96475224f15eda790e84402ff8e6f822d0d5cb34af91619e900",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "MOSS-Image-IDM-2-Steps：text-to-image 模型更新",
-      "summary": "HuggingFace 主流 text-to-image 模型 akhaliq/MOSS-Image-IDM-2-Steps，0 下载，12 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/akhaliq/MOSS-Image-IDM-2-Steps",
-      "publishedAt": "2026-10-31T16:39:13+00:00",
-      "tags": [
-        "huggingface",
-        "text-to-image",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 12
-      }
-    },
-    {
-      "id": "e6f1ec2ad6005c3e5fa94df93902bb36643cda89ee07a32370d1034b08825d89",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "kotodama-tsumugi-1b：text-generation 模型更新",
-      "summary": "HuggingFace 主流 text-generation 模型 LuxiaSL/kotodama-tsumugi-1b，1,586 下载，1 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/LuxiaSL/kotodama-tsumugi-1b",
-      "publishedAt": "2026-10-31T16:38:55+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1586,
-        "likes": 1
-      }
-    },
-    {
-      "id": "5e080f08ea63e3ddf8a246e2276c4a2f86b5880ddb4ff67a61b0839af3d7a3fc",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "e32_top8_seq2048_gbs128_10b_perlayeraux：text-generation 模型更新",
-      "summary": "HuggingFace 主流 text-generation 模型 JIRU-W/e32_top8_seq2048_gbs128_10b_perlayeraux，5,165 下载，1 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/JIRU-W/e32_top8_seq2048_gbs128_10b_perlayeraux",
-      "publishedAt": "2026-10-31T16:33:41+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 5165,
-        "likes": 1
-      }
-    },
-    {
-      "id": "43385b126ff4eb863f6476b1a1836bb15ed12e0c774454dd64f42069476ac14b",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "stanza-en：token-classification 模型更新",
-      "summary": "HuggingFace 主流 token-classification 模型 stanfordnlp/stanza-en，13,591 下载，17 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/stanfordnlp/stanza-en",
-      "publishedAt": "2026-10-31T16:32:07+00:00",
-      "tags": [
-        "huggingface",
-        "token-classification",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 13591,
-        "likes": 17
-      }
-    },
-    {
-      "id": "df024f7d223df12ddc993f78b95dc4c4eac8fc9b572f9c836a22b3ee8fe89fac",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "RusMind-4.5-Vspyshka：text-generation 模型更新",
-      "summary": "HuggingFace 主流 text-generation 模型 DICPlay/RusMind-4.5-Vspyshka，1,315 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/DICPlay/RusMind-4.5-Vspyshka",
-      "publishedAt": "2026-10-31T16:31:08+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1315,
-        "likes": 0
-      }
-    },
-    {
-      "id": "ddabd9e2ddd35438908c3657a1b8f98fe517e6d740ee7c89d167e9441ae060d7",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "RusMind-4.5-Momentum：text-generation 模型更新",
-      "summary": "HuggingFace 主流 text-generation 模型 DICPlay/RusMind-4.5-Momentum，1,359 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/DICPlay/RusMind-4.5-Momentum",
-      "publishedAt": "2026-10-31T16:31:03+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1359,
-        "likes": 0
-      }
-    },
-    {
-      "id": "53e2ea00da2e89e4a323712c3b2efa2c0be38e156e1c7c1a844e7a85783f8c82",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "RusMind-4.5.1-Momentum：text-generation 模型更新",
-      "summary": "HuggingFace 主流 text-generation 模型 DICPlay/RusMind-4.5.1-Momentum，1,344 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/DICPlay/RusMind-4.5.1-Momentum",
-      "publishedAt": "2026-10-31T16:30:58+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1344,
-        "likes": 0
-      }
-    },
-    {
-      "id": "79387ec630ff6171678b0f3c2d48e4d921dd6457710ec4abb8b6cd691627df87",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "publishedAt": "2026-10-31T16:12:55+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ca10af8f013cd94209771298170646a64e217870a6a7ab94bac03ca9ef9a414f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "I built an AI Tamagotchi before Meta could",
-      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wa",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-      "publishedAt": "2026-10-31T16:05:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f9c579c12cec2b2f5386712d4d52eb6cfb2894b4192e89396d84209b646e1a74",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
-      "summary": "AI已经自己找到Bug并提交PR",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/506904.html",
-      "publishedAt": "2026-10-31T13:49:44+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
       ],
       "body": [],
       "points": [],
