@@ -1,9 +1,47 @@
 {
-  "generated_at": "2026-11-07T17:17:23.031832+00:00",
-  "date": "2026-11-07",
+  "generated_at": "2026-11-08T06:59:25.378426+00:00",
+  "date": "2026-11-08",
   "keep_days": 7,
-  "count": 296,
+  "count": 295,
   "items": [
+    {
+      "id": "03e2f309618c09a6742d3c0a841e03da68def61fb981fd7f1bd950fffbdab727",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "publishedAt": "2026-11-07T22:07:22+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "487ab89222611a6008d2554ad6b17695752cf3abdc04ebfee580bc7e484aa288",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female techno",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "publishedAt": "2026-11-07T21:17:08+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "14d25e368a7003cc0b217b851cc2d33f2da638af725a3dd0b368f68549356915",
       "module": "ai",
@@ -110,6 +148,31 @@
       "points": [],
       "live": false,
       "extra": {}
+    },
+    {
+      "id": "bcc323e94d8eeb514c7409f9d8e1676e51756338566385a0716cd43e176453b0",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "时隔九年英雄联盟S赛半决赛，再度上演两场LPL跟LCK的对决！",
+      "summary": "UP主 LOL_婕 · 476播放 · 2:48",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117575887424894",
+      "publishedAt": "2026-11-07T15:36:59+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "LOL_婕",
+        "play": 476,
+        "bvid": "BV1fh4p6eEjf",
+        "duration": "2:48"
+      }
     },
     {
       "id": "a5580ada74e13a94b88f0c145684103d93aabab8e1ffa680fdb2b8cc13a9e606",
@@ -6281,82 +6344,6 @@
         "downloads": 1339,
         "likes": 0
       }
-    },
-    {
-      "id": "6665dcae5b70619dd51d9aaf09c05b566cb91dac0c72f095976eb38de1ae5188",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Jev新成果，再次引爆开源",
-      "summary": "再次“性价比屠夫”",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/506922.html",
-      "publishedAt": "2026-11-01T04:18:37+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ec4ed65ad3625d3702c500f2e20bbace4575787124f9c29fabd31d7ee1472cd7",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "summary": "苹果新CEO为公司在AI领域的现状辩护，强调其战略定位与进展。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "publishedAt": "2026-10-31T21:41:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "b3ed8f8005f4014f3c5aa2343f7af1e9dd58385f5a9dae6840488ed443ebded9",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "summary": "11月4日，波士顿SoWa电力站举办全天创业活动，含深度交流、实战洞察与资源对接。早鸟注册享优惠，现场票价上涨。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "publishedAt": "2026-10-31T21:36:07+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "88af1684d13efa98aad2c1ffc09bdcecccfe333655ae388b6b4928d30bf08572",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "summary": "NAACP起诉SpaceX旗下AI公司，指控其违反《清洁空气法》。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "publishedAt": "2026-10-31T21:17:03+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
   ]
 }
