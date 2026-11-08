@@ -85870,5 +85870,123 @@
       "bvid": "BV1fh4p6eEjf",
       "duration": "2:48"
     }
+  },
+  "275c467c16ea7015538080753a1c2f3f5cfe4dbbeecb737a389c3ada33dfb033": {
+    "id": "275c467c16ea7015538080753a1c2f3f5cfe4dbbeecb737a389c3ada33dfb033",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "资本正在撤离“世界模型”",
+    "summary": "没有永远的夏天",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/508466.html",
+    "publishedAt": "2026-11-08T04:09:55+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "0e4196318ba064796a478c3ee5d87bbc9549528cedae42ccc22ff85e80bfdb71": {
+    "id": "0e4196318ba064796a478c3ee5d87bbc9549528cedae42ccc22ff85e80bfdb71",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+    "summary": "AI写代码太快，基础设施跟不上了",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/508449.html",
+    "publishedAt": "2026-11-07T09:38:56+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "490c469be746459b7bf5c0f743db425d6bbd593d0592ef89c487260d5bfb41ef": {
+    "id": "490c469be746459b7bf5c0f743db425d6bbd593d0592ef89c487260d5bfb41ef",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "OpenAI新融资到账110亿美元，不及原计划一半",
+    "summary": "融资缩水，硅谷投资人也谨慎了",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/508344.html",
+    "publishedAt": "2026-11-07T08:11:25+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "145c8072d2cb9c06464ec8a8d2f1fbb73f426f852397361c32f5e406db63e19d": {
+    "id": "145c8072d2cb9c06464ec8a8d2f1fbb73f426f852397361c32f5e406db63e19d",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "为了去AI味，人类开始主动写烂文章了……",
+    "summary": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI.......",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/508330.html",
+    "publishedAt": "2026-11-07T07:59:28+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "8f268c385ba45a207a7bc607036724dd196eb9cbcddd417b4c2a563b5cc55e1a": {
+    "id": "8f268c385ba45a207a7bc607036724dd196eb9cbcddd417b4c2a563b5cc55e1a",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
+    "summary": "中国版cosmos再交卷",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/508236.html",
+    "publishedAt": "2026-11-07T03:31:44+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "af5b25730910a3d1d6537d4c7e5d77875bb5c7a3e925c293c78bd68c5e1d4997": {
+    "id": "af5b25730910a3d1d6537d4c7e5d77875bb5c7a3e925c293c78bd68c5e1d4997",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "LFM3-Omni-2B-abliterated：any-to-any 模型更新",
+    "summary": "HuggingFace 主流 any-to-any 模型 JonusNattapong/LFM3-Omni-2B-abliterated，1,364 下载，0 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/JonusNattapong/LFM3-Omni-2B-abliterated",
+    "publishedAt": "2026-11-08T17:11:17+00:00",
+    "tags": [
+      "huggingface",
+      "any-to-any",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1364,
+      "likes": 0
+    }
   }
 }

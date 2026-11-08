@@ -1,9 +1,51 @@
 {
-  "generated_at": "2026-11-08T06:59:25.378426+00:00",
+  "generated_at": "2026-11-08T17:30:21.223724+00:00",
   "date": "2026-11-08",
   "keep_days": 7,
-  "count": 295,
+  "count": 289,
   "items": [
+    {
+      "id": "af5b25730910a3d1d6537d4c7e5d77875bb5c7a3e925c293c78bd68c5e1d4997",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "LFM3-Omni-2B-abliterated：any-to-any 模型更新",
+      "summary": "HuggingFace 主流 any-to-any 模型 JonusNattapong/LFM3-Omni-2B-abliterated，1,364 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/JonusNattapong/LFM3-Omni-2B-abliterated",
+      "publishedAt": "2026-11-08T17:11:17+00:00",
+      "tags": [
+        "huggingface",
+        "any-to-any",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1364,
+        "likes": 0
+      }
+    },
+    {
+      "id": "275c467c16ea7015538080753a1c2f3f5cfe4dbbeecb737a389c3ada33dfb033",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "资本正在撤离“世界模型”",
+      "summary": "没有永远的夏天",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508466.html",
+      "publishedAt": "2026-11-08T04:09:55+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "03e2f309618c09a6742d3c0a841e03da68def61fb981fd7f1bd950fffbdab727",
       "module": "ai",
@@ -213,6 +255,63 @@
       "extra": {}
     },
     {
+      "id": "0e4196318ba064796a478c3ee5d87bbc9549528cedae42ccc22ff85e80bfdb71",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+      "summary": "AI写代码太快，基础设施跟不上了",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508449.html",
+      "publishedAt": "2026-11-07T09:38:56+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "490c469be746459b7bf5c0f743db425d6bbd593d0592ef89c487260d5bfb41ef",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI新融资到账110亿美元，不及原计划一半",
+      "summary": "融资缩水，硅谷投资人也谨慎了",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508344.html",
+      "publishedAt": "2026-11-07T08:11:25+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "145c8072d2cb9c06464ec8a8d2f1fbb73f426f852397361c32f5e406db63e19d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "为了去AI味，人类开始主动写烂文章了……",
+      "summary": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI.......",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508330.html",
+      "publishedAt": "2026-11-07T07:59:28+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
       "id": "cde649f0163fbd10ebcb5bf68ef4d59a4b841feefc93bb7624cfb3c6efd54f79",
       "module": "ai",
       "seg": null,
@@ -312,6 +411,25 @@
       "source": "量子位",
       "sourceUrl": "https://www.qbitai.com/2026/11/508244.html",
       "publishedAt": "2026-11-07T03:43:55+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "8f268c385ba45a207a7bc607036724dd196eb9cbcddd417b4c2a563b5cc55e1a",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
+      "summary": "中国版cosmos再交卷",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508236.html",
+      "publishedAt": "2026-11-07T03:31:44+00:00",
       "tags": [
         "ai-news",
         "量子位"
@@ -6082,268 +6200,6 @@
       "points": [],
       "live": false,
       "extra": {}
-    },
-    {
-      "id": "82824e961c16dec3c37da439cbdd867ef9eac317c237d0be04fbf02b850fce19",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "armiger-ultra：text-classification 模型更新",
-      "summary": "HuggingFace 上 NorviTech/armiger-ultra 文本分类模型获 755 次下载、10 个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/NorviTech/armiger-ultra",
-      "publishedAt": "2026-11-01T17:30:08+00:00",
-      "tags": [
-        "huggingface",
-        "text-classification",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 755,
-        "likes": 10
-      }
-    },
-    {
-      "id": "e02552a72e50d7ba5dbfa9197b32f99d6ed0405069c927c012f3c56cda23f706",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Intelligence_OS_1p5B：text-generation 模型更新",
-      "summary": "HuggingFace 上 text-generation 模型 Intelligence_OS_1p5B（1.5B 参数）下载量2045次，获2赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/shreyansh-programmer/Intelligence_OS_1p5B",
-      "publishedAt": "2026-11-01T17:26:24+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 2045,
-        "likes": 2
-      }
-    },
-    {
-      "id": "e2762b9f4c7d2b85ad1000ee6c8a9d4c48f4ba53d568242a280f253d5076cd4d",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "opencoti-llamafile：model 模型更新",
-      "summary": "HuggingFace 上 ManniX-ITA/opencoti-llamafile 模型获 5622 次下载、3 个点赞，属主流开源模型。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/ManniX-ITA/opencoti-llamafile",
-      "publishedAt": "2026-11-01T17:24:35+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 5622,
-        "likes": 3
-      }
-    },
-    {
-      "id": "40f500fe4f41f752a0347f453a1c35151f51628793f227d19f082cb1061e5d79",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "hamo-score-0.6b：text-generation 模型更新",
-      "summary": "HuggingFace 上 HamoAI/hamo-score-0.6b 文本生成模型获3650次下载、2个点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/HamoAI/hamo-score-0.6b",
-      "publishedAt": "2026-11-01T17:22:31+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 3650,
-        "likes": 2
-      }
-    },
-    {
-      "id": "fe35dcaf6917f2be7490975526dc3a048b415d1cabd2b4ab78646bc428fcc3bb",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "ThoxEdge-0.8B：text-generation 模型更新",
-      "summary": "HuggingFace 上 text-generation 模型 Thox-ai/ThoxEdge-0.8B 下载量1837次，获0赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Thox-ai/ThoxEdge-0.8B",
-      "publishedAt": "2026-11-01T17:16:29+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1837,
-        "likes": 0
-      }
-    },
-    {
-      "id": "bdba52f0d10c3c219913b32ce3c0cd388c60c18fe8f228a2450e7005a65f8155",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
-      "summary": "西湖世界模型研究中心成立",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/507076.html",
-      "publishedAt": "2026-11-01T13:28:10+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a58bbedb5168d815062e7daa29e295d92b74c476f5d0fdad55d6b4eee2635360",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
-      "summary": "",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/507038.html",
-      "publishedAt": "2026-11-01T13:09:55+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "66daa793d711dc8da0a4c2d8c075d51a0cd7fd4aa79472ccc5db738c2381664d",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "海斗4.0限时黑科技，将他们放倒倒倒小鱼人，抓紧体验！",
-      "summary": "UP主 英雄联盟--蛋妮维雅 · 5,207播放 · 2:56",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117540386772460",
-      "publishedAt": "2026-11-01T09:17:12+00:00",
-      "tags": [
-        "lol",
-        "rune",
-        "英雄联盟 海斗 黑科技 上分"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "英雄联盟--蛋妮维雅",
-        "play": 5207,
-        "bvid": "BV12Bx46HEY3",
-        "duration": "2:56"
-      }
-    },
-    {
-      "id": "1902241b21bd043bc9b520a8a13d36da50348a0a280d09673090d737491f7634",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
-      "summary": "让AI像牛顿一样思考",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/507031.html",
-      "publishedAt": "2026-11-01T08:02:37+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "0c853b1d08b124ba9ca156b8909b65f4d4435f9a9c3aacf9095cfb4d3c988edc",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
-      "summary": "这事还是想得太简单了",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/506990.html",
-      "publishedAt": "2026-11-01T07:50:57+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4238fb8b1c6366dccf97aa4f9ae214ea6bbb7e7a1b3622b42f2e820d99797ad5",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "upass-tm：model 模型更新",
-      "summary": "HuggingFace 上 rmaapk/upass-tm 模型下载量达1548次，暂无点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/rmaapk/upass-tm",
-      "publishedAt": "2026-11-01T07:11:49+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1548,
-        "likes": 0
-      }
-    },
-    {
-      "id": "105b278f2d0567181ea2430814a85e3235b8f45aed9499ec38b6789a21b9b72e",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.8-27B-GSQ-RCO-IQ3_XXS-ninfer：text-generation 模型更新",
-      "summary": "HuggingFace上线FreehandZ/Qwen3.8-27B-GSQ-RCO-IQ3_XXS-ninfer文本生成模型，下载量1339次，暂无点赞。",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/FreehandZ/Qwen3.8-27B-GSQ-RCO-IQ3_XXS-ninfer",
-      "publishedAt": "2026-11-01T07:08:51+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1339,
-        "likes": 0
-      }
     }
   ]
 }
