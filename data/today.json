@@ -1,9 +1,446 @@
 {
-  "generated_at": "2026-11-09T07:43:45.131354+00:00",
+  "generated_at": "2026-11-09T21:51:52.535236+00:00",
   "date": "2026-11-09",
   "keep_days": 7,
-  "count": 305,
+  "count": 296,
   "items": [
+    {
+      "id": "55fdfb87d78625eadf8844e640242907983eaf727b6d7b61cc05b22947709cef",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "publishedAt": "2026-11-09T20:09:06+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "ddab6550d239add38ec8c0e4ca213cb88611aa903c0b38387048f2ac19a9e399",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicati",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "publishedAt": "2026-11-09T19:24:51+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "9b7edc305f2034961ba02a258134b8a84df574e8f0784f220fb6e7caa298eda9",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+      "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the c",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "publishedAt": "2026-11-09T19:09:58+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "5174fba8737970ab07304d3982a6e329554689ab4e61a46a3706dce3ee680d54",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "publishedAt": "2026-11-09T19:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b408041fc25a56c754c5610cc22d680e9f265477d16a8a1e64257ef077161c5b",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "publishedAt": "2026-11-09T18:09:52+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "bd7ed4d9acfbfce6f7cbd92561b81db556b14b607ad5afd8ca780b998624df6f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+      "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "publishedAt": "2026-11-09T18:07:23+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "13d7f6291d907aaa1368c4322b28a9468b2968da8f697c8ef426ba82f2ef17d7",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "publishedAt": "2026-11-09T18:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "d0c45608391e5007ff35d12374b0f165c408e9089675e0e7db171b116f4a7725",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+      "summary": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+      "publishedAt": "2026-11-09T17:36:08+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "20e4a5687f5ca0f61e5f7f8086b046fa03f20adba37469132b505bb343ac89fa",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "publishedAt": "2026-11-09T17:24:26+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "54401c0d2f72b0d7f87706a6b94b9f91e489a3d33c2b5fe8ba91ab8788a9e256",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "publishedAt": "2026-11-09T16:56:54+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e33b4c54efb40c513a9beccdfc0c303acc7c3d6c82e601d8c16aa341016caba7",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+      "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publish",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "publishedAt": "2026-11-09T16:12:28+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "cc0b43d171094dba93c2ed81e341edc71a6b8e2d930a973cc662c06dd8a173a8",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+      "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+      "publishedAt": "2026-11-09T15:50:38+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "f57dfbc928af725752a3994adc8aba25927dd421c6924e7e86e3c18eb05a7448",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Disney and Adobe are building generative AI tools together",
+      "summary": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Dis",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "publishedAt": "2026-11-09T15:38:56+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "707296d40c84b5a06a0c1f31088062d6dbb66bf74e4467c323d0378caef0afec",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Hold up — I had a great time talking to the RIAA guy",
+      "summary": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle mom",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
+      "publishedAt": "2026-11-09T15:30:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "7b5864618dc55603767b6d230376f84cf44d781169ffb56b36f105a92a87567e",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Nvidia CEO's affair becomes a national security problem",
+      "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+      "publishedAt": "2026-11-09T15:23:20+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b0753fa6818d6881c266674ee3393f57a3d679dbeedcb6f1065795d6858bd231",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "publishedAt": "2026-11-09T15:05:57+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "8c8cd8d5715007f506a49ef9d8ee381e502603c272d7c09e2064f7e0080aa45a",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Jonathan Kanter is using AI to take on Big Tech",
+      "summary": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fig",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+      "publishedAt": "2026-11-09T14:30:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "fb6f39dbc0e3b99565e87acf1f3432bfe0ec4fd641a8387b4b05aa2203248ce4",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+      "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "publishedAt": "2026-11-09T14:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "99f29aed492280e34df22080f66feb48f15a62e904e4a0be0037b1e273daa65c",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "publishedAt": "2026-11-09T12:34:29+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e3805943464fb749a077efd98e207dd20feed4bae3c0631b9d4c3adf4dba6c93",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "“AI毁了我的计算机学位”",
+      "summary": "教授也用Claude糊弄…",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508706.html",
+      "publishedAt": "2026-11-09T08:57:20+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "47f9506448794fc8762c6d04b9b0194fc24c5ac679e8a4acfe4bc8e7254887be",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+      "summary": "",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/507843.html",
+      "publishedAt": "2026-11-09T08:44:00+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "887088f146b2be7eacf4290ff842f668124907573d89f7114d96f9f479cb750d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+      "summary": "11月9日，千问办公发布2.0版本",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508694.html",
+      "publishedAt": "2026-11-09T08:34:03+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "96357b9caaee11527beeffb765ff05fa52f3a6d9a609825b68362f5abd1053b4",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
+      "summary": "厘清故事与现实的边界，回归投资与产业的底层逻辑。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508690.html",
+      "publishedAt": "2026-11-09T08:26:45+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "e80bf5bf28e5df7b06ceec811b68a19b43493c55ec7827a4e4288fc8694b02c6",
       "module": "ai",
@@ -51,6 +488,44 @@
       }
     },
     {
+      "id": "b4462c8e3dcde98c37bc9d792e07aa573ab0ff91c8a3ac922839a881902cc86f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
+      "summary": "最早量产的亲自泼冷水",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508629.html",
+      "publishedAt": "2026-11-09T07:02:36+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "bb21ce6b6d9a9eddf45d1143179562b06ecdf010411687b6b6ba27a6ee7ad42d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
+      "summary": "Worker不够了主管Agent还能自己招！",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508607.html",
+      "publishedAt": "2026-11-09T05:47:58+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
       "id": "ab376fada96fd9e3b90bed2be51ea7f259d7060182227e2c1e657c145f78a9b7",
       "module": "ai",
       "seg": null,
@@ -63,6 +538,63 @@
       "tags": [
         "ai-news",
         "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "76ee0edd0839ddfa75cf98e70e583acf9199c82d4c7274be8e784f15ce57b352",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
+      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonn",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "publishedAt": "2026-11-09T05:26:29+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b01830dafd389958578430c8c9b43f1ca649a8d65da064538164bec3d6d8c0b8",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+      "summary": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508603.html",
+      "publishedAt": "2026-11-09T05:09:23+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "648f0382d84949b63167c560e80c459cf57b4b150706d92e5a6d57273254add1",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
+      "summary": "“让人放心，把人放大。”",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508586.html",
+      "publishedAt": "2026-11-09T03:47:12+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
       ],
       "body": [],
       "points": [],
@@ -5764,869 +6296,6 @@
       "tags": [
         "ai-news",
         "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "b9a7b893df11453700fc50af7bce1594ccb0676d49107dede63dc501a36c4780",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "test：feature-extraction 模型更新",
-      "summary": "HuggingFace 主流 feature-extraction 模型 ayeeyokoris/test，1,314 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/ayeeyokoris/test",
-      "publishedAt": "2026-11-02T21:15:49+00:00",
-      "tags": [
-        "huggingface",
-        "feature-extraction",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1314,
-        "likes": 0
-      }
-    },
-    {
-      "id": "6e6ea2f83020c62c6234c26141275c58f1274e8597abdc6d7291487733654de3",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Minecraftism-4B-Uncensored-GGUF：text-generation 模型更新",
-      "summary": "HuggingFace 主流 text-generation 模型 mr-sus/Minecraftism-4B-Uncensored-GGUF，1,625 下载，8 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/mr-sus/Minecraftism-4B-Uncensored-GGUF",
-      "publishedAt": "2026-11-02T21:14:48+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1625,
-        "likes": 8
-      }
-    },
-    {
-      "id": "d7679fe4678ab2c327ff138927fadb801eb95229ba13c1d82b7e57a5df5ba12f",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "DeepSeek-V4.1-Flash-1017-exl3：image-text-to-text 模型更新",
-      "summary": "HuggingFace 主流 image-text-to-text 模型 turboderp/DeepSeek-V4.1-Flash-1017-exl3，156 下载，20 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/turboderp/DeepSeek-V4.1-Flash-1017-exl3",
-      "publishedAt": "2026-11-02T21:14:23+00:00",
-      "tags": [
-        "huggingface",
-        "image-text-to-text",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 156,
-        "likes": 20
-      }
-    },
-    {
-      "id": "0a27b1f0a9dd8ee3ffac72684a67755ab03856f46a3bdb6f3d88d9615518cded",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Suri-Qwen-3.8-27B-Companion-GGUF：image-text-to-text 模型更新",
-      "summary": "HuggingFace 主流 image-text-to-text 模型 SpaceTimee/Suri-Qwen-3.8-27B-Companion-GGUF，14,633 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/SpaceTimee/Suri-Qwen-3.8-27B-Companion-GGUF",
-      "publishedAt": "2026-11-02T21:12:39+00:00",
-      "tags": [
-        "huggingface",
-        "image-text-to-text",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 14633,
-        "likes": 0
-      }
-    },
-    {
-      "id": "e9a6e46d5ee02abfa6eb0e44baf1684c1ceae0c9c122fd98f671de50bcf40704",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Swift-1.5-Flash-Next-Heretic-ReverseEngineer：image-text-to-text 模型更新",
-      "summary": "HuggingFace 主流 image-text-to-text 模型 jackjusko/Swift-1.5-Flash-Next-Heretic-ReverseEngineer，4,884 下载，59 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/jackjusko/Swift-1.5-Flash-Next-Heretic-ReverseEngineer",
-      "publishedAt": "2026-11-02T21:12:24+00:00",
-      "tags": [
-        "huggingface",
-        "image-text-to-text",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 4884,
-        "likes": 59
-      }
-    },
-    {
-      "id": "af6485160d09333542b64716cc8059b056bf3a59c2f70f53f1691e762d176474",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "TenEros_Max_optimized_learned：image-text-to-video 模型更新",
-      "summary": "HuggingFace 主流 image-text-to-video 模型 LokkenJP/TenEros_Max_optimized_learned，22,265 下载，51 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/LokkenJP/TenEros_Max_optimized_learned",
-      "publishedAt": "2026-11-02T21:09:16+00:00",
-      "tags": [
-        "huggingface",
-        "image-text-to-video",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 22265,
-        "likes": 51
-      }
-    },
-    {
-      "id": "c7320ce30696513a80119c62db6c9a5eca6b184154a58329088090df404ef801",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "ARKA-v3-Multilingual-Pretrain：model 模型更新",
-      "summary": "HuggingFace 主流 model 模型 Abhayn01/ARKA-v3-Multilingual-Pretrain，1,060 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Abhayn01/ARKA-v3-Multilingual-Pretrain",
-      "publishedAt": "2026-11-02T21:09:15+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1060,
-        "likes": 0
-      }
-    },
-    {
-      "id": "c919e7dc97a76eb011dfd746454d9f4e756fed53142bd524720db988fae532cf",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Mark-SLM-V3-150M：text-generation 模型更新",
-      "summary": "HuggingFace 主流 text-generation 模型 miceworks/Mark-SLM-V3-150M，1,090 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/miceworks/Mark-SLM-V3-150M",
-      "publishedAt": "2026-11-02T21:08:28+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1090,
-        "likes": 0
-      }
-    },
-    {
-      "id": "18f452e4a362dbbb8701598ea76ce98583c10e51537d8871ab50c0212e1598ad",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Web host Squarespace lays off 19% of its employees",
-      "summary": "网站构建商称，此次裁员是公司整体组织重组的一部分。",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-      "publishedAt": "2026-11-02T19:25:59+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "221d2071fcd60230cb240d769f4304262f9393f47bd4313cf798b1acb69c2b70",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted co",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "publishedAt": "2026-11-02T19:19:17+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "5f01bf89ce21eb10a1dbe2ea3a4d7ff42700551873ca3e7418d72f4f809d62f6",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
-      "summary": "Pixel-UMI：提出环境感知重定向（EAR）与延迟校准动作分配，从传感器化人类演示中学习全身体操控策略，解决具身差异与碰撞规避问题。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.03647v1",
-      "publishedAt": "2026-11-02T18:59:32+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whole-body policies from human data. We first introduce Environment-Aware Retargeting (EAR), which combines reconstructed scene geometry with demonstrated head and gripper trajectories to determine robot posture and generate collision-aware joint and base targets. Delay-calibrated action assignment converts these trajectories into actions. However, kinematic differences can leave residual pose errors, creating viewpoint mismatches between human demonstrations and robot observations. We therefore introduce Retargeting-Error-Aware Masking (REAM), which uses these errors during training to reduce reliance on mismatched views at deployment. Finally, because estimated actions cannot fully capture contact-rich interactions, we collect on-policy human corrections through DAgger to improve performance. We evaluate Pixel-UMI on five challenging tasks spanning articulated-object manipulation, deformable-object handling, constrained-space reaching, whole-body collision avoidance, and contact-rich bimanual coordination, achieving 87.0% average task progress. Video results are available at https://pixel-robot.com/pixel-umi"
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Jason Jingzhou Liu, Tony Tao, Deepak Pathak et al.",
-        "categories": [
-          "cs.RO",
-          "cs.AI",
-          "cs.CV",
-          "cs.LG",
-          "eess.SY"
-        ]
-      }
-    },
-    {
-      "id": "e51be4b94601f2aa695dcebb0e1bac4f2f746a1aa83ab2e9ac12d442fb3aa057",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
-      "summary": "Pixel是端到端协同设计的机器人系统，含低成本轮式人形硬件、多模态数据采集接口及统一全身控制框架，旨在提升通用移动操作学习能力。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.03648v1",
-      "publishedAt": "2026-11-02T18:59:32+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these components are often developed independently, creating mismatches that limit the capabilities of the complete system. We present Pixel, a co-designed full-stack system for learning general-purpose mobile manipulation. Pixel combines a low-cost wheeled humanoid with human-aligned kinematics and compliant grippers, multiple teleoperation and robot-free human data-collection interfaces, a unified whole-body controller, and a common policy learning pipeline across human and robot demonstrations. A hierarchical learning stack further enables language-conditioned visuomotor control and long-horizon task execution. We evaluate the system across hardware, data collection, and policy learning, and demonstrate mobile-manipulation behaviors requiring dexterity, active perception, navigation, and whole-body coordination. We hope that Pixel provides an integrated and extensible foundation for studying how robot hardware, data, control, and learning can be designed together for robot learning. More results at https://pixel-robot.com/pixel"
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Tony Tao, Jason Jingzhou Liu, Ruslan Salakhutdinov et al.",
-        "categories": [
-          "cs.RO",
-          "cs.AI",
-          "cs.CV",
-          "cs.LG",
-          "eess.SY"
-        ]
-      }
-    },
-    {
-      "id": "be753b24c65a4901b98d4406aa3f84462a990456a8d63e4f6fe8f482ac4ffe35",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles",
-      "summary": "本文提出神经符号方法，将自然语言谜题转为精确覆盖问题，结合LLM的推理与符号系统的确定性，提升逻辑谜题求解的准确率与可靠性。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.03641v1",
-      "publishedAt": "2026-11-02T18:58:21+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Chain-of-Thought (CoT) generation has substantially improved the performance of Large Language Models (LLMs) on complex reasoning tasks, including code generation, data analysis, and exam-style question answering. Despite these advances, purely neural LLMs continue to struggle with elementary logical reasoning problems and lack the determinism, soundness, and reliability characteristic of symbolic reasoning systems. Conversely, classical symbolic methods such as SAT solving and exact cover guarantee correctness and completeness, but require problems to be expressed in highly specialized formal encodings, limiting their applicability to natural language inputs. In this work, we present a synergistic neuro-symbolic framework that bridges this gap by combining neural semantic parsing with deterministic exact cover reasoning. Given a Zebra-style logic puzzle in natural language, an LLM translates entities and constraints into structured tool calls that construct an exact cover instance. A symbolic solver then computes the solution and provides feedback to iteratively refine invalid, under- or overconstrained encodings, exploiting the uniqueness property of Zebra puzzles. We conduct a comprehensive empirical evaluation across multiple parameter scales, post-training paradigms, and LLM families. The results demonstrate that our hybrid approach consistently outperforms strong plain neural baselines, including CoT prompting, as well as recent neuro-symbolic methods."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Paulius Skaisgiris, Thomas Pammer, Veronika Semmelrock et al.",
-        "categories": [
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "7429eddcac4eb17e6ab28f0da7e192c40c5f3da5fe5ec8ecf54365a2c6127723",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
-      "summary": "WebHarbor构建153个可执行、Docker化的网站环境，高保真还原真实网页界面、内容与功能流程，解决GUI智能体训练与评测中环境不稳定、覆盖不全等问题。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.03634v1",
-      "publishedAt": "2026-11-02T18:57:36+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "GUI web agents require realistic and interactive environments that remain stable during both evaluation and training. Live website evaluation suffers from changing content, access restrictions, and limited coverage of authenticated workflows, while existing synthetic environments for training often lack functional depth and visual fidelity. We propose WebHarbor, a suite of 153 executable and dockerized website environments that faithfully reconstruct the visual interfaces, content, and functional workflows of real-world web services under deterministic control. We build WebHarbor through task-driven human-agent collaboration, where environments evolve as new tasks expand their functional scope, coding agents implement the required changes, and human contributors audit visual fidelity, functional correctness, and task validity. The resulting suite comprises 3,518 tasks spanning multi-step and post-authentication workflows, where existing works often fail to cover. Beyond reliable evaluation, WebHarbor provides high-fidelity synthetic web environments for cost-efficient reinforcement learning (RL). We demonstrate that a Qwen 4B-level GUI agent trained with RL in WebHarbor generalizes to unseen tasks and performs competitively with leading open-source GUI web agents across four benchmarks. The code and data are publicly available at https://github.com/aiming-lab/WebHarbor."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Zhaoyang Wang, Qianhui Wu, Boyu Gou et al.",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "6140052220d49e5c6a82d74c2cf49fc0ffa76b4fe8a0153b3f8ff4d2201a374c",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap",
-      "summary": "研究发现：预训练数据量足够大时，AdamW微调效果反超Muon；且模型越大，AdamW超越Muon所需的预训练token/参数比越小。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.03633v1",
-      "publishedAt": "2026-11-02T18:56:43+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Muon has recently emerged as a promising optimizer for pretraining large language models, offering a speedup over AdamW in minimizing pretraining loss. However, it remains unclear whether Muon's advantage persists after fine-tuning. In this paper, we study the downstream behavior of Muon and AdamW and uncover a surprising trend: beyond a sufficiently large pretraining data budget, AdamW outperforms Muon after fine-tuning. Moreover, as model size increases, AdamW overtakes Muon at progressively smaller pretraining token-parameter ratios. To explain this reversal, we view fine-tuning as a perturbation of the outputs and introduce the margin-to-spread ratio, which measures how far the correct logit lies above the wrong ones relative to how widely the wrong logits are spread. In language models, Muon has the larger margin-to-spread ratio at small data budgets and AdamW at large ones, mirroring the fine-tuning trend. In a linear associative memory, we prove that after one update the margin-to-spread ratio of gradient descent gains on that of Muon as the data budget grows, and simulations show that this trend persists after extended training."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Catherine Li, Jingchu Gai, Andrej Risteski et al.",
-        "categories": [
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "ea5e5f75b34560e2dae64d5ee3739aee4fc1b54a37d12d6fd04816a267747943",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video game",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "publishedAt": "2026-11-02T18:56:02+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "e8d6dbf36a6caf83e7e3f507af5f01ffe5dd85c45bbbcedaa8c8ec45ec5d4a1c",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Not All Reasoning Generalizes: A Case Study on Learning Generalizable Reasoning Strategies in RLVR",
-      "summary": "研究发现，强化学习与可验证奖励（RLVR）在方程求解任务中易出现泛化失败：模型仅记忆特定解，难以推广至更长输出或更多解的OOD场景。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.03627v1",
-      "publishedAt": "2026-11-02T18:53:54+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Reinforcement learning with verifiable rewards (RLVR) can enable generalizable improvement for large language model (LLM) reasoning. This paper studies how to incentivize such generalization via reasoning strategies. We study this question with a controllable equation-solving framework: finding multiple inputs x for equations f(x)=y, where f is a non-bijective string function. This setting makes reasoning strategies observable while supporting a clear definition of easy-to-hard out-of-distribution (OOD) shifts, e.g., more solutions, longer y, etc. We uncover a subtle RLVR failure: it teaches the model to solve in-distribution tasks with high accuracy and structured step-by-step derivation, yet under OOD shifts, the same model abandons derivation and collapses to ineffective brute-force enumeration, causing sharp accuracy drops. This observation reveals the deeper challenges of RLVR generalization as it is neither incapable base model nor reward hacking, since the model succeeds in-distribution with the correct reasoning strategy. The key to mitigating this failure is an indirect intervention that surprisingly helps: co-training with bijective inversion tasks. Although these bijective tasks are actually not uniformly harder and even further from the non-bijective OOD evaluation, they make derivation more certain and substantially restore the correct strategy and accuracy under OOD shifts. This effect further motivates our theoretical analysis: outcome-only RLVR can shape reasoning processes through implicitly crediting the effective reasoning strategies more, even without process supervision. To conclude, our analysis framework and findings systematically reveal the crucial role and incentivization of reasoning strategies in RLVR generalization under OOD shifts. Code is available at https://github.com/ziqipang/rl_meta_thinking."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Ziqi Pang, Yu-Xiong Wang",
-        "categories": [
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "01b33d7a3c82e3534b871209ae06b9492e6bb5949dca0bed466502e72f6ff9f2",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "FADE: Factored Ability--Difficulty Filtering for Online RLVR Scheduling",
-      "summary": "FADE提出难度感知的在线RLVR调度方法，解耦策略能力与提示难度，提升采样效率。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.03625v1",
-      "publishedAt": "2026-11-02T18:53:23+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Group-based reinforcement learning with verifiable rewards (RLVR) learns only from prompts whose sampled completions disagree: all-pass and all-fail groups produce zero relative advantage and burn generation budget without moving the policy. Adaptive schedulers try to steer rollouts toward informative prompts, yet they rely on per-prompt pass-rate trackers that entangle two quantities evolving at very different speeds---the policy's shifting competence across reasoning skills and each prompt's intrinsic difficulty. When a single exponential average or Beta counter tracks both at once, short memory scrambles the relative ordering of prompts whereas long memory reports stale pass rates. We introduce FADE (Factored Ability--Difficulty Estimation), a bilinear state-space filter that separates the two timescales. FADE represents each prompt's success logit as the inner product of a whitened $K$-dimensional skill loading with a fast-drifting policy ability vector, minus a slow-shrinking scalar item intercept. Using Pólya--Gamma augmentation, each minibatch of binary rollout outcomes updates the $K$-dimensional ability posterior in closed form via a rank-$K$ Woodbury step, instantly transferring competence shifts to all unobserved prompts that share those skills while leaving item intercepts stable. From the resulting posterior mean and variance we derive a closed-form utility for the probability of drawing a non-degenerate rollout group. Across five reasoning benchmarks, two base models, and four scheduling paradigms under a matched rollout budget, FADE consistently improves downstream accuracy and calibration while adding less than $0.6$\\,ms per step."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Tomas Duncun, Jonah Ellison, Mateo Ruiz et al.",
-        "categories": [
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "633a91e8df15f100cb10de1ec0b421840ea05656e877068cbf4abc9af8e8ca1e",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Thought-deciphering via hierarchical EEG-to-text alignment",
-      "summary": "研究提出新型无创脑机接口，通过分层EEG-to-text对齐技术，实现低成本、便携式思维解码，为闭锁综合征等患者提供新沟通途径。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.03623v1",
-      "publishedAt": "2026-11-02T18:52:26+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Communication is important for our well-being, but it can be impaired by disabilities, such as locked-in syndrome (LIS), cerebral palsy (CP), and dysarthria. Non-invasive brain-to-text brain-computer interfaces (BCIs) offer a promising solution by providing an alternative communication pathway for people with communication disabilities. However, most recent breakthroughs have relied on large, cumbersome, and costly neuroimaging modalities, such as functional magnetic resonance imaging (fMRI) and magnetoencephalography (MEG). Numerous studies have attempted decoding using the lighter and cheaper electroencephalography (EEG), but the results remain inferior compared to the other modalities. More importantly, we do not understand how these modalities are related to text at the letter, word, sentence, and higher semantic levels. Many prior studies have focused on decoding below the sentence level because it is considerably easier to design an experiment around phonemes, letters, and words. However, during communication, sentences play a much more important role than words and letters. This is because sentences carry information at such a high level that they can be understood even if some words and letters are missing. However, within sentence-level decoding, sentence classification is not as well investigated as sentence generation, making it difficult to decide whether a sentence should be retrieved or generated in the context of EEG-to-text decoding. This paper strives to investigate sentence-level EEG-to-text classification via a novel hierarchical alignment framework, where the main goal is to retrieve a read sentence using its context and EEG as inputs."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Xiaopeng Mao, Morten Mørup, Xin Xu et al.",
-        "categories": [
-          "cs.LG",
-          "eess.SP"
-        ]
-      }
-    },
-    {
-      "id": "f0a5543f58c4d33551f6064100f43d1038c2c5717b971e6ce0d4c5e47ab8967b",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models",
-      "summary": "新研究提出D&A框架，解耦描述与评估，使视觉语言模型（VLMs）可零样本评估机器人任务进度，克服确认偏误与二值化缺陷，无需真实机器人数据微调。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.03622v1",
-      "publishedAt": "2026-11-02T18:52:11+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Vision-Language Models (VLMs) hold promise for zero-shot video task-progress estimation in robot learning, yet existing frameworks frequently suffer from confirmation bias, hallucinating progress in failed executions due to implicit success assumptions or relative temporal ranking designs. Naive prompting of frontier models collapses into a binary success detector that fails to capture nuanced, non-linear progress and failures. While post-training approaches can mitigate this through explicit training, they demand expensive real-world robotics data and require computationally intensive post-training for every individual base model. To resolve these limitations, we introduce D&A (Describe & Assess): our approach decouples progress estimation into an objective, task-grounded textual description of scene dynamics followed by an assessment phase using explicit rubrics. By compelling the VLM to synthesize an explicit, text-based definition of absolute success before scoring, the framework anchors evaluations to an external, global criterion rather than the video's internal timeline. Empirical results demonstrate that our method calibrates zero-shot estimates and mitigates confirmation bias, providing fine-grained, partial progress metrics that accurately penalize failed executions while correctly interpolating successful runs. Being purely prompt-based, D&A generalizes across tasks, embodiments, and benchmarks---matching or surpassing post-trained reward models---and its reward estimates enable efficient downstream reinforcement learning."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Marius Memmel, Shawn Yin, Urvi Rutia et al.",
-        "categories": [
-          "cs.RO",
-          "cs.AI",
-          "cs.CL",
-          "cs.LG",
-          "eess.SY"
-        ]
-      }
-    },
-    {
-      "id": "921adf26bc2144217359485600d04ff5bf2eefd0943bb5cfd62561a7be58ac4c",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Strategist: Evolving Reasoning with Agents",
-      "summary": "Strategist是新型元智能体，可跨任务自动演化推理策略，将策略编为可复用代码蓝图，构建策略库，提升AI代理泛化能力。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.03618v1",
-      "publishedAt": "2026-11-02T18:51:04+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "A model is only half of an AI agent system. The other half is the inference strategy: the reasoning procedure that turns model calls into a response. Today that second half is written by hand, and the experience of building one strategy never carries to the next. We introduce Strategist, a meta-agent that evolves inference strategies across tasks. Each strategy is written as a blueprint,executable code that other strategies can reuse, and together the blueprints form a library. Given a task and a small development set, Strategist retrieves related blueprints, writes candidate strategies, tests them on real samples, and revises them from the results. Every candidate then enters the library, so later tasks build on earlier discoveries. On 30 benchmarks, Strategist beats the strongest baseline on 24 and matches its average accuracy (74.7% vs.74.0%) at 39% lower inference cost. Its strategies also transfer to unseen tasks and other models without further search. The part of an AI system that is not improved on its own now does."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Taiming Lu, Qi Xu, Zhigang Hua et al.",
-        "categories": [
-          "cs.AI",
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "1509549ad9122aa7883932a0a5e620c8853f8226dd50093d688d48b8c9d1eed9",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Tracing the Scientific Discovery Capacity of LLMs to Their Training Data",
-      "summary": "研究揭示LLM科学发现能力源于训练数据中的“单次事实”（monofacts）：材料科学与基因组学实验表明，增加monofact比例可稳定提升模型发现能力。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.03617v1",
-      "publishedAt": "2026-11-02T18:50:54+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Large language models (LLMs) show growing promise for scientific discovery, yet basic questions remain about what enables reliable discovery. How can we trace the scientific discovery capacity of LLMs to their training data? We study this question as one of missing probability mass and develop a theoretical account in which monofacts-the facts observed once during training-set the discovery capacity. In materials science and regulatory genomics, we directly manipulate monofact rates in training sets and find that more monofacts consistently yield more discoveries across two open-weight model families, sampling strategies, and reasoning budgets. Further experiments show the relationship cannot be explained by training-set diversity alone and can transfer across scientific domains when paired with in-domain data. Together, our results identify monofact rate in training data as a key factor governing discoveries in language models."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Arda Uzunoglu, Mahler Revsine, Michael Schatz et al.",
-        "categories": [
-          "cs.CL",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "3eb6261ebb6f12ff1c558bf35f2781508e99ef1bbfd81f8bc2130116693f72ac",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Benchmark Prediction with Sparse and Unpaired Cached Responses",
-      "summary": "论文提出Product Kernel Perspective Space（PKPS），用低维嵌入表示生成模型，解决基准评测中响应稀疏、未配对导致的评估难题。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.03614v1",
-      "publishedAt": "2026-11-02T18:49:33+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Evaluating a generative model on all queries from all available benchmark tasks is prohibitively expensive. As such, models are often evaluated on different subsets of tasks and/or different subsets of queries from a given task. The resulting collection of responses and the corresponding (model, task) score matrix are sparse and unpaired. In this paper, we introduce the Product Kernel Perspective Space (PKPS), a collection of low-dimensional representations of models based on their embedded responses. PKPS generalizes existing methods for representing black-box generative models by comparing responses to similar -- rather than just identical -- queries and is therefore able to utilize sparse and unpaired information. Theoretically, we show that benchmark prediction using PKPS is query-efficient relative to methods that only use information from dense and paired portions of the evaluation data. Empirically, we show that PKPS-based methods outperform baselines on benchmark prediction across two large benchmark suites."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Hayden Helm, Avijit Ghosh, Ben Johnson et al.",
-        "categories": [
-          "cs.LG",
-          "stat.ME",
-          "stat.ML"
-        ]
-      }
-    },
-    {
-      "id": "b32d4bc0a6410398c3c69c3e2bc36b541814f5524486b387b04663e9f6a882d4",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Efficient Closure Learning in Dynamical Systems: A Comparison of Data-Assimilated and Embedded Approaches",
-      "summary": "研究对比数据同化与嵌入式两种数据驱动闭包建模方法，提升动力系统预测效率与精度，解决高成本训练难题。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.03612v1",
-      "publishedAt": "2026-11-02T18:47:40+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Increased computing power has transformed computational science and improved predictive capabilities for complex systems, but many phenomena still exceed current simulation capabilities or require rapid evaluations for fast design iterations. Closure models address this challenge by approximating unresolved effects in reduced or incomplete dynamical systems. Data-driven closures offer a flexible mechanism for improving model accuracy and applicability, but approaches that embed the closure within a computational model for construction and training phases can be computationally expensive and cause numerical instabilities in the computational model during training. To avoid the challenges posed by embedded approaches, staged approaches to closure-model learning have been developed. The first stage uses data assimilation to infer state and closure trajectories from observations. The second stage trains a machine learning closure model offline using the assimilated data, thereby avoiding repeated simulator calls during training. In this work, we investigate the cost and accuracy tradeoffs between embedded and staged data-driven closure modeling approaches for a synthetic epidemiological SIQR model with a nonlinear state-dependent quarantine closure. The results illustrate a practical accuracy-efficiency trade-off: for this exemplar, embedded training provides the strongest average accuracy, while the staged approach yields comparable qualitative behavior with a moderate increase in error, substantially fewer model evaluations, and improved optimization robustness."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Rileigh Bandy, Teresa Portone, Mohammad Khalil et al.",
-        "categories": [
-          "cs.LG",
-          "math.DS",
-          "stat.ML"
-        ]
-      }
-    },
-    {
-      "id": "ec4c23b08ee55a1a2b5c02d5f622671f8a015f514b9097d5307cdd94f9a07cbb",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "ufakzeka-kulak: Building and Evaluating a 31.6M-Parameter Turkish Speech Recognizer from Scratch",
-      "summary": "开源土耳其语音识别模型ufakzeka-kulak，31.6M参数，基于FastConformer+TDT/CTC，训练数据4977小时（281小时人工转录），Apache-2.0许可。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.03605v1",
-      "publishedAt": "2026-11-02T18:42:32+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "ufakzeka-kulak is an open Turkish speech-to-text model of 31.6M parameters, a FastConformer encoder with a token-and-duration transducer (TDT) and a CTC head, trained from scratch and released under Apache-2.0. It writes cased, punctuated Turkish with numbers as words. Its 4,977 training hours come from sources whose licences allow commercial use; 281 hours are human-transcribed, and for the other 4,696 the training text is an uploader subtitle or a machine transcript, kept only where a second, independent reading of the audio agrees with it. The recipe, checkpoint, labelling and export choices were made on development data, and the test sets were scored once, in a release gate fixed before training. With greedy TDT decoding the normalised word error rate (WER) is 0.0921 (95 percent interval 0.0792 to 0.1055) on FLEURS Turkish test and 0.0916 (0.0873 to 0.0958) on Common Voice 27.0 Turkish test, lower than Whisper base and Whisper small on both sets with paired intervals wholly below zero; Whisper large-v3 (greedy) scores 0.0604 and 0.0767. On conversational speech the WER is 0.3807. We also report punctuation and casing, degraded audio, and how closely each shipped export reproduces the trained model."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Sait Furkan Teke",
-        "categories": [
-          "cs.CL",
-          "eess.AS"
-        ]
-      }
-    },
-    {
-      "id": "79b9ad858e9ee8e0b3752c0a09f4cebf97109089374e2561df729a86c8de4b7c",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "DiabAgent: Toward Agentic Physiological Control",
-      "summary": "研究提出DiabAgent框架，首次系统量化评估大模型在1型糖尿病生理控制中的干预能力，涵盖餐食、运动、疾病及血糖等多因素动态调节。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.03601v1",
-      "publishedAt": "2026-11-02T18:41:02+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "As pretraining scales, medical language models have advanced rapidly in clinical question answering. Their ability to achieve effective physiological control through sustained intervention still lacks systematic quantitative evaluation. Type 1 diabetes provides a concrete setting: impaired insulin secretion creates dependence on exogenous insulin, with dosing continually adjusted using information about meals, exercise, illness, and glucose measurements. We introduce DiabAgent, a research suite for agentic physiological control comprising the Agentic Physiological Control (APC) framework, the DiabetSim simulator, and the SweetBench benchmark. APC controls glucose through medical-device tools, using ongoing observations to infer individual states, accumulate personal experience, and choose treatment actions. We build DiabetSim to simulate different patients, events, and device conditions for scalable virtual testing and training. Using DiabetSim, we construct SweetBench by instantiating 32 scenario designs as 212 glucose-control tasks. With Claude Opus 5.5 and a fixed decision interval of one hour, APC achieves a COGI of 73.5, compared with 71.2 for the open-source closed-loop baseline OpenAPS. Ablations further show that individual adaptation and contextual information improve glucose control. Combining high-frequency rule-based control with lower-frequency agent decisions shows potential for balancing control performance and computational cost. Our work provides a framework, simulator, and evaluation foundation for agents to participate in human physiological control."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Chengxi Li, Shaoxuan Li, Deyao Hong et al.",
-        "categories": [
-          "cs.AI",
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "8c5ef230f70900284b94f557317c7d097427245e14216f30ec5ccf7bf8e5f760",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-      "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-      "publishedAt": "2026-11-02T18:32:21+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "6a2d1ff7b85e9fb1ca9fa0b6fa40081b1d4b278f80d715d30b6e5f6bdce0cb63",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-      "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-      "publishedAt": "2026-11-02T18:05:31+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "7e05709ff86213e6193ab5b5b6a9892c6db4cae58c4c704be271892743661db7",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effi",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "publishedAt": "2026-11-02T18:01:30+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "78ab1225fa7b68b99f03349fea74c7420d8d509c60a02af5dd4a92aac9ccb6dd",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web br",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "publishedAt": "2026-11-02T17:51:19+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "9f739139984b5ddd0de369ff4fb1d04a705752071af75d6234fd42d7eb315750",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "publishedAt": "2026-11-02T16:30:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "fcaddf34ae024024f8224ddb9ee2fa5c2f5a50d2260f65f6f92d0d53f3a4885d",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-      "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-      "publishedAt": "2026-11-02T16:23:21+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "146e8472492707219b0ccacadfc7e5bea6cca0c723321a07c0263d493718dae7",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "publishedAt": "2026-11-02T15:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "0ccd39326a9e2fdc25693822ea7694b5e9e5dc695585508d33c5b409e44c2069",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-      "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save u",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-      "publishedAt": "2026-11-02T14:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "0043baf2cbb60a2e6b6b0fae233bdaba592fea88787bc86ae29af67fa1d61256",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-      "publishedAt": "2026-11-02T13:57:53+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "330d8b7bdd1e7f9d5007f747abb594fabcd46b7aeefcaffe70ca25cef8998974",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
-      "summary": "商汤SenseNova 6.8 Flash",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/507277.html",
-      "publishedAt": "2026-11-02T13:36:41+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "6ee8831402ab82323750564a73f153e90bfe8359f25cdd112110713a55c50d83",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信",
-      "summary": "上海仪电与上海创智学院联合发布“飞轮转・万象生”仪电智算数链生态。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/507260.html",
-      "publishedAt": "2026-11-02T07:47:38+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
       ],
       "body": [],
       "points": [],
