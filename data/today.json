@@ -1,9 +1,360 @@
 {
-  "generated_at": "2026-11-11T19:08:19.124905+00:00",
-  "date": "2026-11-11",
+  "generated_at": "2026-11-12T08:01:29.821413+00:00",
+  "date": "2026-11-12",
   "keep_days": 7,
-  "count": 298,
+  "count": 289,
   "items": [
+    {
+      "id": "aa3ea6bf3c793efdc70404396132739ec0da6d57dd8a71d978e06af39bdfe6e5",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "FastBrain-9B：text-generation 模型更新",
+      "summary": "HuggingFace 主流 text-generation 模型 TypeScript/FastBrain-9B，5,649 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/TypeScript/FastBrain-9B",
+      "publishedAt": "2026-11-12T07:59:38+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 5649,
+        "likes": 0
+      }
+    },
+    {
+      "id": "16bc2bb7f173265d75c641131457c21f1c9ef9a01322d8e1ad771d0941c36c7e",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Minico-M1-1105-LocalAI：model 模型更新",
+      "summary": "HuggingFace 主流 model 模型 weareapexcreators/Minico-M1-1105-LocalAI，4,953 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/weareapexcreators/Minico-M1-1105-LocalAI",
+      "publishedAt": "2026-11-12T07:58:44+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 4953,
+        "likes": 0
+      }
+    },
+    {
+      "id": "eb86d493e33e2a459609150432fff62a76da4dffe36cd7325a373d5ee2a3e29e",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Drama-3-ComfyUI：text-to-speech 模型更新",
+      "summary": "HuggingFace 主流 text-to-speech 模型 PedroMarinhoDev/Drama-3-ComfyUI，0 下载，42 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/PedroMarinhoDev/Drama-3-ComfyUI",
+      "publishedAt": "2026-11-12T07:56:30+00:00",
+      "tags": [
+        "huggingface",
+        "text-to-speech",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 42
+      }
+    },
+    {
+      "id": "839d869f0d2ab298eea5d5321d313eed679d80bc63f35e9470c123636c2402c2",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "BirdTrace-FastViT-MA36-10K：image-classification 模型更新",
+      "summary": "HuggingFace 主流 image-classification 模型 warden123/BirdTrace-FastViT-MA36-10K，9,078 下载，1 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/warden123/BirdTrace-FastViT-MA36-10K",
+      "publishedAt": "2026-11-12T07:54:43+00:00",
+      "tags": [
+        "huggingface",
+        "image-classification",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 9078,
+        "likes": 1
+      }
+    },
+    {
+      "id": "3ad1a431461e4616946be47fe8462889c521e5cf42cb9c2997627eb5d2242679",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "typhoon-ocr2-2b：image-text-to-text 模型更新",
+      "summary": "HuggingFace 主流 image-text-to-text 模型 typhoon-ai/typhoon-ocr2-2b，702 下载，13 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/typhoon-ai/typhoon-ocr2-2b",
+      "publishedAt": "2026-11-12T07:51:50+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 702,
+        "likes": 13
+      }
+    },
+    {
+      "id": "83d3f12097255368e5c599a4a6d393af0e7991cb69ba61d053652ecc8afc7bcb",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Nanbeige4.3-33B-NVFP4-GGUF：text-generation 模型更新",
+      "summary": "HuggingFace 主流 text-generation 模型 esatapedico/Nanbeige4.3-33B-NVFP4-GGUF，1,845 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/esatapedico/Nanbeige4.3-33B-NVFP4-GGUF",
+      "publishedAt": "2026-11-12T07:50:46+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1845,
+        "likes": 0
+      }
+    },
+    {
+      "id": "7bb33f7052a2435a97272eb90a2bffcb0971b1bb4eb168d2e41d065cab26858f",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "DeepSeek-R1-0528-Qwen3-8B-MNN：text-generation 模型更新",
+      "summary": "HuggingFace 主流 text-generation 模型 taobao-mnn/DeepSeek-R1-0528-Qwen3-8B-MNN，1,102 下载，1 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/taobao-mnn/DeepSeek-R1-0528-Qwen3-8B-MNN",
+      "publishedAt": "2026-11-12T07:44:44+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1102,
+        "likes": 1
+      }
+    },
+    {
+      "id": "9c6c6476b226757c0182e8766d3467c77d1bd08eb3b37b3745b5b47c66dede89",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "publishedAt": "2026-11-12T03:13:10+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "5d1f59d05360d0c9df95919f778bd43a884f300a708370e83881870f636f6e82",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI inf",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "publishedAt": "2026-11-11T23:50:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "6797a6ae8a18f90a9de13fa898c0f382345c0b0a1290ce64fc9fdc61dc66e107",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "publishedAt": "2026-11-11T23:28:45+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "4465dc73f09cb39398bff9a807568d72e64eb1313b15ba807cf02e51653997bc",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence ag",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "publishedAt": "2026-11-11T23:17:05+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "d897e9969ec78df2a6cde8984d24f3fde6845ab7e2710e5597df3275c93f66ac",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second allege",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "publishedAt": "2026-11-11T22:44:36+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "43d7ef22b9692e704f746542fa044ae47d8edca7623b8e69f38fb44ef9066ceb",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "United won’t let your AI agent book your flight",
+      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "publishedAt": "2026-11-11T21:54:21+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "a8e1d388ded0aff69160f30fafa115b8990bb2fc4f27a107e134bd37584e601f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Why the data center you dread might never even be built",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delay",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "publishedAt": "2026-11-11T20:15:15+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "09a894b1c1045e0884dad7843be59cfbba826f1967f515ef32a8bef243c8aa4d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Meta is losing its longtime head of  infrastructure",
+      "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "publishedAt": "2026-11-11T20:12:01+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "3e3d3f289f2b48fd018c64fdac5791cf84b8a31d3d5dbc7066f68606b547db16",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delay",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+      "publishedAt": "2026-11-11T20:02:14+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "8ad29bca25fdc3253d11a0bdd06cc3a373e4f44ef5878c0524258c1fa967a6d6",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to sh",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "publishedAt": "2026-11-11T19:54:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "2bf41cb6b25bd57cdaad304106ecb3178157a5f92ff15ba5f1b39207f3f1d8a0",
       "module": "ai",
@@ -5818,520 +6169,6 @@
       "tags": [
         "ai-news",
         "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c279fe8f3cae97db28c51c9c9b090e44c859da1a1fee0ea73e621378ffb6c0b4",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "comfy-MiniMax-H3-workflows：image-to-video 模型更新",
-      "summary": "HuggingFace 主流 image-to-video 模型 javawock7618/comfy-MiniMax-H3-workflows，0 下载，158 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/javawock7618/comfy-MiniMax-H3-workflows",
-      "publishedAt": "2026-11-05T07:46:16+00:00",
-      "tags": [
-        "huggingface",
-        "image-to-video",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 158
-      }
-    },
-    {
-      "id": "1d9348f06332ee57a6f2e566262e5a73a5388ff0fe02d3b378220760ddc6fd5a",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "logicer-ggufs-public：model 模型更新",
-      "summary": "HuggingFace 主流 model 模型 batuhan-elibuyuk/logicer-ggufs-public，2,491 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/batuhan-elibuyuk/logicer-ggufs-public",
-      "publishedAt": "2026-11-05T07:45:12+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 2491,
-        "likes": 0
-      }
-    },
-    {
-      "id": "5b4255b1cfebf7589ca1b6ad5b3ff9874d7a2859dbdc1d7f35a347dd44e0bf59",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Spark-X2.6-4B-abliterated-GGUF：text-generation 模型更新",
-      "summary": "HuggingFace 主流 text-generation 模型 FrostWolfAI/Spark-X2.6-4B-abliterated-GGUF，3,518 下载，12 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/FrostWolfAI/Spark-X2.6-4B-abliterated-GGUF",
-      "publishedAt": "2026-11-05T07:41:19+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 3518,
-        "likes": 12
-      }
-    },
-    {
-      "id": "53287ac05afdf27d87dc5e8712dab2f3ec7d0b85b5d9b4fe3863c65338ca78cb",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Frost-Cyber-Mini-1.0：text-generation 模型更新",
-      "summary": "HuggingFace 主流 text-generation 模型 FrostWolfAI/Frost-Cyber-Mini-1.0，87 下载，11 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/FrostWolfAI/Frost-Cyber-Mini-1.0",
-      "publishedAt": "2026-11-05T07:41:06+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 87,
-        "likes": 11
-      }
-    },
-    {
-      "id": "ac291fdb4f0bde49e27b8a3ae12d6f7396d96f7d7ed04b3e1fb8dcb42ab5b80c",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "greko：image-text-to-text 模型更新",
-      "summary": "HuggingFace 主流 image-text-to-text 模型 geolazagr/greko，5,784 下载，2 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/geolazagr/greko",
-      "publishedAt": "2026-11-05T07:36:56+00:00",
-      "tags": [
-        "huggingface",
-        "image-text-to-text",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 5784,
-        "likes": 2
-      }
-    },
-    {
-      "id": "02c54e6fd2b2aec8e8939f926dab08027f492ad0c13712c025293ea5b2561883",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
-      "summary": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/507787.html",
-      "publishedAt": "2026-11-05T07:15:13+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a74e79bd3ae5edde394736ae27eaf6134dedea23c8b527fb123701dd08c46684",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
-      "summary": "spaCy作者长文炮轰",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/507782.html",
-      "publishedAt": "2026-11-05T07:10:56+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "83920740e8b10fd0478b4cfd8e2e5f546ac4402fa0ebb0b9e2deeaf18f507ee2",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
-      "summary": "像雇人一样雇机器人",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/507767.html",
-      "publishedAt": "2026-11-05T05:25:37+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "0ed46ff1c133cbff991669d30894bf5ff11b8edec05d2d20303f58714b359878",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
-      "summary": "Data + AI 技术实践巡展 · 上海站",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/507696.html",
-      "publishedAt": "2026-11-05T02:01:51+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "23e9d32f6c232eacb9ac2afa256042f22d57e1326602329bf6f52a95b347ec3b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
-      "summary": "最快6秒出图",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/507707.html",
-      "publishedAt": "2026-11-05T01:59:37+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "7cc4cd11b51f8da6c0ea22be536b9415b2a13f3ea86c6bcf8612149af4dd3e66",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
-      "summary": "被轰成筛子了…",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/507697.html",
-      "publishedAt": "2026-11-05T01:54:44+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "70352ea41ad4c9b857747f5a43fcd0669799290c106f427e80422fae3143a6c2",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
-      "summary": "11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/507688.html",
-      "publishedAt": "2026-11-05T01:42:43+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "481a92c84c18e9b64c3338e69349590f42449f6ed0e2acfb3b976ec3dab78ad0",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-      "publishedAt": "2026-11-05T01:26:22+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "e1c6a4c97690d982e20387c02cba5c343addb2810d7f5bd65232659034d09af6",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "After the midterms, a bigger clash over data centers could be coming",
-      "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-      "publishedAt": "2026-11-05T01:02:14+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "47f1ce865220469de4844ed89b476446c94ef6d4c284e5cc745e0268cc9bb76c",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
-      "summary": "薪资+期权不限！实习生也能训核心模型",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/507675.html",
-      "publishedAt": "2026-11-05T00:41:34+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "9bddd7d168703f3c3835f2250ef9785e5ec5183cec6292c8bbfd86ff77d02abf",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/phonon-tts",
-      "publishedAt": "2026-11-05T00:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ad3ccf591336016b623822ba541b9d34da1bd2a46fe7dfb43af6c0e16c6d9ca4",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "publishedAt": "2026-11-04T22:45:09+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "80faa2ef7efdaa8bac2f1c3db8580b9d068c16a4661c5e0e6aa31727696c50cc",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-      "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost i",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-      "publishedAt": "2026-11-04T22:42:15+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "624e665f7036297876bb8ca077929d5a46b8d8624d9385f2b4e6c70861d45c80",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is de",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-      "publishedAt": "2026-11-04T22:13:16+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4d55a9a82e4d0450b22343598b50fe7c0a5a9132beb8f82755ae506778543236",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "publishedAt": "2026-11-04T21:56:01+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c252449cf0edbc794fb46757996efe5b2f883a589ac802192e3256536762527e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "17 better ways Elon Musk could have wasted $446 million",
-      "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-      "publishedAt": "2026-11-04T21:45:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "bb62f399989f064877a8d5d509f8b41400ce02e21675a329311ac02c5ac5eee1",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-      "publishedAt": "2026-11-04T21:25:44+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d613261ade1c45917c2d382c2eff50b19dbb731dc7e25d4eeee7f66c5bee4bc4",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta acquires AI coding startup Conductor",
-      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "publishedAt": "2026-11-04T21:10:56+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "58cf67332da418e860e8eb508968607f5a378301cfcbe674898dfdc6ce300e3e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
-      "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
-      "publishedAt": "2026-11-04T20:55:50+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "60165461930f0e7ed6283816606bd0cb3759a216b9ef1760dd56f426c92fa0b3",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
-      "summary": "AT&#38;T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-      "publishedAt": "2026-11-04T20:23:24+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4217a1bd24789f780bf4f171c1d0c8be3c05c02e8e9275e8def83b4424d78aee",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lo",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-      "publishedAt": "2026-11-04T19:30:04+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
       ],
       "body": [],
       "points": [],
