@@ -1,9 +1,150 @@
 {
-  "generated_at": "2026-11-13T19:04:24.350526+00:00",
-  "date": "2026-11-13",
+  "generated_at": "2026-11-14T07:26:16.647565+00:00",
+  "date": "2026-11-14",
   "keep_days": 7,
-  "count": 268,
+  "count": 263,
   "items": [
+    {
+      "id": "11c16d111d892e71857e02c977f87e7d1d1d48fa3e367534c2a6febd9a48e1f5",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "tif1-lfm3-runs：model 模型更新",
+      "summary": "HuggingFace 主流 model 模型 tracinginsights/tif1-lfm3-runs，1,515 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/tracinginsights/tif1-lfm3-runs",
+      "publishedAt": "2026-11-14T07:22:42+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1515,
+        "likes": 0
+      }
+    },
+    {
+      "id": "ad5d4aecbc6fd9d41773a2e2c94c45f8ef2763de8df96a048bea81055913406a",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "al-rasheed-ai：model 模型更新",
+      "summary": "HuggingFace 主流 model 模型 alpha-coder-great/al-rasheed-ai，1,421 下载，2 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/alpha-coder-great/al-rasheed-ai",
+      "publishedAt": "2026-11-14T07:11:13+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1421,
+        "likes": 2
+      }
+    },
+    {
+      "id": "656a737b7e6fa750370e3c55c996b4d9aa2f4d57901f6fabf3233e7cd2338635",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't s",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "publishedAt": "2026-11-13T23:49:11+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b3b2ea4d3dba512d2e532703625c7d196ac9747878e8e45df57700759860333c",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for s",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "publishedAt": "2026-11-13T22:43:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "f6331025ae4b4e81fbee5cbfed78bbceeb3d729f5f290cbd4697a7ad38c65be5",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "publishedAt": "2026-11-13T21:20:47+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "eaf7f8eeb54e1e38a52dc43fe571c23b82ac01c662c383e4fec04068b5093b8d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wall",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "publishedAt": "2026-11-13T20:45:10+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "38b59248897b2bcb15b03723aea69dc77da264ac24bdc759337dc114f830323d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "publishedAt": "2026-11-13T19:37:57+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "d7dff350cd007801dc9a61a48affde7ae47efe931dfe8d22a7e62b71f4a8ae90",
       "module": "ai",
@@ -33,6 +174,25 @@
       "seg": null,
       "cat": "行业动态",
       "title": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "publishedAt": "2026-11-13T18:40:30+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "5932d07f8e49677cc6b6f9135019d0536d7fcb8607cbbaf8544cab19a0ae0950",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
       "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
@@ -5342,273 +5502,6 @@
       "tags": [
         "ai-news",
         "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "cde649f0163fbd10ebcb5bf68ef4d59a4b841feefc93bb7624cfb3c6efd54f79",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Whittle-Qwen-3.8-35B-A3B-i1-GGUF：text-generation 模型更新",
-      "summary": "HuggingFace 主流 text-generation 模型 mradermacher/Whittle-Qwen-3.8-35B-A3B-i1-GGUF，1,191 下载，1 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/mradermacher/Whittle-Qwen-3.8-35B-A3B-i1-GGUF",
-      "publishedAt": "2026-11-07T06:30:06+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1191,
-        "likes": 1
-      }
-    },
-    {
-      "id": "d4bca6fd62be587e0b0f85731a2a56c1453877fce781db7578481e78b68ab064",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
-      "summary": "苦单Session久矣，两大Agent玩家不谋而合。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/508264.html",
-      "publishedAt": "2026-11-07T05:01:17+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "1dd0fab42c4ed0376bade746f01207455a80697a07d5e3e1ae629c88accea1ee",
-      "module": "ai",
-      "seg": null,
-      "cat": "厂商动态·阿里通义千问",
-      "title": "阿里通义千问 发布/更新 Qwen3.8-2.4T-A95B-FP8（text-generation）",
-      "summary": "阿里通义千问（HF 作者 Qwen）发布/更新模型 Qwen/Qwen3.8-2.4T-A95B-FP8，9,297 下载，261 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
-      "publishedAt": "2026-11-07T04:46:52+00:00",
-      "tags": [
-        "huggingface",
-        "vendor",
-        "Qwen"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 9297,
-        "likes": 261,
-        "vendor": "阿里通义千问"
-      }
-    },
-    {
-      "id": "0ca9ff9d61ad50eb8d9687dda46cebeba4262bf3304bc712f2b30a06e43cb8c9",
-      "module": "ai",
-      "seg": null,
-      "cat": "厂商动态·阿里通义千问",
-      "title": "阿里通义千问 发布/更新 Qwen3.8-2.4T-A95B（text-generation）",
-      "summary": "阿里通义千问（HF 作者 Qwen）发布/更新模型 Qwen/Qwen3.8-2.4T-A95B，26,618 下载，1374 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "publishedAt": "2026-11-07T04:46:47+00:00",
-      "tags": [
-        "huggingface",
-        "vendor",
-        "Qwen"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 26618,
-        "likes": 1374,
-        "vendor": "阿里通义千问"
-      }
-    },
-    {
-      "id": "f6d926ce7580a1eff27df17a69e0e9bdbb8f2691736547783a38e38ad1550afc",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "AGENTS.MD，危险危险危险！！！",
-      "summary": "全新的电脑病毒",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/508244.html",
-      "publishedAt": "2026-11-07T03:43:55+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "8f268c385ba45a207a7bc607036724dd196eb9cbcddd417b4c2a563b5cc55e1a",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
-      "summary": "中国版cosmos再交卷",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/508236.html",
-      "publishedAt": "2026-11-07T03:31:44+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "e74bb42470bc6c389e1c9fcd7b8b7d16776942d1ccb8343eb25e1d1c9f6e3020",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
-      "summary": "RSI不可能无限快",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/508196.html",
-      "publishedAt": "2026-11-07T03:23:29+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "6f70e18078be15b59818639e0f4c3d48f90e31c8ef8e229760cc0f38c3de126f",
-      "module": "lol",
-      "seg": "match",
-      "cat": "比赛",
-      "title": "老张看完T1比赛之后，小夏要走了老张还想邀请小夏一起复盘，小夏直接拒绝了",
-      "summary": "UP主 全网最快第一切片 · 9,680播放 · 4:31",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117572716467673",
-      "publishedAt": "2026-11-07T02:12:18+00:00",
-      "tags": [
-        "lol",
-        "match",
-        "英雄联盟 LPL LCK 比赛 集锦 复盘"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "全网最快第一切片",
-        "play": 9680,
-        "bvid": "BV19o4763EM4",
-        "duration": "4:31"
-      }
-    },
-    {
-      "id": "4da76eee555e7588d00ea6d4a81191e86f880e9bf1b92bc1080b83a040b051f2",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "summary": "The deal highlights the challenges of developing massive AI data centers.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "publishedAt": "2026-11-07T01:40:28+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "93e78c5302638e3f9e60c706e1f5f5fe2c6086a0f97f44d8db9a21cf98b5504c",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloom",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "publishedAt": "2026-11-06T23:46:18+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f04c016c8fdfdba4e45e9e96bcfdfe260379c9261b147f80458b63d4dbd86889",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-      "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to Th",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-      "publishedAt": "2026-11-06T23:00:44+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "739ab4508c6659914f997651a40471d5bc2493a2a31daf60b77ee72b31232d24",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "publishedAt": "2026-11-06T22:53:46+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "7d82234ef014965fbf55e55677762bc8bf24fdeab36f667ca13f8c38fb0d684f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "All the latest updates on AI data centers",
-      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "publishedAt": "2026-11-06T20:02:22+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
       ],
       "body": [],
       "points": [],
