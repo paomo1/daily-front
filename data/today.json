@@ -1,9 +1,53 @@
 {
-  "generated_at": "2026-11-15T07:38:20.924186+00:00",
+  "generated_at": "2026-11-15T18:22:59.404361+00:00",
   "date": "2026-11-15",
   "keep_days": 7,
-  "count": 263,
+  "count": 262,
   "items": [
+    {
+      "id": "f856f6e2f90b64da8733036ff6c021d34d8d76c538cefd3226edbf9999cc159b",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "An overview of Jensen Huang’s messy days",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huan",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "publishedAt": "2026-11-15T13:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "5c4bb6119a1df18f5e7ef9df786fcf9b10e20ca2067218bd81ce40a5db7fc739",
+      "module": "lol",
+      "seg": "match",
+      "cat": "比赛",
+      "title": "【复盘】含金量拉满！BLG如何战胜GEN一穿四LCK夺冠！BLG VS GEN",
+      "summary": "UP主 徐桑 · 137,880播放 · 9:50",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117619977887155",
+      "publishedAt": "2026-11-15T10:46:47+00:00",
+      "tags": [
+        "lol",
+        "match",
+        "英雄联盟 LPL LCK 比赛 集锦 复盘"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "徐桑",
+        "play": 137880,
+        "bvid": "BV126sp66EDQ",
+        "duration": "9:50"
+      }
+    },
     {
       "id": "181313e6278bb89482cc07e1bf4cacd180796b6b3f9650def0d11363c92f7bf3",
       "module": "ai",
@@ -5430,73 +5474,6 @@
       "points": [],
       "live": false,
       "extra": {}
-    },
-    {
-      "id": "8a59fc8a1f79db52468861ef2f9a17ed6b622079da8f23e0323e76e308d3cdc4",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Elvis and Eminem rights holders are suing Suno",
-      "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of som",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-      "publishedAt": "2026-11-08T17:23:19+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "af5b25730910a3d1d6537d4c7e5d77875bb5c7a3e925c293c78bd68c5e1d4997",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "LFM3-Omni-2B-abliterated：any-to-any 模型更新",
-      "summary": "HuggingFace 主流 any-to-any 模型 JonusNattapong/LFM3-Omni-2B-abliterated，1,364 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/JonusNattapong/LFM3-Omni-2B-abliterated",
-      "publishedAt": "2026-11-08T17:11:17+00:00",
-      "tags": [
-        "huggingface",
-        "any-to-any",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1364,
-        "likes": 0
-      }
-    },
-    {
-      "id": "42eea2dd560be4023b66f051e3fbde16914828ac0dfa2b147b4ee6f5e74def2a",
-      "module": "lol",
-      "seg": "match",
-      "cat": "比赛",
-      "title": "BLG T1 半决赛前瞻,再做两回英雄吧BLG LPL需要你们再站出来四杀LCK",
-      "summary": "UP主 小奇迹Miracle7 · 3,707播放 · 7:22",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117579830070103",
-      "publishedAt": "2026-11-08T08:20:14+00:00",
-      "tags": [
-        "lol",
-        "match",
-        "英雄联盟 LPL LCK 比赛 集锦 复盘"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "小奇迹Miracle7",
-        "play": 3707,
-        "bvid": "BV19KW76vECr",
-        "duration": "7:22"
-      }
     }
   ]
 }
