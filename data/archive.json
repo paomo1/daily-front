@@ -91856,5 +91856,66 @@
       "downloads": 1197,
       "likes": 5
     }
+  },
+  "4366e55ede9fbcf5e7913d6e7f86d849263a46a31415e5aca0afa74a230b1277": {
+    "id": "4366e55ede9fbcf5e7913d6e7f86d849263a46a31415e5aca0afa74a230b1277",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Where was Nvidia’s security team?",
+    "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, i",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "publishedAt": "2026-11-15T00:08:07+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "b3bd259723c8d2890471d42878cf813e9747a4fe80618aca70005e1817065711": {
+    "id": "b3bd259723c8d2890471d42878cf813e9747a4fe80618aca70005e1817065711",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+    "source": "TechCrunch",
+    "sourceUrl": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "publishedAt": "2026-11-14T21:41:22+00:00",
+    "tags": [
+      "ai-news",
+      "TechCrunch"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "181313e6278bb89482cc07e1bf4cacd180796b6b3f9650def0d11363c92f7bf3": {
+    "id": "181313e6278bb89482cc07e1bf4cacd180796b6b3f9650def0d11363c92f7bf3",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "MatterSeek-New-Materials-Reverse-Design：text-generation 模型更新",
+    "summary": "HuggingFace 主流 text-generation 模型 YuyaoTechnology/MatterSeek-New-Materials-Reverse-Design，0 下载，2920 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/YuyaoTechnology/MatterSeek-New-Materials-Reverse-Design",
+    "publishedAt": "2026-11-15T07:32:49+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 0,
+      "likes": 2920
+    }
   }
 }

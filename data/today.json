@@ -1,9 +1,70 @@
 {
-  "generated_at": "2026-11-14T17:34:11.537827+00:00",
-  "date": "2026-11-14",
+  "generated_at": "2026-11-15T07:38:20.924186+00:00",
+  "date": "2026-11-15",
   "keep_days": 7,
   "count": 263,
   "items": [
+    {
+      "id": "181313e6278bb89482cc07e1bf4cacd180796b6b3f9650def0d11363c92f7bf3",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MatterSeek-New-Materials-Reverse-Design：text-generation 模型更新",
+      "summary": "HuggingFace 主流 text-generation 模型 YuyaoTechnology/MatterSeek-New-Materials-Reverse-Design，0 下载，2920 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/YuyaoTechnology/MatterSeek-New-Materials-Reverse-Design",
+      "publishedAt": "2026-11-15T07:32:49+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 0,
+        "likes": 2920
+      }
+    },
+    {
+      "id": "4366e55ede9fbcf5e7913d6e7f86d849263a46a31415e5aca0afa74a230b1277",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Where was Nvidia’s security team?",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, i",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "publishedAt": "2026-11-15T00:08:07+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b3bd259723c8d2890471d42878cf813e9747a4fe80618aca70005e1817065711",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "publishedAt": "2026-11-14T21:41:22+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "a7bf4cc78a30c72c08becef31cf55656bf0a5464a2eb970cd039af80d9a1c051",
       "module": "ai",
@@ -5436,63 +5497,6 @@
         "bvid": "BV19KW76vECr",
         "duration": "7:22"
       }
-    },
-    {
-      "id": "275c467c16ea7015538080753a1c2f3f5cfe4dbbeecb737a389c3ada33dfb033",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "资本正在撤离“世界模型”",
-      "summary": "没有永远的夏天",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/508466.html",
-      "publishedAt": "2026-11-08T04:09:55+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "03e2f309618c09a6742d3c0a841e03da68def61fb981fd7f1bd950fffbdab727",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "publishedAt": "2026-11-07T22:07:22+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "487ab89222611a6008d2554ad6b17695752cf3abdc04ebfee580bc7e484aa288",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female techno",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "publishedAt": "2026-11-07T21:17:08+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
   ]
 }
