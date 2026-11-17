@@ -1,9 +1,384 @@
 {
-  "generated_at": "2026-11-17T08:52:50.531592+00:00",
+  "generated_at": "2026-11-17T20:21:35.897362+00:00",
   "date": "2026-11-17",
   "keep_days": 7,
-  "count": 268,
+  "count": 253,
   "items": [
+    {
+      "id": "9819e1bda5526676d3ae33a7a92296688f1b50212a7b27141c4dbf72d15ac24e",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3.5-9B-M：text-generation 模型更新",
+      "summary": "HuggingFace 主流 text-generation 模型 trymirai/Qwen3.5-9B-M，1,034 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/trymirai/Qwen3.5-9B-M",
+      "publishedAt": "2026-11-17T20:20:33+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1034,
+        "likes": 0
+      }
+    },
+    {
+      "id": "b0874d47f44ad1fb0c95d4799df98fd41eada228cce84faca0c7108fa95e93bc",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "afd-baseline-checkpoints：text-to-video 模型更新",
+      "summary": "HuggingFace 主流 text-to-video 模型 yang29/afd-baseline-checkpoints，3,946 下载，1 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/yang29/afd-baseline-checkpoints",
+      "publishedAt": "2026-11-17T20:14:10+00:00",
+      "tags": [
+        "huggingface",
+        "text-to-video",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 3946,
+        "likes": 1
+      }
+    },
+    {
+      "id": "a4de93e12b774c0e3a13c5d5bd8193b6aa4d844bde1466dc9fae1ccb9d1abc26",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can aut",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "publishedAt": "2026-11-17T19:32:11+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "1df1a9b23274b803f191e14588b24499361603282707b782e27232a1e3e18696",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "publishedAt": "2026-11-17T19:02:20+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "a52d4b38dd5449ef32ef07f40e134a29e92819ea86f1a81e8ce05db5187dd6ab",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "publishedAt": "2026-11-17T18:58:01+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "7a5cfd6babdede70b0bf4d3262c308d7b724ad3ac33b96c12697f95ce7786be5",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "publishedAt": "2026-11-17T18:48:23+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "8cf02497f416ae55c9bf06d3b6776c45110af9d434c0cda3a6e61da2b233d676",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "As decision model use skyrockets, is customization the next frontier?",
+      "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+      "publishedAt": "2026-11-17T18:10:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "3ab94eb7f1fed7a6d7560d7037807876e42a489eb945fb5cdbcddc43a0d637c6",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "publishedAt": "2026-11-17T18:04:16+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b1438fe307bf239db8734746afde3954ace9b1605495deb40ec97616848a3ded",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, wit",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "publishedAt": "2026-11-17T17:32:25+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "0294474e0dbd9d7bc7329771401659dd041216b8cc18164aecef7e81e491c2ea",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participat",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "publishedAt": "2026-11-17T17:20:41+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "ff7be43c1624ac37840bb98f96379ea2df471c0f757b70406af33fe6e724c1e5",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Google makes it easier to use Gemini without training AI on your data",
+      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "publishedAt": "2026-11-17T16:50:10+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e819298f261a03247666521bdb5ccd338356d2dc5590c92e51385470cceaffe6",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as C",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+      "publishedAt": "2026-11-17T16:44:15+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "4ac2b60e4417fc7a03fbb417100425935ecbfd6a5aac321af742c4d84390a5c6",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "The DOJ says it’s investigating Megaspeed",
+      "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "publishedAt": "2026-11-17T16:19:03+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "a265ae94daf0b527caccf3b77766ecd7109ead4f99c33527a95ebbe3b4eda5ef",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+      "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of direct",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+      "publishedAt": "2026-11-17T16:09:57+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "873df5d4dba836c4fd954f788cc0ac54a27929fa9ed2a79d959f34c8d0eaf3b1",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+      "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+      "publishedAt": "2026-11-17T15:28:59+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "94af6bce4bedd045e16221e5d8b7c14f0be760a93dd6ff2048190ab0e50d2793",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "【云顶s18】野怪大红老是玩不好？？一把对局记录告诉你大红怎么玩？你缺少了哪些细节？",
+      "summary": "UP主 小爱さま · 138播放 · 24:29",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117632409866533",
+      "publishedAt": "2026-11-17T15:18:35+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "小爱さま",
+        "play": 138,
+        "bvid": "BV1SSs66tEpC",
+        "duration": "24:29"
+      }
+    },
+    {
+      "id": "d9ab04b86804e3863dc87ced22fd2a1032dea30d7169fd852e27355d08860d85",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
+      "summary": "82亿美元股票，46天闪电交割",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/510695.html",
+      "publishedAt": "2026-11-17T14:15:20+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "726d26c85e3a6a7770588c6fe262800bbebf1f4a7642ae17205ddcc86d374b27",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "publishedAt": "2026-11-17T14:00:29+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "1180f80a2976c2298672a888b4485159fd11c7390ea2b82d3bb6c302769aa65d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "李沐加盟的Aimotion，是一家什么AI公司？",
+      "summary": "瞄准「产业级世界模型」",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/510688.html",
+      "publishedAt": "2026-11-17T11:40:37+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "92a595e0987b94702c9166136314d02fca174b99cb4b9153432a6670a3f898d5",
       "module": "ai",
@@ -26,6 +401,82 @@
         "downloads": 0,
         "likes": 72
       }
+    },
+    {
+      "id": "cd6b8ba1f492fa98df9d1f22dee6336584fa237ddf2eec56b8c28532a8db3648",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+      "summary": "筛材料、找配方、开发新模型…拿下多项科研任务",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/510652.html",
+      "publishedAt": "2026-11-17T06:09:40+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "0b532a12bbcf8fef22e7fbaca004617b2acce4a64099f60d3a0ea32408962dd0",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
+      "summary": "斩获80000元奖金",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/510610.html",
+      "publishedAt": "2026-11-17T04:35:03+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "ff4c4001160ad64a31b33306cea1fd2262aa60de841d1c34416860fc6960c938",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…",
+      "summary": "奥特曼首谈黄仁勋离职",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/510592.html",
+      "publishedAt": "2026-11-17T02:33:13+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "94fce877959db7270444d75a5bb287bb9f33efa0f9e3145740eca60f0284ccc7",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
+      "summary": "",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/510561.html",
+      "publishedAt": "2026-11-17T02:03:22+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "a2eeeae1a7d28e7e340551fbc06399303a5dadaef22a369f7dec748e883254eb",
@@ -4889,852 +5340,6 @@
       "tags": [
         "ai-news",
         "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "657b728a1b6be77b08064c0660e160b4899710e6de6d2805350e6b5815f7c371",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-      "publishedAt": "2026-11-10T19:57:52+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "1529ceff70a329423f2d1014606042cc1f211a5dae991cb8723b2e2e08aa5080",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-      "publishedAt": "2026-11-10T19:23:34+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a836864187e226ece621444332ae514f97f024d390f363397da99fe863be14fa",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "The US is winning the AI race. Jensen Huang could have blown it",
-      "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the wo",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-      "publishedAt": "2026-11-10T19:04:05+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "af828682bb443b3b5fb521547c6e245454189eb7dd7e589279a0be846138ae52",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pur",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-      "publishedAt": "2026-11-10T19:03:52+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "102437d123d74e4824a4345c81816dcc200ffe221c690d2b86e50d141868d814",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
-      "summary": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training。作者：Emre Kutlusan, Yongmin Li。摘要：Fo",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.14519v1",
-      "publishedAt": "2026-11-10T18:59:54+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-specific baseline whose configuration is rarely justified, and therefore provide limited evidence of performance at new clinical sites. It also remains unclear how much of a foundation model must be adapted, and what determines this. We adapted a foundation model, DINOv2, with strategies ranging from tuning only its bias terms to full fine-tuning, and compared it with U-Nets and ResU-Nets trained from scratch. Experiments covered colonoscopy, breast ultrasound and dermoscopy, with testing on held-out data from the training source and on independent datasets from other institutions. The adapted foundation model generalised better on every external dataset. Within the training distribution, the task-specific models remained competitive when training data were abundant, and delineated boundaries more precisely, while the foundation model more often missed small lesions. Only a small fraction of the foundation model required adaptation, and the capacity needed was determined by the imaging domain rather than by the adaptation method. A widely used polyp test set was also found to duplicate images from another benchmark. Foundation-model adaptation is therefore warranted where models must work across sites, with capacity selected on the target domain."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Emre Kutlusan, Yongmin Li",
-        "categories": [
-          "cs.CV",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "140fd1743d9723378e1016c1aade1a98f3bf0ccd2e1e60a5890c27dcc6739577",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
-      "summary": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR。作者：Sheethal Bhat, Bogdan Georgescu, Awais Mans",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.14518v1",
-      "publishedAt": "2026-11-10T18:59:17+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated datasets. In medical lesion detection, the scarcity of comprehensive, stan dardized annotations and the heterogeneity of existing datasets limit the development of robust foundation models. In this work, we introduce a novel approach to building a multi-domain foundation model for le sion detection by integrating diverse medical image datasets annotated for both anatomical structures and abnormalities. We first propose a student-teacher training strategy to effectively combine datasets with heterogeneous label spaces, mitigating catastrophic forgetting, and im proving feature learning. In addition, building on our previously pro posed example-based EM-DETR framework, we adapt it to jointly learn from multiple domain-specific datasets, enabling fine-grained, example driven detection across modalities. Our model achieves state-of-the-art (SOTA) results, with image-level AUC scores exceeding previous SOTA by 1% point on four key findings in CXRs. We achieve a leading mAP50 in CXRs and mammography, surpassing EM-DETR trained on a single dataset by 2-3% points. This approach paves the way for scalable foundation models in medical imaging that leverage heterogeneous data while maintaining robust and generalizable performance."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Sheethal Bhat, Bogdan Georgescu, Awais Mansoor et al.",
-        "categories": [
-          "cs.CV",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "a948b7166e72942bdeb16649d1013a772dafddc5a24ad7b24433bf98925bbcf2",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "TorchCurves: Differentiable Parametric Curves",
-      "summary": "TorchCurves: Differentiable Parametric Curves。作者：Alex Shtoff。摘要：We present TorchCurves, a PyTorch library that treats ve",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.14516v1",
-      "publishedAt": "2026-11-10T18:58:52+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-spline or Legendre polynomial bases, with differentiation through both inputs and coefficients. Curve coefficients can be optimized jointly with the surrounding model or produced by another network. The library provides trainable modules, reusable basis modules, and a functional interface, supporting applications ranging from continuous feature embeddings to Kolmogorov-Arnold networks and functional regression. Its implementation combines classical evaluation algorithms with vectorized PyTorch operations, emphasizing readability and maintainability without custom hardware kernels. Timing experiments compare curve evaluation against NumPy and SciPy and KAN training against EfficientKAN across a range of problem sizes. The results illustrate where this generality remains computationally practical and where overhead is substantial. Library is available on GitHub at https://github.com/alexshtf/torchcurves."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Alex Shtoff",
-        "categories": [
-          "cs.LG",
-          "stat.ML"
-        ]
-      }
-    },
-    {
-      "id": "485e3e6e7ffd47fbef74a812600ad300b840708b521cf48284906b35ff4ce498",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
-      "summary": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models。作者：Zijian Zhang, Rizhen Hu, Jiangweizh",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.14515v1",
-      "publishedAt": "2026-11-10T18:58:46+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such as strategies or hints added to the prompt during training, offer a natural way to turn this information into guidance, but their design and adaptation are largely left to humans and tailored to specific domains. We introduce AutoScaffold, a unified AI-for-AI framework that turns a student's training experience into adaptive scaffolds, with minimal domain-specific information and no human intervention during training. A frozen teacher periodically examines this experience, diagnoses bottlenecks, and designs scaffolds in two forms: (i) strategies shared across a class of tasks and (ii) hints for individual hard tasks, adjusting the content and amount of support as the student learns. The scaffolds are removed at evaluation. We apply the same framework to ALFWorld, search-based QA, mathematical reasoning, and GPU kernel generation. When evaluated without scaffolds, students trained with AutoScaffold outperform those trained with the corresponding RL baselines in all four domains, with gains of 7.2 points in ALFWorld success and 4.0 points in average QA exact match. On GPU kernel generation, AutoScaffold increases the fraction of tasks with a correct kernel that runs faster than the PyTorch reference by up to 5.0 points. On math, our student surpasses QuestA's reported accuracy using approximately one-third as many student training steps. Analyses show that the teacher identifies a different failure in each task class and shifts its scaffolds from step-by-step workflows to targeted fixes as the student improves, and that its revised scaffolds help the student learn more than keeping the previous scaffold or using no scaffold."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Zijian Zhang, Rizhen Hu, Jiangweizhi Peng et al.",
-        "categories": [
-          "cs.LG",
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "bd6a52c2548e6d91e5de9ccc4c04a06884ba6b93415fef90518339c0f6618e73",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
-      "summary": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations。作者：Ziang Liu, James J. Kim, Yijia Dai",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.14514v1",
-      "publishedAt": "2026-11-10T18:58:43+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. When evidence rejects $h$, the agent learns that one explanation is unlikely but not which alternative the evidence supports. To recover that alternative, we introduce Contrastive Discovery, which replaces the single hypothesis with a contrast set, a scientific question paired with mutually exclusive and collectively exhaustive competing explanations. Each experiment is scored by how its evidence redistributes belief across the set, and the question is resolved when belief concentrates on one explanation. Because contrast sets change only the unit an agent proposes and scores, an existing agent can use them to re-evaluate evidence it has already collected or to guide its search. Across six domains, $89\\%$ of the pointwise candidates with the largest belief shifts are rejections. On the same evidence, contrast sets resolve $73\\%$ of these candidates to a specific alternative. When contrast sets guide search, the agent resolves $67\\%$ more questions than pointwise surprisal under the same experiment budget. In a blinded study, $38$ human experts chose the same explanation on $78\\%$ of resolved questions and on $82\\%$ of questions where the pointwise agent rejected its hypothesis and stopped. Together, these results support explicit competing explanations as a way for discovery agents to resolve more scientific questions from the same evidence and validation budget."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Ziang Liu, James J. Kim, Yijia Dai et al.",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "fe0e2c9acfbc6cb8c2bf5292d2102b56596011c468dc30617ed77dde2ff06944",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "qwen2.5-math-1.5b-french：text-generation 模型更新",
-      "summary": "HuggingFace 主流 text-generation 模型 GAMINGZI/qwen2.5-math-1.5b-french，1,021 下载，3 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/GAMINGZI/qwen2.5-math-1.5b-french",
-      "publishedAt": "2026-11-10T18:56:48+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1021,
-        "likes": 3
-      }
-    },
-    {
-      "id": "b1f3b0e32261cd22916923f7c4798d283d76c90e5a0c3e613447d2a4df024330",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
-      "summary": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents。作者：Megha Srivastava, Michael H. Lim, Allison M. Key",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.14511v1",
-      "publishedAt": "2026-11-10T18:56:32+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains challenging. We introduce Pyrite, a pairwise pose-ranking benchmark comprising 1,500 pose pairs across diverse protein-ligand complexes. Expert chemists equipped with 3D visualization tools and physics-based scores perform near chance, highlighting the difficulty of interpreting available chemical signals. To investigate automated ranking, we introduce PyriteRep, a structured representation of molecular geometry, protein-ligand interactions, and physicochemical scores, and develop two LLM-based agents: PyriteReasoner, which directly compares poses through text-based reasoning, and PyriteFeaturizer, which generates executable code to construct features for logistic regression, optionally incorporating features derived from LLM subcalls. These agents achieve up to 67% and 74% accuracy, respectively, exceeding observed expert performance. LLM-guided feature discovery generally outperforms direct reasoning, while Group Relative Policy Optimization (GRPO) improves open-weight models, enabling them to match or surpass closed-source frontier models in our evaluations. These results establish Pyrite as a challenging test of pose-ranking ability and highlight LLM-guided feature discovery as a promising approach to interpret and combine the outputs of computational chemistry tools."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Megha Srivastava, Michael H. Lim, Allison M. Keys et al.",
-        "categories": [
-          "cs.LG",
-          "q-bio.QM"
-        ]
-      }
-    },
-    {
-      "id": "852f57641c0b6d4310d5ef3f6b1786f110007f012b8de4d66a7479e192809d80",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology",
-      "summary": "When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology。作者：Yeyuan Liu。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.14508v1",
-      "publishedAt": "2026-11-10T18:55:48+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Connectome-constrained models are often used to argue that a measured wiring diagram outperforms shuffled or rewired wiring, and hence that structure shapes function. Such comparisons can confound wiring with how the models are tuned: a connectome fixes who connects to whom, not the excitability, gains or plasticity rates the model also needs, and modellers often tune these until the real-wiring model works. We separate three estimands: physiology tuned on the real wiring and transferred to nulls (P1), each wiring tuned on its own (P2), and P2 restricted to physiology consistent with independent data (P3). The biases involved are known in machine learning (under-tuned baselines, inherited weights, winner's curse); we measure what they do to biological conclusions, using synthetic ground truth, placebo nulls and three Drosophila circuit models. Some claims survive every protocol we test: segregated reward and punishment dopamine improves learning, and head-direction topography is required for a persistent bump. Others do not. In the mushroom body, the real Kenyon-cell output wiring beats a cross-subtype identity shuffle by 0.09 under P1 and P2 but loses to it by 0.09 under P3 (95% CIs exclude zero; held-out runs confirm). The verdict is set by the share of alpha'beta' cells among active Kenyon cells, which P1 selects low; at the share implied by imaging (about 44%) the real-wiring model fails to learn, exposing a model inadequacy rather than a deficit of the fly's wiring. In flyvis, P1 penalises a mirrored connectome, which has a constructed solution within 0.07 (median) of the real error, more than a spatially shuffled one in 50 of 50 members; the ranking survives ten-fold longer retraining but depends on the checkpoint at fifty-fold. A credible structural claim needs matched optimisation, data-constrained physiology and a model that still works there."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Yeyuan Liu",
-        "categories": [
-          "cs.LG",
-          "q-bio.NC"
-        ]
-      }
-    },
-    {
-      "id": "e474c030f391dfd6f6e3d95903a5db813b834206aad5176005aa45951e82788b",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
-      "summary": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime。作者：Daniel Lenton。摘要：Agent harnesses have emerged as a",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.14505v1",
-      "publishedAt": "2026-11-10T18:55:01+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus on a single applied domain, serve each instance only once, and assume a single family of learner, so memory-based and weight-based systems are rarely compared on the same scale. We propose Continual-ARC, a lifelong stream built from the three ARC-AGI editions, whose tasks need no domain knowledge. The same tasks return after dormant gaps with fresh instances, while new tasks keep arriving. On each instance, the learner may pay for demonstrations, submit answers, or act inside the harness, with retries permitted on incorrect submissions, which are paid for. Each instance is scored based on the share of this feedback budget consumed. Since a learner may keep anything between instances, memory-based and weight-based systems are scored on the same scale. After the stream, the learner is frozen and tested on fresh instances of the tasks it met, which measures memorization, and on unseen tasks, which measures generalization. We run an agent harness with frozen weights, with and without persistence, on Qwen3.5-9B and GLM-5.3 Flash, comparing them with two prompting floors, a program-induction method and Qwen3.5-9B's weights trained to imitate GLM-5.3 Flash. Persistence in the harness generally does not improve memorization unless provided with explicit expert guidance. Most harness-based methods still learn less than a floor that simply caches each task's demonstrations, across all models we tested. No harness-based method gains on unseen tasks, whereas weight-based learning shows substantial gains. This opens the door to future weight-based continual learning that could teach models to drive harnesses in new domains."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Daniel Lenton",
-        "categories": [
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "43dc4ff447f1bd295084ca15158f4f9073c8cf1bade0f0c4c83eca69d969cf3a",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Emergent Biological Capabilities in a Foundation Model for Molecular Interactions",
-      "summary": "Emergent Biological Capabilities in a Foundation Model for Molecular Interactions。作者：Adi Mashiach。摘要：Foundation models t",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.14504v1",
-      "publishedAt": "2026-11-10T18:53:01+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Foundation models trained on large unlabeled corpora develop emergent capabilities, tasks that go beyond the training objective. We extend this paradigm to multimodal biology with Bonbon, a foundation model for molecular interactions trained on approximately 3.2 trillion tokens of paired protein-ligand sequences. From a single representation space, Bonbon exhibits three zero-shot emergent capabilities at hierarchical levels of resolution: functional (mechanism of action), residue (binding site localization, including orthosteric/allosteric discrimination), and bond (covalent versus non-covalent engagement). All three capabilities generalize to out-of-distribution complexes. Bonbon was trained on protein-ligand sequences alone, without any task-specific supervision and without structural coordinates. We conducted controlled scaling experiments across six model scales from 42M to 1.6B parameters; every capability evaluated shows a sharp jump at the largest scale on continuous metrics, even as pretraining loss decreases smoothly. This demonstrates that loss-based scaling laws alone are insufficient to predict when zero-shot emergent capabilities become available. The capabilities reported here emerge after training at a 1:2,000 parameter-to-token ratio to accommodate the sparsity of paired biological interaction data. The same frozen representations achieve state-of-the-art binding and affinity prediction at five orders of magnitude greater speed than co-folding methods. In prospective wet-lab validation across nine disease targets spanning seven protein families, Bonbon achieves a 61.5% dose-response hit rate on de novo compounds, yielding structurally novel molecules not previously reported to inhibit these proteins, including for out-of-distribution targets."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Adi Mashiach",
-        "categories": [
-          "cs.LG",
-          "q-bio.BM"
-        ]
-      }
-    },
-    {
-      "id": "4df375e25aa48cb255d2447798b36a37d15156f274e5bd5108658164ef4e83f2",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
-      "summary": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents。",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.14493v1",
-      "publishedAt": "2026-11-10T18:50:06+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows. We present a three-phase comparative study of three evaluation frameworks, each representing a distinct evaluation paradigm (trace-based LLM judging, text-only LLM judging with red-teaming, and deterministic heuristics), applied to two analytics agents in a controlled research setting using frozen execution traces. Phase 1 quantifies evaluation harness stability through repeated measurements, finding that 97% of configurations meet the stability threshold and that stability patterns are agent-independent. Phase 2 measures known risk detection on 72 ground-truth test cases, where the trace-based framework achieves the best precision-recall balance (F1=0.90) while text-only evaluation matches on recall but generates 5x more false alarms. Phase 3 evaluates unknown risk discovery, uncovering 24 novel failures with zero overlap between functional testing and security red-teaming. Our results demonstrate that (1) the information available to the evaluation harness determines evaluation quality, (2) functional and security evaluation are complementary, and (3) LLM-based evaluation harnesses surface subtle errors that human reviewers miss. We recommend a two-framework strategy: trace-based evaluation for functional assessment and adversarial red-teaming for security validation."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Howard Zhang, Chuck Arvin, Logan Brown et al.",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "cs.LG",
-          "cs.SE"
-        ]
-      }
-    },
-    {
-      "id": "039e634b622521f3dc330da72aad2d1f5d3dad184d1d16da7c33554fab96ec9c",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower bu",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-      "publishedAt": "2026-11-10T18:49:52+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "cd98504aa3367da0c8dcb98f2f6c80ae54012056e81fa778f2ec765f23cd6634",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows",
-      "summary": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows。作者：Kaiyuan Hou, Yang Ping Kuo, Indranil Bhattacharya e",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.14492v1",
-      "publishedAt": "2026-11-10T18:49:47+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Language Model (LLM) agents can follow an SOP written in natural language, but they call an LLM to choose every step of every run, which adds latency and cost at scale. We present ReTrace, which turns an SOP and a few logged agent runs into a reusable workflow in which code, not an LLM, selects the next step. The agent's reasoning, the explanation it writes with each tool call, often states why it took an action; the tool calls alone do not. ReTrace extracts the condition behind each step, merges these conditions across runs into a compact rule document, and generates an executable workflow from it. Only this last stage depends on the platform, so rule documents can be compiled for different orchestration platforms. On $79$ procedures from our production platform, ReTrace workflows reach $93.8\\%$ completion, against $96.8\\%$ for the agent, at $24\\%$ lower cost per task. On $τ^2$-Bench, they reach $75.8\\%$ task success (agent: $80.6\\%$) and run in $1.3$s instead of $170$s; three rounds of repair on training failures lift $k{=}2$ workflows from $66.7\\%$ to $81.2\\%$. On eight SOP-Bench procedures, ReTrace without repair trails few-shot generation ($80.6\\%$ vs. $83.6\\%$), but repair from labeled training failures lifts it to $87.8\\%$ at $0.40$s per task, compared to $85.5\\%$ in $46.6$s for the agent."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Kaiyuan Hou, Yang Ping Kuo, Indranil Bhattacharya et al.",
-        "categories": [
-          "cs.AI",
-          "cs.LG",
-          "cs.MA"
-        ]
-      }
-    },
-    {
-      "id": "1181a1625f60372b4181f8f22791630cd4617532d75877d7977b11a7e27b256b",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics",
-      "summary": "TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics。作者：Peng Chen, Yihang Wang, Zhong",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.14491v1",
-      "publishedAt": "2026-11-10T18:49:26+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Time series analytics has been widely applied across various domains. While existing time series foundation models (TSFMs) have demonstrated promising results, they still face two major challenges: 1) Most TSFMs mainly rely on stacking Transformer layers to increase parameter size, lacking the ability to adaptively model complex time series patterns from multi-domain data. 2) Current TSFMs are primarily pre-trained for specific tasks, e.g., forecasting or anomaly detection, and a few models support multiple tasks, but they fail to fully leverage task specificity and commonality, resulting in suboptimal performance. To address these challenges, we propose TimeSeek, a novel generalized time series analytics model that adaptively models time series patterns from multi-domain data and unifies multiple tasks in pre-training. Conceptually, TimeSeek is guided by selective information sharing under domain and task heterogeneity. From the perspective of multi-domain data, we propose a Multi-Domain Feature Extractor that adaptively captures temporal dependencies and channel correlations based on domain-specific characteristics, including progressive multi-scale modeling and adaptive slot channel modeling. From the perspective of the diversity of tasks, we propose multi-task collaborative training, which leverages task specificity and task commonality through task customization and cross-task training, effectively unifying multiple tasks in pre-training and better adapting to diverse downstream scenarios. After pre-training on large-scale time series data, TimeSeek achieves state-of-the-art performance in forecasting, anomaly detection, and classification tasks across both few-shot learning and zero-shot situations, together with favorable inference efficiency."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Peng Chen, Yihang Wang, Zhongwen Rao et al.",
-        "categories": [
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "ebbe8537b89e3ca067c41072cb37eac912b7c649561d08a37fbab44cb159870d",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game",
-      "summary": "Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game。作者：Muhan Gao, Hangxiao Zhu, Xinqi Su et al.。摘要：",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.14487v1",
-      "publishedAt": "2026-11-10T18:47:22+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Research ideation is iterative: researchers refine their ideas step by step based on feedback. Yet existing evaluations obscure this search process, making it difficult to understand how LLMs explore the space of research ideas and what limits their progress. We introduce Re-Search, which adapts the format of Twenty Questions to research ideation: given only the research problem of a published paper, a model must rediscover the paper's core idea by asking yes-or-no questions. Built from 200 ICML 2026 papers, Re-Search tracks how a model's idea evolves as it asks questions and receives binary oracle feedback, isolating ideation from execution. Across six recent LLMs, nearly all progress happens within the first 30 of 100 questions, which largely decide how the game ends; after that, most models plateau. Through controlled interventions on the candidate questions and the hypothesis space, we find that the bottleneck is generation, not judgment: models recognize a good idea or a good question when one is offered, but often cannot produce it on their own. We further analyze the ideation traces and find that models fail by either over-exploiting one direction or over-exploring too many. These findings point to concrete design principles for autoresearch systems: since models can judge candidates they cannot produce, enriching the search with externally sourced ideas and questions may be more effective than improving any single model's generation ability."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Muhan Gao, Hangxiao Zhu, Xinqi Su et al.",
-        "categories": [
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "ab355f9ec5cc5afbe984ca01b4fd95a2f4186a202b7b8e8642b61bd980193801",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Mechanistic Interpretability Needs a Logic of Inference",
-      "summary": "Mechanistic Interpretability Needs a Logic of Inference。作者：Zhimin Hu, Chen Jiang, Hanbo Xie et al.。摘要：Neural networks ar",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.14483v1",
-      "publishedAt": "2026-11-10T18:45:07+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Neural networks are increasingly studied not merely as predictive systems, but as complex systems whose internal computations are themselves objects of scientific inquiry. Recent progress in mechanistic interpretability (MI) has made it possible to identify neurons, features, circuits, population structures, and dynamical patterns associated with model behavior. As these tools improve, attention is shifting from what can be observed inside a model to how those observations support mechanistic explanations. We examine the parallel efforts of neuroscience and MI to address this question and identify recurring inferential bottlenecks when inferring mechanisms from complex neural systems. We propose five principles and organize them into a recursive logic for a more rigorous procedure of mechanistic inference. These principles provide a framework that supports scientific discovery in two senses: it helps turn local interpretability findings into cumulative knowledge of mechanisms within models, and it makes those mechanisms sufficiently precise to generate testable hypotheses about domains beyond the models. Evidence beyond MI is ultimately required to establish what model mechanisms reveal about the world."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Zhimin Hu, Chen Jiang, Hanbo Xie et al.",
-        "categories": [
-          "cs.CL",
-          "cs.CV"
-        ]
-      }
-    },
-    {
-      "id": "d718fc33feb2e1c7da3d3fa7388eceb534ec93df29a998ca71999276d6dcfb3e",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Pterodactyl: Pushing the Limits of Efficient Automated Translation Evaluation",
-      "summary": "Pterodactyl: Pushing the Limits of Efficient Automated Translation Evaluation。作者：Evelyn Y. Garland, Carola F. Berger。摘要：",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.14480v1",
-      "publishedAt": "2026-11-10T18:41:37+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "In this paper, we present 1020 Group's submission to the WMT26 shared task on automated quality evaluation. Our system, Pterodactyl, was engineered specifically for subtasks 2 and 3, that is, segment-level quality score prediction and the detection of error-free segments. Pterodactyl is a highly customizable, ultra-low cost system optimized for binary classification in translation triage and data curation. It is based on an LLM-as-a-judge approach, with prompt engineering and model selection guided by ROC analysis. We also developed several variants of Pterodactyl that were specifically adapted for subtasks 3."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Evelyn Y. Garland, Carola F. Berger",
-        "categories": [
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "2c87ef897a138cd806fda741cb10d3a5cc15ae4657ec9513d051f45b7d7840c5",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "ChatGPT is getting verified AI ‘Business Agents’",
-      "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like com",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-      "publishedAt": "2026-11-10T18:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d5e7736464df3f3d8b83c43868206d28a4928c9a4f86db05c1b606cf0ff9d966",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "The indie game community is in disarray over AI and Big Walk",
-      "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that u",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
-      "publishedAt": "2026-11-10T17:32:47+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "9cd4553b99510f9b1be69564cb27e520353143802859be9d6623c4cb2caddc34",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "publishedAt": "2026-11-10T17:30:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ec44f47dac6ac76d1dcf4cc4456c672835f9ef3f9b4c05077c8caf87f996fbbe",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic has its own AI-powered office suite now",
-      "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clie",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
-      "publishedAt": "2026-11-10T17:30:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4e68175fcbaba9150cba6257b7b1efacd24ff3f3fef3b94c5cf9659b469501ca",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI inf",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "publishedAt": "2026-11-10T17:04:19+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "96e0e8ccb39f912f6139c80bd8772989335c63f39d01b4f3ef4a5dbf0374bf6c",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "eBay appears to have shut the door on third-party AI agents",
-      "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
-      "publishedAt": "2026-11-10T16:20:30+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "dd5761c57660139f4d3a912d901129619bfa04e750e4f3f1c9044bd84c5c06b7",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-      "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group o",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "publishedAt": "2026-11-10T16:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "b4cd35ac5ca3d3674e1842d59e3585459b8ed3f02932b99d7c728761d94f2c5b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training an",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-      "publishedAt": "2026-11-10T15:54:08+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "67ae3c37a023126b0a662ec1579927ce6bb9faaab9a45c23074a167035ccb904",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-      "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-      "publishedAt": "2026-11-10T15:29:30+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "1c397b720e4bf136f3e854f281b489695160e3e36043baa2d35354c553cf0bb0",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-      "summary": "The new model is up to twice as successful at some tasks.",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-      "publishedAt": "2026-11-10T15:00:39+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "92ade3a514725db96634c7e98eb94ac9702118b5061c0b4623cc195aa2662d08",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic targets $1.4 trillion IPO",
-      "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expec",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
-      "publishedAt": "2026-11-10T14:06:54+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "5304cde82b63d7e6e6d03486cf0617dd0de85451944543810c58306b52bae04e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-      "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-      "publishedAt": "2026-11-10T14:05:10+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "8292f14b7822f86f4d2b62d1e2bc2ffbeb28ff3514bb679e9d39c7d3bfea3ba5",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-      "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a full",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
-      "publishedAt": "2026-11-10T14:01:39+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "54e16dd77930cfb8d7fbf09b8b8c341c90b04e387683dcec6745fa9a7e0fec4b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Adobe is going all in on agentic AI",
-      "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automa",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-      "publishedAt": "2026-11-10T14:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "418064594d02ba6de334deccbd210e41d90641671a9ad161caa0f10f47213ab0",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
-      "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and edi",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
-      "publishedAt": "2026-11-10T14:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "007f911672262cbc544dbe637006111fb84f20314d7a2d4a9629036ea93e8959",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
-      "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
-      "publishedAt": "2026-11-10T12:15:32+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d42d78dab2f0d886b62c6089ca58400ef68a6c0ead852bfd623f3cea9c34e854",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
-      "summary": "",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/509032.html",
-      "publishedAt": "2026-11-10T10:35:38+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
       ],
       "body": [],
       "points": [],
