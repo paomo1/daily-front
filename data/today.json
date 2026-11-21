@@ -1,9 +1,150 @@
 {
-  "generated_at": "2026-11-20T19:31:52.771636+00:00",
-  "date": "2026-11-20",
+  "generated_at": "2026-11-21T08:03:56.920377+00:00",
+  "date": "2026-11-21",
   "keep_days": 7,
-  "count": 280,
+  "count": 279,
   "items": [
+    {
+      "id": "0762ae2e9af971f89364c0dc8c69cf99713912296878ec090d43beb37b589032",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "DaisyRose-27B-GGUF：image-text-to-text 模型更新",
+      "summary": "HuggingFace 主流 image-text-to-text 模型 Xylolabs/DaisyRose-27B-GGUF，1,203 下载，1 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Xylolabs/DaisyRose-27B-GGUF",
+      "publishedAt": "2026-11-21T07:57:51+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1203,
+        "likes": 1
+      }
+    },
+    {
+      "id": "eaa15eab8b1097c3638b21a9968163a4602d060b52b6ce854c5a0645a5355eae",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "krea2nsfwv3：text-to-image 模型更新",
+      "summary": "HuggingFace 主流 text-to-image 模型 nnndite/krea2nsfwv3，6,413 下载，7 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/nnndite/krea2nsfwv3",
+      "publishedAt": "2026-11-21T07:57:16+00:00",
+      "tags": [
+        "huggingface",
+        "text-to-image",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 6413,
+        "likes": 7
+      }
+    },
+    {
+      "id": "955c9b8c321ca51ec8bc484a0099d7c51e893c5b4241db7daa3d988497064241",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "summary": "Google search is making it even easier to access AI tools on the search page.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "publishedAt": "2026-11-20T21:58:29+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "0f82f3bbd85637709859578651c6590ede76136f2e7cff5db088fce2dee7475e",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "publishedAt": "2026-11-20T21:47:10+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "d366b53cd92635695139eb4b7c02ab5d225c9ce9f54a3e91aa79c14228c772cb",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "publishedAt": "2026-11-20T20:59:08+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "36d14a90ce86f6c5f93a8f500ab31d9f24facccf04a1305733505137f4a52f09",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "publishedAt": "2026-11-20T19:53:41+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "704437ddeeac927b0c53095d7d35c5106d1097aa1ac59890707d4512350e5ea6",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "publishedAt": "2026-11-20T19:32:08+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "1bf349e45647e671407e7cafc08aad10d05a87b5e9d5df59dda8165a68303df8",
       "module": "ai",
@@ -659,6 +800,25 @@
       "summary": "",
       "source": "HuggingFace Blog",
       "sourceUrl": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "publishedAt": "2026-11-20T00:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "72ac0b6ec15bf2d030472d95972cbb32c0a6327bd618b35220cb84e83682e1d8",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/inkling2mini",
       "publishedAt": "2026-11-20T00:00:00+00:00",
       "tags": [
         "ai-news",
@@ -5863,185 +6023,6 @@
       "tags": [
         "ai-news",
         "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "11c16d111d892e71857e02c977f87e7d1d1d48fa3e367534c2a6febd9a48e1f5",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "tif1-lfm3-runs：model 模型更新",
-      "summary": "HuggingFace 主流 model 模型 tracinginsights/tif1-lfm3-runs，1,515 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/tracinginsights/tif1-lfm3-runs",
-      "publishedAt": "2026-11-14T07:22:42+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1515,
-        "likes": 0
-      }
-    },
-    {
-      "id": "ad5d4aecbc6fd9d41773a2e2c94c45f8ef2763de8df96a048bea81055913406a",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "al-rasheed-ai：model 模型更新",
-      "summary": "HuggingFace 主流 model 模型 alpha-coder-great/al-rasheed-ai，1,421 下载，2 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/alpha-coder-great/al-rasheed-ai",
-      "publishedAt": "2026-11-14T07:11:13+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1421,
-        "likes": 2
-      }
-    },
-    {
-      "id": "0b27a25c81d52959aa6d005ec70c68615c04f94bf3567541b54977b492b224bb",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
-      "summary": "狂揽3000万播放量",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/510013.html",
-      "publishedAt": "2026-11-14T02:59:35+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "fad77cc117cae2b8a7608b772ecb1199e7f5b925959763f5e54212c3514ddb68",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "突发！DeepSeek开放全家桶API",
-      "summary": "官方App功能均可自由组合调用",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/510003.html",
-      "publishedAt": "2026-11-14T02:39:56+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "656a737b7e6fa750370e3c55c996b4d9aa2f4d57901f6fabf3233e7cd2338635",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't s",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "publishedAt": "2026-11-13T23:49:11+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "b3b2ea4d3dba512d2e532703625c7d196ac9747878e8e45df57700759860333c",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for s",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "publishedAt": "2026-11-13T22:43:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f6331025ae4b4e81fbee5cbfed78bbceeb3d729f5f290cbd4697a7ad38c65be5",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "publishedAt": "2026-11-13T21:20:47+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "eaf7f8eeb54e1e38a52dc43fe571c23b82ac01c662c383e4fec04068b5093b8d",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wall",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "publishedAt": "2026-11-13T20:45:10+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "38b59248897b2bcb15b03723aea69dc77da264ac24bdc759337dc114f830323d",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "publishedAt": "2026-11-13T19:37:57+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
       ],
       "body": [],
       "points": [],
