@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-11-21T18:34:24.169880+00:00",
-  "date": "2026-11-21",
+  "generated_at": "2026-11-22T07:50:34.083196+00:00",
+  "date": "2026-11-22",
   "keep_days": 7,
-  "count": 287,
+  "count": 296,
   "items": [
+    {
+      "id": "9b8312b5a1ca6ccef9ec25db9c1002cadfb09b1f37489a62a93fc099baf8abc5",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "comfyui-colab-flash：model 模型更新",
+      "summary": "HuggingFace 主流 model 模型 ramusgill/comfyui-colab-flash，66,672 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/ramusgill/comfyui-colab-flash",
+      "publishedAt": "2026-11-22T07:35:34+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 66672,
+        "likes": 0
+      }
+    },
+    {
+      "id": "72e44842109d3a72a6f74b2cbe6337cdae12265743fa53989e80723d9d3d8366",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+      "summary": "用葡萄糖发电控制血糖。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/511904.html",
+      "publishedAt": "2026-11-22T06:21:47+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "a958e23fb9afb624cbb7ee4a87360e5a6cc442f740cd1aeb1bc0cb114a8124f3",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+      "summary": "",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/511870.html",
+      "publishedAt": "2026-11-22T06:03:54+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "8ee2e33aef22c116b0c178a6ce9fb0b72ee750961ef50ee8dcee604e50b27ada",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "publishedAt": "2026-11-21T21:37:10+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "2036907ce3f5aab9204c5a21dca7da09dfdfa57b61fae395088393e4427bf315",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "A tale of two Nvidias",
+      "summary": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly call",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "publishedAt": "2026-11-21T21:07:42+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b26ed29d824ce49472716d1bc4eff719bb8c1ae1024f0e0c0a3d610744fab2d5",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "publishedAt": "2026-11-21T20:03:37+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "6203bd7823de9535f6a6adc041c52788bf977af9272af4f02713d12b1c7925c3",
       "module": "ai",
@@ -95,6 +213,31 @@
       }
     },
     {
+      "id": "744394175469afd1c54f32ffedc40e638b9dbc8efba196b8f6416ea234ec7946",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "云顶S19！拼多多非主流男枪！水枪刘皇叔再次匡扶汉室！暴揍九五阵容！！！",
+      "summary": "UP主 云顶阿古萌 · 2,185播放 · 6:20",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117655243591957",
+      "publishedAt": "2026-11-21T16:01:44+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "云顶阿古萌",
+        "play": 2185,
+        "bvid": "BV1XpyYzrEq4",
+        "duration": "6:20"
+      }
+    },
+    {
       "id": "3b57887c1f6812915b2666a650eb0555116f7895881bb22dab02196cbbadd144",
       "module": "ai",
       "seg": null,
@@ -133,6 +276,44 @@
       "extra": {}
     },
     {
+      "id": "553c4dae18a436e99e0188b23208545f1a41a2306be19385a71ac721c24d277a",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+      "summary": "",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/511855.html",
+      "publishedAt": "2026-11-21T14:14:09+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "a72f571ba625752c5aa37c49e286187ab9c32b527f1dab25c7409fbe3d956c0b",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "中国计算，走出新的登峰之路",
+      "summary": "",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/511849.html",
+      "publishedAt": "2026-11-21T14:09:59+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
       "id": "95ed60298ce2db211640c988accc93f3b44d6ac84f178da35c254adcdcec0088",
       "module": "ai",
       "seg": null,
@@ -145,6 +326,44 @@
       "tags": [
         "ai-news",
         "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "3fdf94bf99f773541b61e6aa2071c88da46d60948bdaca824f5634f97a6f1ee7",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+      "summary": "",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/511841.html",
+      "publishedAt": "2026-11-21T11:40:11+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "fc5b07755218b31c543bcb992b3d73511b64bb5ace42d2f3f00dda30566dd35e",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
+      "summary": "",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/511830.html",
+      "publishedAt": "2026-11-21T11:34:18+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
       ],
       "body": [],
       "points": [],
@@ -175,6 +394,25 @@
         "bvid": "BV16yyhzUEMJ",
         "duration": "11:22"
       }
+    },
+    {
+      "id": "381be5daaadfd34d450a84cd3f0599ec16fc0d02a4a77a3dc5f258d47fa7f59f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
+      "summary": "",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/511791.html",
+      "publishedAt": "2026-11-21T11:24:29+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
     },
     {
       "id": "dc9c1a2099740475dc4a5b76320196d63116f53e87691686d6e6203f79e6b6c9",
@@ -6147,67 +6385,6 @@
         "bvid": "BV126sp66EDQ",
         "duration": "9:50"
       }
-    },
-    {
-      "id": "181313e6278bb89482cc07e1bf4cacd180796b6b3f9650def0d11363c92f7bf3",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "MatterSeek-New-Materials-Reverse-Design：text-generation 模型更新",
-      "summary": "HuggingFace 主流 text-generation 模型 YuyaoTechnology/MatterSeek-New-Materials-Reverse-Design，0 下载，2920 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/YuyaoTechnology/MatterSeek-New-Materials-Reverse-Design",
-      "publishedAt": "2026-11-15T07:32:49+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 2920
-      }
-    },
-    {
-      "id": "4366e55ede9fbcf5e7913d6e7f86d849263a46a31415e5aca0afa74a230b1277",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Where was Nvidia’s security team?",
-      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, i",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "publishedAt": "2026-11-15T00:08:07+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "b3bd259723c8d2890471d42878cf813e9747a4fe80618aca70005e1817065711",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "publishedAt": "2026-11-14T21:41:22+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
     }
   ]
 }
