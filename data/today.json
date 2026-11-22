@@ -1,9 +1,114 @@
 {
-  "generated_at": "2026-11-22T07:50:34.083196+00:00",
+  "generated_at": "2026-11-22T18:56:57.175820+00:00",
   "date": "2026-11-22",
   "keep_days": 7,
-  "count": 296,
+  "count": 300,
   "items": [
+    {
+      "id": "17b245a502ad78c81e9e2ddf4aef6eb165eb2dbb9bd93b868436f4adf715c8f8",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3.8-27B-pi-adapted-GGUF：image-text-to-text 模型更新",
+      "summary": "HuggingFace 主流 image-text-to-text 模型 netprojects/Qwen3.8-27B-pi-adapted-GGUF，11,153 下载，8 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/netprojects/Qwen3.8-27B-pi-adapted-GGUF",
+      "publishedAt": "2026-11-22T18:38:11+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 11153,
+        "likes": 8
+      }
+    },
+    {
+      "id": "0bff2a60ed1072ff8c7be1ba3f4b60a25a9ba7482228db170fd7249b06cbc8eb",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "publishedAt": "2026-11-22T18:08:43+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "ecaa9a28601b10d5776b1c7028ac9279090aa777e21415a6f603a21d65f74438",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "publishedAt": "2026-11-22T17:25:20+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "ee1b35f1f3753472233f57153353e46dd673378752f007524ce5987514f7cb05",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "【云顶之弈S19】解锁卡版本如何快速上手，学会不用再等一图流，自己就能捏阵容！",
+      "summary": "UP主 青灰叶柠 · 329播放 · 23:18",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117661132393526",
+      "publishedAt": "2026-11-22T16:54:31+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "青灰叶柠",
+        "play": 329,
+        "bvid": "BV1HQyjzmEH6",
+        "duration": "23:18"
+      }
+    },
+    {
+      "id": "bc593f5a5c9007c60671df1b8e7f9cdd055848a529046fe39fd471541d9cec95",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-ha",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "publishedAt": "2026-11-22T13:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "9b8312b5a1ca6ccef9ec25db9c1002cadfb09b1f37489a62a93fc099baf8abc5",
       "module": "ai",
@@ -64,6 +169,31 @@
       "points": [],
       "live": false,
       "extra": {}
+    },
+    {
+      "id": "5476c7a828fb6ad6ee8c27ac18c30ee1357178f8c7f7d7698f8fdb66bc8d48a7",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "这就是S19云顶最强阵容11级打怪兽",
+      "summary": "UP主 疾风丁 · 146播放 · 0:32",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117658028608747",
+      "publishedAt": "2026-11-22T03:48:11+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "疾风丁",
+        "play": 146,
+        "bvid": "BV1Pjy3zTEv9",
+        "duration": "0:32"
+      }
     },
     {
       "id": "8ee2e33aef22c116b0c178a6ce9fb0b72ee750961ef50ee8dcee604e50b27ada",
@@ -6341,50 +6471,6 @@
       "points": [],
       "live": false,
       "extra": {}
-    },
-    {
-      "id": "f856f6e2f90b64da8733036ff6c021d34d8d76c538cefd3226edbf9999cc159b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "An overview of Jensen Huang’s messy days",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huan",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-      "publishedAt": "2026-11-15T13:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "5c4bb6119a1df18f5e7ef9df786fcf9b10e20ca2067218bd81ce40a5db7fc739",
-      "module": "lol",
-      "seg": "match",
-      "cat": "比赛",
-      "title": "【复盘】含金量拉满！BLG如何战胜GEN一穿四LCK夺冠！BLG VS GEN",
-      "summary": "UP主 徐桑 · 137,880播放 · 9:50",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117619977887155",
-      "publishedAt": "2026-11-15T10:46:47+00:00",
-      "tags": [
-        "lol",
-        "match",
-        "英雄联盟 LPL LCK 比赛 集锦 复盘"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "徐桑",
-        "play": 137880,
-        "bvid": "BV126sp66EDQ",
-        "duration": "9:50"
-      }
     }
   ]
 }
