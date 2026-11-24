@@ -1,9 +1,443 @@
 {
-  "generated_at": "2026-11-24T10:44:48.941485+00:00",
+  "generated_at": "2026-11-24T21:51:16.864559+00:00",
   "date": "2026-11-24",
   "keep_days": 7,
-  "count": 309,
+  "count": 297,
   "items": [
+    {
+      "id": "d72a79f3921d8ade928d69db004b0ec238f6b913ff7df83eab03fa189485b032",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "publishedAt": "2026-11-24T21:48:27+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "69139b7f4dd36b86446bf169e33395270ab02a62bf599637b8c1fdddd6571898",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Qwen3.8-Flash-Next-NInfer-3090：image-text-to-text 模型更新",
+      "summary": "HuggingFace 主流 image-text-to-text 模型 WarlaxZ/Qwen3.8-Flash-Next-NInfer-3090，1,551 下载，3 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/WarlaxZ/Qwen3.8-Flash-Next-NInfer-3090",
+      "publishedAt": "2026-11-24T21:45:51+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1551,
+        "likes": 3
+      }
+    },
+    {
+      "id": "de023acdda14725b06e56bed565357257b675738e1c9e53073e39419ab7604c0",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Even the best AI agents struggle with everyday life",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to co",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "publishedAt": "2026-11-24T21:33:29+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "66dc21fe53de862d38210a2d041dd20f2acfa4e501ad6eab0d3baab14de1a0ea",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "publishedAt": "2026-11-24T21:32:38+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "277ab802b55e31c0e4875e7868b06906cb12116eadde3006a6cd40d4ccfe8fa1",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private dat",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "publishedAt": "2026-11-24T21:19:52+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "8366dff456b4547c2c42a95731cbe46bf1e10b5534952463d734d17205ee124d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "What's going on with the Riemann hypothesis?",
+      "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+      "publishedAt": "2026-11-24T20:34:53+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "d64c69c4095485cd80ee39f725d5d60cf9031f978159f3f7185ae6d9fa609c7f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "publishedAt": "2026-11-24T20:02:03+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "0d92b87e515ec00552f122cdf56ee233ddc3df5fe5f45c241b938cd4043d92a0",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+      "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+      "publishedAt": "2026-11-24T18:47:57+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "39e4190365248fa26cd3a2f0cc92be290d5c3111c6f5f02203d5cf489f1dcce7",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "publishedAt": "2026-11-24T18:30:42+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "ee6367395b600d7ff4d1ab293849277ce5c80ffd83e32160f7ea577e05fcc689",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "publishedAt": "2026-11-24T18:15:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "4b1760f84b2087ca6056b85f0abb7af7d2829bc5e18f685e004cdc120487ce95",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exp",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "publishedAt": "2026-11-24T18:02:59+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e70769c969b7072327ead7dffb556de114a8491b66f0b1ab9e70d4fd2bd44136",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+      "publishedAt": "2026-11-24T17:34:34+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "8ba2f93ee9115d18cf6f63bc1903107e3ac207f2f73019be1a8cf9d2e04ca7f1",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Tidal will start banning AI-generated music next month",
+      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "publishedAt": "2026-11-24T17:17:09+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "d7ff908d91a487f43539104b552c40b6c252ff613b89c0eb3dd68736f99c9a81",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to intera",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "publishedAt": "2026-11-24T17:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "d02691f6e6e9da84759b50e8bfb28436fd76ca0456d9b080c86565fb87a4dfab",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "publishedAt": "2026-11-24T16:46:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "2db49ab17a6e2d38912ed69895bf42768244de1a75d45a2cf9409f4ac1550c0c",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "publishedAt": "2026-11-24T16:34:13+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e001d25e8321c16f38dc7030a9ec795b39e06decfab99a8988ffd2dc51880e0c",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia i",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "publishedAt": "2026-11-24T16:30:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "3569b97f81dc9f2103b579d421a30a263bed01c659dcc8869615b7309d8b7175",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features i",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "publishedAt": "2026-11-24T16:09:23+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "23c9f98d636b423e0a29c34358cebf0b9b00d772df0cbcb9068292f4439c01cd",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+      "summary": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+      "publishedAt": "2026-11-24T14:56:50+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "6bbee938854ca998b91857b2f90283bed1e51f150c1859656867eafd383bf7f0",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "【云顶s19】觉得海之歌很弱？？其实是你开发的不够，进来直接教会你怎么玩好海之歌！",
+      "summary": "UP主 小爱さま · 1,224播放 · 14:24",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117671618288381",
+      "publishedAt": "2026-11-24T13:31:11+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "小爱さま",
+        "play": 1224,
+        "bvid": "BV1jm1czFEKg",
+        "duration": "14:24"
+      }
+    },
+    {
+      "id": "b865d70b12d7221201dbe2ff760347743b1f8446a2ff9704bafedc9e55825cc4",
+      "module": "lol",
+      "seg": "rift",
+      "cat": "峡谷攻略",
+      "title": "【双语】奥恩日炎流上单实战：Makkro分享坦克出装思路与对线技巧 - Makkro ZHELelH7nSU",
+      "summary": "UP主 海外游戏汇 · 40播放 · 41:40",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117671400048742",
+      "publishedAt": "2026-11-24T12:41:04+00:00",
+      "tags": [
+        "lol",
+        "rift",
+        "英雄联盟 上单 出装 攻略 教学"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "海外游戏汇",
+        "play": 40,
+        "bvid": "BV1ik1czaEZx",
+        "duration": "41:40"
+      }
+    },
+    {
+      "id": "725e099917bb778904d3c840fefbbfb8857ab7434ef58b4fac02ac65b6a59cad",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "publishedAt": "2026-11-24T12:30:05+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "2ffc3f090b25b3a2d2b1befe1a96af93c034eba179ec19b00f1c83f1f32a6c85",
       "module": "ai",
@@ -147,6 +581,101 @@
       "source": "量子位",
       "sourceUrl": "https://www.qbitai.com/2026/11/512354.html",
       "publishedAt": "2026-11-24T06:22:28+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "168335b7093418990b134a932baa638d9930e3662ca67f5fa0fdfe5a8cf398a4",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
+      "summary": "11月19日，方程豹钛9上市，售价27.99万元起",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/512348.html",
+      "publishedAt": "2026-11-24T06:15:38+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "7f4e49934e76c5e0e7100f8de0caed8f2f2a57484bacd797841bcadf41da4ac6",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
+      "summary": "2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/512343.html",
+      "publishedAt": "2026-11-24T06:12:16+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "50386acc418dc4b6ae01a604fa152fc3f85af366ea08956d6506dfabf987ba8e",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
+      "summary": "12.9 北京，来MEET2027现场",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/512329.html",
+      "publishedAt": "2026-11-24T03:33:48+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e91ddf236b48cd4761c9ee784bcd651f5b655cdb0346fb0eeddb522e6a6fa1cd",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
+      "summary": "中国AI数据平台加速崛起",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/512330.html",
+      "publishedAt": "2026-11-24T03:30:46+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "5ab2c039e53ca2159ef3954dc3d926021cedc3047ad7668fa5f70ee1f9f23394",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+      "summary": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/512305.html",
+      "publishedAt": "2026-11-24T03:21:12+00:00",
       "tags": [
         "ai-news",
         "量子位"
@@ -5863,887 +6392,6 @@
       "tags": [
         "ai-news",
         "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c3b6b3c85661278e11fcab8f7e3df5c5a616d5578905513ebcfb3b403a3f3537",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "SEC reportedly investigating Nvidia amid Huang exit",
-      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an al",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-      "publishedAt": "2026-11-17T21:48:07+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "98b02bd39364a19527064913f6f851a4e8a93c91c77219849bd2abcbe96fcb8d",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-      "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
-      "publishedAt": "2026-11-17T21:40:59+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "86d42bdd25a00fbfd83e5515a9b1129f1f4f83be9f40449affacdd0b529d9697",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Google joins the tech outage trend by announcing it’s not having one",
-      "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actu",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-      "publishedAt": "2026-11-17T21:34:50+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "2ecb0e2ee17eb7ed0181a93761e2ba3aa69e5d5907804fd6bf36c11d2aed62ce",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
-      "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent exe",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
-      "publishedAt": "2026-11-17T21:00:55+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "df67f48ed3e05e5dbf0c3f4ab0f88561442971af210df2a379e896bea6e801bf",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
-      "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
-      "publishedAt": "2026-11-17T20:32:55+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "9819e1bda5526676d3ae33a7a92296688f1b50212a7b27141c4dbf72d15ac24e",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.5-9B-M：text-generation 模型更新",
-      "summary": "HuggingFace 主流 text-generation 模型 trymirai/Qwen3.5-9B-M，1,034 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/trymirai/Qwen3.5-9B-M",
-      "publishedAt": "2026-11-17T20:20:33+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1034,
-        "likes": 0
-      }
-    },
-    {
-      "id": "b0874d47f44ad1fb0c95d4799df98fd41eada228cce84faca0c7108fa95e93bc",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "afd-baseline-checkpoints：text-to-video 模型更新",
-      "summary": "HuggingFace 主流 text-to-video 模型 yang29/afd-baseline-checkpoints，3,946 下载，1 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/yang29/afd-baseline-checkpoints",
-      "publishedAt": "2026-11-17T20:14:10+00:00",
-      "tags": [
-        "huggingface",
-        "text-to-video",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 3946,
-        "likes": 1
-      }
-    },
-    {
-      "id": "a4de93e12b774c0e3a13c5d5bd8193b6aa4d844bde1466dc9fae1ccb9d1abc26",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Model ML raises $250M to automate investment banking grunt work",
-      "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can aut",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-      "publishedAt": "2026-11-17T19:32:11+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "1df1a9b23274b803f191e14588b24499361603282707b782e27232a1e3e18696",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-      "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-      "publishedAt": "2026-11-17T19:02:20+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "792d4de710a5cb564f520b21a6649f2c2551912ce25942abbfd0c9425d391235",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
-      "summary": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching。作者：Giannis Daras, Marios Papachristou, Adam",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.23229v1",
-      "publishedAt": "2026-11-17T18:59:37+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smaller than those used for pre-training, which leads to overfitting and the catastrophic forgetting of the tails of the data distribution. To prevent this collapse, we introduce Ambient SFT, a principled framework for leveraging imperfect predictions to augment the fine-tuning set. In our method, a \"frozen\" version of the pre-trained model serves as a noisy teacher that the fine-tuned model must match at a coarse level. In particular, we require that the high-temperature versions of the conditional distributions produced by the post-training model should match the high-temperature versions of the pre-training ones. The temperature hyperparameter controls the level of trust in the pre-trained model, with the limit $T\\to \\infty$ reverting back to regular SFT and $T=1$ to knowledge distillation. We demonstrate that our approach outperforms standard SFT across domain adaptation, instruction-tuning, and reasoning, leading for up to $21\\%$ average relative improvement to standard SFT."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Giannis Daras, Marios Papachristou, Adam Klivans et al.",
-        "categories": [
-          "cs.LG",
-          "cs.AI",
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "e4e24157e4db9546db565dcdbf51d6c720cbef075dcdf2385dd2b11b474324dc",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
-      "summary": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models。作者：Rui Ning, Om Chabra, Hari Balakrishnan。摘要：Ap",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.23228v1",
-      "publishedAt": "2026-11-17T18:59:27+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid vision-language models (VLMs), which interleave attention with linear recurrent layers such as Gated DeltaNet (GDN), are attractive for this setting, but maintaining a sliding window is expensive. The reason is that recurrent layers combine all past frames into a shared state, so expiring old frames normally requires re-running the entire window through the model. We observe that the recurrent update is affine in the state with input-dependent coefficients, so the effect of each frame can be captured as a transformation that composes associatively. We present Spool, a training-free framework that caches per-frame state transformations and composes them efficiently as the window advances, removing expired frames from each recurrent layer's state without replaying frames through the backbone. Removal is exact within each layer; as with key-value eviction in attention, expired frames can retain residual influence through the cached inputs computed by earlier layers. We design a dedicated data structure and GPU kernels to achieve low caching and composition overhead. Across five open-source hybrid VLMs and four video reasoning benchmarks, Spool achieves the lowest p95 time-to-first-token in all 20 model-benchmark tests, reducing it by a geometric mean of $6.6\\times$ over the faster of two recent vLLM baselines, while improving accuracy by 2.3 percentage points on average."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Rui Ning, Om Chabra, Hari Balakrishnan",
-        "categories": [
-          "cs.CV",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "5f3ec3dfdb1ce1f7b947eb04973a993e34bfa4bc4faf8c4d6c6e13e59ac4bed7",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
-      "summary": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics。作者：Xingyang Yu。摘要：We present StringQFT as a",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.23225v1",
-      "publishedAt": "2026-11-17T18:58:40+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapters and 3,795 pages, covering brane probes, brane webs, geometric engineering, F-theory constructions, wrapped M5-branes and exact worldsheet constructions. Its open-book benchmark inventory contains 1,073 items, including 499 with automatic finite-answer checking. For retrieval-augmented generation, it provides 1,371 section records linked to textbook sources and PDF locations, together with a local lexical retriever. Training-data preparation is illustrated by 21 private, source-linked examples. For agents, it exposes 19 calculation tools with specified inputs and finite domains, connecting tool use to textbook derivations. We illustrate these uses through specific questions, retrieved passages and finite calculations. The textbook collection and accompanying resources are available at https://github.com/xingyang-yu/StringQFT."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Xingyang Yu",
-        "categories": [
-          "hep-th",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "a52d4b38dd5449ef32ef07f40e134a29e92819ea86f1a81e8ce05db5187dd6ab",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-      "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-      "publishedAt": "2026-11-17T18:58:01+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d4cc3db6ee4ef6bfdcbdd6c64ec6a4c9519b7f20af93a3f6261de2d1caba2883",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization",
-      "summary": "An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization。作者：Zhaosong Lu, Yi",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.23221v1",
-      "publishedAt": "2026-11-17T18:57:16+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "In this paper, we study a class of constrained convex finite-sum optimization problems. In many practical applications, all or some of the constraints are hard constraints that represent imperative requirements. Consequently, any desirable approximate solution must (nearly) satisfy these constraints. Motivated by this, we focus on computing an $ε$-$surely\\ feasible\\ stochastic\\ optimal$ ($ε$-SFSO) solution, in which the constraint violation is deterministically bounded by $ε$, and the expected optimality gap is at most $ε$. While a recently proposed stochastic variance-reduced first-order penalty method can compute an $ε$-SFSO solution, there remains a significant gap between its first-order oracle complexity for computing an $ε$-SFSO solution and that for computing an $ε$-$expected\\ feasible\\ stochastic\\ optimal$ solution, where both the expected constraint violation and the expected optimality gap are bounded by $ε$. To narrow this gap, we propose an inexact stochastic variance-reduced gradient (SVRG) method that significantly improves the previously best-known first-order oracle complexity for computing an $ε$-SFSO solution. Furthermore, when the objective consists of a single function, the proposed method reduces to a novel deterministic first-order method for solving standard convex conic optimization. It achieves a significantly lower gradient evaluation complexity with respect to the objective function compared to existing methods, and can outperform them when computing constraint gradients and projections onto the associated cone is cheaper than evaluating the objective gradient. Preliminary numerical results are presented to illustrate the performance of the proposed method."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Zhaosong Lu, Yifeng Xiao",
-        "categories": [
-          "math.OC",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "be5d3841220f53022f9f056d2f42f1fcfa3e6fa6a0cb1f4a7b4ca5f75bc85ab8",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
-      "summary": "Do LLM Agents Still Need to Be Told How to Self-Improve?。作者：Shobhita Sundaram, Cansu Sancaktar, Phillip Isola。摘要：LLM age",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.23219v1",
-      "publishedAt": "2026-11-17T18:57:10+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a basic question: do these increasingly capable models still need us to specify how they should self-improve? In this paper we study an autonomous paradigm in which, given basic primitives, resources, and a general goal for self-improvement, agents construct their own self-learning algorithm for context-based optimization. Using the setting of gameplay as a testbed, a frozen LLM agent is given a compute budget and tools for collecting experience and updating text documents, and allowed to freely experiment without an externally imposed loop or access to real-world data. We find that sufficiently capable models do self-improve under these conditions, demonstrating strategies that align with classic cognitive frameworks for self-regulated learning and constructs from machine learning literature on self-generated curricula. Furthermore, we study the extent to which the learned text artifacts transfer to external benchmarks, observing improvement across different game horizons, mechanics, and 3D navigation."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Shobhita Sundaram, Cansu Sancaktar, Phillip Isola",
-        "categories": [
-          "cs.LG",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "a3f9a42b0b9cdf1941238c9aa75876873825d02bd2cfa9f1b251a4abc06edfdc",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution",
-      "summary": "What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution。作者：S. M Seefat Alam。摘要：Methods that lo",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.23218v1",
-      "publishedAt": "2026-11-17T18:57:08+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Methods that localise social bias in large language models to individual attention heads and remove it by ablation are validated by their effect on a fairness metric, never by evidence that the statistic selecting the heads measures bias. We audit this on Qwen-2.5-7B-Instruct and Llama-3.1-8B-Instruct. The head map correlates at $ρ= -0.950$ and $-0.768$ with a label-blind response-length map, apparently identifying a surface confound. An intervention that breaks the length-label coupling rejects this reading: with the prompt held fixed, response length explains 1% of the statistic's variance. What does explain it is prompt identity, at 64% of variance, in an ordering that is not monotonic in length. Within any fixed prompt the fairness label, response length and the presence of a protected-group token are collinear at $φ= 0.95$, partly by definition of the labelling rule, so no observational analysis can attribute the map to any of them, and no method in this family performs an experiment that could. The substantive claims fail independently: bias selectivity is not late-layer-concentrated on either model under either reference reading, and no head set we tested reduces the unfairness rate when ablated. Its complement, scored on the opposite label, reliably destroys refusal behaviour ($p = 2.7\\times10^{-5}$), demonstrating that the pipeline detects effects at this scale."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "S. M Seefat Alam",
-        "categories": [
-          "cs.CL",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "6a163efb9dfc2b71a199be9a7f8342d6dea3b3fd603650549505052285a5b874",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Higher-Scoring Coding Models Did Not Get More Work Done",
-      "summary": "Higher-Scoring Coding Models Did Not Get More Work Done。作者：Yining Hua。摘要：New coding models advertise themselves on score",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.23216v1",
-      "publishedAt": "2026-11-17T18:56:42+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "New coding models advertise themselves on score improvements of coding benchmarks. Yet no study has tested if a model that scores higher on these benchmarks gets more real work done. On June 12, 2026, a U.S. export control directive banned access to Claude Fable 5 for 19 days, which forced users to switch to other models. During this time, most former Fable 5 users switched to Opus 4.8 (11 points lower on SWE-Bench Pro compared to Fable 5). We treat this suspension as a natural experiment, where the people and projects stayed the same and only the model changed, so we could isolate the effect of Fable 5 on user productivity. We tracked GitHub pull requests of 297 Fable 5 users before, during, and after the suspension. We used 8,908 developers who stayed on Opus 4.8 all the time as the control group. We also repeated the comparison across five model upgrades before and after the suspension in 2026 (1,208 developers, 15,442 pull requests). Fitting a difference-in-differences model with developer and date fixed effects, we found that having access to Fable 5 increased the 7-day merge rate of pull requests by only 1.4 percentage points [-1.4; +4.3], which was not statistically significant. Similarly, no significant increases of merge rates were found with the upgrades (weighted mean: -0.9 percentage points [-1.9; +0.2]); all five estimates were negative (95% intervals included 0, did not differ from each other). We also did not observe a significant increase in the number of pull requests merged per week (+2.4% [-4.9%; +10.2%])."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Yining Hua",
-        "categories": [
-          "cs.SE",
-          "cs.AI",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "54d5429a1d2bae9f3baf714df632bca649b8f0936efceb54dbb3b854f5b55e3e",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving",
-      "summary": "Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving。作者：John Gideon, Anshul Gupta, Megan Applegate-Kent",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.23211v1",
-      "publishedAt": "2026-11-17T18:50:22+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Human cognitive state (e.g., distraction, stress), gaze, and behavior interact with the driving environment in subtle ways that AI could use to assist drivers, but ground-truth labels for human cognitive state levels are costly to obtain at scale. We propose a multimodal masked-diffusion autoencoder, ID-MAE, that adds a self-supervised objective to impairment prediction: alongside predicting the impairment label as a masked token, it reconstructs masked gaze and trajectory. To probe the effects of different modalities and types of impairments on model inference, we introduce DIVERT, a driving-simulator dataset containing 103 hours of driving data (n = 109) with ten impairment inductions spanning cognitive, visual, and emotional states, recorded with gaze, vehicle state, and scene video. We demonstrate how ID-MAE affords significant improvements in impairment inference results on both the DIVERT dataset and existing datasets, and enables strong results in additional tasks, such as trajectory and gaze prediction. For location-matched pairs, our model achieves a paired AUC of 0.706 for impairment detection on DIVERT, compared to 0.590 without reconstruction loss, improving over existing baselines. We probe the design space in terms of input modalities, masking scheme, positional encoding, attention mechanism, and decoding. We also investigate the interaction between various impairments in training and inference, demonstrating that visually demanding distractions are separable from cognitive distractions. Code and data will be available upon acceptance."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "John Gideon, Anshul Gupta, Megan Applegate-Kenton et al.",
-        "categories": [
-          "cs.CV",
-          "cs.LG",
-          "cs.RO"
-        ]
-      }
-    },
-    {
-      "id": "c2bb9191ee4bc1f1cd6a6ece5bedb24d4b4464a404094876d9ccd81cc6a1ee76",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Distortion-Free Semantic Watermarks for Black-Box Generative Models",
-      "summary": "Distortion-Free Semantic Watermarks for Black-Box Generative Models。作者：Aviv Yossef, Or Patashnik, Or Zamir。摘要：We present",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.23208v1",
-      "publishedAt": "2026-11-17T18:49:17+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "We present a provably distortion-free semantic watermarking algorithm that requires only black-box sampling access to a generative model and black-box access to a semantic embedding. A watermark is called distortion-free if, averaged over its secret detection key, it leaves the generator's output distribution unchanged; this provides a formal guarantee that watermarking does not reduce output quality. Conventional such watermarks are often brittle to transformations. This is especially problematic for images, where benign operations such as compression, cropping, or resizing change the entire pixel representation. Semantic watermarks therefore require detection to be robust to content-preserving transformations. Previous methods combining these properties rely heavily on specific white-box properties of the underlying model: either to autoregressive text generation or to diffusion-specific access, such as control of the initial noise or diffusion inversion. In contrast, our construction is fully generic: It only interacts with the generative model and the semantic embedding, a function that determines the notion of \"preserving content\" under which detection should be robust, via sample and query access. We then instantiate this framework for image generation. We characterize the two competing properties required of the semantic embedding: it should remain stable under transformations that preserve an image's content, but should distinguish independent generations from the same prompt. We train an image encoder directly for this tradeoff. The resulting encoder improves separation while maintaining stability over off-the-shelf alternatives and enables strong aggregate detection while remaining robust to various transformations. We demonstrate the effectiveness of our watermark scheme on both open-source and closed models, which is possible only due to restriction to black-box access."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Aviv Yossef, Or Patashnik, Or Zamir",
-        "categories": [
-          "cs.LG",
-          "cs.CR",
-          "cs.CV"
-        ]
-      }
-    },
-    {
-      "id": "7a5cfd6babdede70b0bf4d3262c308d7b724ad3ac33b96c12697f95ce7786be5",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-      "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
-      "publishedAt": "2026-11-17T18:48:23+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "3e86db3920082a1adcf4f9501ffb690244317056ff4d23e2ed6989e64b37afe2",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Reading Scene States: Uncovering Safety Failures in Vision-Language Models",
-      "summary": "Reading Scene States: Uncovering Safety Failures in Vision-Language Models。作者：Tongxi Wu, Yuyang Cheng, Jiacheng Xian et",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.23206v1",
-      "publishedAt": "2026-11-17T18:48:02+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Vision-language models (VLMs) can provide harmful assistance by interpreting visual events, even without an explicit request for the underlying harmful objective. We identify this \\textbf{scene-state safety vulnerability} and introduce \\textbf{SceneSafetyBench}, comprising 375 image--question pairs spanning Initial, Medium, and Ultimate scene states and five visual presentations. Across eight VLMs, scene-state inputs elicit harmful assistance with attack success rates (ASRs) of 45.6--72.3\\%. Comparative analysis across three VLMs shows that scene-state inputs most closely resemble QR-related images in their layer-wise safety-related signal profiles, while exhibiting lower average late-layer readouts and distinct signal dynamics during generation. To turn this vulnerability into a systematic attack, we propose \\textbf{S3TA}, which translates harmful objectives into scene states, queries image--question pairs independently, and assembles the responses. On seven MM-SafetyBench categories across eight open-weight and commercial VLMs, S3TA achieves a model-average ASR of \\textbf{71.2\\%, exceeding the strongest baseline by 6.1 percentage points}. Text-side filters and visual moderation provide limited protection. These findings highlight the need to safeguard the assistance models infer through scene-grounded reasoning, beyond screening input content."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Tongxi Wu, Yuyang Cheng, Jiacheng Xian et al.",
-        "categories": [
-          "cs.CV",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "15d8e7c85934442dfe6030601807def2849f0295356c4cbecf65c1090df53e5e",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Fine-Tuning Gemma 4 Edge Models for MATLAB Signal-Processing Code with SFT and QLoRA on a Laptop iGPU",
-      "summary": "Fine-Tuning Gemma 4 Edge Models for MATLAB Signal-Processing Code with SFT and QLoRA on a Laptop iGPU。作者：Mehmet Altan To",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.23205v1",
-      "publishedAt": "2026-11-17T18:47:37+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Small language models that run on a laptop are attractive for writing signal-processing code offline, but they make systematic errors on digital signal processing (DSP) conventions. We apply supervised fine-tuning (SFT) to the Gemma 4 edge models E2B and E4B with 66 checked examples covering 11 signal-processing MATLAB subtasks, using low-rank adaptation (LoRA) and quantized LoRA (QLoRA) on the integrated GPU (iGPU) of a laptop, and deploy the 8-bit integer (int8) models with the adapters through OpenVINO. On held-out variants scored by deterministic checkers, the pass rate rises from 18/66 to 37/66 (LoRA) and 37/66 (QLoRA) for E2B and from 32/66 to 47/66 for E4B (QLoRA). Reading all 159 failing programs shows that the adapters remove most errors of convention, such as the sign of a lag, units and array shapes, but few errors in building signals and noise. Applied at run time, the adapter costs 17-19% of the generation speed."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Mehmet Altan Toksöz",
-        "categories": [
-          "cs.LG",
-          "cs.AI",
-          "cs.SE",
-          "eess.SP"
-        ]
-      }
-    },
-    {
-      "id": "79d4a441042652e3a0866cd7aa8f0f0d413a73a3c1834c93ebc5ef1bea33c9d8",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Agent Trust Infrastructure (ATI): A Federated Identity, Trust, Attestation, and Accountability Architecture for Cross-Organization Autonomous AI Agents",
-      "summary": "Agent Trust Infrastructure (ATI): A Federated Identity, Trust, Attestation, and Accountability Architecture for Cross-Or",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.23202v1",
-      "publishedAt": "2026-11-17T18:44:25+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "AI agents increasingly collaborate across organizational boundaries, invoking tools and interacting with agents operated by independent entities. Although existing agent frameworks support planning and coordination, they lack a common mechanism for verifying cross-organizational agent identity, execution integrity, and authorization. We propose the Agent Trust Infrastructure (ATI), a framework-independent security architecture built on Public Key Infrastructure (PKI), Zero Trust Architecture (ZTA), and remote attestation. ATI establishes federated trust through peer organizational certificate authorities (AgentCAs), eliminating the need for a shared root authority. Before executing requests, ATI validates agent certificates, verifies approved model, tool, and system-prompt configurations, and enforces authorization through three policy checks. We implement ATI as an external security enforcement layer that integrates with existing agent frameworks without modifying their underlying models. We evaluate ATI in a simulated federation of eight organizations using six agent frameworks, each deploying a five-agent team. Security experiments involve two organizations and assess 14 attack scenarios and six benign tasks across five agent models, using five attack variations and three repetitions per variation. A panel of judge models evaluates the experimental outcomes. With all enforcement mechanisms enabled, attack containment increases from 43% to 84% (40% to 80% for the 11 attack scenarios evaluated consistently across all configurations), while enforcement introduces approximately 174 microseconds of overhead per request. ATI is released as an open-source, framework-independent package that uses IETF WIMSE workload token formats for identity and request verification and Entity Attestation Tokens for model, tool, and system-prompt integrity verification."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Viet K. Nguyen, Mohammad I. Husain",
-        "categories": [
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "3f801d5a191a73b9cf233a4d8d1ef08df33cb7018e631c6aa27bd736d652b52a",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Learned versus Kinematic Trajectory Prediction under Reduced Observation Frequency",
-      "summary": "Learned versus Kinematic Trajectory Prediction under Reduced Observation Frequency。作者：Nukhbala Gadzhiev, Alexander Moroc",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.23198v1",
-      "publishedAt": "2026-11-17T18:38:28+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Trajectory prediction models for automated driving are usually trained on data with a fixed sampling frequency, while positions received via vehicle-to-everything (V2X) communication arrive at 1-10 Hz. We study whether a learned predictor that uses only the observation history keeps its advantage over constant velocity (CV) and constant acceleration (CA) models when the history frequency drops. On the Argoverse 2 motion forecasting dataset, the 5 s history of the focal agent was downsampled from 10 Hz to 5, 2, and 1 Hz, and the 6 s future was predicted without maps or neighboring agents. An LSTM-based recurrent neural network (RNN) trained for each frequency was compared with the same network trained at 10 Hz and applied to sparse histories after linear interpolation. Hypotheses and thresholds were fixed before training, the main RNNs were trained with ten seeds each, and results on 24,984 test scenarios have bootstrap confidence intervals over scenarios and seeds. The average displacement error of the frequency-specific RNN grew by 3.1% at 5 Hz, 10.1% at 2 Hz, and 20.3% at 1 Hz. Contrary to our hypothesis, its advantage over the better kinematic model did not vanish on straight motion and was 24-30% on both straight motion and turns at every frequency, while for pedestrians CV was more accurate. The 10 Hz model with interpolation was at most 1.3% less accurate than the frequency-specific model down to 2 Hz but 11.5% less accurate at 1 Hz. Each hypothesis was only partly supported."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Nukhbala Gadzhiev, Alexander Morochko",
-        "categories": [
-          "cs.LG",
-          "cs.RO"
-        ]
-      }
-    },
-    {
-      "id": "05a804e665847d1cdd4f5eeb96c9369705309e37c16cc69d1f16498b5d993061",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Structure--Residual Inductive Biases for Language Model Pretraining",
-      "summary": "Structure--Residual Inductive Biases for Language Model Pretraining。作者：Hai Huang, Bartosz Żuk, Rassul Magauin et al.。摘要：",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.23197v1",
-      "publishedAt": "2026-11-17T18:38:27+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Next-token prediction is relied upon to learn both predictive behavior and internal representations. We ask whether representation structure itself should be an explicit inductive bias. Motivated by the two-part coding view of Kolmogorov complexity, we study a structure--residual principle in which a representation separates structure from realization detail. We instantiate this principle in two complementary ways. Boundary Bottleneck Concept (BBC) routes information from token segments through boundary carriers while preserving local autoregressive computation. Continuous Concept (CC) regularizes representation geometry and induces a spectral decomposition into low-frequency structure and high-frequency residual. We derive coding bounds for both views and show that multiplicity-corrected boundary attention becomes exact as the within-segment path energy vanishes. Empirically, BBC and CC exhibit strikingly different depth preferences: BBC works best in early layers, whereas CC is most effective in later layers. At 300M training tokens, combining BBC and CC improves NLL by 1.44\\% on GPT-2 Medium. These gains persist with training runs up to 20B tokens. Representation diagnostics show that BBC increases the relative predictive importance of boundary states, while CC reduces spectral residual energy. Together, these results suggest that structure--residual biases can improve language-model pretraining beyond next-token prediction. Code: https://github.com/haihuang-ml/structure-residual"
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Hai Huang, Bartosz Żuk, Rassul Magauin et al.",
-        "categories": [
-          "cs.CL",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "dfa8a0c942a192ce20967f7736d903dca22c2b06198694405439363f07f8e2b1",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "WoRD: Diffusion-Based Posterior Inference for Online Goal Recognition",
-      "summary": "WoRD: Diffusion-Based Posterior Inference for Online Goal Recognition。作者：Almog Anschel, Sarah Keren。摘要：Goal recognition",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.23192v1",
-      "publishedAt": "2026-11-17T18:35:53+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Goal recognition is the task of inferring an agent's intended goal from its observed behavior. Most existing work focuses on high-level symbolic recognition, abstracting away the continuous motion through which agents reach their goal. Methods that do reason over continuous trajectories rely on an explicit dynamics model that is hard to acquire and rarely transfers across settings. Neither approach explicitly learns how agents move toward each candidate goal, limiting accuracy on ambiguous trajectory prefixes where such knowledge is most needed.   We present WoRD (Waypoint Recognition with Diffusion), which uses a learned trajectory prior to infer the agent's goal from partial observations. At each step, WoRD runs one warm-started denoising chain per candidate goal, steers each chain toward the observed trajectory through a closed-form log-likelihood gradient, and reweights the resulting samples by Bayes' rule into a calibrated posterior over goals. We evaluate WoRD on simulated robot settings, pedestrian trajectories, and vehicle trajectories using four metrics targeting distinct failure modes. Across all three settings, the same inference procedure preserves calibrated multimodal beliefs through ambiguous prefixes where filter- and classifier-based observers collapse to a single mode or grow overconfident."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Almog Anschel, Sarah Keren",
-        "categories": [
-          "cs.AI",
-          "cs.LG",
-          "cs.RO"
-        ]
-      }
-    },
-    {
-      "id": "8cf02497f416ae55c9bf06d3b6776c45110af9d434c0cda3a6e61da2b233d676",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "As decision model use skyrockets, is customization the next frontier?",
-      "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
-      "publishedAt": "2026-11-17T18:10:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "3ab94eb7f1fed7a6d7560d7037807876e42a489eb945fb5cdbcddc43a0d637c6",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-      "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-      "publishedAt": "2026-11-17T18:04:16+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "b1438fe307bf239db8734746afde3954ace9b1605495deb40ec97616848a3ded",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, wit",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-      "publishedAt": "2026-11-17T17:32:25+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "0294474e0dbd9d7bc7329771401659dd041216b8cc18164aecef7e81e491c2ea",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-      "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participat",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-      "publishedAt": "2026-11-17T17:20:41+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ff7be43c1624ac37840bb98f96379ea2df471c0f757b70406af33fe6e724c1e5",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Google makes it easier to use Gemini without training AI on your data",
-      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
-      "publishedAt": "2026-11-17T16:50:10+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "e819298f261a03247666521bdb5ccd338356d2dc5590c92e51385470cceaffe6",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
-      "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as C",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
-      "publishedAt": "2026-11-17T16:44:15+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4ac2b60e4417fc7a03fbb417100425935ecbfd6a5aac321af742c4d84390a5c6",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "The DOJ says it’s investigating Megaspeed",
-      "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
-      "publishedAt": "2026-11-17T16:19:03+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a265ae94daf0b527caccf3b77766ecd7109ead4f99c33527a95ebbe3b4eda5ef",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
-      "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of direct",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
-      "publishedAt": "2026-11-17T16:09:57+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "873df5d4dba836c4fd954f788cc0ac54a27929fa9ed2a79d959f34c8d0eaf3b1",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
-      "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-      "publishedAt": "2026-11-17T15:28:59+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "94af6bce4bedd045e16221e5d8b7c14f0be760a93dd6ff2048190ab0e50d2793",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "【云顶s18】野怪大红老是玩不好？？一把对局记录告诉你大红怎么玩？你缺少了哪些细节？",
-      "summary": "UP主 小爱さま · 138播放 · 24:29",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117632409866533",
-      "publishedAt": "2026-11-17T15:18:35+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "小爱さま",
-        "play": 138,
-        "bvid": "BV1SSs66tEpC",
-        "duration": "24:29"
-      }
-    },
-    {
-      "id": "d9ab04b86804e3863dc87ced22fd2a1032dea30d7169fd852e27355d08860d85",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
-      "summary": "82亿美元股票，46天闪电交割",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/510695.html",
-      "publishedAt": "2026-11-17T14:15:20+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "726d26c85e3a6a7770588c6fe262800bbebf1f4a7642ae17205ddcc86d374b27",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-      "publishedAt": "2026-11-17T14:00:29+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "1180f80a2976c2298672a888b4485159fd11c7390ea2b82d3bb6c302769aa65d",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "李沐加盟的Aimotion，是一家什么AI公司？",
-      "summary": "瞄准「产业级世界模型」",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/510688.html",
-      "publishedAt": "2026-11-17T11:40:37+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
       ],
       "body": [],
       "points": [],
