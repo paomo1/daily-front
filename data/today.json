@@ -1,9 +1,190 @@
 {
-  "generated_at": "2026-11-24T21:51:16.864559+00:00",
-  "date": "2026-11-24",
+  "generated_at": "2026-11-25T09:38:23.212383+00:00",
+  "date": "2026-11-25",
   "keep_days": 7,
   "count": 297,
   "items": [
+    {
+      "id": "f73bae57dbb94ab8cf4c18ec25b977a43d3d22518a75cfa21aa5bf0bb0c0ffec",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "tiny-Lfm2VlForConditionalGeneration-2.5：image-text-to-text 模型更新",
+      "summary": "HuggingFace 主流 image-text-to-text 模型 trl-internal-testing/tiny-Lfm2VlForConditionalGeneration-2.5，5,635 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/trl-internal-testing/tiny-Lfm2VlForConditionalGeneration-2.5",
+      "publishedAt": "2026-11-25T09:34:33+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 5635,
+        "likes": 0
+      }
+    },
+    {
+      "id": "5662683b95a33294bec28f008ff42b9d9d9bed1067c4fca831537c9fbbfd86e0",
+      "module": "lol",
+      "seg": "rift",
+      "cat": "峡谷攻略",
+      "title": "lolm：新英雄塞拉斯上单出装 能抗能打 打团容错太高了",
+      "summary": "UP主 玩游戏的啊呆 · 330播放 · 5:5",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117676265512640",
+      "publishedAt": "2026-11-25T09:05:30+00:00",
+      "tags": [
+        "lol",
+        "rift",
+        "英雄联盟 上单 出装 攻略 教学"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "玩游戏的啊呆",
+        "play": 330,
+        "bvid": "BV1oKy6ziEJx",
+        "duration": "5:5"
+      }
+    },
+    {
+      "id": "461c47c05c1bfc9dcfa7498a542edf5a3a06901682c7b343d34699d3f02fba1a",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Anthropic还藏着2个最强模型…",
+      "summary": "Fable5.2已经很旧了。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/512538.html",
+      "publishedAt": "2026-11-25T08:23:24+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "4f3382a20e4c692849c53dfa40c5a7fe6f87aa248893e744e9a1fc48799df274",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "完整议程！第二十一届中国IDC产业年度大典（IDCC2026）",
+      "summary": "第二十一届中国IDC产业年度大典（IDCC2026）暨2026全球数字基础设施科技展即将举办",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/512532.html",
+      "publishedAt": "2026-11-25T08:18:54+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e3709d1d1c2acfd099380c7bc4189ade75b4f1ecacf0daa87a3c41369b921c07",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
+      "summary": "OpenAI这下要有俩Tibo了",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/512515.html",
+      "publishedAt": "2026-11-25T07:46:52+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "ba3167073b19a40d7be205c1b65976352d721c2251072ec904a396ce5e235ffd",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
+      "summary": "复杂场景三维建模成本降至10美元以内",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/512498.html",
+      "publishedAt": "2026-11-25T06:49:27+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "be4d119a1af9197ded7adc2af12753f52ae3de1d2aff93ce910dc91bededdff5",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Claude Opus 5.6灰测效果来了",
+      "summary": "整体效率大约是此前Opus版本的2到3倍。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/512478.html",
+      "publishedAt": "2026-11-25T02:43:07+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "3ea23721bbdb9ede2d5d7da173205c774934ae0ac10b92b24eea133e10cc020c",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia'",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "publishedAt": "2026-11-25T00:12:02+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "bac83c9e96c20e4f5d3eb094e312bf13fb9793bce4b1a7781eb0f165d7442f9c",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "publishedAt": "2026-11-24T22:27:52+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "d72a79f3921d8ade928d69db004b0ec238f6b913ff7df83eab03fa189485b032",
       "module": "ai",
@@ -142,6 +323,279 @@
       "extra": {}
     },
     {
+      "id": "9ae29380702d179a36ec4355cb29248a6d51e3906eb9a591588dd89e8223419b",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "OmniAct: One Policy, One Million Embodiments",
+      "summary": "OmniAct: One Policy, One Million Embodiments。作者：Xiang Fan, Yuheng Wang, Jiayuan Yan et al.。摘要：A single policy that contr",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.33158v1",
+      "publishedAt": "2026-11-24T18:59:58+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer through shared action representations, but these representations do not necessarily capture how differences in robot morphology should shape manipulation strategies. We introduce OmniAct, a cross-embodiment manipulation policy that conditions directly on each robot's kinematics in a specific scene to produce embodiment-specific behavior. This kinematic graph represents the robot's joint positions, motion axes, and connectivity to its visual observation, allowing the policy to account for how its embodiment related to objects and surfaces in the scene. A flow-matching policy predicts relative joint motions for each node, enabling control across robots with different degrees of freedom and kinematic configurations. To learn how physical structure shapes behavior at scale, we procedurally design and filter one million physically feasible robot embodiments; next, we develop algorithms to generate robot trajectories in simulation for all embodiments; finally, we train across diverse simulated manipulation tasks. On 2,000 embodiment-scene-held-out evaluation episodes, OmniAct achieves 63.0% success, compared to 17.8% for pi 0.5 and 57.9% for the strongest baseline; on the task families GPT-6 Astra was evaluated on, it achieves 64.7% against GPT-6 Astra's 41.1%. On a previously unseen real-world robot, it achieves nearly twice the success rate of the next best method, MolmoAct2. Beyond task success, we observe that OmniAct learns distinct manipulation strategies that exploit the capabilities and accommodate the limitations of different morphologies. Project: https://omniact.github.io/"
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Xiang Fan, Yuheng Wang, Jiayuan Yan et al.",
+        "categories": [
+          "cs.RO",
+          "cs.AI",
+          "cs.CV",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "33fab6ffd63b3001b7c5b0a63bd83c73b25e96a778aad271afd0dce62a8f0ae0",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
+      "summary": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning。作者：Binfei Ji, Zhiwen Cao, Anqi Yang et al.。",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.33153v1",
+      "publishedAt": "2026-11-24T18:59:08+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of the speaker for every utterance in a video. Considering that utterance timing and audiovisual diarization are tightly coupled, DiaCap unifies the tasks in a single model, trained in two complementary stages. First, we train DiaCap on 225K curated clips, using synthetic captions that densely label every utterance in detail. Second, we further refine the model via reinforcement learning on 2.9K human-corrected clips, using fine-grained feedback that directly evaluates utterance timing, speaker grouping, and speaker binding. On DiaDemBench, which we extend with utterance-level timestamps and subtitle redaction, both DiaCap with off-the-shelf transcripts and its end-to-end variant DiaCap-E2E achieve strong results. Specifically, DiaCap performs on par with Gemini 4 Argon in audiovisual diarization while clearly outperforming it in timestamp accuracy (76.59 vs. 42.76 TIME). It also maintains strong diarization on multilingual and minute-long videos, and transfers to audiovisual question answering."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Binfei Ji, Zhiwen Cao, Anqi Yang et al.",
+        "categories": [
+          "cs.CV",
+          "cs.CL",
+          "cs.MM",
+          "cs.SD"
+        ]
+      }
+    },
+    {
+      "id": "15fe5dd4dafeb6e19f9b4dfdf81d1b871d2a20c5fd90e620d320c3967a23be7d",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
+      "summary": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles。作者：Yuwei Yang,",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.33151v1",
+      "publishedAt": "2026-11-24T18:59:04+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large and diverse image-text datasets. Beyond scaling, further progress can come from learning richer representations from existing data. We hypothesize that the structure of scientific literature itself provides an additional source of supervision: figures, panels, captions, and accompanying article text encode rich relationships across modalities. Yet, treating these as independent image-text pairs overlooks their relationships. To address this limitation, we incorporate these structural relationships into contrastive image-text supervision. We preserve exact image-text matches while introducing weaker positive supervision for related pairs, such as a panel and the caption of a sibling panel. We upweight cross-article negatives of the same content type to encourage finer discrimination. We also enrich panel descriptions using visual content, original figure captions, and mentioning paragraphs. Pairing panels with these descriptions and whole figures with their original captions yields Loom52M, a dataset of 52.4 million image-text pairs spanning scientific charts and biomedical images. Using Loom52M, BioLoom (DFN-2B) achieves 56.82% domain-balanced mean accuracy across 67 zero-shot classification tasks from 43 datasets in 10 domains, compared with 48.77% for MedPMC-CLIP. On BioLoomBench with concise captions and BioMedFlickr, it achieves bidirectional mean Recall@1 of 63.20% and 10.59%, versus 46.37% and 7.55% for the respective strongest evaluated baselines, BiomedCLIP and MedPMC-CLIP. Code, datasets, benchmarks, and models are available at https://bioloom-clip.github.io/."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Yuwei Yang, Xiaoxiao Sun, Alejandro Lozano et al.",
+        "categories": [
+          "cs.CV",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "e28152204c4f5ab27495bcd1efb74ab40952f4920b5f71935a11009e5aee6ede",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies",
+      "summary": "CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies。作者：Dawid J. Kopiczko, Tijmen Blankevoort, Yuki M.",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.33148v1",
+      "publishedAt": "2026-11-24T18:58:53+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Reasoning models become long-horizon agents through reinforcement learning or, more cheaply, through fine-tuning on a stronger teacher's trajectories, which contain the teacher's chain-of-thought as well as its actions. The standard fine-tuning approach imitates both, yet the strongest teachers are closed models whose chain-of-thought is hidden behind an API. We show that the chain-of-thought can be left out altogether and that the long-horizon policy can be distilled from the teacher's actions alone. The student is trained on these trajectories with its reasoning block left empty, while a KL loss on a replay buffer of its own generations limits drift from its initial model. Surprisingly, the policy learned from these trajectories with an empty reasoning block carries over to inference with thinking enabled, where the student reasons in its own style while acting like the teacher, an effect we call cross-format transfer. Distilling the actions of Qwen3.6-27B raises the task success of Qwen3-4B on AppWorld from 7% to 18% and that of Qwen3-32B from 12% to 25%. We further introduce CoT-proxies, short summaries of the teacher's reasoning placed after the empty reasoning block, which raise Qwen3-4B further, to 35%. Since neither actions nor CoT-proxies need the hidden chain-of-thought, the recipe applies unchanged to closed teachers. Distilling GPT-5.6 Luna from its visible outputs and the reasoning summaries its API returns raises Qwen3-4B from 7% to 48% on AppWorld and from 3% to 28% on SWE-bench Verified."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Dawid J. Kopiczko, Tijmen Blankevoort, Yuki M. Asano",
+        "categories": [
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "d3c54112cd456b1d4cb1234c9c179201191f07d7645497189c3726806290c220",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction",
+      "summary": "iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction。作者：Vansh Kapoor, Max Sobol Mark,",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.33141v1",
+      "publishedAt": "2026-11-24T18:56:04+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "World-action models (WAMs) build policies on pretrained video-generation models, on the premise that predicting how a scene evolves helps determine how to act. However, generating future scenes is expensive for real-time control. This motivates efficient proxies for future imagination, but how to train such proxies without sacrificing action-prediction quality remains unclear. An effective proxy need not generate a high-resolution frame; it only needs to provide enough information to distinguish between possible futures. This leads to the design principle behind iWAM: rather than denoising an entire future frame, can we condition the action policy on intermediate features from a single video-model evaluation? We show that the answer is yes. Exploiting the reversible dynamics of flow-matching models, we invert each training future into the corresponding latent noise vector. However, a single velocity evaluation at this latent does not necessarily yield informative features for action prediction. We therefore learn a bidirectional flow map that amortizes future-generation computation, enabling a single model evaluation to provide effective conditioning features. At inference, we sample a latent noise vector from the prior and condition the policy using just one video-backbone forward pass. Across simulated benchmarks and real robots, iWAM recovers the generalization benefits of WAMs while substantially reducing its inference cost."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Vansh Kapoor, Max Sobol Mark, Sreyas Venkataraman et al.",
+        "categories": [
+          "cs.RO",
+          "cs.CV",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "aa78b921a6c3719273ec9ef8b79af3f3ed7a3a2acab16f12b0e9922082ad5b6b",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "BriConstrain: Geometrically Constrained Decoding for Autoregressive Brick Assembly Generation",
+      "summary": "BriConstrain: Geometrically Constrained Decoding for Autoregressive Brick Assembly Generation。作者：Nadav Magar, Amir Hertz",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.33135v1",
+      "publishedAt": "2026-11-24T18:54:38+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Language models can generate LEGO$^\\circledR$ assemblies from text, but their builds often contain parts that collide or attach to nothing. The usual approach of rejecting and resampling invalid placements discards decoded tokens without guaranteeing a valid build. We present BriConstrain, a constrained decoding method that restricts a pretrained language model's next-token probabilities before sampling, steering it towards valid placements. Because the validity of a brick placement depends on the non-predetermined build state, it cannot be compiled into a fixed grammar and must be checked dynamically. However, checking the validity of a brick before sampling is challenging as the space of valid placements is combinatorially large and cannot be enumerated exhaustively. Our key idea is to narrow the search space by constraining how parts attach rather than which parts attach to each other. Concretely, given the model's predictions of the currently placed part, and the previously placed parent it wants to connect to, we constrain the model's choice of how they attach. This allows us to span the space of part attachments, using a precomputed geometric oracle, and to effectively filter out colliding options. With valid attachment candidates in hand, we bias the model's next-token distribution towards the remaining valid candidates. We evaluate our method on two LEGO$^\\circledR$ formats and models: BrickNet, which annotates connectivity explicitly, and our proposed Implicit Connectivity LDraw Format (ICLF), which uses numeric values for placements and leaves connectivity implicit. Our method raises collision-free builds from 31% to 91% on BrickNet and from 15% to 65% on ICLF, and outperforms rejection sampling on both formats at about 60% of its decoding cost."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Nadav Magar, Amir Hertz, Ariel Shamir et al.",
+        "categories": [
+          "cs.CV",
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "d1e82635f34cb8c47cbf801d08529bf31b385b17c0f0f2e06d5ffa93bf62f06d",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops and Complement a Frontier Model's Weight Edit",
+      "summary": "A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops and Complement a Frontier Model's W",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.33133v1",
+      "publishedAt": "2026-11-24T18:53:22+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Qwen3.5-0.8B rarely finishes reasoning in thinking mode: at a 4,096-token budget only 1 or 2 of 500 MATH-500 answers close their think block (two seeds), and accuracy is 15.4%. A recent demonstration had GPT-6 Astra edit 131,072 of the model's weights without gradients and reported MATH-500 rising from 7.9% to 48.1% at a 32,768-token budget. We provide the missing gradient baseline, then combine the two edits. Fine-tuning only the 140 to 139,750 weights with the largest gradient, on the model's own correct answers to MATH training problems, raises thinking-mode MATH-500 at 4k tokens to 39.0-45.5% after 2-9 minutes of training on one GPU; 50 training examples suffice, and 1,398 random positions give only 16.3%. The gradient concentrates the edit on the most nearly constant channel of each of the first three layers. Because the model has no bias terms, an edit confined to those channels acts as a constant vector added to the residual stream: adding three fixed vectors to the unedited model matches the accuracy of such an edit. Under the Astra protocol (32k tokens, presence penalty 1.5), the Astra edit scores 52.1% (finished and correct) in our reproduction and our full-strength edits reach 45.6-45.7%, but ours win at every budget up to 16k tokens (39.5% against 6.7% at 4k). The two edits are complementary. The Astra edit plus our 139,750-weight edit at half strength scores 62.2% at 32k, 10 points above the Astra edit alone (p = 3e-9), with half as many tokens; our half-strength edit alone scores 46.7%."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Hussamuddin Syed",
+        "categories": [
+          "cs.LG",
+          "cs.CL"
+        ]
+      }
+    },
+    {
+      "id": "a2f2062ab379c33a4a26b884fa0a7b7283959c775a02921f968203246e356983",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Exploratory Midtraining for Robot Policies",
+      "summary": "Exploratory Midtraining for Robot Policies。作者：Kshitiz, Zheyuan Hu, Robyn Wu et al.。摘要：Robot policies predominantly learn",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.33130v1",
+      "publishedAt": "2026-11-24T18:52:34+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Robot policies predominantly learn from human-collected data emphasizing competent behavior, limiting coverage of the low-level behaviors needed to support autonomous improvement. We study how a form of midtraining can be used to build coverage over diverse low-level behaviors that connect challenging states of the robot and its environment to states from which further progress is possible (\"connected behavioral coverage\"). We also examine how this coverage supports downstream adaptation and online improvement. To this end, we introduce $β$-Data, a dataset collected via adversarial teleoperation, where a human adversary reversibly perturbs the environment while a human operator continues toward completion without resetting. We relabel trajectory segments with local outcomes in natural language and finetune a pretrained policy conditioned on recent action history. The resulting policy exhibits sustained use of more low-level behaviors. Across manipulation tasks in simulation and on three real-robot platforms, our approach yields more favorable data scaling laws, better zero-shot generalization, and more effective use of additional rollout time than training on standard demonstrations. During online finetuning, these policies need fewer rollouts to collect successful experience and reach higher success rates, suggesting that midtraining can prepare robots for both more robust task execution and continued autonomous improvement. Our project page and robot videos are available at https://kshitiz-1225.github.io/exploratory-midtraining-robot-policies/."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Kshitiz, Zheyuan Hu, Robyn Wu et al.",
+        "categories": [
+          "cs.RO",
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "aa1dbb6cd8048f0020219d19dfd1f30300a8603345384d1d4617edb215f946d0",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "SAG-Mem-1.0 Technical Report",
+      "summary": "SAG-Mem-1.0 Technical Report。作者：Yuchao Wu, XingCheng Liang, Xuanze Wang et al.。摘要：Long-term conversational memory requir",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.33124v1",
+      "publishedAt": "2026-11-24T18:51:29+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Long-term conversational memory requires retrieving complementary facts scattered across dialogue sessions, including intermediate evidence with limited similarity to the original question. Existing approaches often rely on derived memory representations or persistent relational structures, introducing construction costs and potentially losing source details. We present SAG-Mem, a conversational memory framework that preserves complete dialogue messages in non-overlapping chunks and discovers complementary evidence through query-time lexical expansion. Memory construction requires no model inference, using a lexical index without LLM-based extraction, summarization, or semantic relation construction. At query time, BM25 retrieves initial candidates, an evidence evaluator identifies useful chunks, and lexical cues from selected evidence guide an additional retrieval round. Retrieved dialogue is further annotated with calendar interpretations of supported relative-time expressions, preserving the original wording and temporal granularity. We also introduce SAG-Mem-Lite, an alternative configuration that replaces evidence scoring with embedding-based candidate scoring, achieving lower operational cost than Full Context and all memory-based baselines across both benchmarks with low query latency. On LoCoMo and LongMemEval, SAG-Mem achieves overall scores of 83.08 and 80.20, respectively, the highest among the evaluated methods on both benchmarks. On LongMemEval, it exceeds the strongest compared baseline by 7.20 points. SAG-Mem-Lite achieves scores of 77.09 and 77.20, respectively. These results support dialogue preservation and evidence-guided retrieval expansion as an effective design for long-term conversational memory."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Yuchao Wu, XingCheng Liang, Xuanze Wang et al.",
+        "categories": [
+          "cs.CL",
+          "cs.IR"
+        ]
+      }
+    },
+    {
+      "id": "9f23961594805dddac00b123ec827695e015f1d40079ea8b3dce0d35e1994833",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "MetaFORGE: A Meta-Learning Framework for Harness Optimization in Automated Code Generation for Parallel Computing",
+      "summary": "MetaFORGE: A Meta-Learning Framework for Harness Optimization in Automated Code Generation for Parallel Computing。作者：Sco",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.33119v1",
+      "publishedAt": "2026-11-24T18:49:19+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Large language models (LLMs) can generate parallel programs, but their correctness and performance depend strongly on the instructions that guide generation. We present \\textsc{MetaFORGE}, an execution-grounded meta-learning framework that iteratively optimizes persistent natural-language skill specifications for MPI C code generation. \\textsc{MetaFORGE} combines correctness testing, compiler diagnostics, static-analysis findings, runtime measurements, and rank-level load-imbalance profiles into a scalar reward that drives textual-gradient refinement, while an external memory distills and retrieves reward-supported optimization knowledge across runs.   Across six MPI tasks and three workload sizes, \\textsc{MetaFORGE} improves static-analysis quality, runtime, and load balance relative to zero-shot generation and generally exceeds the evaluated \\textsc{TextGrad} iterative baseline. A model-matched refinement ablation shows that the MetaFORGE advantage persists when its refinement model is reduced to \\texttt{gpt-4o}. An expanded retrieval ablation across all 18 task--workload configurations shows consistent runtime benefit and broad static-analysis and load-balance benefit from retrieved context. Leakage-controlled held-out and zero-update experiments further provide evidence that optimization knowledge persists in both the transferred skill and external memory under the evaluated protocol."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Scott Piersall, Yang Gao, Shenyang Liu et al.",
+        "categories": [
+          "cs.AI"
+        ]
+      }
+    },
+    {
       "id": "0d92b87e515ec00552f122cdf56ee233ddc3df5fe5f45c241b938cd4043d92a0",
       "module": "ai",
       "seg": null,
@@ -159,6 +613,139 @@
       "points": [],
       "live": false,
       "extra": {}
+    },
+    {
+      "id": "0018af727a1fb3e8cb95a1bc6ef8489a8e9a6337885a56f8c1da1470020c2aa8",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Draft Calibration for Speculative Decoding: Accelerating LLM Serving by Matching Draft and Target Distributions",
+      "summary": "Draft Calibration for Speculative Decoding: Accelerating LLM Serving by Matching Draft and Target Distributions。作者：Yuxin",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.33111v1",
+      "publishedAt": "2026-11-24T18:41:59+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Speculative decoding accelerates large language model (LLM) inference by employing a lightweight draft model to propose draft tokens and allowing the target model to verify the new tokens in parallel to improve inference-time compute utilization. The speedup relies on the acceptance probability of draft tokens in target verification, which is directly related to the gap $\\|p-q\\|_1$ between the target distribution $p$ and the draft distribution $q$. In this paper, we study draft calibration of speculative decoding to improve the speedup of speculative decoding, where we employ post-hoc methods to calibrate the draft distribution to mitigate the distribution gap. We observe that though current community open-source draft models may learn the top candidate token correctly, they are generally underconfident compared to the target model, suggesting a consistent distribution mismatch. To mitigate the effect of this mismatch on the acceptance rate of the draft models, we try various post-hoc calibration methods, including standard temperature scaling and token-wise calibration. Our results suggest that a standard temperature scaling applied to the draft distribution improves the acceptance length by up to approximately 10\\% with almost no additional cost across different tasks. Throughput analysis further verifies that this improvement in serving efficiency. Analysis of more general calibration methods reveals further potential room for improvement."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Yuxing Liu, Wei Zuo, Walid Krichene et al.",
+        "categories": [
+          "cs.LG",
+          "cs.AI"
+        ]
+      }
+    },
+    {
+      "id": "b45d3805d3d6305f8b6e3eb556038850cc254fe08438a6925a3e3cc7a703b20f",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Temporal Conditioning for Human Behavioral Cloning in Chess",
+      "summary": "Temporal Conditioning for Human Behavioral Cloning in Chess。作者：Victor Dziwniel, Tianxiang Lu。摘要：Behavioral cloning model",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.33106v1",
+      "publishedAt": "2026-11-24T18:40:51+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Behavioral cloning models in chess typically predict human moves from board states while ignoring temporal inputs such as the remaining clock. However, time pressure is a major determinant of human decision-making quality, and temporal state is a missing dimension of human behavioral modeling. This paper introduces a time-aware transformer that extends a Chessformer-style architecture with learned temporal conditioning tokens encoding player clock state, time control, and recent tempo, together with behavioral heads for thinking time and resignation. The model is trained on large-scale online chess data and evaluated against time-agnostic baselines and the state of the art. Results show that temporal conditioning yields modest overall accuracy improvements but substantially stronger gains under time pressure. Beyond move choice, it also produces more accurate thinking-time and resignation predictions. More importantly, the model better matches human move-quality degradation in critical time regimes, reducing the systematic over-strength observed in time-agnostic behavioral cloning models. These results suggest that temporal state is a previously underutilized but important signal for human behavioral cloning in chess."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Victor Dziwniel, Tianxiang Lu",
+        "categories": [
+          "cs.AI",
+          "cs.HC"
+        ]
+      }
+    },
+    {
+      "id": "4ad01ec7ebf531683c1847bb085db6ac01984eb901ce8014bdbc5bbf0d192c0f",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Reinforcement Learning Can Be Recovered From Its Own Rollouts",
+      "summary": "Reinforcement Learning Can Be Recovered From Its Own Rollouts。作者：Jiayi Sheng, Jingwen Gu, Guanning Zeng et al.。摘要：Broadl",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.33102v1",
+      "publishedAt": "2026-11-24T18:38:06+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Broadly speaking, reinforcement learning (RL) post-training converts compute into model capabilities by training on model-generated data. Typically, the rollouts are discarded after each update, and the knowledge acquired during RL resides in the model weights. In this work, we investigate how much of this knowledge is retained in the rollouts themselves. A natural first attempt is to replay the original RL algorithm on archived rather than freshly generated rollouts, but this leads to catastrophic collapse. We provide a simple explanation for this phenomenon, which in turn suggests a remedy: maximum likelihood on the archived rollouts. Surprisingly, starting from the same base model and replaying the rollouts in the order in which they were generated, without any distinction between correct and incorrect responses, is sufficient to recover the performance of online RL. In fact, a single maximum likelihood update per rollout batch closely tracks the entire learning curve of online RL. Furthermore, maximum likelihood on the rollouts of the last few RL steps often suffices to recover the final model's performance. This suggests that much of the compute invested in RL goes into discovering an improved sampling distribution rather than learning it from samples."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Jiayi Sheng, Jingwen Gu, Guanning Zeng et al.",
+        "categories": [
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "f33aff8291a639922b402c6f2eaf13fca9061a5f2a5bc7f1bb0f618abfedda22",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "GREMLIN: Generating Random Environments for Meta-Learning with Interacting Networks",
+      "summary": "GREMLIN: Generating Random Environments for Meta-Learning with Interacting Networks。作者：Octave Gaspard。摘要：Can randomly pa",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.33101v1",
+      "publishedAt": "2026-11-24T18:37:37+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Can randomly parameterized neural environments supply useful experience for learning a reinforcement learning algorithm? We investigate this question using DiscoRL's rule-discovery framework, replacing human-designed training games with sixteen selected neural environments. Each game combines bounded vector dynamics with a random strategy-based reward and an independent outcome reward. After 224.8 million agent-environment steps, we froze the teacher and trained fresh agents. DQN outscored GREMLIN on most games, both generated and human-designed. GREMLIN nevertheless outperformed the untrained teacher on all 26 games, showing that generated experience can improve a learning rule. It remains unclear whether this approach can yield a competitive rule with longer meta-training."
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Octave Gaspard",
+        "categories": [
+          "cs.LG"
+        ]
+      }
+    },
+    {
+      "id": "5fb937e7d24c09fd533b0ba0ec15bb189be5a6fbfbbf5ed5f76e59b189ea2198",
+      "module": "ai",
+      "seg": null,
+      "cat": "知识前沿",
+      "title": "Delegent: A Multi-Agent Harness That Reduces Cost without Sacrificing Performance",
+      "summary": "Delegent: A Multi-Agent Harness That Reduces Cost without Sacrificing Performance。作者：Lingwei Gu, Jimmy Lin。摘要：Agents bui",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2611.33098v1",
+      "publishedAt": "2026-11-24T18:34:40+00:00",
+      "tags": [
+        "arxiv",
+        "research"
+      ],
+      "body": [
+        "Agents built on frontier language models are expensive. At every step, the frontier model re-reads its entire context and executes every subtask regardless of its difficulty. This paper explores the simple thesis that much of this cost can be removed by delegating easy subtasks to a small language model, or SLM, that runs on hardware one already owns. To test it, we build Delegent, a simple and effective agent harness built on Claude Code, in which the frontier model stays in charge of every task but hands focused subtasks, such as investigating code, running tests, and searching a corpus, to SLM subagents. Existing approaches such as cascades and model routers usually choose which model executes the entire task, whereas in Delegent, the frontier model always leads the execution and delegates easy subtasks to the SLM. No router or model is trained, so either model can be swapped freely. With the help of a 27B FP8 SLM, Delegent reduces the frontier cost of long-horizon coding by 67% and of agentic search by 59%, with no loss in task performance, and even a 2B SLM that fits on a laptop reduces the coding cost by 66%. The savings grow with the legwork that the frontier model would otherwise do itself, and a short instruction, which leaves the main coding tasks to the frontier model, accounts for most of the saving and keeps the 2B SLM from losing tasks. Code: https://github.com/castorini/delegent"
+      ],
+      "points": [],
+      "live": false,
+      "extra": {
+        "authors": "Lingwei Gu, Jimmy Lin",
+        "categories": [
+          "cs.AI",
+          "cs.IR"
+        ]
+      }
     },
     {
       "id": "39e4190365248fa26cd3a2f0cc92be290d5c3111c6f5f02203d5cf489f1dcce7",
@@ -432,6 +1019,25 @@
       "tags": [
         "ai-news",
         "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "810709c5821ceef4ed0353f0f76a1ab6fe42beb6acb356f3665e779312541d6f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "高德发布世界模型ABot-World 0.5，支持构建音画同步、可实时重塑的AI物理世界",
+      "summary": "近日，阿里巴巴集团旗下高德正式发布新一代通用交互式世界模型 ABot-World 0.5。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/512454.html",
+      "publishedAt": "2026-11-24T10:30:42+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
       ],
       "body": [],
       "points": [],
@@ -5879,519 +6485,6 @@
       "tags": [
         "ai-news",
         "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "67ae2bee26d18d4f29f237d95dd05b600efb5afed994c2c40bf1aca4102cf5fb",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Xing4.0-29B-Intent：text-generation 模型更新",
-      "summary": "HuggingFace 主流 text-generation 模型 XingChen-AGI/Xing4.0-29B-Intent，6,191 下载，327 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-Intent",
-      "publishedAt": "2026-11-18T08:10:27+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 6191,
-        "likes": 327
-      }
-    },
-    {
-      "id": "b99a28681b6de19ff6b1b7bfdf7f1e726066ca16e3f372e63f971cc007aad64c",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Rumble-2-Flash：automatic-speech-recognition 模型更新",
-      "summary": "HuggingFace 主流 automatic-speech-recognition 模型 Reson8/Rumble-2-Flash，448 下载，13 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Reson8/Rumble-2-Flash",
-      "publishedAt": "2026-11-18T08:10:14+00:00",
-      "tags": [
-        "huggingface",
-        "automatic-speech-recognition",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 448,
-        "likes": 13
-      }
-    },
-    {
-      "id": "e18845b897eee6c05747379292e2cbd7e5ce6889f0e5750f68a23b1fc4124737",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "granite-vision-4.1-4b：image-text-to-text 模型更新",
-      "summary": "HuggingFace 主流 image-text-to-text 模型 ibm-granite/granite-vision-4.1-4b，77,284 下载，114 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/ibm-granite/granite-vision-4.1-4b",
-      "publishedAt": "2026-11-18T08:08:40+00:00",
-      "tags": [
-        "huggingface",
-        "image-text-to-text",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 77284,
-        "likes": 114
-      }
-    },
-    {
-      "id": "5bfcab73734986af6c870f227de8d375d967a12be4c3540e694fe9c609ec1324",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Hy4-flash-GGUF：model 模型更新",
-      "summary": "HuggingFace 主流 model 模型 AngelSlim/Hy4-flash-GGUF，0 下载，15 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/AngelSlim/Hy4-flash-GGUF",
-      "publishedAt": "2026-11-18T08:07:11+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 0,
-        "likes": 15
-      }
-    },
-    {
-      "id": "eb036793f53b6b312ef5d3938b34b35792e77114fd85787a74ce923245ee7aaa",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "PocketTTS-GGUF：model 模型更新",
-      "summary": "HuggingFace 主流 model 模型 Esoteric-Nonsense/PocketTTS-GGUF，3,352 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Esoteric-Nonsense/PocketTTS-GGUF",
-      "publishedAt": "2026-11-18T07:59:33+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 3352,
-        "likes": 0
-      }
-    },
-    {
-      "id": "2df1d2243cc4439148b8d9911b82bc667be82b6d7df8616e8cc86cc8bd5658fc",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "GPT-6.2难产！OpenAI怕了",
-      "summary": "OpenAI也终于活成了2022年谷歌的样子",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/510914.html",
-      "publishedAt": "2026-11-18T07:53:29+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "979f274936c5dbc969c2c93358aadbf608b07ecb469d2970a59971c27e749f84",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
-      "summary": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/510916.html",
-      "publishedAt": "2026-11-18T07:24:50+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4356695f3cbf0df9c8d84045d2db2bfac5ad79cd36bd80842a97cdc096bc7369",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "云顶S19阵容推荐唱跳双C，云顶PBE手游，端游英雄联盟PBE下载教程",
-      "summary": "UP主 曼波游戏说 · 185播放 · 2:8",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117636218225366",
-      "publishedAt": "2026-11-18T07:22:02+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "曼波游戏说",
-        "play": 185,
-        "bvid": "BV13ism6nEHU",
-        "duration": "2:8"
-      }
-    },
-    {
-      "id": "d7ded6e127df697edb479d7561a0ad56273bc9f9015c49902dfca2bfb97cfe7b",
-      "module": "lol",
-      "seg": "rift",
-      "cat": "峡谷攻略",
-      "title": "[中配]2026英雄联盟无极剑圣上单实战：致命节奏打法与对线Na&#x27;Vi思路 - Daveyx3 Off Meta ZyWKv-p4vPA",
-      "summary": "UP主 海外游戏汇 · 1播放 · 71:44",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117636067234129",
-      "publishedAt": "2026-11-18T06:56:05+00:00",
-      "tags": [
-        "lol",
-        "rift",
-        "英雄联盟 上单 出装 攻略 教学"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "海外游戏汇",
-        "play": 1,
-        "bvid": "BV195sU6WEvm",
-        "duration": "71:44"
-      }
-    },
-    {
-      "id": "3144702cf9e3746021ad959c9abbe40acf699f24eb3fe42e880b3235907f8bd1",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
-      "summary": "入职Meta刚满一年出头，竟然直接提桶跑路了！",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/510811.html",
-      "publishedAt": "2026-11-18T04:49:51+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ed6173d14d1c940c74db9d65011f9df76733fb0e3a3f66cd8ca77af9c6cfe4c5",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
-      "summary": "具身全栈玩家",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/510821.html",
-      "publishedAt": "2026-11-18T04:28:57+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "eb1bd67b70923669be00846879b7664ba9e52f0b7cebe782a24a225cc49d6df5",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
-      "summary": "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/510737.html",
-      "publishedAt": "2026-11-18T02:49:23+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4530fc9608389c6fb254c9a413fe307e9bb8e23f271a050060261dbaa444bd09",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
-      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggress",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-      "publishedAt": "2026-11-18T01:44:21+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c1328ae677d8bfd119bfb934e68dcb667012fa4a984e5bd26e90bd03a7ff5201",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
-      "summary": "英伟达公布了老黄离职后的首份财报",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/510726.html",
-      "publishedAt": "2026-11-18T01:03:42+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "e82f5708e49b59782748be7dac9a5b25683798e52d430e5bc0be91252ad06528",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
-      "summary": "Sol逼近旗舰性能",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/510707.html",
-      "publishedAt": "2026-11-18T00:49:14+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d7cc391cb4bfd8d605b078ea72024cd82c6bda101c6b57ceb56cf964cfaefe6d",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-      "publishedAt": "2026-11-18T00:27:29+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "da0aaf7056d87485069e7bc1046658f2d3fa4fea8bc649c29636fcb0fb286bdf",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Nvidia promises that revenue will keep soaring — for now",
-      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projecte",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-      "publishedAt": "2026-11-18T00:16:50+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "0f35a8c6e2f01b66883ab92c3d5fc2575649fec5ec5126f93dc53612d5e20625",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "《云顶之弈S19赛季电脑PC版下载》美测/国测/国服游玩方法+超详细PBE美测服汉化中文送游戏账号英雄联盟今晚维护棱彩音乐盛典提前更新游玩教程！LOLS19下载",
-      "summary": "UP主 无尽ww · 1,316播放 · 1:48",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117631940038917",
-      "publishedAt": "2026-11-18T00:05:12+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "无尽ww",
-        "play": 1316,
-        "bvid": "BV1nMsr6LEjp",
-        "duration": "1:48"
-      }
-    },
-    {
-      "id": "3804eaf527e176b8cbf697f28f6879f2aa8755a5187057b61a63da8c77469624",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/moe-expert-streaming",
-      "publishedAt": "2026-11-18T00:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "2cc5bd34fb26097f6513fba9b3774c76ef4849551c29909d9cc3454861460b37",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/rumble-2-flash",
-      "publishedAt": "2026-11-18T00:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4554883326e3a99d3ed7db9d6b33d8af272a8939727f308a7021959faf386583",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Satya Nadella says he’s AGI-pilled now",
-      "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the s",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
-      "publishedAt": "2026-11-17T23:41:18+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "1688283d911498857b04d7b77d9204e8cd1c6aee715c9882fb5fa254e6a40a20",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-      "publishedAt": "2026-11-17T23:37:48+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "751087cebbf7be3a6ac509ee5c48f01177ef6e6fcd3b2caa9aab496677811b05",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's su",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-      "publishedAt": "2026-11-17T23:04:35+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c9c9e14266b187d1b213760b29f34a22ac79dbb475b9d6c80a144927881118c1",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-      "publishedAt": "2026-11-17T22:42:27+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "aaa1427f1b54c2063e9e8ff1e63f0f2591837b0f12c1717be4a902b6e436de7e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second w",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-      "publishedAt": "2026-11-17T22:29:05+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
       ],
       "body": [],
       "points": [],
