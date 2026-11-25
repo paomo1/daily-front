@@ -1,9 +1,711 @@
 {
-  "generated_at": "2026-11-25T09:38:23.212383+00:00",
+  "generated_at": "2026-11-25T20:58:00.008402+00:00",
   "date": "2026-11-25",
   "keep_days": 7,
-  "count": 297,
+  "count": 293,
   "items": [
+    {
+      "id": "24bf1391b30299199ae728d1b4b39f9040b6e198c3893bdf6691f3266c837b4c",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "MOSS_Image_LoRAs：text-to-image 模型更新",
+      "summary": "HuggingFace 主流 text-to-image 模型 pmczip/MOSS_Image_LoRAs，15,585 下载，9 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/pmczip/MOSS_Image_LoRAs",
+      "publishedAt": "2026-11-25T20:57:23+00:00",
+      "tags": [
+        "huggingface",
+        "text-to-image",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 15585,
+        "likes": 9
+      }
+    },
+    {
+      "id": "0ac452fdcc58f34f0d5e0a246147bc858e6c0f9db1aab6e050f1a6bb93f70730",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "SenseNova-U1.6-8B-MoT-GGUF：text-to-image 模型更新",
+      "summary": "HuggingFace 主流 text-to-image 模型 sensenova/SenseNova-U1.6-8B-MoT-GGUF，1,617 下载，9 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/sensenova/SenseNova-U1.6-8B-MoT-GGUF",
+      "publishedAt": "2026-11-25T20:56:01+00:00",
+      "tags": [
+        "huggingface",
+        "text-to-image",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1617,
+        "likes": 9
+      }
+    },
+    {
+      "id": "48952e9a5bab9dfb8837f0f996279e36df58e97ed53c483b6128392401ecfb0f",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Krea2Raw_Loras：text-to-image 模型更新",
+      "summary": "HuggingFace 主流 text-to-image 模型 pmczip/Krea2Raw_Loras，16,567 下载，89 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/pmczip/Krea2Raw_Loras",
+      "publishedAt": "2026-11-25T20:51:22+00:00",
+      "tags": [
+        "huggingface",
+        "text-to-image",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 16567,
+        "likes": 89
+      }
+    },
+    {
+      "id": "92475ab1b3f448c2d819602696f5e315a66e2f5065a6adabdc4c2d3d1b6e2b84",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "SenseNova-U1.6-8B-MoT：text-to-image 模型更新",
+      "summary": "HuggingFace 主流 text-to-image 模型 sensenova/SenseNova-U1.6-8B-MoT，297 下载，54 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/sensenova/SenseNova-U1.6-8B-MoT",
+      "publishedAt": "2026-11-25T20:50:24+00:00",
+      "tags": [
+        "huggingface",
+        "text-to-image",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 297,
+        "likes": 54
+      }
+    },
+    {
+      "id": "9f22e35634a3a68e92e24eaaba1b6143233d373026ea9b536cc3ae1105ae33d2",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "ERNIE-5.5-Flash-Preview-Maya-GGUF：text-generation 模型更新",
+      "summary": "HuggingFace 主流 text-generation 模型 peasantsmith/ERNIE-5.5-Flash-Preview-Maya-GGUF，18 下载，12 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/peasantsmith/ERNIE-5.5-Flash-Preview-Maya-GGUF",
+      "publishedAt": "2026-11-25T20:48:32+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 18,
+        "likes": 12
+      }
+    },
+    {
+      "id": "9514b45a6ba864aa0b73c50eeff02f332881129d0ccf24a5f4c6f73a56ba5252",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "ImpactReg：image-to-image 模型更新",
+      "summary": "HuggingFace 主流 image-to-image 模型 VBoussot/ImpactReg，2,869 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/VBoussot/ImpactReg",
+      "publishedAt": "2026-11-25T20:44:42+00:00",
+      "tags": [
+        "huggingface",
+        "image-to-image",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 2869,
+        "likes": 0
+      }
+    },
+    {
+      "id": "05c80ef66feda875fa0ad52d65588afc69425e3a11728da3f78ae2bf2bc6e51a",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "FLUX.2-klein-9B_Models：text-to-image 模型更新",
+      "summary": "HuggingFace 主流 text-to-image 模型 pmczip/FLUX.2-klein-9B_Models，3,475 下载，16 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/pmczip/FLUX.2-klein-9B_Models",
+      "publishedAt": "2026-11-25T20:44:09+00:00",
+      "tags": [
+        "huggingface",
+        "text-to-image",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 3475,
+        "likes": 16
+      }
+    },
+    {
+      "id": "583882db80bdf63b858a7339f018f818109242d1a3f485d646fcb09dcd93479f",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "qwen3.5-ocr-ft：image-text-to-text 模型更新",
+      "summary": "HuggingFace 主流 image-text-to-text 模型 dolphinnlp/qwen3.5-ocr-ft，1,171 下载，0 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/dolphinnlp/qwen3.5-ocr-ft",
+      "publishedAt": "2026-11-25T20:32:27+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1171,
+        "likes": 0
+      }
+    },
+    {
+      "id": "14bbe127a1e5cb4730917531c08f07a2b554a747b60d4bdab4d2c948da7a682e",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "publishedAt": "2026-11-25T20:03:27+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "f07b4fdc54f5ca29896c5cac205001ed686e449644e564622cb0baecda280736",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "publishedAt": "2026-11-25T19:54:57+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "50124e7b63cbebaca17ce95c82536d97a8d5039ba4d32ad8e7393af36d53e55c",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "publishedAt": "2026-11-25T19:44:24+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "f34a2f628156367f0f0b69796bea416537b62d07de229b846a0bc14196f833a8",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Where scientists draw the line on AI agents",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "publishedAt": "2026-11-25T18:52:55+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "0f93eca4e612ded3af23f8d93eb1db1de3071434ff2a72d235795160a8f06192",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety fail",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "publishedAt": "2026-11-25T18:11:46+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "84801db08edc53f7ddc904aca3b522349da79f585b236274faf00fd630266f82",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "publishedAt": "2026-11-25T17:44:51+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "6061855fe0b76e737dbf24e65a271dc0b31ea54ac5a44b6650815cd59c336380",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, incl",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "publishedAt": "2026-11-25T17:35:58+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e9a888c31d40cc0a32414281e86a6becaf090c7400cffd8a20ffc3aed7c69d85",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+      "summary": "Militaries have many reasons to target data centers and the cloud in wartime.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+      "publishedAt": "2026-11-25T16:47:14+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "592a4f2c1252b0602da8dd34285f612a436c2b124208d41b1a7c8d55cf84a918",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
+      "summary": "商汤SenseNova U1.6",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/512748.html",
+      "publishedAt": "2026-11-25T16:34:09+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "5a9bd60038a3dd6876681feab5e0e22de444025f2413ba6511998abef4f64184",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "publishedAt": "2026-11-25T16:00:59+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "3f875e008c9230bd45e1405c4211a9e7f48451d97fa246d0037ce337a717ad4d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "summary": "⁠Nvidia has made clear⁠ it won&#8217;t backstop an AI data center until it&#8217;s nearly ready to run, and that&#8217;s",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "publishedAt": "2026-11-25T15:41:43+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b0b6c58589edf1056df575c9bfb959e7d8dcf9b509f8278da53504ed6fa645c6",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
+      "summary": "",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/512727.html",
+      "publishedAt": "2026-11-25T14:51:06+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "c5d62d3ba4205d7dbdeb1ce1e808bca555ed20f9a1739436353609c837086b50",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+      "summary": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/512715.html",
+      "publishedAt": "2026-11-25T14:32:57+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "d0bd54529247cfd8e4d07a5ca0909cd1acd4236d7e5bcdef7da68804fcd1ee15",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+      "summary": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/512582.html",
+      "publishedAt": "2026-11-25T14:21:20+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "23fbf90056067294eb6d5fdadbdf7e3364cf4502380b5cd0fb5d42773b2cfd26",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
+      "summary": "贯通具⾝智能研发流程",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/512683.html",
+      "publishedAt": "2026-11-25T14:20:24+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "35303eb2f410ea54f8e3e358996f56cc061dd1f0a68add7e2028fcd2d912e625",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fort",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "publishedAt": "2026-11-25T14:12:33+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "859724961a18267586dc669828195cba7eddab71d34989db5d27ac34034a1bda",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "publishedAt": "2026-11-25T14:10:18+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "6c49f80f3830bd393b37636875123fb983220012f07ef2f47d03eabfdf0bdb14",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair w",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "publishedAt": "2026-11-25T13:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "1cbabe5cd476d6bee93c932e152a25e774df062002a8771c80163abe12897cba",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "publishedAt": "2026-11-25T13:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "The Verge"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "5d88313e3bd8bd142c72898f88381197425a14b31003c7af032547fbf6be8b3a",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "云顶S19开服吃鸡阵容之成双蚂蚱",
+      "summary": "UP主 氷釰杺 · 14播放 · 37:37",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117677121083906",
+      "publishedAt": "2026-11-25T12:43:04+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "氷釰杺",
+        "play": 14,
+        "bvid": "BV1qgykzrEwH",
+        "duration": "37:37"
+      }
+    },
+    {
+      "id": "94e915dddc930d9f541d39829afdfe43028b497e029e0789b6d1b4e0a857af62",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "云顶S19开服吃鸡阵容之爵士九五泽丽",
+      "summary": "UP主 氷釰杺 · 30播放 · 35:25",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117677104373240",
+      "publishedAt": "2026-11-25T12:39:47+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "氷釰杺",
+        "play": 30,
+        "bvid": "BV1dGykzgEHx",
+        "duration": "35:25"
+      }
+    },
+    {
+      "id": "54cb93700721d2da8bff0486149afa4ce1b73fa6bbc259125c5016f6575cd064",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "云顶S19开服吃鸡阵容之主宰男枪闭环",
+      "summary": "UP主 氷釰杺 · 22播放 · 36:39",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117677070752461",
+      "publishedAt": "2026-11-25T12:33:17+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "氷釰杺",
+        "play": 22,
+        "bvid": "BV1quykzGErz",
+        "duration": "36:39"
+      }
+    },
+    {
+      "id": "18d285442823d6c7f7a6edd4396951dd82651774aa0484a1b9d71b319d7117ba",
+      "module": "lol",
+      "seg": "tft",
+      "cat": "云顶之弈",
+      "title": "云顶S19开服吃鸡阵容之古典爵士烬",
+      "summary": "UP主 氷釰杺 · 13播放 · 35:10",
+      "source": "哔哩哔哩",
+      "sourceUrl": "http://www.bilibili.com/video/av117677070753284",
+      "publishedAt": "2026-11-25T12:28:55+00:00",
+      "tags": [
+        "lol",
+        "tft",
+        "云顶之弈 阵容 攻略 S级"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "author": "氷釰杺",
+        "play": 13,
+        "bvid": "BV1quykzGE4t",
+        "duration": "35:10"
+      }
+    },
+    {
+      "id": "0622e603e54ea2d046a5436c89430427761ba491b276d35d9ff2425e956a4bf0",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "AI may soon change what it means to be a theoretical physicist",
+      "summary": "Frontier AI is already solving problems that once took top physicists a full day.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+      "publishedAt": "2026-11-25T12:00:28+00:00",
+      "tags": [
+        "ai-news",
+        "Ars Technica"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "984b45d8505668fd896322cf760a2815061b62f677fcc2b64ba1cc4e1a252f3c",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
+      "summary": "揭秘General Looped Model",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/512565.html",
+      "publishedAt": "2026-11-25T11:07:14+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "9e2d2d35d4a1c099fa3dd30ec9af7bd17ae28a3f1cabd15a0d4baa39c49efae5",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "An Indic Voice Agent with CUGA",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "publishedAt": "2026-11-25T10:22:09+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "f73bae57dbb94ab8cf4c18ec25b977a43d3d22518a75cfa21aa5bf0bb0c0ffec",
       "module": "ai",
@@ -160,6 +862,25 @@
       "tags": [
         "ai-news",
         "TechCrunch"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "e5ecbd638cfc5388a87c57e0d67357ecfdc43bfe202fa2b768e7bceadda73fce",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "summary": "",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "publishedAt": "2026-11-25T00:00:00+00:00",
+      "tags": [
+        "ai-news",
+        "HuggingFace Blog"
       ],
       "body": [],
       "points": [],
@@ -5619,872 +6340,6 @@
       "tags": [
         "ai-news",
         "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "93de2b081e9d83bc97bc73b4d9bb28cba1931f70d9ac8fd8617325737fb23935",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-      "publishedAt": "2026-11-18T19:54:56+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "6d03f82730078d5e0f835fdaa2a419fc1d3159198ca31f3ef15fda90746bb34b",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Qwen3.8-Flash-Next-FP4-Local-Abliterated：image-text-to-text 模型更新",
-      "summary": "HuggingFace 主流 image-text-to-text 模型 DevelopingDad/Qwen3.8-Flash-Next-FP4-Local-Abliterated，1,330 下载，10 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/DevelopingDad/Qwen3.8-Flash-Next-FP4-Local-Abliterated",
-      "publishedAt": "2026-11-18T19:49:33+00:00",
-      "tags": [
-        "huggingface",
-        "image-text-to-text",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1330,
-        "likes": 10
-      }
-    },
-    {
-      "id": "6bbac56bf5c83f29d74c82945d1c898062624fd93ac61cf545f734da7c2f683c",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "MiniMax-H3-Image-Fun-Controlnet-Union-2.0：text-to-image 模型更新",
-      "summary": "HuggingFace 主流 text-to-image 模型 akhaliq/MiniMax-H3-Image-Fun-Controlnet-Union-2.0，154 下载，11 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/akhaliq/MiniMax-H3-Image-Fun-Controlnet-Union-2.0",
-      "publishedAt": "2026-11-18T19:41:27+00:00",
-      "tags": [
-        "huggingface",
-        "text-to-image",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 154,
-        "likes": 11
-      }
-    },
-    {
-      "id": "bb8880a6f7d8019d84a59851eb9258757208ec1d594969ffb8d7836c69b0c196",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Trump’s latest land grab is an AI hub in the Philippines",
-      "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, acco",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
-      "publishedAt": "2026-11-18T19:40:36+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "7bb1f394df84bb459cf18a07a6d86440e06b123dd9a85ddefe19f57591ff3995",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
-      "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
-      "publishedAt": "2026-11-18T19:30:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c92f6c0b3c9e9a1cd50570996a1da2314ec2c5da8a44fa90718d0a494ae0ae40",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Nvidia’s rise, visualized",
-      "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
-      "publishedAt": "2026-11-18T19:30:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "0e599afb1d0ecd13da3732985e842e8b0244f1962c517f43ecdffb640d1d3c5e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
-      "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
-      "publishedAt": "2026-11-18T19:19:33+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "8d624c9be3697a5102dc2c428a997372f943396cb7344ca5f19e75393e7f8696",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
-      "summary": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
-      "publishedAt": "2026-11-18T19:07:29+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c56b7edbd82a5fc8134a95be3e6f905c52b9c4992d46e4594530e97fb1b37d18",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
-      "summary": "Jailbreak Detection on Large Language Models via Contrastive Prototype Structures。作者：Yan Qiu, Yuanyuan Li。摘要：Jailbreak a",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.24936v1",
-      "publishedAt": "2026-11-18T18:56:12+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without training an additional downstream classifier. We propose Jailbreak Detection with Prototype Inference (JDPI), which uses binary safety labels to construct harmful and benign prototypes and makes predictions from relative prototype distances. JDPI uses only binary safety labels for encoder adaptation, prototype construction, and validation. In our setup, it uses fewer labeled examples than the classifier baseline (Method A) by avoiding the separate split used to train the downstream classifier. Across four benchmarks covering different input formats, contrastive fine-tuning improves JDPI's detection accuracy by 9.1-18.0 percentage points. Using the same encoder, JDPI achieves slightly higher ROC-AUC on one benchmark and stays within 0.017 of the baseline across all four. With dataset-specific adaptation, JDPI exceeds the released Llama Guard 3-8B baseline by 0.173-0.310 in ROC-AUC across the four benchmarks. In multi-turn replay on TomGibbs, JDPI uses accumulated user history as the conversation unfolds, achieving higher conversation-level accuracy than when it uses the current turn alone. Across 12 directed transfers, JDPI outperforms the classifier by an average of 1.59 percentage points in accuracy, demonstrating stronger cross-dataset robustness."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Yan Qiu, Yuanyuan Li",
-        "categories": [
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "63a66e39f536a42aa36c31e02128e98fdaabeed71825ce9a6b011bb03e10ed5f",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
-      "summary": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems。作者：Priyanka Sinha, Sugam Pandey。摘要",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.24932v1",
-      "publishedAt": "2026-11-18T18:55:07+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a reviewer's behavioral confidence and the actual correctness of their judgments. We develop a trait theory of reviewer value to make it precise. The theory makes five claims: value is governed by calibration rather than by activity, speed, agreement, or tenure; calibration leaves observable traces in behavioral telemetry; those traces are non-diagnostic on their own, because the fast, low-revision signature of a calibrated expert is indistinguishable from that of a confident novice until it is gated by outcomes; human calibration and a model's self-knowledge are the same construct, so the joint system should defer to whichever agent is better calibrated on each item; and individual calibration is causally identifiable only above the level of the single judgment. We ground each claim in a six-month production window of an AI-assisted accounting system (541621 reviewer events, 483 reviewers), and find that a purely behavioral expertise profile inverts the ground truth, scoring an overconfident cohort (5.2 percent correction survival) higher than genuine experts (99.2 percent); that reviewer quality is flat across tenure, so the trait is not learned on the job; and that the same calibration logic that separates good from bad reviewers, applied to the model, concentrates 92.5 percent of human effort on genuine errors. We close with the boundary the theory must respect: under majority-vote aggregation, individual causal value is unidentifiable."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Priyanka Sinha, Sugam Pandey",
-        "categories": [
-          "cs.AI",
-          "cs.CE",
-          "cs.HC",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "24817657dce869d4c73af53deeacf028f86ea835d2f44488af8860743626a017",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
-      "summary": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem。作者：Sarah H. Cen",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.24927v1",
-      "publishedAt": "2026-11-18T18:53:58+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationships between actors and components across layers remains sparsely documented. In this work, we focus on the organizations that make up the AI supply chain: the complex network of actors that contribute to the development and deployment of AI. We motivate the examination of the organizational AI supply chain---highlighting concerns about concentration, power, chokepoints, cascading failures, fragmented accountability, and risk---then describe our pipeline for mapping the AI supply chain. Our pipeline yields our main contribution: a multilayered, large-scale dataset of actors and relationships in the AI ecosystem, annotated with dates, descriptions, types, tags, and more. This work takes a step toward systematically mapping and measuring the AI supply chain and its properties, cataloging how models, data, chips, infrastructure, capital, and even talent flow between organizations. This data enable critical examinations of industry relationships and yield insights into the political economy of AI development and concentration. We provide several illustrative analyses, including studying the most central actors, analyzing network concentration, and identifying communities and chokepoints. While our dataset is fairly comprehensive, it is also necessarily incomplete: public documents omit private deals, and coverage is shaped by search design. Together, the approach, data, and findings aim to serve as a resource for studying the AI ecosystem. The dataset is publicly available at https://huggingface.co/datasets/sarahcen/ai-supply-chain and can be explored interactively at https://aisupplychains.org/."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Sarah H. Cen, Lindsey A. Gailmard, Joohan Kim et al.",
-        "categories": [
-          "cs.CY",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "0c4d137745da05e6f4ec77febeea5d60ed648c9b6d61e0832cf0a9e362ea7446",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Why your fine-tuning job takes longer than the FLOPs say",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "publishedAt": "2026-11-18T18:53:43+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ee97743c4fd666853bf19f8685eaa6e7aafa5895b3dec9e18c08b36ee4eb97a4",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
-      "summary": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses。作者：Jiahang Lin, Jiahao Chen, Yiding",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.24924v1",
-      "publishedAt": "2026-11-18T18:52:13+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit requirements and interaction needs, while using a single evolution agent to modify the harness and benchmark scores to select changes. This process often produces narrow patches and leads to benchmark-specific local optima. We introduce Agentic Harness Engineering Beta (AHE-Beta), a requirement-centered loop that brings real-world engineering practices into harness evolution. The loop consists of three steps: (1) User-driven evaluation lets simulated users raise their requirements as issues while they work with the harness over multiple turns. (2) Team-based modification implements those requirements as generalizable changes rather than task-specific patches. (3) Requirement-driven selection merges a change only when it resolves a verified requirement and passes review. Empirically, on held-out tasks, AHE-Beta raises pass@1 from 21.9% to 33.3% while using 40.8% fewer tokens than Base Harness, and achieves higher pass@1 than Claude Code, Meta-Harness, and AHE. In a blind human A/B test, real users prefer AHE-Beta in 31 of 48 valid pairs and rate it higher on all five dimensions, matching the directional preference of the user simulator. The human A/B results show that AHE-Beta achieves its goal of aligning harness evolution with real-world user requirements. Without further evolution, the gains transfer to GLM-5.3 and DeepSeek-V4.1-Flash with pass@1 improvements of 15.8% and 5.3% over Base Harness. Together, these results show that requirement-centered harness evolution is a more general method for improving agent capabilities."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Jiahang Lin, Jiahao Chen, Yiding Wang et al.",
-        "categories": [
-          "cs.SE",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "d5a5d9633a41db03c6c117f5ff426af3ba8d0af07120bd675658b2a1fa33044c",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance Inflation",
-      "summary": "Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance Inflation。作者：Samet Demir, Zafer Dogan。摘",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.24908v1",
-      "publishedAt": "2026-11-18T18:43:40+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "We study two-layer neural networks trained by stochastic gradient descent (SGD) on a multi-index teacher model, focusing on how first-layer parameters orthogonal to the teacher subspace affect generalization. We decompose the first-layer weights into a signal component aligned with the teacher and an orthogonal complement, and analyze their joint SGD dynamics together with the second layer in the proportional limit. We show that although SGD updates to the complement are initially isotropic, the training dynamics induce teacher-dependent spectral spikes in the complement Gram matrix. This emergent anisotropy provides a concrete mechanism by which representation variance is amplified, and generalization degrades. To isolate this effect, we introduce Decomposed Dynamics, an analytically tractable surrogate whose asymptotic test-error dynamics coincide with those of SGD. In simulations with a ReLU student, freezing the directions of the orthogonal complement improves generalization relative to training them. Finally, we show that the signal component rapidly aligns with the second-layer weights, revealing strong cross-layer coupling even in this shallow setting. Together, our results provide a dynamical explanation for how feature learning outside the teacher subspace harms generalization."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Samet Demir, Zafer Dogan",
-        "categories": [
-          "stat.ML",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "5fd33edc67cc7d2db98991d3e95dd94c0d26c2153e8aed523114e8ba33324e40",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Equivariant Modeling with Polynomial Features via Minimal Homogeneous Generators",
-      "summary": "Equivariant Modeling with Polynomial Features via Minimal Homogeneous Generators。作者：Michael Liaofan Liu, Joe Kileel。摘要：W",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.24896v1",
-      "publishedAt": "2026-11-18T18:37:02+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "We present a general framework for modeling and learning equivariant functions between finite dimensional semisimple real group representations, unifying constructions developed across many application areas. Our model is a linear combination of equivariant polynomial features whose coefficients are arbitrary learnable functions of invariant polynomial features. We take as features minimal homogeneous generators for the invariant algebra and the covariant module over the invariant algebra, up to prescribed degrees. We provide a Python package that automatically computes these features and fits the resulting models to training data. The algorithm for feature computation requires explicit isotypic decompositions of the input and output representations, along with explicit Clebsch-Gordan decompositions of the tensor product of irreducible representations, and achieves speedups over alternative methods in computational algebra. Numerical experiments in scientific modeling demonstrate the full learning pipeline and yield accurate predictors with few trainable parameters, using the model both for end-to-end prediction and within layers of larger architectures."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Michael Liaofan Liu, Joe Kileel",
-        "categories": [
-          "cs.LG",
-          "stat.ML"
-        ]
-      }
-    },
-    {
-      "id": "4530796e4c5e1331767bbf4c331dd4685b1423f9a0288ad85928aeeb66a75f42",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "On Evaluating User Simulators for Interactive Agents",
-      "summary": "On Evaluating User Simulators for Interactive Agents。作者：Hengguang Zhou, I-Hung Hsu, Li Chen et al.。摘要：User simulators of",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.24892v1",
-      "publishedAt": "2026-11-18T18:34:23+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "User simulators offer a scalable way to evaluate interactive agents, but how to assess their quality remains underexplored. In particular, it is unclear whether existing user simulator evaluation frameworks reliably detect meaningful failures in simulated user behavior. This uncertainty makes it difficult to interpret simulator evaluation. To understand what a high benchmark score tells us about simulator quality, we (meta-)evaluate the metrics themselves. To instantiate this meta-evaluation, we deliberately perturb simulated replays to induce failures such as altered goals, omitted constraints, premature stopping, and acceptance of broken work, then test whether the metrics penalize these failures. Evaluation methods from three prior studies detect only 5-6 of the 10 perturbations; their combined scores even favor populations instructed to accept broken work over unmodified controls. Motivated by these gaps, we propose a new evaluation suite that combines utility of user simulators for evaluating agents and two measures of fidelity to real users: population-level fidelity assesses collective interaction patterns, while trace-level fidelity assesses the preservation of individual users' goals, constraints, and persona. Under the same detection criterion, our evaluation suite detects all 10 perturbations. Evaluating six user simulators on 351 real multi-turn sessions in which 348 distinct users across 23 languages and agents work together to create and refine artifacts such as full-stack web apps, games, design assets, and automated workflows, we find that population-level measures can miss when a simulated user pursues the wrong goal, ignores a constraint, or behaves out of character, highlighting the need to assess fidelity at comprehensive granularities."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Hengguang Zhou, I-Hung Hsu, Li Chen et al.",
-        "categories": [
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "09393e39c818ca9af2a56f4a37d34f5cc07a18079134aef94c084c845891382e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "What is Nvidia without AI’s sugar daddy in charge?",
-      "summary": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
-      "publishedAt": "2026-11-18T18:34:15+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4b528f91c6d8598bb9636118dbd727ad432500d2fb7931ee427b4122d752f756",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Cap-and-Track: Optimizing LLM Inference Request Dispatch Across Shifting Capacity",
-      "summary": "Cap-and-Track: Optimizing LLM Inference Request Dispatch Across Shifting Capacity。作者：Benjamin Novotny, Doug Szeto, Chang",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.24891v1",
-      "publishedAt": "2026-11-18T18:34:10+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "A fixed dispatch rate for LLM inference becomes stale as serving fleets resize and request sizes change. Generative output length is unknown at admission, and shared provider pools can lose capacity. We present Cap-and-Track, a design for asynchronous inference across provider capacity and internal GPUs. Meta's traffic shaper implements Cap-and-Track for post and live-video understanding. Refusals signal the backend's current admission ceiling. Durable priority queues hold excess work outside execution, including refused requests for retry. Cap is a fail-fast admission check at the saturated resource that refuses work before a long wait. Using only those refusals, the Track dispatcher probes upward and backs off. It follows the ceiling without output-length prediction or a fleet-level rate to retune. In a concurrent same-traffic production A/B, the shaper ran per-replica Cap plus Track. It served a classifier on 43% fewer H100s than its queued, fixed-rate precursor, though lower-priority work waited longer at backfill peaks. In steady-capacity real-engine replay, Track ran within 1% of the goodput of a fixed rate tuned above measured capacity, with about a quarter of that rate's refusal share. The shaper carries more than 300 million online requests and hundreds of terabytes of media a day. During a backfill, it handled 1.1 billion requests in its busiest 24 hours. Lessons include keeping queues inside inference engines just long enough to fill batches, steering dispatch by capacity refusals alone, keeping dispatch stateful, and sizing fleets by how long low-priority work can wait."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Benjamin Novotny, Doug Szeto, Chang Wang et al.",
-        "categories": [
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "36b5014a674971b99a00b5ed6f4dc653de2d5573d90925afbd1d9690b6cddccd",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Who are you? The Personal Imitation Game",
-      "summary": "Who are you? The Personal Imitation Game。作者：Muhammad Rizky Wellyanto, Hajara-Yasmin Isa, Kexin Xue et al.。摘要：Large Langu",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.24888v1",
-      "publishedAt": "2026-11-18T18:32:14+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Large Language Models (LLMs) now perform strongly on Alan Turing's 1950 Imitation Game, so we propose a harder challenge, the Personal Imitation Game, which asks whether a machine can replicate a specific individual in conversation rather than a generic human. Testing with 30 participants, we establish a human baseline and report the identity signals interrogators rely on: stylometric features, personality traits, and biographical facts. To demonstrate the framework, we design an LLM-based system that plays the game for one of the paper's authors, drawing on an autoethnographic dataset spanning ten years of personal digital communication. In a 20-person deception study, interrogators choose our system over the author's own friends in 7 of 10 rounds, and the author over our system in 13 of 20; neither rate is distinguishable from chance at this sample size. We consider design improvements, applications of personal AI agents, and implications for identity and privacy."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Muhammad Rizky Wellyanto, Hajara-Yasmin Isa, Kexin Xue et al.",
-        "categories": [
-          "cs.HC",
-          "cs.AI",
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "f27858c121ff8d8e66c5d55985cc2d12a0e0fa3e5730fe5835b4ea8c36aa1bc3",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Ground, Iterate, Trace: Decomposing AI Research Ideation",
-      "summary": "Ground, Iterate, Trace: Decomposing AI Research Ideation。作者：Samson Yu, Qiran Zou, Jing Yu Lim et al.。摘要：Large language m",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.24887v1",
-      "publishedAt": "2026-11-18T18:31:37+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Large language models have been widely used to generate plausible research ideas, yet it remains unclear what makes automated ideation effective and how generated novel proposals arise from prior scientific work. We introduce the Creative AI Researcher (CAR), an agentic framework combining literature grounding, iterative development and explicit conceptual operators. CAR constructs a semantic knowledge graph from retrieved literature and equips an ideation agent with graph-retrieval tools and four operators: bisociation, analogy, exploration and elaboration. Each operator call is checked against structural acceptance conditions and recorded, producing a trace of intermediate transformations and declared literature sources. We evaluate CAR with two language-model backbones across 40 LiveIdeaBench research topics and two execution benchmarks. CAR achieves significantly higher methodological novelty (MN) than single-shot prompting and The AI Scientist. Its methodological novelty does not differ significantly from the Research Ideation Agent, while its feasibility scores are higher on both backbones. With a shared experiment executor, CAR achieves the highest pairwise win rate among the evaluated AI methods on FML-bench-Lite and BioXArena. In a ten-condition ablation study, MN point estimates favor CAR over one-step proposal on both backbones, but no MN contrast survives correction for multiple comparisons. The results do not establish a consistent quality benefit from explicit operators beyond free-form iteration. CAR makes the sequence of operations and declared literature sources inspectable, separating judged idea quality from procedural traceability."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Samson Yu, Qiran Zou, Jing Yu Lim et al.",
-        "categories": [
-          "cs.CL"
-        ]
-      }
-    },
-    {
-      "id": "a011f731cb849156c37fb11548a4eac4dda0976a5a8716f7cfabdb83a36586de",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Monoculture Robust Learning",
-      "summary": "Monoculture Robust Learning。作者：Lee Cohen, Jon Kleinberg, Omer Reingold。摘要：We introduce a notion of monoculture robustnes",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.24881v1",
-      "publishedAt": "2026-11-18T18:27:52+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "We introduce a notion of monoculture robustness in Probably Approximately Correct (PAC) learning, as a way to mitigate the problem of algorithmic monoculture (Kleinberg and Raghavan, 2021): the tendency of models sharing the same components (e.g., training data) to fail on the same inputs. Specifically, we ask whether a learner with access to a single dataset can output $k$ individually accurate hypotheses whose joint failure probability is comparable to training on $k$ independent datasets. We say that such a learning procedure achieves monoculture robustness, and we quantify this by bounding the conjunctive error that all $k$ hypotheses misclassify points in an individual sense. We design methods for achieving this type of guarantee by drawing a surprising connection between replicability (Impagliazzo et al., 2022) and monoculture robustness. Specifically, we show that if the base learner is $ρ$-replicable, then running it independently $k$ times on the same sample yields individual monoculture error that shrinks exponentially with $k$, controlled by the single-run error of the base learner at the point and $ρ$. We complement these positive results with a lower bound: for individual monoculture robustness, we prove a worst-case lower bound showing that, for learners, driving the individual conjunctive error down to $γ$ can require a sample-size multiplier of $t = Ω(\\log(1/γ))$."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Lee Cohen, Jon Kleinberg, Omer Reingold",
-        "categories": [
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "4f4fcf2ec74d630b0f751359115cca395f426503d95a022df5dd7fa856d00fb4",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Costs",
-      "summary": "Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Costs。作者：Yuzhuo Li, Pasan Gunawardena, Yun",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.24880v1",
-      "publishedAt": "2026-11-18T18:27:40+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Agentic artificial intelligence (AI) is emerging in power electronics, where it drives the simulation loop that engineers used to close largely by hand. In this loop, a converter design, or a study of the network it connects to, is built, run, measured and revised until it satisfies its specification. Such an agent can be served from a cloud API or from an inference device on the premises. For organizations whose designs, customer data or export-controlled material cannot leave the site, and whose simulators are licensed there, local deployment is the natural choice. In such a deployment, the agent becomes an electrical load on the organization's own equipment, i.e., every run consumes power and energy on a local device, generates tokens and takes time. However, existing work focuses mainly on what the agent can achieve with cloud-hosted models. What a local deployment costs in power, energy, tokens and time on real simulation tasks, and what its choices trade against one another, has received little quantitative investigation under comparable conditions. To address this gap, a systematic evaluation framework is presented in this paper. It applies locally served models to agentic power electronics tasks, from the converter level to the system level, and measures their power, energy, token and time costs. Based on these measurements, the capability boundary of a local agent on such tasks and the cost per solved task are characterized. The results are expected to provide practical insight for the use of agentic AI in power electronics and the power systems it serves."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Yuzhuo Li, Pasan Gunawardena, Yunwei Li",
-        "categories": [
-          "cs.AI",
-          "eess.SY"
-        ]
-      }
-    },
-    {
-      "id": "b9c869763deeae43cb067268fc88081e9a69c2b4c7a72050c58ab91cb326e87f",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Auditing black-box clinical prediction models with a large language model through queries alone: a blinded test with planted flaws",
-      "summary": "Auditing black-box clinical prediction models with a large language model through queries alone: a blinded test with pla",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.24877v1",
-      "publishedAt": "2026-11-18T18:24:54+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Large language models (LLMs) are used to explain clinical prediction models, on the promise that they can say what a model computes, find its faults and even reveal new knowledge in it. We tested the three promises where the answers could be checked. From the International Stroke Trial we trained four kinds of model (logistic regression, explainable boosting machine, gradient-boosted trees, neural network) for two outcomes on patients randomised earlier, planted one flaw in each of 24 copies (an under-predicted subgroup, a reversed risk factor or an implausible step) and mixed them with the 8 clean models. GPT-6 Astra audited each model three times, blind, through a tool that only returned the model's predictions; the judging rules were committed before any run and applied by program. Its surrogate models, with a median of 128 terms, reproduced the audited models' log-odds with a mean $R^2$ of 0.976 (0.959 for an additive surrogate of 42 terms fitted by an analyst). It found the planted flaw in 69 of 72 runs (96%; 95% CI 80% to 99%); a script written for the purpose found all 24. It also reported many more problems: 60% of 1,089 checkable reports failed the pre-specified check against the model's average behaviour; post hoc, most of these were real but small steps, and 15% of the checkable reports were not found in the model. Of 601 unexpected relationships it read out of the clean models, 11% held in patients randomised later (random pairs 6%; a regression scan's shorter list of its strongest candidates, 28%); after a check on the training data, 33% against 30%. With query access alone, an LLM can describe a black-box model faithfully and find nearly every planted flaw, as a purpose-written script also did; its reports of problems must be checked on the model and its discoveries on data."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Zhiyu Liu, Xinyu Yang",
-        "categories": [
-          "cs.LG",
-          "cs.AI"
-        ]
-      }
-    },
-    {
-      "id": "7ca709fd0bfa50c6be3ec5694e8e15c7e22192674f13c1d6650d0c76da8da3f0",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "Learning to Interact in Multi-Agent Self-Play for Controllable Autonomous Driving Scenario Generation",
-      "summary": "Learning to Interact in Multi-Agent Self-Play for Controllable Autonomous Driving Scenario Generation。作者：Beyazit Yalcink",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.24876v1",
-      "publishedAt": "2026-11-18T18:23:29+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Large-scale, multi-agent self-play trains robust driving policies effectively in simulation, but controlling these models to generate specific, safety-critical edge cases remains a key challenge. Existing goal-conditioned self-play frameworks rely primarily on static map-location goals and fail to reliably produce complex agent interactions such as aggressive tailgating or adversarial cut-offs. These agent interactions are necessary for rigorous autonomous vehicle (AV) testing. To address this, we present an extended multi-agent self-play framework that introduces agent-relative dynamic goals. By conditioning policies on this extended goal representation, our framework enables targeted, controllable scenario synthesis. We demonstrate that our approach successfully generates interactive driving behaviors that static-goal baselines cannot simulate, providing a flexible tool for long-tail scenario generation in AV testing."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Beyazit Yalcinkaya, Ethan Pronovost, Maximilian Naumann et al.",
-        "categories": [
-          "cs.RO",
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "9713e06a1931d53f387ea518e82fcd5af16179a39931df23e292cdf11c451f78",
-      "module": "ai",
-      "seg": null,
-      "cat": "知识前沿",
-      "title": "TangentPDE: Learning Local Operator Responses with Sparse Finite-Difference Supervision",
-      "summary": "TangentPDE: Learning Local Operator Responses with Sparse Finite-Difference Supervision。作者：Xinjian Xie, Ruxuan Chen, Jia",
-      "source": "arXiv",
-      "sourceUrl": "https://arxiv.org/abs/2611.24873v1",
-      "publishedAt": "2026-11-18T18:23:20+00:00",
-      "tags": [
-        "arxiv",
-        "research"
-      ],
-      "body": [
-        "Neural PDE operators are often optimized through state reconstruction, which largely constrains operator values at observed inputs but does not fully characterize their sensitivity to local perturbations. A more faithful approximation of operator behavior requires not only accurate state predictions, but also correct variations along local perturbation directions. We present TangentPDE, which uses finite differences to approximate directional derivatives and constructs task-relevant finite-step responses from the state outputs of a reference solver at sparse paired inputs. Its objective jointly constrains state fidelity, response-direction alignment, and response-magnitude calibration, thereby learning both operator values and their local variations. Because the response labels are constructed solely from state outputs at paired inputs, the method requires neither explicit derivative labels, linearized or adjoint PDE solves, nor full Jacobians, and remains applicable to nonlinear solvers without derivative interfaces. Building on this, we additionally propose a selectively executed adaptation mechanism to strengthen local operator representations under finite-difference supervision. Budget-matched and correspondence-perturbed controls isolate the effect of relational supervision from improvements attributable to additional state observations or increased data volume. Designed as a plug-and-play training framework, TangentPDE integrates with diverse neural-operator backbones. Across four PDE systems and 20 task-backbone settings, TangentPDE lowers the three-seed mean state error in 18 settings and the corresponding Rollout@20 error in 18, while intrinsic finite-step response gains are strongest on DiffReact and remain task- and backbone-dependent elsewhere."
-      ],
-      "points": [],
-      "live": false,
-      "extra": {
-        "authors": "Xinjian Xie, Ruxuan Chen, Jiashu Li et al.",
-        "categories": [
-          "cs.LG"
-        ]
-      }
-    },
-    {
-      "id": "d9e51e4a78076ca2315b89df239cff34cd35a6a22cc38c3a11a40166b9d0ef3e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Will Wright's next simulation will use AI to mine content from your memories",
-      "summary": "With <em>MyMems</em>, Wright says he wants to \"turn the simulation inward.\"",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
-      "publishedAt": "2026-11-18T18:10:33+00:00",
-      "tags": [
-        "ai-news",
-        "Ars Technica"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f8f0c55d11291b6c4fe6e5dc22209fdad112319d7f31e59efee81a3bfd84b81b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Google’s AI feature in Search gets its own incognito mode",
-      "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or in",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
-      "publishedAt": "2026-11-18T18:04:05+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "02414863c87679640e20ed0f69dd4af9b845f7dafe02a2800387c2caabd3a114",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Disney’s new Star Wars animatronics interact with guests using AI",
-      "summary": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to prede",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
-      "publishedAt": "2026-11-18T17:50:57+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "16a07b902c31d439c598d75f8b1717c61cc016601c01d4ba7a305a0f39949214",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-      "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-      "publishedAt": "2026-11-18T17:32:10+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4addb07a78fa7d771af92e3d23d38c45f7bcf58b8eb1765611fade9e3dfc1129",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
-      "summary": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledgin",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
-      "publishedAt": "2026-11-18T16:59:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "4ae7df14fa6cacfe269342b5c8eec9be386329a3555af08c81a6911713612283",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
-      "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an all",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
-      "publishedAt": "2026-11-18T16:14:09+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "ebd44a8aebc9459460e84cdafbab63985a2e4d0b938b748f1fc2584c00d4ad1d",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Remember the frontier AI pause? Chip companies don’t either",
-      "summary": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Fac",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-      "publishedAt": "2026-11-18T15:44:02+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "0a587043a31dc9b812f71c235aedccdae2870913d24da4ec8a49e2ec86165538",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "publishedAt": "2026-11-18T15:00:23+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "c32b3b344b08a93b600bfa7111b66866a8061d230ae0e4288406397c6686159b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Will Wright’s next game uses AI to map your memories",
-      "summary": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built ar",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
-      "publishedAt": "2026-11-18T14:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f0e48f8ad459417a1d9d37184d4cf29b4ec50f660d5702bdfb9f08d8ef77c73a",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Nvidia isn’t selling any more AI chips to China",
-      "summary": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
-      "publishedAt": "2026-11-18T13:01:05+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d699ff4b25e0ba5923abef0ed90ffc537e2918cdc3c47f7faff5cbb87cc2a470",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
-      "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
-      "publishedAt": "2026-11-18T13:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "9f49b81c27a4617bce1be6afc5976903203d2c90b2d785668f3c091836c86dff",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-      "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI docu",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-      "publishedAt": "2026-11-18T12:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "b897ee7f4aca2e3345d7e84d7cb7a91e2b9e306c3d7797eb5041dbd41b43d12b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
-      "summary": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming f",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-      "publishedAt": "2026-11-18T11:30:00+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "0ddf637248c90b01c3a9ebf3af5c534bc0e585ccd83adbfcfc6175032be871f2",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
-      "summary": "氖人寻味！",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/510922.html",
-      "publishedAt": "2026-11-18T09:41:55+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
       ],
       "body": [],
       "points": [],
