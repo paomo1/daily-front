@@ -1,9 +1,322 @@
 {
-  "generated_at": "2026-11-26T20:49:48.835469+00:00",
-  "date": "2026-11-26",
+  "generated_at": "2026-11-27T09:30:06.877827+00:00",
+  "date": "2026-11-27",
   "keep_days": 7,
-  "count": 288,
+  "count": 281,
   "items": [
+    {
+      "id": "d8e3a7a11f0eb1904f7764f8bc3e6487c894cc926ceb069efbf660da3c453d58",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Ornith-1.5-9B-heretic-GGUF：image-text-to-text 模型更新",
+      "summary": "HuggingFace 主流 image-text-to-text 模型 Thunder13240/Ornith-1.5-9B-heretic-GGUF，14,988 下载，32 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Thunder13240/Ornith-1.5-9B-heretic-GGUF",
+      "publishedAt": "2026-11-27T09:27:27+00:00",
+      "tags": [
+        "huggingface",
+        "image-text-to-text",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 14988,
+        "likes": 32
+      }
+    },
+    {
+      "id": "6e05f332946264e9a158b5c09f06dc6b3f8f05178cb527528a30529e7b278334",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Raon-1-mini-preview-nvfp4：text-generation 模型更新",
+      "summary": "HuggingFace 主流 text-generation 模型 KRAFTON/Raon-1-mini-preview-nvfp4，959 下载，27 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/KRAFTON/Raon-1-mini-preview-nvfp4",
+      "publishedAt": "2026-11-27T09:21:09+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 959,
+        "likes": 27
+      }
+    },
+    {
+      "id": "927b516c5fa0756dbf20f91db6328d40b430e89611636f6850111b61d3208453",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Raon-1-mini-preview-mlx：text-generation 模型更新",
+      "summary": "HuggingFace 主流 text-generation 模型 KRAFTON/Raon-1-mini-preview-mlx，1,628 下载，32 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/KRAFTON/Raon-1-mini-preview-mlx",
+      "publishedAt": "2026-11-27T09:21:05+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1628,
+        "likes": 32
+      }
+    },
+    {
+      "id": "84285353f71057df93070522c11a2a0288c5a459649f28ec5e1f2f3aaa08759f",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Raon-1-mini-preview-gguf：text-generation 模型更新",
+      "summary": "HuggingFace 主流 text-generation 模型 KRAFTON/Raon-1-mini-preview-gguf，30,401 下载，88 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/KRAFTON/Raon-1-mini-preview-gguf",
+      "publishedAt": "2026-11-27T09:21:00+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 30401,
+        "likes": 88
+      }
+    },
+    {
+      "id": "40dc148e689e0a7050e186857f275bb00f6996b88f12b6dce6178db1cd89c8f7",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Raon-1-mini-preview-dflash2：text-generation 模型更新",
+      "summary": "HuggingFace 主流 text-generation 模型 KRAFTON/Raon-1-mini-preview-dflash2，1,120 下载，24 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/KRAFTON/Raon-1-mini-preview-dflash2",
+      "publishedAt": "2026-11-27T09:20:54+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 1120,
+        "likes": 24
+      }
+    },
+    {
+      "id": "92934b24c122011011772ae86ca19afe4f1bf37dcbd8d0c398c9ce9bfbac0b2a",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Raon-1-mini-preview：text-generation 模型更新",
+      "summary": "HuggingFace 主流 text-generation 模型 KRAFTON/Raon-1-mini-preview，3,523 下载，254 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/KRAFTON/Raon-1-mini-preview",
+      "publishedAt": "2026-11-27T09:20:50+00:00",
+      "tags": [
+        "huggingface",
+        "text-generation",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 3523,
+        "likes": 254
+      }
+    },
+    {
+      "id": "a33d76e5ccb2d718702e66ed3a33afaa5d2d630e70206398a6e2f4eeb19d0bea",
+      "module": "ai",
+      "seg": null,
+      "cat": "模型/技术",
+      "title": "Ming-Image：model 模型更新",
+      "summary": "HuggingFace 主流 model 模型 Comfy-Org/Ming-Image，59,270 下载，79 赞",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Comfy-Org/Ming-Image",
+      "publishedAt": "2026-11-27T09:11:22+00:00",
+      "tags": [
+        "huggingface",
+        "model",
+        "popular"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {
+        "downloads": 59270,
+        "likes": 79
+      }
+    },
+    {
+      "id": "e011c95804b4a61fbecd22bec0650ce3a34e2198553089c816c047f1712df561",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
+      "summary": "淡泊名利，实至名归🎉",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/513320.html",
+      "publishedAt": "2026-11-27T07:39:18+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b03431f58882481d4825d76111a2932b00983f0432ae423cea4d50704b5620a3",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "DeepSeek APP突然更新账单，网友：要收费了？",
+      "summary": "网页App双端亮出聊天账单",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/513305.html",
+      "publishedAt": "2026-11-27T07:29:10+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "3bb4c58cf140721f904470e6b3d58e8d137429060d3c73cfaf92c84cd1ec7027",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+      "summary": "地图能随时修，记忆能跨任务用",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/513227.html",
+      "publishedAt": "2026-11-27T07:01:20+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "d5b6ce8e5e8a34232f76b3e07d2241ad016ef025b581d5c805f789251b76467a",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+      "summary": "企业需要有用的 AI",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/513194.html",
+      "publishedAt": "2026-11-27T04:05:56+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "b293fe50d899a6b39fae78783f1ef3a8a54bfc586d00e2ccdfbcbc07be67863f",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+      "summary": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/513211.html",
+      "publishedAt": "2026-11-27T04:05:18+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "8c771e40b84338a7adb957739d36f5ff3b0b87d81120be149721a00e9607c6a2",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+      "summary": "Quickwit查询总耗时降31%，最高降87%",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/513163.html",
+      "publishedAt": "2026-11-27T03:53:49+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "305af1c2ace0f1bbed836f95a272f25075a9d54c05cff5c3149a09a93f12bb1d",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
+      "summary": "3D生成的竞争重点正在从“能看”转向“能用”",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/513155.html",
+      "publishedAt": "2026-11-27T03:45:19+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
+    {
+      "id": "dfdfce5481a97aa222cdf4fc668f8d1749ffaedfdd8fedd0b58eddeee81684da",
+      "module": "ai",
+      "seg": null,
+      "cat": "行业动态",
+      "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+      "summary": "",
+      "source": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/513125.html",
+      "publishedAt": "2026-11-27T03:33:11+00:00",
+      "tags": [
+        "ai-news",
+        "量子位"
+      ],
+      "body": [],
+      "points": [],
+      "live": false,
+      "extra": {}
+    },
     {
       "id": "6734387ac908e3383b2e86abe8929abbd252fb79a5b3a15ca781cbdee63990bc",
       "module": "ai",
@@ -5808,468 +6121,6 @@
       "tags": [
         "ai-news",
         "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d5e4fe82021f9aa5fd2f5952713e3fcbae517e10389c8853170cabca3b2a816e",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "给万卡国产芯装个“超级外挂”！清华团队要造最强国产Token工厂",
-      "summary": "联合华为昇腾，五年冲刺十万卡",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/511679.html",
-      "publishedAt": "2026-11-20T08:59:15+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "3e8b6a55d3e41d5ec56b1f8ae6a96b9d5ecd7292d3d6ff646226aa206471ae16",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "SPEED2-V0-0B7-CPT-SFT-fp8cpt：text-generation 模型更新",
-      "summary": "HuggingFace 主流 text-generation 模型 Shrijanagain/SPEED2-V0-0B7-CPT-SFT-fp8cpt，1,647 下载，3 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Shrijanagain/SPEED2-V0-0B7-CPT-SFT-fp8cpt",
-      "publishedAt": "2026-11-20T08:06:00+00:00",
-      "tags": [
-        "huggingface",
-        "text-generation",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1647,
-        "likes": 3
-      }
-    },
-    {
-      "id": "038f910c0cc5f045b7d950be1e6ca9e60d07d9b198ae5c4bd6b3e9d82dd3c146",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
-      "summary": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/511610.html",
-      "publishedAt": "2026-11-20T08:04:58+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "a64b25d247150e351569cffb471e557699e4618c509fec9b81fea08a6590ab43",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Minimax-H3-VBVR：model 模型更新",
-      "summary": "HuggingFace 主流 model 模型 LiconStudio/Minimax-H3-VBVR，17,567 下载，179 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/LiconStudio/Minimax-H3-VBVR",
-      "publishedAt": "2026-11-20T07:53:21+00:00",
-      "tags": [
-        "huggingface",
-        "model",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 17567,
-        "likes": 179
-      }
-    },
-    {
-      "id": "8a81825cb8ebfe2f61f11f40216df5460de0828a3799aaa8bb538438c81c06b2",
-      "module": "ai",
-      "seg": null,
-      "cat": "模型/技术",
-      "title": "Holo4-27B-GSQ-RCO-GGUF：image-text-to-text 模型更新",
-      "summary": "HuggingFace 主流 image-text-to-text 模型 lavendercomputing/Holo4-27B-GSQ-RCO-GGUF，3,169 下载，0 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/lavendercomputing/Holo4-27B-GSQ-RCO-GGUF",
-      "publishedAt": "2026-11-20T07:52:19+00:00",
-      "tags": [
-        "huggingface",
-        "image-text-to-text",
-        "popular"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 3169,
-        "likes": 0
-      }
-    },
-    {
-      "id": "45f4c3af5d2ef4bb9025c817d98596b97bab2d7d28dfb1ccea7e49f7c8779617",
-      "module": "ai",
-      "seg": null,
-      "cat": "厂商动态·阿里通义千问",
-      "title": "阿里通义千问 发布/更新 Qwen2-VL-2B-Instruct（image-text-to-text）",
-      "summary": "阿里通义千问（HF 作者 Qwen）发布/更新模型 Qwen/Qwen2-VL-2B-Instruct，925,323 下载，531 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct",
-      "publishedAt": "2026-11-20T06:46:42+00:00",
-      "tags": [
-        "huggingface",
-        "vendor",
-        "Qwen"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 925323,
-        "likes": 531,
-        "vendor": "阿里通义千问"
-      }
-    },
-    {
-      "id": "4cfcf0fff8769727c3b783f53793279ba4d71b239200b19cf3501b4df6e66d08",
-      "module": "ai",
-      "seg": null,
-      "cat": "厂商动态·阿里通义千问",
-      "title": "阿里通义千问 发布/更新 Qwen3.6-27B（image-text-to-text）",
-      "summary": "阿里通义千问（HF 作者 Qwen）发布/更新模型 Qwen/Qwen3.6-27B，2,476,544 下载，2359 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Qwen/Qwen3.6-27B",
-      "publishedAt": "2026-11-20T06:46:39+00:00",
-      "tags": [
-        "huggingface",
-        "vendor",
-        "Qwen"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 2476544,
-        "likes": 2359,
-        "vendor": "阿里通义千问"
-      }
-    },
-    {
-      "id": "85da8d61aa434098108e051541e08f10f7ddf9d4300dfd50e91e9ed3acbf34bb",
-      "module": "ai",
-      "seg": null,
-      "cat": "厂商动态·阿里通义千问",
-      "title": "阿里通义千问 发布/更新 Qwen3.5-27B（image-text-to-text）",
-      "summary": "阿里通义千问（HF 作者 Qwen）发布/更新模型 Qwen/Qwen3.5-27B，1,678,787 下载，1093 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Qwen/Qwen3.5-27B",
-      "publishedAt": "2026-11-20T06:46:35+00:00",
-      "tags": [
-        "huggingface",
-        "vendor",
-        "Qwen"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 1678787,
-        "likes": 1093,
-        "vendor": "阿里通义千问"
-      }
-    },
-    {
-      "id": "c03d56fe396736ae4c318a72221f4e470f2b6bbdb479f6525f0982f50dce8b5f",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
-      "summary": "11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/511603.html",
-      "publishedAt": "2026-11-20T06:16:06+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "0e54d1be89ac9a7d083d79f98a0a34c60832ef247f0b841c16799eac1fac0096",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
-      "summary": "已开源Agnes Harness",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/511582.html",
-      "publishedAt": "2026-11-20T05:24:11+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "d46d1de0d7bb43fd98e1ab62065e3659249f979a343774f0d530b046fe56239c",
-      "module": "lol",
-      "seg": "rune",
-      "cat": "海斗资讯",
-      "title": "英雄联盟黑科技之扰民流人马",
-      "summary": "UP主 慕白-美来推 · 486播放 · 0:18",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117647089866819",
-      "publishedAt": "2026-11-20T05:23:50+00:00",
-      "tags": [
-        "lol",
-        "rune",
-        "英雄联盟 海斗 黑科技 上分"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "慕白-美来推",
-        "play": 486,
-        "bvid": "BV1Dfsq69ERw",
-        "duration": "0:18"
-      }
-    },
-    {
-      "id": "f5480dcf394891168257a73be0b685c88d42eef4c41eaf3ac9bbb50d5cf151db",
-      "module": "lol",
-      "seg": "tft",
-      "cat": "云顶之弈",
-      "title": "云顶S19新赛季测试服赌二费阵容吃鸡全流程",
-      "summary": "UP主 氷釰杺 · 23播放 · 41:2",
-      "source": "哔哩哔哩",
-      "sourceUrl": "http://www.bilibili.com/video/av117646972491472",
-      "publishedAt": "2026-11-20T04:58:58+00:00",
-      "tags": [
-        "lol",
-        "tft",
-        "云顶之弈 阵容 攻略 S级"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "author": "氷釰杺",
-        "play": 23,
-        "bvid": "BV1LQsq68EW7",
-        "duration": "41:2"
-      }
-    },
-    {
-      "id": "41bc141e699b0f7bf43caccf47c82503cfb415519037f51f56d326a78f299c46",
-      "module": "ai",
-      "seg": null,
-      "cat": "厂商动态·Kimi/月之暗面",
-      "title": "Kimi/月之暗面 发布/更新 Kimi-K2.5（image-text-to-text）",
-      "summary": "Kimi/月之暗面（HF 作者 moonshotai）发布/更新模型 moonshotai/Kimi-K2.5，391,280 下载，2902 赞",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/moonshotai/Kimi-K2.5",
-      "publishedAt": "2026-11-20T02:36:04+00:00",
-      "tags": [
-        "huggingface",
-        "vendor",
-        "moonshotai"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {
-        "downloads": 391280,
-        "likes": 2902,
-        "vendor": "Kimi/月之暗面"
-      }
-    },
-    {
-      "id": "4da3b91240e2fbd8de8141fb92fb99fb7bc351da66d36a20e864e9b7b340642b",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
-      "summary": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
-      "source": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/511426.html",
-      "publishedAt": "2026-11-20T01:07:38+00:00",
-      "tags": [
-        "ai-news",
-        "量子位"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "13f09646ec0fb7504877dcfff5e9a02aac10a2ad025a755415c8ceb76374949c",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenA",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "publishedAt": "2026-11-20T00:56:01+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "f6a08e8caa4c9a8bc3622b8af80f880b7a86c7d112f4fa7853fbd4e6e8f6b7f7",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nea",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "publishedAt": "2026-11-20T00:43:50+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "934e7743225ca36bde94eb552f5790d5f12fc3bd5e9fce70a82f6f69e92bb35c",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/harness-adapters-at-scale",
-      "publishedAt": "2026-11-20T00:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "72ac0b6ec15bf2d030472d95972cbb32c0a6327bd618b35220cb84e83682e1d8",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "summary": "",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/inkling2mini",
-      "publishedAt": "2026-11-20T00:00:00+00:00",
-      "tags": [
-        "ai-news",
-        "HuggingFace Blog"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "07cb6eca8dd8c330cc6740d090b3d5b7ef9821875b900b7fb5c0893d6bab644d",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working acro",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "publishedAt": "2026-11-19T22:31:41+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "06a3a59de883968459a3d9b50f1a1969d57f6a28d4492ce53319cb5c3db03134",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "A brief history of Nvidia’s recent stock fluctuations",
-      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company'",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-      "publishedAt": "2026-11-19T21:59:35+00:00",
-      "tags": [
-        "ai-news",
-        "The Verge"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "3a047fa4794249149edbd840cfb77ed2000edbbd5df9eb0bba32e78d5ad38e53",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upco",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "publishedAt": "2026-11-19T21:58:06+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
-      ],
-      "body": [],
-      "points": [],
-      "live": false,
-      "extra": {}
-    },
-    {
-      "id": "3c558bc3b235a04872733798fa463a7a08e5cc307d324c24f6b444da9904aa15",
-      "module": "ai",
-      "seg": null,
-      "cat": "行业动态",
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidenc",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-      "publishedAt": "2026-11-19T21:42:31+00:00",
-      "tags": [
-        "ai-news",
-        "TechCrunch"
       ],
       "body": [],
       "points": [],
