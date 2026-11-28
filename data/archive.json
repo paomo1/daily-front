@@ -104071,5 +104071,279 @@
       "bvid": "BV1nc1xzqEEi",
       "duration": "37:33"
     }
+  },
+  "baadaaeb834da6d8af171f00ea1639ead0f2944620f6049ac91c44f8918d9f89": {
+    "id": "baadaaeb834da6d8af171f00ea1639ead0f2944620f6049ac91c44f8918d9f89",
+    "module": "ai",
+    "seg": null,
+    "cat": "行业动态",
+    "title": "亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛",
+    "summary": "这种大模型现做的即时交互工具，能不能来一波知识付费？",
+    "source": "量子位",
+    "sourceUrl": "https://www.qbitai.com/2026/11/513428.html",
+    "publishedAt": "2026-11-28T05:54:46+00:00",
+    "tags": [
+      "ai-news",
+      "量子位"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {}
+  },
+  "1eb7dd9a27d8c0e0ae80c88567b25601f02744221e2ff01d5a1219df5cc632fe": {
+    "id": "1eb7dd9a27d8c0e0ae80c88567b25601f02744221e2ff01d5a1219df5cc632fe",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "hdit-plus-128px-cc12m-json：text-to-image 模型更新",
+    "summary": "HuggingFace 主流 text-to-image 模型 SimpleTuner/hdit-plus-128px-cc12m-json，1,111 下载，0 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/SimpleTuner/hdit-plus-128px-cc12m-json",
+    "publishedAt": "2026-11-28T08:41:33+00:00",
+    "tags": [
+      "huggingface",
+      "text-to-image",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1111,
+      "likes": 0
+    }
+  },
+  "137e1c0946e50b6726ac4c30cef2c5c267ed32d50913e1b793d4976055b6902c": {
+    "id": "137e1c0946e50b6726ac4c30cef2c5c267ed32d50913e1b793d4976055b6902c",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Spark-X2.6-4B：text-generation 模型更新",
+    "summary": "HuggingFace 主流 text-generation 模型 litert-community/Spark-X2.6-4B，1,374 下载，3 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/litert-community/Spark-X2.6-4B",
+    "publishedAt": "2026-11-28T08:38:52+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1374,
+      "likes": 3
+    }
+  },
+  "6999eee52d09b86b0ca423b50885ab58106350434c3b0b51d66cd294c3527470": {
+    "id": "6999eee52d09b86b0ca423b50885ab58106350434c3b0b51d66cd294c3527470",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Qwen3.5-9B：text-generation 模型更新",
+    "summary": "HuggingFace 主流 text-generation 模型 litert-community/Qwen3.5-9B，2,498 下载，2 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/litert-community/Qwen3.5-9B",
+    "publishedAt": "2026-11-28T08:38:46+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 2498,
+      "likes": 2
+    }
+  },
+  "64bdcc950acf0ca26afc447318d43b6d649efb050f72b60cc58ad4c393db3f0c": {
+    "id": "64bdcc950acf0ca26afc447318d43b6d649efb050f72b60cc58ad4c393db3f0c",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Qwen3.5-35B-A3B：text-generation 模型更新",
+    "summary": "HuggingFace 主流 text-generation 模型 litert-community/Qwen3.5-35B-A3B，3,237 下载，0 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/litert-community/Qwen3.5-35B-A3B",
+    "publishedAt": "2026-11-28T08:38:41+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 3237,
+      "likes": 0
+    }
+  },
+  "692adc293ceae8b3fed289ccc239ce396cd29bf00c551cb81aac9fcbad7c8e8e": {
+    "id": "692adc293ceae8b3fed289ccc239ce396cd29bf00c551cb81aac9fcbad7c8e8e",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "Qwen3-ASR-1.7B：automatic-speech-recognition 模型更新",
+    "summary": "HuggingFace 主流 automatic-speech-recognition 模型 litert-community/Qwen3-ASR-1.7B，2,304 下载，3 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/litert-community/Qwen3-ASR-1.7B",
+    "publishedAt": "2026-11-28T08:38:35+00:00",
+    "tags": [
+      "huggingface",
+      "automatic-speech-recognition",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 2304,
+      "likes": 3
+    }
+  },
+  "977766977ef4953320a9691613da27b9fa0da51d4e6c069ac696cfe760793846": {
+    "id": "977766977ef4953320a9691613da27b9fa0da51d4e6c069ac696cfe760793846",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "MNN-Pocket-0.3B：text-generation 模型更新",
+    "summary": "HuggingFace 主流 text-generation 模型 litert-community/MNN-Pocket-0.3B，1,598 下载，1 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/litert-community/MNN-Pocket-0.3B",
+    "publishedAt": "2026-11-28T08:37:58+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1598,
+      "likes": 1
+    }
+  },
+  "e79d89711dd95fc81fb0899762b48c6f9623aac3dcb3540b32866214b97cd947": {
+    "id": "e79d89711dd95fc81fb0899762b48c6f9623aac3dcb3540b32866214b97cd947",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "LFM3-VL-2B-LiteRT：image-text-to-text 模型更新",
+    "summary": "HuggingFace 主流 image-text-to-text 模型 litert-community/LFM3-VL-2B-LiteRT，2,082 下载，5 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/litert-community/LFM3-VL-2B-LiteRT",
+    "publishedAt": "2026-11-28T08:37:53+00:00",
+    "tags": [
+      "huggingface",
+      "image-text-to-text",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 2082,
+      "likes": 5
+    }
+  },
+  "400b72435cf235b900466ddd864e3be5a8608e0630f2ee5c9f07e5a7c7210ef0": {
+    "id": "400b72435cf235b900466ddd864e3be5a8608e0630f2ee5c9f07e5a7c7210ef0",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "LFM3-Omni-2B-LiteRT：any-to-any 模型更新",
+    "summary": "HuggingFace 主流 any-to-any 模型 litert-community/LFM3-Omni-2B-LiteRT，617 下载，14 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/litert-community/LFM3-Omni-2B-LiteRT",
+    "publishedAt": "2026-11-28T08:37:47+00:00",
+    "tags": [
+      "huggingface",
+      "any-to-any",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 617,
+      "likes": 14
+    }
+  },
+  "26bb1349593c5fe54f0b2571625f54909def12e30d69ae4b815bceca2dae83e7": {
+    "id": "26bb1349593c5fe54f0b2571625f54909def12e30d69ae4b815bceca2dae83e7",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "LFM2.5-350M：text-generation 模型更新",
+    "summary": "HuggingFace 主流 text-generation 模型 litert-community/LFM2.5-350M，1,338 下载，1 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/litert-community/LFM2.5-350M",
+    "publishedAt": "2026-11-28T08:37:42+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1338,
+      "likes": 1
+    }
+  },
+  "5fdcdb4fefb1ff5825dfb76445048d587c76629d3d8955b29eb2fdd1073a88b8": {
+    "id": "5fdcdb4fefb1ff5825dfb76445048d587c76629d3d8955b29eb2fdd1073a88b8",
+    "module": "ai",
+    "seg": null,
+    "cat": "模型/技术",
+    "title": "LFM2-700M：text-generation 模型更新",
+    "summary": "HuggingFace 主流 text-generation 模型 litert-community/LFM2-700M，1,002 下载，2 赞",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/litert-community/LFM2-700M",
+    "publishedAt": "2026-11-28T08:37:36+00:00",
+    "tags": [
+      "huggingface",
+      "text-generation",
+      "popular"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "downloads": 1002,
+      "likes": 2
+    }
+  },
+  "155ac09321d15084e186994b737ac185d167bbfc758c28f8082cb6e89206e85c": {
+    "id": "155ac09321d15084e186994b737ac185d167bbfc758c28f8082cb6e89206e85c",
+    "module": "lol",
+    "seg": "tft",
+    "cat": "云顶之弈",
+    "title": "【云顶笔记】S19重新出发，分享一个给自己做的阵容笔记网页",
+    "summary": "UP主 诛仙剑下伤心花 · 139播放 · 2:34",
+    "source": "哔哩哔哩",
+    "sourceUrl": "http://www.bilibili.com/video/av117692942065296",
+    "publishedAt": "2026-11-28T07:45:36+00:00",
+    "tags": [
+      "lol",
+      "tft",
+      "云顶之弈 阵容 攻略 S级"
+    ],
+    "body": [],
+    "points": [],
+    "live": false,
+    "extra": {
+      "author": "诛仙剑下伤心花",
+      "play": 139,
+      "bvid": "BV1Du1MzME8N",
+      "duration": "2:34"
+    }
   }
 }
